@@ -1,10 +1,48 @@
 spot,price,state,buyer
+Atlanta Falcons,15.0,SOLD,roland42004
 Dallas Cowboys,24.0,SOLD,bobofboom
+Detroit Lions,14.0,SOLD,torius82
+New England Patriots,14.0,SOLD,buzzufo
+New Orleans Saints,15.0,SOLD,that_wildcat_guy
+New York Giants,14.0,SOLD,boxbreakcorner
+New York Jets,8.0,SOLD,tampa_greg
 Seattle Seahawks,2.0,SOLD,bobofboom
+Tampa Bay Buccaneers,15.0,SOLD,tampa_greg
 Oregon,17.0,SOLD,fabhup
 Ohio State,15.0,SOLD,tampa_greg
 Notre Dame,13.0,SOLD,fabhup
 Ole Miss,12.0,SOLD,nrw_vikings
+Michigan,9.0,SOLD,torius82
 Miami,9.0,SOLD,tampa_greg
 BYU,12.0,SOLD,tampa_greg
 "ACC, Big 12 & Rest",29.0,SOLD,tampa_greg
+Arizona Cardinals,19.0,OPEN,
+Baltimore Ravens,15.0,OPEN,
+Buffalo Bills,15.0,OPEN,
+Carolina Panthers,15.0,OPEN,
+Chicago Bears,15.0,OPEN,
+Cincinnati Bengals,15.0,OPEN,
+Cleveland Browns,9.0,OPEN,
+Denver Broncos,25.0,OPEN,
+Green Bay Packers,19.0,OPEN,
+Houston Texans,7.0,OPEN,
+Indianapolis Colts,15.0,OPEN,
+Jacksonville Jaguars,6.0,OPEN,
+Kansas City Chiefs,8.0,OPEN,
+Las Vegas Raiders,19.0,OPEN,
+Los Angeles Chargers,15.0,OPEN,
+Los Angeles Rams,25.0,OPEN,
+Miami Dolphins,9.0,OPEN,
+Minnesota Vikings,19.0,OPEN,
+Philadelphia Eagles,9.0,OPEN,
+Pittsburgh Steelers,19.0,OPEN,
+San Francisco 49ers,19.0,OPEN,
+Tennessee Titans,15.0,OPEN,
+Washington Commanders,8.0,OPEN,
+USC,9.0,OPEN,
+Alabama,9.0,OPEN,
+Oklahoma,9.0,OPEN,
+Georgia,9.0,OPEN,
+Texas,9.0,OPEN,
+LSU,9.0,OPEN,
+SEC & Big Ten Rest,35.0,OPEN,
