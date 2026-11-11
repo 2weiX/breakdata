@@ -42,15 +42,18 @@ may be wrong; the `wn_` columns are the source of truth.
 wn_filled_break_spots, wn_total_break_spots, product, seller, title, boxes, box_kind,
 take_eur, asks_eur, first_seen, spots_file, sha1`
 
+Counts below are **322 boards / 10,930 spot rows, as of 11 Nov 2026 19:40 UTC**. They go
+stale every time the watch runs; the date is here so you can tell. Recompute, don't trust.
+
 | Field | Values | Notes |
 |---|---|---|
-| `break_id` | integer | Whatnot's own id. Resolves via `getBreak` from any seller, forever — all 312 re-resolved with zero misses, including October boards. |
-| `wn_format` | `PICK_YOUR` 222, `RANDOM` 89, `MYSTERY` 1 | `RANDOM` spots are lottery tickets, not team prices — exclude from per-team statistics |
-| `wn_spot_type` | `TEAM` 237, `CUSTOM` 70, `DIVISION` 5 | `CUSTOM` is player/college/mixed; needs summing to team level before it contributes |
-| `wn_transaction_type` | `BUY_IT_NOW` 221, `AUCTION` 91 | use this; do not infer mechanic from price spread |
-| `wn_status` | `completed` 194, `breaking` 96, `filling` 21, `cancelled` 1 | per-unit statistics should require a sold-out board |
-| `wn_sold_spot_count` vs `wn_filled_break_spots` | differ on 35 breaks | filled includes spots that are not sold; use `sold` for market stats |
-| `boxes` | present on 234 of 312 | parsed from the title. **Weakest column here** — it feeds every per-box number |
+| `break_id` | integer | Whatnot's own id. Resolves via `getBreak` from any seller, forever — every board in the ledger has re-resolved with zero misses, including August boards. |
+| `wn_format` | `PICK_YOUR` 235, `RANDOM` 87 | `RANDOM` spots are lottery tickets, not team prices — exclude from per-team statistics. (`MYSTERY` appeared once and left with the non-football boards.) |
+| `wn_spot_type` | `TEAM` 251, `CUSTOM` 65, `DIVISION` 6 | `CUSTOM` is player/college/mixed; needs summing to team level before it contributes |
+| `wn_transaction_type` | `BUY_IT_NOW` 230, `AUCTION` 92 | use this; do not infer mechanic from price spread |
+| `wn_status` | `completed` 187, `breaking` 95, `filling` 39, `cancelled` 1 | per-unit statistics should require a sold-out board. `breaking` is sticky — boards sit in it long after the show ends, so it does not mean live. |
+| `wn_sold_spot_count` vs `wn_filled_break_spots` | differ on 37 breaks | filled includes spots that are not sold; use `sold` for market stats. `sold` can also fall between pulls, and can read 0 on a board with sold rows — see `docs/watch-run-notes.md`. |
+| `boxes` | present on 234 of 322 | parsed from the title by the private repo's build chain, which the watch does not run, so rows the watch adds land blank. **Weakest column here** — it feeds every per-box number |
 | `first_seen` | date | when this ledger first saw the board, *not* when Whatnot created it |
 | `sha1` | 12 hex | of the spot file; unchanged hash means unchanged board, skip without parsing |
 
