@@ -1,25 +1,41 @@
 spot,price,state,buyer
+Arizona Cardinals: Jeremiyah Love (RC) (10 Autos),36,SOLD,stormy_cardz84
+Arizona Cardinals: Carson Beck (RC) (8 Autos),27,SOLD,juliolds523
 Atlanta Falcons: Zachariah Branch (RC) (4 Autos),3,SOLD,stevens030
+Baltimore Ravens: Ja'Kobi Lane (RC) (4 Autos),11,SOLD,footballcardsde
 Baltimore Ravens: Elijah Sarratt (RC) (4 Autos),5,SOLD,footballcardsde
+Buffalo Bills: Skyler Bell (RC) (2 Autos),13,SOLD,rayray34
 Carolina Panthers: Chris Brazzell II (RC) (5 Autos),8,SOLD,flo84
 Chicago Bears: Zavion Thomas (RC) (3 Autos),5,SOLD,florianmar
+Cleveland Browns: KC Concepcion (RC) (6 Autos),23,SOLD,bartolone
+Cleveland Browns: Denzel Boston (RC) (5 Autos),27,SOLD,stormy_cardz84
 Cleveland Browns: Taylen Green (RC) (2 Autos),3,SOLD,ricknickcards
+Dallas Cowboys: Caleb Downs (RC) (7 Autos),26,SOLD,stefanj04
 Denver Broncos: Jonah Coleman (RC) (4 Autos),3,SOLD,marcothi
 Kansas City Chiefs: Garrett Nussmeier (RC) (6 Autos),11,SOLD,chrisrlz
 Kansas City Chiefs: Emmett Johnson (RC) (6 Autos),19,SOLD,chrisrlz
 Kansas City Chiefs: Mansoor Delane (RC) (3 Autos),14,SOLD,chrisrlz
+Las Vegas Raiders: Fernando Mendoza (RC) (8 Autos),99,SOLD,1pepe
 Las Vegas Raiders: Mike Washington Jr. (RC) (4 Autos),18,SOLD,stormy_cardz84
 Las Vegas Raiders: Jermod McCoy (RC) (2 Autos),5,SOLD,pulledbyluck
+Los Angeles Rams: Ty Simpson (RC) (10 Autos),35,SOLD,dustin_r95
 Los Angeles Rams: Max Klare (RC) (6 Autos),5,SOLD,1pepe
+Miami Dolphins: Chris Bell (RC) (5 Autos),10,SOLD,rayray34
 Miami Dolphins: Caleb Douglas (RC) (3 Autos),6,SOLD,matthiasradakovits83
 Miami Dolphins: Kadyn Proctor (RC) (1 Auto),2,SOLD,lacostpair
 Minnesota Vikings: Demond Claiborne (RC) (1 Auto),3,SOLD,adamgarai
+New Orleans Saints: Jordyn Tyson (RC) (8 Autos),28,SOLD,ricknickcards
 New York Giants: Arvell Reese (RC) (7 Autos),21,SOLD,boxbreakcorner
 New York Giants: Malachi Fields (RC) (3 Autos),3,SOLD,1pepe
 New York Giants: Francis Mauigoa (RC) (2 Autos),5,SOLD,cardrelic
+New York Jets: Kenyon Sadiq (RC) (3 Autos),19,SOLD,schari87xxx
+New York Jets: David Bailey (RC) (7 Autos),23,SOLD,alexandrughe07757
+New York Jets: Omar Cooper Jr. (RC) (4 Autos),10,SOLD,schari87xxx
 New York Jets: Cade Klubnik (RC) (5 Autos),12,SOLD,1pepe
+Philadelphia Eagles: Makai Lemon (RC) (10 Autos),27,SOLD,haryhar46370
 Philadelphia Eagles: Eli Stowers (RC) (3 Autos),7,SOLD,1pepe
 Philadelphia Eagles: Cole Payton (RC) (6 Autos),11,SOLD,stevens030
+Pittsburgh Steelers: Drew Allar (RC) (7 Autos),24,SOLD,haryhar46370
 Pittsburgh Steelers: Germie Bernard (RC) (6 Autos),20,SOLD,ccrod90
 San Francisco 49ers: De'Zhaun Stribling (RC) (3 Autos),19,SOLD,fieman007
 San Francisco 49ers: Kaelon Black (RC) (5 Autos),17,SOLD,ernie474
@@ -27,15 +43,21 @@ Seattle Seahawks: Jadarian Price (RC) (5 Autos),18,SOLD,lfi97
 Tampa Bay Buccaneers: Rueben Bain Jr. (RC) (2 Autos),5,SOLD,boxbreakcorner
 Tampa Bay Buccaneers: Ted Hurst (RC) (3 Autos),6,SOLD,matthiasradakovits83
 Tennessee Titans: Nick Singleton (RC) (5 Autos),8,SOLD,rayray34
+Tennessee Titans: Carnell Tate (RC) (10 Autos),35,SOLD,bartolone
 Tennessee Titans: Keldric Faulk (RC) (2 Autos),3,SOLD,kevcollects2118
+Washington Commanders: Sonny Styles (RC) (7 Autos),36,SOLD,alexandrughe07757
 Washington Commanders: Antonio Williams (RC) (3 Autos),4,SOLD,stevens030
 Houston Texans: Kayden McDonald (RC) (1 Auto),4,SOLD,1pepe
 Arizona Cardinals Rest: 5 Base,6,SOLD,zonedfence
 Atlanta Falcons Rest: 5 Base,3,SOLD,lfi97
 "Baltimore Ravens Rest: 5 Base, Derrick Henry (1 Auto), Ed Reed (1 Auto)",13,SOLD,footballcardsde
+"Buffalo Bills Rest (4 Base, Jim Kelly (1 Auto), Josh Allen (1 Auto))",26,SOLD,rayray34
+Chicago Bears: Caleb Williams (2 Autos),25,SOLD,bjwormuth
+"Chicago Bears Rest: 2 Base, Colston Loveland (1 Auto), Jim McMahon (1 Auto), Luther Burden III (1 Auto)",56,SOLD,bjwormuth
 Cincinnati Bengals Full Team: 4 Base,9,SOLD,1pepe
 "Cleveland Browns Rest: 2 Base, Quinshon Judkins (1 Auto)",3,SOLD,sifis82
 "Dallas Cowboys Rest: 3 Base, Michael Irvin (1 Auto)",3,SOLD,t1mtei
+Denver Broncos: Bo Nix (1 Auto),16,SOLD,haryhar46370
 "Denver Broncos Rest: 3 Base, Pat Surtain II (1 Auto), Terrell Davis (1 Auto)",6,SOLD,jrghar93645
 "Detroit Lions Rest: 5 Base, Barry Sanders (1 Auto)",6,SOLD,t1mtei
 "Green Bay Packers Full Team: 4 Base, Josh Jacobs (1 Auto), Sterling Sharpe (1 Auto)",17,SOLD,matthiasradakovits83
@@ -51,6 +73,8 @@ Las Vegas Raiders: Ashton Jeanty (2 Autos),11,SOLD,stormy_cardz84
 "Los Angeles Rams Rest: 4 Base, Aaron Donald (1 Auto), Puka Nacua (1 Auto)",10,SOLD,t1mtei
 "Miami Dolphins Rest: 2 Base, Dan Marino (1 Auto)",4,SOLD,t1mtei
 "Minnesota Vikings Rest: 4 Base, Adrian Peterson (1 Auto)",6,SOLD,adamgarai
+New England Patriots: Tom Brady (1 Auto),31,SOLD,bartolone
+"New England Patriots Rest: 2 Base, Drake Maye (2 Autos)",21,SOLD,alexale99
 "New Orleans Saints Rest: 5 Base, Tyler Shough (1 Auto)",6,SOLD,matthiasradakovits83
 "New York Giants Rest: 2 Base, Jaxson Dart (2 Autos), Malik Nabers (1 Auto), Michael Strahan (1 Auto)",19,SOLD,cardrelic
 New York Jets Rest (3 Base),4,SOLD,funkypat
@@ -62,27 +86,3 @@ New York Jets Rest (3 Base),4,SOLD,funkypat
 "Tennessee Titans Rest (2 Base, Cam Ward (2 Autos))",8,SOLD,jimmy12355
 "Washington Commanders Rest (2 Base, Jayden Daniels (1 Auto))",5,SOLD,marcothi
 Carolina Panthers Rest (4 Base),1,SOLD,marcothi
-Arizona Cardinals: Jeremiyah Love (RC) (10 Autos),1,OPEN,
-Arizona Cardinals: Carson Beck (RC) (8 Autos),1,OPEN,
-Baltimore Ravens: Ja'Kobi Lane (RC) (4 Autos),1,OPEN,
-Buffalo Bills: Skyler Bell (RC) (2 Autos),1,OPEN,
-Cleveland Browns: KC Concepcion (RC) (6 Autos),1,OPEN,
-Cleveland Browns: Denzel Boston (RC) (5 Autos),1,OPEN,
-Dallas Cowboys: Caleb Downs (RC) (7 Autos),1,OPEN,
-Las Vegas Raiders: Fernando Mendoza (RC) (8 Autos),1,OPEN,
-Los Angeles Rams: Ty Simpson (RC) (10 Autos),1,OPEN,
-Miami Dolphins: Chris Bell (RC) (5 Autos),1,OPEN,
-New Orleans Saints: Jordyn Tyson (RC) (8 Autos),1,OPEN,
-New York Jets: Kenyon Sadiq (RC) (3 Autos),1,OPEN,
-New York Jets: David Bailey (RC) (7 Autos),1,OPEN,
-New York Jets: Omar Cooper Jr. (RC) (4 Autos),1,OPEN,
-Philadelphia Eagles: Makai Lemon (RC) (10 Autos),1,OPEN,
-Pittsburgh Steelers: Drew Allar (RC) (7 Autos),1,OPEN,
-Tennessee Titans: Carnell Tate (RC) (10 Autos),1,OPEN,
-Washington Commanders: Sonny Styles (RC) (7 Autos),1,OPEN,
-"Buffalo Bills Rest (4 Base, Jim Kelly (1 Auto), Josh Allen (1 Auto))",1,OPEN,
-Chicago Bears: Caleb Williams (2 Autos),1,OPEN,
-"Chicago Bears Rest: 2 Base, Colston Loveland (1 Auto), Jim McMahon (1 Auto), Luther Burden III (1 Auto)",1,OPEN,
-Denver Broncos: Bo Nix (1 Auto),1,OPEN,
-New England Patriots: Tom Brady (1 Auto),1,OPEN,
-"New England Patriots Rest: 2 Base, Drake Maye (2 Autos)",1,OPEN,
