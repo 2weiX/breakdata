@@ -1,33 +1,33 @@
 spot,price,state,buyer
-Chicago Bears,44.0,SOLD,bjwormuth
-Denver Broncos,35.0,SOLD,oldmanoli
-Green Bay Packers,12.0,SOLD,finstephan
-Indianapolis Colts,19.0,SOLD,oldmanoli
-New York Jets,49.0,SOLD,tampa_greg
-Tampa Bay Buccaneers,29.0,SOLD,tampa_greg
-Arizona Cardinals,69.0,OPEN,
-Atlanta Falcons,25.0,OPEN,
-Baltimore Ravens,25.0,OPEN,
-Buffalo Bills,45.0,OPEN,
-Carolina Panthers,25.0,OPEN,
-Cincinnati Bengals,15.0,OPEN,
-Cleveland Browns,49.0,OPEN,
-Dallas Cowboys,39.0,OPEN,
-Detroit Lions,15.0,OPEN,
-Houston Texans,15.0,OPEN,
-Jacksonville Jaguars,15.0,OPEN,
-Kansas City Chiefs,59.0,OPEN,
-Las Vegas Raiders,109.0,OPEN,
-Los Angeles Chargers,19.0,OPEN,
-Los Angeles Rams,69.0,OPEN,
-Miami Dolphins,29.0,OPEN,
-Minnesota Vikings,19.0,OPEN,
-New England Patriots,69.0,OPEN,
-New Orleans Saints,45.0,OPEN,
-New York Giants,59.0,OPEN,
-Philadelphia Eagles,49.0,OPEN,
-Pittsburgh Steelers,45.0,OPEN,
-San Francisco 49ers,45.0,OPEN,
-Seattle Seahawks,39.0,OPEN,
-Tennessee Titans,45.0,OPEN,
-Washington Commanders,39.0,OPEN,
+Chicago Bears,44,SOLD,bjwormuth
+Denver Broncos,35,SOLD,oldmanoli
+Green Bay Packers,12,SOLD,finstephan
+Indianapolis Colts,19,SOLD,oldmanoli
+New York Jets,49,SOLD,tampa_greg
+Tampa Bay Buccaneers,29,SOLD,tampa_greg
+Arizona Cardinals,69,OPEN,
+Atlanta Falcons,25,OPEN,
+Baltimore Ravens,25,OPEN,
+Buffalo Bills,45,OPEN,
+Carolina Panthers,25,OPEN,
+Cincinnati Bengals,15,OPEN,
+Cleveland Browns,49,OPEN,
+Dallas Cowboys,39,OPEN,
+Detroit Lions,15,OPEN,
+Houston Texans,15,OPEN,
+Jacksonville Jaguars,15,OPEN,
+Kansas City Chiefs,59,OPEN,
+Las Vegas Raiders,109,OPEN,
+Los Angeles Chargers,19,OPEN,
+Los Angeles Rams,69,OPEN,
+Miami Dolphins,29,OPEN,
+Minnesota Vikings,19,OPEN,
+New England Patriots,69,OPEN,
+New Orleans Saints,45,OPEN,
+New York Giants,59,OPEN,
+Philadelphia Eagles,49,OPEN,
+Pittsburgh Steelers,45,OPEN,
+San Francisco 49ers,45,OPEN,
+Seattle Seahawks,39,OPEN,
+Tennessee Titans,45,OPEN,
+Washington Commanders,39,OPEN,

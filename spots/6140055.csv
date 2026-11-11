@@ -1,33 +1,33 @@
 spot,price,state,buyer
+Atlanta Falcons,9,SOLD,jobar77
 Baltimore Ravens,14,SOLD,kawara
+Buffalo Bills,24,SOLD,dorianjon1605
+Carolina Panthers,10,SOLD,jobar77
 Chicago Bears,20,SOLD,jnale
 Dallas Cowboys,15,SOLD,valentino2104
 Detroit Lions,13.5,SOLD,jnale
 Green Bay Packers,15.3,SOLD,phil913
 Houston Texans,9,SOLD,dennislb
 Indianapolis Colts,8.5,SOLD,jnale
+Jacksonville Jaguars,10,SOLD,jobar77
 Kansas City Chiefs,30,SOLD,chrissi999
+Los Angeles Chargers,7,SOLD,jobar77
+Minnesota Vikings,10,SOLD,dorianjon1605
 New Orleans Saints,18,SOLD,craden1181
 New York Giants,21.5,SOLD,jnale
 New York Jets,15,SOLD,christocux
 Philadelphia Eagles,12,SOLD,fabhup
+Pittsburgh Steelers,11,SOLD,jobar77
 San Francisco 49ers,20,SOLD,fabhup
+Tennessee Titans,12,SOLD,jobar77
+Washington Commanders,12,SOLD,jobar77
 Arizona Cardinals,30,OPEN,
-Atlanta Falcons,12,OPEN,
-Buffalo Bills,25,OPEN,
-Carolina Panthers,14,OPEN,
 Cincinnati Bengals,18,OPEN,
-Cleveland Browns,14,OPEN,
+Cleveland Browns,15,OPEN,
 Denver Broncos,16,OPEN,
-Jacksonville Jaguars,14,OPEN,
 Las Vegas Raiders,55,OPEN,
-Los Angeles Chargers,10,OPEN,
 Los Angeles Rams,36,OPEN,
 Miami Dolphins,14,OPEN,
-Minnesota Vikings,14,OPEN,
-New England Patriots,34,OPEN,
-Pittsburgh Steelers,15,OPEN,
+New England Patriots,36,OPEN,
 Seattle Seahawks,22,OPEN,
 Tampa Bay Buccaneers,16,OPEN,
-Tennessee Titans,15,OPEN,
-Washington Commanders,12,OPEN,

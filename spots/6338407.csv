@@ -1,8 +1,8 @@
 spot,price,state,buyer
-#1,42,SOLD,manke55
-#2,42,SOLD,fritte97
-#3,42,OPEN,
-#4,42,OPEN,
-#5,42,OPEN,
-#6,42,OPEN,
-#7,42,OPEN,
+Spot 4,42,SOLD,manke55
+Spot 2,42,SOLD,fritte97
+Spot 5,40,SOLD,soenke23
+Spot 7,41,SOLD,soenke23
+Spot 6,39,SOLD,manfredschulz3502
+Spot 3,35,SOLD,soenke23
+Spot 1,42,SOLD,fritte97

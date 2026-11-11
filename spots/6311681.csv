@@ -1,13 +1,21 @@
 spot,price,state,buyer
 Arizona Cardinals - Budda Baker,2,SOLD,andi2802
+Arizona Cardinals - Carson Beck,10,SOLD,juliolds523
+Arizona Cardinals - Jeremiyah Love,11,SOLD,juliolds523
 Arizona Cardinals - Marvin Harrison Jr.,1,SOLD,1pepe
 Arizona Cardinals - Michael Wilson,1,SOLD,1pepe
 Arizona Cardinals - Trey Benson,1,SOLD,1pepe
 Arizona Cardinals - Trey McBride,2,SOLD,orgio10
+Atlanta Falcons - Bijan Robinson,1,SOLD,1pepe
 Atlanta Falcons - Drake London,3,SOLD,stephanheb
 Atlanta Falcons - Jalon Walker,2,SOLD,stephanheb
 Atlanta Falcons - Kyle Pitts,1,SOLD,1pepe
 Atlanta Falcons - Michael Penix Jr.,1.9,SOLD,stephanheb
+Atlanta Falcons - Zachariah Branch,4,SOLD,stephanheb
+Baltimore Ravens - Derrick Henry,2,SOLD,1pepe
+Baltimore Ravens - Ed Reed,1,SOLD,1pepe
+Baltimore Ravens - Elijah Sarratt,3,SOLD,oatsharpgaming
+Baltimore Ravens - Ja'Kobi Lane,3,SOLD,andi2802
 Baltimore Ravens - Kyle Hamilton,1,SOLD,1pepe
 Baltimore Ravens - Lamar Jackson,1,SOLD,1pepe
 Baltimore Ravens - Mark Andrews,1,SOLD,1pepe
@@ -16,209 +24,201 @@ Baltimore Ravens - Zay Flowers,1,SOLD,1pepe
 Buffalo Bills - Dalton Kincaid,1,SOLD,1pepe
 Buffalo Bills - DJ Moore,2,SOLD,paulkn60835
 Buffalo Bills - James Cook,2,SOLD,paulkn60835
+Buffalo Bills - Jim Kelly,2,SOLD,1pepe
+Buffalo Bills - Josh Allen,8,SOLD,cocci23
 Buffalo Bills - Keon Coleman,1,SOLD,1pepe
+Buffalo Bills - Skyler Bell,4,SOLD,oatsharpgaming
+Carolina Panthers - Bryce Young,1,SOLD,1pepe
+Carolina Panthers - Chris Brazzell II,3,SOLD,oatsharpgaming
 Carolina Panthers - Chuba Hubbard,1,SOLD,1pepe
 Carolina Panthers - Jaycee Horn,1,SOLD,1pepe
+Carolina Panthers - Tetairoa McMillan,1,SOLD,1pepe
 Carolina Panthers - Xavier Legette,1,SOLD,1pepe
+Chicago Bears - Caleb Williams,21,SOLD,tuten33
+Chicago Bears - Colston Loveland,3,SOLD,jhl83
 Chicago Bears - D'Andre Swift,1,SOLD,1pepe
+Chicago Bears - Jim McMahon,2,SOLD,1pepe
+Chicago Bears - Luther Burden III,2,SOLD,1pepe
 Chicago Bears - Rome Odunze,1,SOLD,1pepe
+Chicago Bears - Zavion Thomas,3,SOLD,tpsbmp93821
 Cincinnati Bengals - Chase Brown,2,SOLD,orgio10
 Cincinnati Bengals - Dexter Lawrence,1,SOLD,1pepe
+Cincinnati Bengals - Ja'Marr Chase,2,SOLD,that_wildcat_guy
+Cincinnati Bengals - Joe Burrow,2,SOLD,andi2802
+Cincinnati Bengals - Tee Higgins,1,SOLD,1pepe
+Cleveland Browns - Denzel Boston,9,SOLD,matthiasradakovits83
+Cleveland Browns - Harold Fannin Jr.,1,SOLD,1pepe
+Cleveland Browns - Jerry Jeudy,1,SOLD,1pepe
+Cleveland Browns - KC Concepcion,6.65,SOLD,matthiasradakovits83
+Cleveland Browns - Myles Garrett,1,SOLD,1pepe
+Cleveland Browns - Quinshon Judkins,1,SOLD,1pepe
+Cleveland Browns - Shedeur Sanders,1,SOLD,1pepe
+Cleveland Browns - Taylen Green,1,SOLD,1pepe
+Dallas Cowboys - Caleb Downs,7,SOLD,torius82
+Dallas Cowboys - CeeDee Lamb,2,SOLD,orgio10
+Dallas Cowboys - Dak Prescott,2,SOLD,niners46
+Dallas Cowboys - George Pickens,1,SOLD,1pepe
+Dallas Cowboys - Javonte Williams,1,SOLD,1pepe
+Dallas Cowboys - Michael Irvin,3,SOLD,hugoianer
+Dallas Cowboys - Quinnen Williams,1,SOLD,1pepe
+Denver Broncos - Bo Nix,4,SOLD,roltby41
+Denver Broncos - Courtland Sutton,1,SOLD,1pepe
+Denver Broncos - Jaylen Waddle,1,SOLD,1pepe
+Denver Broncos - Jonah Coleman,5,SOLD,roltby41
+Denver Broncos - Nik Bonitto,1,SOLD,1pepe
+Denver Broncos - Pat Surtain II,2,SOLD,1pepe
+Denver Broncos - RJ Harvey,1,SOLD,1pepe
+Denver Broncos - Terrell Davis,1,SOLD,1pepe
+Detroit Lions - Aidan Hutchinson,1,SOLD,1pepe
+Detroit Lions - Amon-Ra St. Brown,1,SOLD,1pepe
+Detroit Lions - Barry Sanders,1,SOLD,1pepe
+Detroit Lions - Jahmyr Gibbs,1,SOLD,1pepe
+Detroit Lions - Jared Goff,1,SOLD,1pepe
+Detroit Lions - Sam LaPorta,1,SOLD,1pepe
+Green Bay Packers - Jordan Love,1,SOLD,finstephan
+Green Bay Packers - Josh Jacobs,4,SOLD,matthiasradakovits83
+Green Bay Packers - Matthew Golden,0.95,SOLD,finstephan
+Green Bay Packers - Micah Parsons,1,SOLD,finstephan
+Green Bay Packers - Sterling Sharpe,3,SOLD,matthiasradakovits83
+Green Bay Packers - Tucker Kraft,1,SOLD,finstephan
+Houston Oilers - Earl Campbell,1,SOLD,1pepe
+Houston Texans - CJ Stroud,2,SOLD,andi2802
+Houston Texans - Dalton Schultz,1,SOLD,1pepe
+Houston Texans - Derek Stingley Jr.,1,SOLD,1pepe
+Houston Texans - Kayden McDonald,1,SOLD,1pepe
+Houston Texans - Nico Collins,1,SOLD,1pepe
+Houston Texans - Woody Marks,1,SOLD,1pepe
+Indianapolis Colts - Alec Pierce,1,SOLD,1pepe
+Indianapolis Colts - Daniel Jones,1,SOLD,1pepe
+Indianapolis Colts - Deion Burks,1,SOLD,1pepe
+Indianapolis Colts - Jonathan Taylor,1,SOLD,1pepe
+Indianapolis Colts - Peyton Manning,3,SOLD,tpsbmp93821
+Indianapolis Colts - Sauce Gardner,1,SOLD,1pepe
+Indianapolis Colts - Tyler Warren,3,SOLD,andreasfin
 Jacksonville Jaguars - Brian Thomas Jr.,1,SOLD,1pepe
+Jacksonville Jaguars - Travis Hunter,2,SOLD,quentintraupe
 Jacksonville Jaguars - Travon Walker,1,SOLD,1pepe
-Arizona Cardinals - Carson Beck,1,OPEN,
-Arizona Cardinals - Jeremiyah Love,1,OPEN,
-Atlanta Falcons - Bijan Robinson,1,OPEN,
-Atlanta Falcons - Zachariah Branch,1,OPEN,
-Baltimore Ravens - Derrick Henry,1,OPEN,
-Baltimore Ravens - Ed Reed,1,OPEN,
-Baltimore Ravens - Elijah Sarratt,1,OPEN,
-Baltimore Ravens - Ja'Kobi Lane,1,OPEN,
-Buffalo Bills - Jim Kelly,1,OPEN,
-Buffalo Bills - Josh Allen,1,OPEN,
-Buffalo Bills - Skyler Bell,1,OPEN,
-Carolina Panthers - Bryce Young,1,OPEN,
-Carolina Panthers - Chris Brazzell II,1,OPEN,
-Carolina Panthers - Tetairoa McMillan,1,OPEN,
-Chicago Bears - Caleb Williams,1,OPEN,
-Chicago Bears - Colston Loveland,1,OPEN,
-Chicago Bears - Jim McMahon,1,OPEN,
-Chicago Bears - Luther Burden III,1,OPEN,
-Chicago Bears - Zavion Thomas,1,OPEN,
-Cincinnati Bengals - Ja'Marr Chase,1,OPEN,
-Cincinnati Bengals - Joe Burrow,1,OPEN,
-Cincinnati Bengals - Tee Higgins,1,OPEN,
-Cleveland Browns - Denzel Boston,1,OPEN,
-Cleveland Browns - Harold Fannin Jr.,1,OPEN,
-Cleveland Browns - Jerry Jeudy,1,OPEN,
-Cleveland Browns - KC Concepcion,1,OPEN,
-Cleveland Browns - Myles Garrett,1,OPEN,
-Cleveland Browns - Quinshon Judkins,1,OPEN,
-Cleveland Browns - Shedeur Sanders,1,OPEN,
-Cleveland Browns - Taylen Green,1,OPEN,
-Dallas Cowboys - Caleb Downs,1,OPEN,
-Dallas Cowboys - CeeDee Lamb,1,OPEN,
-Dallas Cowboys - Dak Prescott,1,OPEN,
-Dallas Cowboys - George Pickens,1,OPEN,
-Dallas Cowboys - Javonte Williams,1,OPEN,
-Dallas Cowboys - Michael Irvin,1,OPEN,
-Dallas Cowboys - Quinnen Williams,1,OPEN,
-Denver Broncos - Bo Nix,1,OPEN,
-Denver Broncos - Courtland Sutton,1,OPEN,
-Denver Broncos - Jaylen Waddle,1,OPEN,
-Denver Broncos - Jonah Coleman,1,OPEN,
-Denver Broncos - Nik Bonitto,1,OPEN,
-Denver Broncos - Pat Surtain II,1,OPEN,
-Denver Broncos - RJ Harvey,1,OPEN,
-Denver Broncos - Terrell Davis,1,OPEN,
-Detroit Lions - Aidan Hutchinson,1,OPEN,
-Detroit Lions - Amon-Ra St. Brown,1,OPEN,
-Detroit Lions - Barry Sanders,1,OPEN,
-Detroit Lions - Jahmyr Gibbs,1,OPEN,
-Detroit Lions - Jared Goff,1,OPEN,
-Detroit Lions - Sam LaPorta,1,OPEN,
-Green Bay Packers - Jordan Love,1,OPEN,
-Green Bay Packers - Josh Jacobs,1,OPEN,
-Green Bay Packers - Matthew Golden,1,OPEN,
-Green Bay Packers - Micah Parsons,1,OPEN,
-Green Bay Packers - Sterling Sharpe,1,OPEN,
-Green Bay Packers - Tucker Kraft,1,OPEN,
-Houston Oilers - Earl Campbell,1,OPEN,
-Houston Texans - CJ Stroud,1,OPEN,
-Houston Texans - Dalton Schultz,1,OPEN,
-Houston Texans - Derek Stingley Jr.,1,OPEN,
-Houston Texans - Kayden McDonald,1,OPEN,
-Houston Texans - Nico Collins,1,OPEN,
-Houston Texans - Woody Marks,1,OPEN,
-Indianapolis Colts - Alec Pierce,1,OPEN,
-Indianapolis Colts - Daniel Jones,1,OPEN,
-Indianapolis Colts - Deion Burks,1,OPEN,
-Indianapolis Colts - Jonathan Taylor,1,OPEN,
-Indianapolis Colts - Peyton Manning,1,OPEN,
-Indianapolis Colts - Sauce Gardner,1,OPEN,
-Indianapolis Colts - Tyler Warren,1,OPEN,
-Jacksonville Jaguars - Travis Hunter,1,OPEN,
-Jacksonville Jaguars - Trevor Lawrence,1,OPEN,
-Kansas City Chiefs - Chris Jones,1,OPEN,
-Kansas City Chiefs - Emmett Johnson,1,OPEN,
-Kansas City Chiefs - Garrett Nussmeier,1,OPEN,
-Kansas City Chiefs - Kenneth Walker III,1,OPEN,
-Kansas City Chiefs - Mansoor Delane,1,OPEN,
-Kansas City Chiefs - Patrick Mahomes II,1,OPEN,
-Kansas City Chiefs - Peter Woods,1,OPEN,
-Kansas City Chiefs - Rashee Rice,1,OPEN,
-Kansas City Chiefs - Travis Kelce,1,OPEN,
-Kansas City Chiefs - Xavier Worthy,1,OPEN,
-Las Vegas Raiders - Ashton Jeanty,1,OPEN,
-Las Vegas Raiders - Brock Bowers,1,OPEN,
-Las Vegas Raiders - Dont'e Thornton Jr.,1,OPEN,
-Las Vegas Raiders - Fernando Mendoza,1,OPEN,
-Las Vegas Raiders - Jermod McCoy,1,OPEN,
-Las Vegas Raiders - Maxx Crosby,1,OPEN,
-Las Vegas Raiders - Mike Washington Jr.,1,OPEN,
-Los Angeles Chargers - Brenen Thompson,1,OPEN,
-Los Angeles Chargers - Derwin James Jr.,1,OPEN,
-Los Angeles Chargers - Justin Herbert,1,OPEN,
-Los Angeles Chargers - Ladd McConkey,1,OPEN,
-Los Angeles Chargers - Omarion Hampton,1,OPEN,
-Los Angeles Rams - Aaron Donald,1,OPEN,
-Los Angeles Rams - Davante Adams,1,OPEN,
-Los Angeles Rams - Kyren Williams,1,OPEN,
-Los Angeles Rams - Matthew Stafford,1,OPEN,
-Los Angeles Rams - Max Klare,1,OPEN,
-Los Angeles Rams - Puka Nacua,1,OPEN,
-Los Angeles Rams - Ty Simpson,1,OPEN,
-Miami Dolphins - Caleb Douglas,1,OPEN,
-Miami Dolphins - Chris Bell,1,OPEN,
-Miami Dolphins - Dan Marino,1,OPEN,
-Miami Dolphins - De'Von Achane,1,OPEN,
-Miami Dolphins - Kadyn Proctor,1,OPEN,
-Miami Dolphins - Malik Willis,1,OPEN,
-Miami Dolphins - Ollie Gordon II,1,OPEN,
-Minnesota Vikings - Aaron Jones Sr.,1,OPEN,
-Minnesota Vikings - Adrian Peterson,1,OPEN,
-Minnesota Vikings - Demond Claiborne,1,OPEN,
-Minnesota Vikings - J.J. McCarthy,1,OPEN,
-Minnesota Vikings - Jordan Addison,1,OPEN,
-Minnesota Vikings - Justin Jefferson,1,OPEN,
-Minnesota Vikings - T.J. Hockenson,1,OPEN,
-New England Patriots - Christian Gonzalez,1,OPEN,
-New England Patriots - Drake Maye,1,OPEN,
-New England Patriots - Rhamondre Stevenson,1,OPEN,
-New England Patriots - Tom Brady,1,OPEN,
-New England Patriots - TreVeyon Henderson,1,OPEN,
-New Orleans Saints - Alvin Kamara,1,OPEN,
-New Orleans Saints - Cameron Jordan,1,OPEN,
-New Orleans Saints - Chris Olave,1,OPEN,
-New Orleans Saints - Jordyn Tyson,1,OPEN,
-New Orleans Saints - Juwan Johnson,1,OPEN,
-New Orleans Saints - Travis Etienne Jr.,1,OPEN,
-New Orleans Saints - Tyler Shough,1,OPEN,
-New York Giants - Abdul Carter,1,OPEN,
-New York Giants - Arvell Reese,1,OPEN,
-New York Giants - Cam Skattebo,1,OPEN,
-New York Giants - Francis Mauigoa,1,OPEN,
-New York Giants - Jaxson Dart,1,OPEN,
-New York Giants - Malachi Fields,1,OPEN,
-New York Giants - Malik Nabers,1,OPEN,
-New York Giants - Michael Strahan,1,OPEN,
-New York Jets - Braelon Allen,1,OPEN,
-New York Jets - Breece Hall,1,OPEN,
-New York Jets - Cade Klubnik,1,OPEN,
-New York Jets - David Bailey,1,OPEN,
-New York Jets - Garrett Wilson,1,OPEN,
-New York Jets - Kenyon Sadiq,1,OPEN,
-New York Jets - Mason Taylor,1,OPEN,
-New York Jets - Minkah Fitzpatrick,1,OPEN,
-New York Jets - Omar Cooper Jr.,1,OPEN,
-Philadelphia Eagles - Cole Payton,1,OPEN,
-Philadelphia Eagles - Cooper DeJean,1,OPEN,
-Philadelphia Eagles - Dallas Goedert,1,OPEN,
-Philadelphia Eagles - DeVonta Smith,1,OPEN,
-Philadelphia Eagles - Donovan McNabb,1,OPEN,
-Philadelphia Eagles - Eli Stowers,1,OPEN,
-Philadelphia Eagles - Jalen Hurts,1,OPEN,
-Philadelphia Eagles - Makai Lemon,1,OPEN,
-Philadelphia Eagles - Saquon Barkley,1,OPEN,
-Pittsburgh Steelers - Aaron Rodgers,1,OPEN,
-Pittsburgh Steelers - DK Metcalf,1,OPEN,
-Pittsburgh Steelers - Drew Allar,1,OPEN,
-Pittsburgh Steelers - Germie Bernard,1,OPEN,
-Pittsburgh Steelers - Jaylen Warren,1,OPEN,
-Pittsburgh Steelers - Jerome Bettis,1,OPEN,
-Pittsburgh Steelers - Joey Porter Jr.,1,OPEN,
-Pittsburgh Steelers - T.J. Watt,1,OPEN,
-San Diego Chargers - Antonio Gates,1,OPEN,
-San Francisco 49ers - Brandon Aiyuk,1,OPEN,
-San Francisco 49ers - Brock Purdy,1,OPEN,
-San Francisco 49ers - Christian McCaffrey,1,OPEN,
-San Francisco 49ers - De'Zhaun Stribling,1,OPEN,
-San Francisco 49ers - George Kittle,1,OPEN,
-San Francisco 49ers - Jerry Rice,1,OPEN,
-San Francisco 49ers - Kaelon Black,1,OPEN,
-San Francisco 49ers - Mike Evans,1,OPEN,
-San Francisco 49ers - Nick Bosa,1,OPEN,
-Seattle Seahawks - Cooper Kupp,1,OPEN,
-Seattle Seahawks - DeMarcus Lawrence,1,OPEN,
-Seattle Seahawks - Jadarian Price,1,OPEN,
-Seattle Seahawks - Jaxon Smith-Njigba,1,OPEN,
-Seattle Seahawks - Kam Chancellor,1,OPEN,
-Seattle Seahawks - Sam Darnold,1,OPEN,
-Tampa Bay Buccaneers - Baker Mayfield,1,OPEN,
-Tampa Bay Buccaneers - Bucky Irving,1,OPEN,
-Tampa Bay Buccaneers - Emeka Egbuka,1,OPEN,
-Tampa Bay Buccaneers - Ronde Barber,1,OPEN,
-Tampa Bay Buccaneers - Rueben Bain Jr.,1,OPEN,
-Tampa Bay Buccaneers - Ted Hurst,1,OPEN,
-Tennessee Titans - Cam Ward,1,OPEN,
-Tennessee Titans - Carnell Tate,1,OPEN,
-Tennessee Titans - Elic Ayomanor,1,OPEN,
-Tennessee Titans - Keldric Faulk,1,OPEN,
-Tennessee Titans - Nick Singleton,1,OPEN,
-Tennessee Titans - Tony Pollard,1,OPEN,
-Washington Commanders - Antonio Williams,1,OPEN,
-Washington Commanders - Deebo Samuel,1,OPEN,
-Washington Commanders - Jacory Croskey-Merritt,1,OPEN,
-Washington Commanders - Jayden Daniels,1,OPEN,
-Washington Commanders - Kaytron Allen,1,OPEN,
-Washington Commanders - Sonny Styles,1,OPEN,
+Jacksonville Jaguars - Trevor Lawrence,3,SOLD,quentintraupe
+Kansas City Chiefs - Chris Jones,1,SOLD,1pepe
+Kansas City Chiefs - Emmett Johnson,6,SOLD,torius82
+Kansas City Chiefs - Garrett Nussmeier,9,SOLD,matthiasradakovits83
+Kansas City Chiefs - Kenneth Walker III,3,SOLD,andi2802
+Kansas City Chiefs - Mansoor Delane,10,SOLD,420slik
+Kansas City Chiefs - Patrick Mahomes II,2,SOLD,schmexlenny
+Kansas City Chiefs - Peter Woods,2,SOLD,andi2802
+Kansas City Chiefs - Rashee Rice,1,SOLD,1pepe
+Kansas City Chiefs - Travis Kelce,2,SOLD,ernie474
+Kansas City Chiefs - Xavier Worthy,1,SOLD,1pepe
+Las Vegas Raiders - Ashton Jeanty,6,SOLD,jhl83
+Las Vegas Raiders - Brock Bowers,6,SOLD,tpsbmp93821
+Las Vegas Raiders - Dont'e Thornton Jr.,1.9,SOLD,tpsbmp93821
+Las Vegas Raiders - Fernando Mendoza,39.9,SOLD,raiderkalle
+Las Vegas Raiders - Jermod McCoy,4,SOLD,raiderkalle
+Las Vegas Raiders - Maxx Crosby,2,SOLD,tpsbmp93821
+Las Vegas Raiders - Mike Washington Jr.,8,SOLD,tpsbmp93821
+Los Angeles Chargers - Brenen Thompson,2,SOLD,andi2802
+Los Angeles Chargers - Derwin James Jr.,1,SOLD,1pepe
+Los Angeles Chargers - Justin Herbert,1,SOLD,1pepe
+Los Angeles Chargers - Ladd McConkey,1,SOLD,1pepe
+Los Angeles Chargers - Omarion Hampton,2,SOLD,1pepe
+Los Angeles Rams - Aaron Donald,3,SOLD,eini11
+Los Angeles Rams - Davante Adams,1,SOLD,1pepe
+Los Angeles Rams - Kyren Williams,1,SOLD,1pepe
+Los Angeles Rams - Matthew Stafford,1,SOLD,rhein_rams_cards
+Los Angeles Rams - Max Klare,3,SOLD,andi2802
+Los Angeles Rams - Puka Nacua,3,SOLD,rhein_rams_cards
+Los Angeles Rams - Ty Simpson,16,SOLD,1pepe
+Miami Dolphins - Caleb Douglas,3,SOLD,baestib
+Miami Dolphins - Chris Bell,3,SOLD,baestib
+Miami Dolphins - Dan Marino,3,SOLD,baestib
+Miami Dolphins - De'Von Achane,2,SOLD,eini11
+Miami Dolphins - Kadyn Proctor,1,SOLD,berto0407
+Miami Dolphins - Malik Willis,1,SOLD,1pepe
+Miami Dolphins - Ollie Gordon II,1,SOLD,1pepe
+Minnesota Vikings - Aaron Jones Sr.,1,SOLD,1pepe
+Minnesota Vikings - Adrian Peterson,1,SOLD,1pepe
+Minnesota Vikings - Demond Claiborne,1,SOLD,1pepe
+Minnesota Vikings - J.J. McCarthy,1,SOLD,1pepe
+Minnesota Vikings - Jordan Addison,1,SOLD,1pepe
+Minnesota Vikings - Justin Jefferson,2,SOLD,orgio10
+Minnesota Vikings - T.J. Hockenson,1,SOLD,1pepe
+New England Patriots - Christian Gonzalez,2,SOLD,mafi2003
+New England Patriots - Drake Maye,9,SOLD,mafi2003
+New England Patriots - Rhamondre Stevenson,2,SOLD,mafi2003
+New England Patriots - Tom Brady,9,SOLD,raiderkalle
+New England Patriots - TreVeyon Henderson,2,SOLD,mafi2003
+New Orleans Saints - Alvin Kamara,2,SOLD,that_wildcat_guy
+New Orleans Saints - Cameron Jordan,2,SOLD,that_wildcat_guy
+New Orleans Saints - Chris Olave,1,SOLD,1pepe
+New Orleans Saints - Jordyn Tyson,7,SOLD,that_wildcat_guy
+New Orleans Saints - Juwan Johnson,1,SOLD,1pepe
+New Orleans Saints - Travis Etienne Jr.,1,SOLD,1pepe
+New Orleans Saints - Tyler Shough,4.75,SOLD,that_wildcat_guy
+New York Giants - Abdul Carter,1,SOLD,1pepe
+New York Giants - Arvell Reese,4.75,SOLD,jhl83
+New York Giants - Cam Skattebo,4,SOLD,jhl83
+New York Giants - Francis Mauigoa,1,SOLD,1pepe
+New York Giants - Jaxson Dart,5,SOLD,jhl83
+New York Giants - Malachi Fields,4,SOLD,boxbreakcorner
+New York Giants - Malik Nabers,3,SOLD,pawo298
+New York Giants - Michael Strahan,2,SOLD,1pepe
+New York Jets - Braelon Allen,1,SOLD,1pepe
+New York Jets - Breece Hall,1,SOLD,1pepe
+New York Jets - Cade Klubnik,1,SOLD,1pepe
+New York Jets - David Bailey,5,SOLD,oatsharpgaming
+New York Jets - Garrett Wilson,1,SOLD,1pepe
+New York Jets - Kenyon Sadiq,4,SOLD,bambam511
+New York Jets - Mason Taylor,1,SOLD,1pepe
+New York Jets - Minkah Fitzpatrick,1,SOLD,1pepe
+New York Jets - Omar Cooper Jr.,3,SOLD,jhl83
+Philadelphia Eagles - Cole Payton,2,SOLD,1pepe
+Philadelphia Eagles - Cooper DeJean,1,SOLD,1pepe
+Philadelphia Eagles - Dallas Goedert,1,SOLD,1pepe
+Philadelphia Eagles - DeVonta Smith,1,SOLD,1pepe
+Philadelphia Eagles - Donovan McNabb,1,SOLD,1pepe
+Philadelphia Eagles - Eli Stowers,1,SOLD,1pepe
+Philadelphia Eagles - Jalen Hurts,1,SOLD,1pepe
+Philadelphia Eagles - Makai Lemon,7,SOLD,matthiasradakovits83
+Philadelphia Eagles - Saquon Barkley,1,SOLD,1pepe
+Pittsburgh Steelers - Aaron Rodgers,2,SOLD,alex889cards
+Pittsburgh Steelers - DK Metcalf,2,SOLD,alex889cards
+Pittsburgh Steelers - Drew Allar,5,SOLD,raiderkalle
+Pittsburgh Steelers - Germie Bernard,3,SOLD,matthiasradakovits83
+Pittsburgh Steelers - Jaylen Warren,2,SOLD,alex889cards
+Pittsburgh Steelers - Jerome Bettis,3,SOLD,alex889cards
+Pittsburgh Steelers - Joey Porter Jr.,2,SOLD,alex889cards
+Pittsburgh Steelers - T.J. Watt,2,SOLD,alex889cards
+San Diego Chargers - Antonio Gates,1,SOLD,1pepe
+San Francisco 49ers - Brandon Aiyuk,2,SOLD,ernie474
+San Francisco 49ers - Brock Purdy,5,SOLD,ernie474
+San Francisco 49ers - Christian McCaffrey,2,SOLD,niners46
+San Francisco 49ers - De'Zhaun Stribling,9,SOLD,traenenherzchen
+San Francisco 49ers - George Kittle,2,SOLD,hoggla
+San Francisco 49ers - Jerry Rice,2.7,SOLD,traenenherzchen
+San Francisco 49ers - Kaelon Black,7,SOLD,traenenherzchen
+San Francisco 49ers - Mike Evans,1.8,SOLD,ernie474
+San Francisco 49ers - Nick Bosa,5,SOLD,niners46
+Seattle Seahawks - Cooper Kupp,1,SOLD,1pepe
+Seattle Seahawks - DeMarcus Lawrence,1,SOLD,breaksunchained
+Seattle Seahawks - Jadarian Price,8,SOLD,bambam511
+Seattle Seahawks - Jaxon Smith-Njigba,3,SOLD,that_wildcat_guy
+Seattle Seahawks - Kam Chancellor,3,SOLD,breaksunchained
+Seattle Seahawks - Sam Darnold,1,SOLD,breaksunchained
+Tampa Bay Buccaneers - Baker Mayfield,1,SOLD,1pepe
+Tampa Bay Buccaneers - Bucky Irving,1,SOLD,1pepe
+Tampa Bay Buccaneers - Emeka Egbuka,1,SOLD,1pepe
+Tampa Bay Buccaneers - Ronde Barber,1,SOLD,1pepe
+Tampa Bay Buccaneers - Rueben Bain Jr.,1,SOLD,1pepe
+Tampa Bay Buccaneers - Ted Hurst,2,SOLD,1pepe
+Tennessee Titans - Cam Ward,4,SOLD,torius82
+Tennessee Titans - Carnell Tate,11,SOLD,boxbreakcorner
+Tennessee Titans - Elic Ayomanor,1,SOLD,1pepe
+Tennessee Titans - Keldric Faulk,1,SOLD,1pepe
+Tennessee Titans - Nick Singleton,3,SOLD,matthiasradakovits83
+Tennessee Titans - Tony Pollard,1,SOLD,1pepe
+Washington Commanders - Antonio Williams,1,SOLD,1pepe
+Washington Commanders - Deebo Samuel,2,SOLD,ernie474
+Washington Commanders - Jacory Croskey-Merritt,1,SOLD,1pepe
+Washington Commanders - Jayden Daniels,3,SOLD,raiderkalle
+Washington Commanders - Kaytron Allen,1,SOLD,1pepe
+Washington Commanders - Sonny Styles,6,SOLD,bambam511
