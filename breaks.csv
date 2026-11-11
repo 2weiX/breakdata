@@ -105,7 +105,6 @@ break_id,wn_format,wn_status,wn_spot_type,wn_transaction_type,wn_sold_spot_count
 5131739,PICK_YOUR,breaking,TEAM,AUCTION,32,32,32,Flagship,heffcules,- PYT - Flagship Hobbybox,,hobby,178.0,0,2026-09-19,spots/5131739.csv,4cf8ec6354a1
 5137973,PICK_YOUR,completed,TEAM,BUY_IT_NOW,32,32,32,Flagship,kondi_tcs,#2 -PYT- FULL-Case - 20x FLAGSHIP MEGA Box,20,retail mega,1437.05,0,2026-09-21,spots/5137973.csv,915fb6b38914
 5139000,PICK_YOUR,completed,TEAM,BUY_IT_NOW,32,32,32,Flagship,heffcules,#2 - PYT - 2xSuperbox Flagship + 2x Hobbybox Flagship,2,mixed hobby+super,551.3,0,2026-09-20,spots/5139000.csv,ac2d328cfea0
-5139692,PICK_YOUR,completed,CUSTOM,AUCTION,234,234,234,Finest,peppi_lp,Topps Finest Case Break PYP ab 1€,8,hobby,4696.0,0,2026-09-21,spots/5139692.csv,2903b9b529ea
 5151046,PICK_YOUR,filling,TEAM,BUY_IT_NOW,0,17,32,Flagship,tradingcard_kingz,#2 - 12x Topps Flagship Super Box (Full Case) - PYT,12,retail super,263.45,655.0,2026-09-22,spots/5151046.csv,cbb5bd628b4e
 5151669,PICK_YOUR,breaking,TEAM,BUY_IT_NOW,32,32,32,Flagship,ultimatesports_cards,Flagship Hobby x Jumbo PYT,,mixed jumbo+hobby,546.0,0,2026-09-21,spots/5151669.csv,10736201ac4d
 5154630,RANDOM,completed,DIVISION,BUY_IT_NOW,8,8,8,Flagship,kondi_tcs,#Kickoff -TRUE RDB- 1x FLAGSHIP Hanger Box,1,retail hanger,32.0,0,2026-09-21,spots/5154630.csv,ea098e5e0b2c
