@@ -1,22 +1,16 @@
 break_id,wn_format,wn_status,wn_spot_type,wn_transaction_type,wn_sold_spot_count,wn_filled_break_spots,wn_total_break_spots,product,seller,title,boxes,box_kind,take_eur,asks_eur,first_seen,spots_file,sha1
-4558149,RANDOM,completed,TEAM,AUCTION,30,30,30,,,TOPPS CHROME UPDATE NBA VALUE BOX #2 | RTB,,,87.0,0,,spots/4558149.csv,938d78aedd45
-4558150,RANDOM,completed,TEAM,AUCTION,30,30,30,,,TOPPS CHROME UPDATE NBA VALUE BOX #3 | RTB,,,116.0,0,,spots/4558150.csv,4c2b44621700
-4589993,PICK_YOUR,breaking,CUSTOM,AUCTION,8,8,8,,,🛍️ Medium Magic Color Break No. 1 PICK SPOT🔮,,,156.0,0,,spots/4589993.csv,3a0c37b70a6d
 4612172,PICK_YOUR,completed,CUSTOM,AUCTION,32,32,32,,,Team Rest 3 Caser Flagship 2026,,,865.0,0,,spots/4612172.csv,af990e5bde9b
 4617030,PICK_YOUR,completed,TEAM,BUY_IT_NOW,32,32,32,,,#1 1st Half Case 2026 Topps Flagship Mega (10x),,,762.8,0,,spots/4617030.csv,05eb3d0446d3
 4623985,RANDOM,completed,TEAM,BUY_IT_NOW,32,32,32,Flagship,boxbreakcorner,#3 2026 Topps Flagship Football Value (3x) - RTB (sofort random),3,retail value,238.0,0,2026-08-21,spots/4623985.csv,740a1a15f491
 4627089,PICK_YOUR,completed,TEAM,BUY_IT_NOW,25,25,25,Flagship,bucmk,2 Boxer PYT Flagship,2,hobby,339.2,0,2026-08-22,spots/4627089.csv,eaef91bfe86e
 4627105,PICK_YOUR,completed,TEAM,BUY_IT_NOW,32,32,32,Flagship,bucmk,HALFcase PYT Flagship,6,hobby,1189.65,0,2026-08-22,spots/4627105.csv,5811acbd1e4b
-4627866,RANDOM,filling,CUSTOM,BUY_IT_NOW,8,8,8,,,Back in other Universes,,,352.0,0,,spots/4627866.csv,ccf5eb5ad532
 4637341,PICK_YOUR,completed,CUSTOM,BUY_IT_NOW,32,32,32,Flagship,derkiosk,NFL Flagship Hobby 6 Box + Jumbo 3 Box Half Case #1,6,mixed jumbo+hobby,1723.75,0,2026-08-24,spots/4637341.csv,2d0dcd7bc499
 4637342,PICK_YOUR,completed,CUSTOM,BUY_IT_NOW,32,32,32,Flagship,derkiosk,NFL Flagship Hobby 6 Box + Jumbo 3 Box Half Case #2,6,mixed jumbo+hobby,1624.25,0,2026-08-24,spots/4637342.csv,e85e1f64767f
 4639323,PICK_YOUR,completed,CUSTOM,BUY_IT_NOW,32,32,32,Flagship,derkiosk,NFL Flagship Hobby 12 Box Case Break ,12,hobby,1955.0,0,2026-08-24,spots/4639323.csv,81b45186f068
 4646546,RANDOM,completed,TEAM,BUY_IT_NOW,21,32,32,Flagship,nextgenbreakz,#3 1 Box Hobby Flagship,1,hobby,147.0,0,2026-08-20,spots/4646546.csv,0ad849ea7fcb
 4653583,PICK_YOUR,breaking,CUSTOM,BUY_IT_NOW,34,34,34,Flagship,vtbreaks,FULL CASE (12BOX) PICK YOUR TEAM - 2026 TOPPS FLAGSHIP FOOTBALL HOBBY BOX ,12,hobby,1951.75,0,2026-08-23,spots/4653583.csv,b69f7bad5780
-4655927,PICK_YOUR,completed,CUSTOM,BUY_IT_NOW,8,8,8,,,🛍️ Medium Magic Color Break No. 1 PICK🔮,,,155.0,0,,spots/4655927.csv,0ce2cc6ddbc0
 4656516,PICK_YOUR,completed,TEAM,BUY_IT_NOW,32,32,32,Flagship,collectitde,NFL Break #32 2026 Topps Flagship 1x FULL Hobby Case and 1x FULL Jumbo Case,1,mixed jumbo+hobby,3734.8,0,2026-08-22,spots/4656516.csv,e3ff79367c7a
 4656526,PICK_YOUR,completed,TEAM,BUY_IT_NOW,32,32,32,Flagship,andyw4rhol,Flagship Jumbo + 2x Hobby,2,mixed jumbo+hobby,752.85,0,2026-08-22,spots/4656526.csv,f2fcc32baded
-4664474,MYSTERY,filling,CUSTOM,AUCTION,84,82,88,,,5 Slabs + 5 Booster ,,,239.0,0,,spots/4664474.csv,31c7b8c1b707
 4668635,PICK_YOUR,completed,TEAM,AUCTION,32,32,32,Flagship,andyw4rhol,Warm-Up | 1x Flagship Mega,1,retail mega,87.0,0,2026-08-22,spots/4668635.csv,24d992cc9230
 4669009,PICK_YOUR,breaking,TEAM,BUY_IT_NOW,29,29,29,Flagship,ultimatesports_cards,6x Flagship Jumbo 2026 (Full Case) PYT,6,jumbo,2024.7,0,2026-08-23,spots/4669009.csv,23c24fb9faab
 4674435,PICK_YOUR,breaking,TEAM,AUCTION,32,32,32,Flagship,collectitde,NFL Break #33 2026 Topps Flagship FULL Hobby Case,,hobby,1534.0,0,2026-08-22,spots/4674435.csv,97ed9e0d4629
@@ -92,7 +86,6 @@ break_id,wn_format,wn_status,wn_spot_type,wn_transaction_type,wn_sold_spot_count
 5043703,PICK_YOUR,completed,TEAM,BUY_IT_NOW,31,31,31,Resurgence,bucmk,PYT 2 Boxer Resurgence Hobby,2,hobby,1029.0,0,2026-09-17,spots/5043703.csv,d419fcd41efa
 5043731,PICK_YOUR,completed,TEAM,BUY_IT_NOW,27,27,27,Cosmic Chrome,bucmk,PYT 2 Boxer COSMIC,2,hobby,1561.35,0,2026-09-18,spots/5043731.csv,e7108ecf0190
 5043743,RANDOM,completed,TEAM,AUCTION,32,32,32,Chrome,bucmk,#1 1 Stk. Topps Chrome Mega,,retail mega,95.0,0,2026-09-17,spots/5043743.csv,660e1414928c
-5044051,PICK_YOUR,completed,CUSTOM,AUCTION,8,8,8,,,#X BIG-Break des Tages DE - Start nur mit genug Vorabgeboten,,,240.0,0,,spots/5044051.csv,5212d900d096
 5050065,PICK_YOUR,completed,TEAM,BUY_IT_NOW,31,31,31,Flagship,qscards,Main I 2 Caser I 2026 Topps NFL Flagship Hobby I 24 Boxes I #01,24,hobby,3699.39,0,2026-09-18,spots/5050065.csv,77998dd46f2e
 5067476,PICK_YOUR,completed,TEAM,BUY_IT_NOW,32,32,32,Flagship,karlklammer,#4 PYT 2026 Topps Flagship Jumbo,,jumbo,452.12,0,2026-09-15,spots/5067476.csv,5aa268a75e9e
 5071256,PICK_YOUR,completed,TEAM,BUY_IT_NOW,26,26,26,Flagship,ultimatesports_cards,10x Flagship Mega (half Case),10,retail mega,557.4,0,2026-09-16,spots/5071256.csv,9aa5f3ea4390
@@ -186,8 +179,6 @@ break_id,wn_format,wn_status,wn_spot_type,wn_transaction_type,wn_sold_spot_count
 5477067,RANDOM,completed,TEAM,BUY_IT_NOW,32,32,32,Flagship,snapbackbreaks,True RTB - 2x Mega 4 x Value,6,retail mixed,278.0,0,2026-10-09,spots/5477067.csv,210f7df41e66
 5491077,RANDOM,breaking,TEAM,AUCTION,32,32,32,Flagship,mazardit,RTB# 3X VALUE BOXES NFL FLAGSHIP 2026 ,3,retail value,125.0,0,2026-10-09,spots/5491077.csv,d2d9c1f69e9b
 5493602,RANDOM,filling,TEAM,BUY_IT_NOW,0,0,32,Resurgence,collectitde,NFL Break #37 2025 20x Resurgence Vlaue box (Half-Case),20,,0,696.0,2026-10-09,spots/5493602.csv,a0c84b97d953
-5496311,RANDOM,completed,CUSTOM,BUY_IT_NOW,8,8,8,,,🏔️ MINI NO.04 AUTO 🔮✨,,,62.0,0,,spots/5496311.csv,a16b727f0ec3
-5496591,PICK_YOUR,breaking,CUSTOM,AUCTION,8,8,8,,,🛍️ (🇺🇸 only) TARKIR COLLECTOR Magic Break  No. 05 PICK🔮,,,137.0,0,,spots/5496591.csv,ab780b6ad17e
 5504631,RANDOM,completed,DIVISION,AUCTION,8,8,8,Flagship,kondi_tcs,#3 -RDB- 3x FLAGSHIP FATpack,3,retail fat,41.5,0,2026-10-10,spots/5504631.csv,21d2f745c92b
 5507056,PICK_YOUR,breaking,CUSTOM,BUY_IT_NOW,32,32,32,Flagship,cardsuniques,#1 PYT - 15x Flagship Hanger 2026 & 1x Flasgship Hobby 2026,15,mixed hobby+hanger,459.6,0,2026-10-11,spots/5507056.csv,4a5523909547
 5507137,PICK_YOUR,breaking,CUSTOM,BUY_IT_NOW,32,32,32,Finest,cardsuniques,#2 PYT - 1x Finest Hobby 2025 + 1x Flasgship Hobby 2026,1,hobby,1007.05,0,2026-10-11,spots/5507137.csv,fd57be20323f
@@ -259,14 +250,12 @@ break_id,wn_format,wn_status,wn_spot_type,wn_transaction_type,wn_sold_spot_count
 6047130,PICK_YOUR,completed,TEAM,BUY_IT_NOW,31,31,31,Inception,bucmk,#1 FULL CASE Inception,8,,4060.3,0,2026-11-04,spots/6047130.csv,eaecbe03a0ad
 6102251,PICK_YOUR,breaking,TEAM,BUY_IT_NOW,31,31,31,Holiday,alex_tcg17,5x NFL Holiday Mega boxen PYT,5,retail mega,338.3,0,2026-11-03,spots/6102251.csv,694064c91b22
 6132318,PICK_YOUR,completed,TEAM,BUY_IT_NOW,32,32,32,Inception,snapbackbreaks,PYT-4x NFL Inception (Halfcase),4,hobby,2518.1,0,2026-11-06,spots/6132318.csv,689d23f1a5cf
-6134184,RANDOM,completed,CUSTOM,BUY_IT_NOW,8,8,8,,,312. MEGA-GIGA-SUPER-BREAK MIT 13 COLLECTOR MANA BREAK SIEHE BOOSTER BESCHREIBUNG,,,570.0,0,,spots/6134184.csv,7af3a84ff9e3
 6148414,PICK_YOUR,completed,CUSTOM,BUY_IT_NOW,32,35,35,Inception,zo20rips,#1 - PYT INCEPTION FULL CASE BREAK (8 BOXES),8,,4554.2,0,2026-11-09,spots/6148414.csv,a88bfc721219
 6151525,PICK_YOUR,completed,TEAM,BUY_IT_NOW,31,31,31,Inception,bettercallnickug,#1 PYT Half Case (4 Boxes) 2026 Topps Inception NFL Football,4,,1895.11,0,2026-11-06,spots/6151525.csv,44ebd61d9d84
 6155232,PICK_YOUR,completed,TEAM,BUY_IT_NOW,30,32,32,Inception,bucmk,#1 HALF CASE (4x) Inception,4,,2134.1,0,2026-11-06,spots/6155232.csv,8fcf00391654
 6155252,RANDOM,completed,TEAM,BUY_IT_NOW,31,31,31,Inception,bucmk,#2 Topps INCEPTION true RTB,1,,493.0,0,2026-11-05,spots/6155252.csv,9f99cb04d5a8
 6155268,RANDOM,completed,DIVISION,BUY_IT_NOW,7,7,7,Inception,bucmk,#3 Topps INCEPTION true RTB devision,1,,448.0,0,2026-11-05,spots/6155268.csv,a58a2bdddd9e
 6163660,RANDOM,completed,TEAM,BUY_IT_NOW,32,31,32,Select,bettercallnickug,#2 RTB 2026 Topps Inception NFL Football + Select 2025 Blaster + Select 2024 Select Blaster + 2023 Select Blaster,,retail blaster,605.0,0,2026-11-06,spots/6163660.csv,116f0ac87e11
-6176147,RANDOM,completed,CUSTOM,BUY_IT_NOW,7,7,7,,,NR 3 PRE RELEASE DISPLAY BREAK STAR TREK  30 BOOSTER ,,,152.0,0,,spots/6176147.csv,1fb7121d7f06
 6213035,PICK_YOUR,completed,TEAM,BUY_IT_NOW,32,32,32,Inception,karlklammer,#1 Inception Half Case | 4x 2026 Topps Inception FB Hobby | PYT,4,hobby,2316.5,0,2026-11-07,spots/6213035.csv,d32f609fd303
 6236308,PICK_YOUR,breaking,TEAM,BUY_IT_NOW,28,28,28,Holiday,alex_tcg17,10x NFL Holiday Mega boxen PYT,10,retail mega,625.01,0,2026-11-06,spots/6236308.csv,86264737ea3a
 6242098,PICK_YOUR,completed,TEAM,BUY_IT_NOW,32,32,32,Inception,cardsuniques,#1 PYT - 4x Topps Inception 2026,4,,2417.95,0,2026-11-06,spots/6242098.csv,1c934dcb5336

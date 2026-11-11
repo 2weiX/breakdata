@@ -1,6 +1,11 @@
 # breakdata
 
-Whatnot break observations: what sold, for how much, on which board.
+Whatnot **football** break observations: what sold, for how much, on which board.
+
+Football only. Boards from other categories (NBA, Magic, Pokémon, Star Trek) are excluded
+even where they appear in the owner's order history. Classification is by spot content —
+a board counts as football when at least 40% of its spots start with an NFL team name —
+not by title, which mislabels boards like "Team Rest 3 Caser Flagship 2026".
 
 Append-only. Rewritten in full on each observation; git carries the history.
 
@@ -46,5 +51,7 @@ is stale and nothing in the file says so.
   be turned back into a `whatnot.com/live/<uuid>` link.
 - Buyer usernames are as they appear publicly on Whatnot during each live show.
 - No `reference/` or `bids/` yet; those are proposed, not built.
+- One board (`6252372`, a 87-spot pick-your-player board) holds 63 of its 87 sold spots;
+  the rest were not transcribed.
 
 Model, scripts and method live in a separate private repo.
