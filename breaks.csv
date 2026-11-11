@@ -304,16 +304,20 @@ break_id,wn_format,wn_status,wn_spot_type,wn_transaction_type,wn_sold_spot_count
 6296783,RANDOM,breaking,TEAM,AUCTION,57,57,57,Inception,drewsbreaks,1 x 2026 Topps Inception Football Box - Random Spot - From 1€,1,,632.0,0,2026-11-09,spots/6296783.csv,22bdb7abed82
 6297983,RANDOM,breaking,TEAM,AUCTION,57,57,57,Inception,drewsbreaks,1 x 2026 Topps Inception Football Box - Random Spot - From 1€ no2,1,,349.0,0,2026-11-09,spots/6297983.csv,0e632c480581
 6299790,PICK_YOUR,filling,TEAM,BUY_IT_NOW,6,6,32,Inception,karlklammer,#1 Inception 2 Boxer | 2x 2026 Topps Inception FB Hobby | PYT,2,hobby,188.0,1076.0,2026-11-09,spots/6299790.csv,a08d4b72ba9a
+6309608,RANDOM,filling,TEAM,BUY_IT_NOW,0,0,32,,,#1 Blaster-Hunt - Drei Jahre,,,0,304.0,2026-11-11,spots/6309608.csv,eab94a86ce05
 6309673,PICK_YOUR,filling,CUSTOM,BUY_IT_NOW,8,8,32,,,#2 PYT Mega Hunt - Drei Jahre,,,121.0,422.0,2026-11-11,spots/6309673.csv,59a81b7186cd
 6310281,PICK_YOUR,filling,TEAM,BUY_IT_NOW,5,5,32,Inception,,PYT: 2 x NFL Inception Hobby,,,265.0,1155.0,2026-11-11,spots/6310281.csv,f2ba564eaa37
 6310328,PICK_YOUR,filling,CUSTOM,BUY_IT_NOW,17,17,47,Donruss,karlklammer,#2 Panini | 2026 Donruss Hobby + 2026 Obsidian Hobby,,hobby,237.0,429.0,2026-11-09,spots/6310328.csv,8f61503b54fa
 6311681,PICK_YOUR,filling,CUSTOM,AUCTION,27,27,223,Inception,,#1 -PYP- 1x INCEPTION Hobby Box,,,35.9,196.0,2026-11-11,spots/6311681.csv,f2187e83a95d
+6311737,PICK_YOUR,filling,DIVISION,BUY_IT_NOW,0,0,8,,,#2 -PYD- 1x INCEPTION Hobby + 1x FLAGSHIP Fatpack,,,0,794.0,2026-11-11,spots/6311737.csv,a4ae4df77137
 6311777,PICK_YOUR,filling,TEAM,BUY_IT_NOW,8,8,32,,,#3 -PYT- 2x INCEPTION Hobby + 1x FLAGSHIP Value Box,,,333.95,1120.0,2026-11-11,spots/6311777.csv,98f947c1cbe8
 6321699,PICK_YOUR,completed,CUSTOM,BUY_IT_NOW,32,32,32,Inception,zo20rips,#2 - PYT INCEPTION FULL CASE BREAK (8 BOXES),8,,3955.7,0,2026-11-09,spots/6321699.csv,349702663f5a
 6325746,PICK_YOUR,completed,CUSTOM,BUY_IT_NOW,32,32,32,Inception,zo20rips,#3 - PYT INCEPTION FULL CASE BREAK (8 BOXES),8,,3775.66,0,2026-11-09,spots/6325746.csv,afcfb7e7f566
 6333513,PICK_YOUR,filling,TEAM,BUY_IT_NOW,23,23,32,,,Signed Memorabilia Mix !,,,447.85,189.0,2026-11-11,spots/6333513.csv,5ac07c0c9614
 6337002,PICK_YOUR,filling,TEAM,AUCTION,14,15,32,Heritage,,Heritage 2026 Hobby PYT,,,101.0,119.0,2026-11-11,spots/6337002.csv,d5ca0f5f17eb
 6338295,RANDOM,filling,TEAM,BUY_IT_NOW,15,15,32,,,4 Jahres Break,,,171.2,204.0,2026-11-11,spots/6338295.csv,1688ac69fe57
+6338407,RANDOM,filling,CUSTOM,BUY_IT_NOW,2,0,7,Leaf Trinity,,Leaf Trinity 2026 Hobby HIT DRAFT,,,84.0,210.0,2026-11-11,spots/6338407.csv,7d9b56fce865
 6338872,PICK_YOUR,filling,TEAM,BUY_IT_NOW,10,10,32,Inception,,2x Inception 2026 Hobby PYT,,,441.2,967.0,2026-11-11,spots/6338872.csv,713b578e0ba3
+6338896,RANDOM,filling,TEAM,BUY_IT_NOW,2,0,32,,,2x Holiday Mega 2026 + 2x Donruss Winter Tin 2025 + 2x Heritage Blaster 2026 True RTB,,,24.0,390.0,2026-11-11,spots/6338896.csv,65bf866956f0
 6344665,PICK_YOUR,filling,TEAM,BUY_IT_NOW,10,10,32,Heritage,,Heritage Break,,,74.0,169.0,2026-11-11,spots/6344665.csv,ea963774a1a8
 6345323,PICK_YOUR,filling,CUSTOM,BUY_IT_NOW,18,18,30,,,INCEPTION + Flagship MEGA,,,393.3,235.0,2026-11-11,spots/6345323.csv,e3251955471f

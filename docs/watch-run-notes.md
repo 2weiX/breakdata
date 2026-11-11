@@ -69,12 +69,17 @@ The **metadata** still has to come back for every board: a board can go `breakin
   count as reconciled; anything else is a real mismatch and the board should be skipped.
 - 6294475 returned 32 UNSOLD spots against `totalBreakSpots` 29 — failed the checksum on
   11 Nov and was not merged. Worth re-checking whether it clears.
-- The 40% NFL-team rule drops football boards whose spots are numbered or divisional: RTB
-  boards (`#1`, `#2`, …) and pick-your-division boards (`AFC North`). On 11 Nov it dropped
-  4 genuine football boards (6311737, 6338896, 6309608, 6338407) and 1 correct non-football
-  board (6336476, autographed Funkos). This ledger already contains such boards from the
-  backfill — 6251997 scores 0% — so the rule is stricter than the data it inherited.
-  **Unsettled.**
+- **Settled 11 Nov 2026: the 40% NFL-team rule is gone.** Whatnot classifies the stream,
+  not the board: `LiveStream.livestreamCategories -> LivestreamTagNode` carries
+  `label: "Football Cards"` / `deeplink: "tag/football"`, id `TGl2ZXN0cmVhbVRhZ05vZGU6OTYw`,
+  and on 11 Nov all 21 streams in the feed carried exactly that one category. A break id
+  harvested from the football feed is football; no content test is needed.
+  The `Break` node has `format` and `spotType` but no sport field, and introspection is
+  disabled (HTTP 400), so the category must be read off the stream at scrape time — which is
+  another reason to capture the livestream UUID while you have it.
+  Content survives only as a veto for boards a seller lists in the football category that are
+  plainly something else (6336476, Funkos of wrestlers and actors). The four boards the old
+  rule wrongly dropped — 6311737, 6338896, 6309608, 6338407 — were re-admitted.
 - The bid board in the private repo is **2026 Inception hobby only** (EUR 450/box). Pointed
   at Flagship or Heritage asks it flags everything as a buy. The alert has to filter to
   Inception, `PICK_YOUR`, `TEAM` spot type, with a known box count.

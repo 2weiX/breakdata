@@ -3,9 +3,24 @@
 Whatnot **football** break observations: what sold, for how much, on which board.
 
 Football only. Boards from other categories (NBA, Magic, Pokémon, Star Trek) are excluded
-even where they appear in the owner's order history. Classification is by spot content —
-a board counts as football when at least 40% of its spots start with an NFL team name —
-not by title, which mislabels boards like "Team Rest 3 Caser Flagship 2026".
+even where they appear in the owner's order history.
+
+**Classification is Whatnot's own, not ours.** A livestream carries
+`livestreamCategories -> LivestreamTagNode`, and the football one is
+`label: "Football Cards"`, `deeplink: "tag/football"`, id `TGl2ZXN0cmVhbVRhZ05vZGU6OTYw`.
+A break id harvested from that category feed is football, full stop. The `Break` node itself
+carries `format` and `spotType` but no sport, so the category has to come from the stream the
+board was found in — capture it at scrape time.
+
+Spot content is only a **veto**, for the case Whatnot's category cannot catch: a seller runs a
+football show and slips in a break of something else. A board whose spots plainly name another
+category's subjects is dropped by hand, with the reason recorded. Content is not the gate.
+
+Earlier revisions of this file defined football as "at least 40% of spots start with an NFL
+team name". That test was written for one cleanup of the order-history backfill, where every
+board had team-named spots, and it was wrong as a standing rule: it cannot see a
+random-team board that numbers its spots `#1`, `#2`, or a pick-your-division board that names
+`AFC North`. It dropped four genuine football boards on 11 Nov 2026 before being removed.
 
 Append-only. Rewritten in full on each observation; git carries the history.
 
@@ -54,6 +69,9 @@ is stale and nothing in the file says so.
   watch started are listed in `docs/watch-run-notes.md`.
 - Buyer usernames are as they appear publicly on Whatnot during each live show.
 - No `reference/` or `bids/` yet; those are proposed, not built.
+- `6336476` (2x Gold Rush Autographed Funkos Series 2) was listed in the Football Cards
+  category but its spots are wrestlers, baseball players and actors. Held out by the
+  content veto, not by Whatnot's category.
 - `6252372` (87-spot pick-your-player) held only 63 of its 87 sold spots until the
   11 Nov 2026 watch re-pulled it; it is now complete.
 
