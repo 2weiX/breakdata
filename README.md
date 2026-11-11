@@ -15,6 +15,8 @@ Append-only. Rewritten in full on each observation; git carries the history.
 |---|---|
 | `breaks.csv` | one row per break ever seen |
 | `spots/<break_id>.csv` | every spot on that break |
+| `scripts/querybreak.json` | the lifted `QueryBreak` document, so a run needs no Buy Spots click |
+| `docs/watch-run-notes.md` | how the extraction behaves in practice: quirks, costs, livestream UUIDs |
 
 ## breaks.csv
 
@@ -47,11 +49,15 @@ is stale and nothing in the file says so.
 
 ## Caveats
 
-- The livestream UUID is not recorded, so a `break_id` resolves through the API but cannot
-  be turned back into a `whatnot.com/live/<uuid>` link.
+- The livestream UUID is not a column here, so a `break_id` resolves through the API but
+  cannot be turned back into a `whatnot.com/live/<uuid>` link. The ones captured since the
+  watch started are listed in `docs/watch-run-notes.md`.
 - Buyer usernames are as they appear publicly on Whatnot during each live show.
 - No `reference/` or `bids/` yet; those are proposed, not built.
-- One board (`6252372`, a 87-spot pick-your-player board) holds 63 of its 87 sold spots;
-  the rest were not transcribed.
+- `6252372` (87-spot pick-your-player) held only 63 of its 87 sold spots until the
+  11 Nov 2026 watch re-pulled it; it is now complete.
 
-Model, scripts and method live in a separate private repo.
+The pricing model and the method write-up live in a separate private repo. What lives here
+is the data plus whatever the harness needs to reproduce the pull: `scripts/` and `docs/`.
+Read `docs/watch-run-notes.md` before running the extraction — it says how to skip the
+Buy Spots click, which is the one step that goes near payment UI.
