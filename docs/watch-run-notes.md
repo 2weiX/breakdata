@@ -31,11 +31,15 @@ A run still needs a live signed-in browser — Cloudflare and the ~2-minute acce
 unchanged — but it no longer needs to click anything, and it can navigate freely, because
 the document no longer dies with the page.
 
-Re-lift it with the original recipe only if Whatnot changes the query shape. Symptom:
-`getBreak` returns null, or errors, on a break id you know resolves.
+**The watch is now forbidden from clicking at all.** Verified 11 Nov 2026 end to end: on a
+fresh page with no click, the vendored document fetched straight from this repo resolved a
+board. If it stops working — `getBreak` returns null, or errors on a break id you know
+resolves — the run stops and reports. Re-lifting is a job for an attended session, because
+the only way to re-lift is the click, and that is the step that opened the wallet once.
 
 **Note:** `pull_boards.js` in the private repo still opens with the click instructions and
-does not point here. A run that reads only that file will still click.
+does not point here. Its click section is superseded. A run that reads only that file and
+follows it will click for no reason.
 
 ## Finding break ids
 
@@ -80,15 +84,22 @@ The **metadata** still has to come back for every board: a board can go `breakin
   Content survives only as a veto for boards a seller lists in the football category that are
   plainly something else (6336476, Funkos of wrestlers and actors). The four boards the old
   rule wrongly dropped — 6311737, 6338896, 6309608, 6338407 — were re-admitted.
-- The bid board in the private repo is **2026 Inception hobby only** (EUR 450/box). Pointed
-  at Flagship or Heritage asks it flags everything as a buy. The alert has to filter to
-  Inception, `PICK_YOUR`, `TEAM` spot type, with a known box count.
+- **The watch does no valuation.** It collects; Dennis evaluates on demand. The reason is
+  that the bid board in the private repo is **2026 Inception hobby only** (EUR 450/box), and
+  Inception is about three times the per-box economics of the products that fill most of the
+  feed: sold-out hobby boards take a median EUR 579/box for Inception against 174 for
+  Flagship and 178 for Heritage. Swept across Flagship and Heritage asks it marks nearly
+  every spot a buy. Any on-demand check must filter to Inception, `PICK_YOUR`, `TEAM` spot
+  type, with a known box count — or wait for per-product bid boards, which do not exist.
 - `boxes` lands blank on rows the watch adds: it is parsed from the title by the private
   repo's build chain, which the watch does not run. Box counts for the 11 Nov alert were
   read from titles by hand. Worth wiring that parser into the watch.
-- Auction boards make the ask test vacuous — every open spot on a EUR 1-start board is
-  "below fair". Report posted boards as takeable buys and auction boards separately, as
-  pre-bid caps.
+- When evaluating on demand, remember auction boards make the ask test vacuous: every open
+  spot on a EUR 1-start board is "below fair". Posted boards give takeable buys; auction
+  boards give pre-bid caps, which is a different decision. On 11 Nov all five open Inception
+  1-box auctions were EUR 1 across every team, and all four posted Inception boards were
+  140–158% of box cost and failed the 115% filter — so the honest answer was no takeable buy
+  at all, and the five auctions filled within the hour anyway.
 
 ## Livestream UUIDs
 
