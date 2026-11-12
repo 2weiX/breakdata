@@ -318,7 +318,7 @@ break_id,wn_format,wn_status,wn_spot_type,wn_transaction_type,wn_sold_spot_count
 6299790,PICK_YOUR,filling,TEAM,BUY_IT_NOW,6,6,32,Inception,karlklammer,#1 Inception 2 Boxer | 2x 2026 Topps Inception FB Hobby | PYT,2,hobby,188.0,1076.0,2026-11-09,spots/6299790.csv,cd38807f389b
 6309608,RANDOM,filling,TEAM,BUY_IT_NOW,0,0,32,,,#1 Blaster-Hunt - Drei Jahre,,,0,304.0,2026-11-11,spots/6309608.csv,eab94a86ce05
 6309673,PICK_YOUR,filling,CUSTOM,BUY_IT_NOW,8,8,32,,,#2 PYT Mega Hunt - Drei Jahre,,,121.0,422.0,2026-11-11,spots/6309673.csv,59a81b7186cd
-6310281,PICK_YOUR,filling,TEAM,BUY_IT_NOW,5,5,32,Inception,,PYT: 2 x NFL Inception Hobby,,,265.0,1155.0,2026-11-11,spots/6310281.csv,f2ba564eaa37
+6310281,PICK_YOUR,filling,TEAM,BUY_IT_NOW,6,6,32,Inception,,PYT: 2 x NFL Inception Hobby,,,301.0,1110.0,2026-11-11,spots/6310281.csv,a57a9f5afed1
 6310328,PICK_YOUR,filling,CUSTOM,BUY_IT_NOW,18,18,47,Donruss,karlklammer,#2 Panini | 2026 Donruss Hobby + 2026 Obsidian Hobby | PYT 47 Spots (NFL Legends + College),,hobby,245.0,421.0,2026-11-09,spots/6310328.csv,90429361f917
 6311681,PICK_YOUR,breaking,CUSTOM,AUCTION,223,223,223,Inception,,#1 -PYP- 1x INCEPTION Hobby Box,,,602.3,0,2026-11-11,spots/6311681.csv,c7854dbe6783
 6311737,PICK_YOUR,filling,DIVISION,BUY_IT_NOW,0,0,8,,,#2 -PYD- 1x INCEPTION Hobby + 1x FLAGSHIP Fatpack,,,0,794.0,2026-11-11,spots/6311737.csv,a4ae4df77137
@@ -333,7 +333,7 @@ break_id,wn_format,wn_status,wn_spot_type,wn_transaction_type,wn_sold_spot_count
 6338896,RANDOM,filling,TEAM,BUY_IT_NOW,2,0,32,,,2x Holiday Mega 2026 + 2x Donruss Winter Tin 2025 + 2x Heritage Blaster 2026 True RTB,,,24.0,390.0,2026-11-11,spots/6338896.csv,65bf866956f0
 6344665,PICK_YOUR,breaking,TEAM,BUY_IT_NOW,32,32,32,Heritage,,Heritage Break,,,228.2,0,2026-11-11,spots/6344665.csv,8f4145a49f98
 6345323,PICK_YOUR,filling,CUSTOM,BUY_IT_NOW,18,18,30,,,INCEPTION + Flagship MEGA,,,393.3,235.0,2026-11-11,spots/6345323.csv,e3251955471f
-6350699,RANDOM,filling,TEAM,BUY_IT_NOW,21,21,32,,,2x Gold Rush Mini Helmet Serie 5 RTB #3,,,250.0,132.0,2026-11-11,spots/6350699.csv,bb6053671d65
+6350699,RANDOM,filling,TEAM,BUY_IT_NOW,24,24,32,,,2x Gold Rush Mini Helmet Serie 5 RTB #3,,,280.0,96.0,2026-11-11,spots/6350699.csv,5dd0b09df2d8
 6352455,PICK_YOUR,filling,TEAM,BUY_IT_NOW,0,0,32,,,#1 - 2026 INCEPTION HOBBY BOX - 1 BOXER - PYT,,,0,636.0,2026-11-11,spots/6352455.csv,9436a6b7efc7
 6352551,PICK_YOUR,filling,TEAM,BUY_IT_NOW,0,0,32,,,🎄🏈 2026 Topps NFL Holiday – 6 Mega Box Break! 🔥,,,0,574.0,2026-11-11,spots/6352551.csv,ea1847a02b29
 6357969,RANDOM,filling,TEAM,AUCTION,4,4,32,,,COOLDOWN - 2x HOLIDAY MEGA Box,,,11.0,1.0,2026-11-11,spots/6357969.csv,21e2c3ae18b0

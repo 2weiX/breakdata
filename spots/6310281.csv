@@ -2,6 +2,7 @@ spot,price,state,buyer
 Arizona Cardinals,45,SOLD,tpsbmp93821
 Chicago Bears,46,SOLD,bucmk
 Cleveland Browns,44,SOLD,1pepe
+Denver Broncos,36,SOLD,nokturas
 Las Vegas Raiders,92,SOLD,1pepe
 San Francisco 49ers,38,SOLD,bucmk
 Atlanta Falcons,25,OPEN,
@@ -10,7 +11,6 @@ Buffalo Bills,50,OPEN,
 Carolina Panthers,35,OPEN,
 Cincinnati Bengals,20,OPEN,
 Dallas Cowboys,45,OPEN,
-Denver Broncos,45,OPEN,
 Detroit Lions,35,OPEN,
 Green Bay Packers,35,OPEN,
 Houston Texans,25,OPEN,
