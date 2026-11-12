@@ -333,7 +333,7 @@ break_id,wn_format,wn_status,wn_spot_type,wn_transaction_type,wn_sold_spot_count
 6338896,RANDOM,filling,TEAM,BUY_IT_NOW,2,0,32,,,2x Holiday Mega 2026 + 2x Donruss Winter Tin 2025 + 2x Heritage Blaster 2026 True RTB,,,24.0,390.0,2026-11-11,spots/6338896.csv,65bf866956f0
 6344665,PICK_YOUR,breaking,TEAM,BUY_IT_NOW,32,32,32,Heritage,,Heritage Break,,,228.2,0,2026-11-11,spots/6344665.csv,8f4145a49f98
 6345323,PICK_YOUR,filling,CUSTOM,BUY_IT_NOW,18,18,30,,,INCEPTION + Flagship MEGA,,,393.3,235.0,2026-11-11,spots/6345323.csv,e3251955471f
-6350699,RANDOM,filling,TEAM,BUY_IT_NOW,20,20,32,,,2x Gold Rush Mini Helmet Serie 5 RTB #3,,,238.0,144.0,2026-11-11,spots/6350699.csv,62afaca13445
+6350699,RANDOM,filling,TEAM,BUY_IT_NOW,21,21,32,,,2x Gold Rush Mini Helmet Serie 5 RTB #3,,,250.0,132.0,2026-11-11,spots/6350699.csv,bb6053671d65
 6352455,PICK_YOUR,filling,TEAM,BUY_IT_NOW,0,0,32,,,#1 - 2026 INCEPTION HOBBY BOX - 1 BOXER - PYT,,,0,636.0,2026-11-11,spots/6352455.csv,9436a6b7efc7
 6352551,PICK_YOUR,filling,TEAM,BUY_IT_NOW,0,0,32,,,🎄🏈 2026 Topps NFL Holiday – 6 Mega Box Break! 🔥,,,0,574.0,2026-11-11,spots/6352551.csv,ea1847a02b29
 6357969,RANDOM,filling,TEAM,AUCTION,4,4,32,,,COOLDOWN - 2x HOLIDAY MEGA Box,,,11.0,1.0,2026-11-11,spots/6357969.csv,21e2c3ae18b0
