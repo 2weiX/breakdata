@@ -1,5 +1,6 @@
 spot,price,state,buyer
 Green Bay Packers,8,SOLD,finstephan
+Tampa Bay Buccaneers,15,SOLD,wout_t
 Arizona Cardinals,29,OPEN,
 Atlanta Falcons,11,OPEN,
 Baltimore Ravens,13,OPEN,
@@ -28,6 +29,5 @@ Philadelphia Eagles,22,OPEN,
 Pittsburgh Steelers,23,OPEN,
 San Francisco 49ers,19,OPEN,
 Seattle Seahawks,19,OPEN,
-Tampa Bay Buccaneers,15,OPEN,
 Tennessee Titans,19,OPEN,
 Washington Commanders,19,OPEN,
