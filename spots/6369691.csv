@@ -2,11 +2,13 @@ spot,price,state,buyer
 Atlanta Falcons,14,SOLD,valentino2104
 Buffalo Bills,29,SOLD,grma1989
 Cleveland Browns,24,SOLD,phca
+Dallas Cowboys,19,SOLD,latradingcards82
 Denver Broncos,14,SOLD,nokturas
 Detroit Lions,14,SOLD,tpsbmp93821
 Green Bay Packers,9,SOLD,tpsbmp93821
 Miami Dolphins,14,SOLD,fussballmann
 New Orleans Saints,24,SOLD,fabian_93
+Pittsburgh Steelers,19,SOLD,latradingcards82
 San Francisco 49ers,29,SOLD,marcmontana77
 Seattle Seahawks,19,SOLD,shazzer0809
 Arizona Cardinals,49,OPEN,
@@ -14,7 +16,6 @@ Baltimore Ravens,19,OPEN,
 Carolina Panthers,19,OPEN,
 Chicago Bears,34,OPEN,
 Cincinnati Bengals,24,OPEN,
-Dallas Cowboys,19,OPEN,
 Houston Texans,9,OPEN,
 Indianapolis Colts,14,OPEN,
 Jacksonville Jaguars,14,OPEN,
@@ -27,7 +28,6 @@ New England Patriots,49,OPEN,
 New York Giants,37,OPEN,
 New York Jets,24,OPEN,
 Philadelphia Eagles,29,OPEN,
-Pittsburgh Steelers,19,OPEN,
 Tampa Bay Buccaneers,34,OPEN,
 Tennessee Titans,34,OPEN,
 Washington Commanders,19,OPEN,

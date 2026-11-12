@@ -1,15 +1,34 @@
 spot,price,state,buyer
+Arizona Cardinals,10.5,SOLD,ricknickcards
+Atlanta Falcons,7,SOLD,cocci23
+Baltimore Ravens,12,SOLD,popstephan
+Buffalo Bills,19,SOLD,sontrax82
 Carolina Panthers,7.2,SOLD,deshawnert
 Chicago Bears,4,SOLD,bjwormuth
+Cincinnati Bengals,19,SOLD,tampa_greg
+Cleveland Browns,8,SOLD,tampa_greg
 Dallas Cowboys,35,SOLD,hugoianer
+Denver Broncos,14,SOLD,xwaltewhite
+Detroit Lions,14,SOLD,ricknickcards
 Green Bay Packers,15,SOLD,fabothefish
+Houston Texans,3,SOLD,tampa_greg
 Indianapolis Colts,8,SOLD,robschal69
+Kansas City Chiefs/ JAGUARS/ CHARGERS,1,SOLD,hugoianer
+Las Vegas Raiders,15.2,SOLD,tak3r180
+Los Angeles Rams,25,SOLD,sontrax82
+Miami Dolphins,6,SOLD,karlos11
 Minnesota Vikings,9,SOLD,nicklassch1898
 New England Patriots,16.15,SOLD,strangers
 New Orleans Saints,15.2,SOLD,stooftroydan
+New York Giants,14,SOLD,boxbreakcorner
+New York Jets,4,SOLD,tampa_greg
+Philadelphia Eagles,7,SOLD,tampa_greg
 Pittsburgh Steelers,22,SOLD,glockenchili
+San Francisco 49ers,20,SOLD,tampa_greg
 Seattle Seahawks,4,SOLD,popstephan
 Tampa Bay Buccaneers,9,SOLD,tampa_greg
+Tennessee Titans,15,SOLD,choggy97
+Washington Commanders,6,SOLD,nook87
 Oregon,29,SOLD,tampa_greg
 Ohio State,25,SOLD,tampa_greg
 Notre Dame,20,SOLD,glockenchili
@@ -25,24 +44,3 @@ Texas,8,SOLD,tooom81
 LSU,12,SOLD,fabhup
 SEC & Big Ten Rest,42,SOLD,tampa_greg
 "ACC, Big 12 & Rest",45,SOLD,tampa_greg
-Arizona Cardinals,15,OPEN,
-Atlanta Falcons,15,OPEN,
-Baltimore Ravens,15,OPEN,
-Buffalo Bills,19,OPEN,
-Cincinnati Bengals,19,OPEN,
-Cleveland Browns,9,OPEN,
-Denver Broncos,19,OPEN,
-Detroit Lions,19,OPEN,
-Houston Texans,9,OPEN,
-Jacksonville Jaguars,2,OPEN,
-Kansas City Chiefs,3,OPEN,
-Las Vegas Raiders,19,OPEN,
-Los Angeles Chargers,6,OPEN,
-Los Angeles Rams,25,OPEN,
-Miami Dolphins,9,OPEN,
-New York Giants,19,OPEN,
-New York Jets,4,OPEN,
-Philadelphia Eagles,15,OPEN,
-San Francisco 49ers,25,OPEN,
-Tennessee Titans,15,OPEN,
-Washington Commanders,6,OPEN,

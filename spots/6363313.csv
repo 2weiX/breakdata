@@ -1,6 +1,8 @@
 spot,price,state,buyer
-Green Bay Packers,9,SOLD,420slik
+Kansas City Chiefs,9,SOLD,420slik
+Green Bay Packers,9,SOLD,matthiasradakovits83
 Arizona Cardinals,8,SOLD,matthiasradakovits83
+Atlanta Falcons,9,SOLD,schaller_onlineshop
 #1,9,OPEN,
 #2,9,OPEN,
 #3,9,OPEN,
@@ -8,11 +10,9 @@ Arizona Cardinals,8,SOLD,matthiasradakovits83
 #5,9,OPEN,
 #6,9,OPEN,
 #8,9,OPEN,
-#9,9,OPEN,
 #10,9,OPEN,
 #12,9,OPEN,
 #13,9,OPEN,
-#14,9,OPEN,
 #15,9,OPEN,
 #16,9,OPEN,
 #17,9,OPEN,
