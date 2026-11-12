@@ -1,16 +1,36 @@
 spot,price,state,buyer
+Arizona Cardinals,19,SOLD,nook87
 Atlanta Falcons,15,SOLD,roland42004
+Baltimore Ravens,10,SOLD,funkypat
 Buffalo Bills,15,SOLD,jan2407
+Carolina Panthers,15,SOLD,deshawnert
+Chicago Bears,15,SOLD,teajay003
+Cincinnati Bengals,10,SOLD,tampa_greg
+Cleveland Browns,9,SOLD,nook87
 Dallas Cowboys,24,SOLD,bobofboom
 Denver Broncos,10,SOLD,tampa_greg
 Detroit Lions,14,SOLD,torius82
+Green Bay Packers,19,SOLD,seb91200
+Houston Texans,7,SOLD,phca
+Indianapolis Colts,13.5,SOLD,phca
+Jacksonville Jaguars,6,SOLD,tampa_greg
 Kansas City Chiefs,8,SOLD,420slik
+Las Vegas Raiders,19,SOLD,teajay003
+Los Angeles Chargers,12,SOLD,nicklassch1898
+Los Angeles Rams,25,SOLD,mttg
+Miami Dolphins,4,SOLD,bobofboom
+Minnesota Vikings,14,SOLD,popstephan
 New England Patriots,14,SOLD,buzzufo
 New Orleans Saints,15,SOLD,that_wildcat_guy
 New York Giants,14,SOLD,boxbreakcorner
 New York Jets,8,SOLD,tampa_greg
+Philadelphia Eagles,9,SOLD,mttg
+Pittsburgh Steelers,19,SOLD,glockenchili
+San Francisco 49ers,19,SOLD,mttg
 Seattle Seahawks,2,SOLD,bobofboom
 Tampa Bay Buccaneers,15,SOLD,tampa_greg
+Tennessee Titans,12,SOLD,embrob62007
+Washington Commanders,6.4,SOLD,thephilcave
 Oregon,17,SOLD,fabhup
 Ohio State,15,SOLD,tampa_greg
 Notre Dame,13,SOLD,fabhup
@@ -19,30 +39,10 @@ Michigan,9,SOLD,torius82
 USC,9,SOLD,tampa_greg
 Miami,9,SOLD,tampa_greg
 Alabama,9,SOLD,tampa_greg
+Oklahoma,9,SOLD,glockenchili
 BYU,12,SOLD,tampa_greg
 Georgia,9,SOLD,jaekelinho
 Texas,7.2,SOLD,hugoianer
+LSU,4,SOLD,jaekelinho
 SEC & Big Ten Rest,31.5,SOLD,popstephan
 "ACC, Big 12 & Rest",29,SOLD,tampa_greg
-Arizona Cardinals,19,OPEN,
-Baltimore Ravens,15,OPEN,
-Carolina Panthers,15,OPEN,
-Chicago Bears,15,OPEN,
-Cincinnati Bengals,15,OPEN,
-Cleveland Browns,9,OPEN,
-Green Bay Packers,19,OPEN,
-Houston Texans,7,OPEN,
-Indianapolis Colts,15,OPEN,
-Jacksonville Jaguars,6,OPEN,
-Las Vegas Raiders,19,OPEN,
-Los Angeles Chargers,15,OPEN,
-Los Angeles Rams,25,OPEN,
-Miami Dolphins,9,OPEN,
-Minnesota Vikings,19,OPEN,
-Philadelphia Eagles,9,OPEN,
-Pittsburgh Steelers,19,OPEN,
-San Francisco 49ers,19,OPEN,
-Tennessee Titans,15,OPEN,
-Washington Commanders,8,OPEN,
-Oklahoma,9,OPEN,
-LSU,9,OPEN,

@@ -1,4 +1,5 @@
 spot,price,state,buyer
+Green Bay Packers,25,SOLD,sascha_biegemann
 Kansas City Chiefs,71.1,SOLD,jbtradcards
 Seattle Seahawks,42,SOLD,shazzer0809
 Arizona Cardinals,79,OPEN,
@@ -12,7 +13,6 @@ Cleveland Browns,55,OPEN,
 Dallas Cowboys,49,OPEN,
 Denver Broncos,49,OPEN,
 Detroit Lions,35,OPEN,
-Green Bay Packers,25,OPEN,
 Houston Texans,23,OPEN,
 Indianapolis Colts,32,OPEN,
 Jacksonville Jaguars,27,OPEN,

@@ -1,0 +1,48 @@
+spot,price,state,buyer
+Carolina Panthers,7.2,SOLD,deshawnert
+Chicago Bears,4,SOLD,bjwormuth
+Dallas Cowboys,35,SOLD,hugoianer
+Green Bay Packers,15,SOLD,fabothefish
+Indianapolis Colts,8,SOLD,robschal69
+Minnesota Vikings,9,SOLD,nicklassch1898
+New England Patriots,16.15,SOLD,strangers
+New Orleans Saints,15.2,SOLD,stooftroydan
+Pittsburgh Steelers,22,SOLD,glockenchili
+Seattle Seahawks,4,SOLD,popstephan
+Tampa Bay Buccaneers,9,SOLD,tampa_greg
+Oregon,29,SOLD,tampa_greg
+Ohio State,25,SOLD,tampa_greg
+Notre Dame,20,SOLD,glockenchili
+Ole Miss,19,SOLD,tampa_greg
+Michigan,19,SOLD,nook87
+USC,15,SOLD,tampa_greg
+Miami,15,SOLD,tampa_greg
+Alabama,9,SOLD,tooom81
+Oklahoma,9,SOLD,that_wildcat_guy
+BYU,9,SOLD,torius82
+Georgia,9,SOLD,jetsnicoo
+Texas,8,SOLD,tooom81
+LSU,12,SOLD,fabhup
+SEC & Big Ten Rest,42,SOLD,tampa_greg
+"ACC, Big 12 & Rest",45,SOLD,tampa_greg
+Arizona Cardinals,15,OPEN,
+Atlanta Falcons,15,OPEN,
+Baltimore Ravens,15,OPEN,
+Buffalo Bills,19,OPEN,
+Cincinnati Bengals,19,OPEN,
+Cleveland Browns,9,OPEN,
+Denver Broncos,19,OPEN,
+Detroit Lions,19,OPEN,
+Houston Texans,9,OPEN,
+Jacksonville Jaguars,2,OPEN,
+Kansas City Chiefs,3,OPEN,
+Las Vegas Raiders,19,OPEN,
+Los Angeles Chargers,6,OPEN,
+Los Angeles Rams,25,OPEN,
+Miami Dolphins,9,OPEN,
+New York Giants,19,OPEN,
+New York Jets,4,OPEN,
+Philadelphia Eagles,15,OPEN,
+San Francisco 49ers,25,OPEN,
+Tennessee Titans,15,OPEN,
+Washington Commanders,6,OPEN,
