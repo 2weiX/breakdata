@@ -219,6 +219,7 @@ break_id,wn_format,wn_status,wn_spot_type,wn_transaction_type,wn_sold_spot_count
 5822964,PICK_YOUR,breaking,TEAM,BUY_IT_NOW,32,32,32,Heritage,cardsuniques,#2 PYT - 3x Heritage Hobby 2026,3,hobby,601.25,0,2026-10-24,spots/5822964.csv,037336935aec
 5827394,PICK_YOUR,completed,TEAM,BUY_IT_NOW,33,35,35,Heritage,cardsuniques,#2 PYT - Case Break - 12x Heritage Hobby 2026,12,hobby,2393.85,0,2026-10-24,spots/5827394.csv,6a5e5aa01647
 5827409,RANDOM,completed,TEAM,BUY_IT_NOW,0,0,32,Heritage,cardsuniques,#3 RTB - 2x Heritage Hobby & 2x Value,2,mixed hobby+value,0,435.0,2026-10-24,spots/5827409.csv,ff7f9a821808
+5827678,RANDOM,filling,TEAM,BUY_IT_NOW,0,0,32,,,#A - Football Chrome 2026 Hobby Box,,,0,800.0,2026-11-12,spots/5827678.csv,43ccc35b8de5
 5828280,RANDOM,breaking,TEAM,BUY_IT_NOW,32,32,32,Flagship,wichtelcards,🔥 2026 Topps Flagship Football – 3 Box RANDOM TEAM BREAK 🏈,3,mixed mega+value+hanger,115.0,0,2026-10-23,spots/5828280.csv,b3d961ecf902
 5828292,PICK_YOUR,completed,TEAM,BUY_IT_NOW,32,32,32,Heritage,ultimatesports_cards,4x Heritage Hobby PYT,4,hobby,707.6,0,2026-10-24,spots/5828292.csv,83e1dedf7e67
 5828299,PICK_YOUR,completed,TEAM,BUY_IT_NOW,27,27,27,Heritage,ultimatesports_cards,20x Heritage Value (Half Case),20,retail value,630.8,0,2026-10-24,spots/5828299.csv,d8d35476ba4c
