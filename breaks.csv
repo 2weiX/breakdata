@@ -327,7 +327,7 @@ break_id,wn_format,wn_status,wn_spot_type,wn_transaction_type,wn_sold_spot_count
 6325746,PICK_YOUR,completed,CUSTOM,BUY_IT_NOW,32,32,32,Inception,zo20rips,#3 - PYT INCEPTION FULL CASE BREAK (8 BOXES),8,,3775.66,0,2026-11-09,spots/6325746.csv,afcfb7e7f566
 6333513,PICK_YOUR,filling,TEAM,BUY_IT_NOW,23,23,32,,,Signed Memorabilia Mix !,,,447.85,189.0,2026-11-11,spots/6333513.csv,5ac07c0c9614
 6337002,PICK_YOUR,filling,TEAM,AUCTION,14,15,32,Heritage,,Heritage 2026 Hobby PYT,,,101.0,119.0,2026-11-11,spots/6337002.csv,d5ca0f5f17eb
-6338295,RANDOM,filling,TEAM,BUY_IT_NOW,15,15,32,,,4 Jahres Break,,,171.2,204.0,2026-11-11,spots/6338295.csv,1688ac69fe57
+6338295,RANDOM,filling,TEAM,BUY_IT_NOW,16,16,32,,,4 Jahres Break,,,183.2,192.0,2026-11-11,spots/6338295.csv,0cdec658f516
 6338407,RANDOM,breaking,CUSTOM,BUY_IT_NOW,7,7,7,Leaf Trinity,,Leaf Trinity 2026 Hobby HIT DRAFT,,,281.0,0,2026-11-11,spots/6338407.csv,b9306fb197ce
 6338872,PICK_YOUR,filling,TEAM,BUY_IT_NOW,12,12,32,Inception,,2x Inception 2026 Hobby PYT,,,473.2,933.0,2026-11-11,spots/6338872.csv,8ef26c6479b2
 6338896,RANDOM,filling,TEAM,BUY_IT_NOW,2,0,32,,,2x Holiday Mega 2026 + 2x Donruss Winter Tin 2025 + 2x Heritage Blaster 2026 True RTB,,,24.0,390.0,2026-11-11,spots/6338896.csv,65bf866956f0
