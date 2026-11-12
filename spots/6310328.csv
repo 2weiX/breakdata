@@ -1,6 +1,8 @@
 spot,price,state,buyer
 Atlanta Falcons,15,SOLD,roland42004
+Buffalo Bills,15,SOLD,jan2407
 Dallas Cowboys,24,SOLD,bobofboom
+Denver Broncos,10,SOLD,tampa_greg
 Detroit Lions,14,SOLD,torius82
 Kansas City Chiefs,8,SOLD,420slik
 New England Patriots,14,SOLD,buzzufo
@@ -14,18 +16,18 @@ Ohio State,15,SOLD,tampa_greg
 Notre Dame,13,SOLD,fabhup
 Ole Miss,12,SOLD,nrw_vikings
 Michigan,9,SOLD,torius82
+USC,9,SOLD,tampa_greg
 Miami,9,SOLD,tampa_greg
+Alabama,9,SOLD,tampa_greg
 BYU,12,SOLD,tampa_greg
 SEC & Big Ten Rest,31.5,SOLD,popstephan
 "ACC, Big 12 & Rest",29,SOLD,tampa_greg
 Arizona Cardinals,19,OPEN,
 Baltimore Ravens,15,OPEN,
-Buffalo Bills,15,OPEN,
 Carolina Panthers,15,OPEN,
 Chicago Bears,15,OPEN,
 Cincinnati Bengals,15,OPEN,
 Cleveland Browns,9,OPEN,
-Denver Broncos,25,OPEN,
 Green Bay Packers,19,OPEN,
 Houston Texans,7,OPEN,
 Indianapolis Colts,15,OPEN,
@@ -40,8 +42,6 @@ Pittsburgh Steelers,19,OPEN,
 San Francisco 49ers,19,OPEN,
 Tennessee Titans,15,OPEN,
 Washington Commanders,8,OPEN,
-USC,9,OPEN,
-Alabama,9,OPEN,
 Oklahoma,9,OPEN,
 Georgia,9,OPEN,
 Texas,9,OPEN,

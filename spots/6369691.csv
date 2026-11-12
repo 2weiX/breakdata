@@ -1,5 +1,7 @@
 spot,price,state,buyer
 Cleveland Browns,24,SOLD,phca
+Denver Broncos,14,SOLD,nokturas
+New Orleans Saints,24,SOLD,fabian_93
 San Francisco 49ers,29,SOLD,marcmontana77
 Seattle Seahawks,19,SOLD,shazzer0809
 Arizona Cardinals,49,OPEN,
@@ -10,7 +12,6 @@ Carolina Panthers,19,OPEN,
 Chicago Bears,34,OPEN,
 Cincinnati Bengals,24,OPEN,
 Dallas Cowboys,19,OPEN,
-Denver Broncos,14,OPEN,
 Detroit Lions,14,OPEN,
 Green Bay Packers,9,OPEN,
 Houston Texans,9,OPEN,
@@ -23,7 +24,6 @@ Los Angeles Rams,44,OPEN,
 Miami Dolphins,14,OPEN,
 Minnesota Vikings,17,OPEN,
 New England Patriots,49,OPEN,
-New Orleans Saints,24,OPEN,
 New York Giants,37,OPEN,
 New York Jets,24,OPEN,
 Philadelphia Eagles,29,OPEN,

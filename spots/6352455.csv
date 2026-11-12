@@ -1,19 +1,20 @@
 spot,price,state,buyer
+Arizona Cardinals,25,SOLD,goldcreek_sportcards_by_linne
+Atlanta Falcons,9,SOLD,fussballmann
+Chicago Bears,25,SOLD,cassiorene
+Dallas Cowboys,17.5,SOLD,hugoianer
+Denver Broncos,17,SOLD,nokturas
+Detroit Lions,8,SOLD,frank_yankee
 Green Bay Packers,8,SOLD,finstephan
+Houston Texans,6,SOLD,alexandrughe07757
+Indianapolis Colts,9,SOLD,mynameisnik
+New England Patriots,33,SOLD,frank_yankee
 Tampa Bay Buccaneers,15,SOLD,wout_t
-Arizona Cardinals,29,OPEN,
-Atlanta Falcons,11,OPEN,
 Baltimore Ravens,13,OPEN,
 Buffalo Bills,23,OPEN,
 Carolina Panthers,11,OPEN,
-Chicago Bears,29,OPEN,
 Cincinnati Bengals,6,OPEN,
 Cleveland Browns,23,OPEN,
-Dallas Cowboys,19,OPEN,
-Denver Broncos,19,OPEN,
-Detroit Lions,9,OPEN,
-Houston Texans,6,OPEN,
-Indianapolis Colts,11,OPEN,
 Jacksonville Jaguars,7,OPEN,
 Kansas City Chiefs,32,OPEN,
 Las Vegas Raiders,59,OPEN,
@@ -21,7 +22,6 @@ Los Angeles Chargers,11,OPEN,
 Los Angeles Rams,37,OPEN,
 Miami Dolphins,15,OPEN,
 Minnesota Vikings,11,OPEN,
-New England Patriots,37,OPEN,
 New Orleans Saints,21,OPEN,
 New York Giants,29,OPEN,
 New York Jets,23,OPEN,

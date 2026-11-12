@@ -1,4 +1,5 @@
 spot,price,state,buyer
+Seattle Seahawks,22,SOLD,shazzer0809
 Arizona Cardinals,52,OPEN,
 Atlanta Falcons,16,OPEN,
 Baltimore Ravens,23,OPEN,
@@ -27,7 +28,6 @@ New York Jets,26,OPEN,
 Philadelphia Eagles,35,OPEN,
 Pittsburgh Steelers,23,OPEN,
 San Francisco 49ers,33,OPEN,
-Seattle Seahawks,22,OPEN,
 Tampa Bay Buccaneers,44,OPEN,
 Tennessee Titans,44,OPEN,
 Washington Commanders,24,OPEN,
