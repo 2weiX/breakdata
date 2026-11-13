@@ -1,5 +1,5 @@
 spot,price,state,buyer
-Arizona Cardinals,29,OPEN,
+Arizona Cardinals,25,SOLD,toppscards2025
 Atlanta Falcons,18,OPEN,
 Baltimore Ravens,22,OPEN,
 Buffalo Bills,34,OPEN,
@@ -14,7 +14,7 @@ Green Bay Packers,17,OPEN,
 Houston Texans,13,OPEN,
 Indianapolis Colts,18,OPEN,
 Jacksonville Jaguars,17,OPEN,
-Kansas City Chiefs,25,OPEN,
+Kansas City Chiefs,25,SOLD,toppscards2025
 Las Vegas Raiders,78,OPEN,
 Los Angeles Chargers,19,OPEN,
 Los Angeles Rams,46,OPEN,
