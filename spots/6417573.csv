@@ -1,33 +1,33 @@
 spot,price,state,buyer
-Arizona Cardinals,14,OPEN,
+Arizona Cardinals,10,SOLD,jagdfalke
 Atlanta Falcons,7,SOLD,jobar77
 Baltimore Ravens,12,OPEN,
 Buffalo Bills,12,SOLD,jobar77
 Carolina Panthers,13,OPEN,
 Chicago Bears,11,OPEN,
-Cincinnati Bengals,12,OPEN,
-Cleveland Browns,13,OPEN,
+Cincinnati Bengals,12,SOLD,muellery
+Cleveland Browns,9.5,SOLD,jagdfalke
 Dallas Cowboys,12,SOLD,sushi1606
 Denver Broncos,10,OPEN,
 Detroit Lions,12,OPEN,
 Green Bay Packers,11,SOLD,atm81
 Houston Texans,10,OPEN,
-Indianapolis Colts,10,OPEN,
+Indianapolis Colts,10,SOLD,atm81
 Jacksonville Jaguars,9,OPEN,
 Kansas City Chiefs,16,SOLD,jobar77
 Las Vegas Raiders,18,SOLD,jobar77
-Los Angeles Chargers,8,OPEN,
-Los Angeles Rams,16,OPEN,
-Miami Dolphins,8,OPEN,
+Los Angeles Chargers,6,SOLD,sushi1606
+Los Angeles Rams,16,SOLD,muellery
+Miami Dolphins,6,SOLD,sushi1606
 Minnesota Vikings,9,OPEN,
-New England Patriots,14,OPEN,
+New England Patriots,10,SOLD,jagdfalke
 New Orleans Saints,8,SOLD,jobar77
-New York Giants,13,OPEN,
+New York Giants,10.4,SOLD,jagdfalke
 New York Jets,10,OPEN,
 Philadelphia Eagles,11,OPEN,
 Pittsburgh Steelers,8,SOLD,jagdfalke
 San Francisco 49ers,10,SOLD,ernie474
 Seattle Seahawks,8.4,SOLD,rglt28
 Tampa Bay Buccaneers,8,OPEN,
-Tennessee Titans,10,OPEN,
+Tennessee Titans,8,SOLD,jagdfalke
 Washington Commanders,9,OPEN,
