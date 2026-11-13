@@ -1,5 +1,6 @@
 spot,price,state,buyer
 Carolina Panthers,27,SOLD,deshawnert
+Tampa Bay Buccaneers,36.9,SOLD,der_marsl
 Arizona Cardinals,75,OPEN,
 Atlanta Falcons,24,OPEN,
 Baltimore Ravens,39,OPEN,
@@ -28,6 +29,5 @@ Philadelphia Eagles,60,OPEN,
 Pittsburgh Steelers,53,OPEN,
 San Francisco 49ers,53,OPEN,
 Seattle Seahawks,44,OPEN,
-Tampa Bay Buccaneers,41,OPEN,
 Tennessee Titans,63,OPEN,
 Washington Commanders,56,OPEN,
