@@ -27,12 +27,11 @@ Append-only. Rewritten in full on each observation; git carries the history.
 Columns prefixed `wn_` are **delivered by Whatnot**. Everything else is derived locally and
 may be wrong; the `wn_` columns are the source of truth.
 
-Counts in the table below are as of 11 Nov 2026: **321 boards, 10,696 spot rows,
-€251,894.50 taken**. They go stale on every pull. Recompute; do not trust.
+Counts in the table below are as of 13 Nov 2026: **382 boards, €262,621.61 taken**. They go stale on every pull. Recompute; do not trust.
 
 `break_id, wn_format, wn_status, wn_spot_type, wn_transaction_type, wn_sold_spot_count,
 wn_filled_break_spots, wn_total_break_spots, product, seller, title, boxes, box_kind,
-take_eur, asks_eur, first_seen, spots_file, sha1`
+take_eur, asks_eur, first_seen, spots_file, sha1, stream_uuid`
 
 | Field | Values | Notes |
 |---|---|---|
@@ -45,6 +44,7 @@ take_eur, asks_eur, first_seen, spots_file, sha1`
 | `boxes` | present on 233 of 321 | parsed from the title by the private repo's build chain. **Weakest column here** — it feeds every per-box number |
 | `first_seen` | date | when this ledger first saw the board, *not* when Whatnot created it |
 | `sha1` | 12 hex | of the spot file; unchanged hash means unchanged board, skip without parsing |
+| `stream_uuid` | uuid | the show the board was found in; gives back the `whatnot.com/live/<uuid>` link. Captured since 13 Nov 2026, so blank on older boards |
 
 ## spots/<break_id>.csv
 
@@ -56,8 +56,6 @@ is stale and nothing in the file says so.
 
 ## Caveats
 
-- The livestream UUID is not recorded, so a `break_id` resolves through the API but cannot
-  be turned back into a `whatnot.com/live/<uuid>` link.
 - Buyer usernames are as they appear publicly on Whatnot during each live show.
 - No `reference/` or `bids/` yet; those are proposed, not built.
 
