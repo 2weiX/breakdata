@@ -31,7 +31,7 @@ Counts in the table below are as of 13 Nov 2026: **382 boards, €262,621.61 tak
 
 `break_id, wn_format, wn_status, wn_spot_type, wn_transaction_type, wn_sold_spot_count,
 wn_filled_break_spots, wn_total_break_spots, product, seller, title, boxes, box_kind,
-take_eur, asks_eur, first_seen, spots_file, sha1, stream_uuid`
+take_eur, asks_eur, first_seen, spots_file, sha1, stream_uuid, description, stream_url`
 
 | Field | Values | Notes |
 |---|---|---|
@@ -44,7 +44,9 @@ take_eur, asks_eur, first_seen, spots_file, sha1, stream_uuid`
 | `boxes` | present on 233 of 321 | parsed from the title by the private repo's build chain. **Weakest column here** — it feeds every per-box number |
 | `first_seen` | date | when this ledger first saw the board, *not* when Whatnot created it |
 | `sha1` | 12 hex | of the spot file; unchanged hash means unchanged board, skip without parsing |
-| `stream_uuid` | uuid | the show the board was found in; gives back the `whatnot.com/live/<uuid>` link. Captured since 13 Nov 2026, so blank on older boards |
+| `stream_uuid` | uuid | the show the board was found in. Captured since 13 Nov 2026, so blank on older boards |
+| `stream_url` | url | `whatnot.com/live/<stream_uuid>`; blank when the uuid is |
+| `description` | text | the seller's own blurb beside the title. Often carries the box count and product when the title does not. Newlines collapsed to spaces |
 
 ## spots/<break_id>.csv
 
