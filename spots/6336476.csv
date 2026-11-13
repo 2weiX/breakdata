@@ -1,7 +1,9 @@
 spot,price,state,buyer
 Finn Bálor,8,SOLD,pxxxz4008
 Elly De La Cruz,8,SOLD,maxrox72
+#3,8,OPEN,
 Bobby Hull,8,SOLD,maxrox72
+#5,8,OPEN,
 David Faustino,8,SOLD,maxrox72
 Thomas Ian Nicholas,7,SOLD,breaksunchained
 Jerry Seinfeld,8,SOLD,fabian_93
@@ -16,28 +18,18 @@ Justin Jefferson,8,SOLD,tpsbmp93821
 Ron Howard,8,SOLD,maxrox72
 Vladimir Guerrero Jr.,10,SOLD,pxxxz4008
 Christina Applegate,8,SOLD,atm81
+#20,8,OPEN,
 Magic Johnson,8,SOLD,pxxxz4008
+#22,8,OPEN,
 Will Smith,8,SOLD,annashaa
 Jack Lambert,8,SOLD,germanfootballfan
+#25,8,OPEN,
+#26,8,OPEN,
 Travis Kelce,8,SOLD,janrhl1999
 X-Pac,8,SOLD,janrhl1999
 The Miz,8,SOLD,lonestar997
-Deion Sanders,6,SOLD,pxxxz4008
-Jim Kelly,6,SOLD,maxrox72
-Steve Young,8,SOLD,tobigr19
-Oscar De La Hoya,8,SOLD,pxxxz4008
-Aaron Judge,5,SOLD,pxxxz4008
-Yordan Alvarez,8,SOLD,pxxxz4008
-Post Malone,7,SOLD,breaksunchained
-Dan Marino,7,SOLD,breaksunchained
-#3,8,OPEN,
-#5,8,OPEN,
-#20,8,OPEN,
-#22,8,OPEN,
-#25,8,OPEN,
-#26,8,OPEN,
 #30,8,OPEN,
-#31,8,OPEN,
+Jeff Gordon,8,SOLD,pxxxz4008
 #32,8,OPEN,
 #33,8,OPEN,
 #34,8,OPEN,
@@ -46,13 +38,17 @@ Dan Marino,7,SOLD,breaksunchained
 #37,8,OPEN,
 #38,8,OPEN,
 #39,8,OPEN,
+Deion Sanders,6,SOLD,pxxxz4008
 #41,8,OPEN,
 #42,8,OPEN,
 #43,8,OPEN,
+Jim Kelly,6,SOLD,maxrox72
+Steve Young,8,SOLD,tobigr19
 #46,8,OPEN,
 #47,8,OPEN,
 #48,8,OPEN,
 #49,8,OPEN,
+Oscar De La Hoya,8,SOLD,pxxxz4008
 #51,8,OPEN,
 #52,8,OPEN,
 #53,8,OPEN,
@@ -64,9 +60,12 @@ Dan Marino,7,SOLD,breaksunchained
 #59,8,OPEN,
 #60,8,OPEN,
 #61,8,OPEN,
+Aaron Judge,5,SOLD,pxxxz4008
+Yordan Alvarez,8,SOLD,pxxxz4008
 #64,8,OPEN,
 #65,8,OPEN,
 #66,8,OPEN,
+Post Malone,7,SOLD,breaksunchained
 #68,8,OPEN,
 #69,8,OPEN,
 #70,8,OPEN,
@@ -76,6 +75,7 @@ Dan Marino,7,SOLD,breaksunchained
 #74,8,OPEN,
 #75,8,OPEN,
 #76,8,OPEN,
+Dan Marino,7,SOLD,breaksunchained
 #78,8,OPEN,
 #79,8,OPEN,
 #80,8,OPEN,

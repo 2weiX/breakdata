@@ -1,7 +1,4 @@
 spot,price,state,buyer
-Kansas City Chiefs,85,SOLD,soenke23
-Minnesota Vikings,25,SOLD,spencer666
-New England Patriots,87.2,SOLD,buzzufo
 Arizona Cardinals,119,OPEN,
 Atlanta Falcons,25,OPEN,
 Baltimore Ravens,39,OPEN,
@@ -17,10 +14,13 @@ Green Bay Packers,25,OPEN,
 Houston Texans,25,OPEN,
 Indianapolis Colts,35,OPEN,
 Jacksonville Jaguars,35,OPEN,
-Las Vegas Raiders,169,OPEN,
+Kansas City Chiefs,85,SOLD,soenke23
+Las Vegas Raiders,150,SOLD,1pepe
 Los Angeles Chargers,45,OPEN,
 Los Angeles Rams,125,OPEN,
 Miami Dolphins,29,OPEN,
+Minnesota Vikings,25,SOLD,spencer666
+New England Patriots,87.2,SOLD,buzzufo
 New Orleans Saints,69,OPEN,
 New York Giants,85,OPEN,
 New York Jets,65,OPEN,

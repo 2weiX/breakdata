@@ -1,5 +1,4 @@
 spot,price,state,buyer
-#11,25,SOLD,matthiasradakovits83
 #1,25,OPEN,
 #2,25,OPEN,
 #3,25,OPEN,
@@ -10,6 +9,7 @@ spot,price,state,buyer
 #8,25,OPEN,
 #9,25,OPEN,
 #10,25,OPEN,
+#11,25,SOLD,matthiasradakovits83
 #12,25,OPEN,
 #13,25,OPEN,
 #14,25,OPEN,

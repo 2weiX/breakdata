@@ -1,6 +1,4 @@
 spot,price,state,buyer
-#11,13,SOLD,craden1181
-#15,11,SOLD,webster21
 #1,13,OPEN,
 #2,13,OPEN,
 #3,13,OPEN,
@@ -11,9 +9,11 @@ spot,price,state,buyer
 #8,13,OPEN,
 #9,13,OPEN,
 #10,13,OPEN,
+#11,13,SOLD,craden1181
 #12,13,OPEN,
 #13,13,OPEN,
 #14,13,OPEN,
+#15,11,SOLD,webster21
 #16,13,OPEN,
 #17,13,OPEN,
 #18,13,OPEN,

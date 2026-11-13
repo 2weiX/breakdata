@@ -1,33 +1,33 @@
 spot,price,state,buyer
+Arizona Cardinals,49,OPEN,
 Atlanta Falcons,14,SOLD,valentino2104
+Baltimore Ravens,19,OPEN,
 Buffalo Bills,29,SOLD,grma1989
+Carolina Panthers,19,OPEN,
+Chicago Bears,34,OPEN,
+Cincinnati Bengals,24,OPEN,
 Cleveland Browns,24,SOLD,phca
 Dallas Cowboys,19,SOLD,latradingcards82
 Denver Broncos,14,SOLD,nokturas
 Detroit Lions,14,SOLD,tpsbmp93821
 Green Bay Packers,9,SOLD,tpsbmp93821
-Kansas City Chiefs,39,SOLD,pxxxz4008
-Las Vegas Raiders,69,SOLD,pxxxz4008
-Miami Dolphins,14,SOLD,fussballmann
-New Orleans Saints,24,SOLD,fabian_93
-Pittsburgh Steelers,19,SOLD,latradingcards82
-San Francisco 49ers,29,SOLD,marcmontana77
-Seattle Seahawks,19,SOLD,shazzer0809
-Arizona Cardinals,49,OPEN,
-Baltimore Ravens,19,OPEN,
-Carolina Panthers,19,OPEN,
-Chicago Bears,34,OPEN,
-Cincinnati Bengals,24,OPEN,
-Houston Texans,9,OPEN,
+Houston Texans,9,SOLD,phca
 Indianapolis Colts,14,OPEN,
 Jacksonville Jaguars,14,OPEN,
+Kansas City Chiefs,39,SOLD,pxxxz4008
+Las Vegas Raiders,69,SOLD,pxxxz4008
 Los Angeles Chargers,14,OPEN,
 Los Angeles Rams,44,OPEN,
+Miami Dolphins,14,SOLD,fussballmann
 Minnesota Vikings,17,OPEN,
 New England Patriots,49,OPEN,
+New Orleans Saints,24,SOLD,fabian_93
 New York Giants,37,OPEN,
 New York Jets,24,OPEN,
 Philadelphia Eagles,29,OPEN,
+Pittsburgh Steelers,19,SOLD,latradingcards82
+San Francisco 49ers,29,SOLD,marcmontana77
+Seattle Seahawks,19,SOLD,shazzer0809
 Tampa Bay Buccaneers,34,OPEN,
 Tennessee Titans,34,OPEN,
 Washington Commanders,19,OPEN,

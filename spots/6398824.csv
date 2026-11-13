@@ -1,9 +1,9 @@
 spot,price,state,buyer
-Carolina Panthers,13,SOLD,grma1989
 Arizona Cardinals,38,OPEN,
 Atlanta Falcons,12,OPEN,
 Baltimore Ravens,19,OPEN,
-Buffalo Bills,29,OPEN,
+Buffalo Bills,29,SOLD,grma1989
+Carolina Panthers,13,SOLD,grma1989
 Chicago Bears,53,OPEN,
 Cincinnati Bengals,15,OPEN,
 Cleveland Browns,27,OPEN,
@@ -14,8 +14,8 @@ Green Bay Packers,16,OPEN,
 Houston Texans,8,OPEN,
 Indianapolis Colts,13,OPEN,
 Jacksonville Jaguars,12,OPEN,
-Kansas City Chiefs,27,OPEN,
-Las Vegas Raiders,81,OPEN,
+Kansas City Chiefs,25.65,SOLD,pxxxz4008
+Las Vegas Raiders,72.9,SOLD,pxxxz4008
 Los Angeles Chargers,13,OPEN,
 Los Angeles Rams,52,OPEN,
 Miami Dolphins,17,OPEN,

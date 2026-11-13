@@ -1,33 +1,33 @@
 spot,price,state,buyer
 Seattle Seahawks,10,SOLD,schaller_onlineshop
+#2,12,OPEN,
+Philadelphia Eagles,10,SOLD,bellocards
 Minnesota Vikings,9,SOLD,schaller_onlineshop
 Cincinnati Bengals,10.2,SOLD,hoenico
+Baltimore Ravens,12,SOLD,bellocards
+#7,12,OPEN,
+#8,12,OPEN,
 Los Angeles Rams,12,SOLD,manfredschulz3502
+#10,12,OPEN,
 Las Vegas Raiders,12,SOLD,fabian_93
 Green Bay Packers,12,SOLD,jan2407
 Indianapolis Colts,12,SOLD,craden1181
 Tennessee Titans,12,SOLD,schaller_onlineshop
-Chicago Bears,10,SOLD,schaller_onlineshop
-Carolina Panthers,12,SOLD,lonestar997
-Tampa Bay Buccaneers,12,SOLD,maxrox72
-Miami Dolphins,12,SOLD,jaekelinho
-Cleveland Browns,12,SOLD,schaller_onlineshop
-Pittsburgh Steelers,12,SOLD,annashaa
-Dallas Cowboys,12,SOLD,tobigr19
-New England Patriots,12,SOLD,fabian_93
-#2,12,OPEN,
-#3,12,OPEN,
-#6,12,OPEN,
-#7,12,OPEN,
-#8,12,OPEN,
-#10,12,OPEN,
 #15,12,OPEN,
+Chicago Bears,10,SOLD,schaller_onlineshop
 #17,12,OPEN,
 #18,12,OPEN,
 #19,12,OPEN,
-#22,12,OPEN,
+Carolina Panthers,12,SOLD,lonestar997
+Tampa Bay Buccaneers,12,SOLD,maxrox72
+New Orleans Saints,10,SOLD,florianper05379
+Miami Dolphins,12,SOLD,jaekelinho
+Cleveland Browns,12,SOLD,schaller_onlineshop
+Pittsburgh Steelers,12,SOLD,annashaa
 #26,12,OPEN,
 #27,12,OPEN,
 #28,12,OPEN,
 #29,12,OPEN,
+Dallas Cowboys,12,SOLD,tobigr19
+New England Patriots,12,SOLD,fabian_93
 #32,12,OPEN,
