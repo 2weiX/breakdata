@@ -303,11 +303,11 @@ break_id,wn_format,wn_status,wn_spot_type,wn_transaction_type,wn_sold_spot_count
 6293365,PICK_YOUR,completed,TEAM,AUCTION,32,32,32,Inception,derkiosk,Topps Inception Football 1 Box Break #6,1,,460.0,0,2026-11-09,spots/6293365.csv,df20a828d5b9
 6293366,PICK_YOUR,completed,TEAM,AUCTION,32,32,32,Inception,derkiosk,Topps Inception Football 1 Box Break #7,1,,469.0,0,2026-11-09,spots/6293366.csv,b12f86fb8016
 6293367,PICK_YOUR,completed,TEAM,AUCTION,32,32,32,Inception,derkiosk,Topps Inception Football 1 Box Break #8,1,,530.0,0,2026-11-09,spots/6293367.csv,65dece159702
-6293376,PICK_YOUR,filling,TEAM,AUCTION,21,21,32,Inception,,Topps Inception Football 1 Box Break #4,,,187.0,11.0,2026-11-11,spots/6293376.csv,e8069c0a1725
-6293377,PICK_YOUR,filling,TEAM,AUCTION,0,0,32,Inception,,Topps Inception Football 1 Box Break #5,,,0,32.0,2026-11-11,spots/6293377.csv,12ed2e064389
-6293380,PICK_YOUR,filling,TEAM,AUCTION,0,0,32,Inception,,Topps Inception Football 1 Box Break #6,,,0,32.0,2026-11-11,spots/6293380.csv,12ed2e064389
-6293381,PICK_YOUR,filling,TEAM,AUCTION,0,0,32,Inception,,Topps Inception Football 1 Box Break #7,,,0,32.0,2026-11-11,spots/6293381.csv,12ed2e064389
-6293382,PICK_YOUR,filling,TEAM,AUCTION,0,0,32,Inception,,Topps Inception Football 1 Box Break #8,,,0,32.0,2026-11-11,spots/6293382.csv,12ed2e064389
+6293376,PICK_YOUR,completed,TEAM,AUCTION,32,32,32,Inception,,Topps Inception Football 1 Box Break #4,,,429.0,11.0,2026-11-11,spots/6293376.csv,a58be54095f3
+6293377,PICK_YOUR,completed,TEAM,AUCTION,32,33,33,Inception,,Topps Inception Football 1 Box Break #5,,,424.0,32.0,2026-11-11,spots/6293377.csv,8c89a3262277
+6293380,PICK_YOUR,completed,TEAM,AUCTION,32,32,32,Inception,,Topps Inception Football 1 Box Break #6,,,460.0,32.0,2026-11-11,spots/6293380.csv,90ca6e4e237f
+6293381,PICK_YOUR,completed,TEAM,AUCTION,32,32,32,Inception,,Topps Inception Football 1 Box Break #7,,,472.0,32.0,2026-11-11,spots/6293381.csv,5aa89fbcfed1
+6293382,PICK_YOUR,completed,TEAM,AUCTION,32,32,32,Inception,,Topps Inception Football 1 Box Break #8,,,506.0,32.0,2026-11-11,spots/6293382.csv,eeda6618a2de
 6293764,PICK_YOUR,completed,TEAM,BUY_IT_NOW,32,32,32,Inception,boxbreakcorner,#01 2026 Topps Inception Football Hobbybox ( 1Boxer - PYT),1,hobby,576.95,0,2026-11-09,spots/6293764.csv,eb8414656e00
 6294475,RANDOM,filling,TEAM,BUY_IT_NOW,0,0,29,,,RTB - 4x Heritage 2026 Value Box,,,0,160.0,2026-11-11,spots/6294475.csv,532f7eb5417d
 6295188,PICK_YOUR,filling,TEAM,AUCTION,0,0,32,,,Topps Midnight Football 1 Box Break #1,,,0,32.0,2026-11-11,spots/6295188.csv,12ed2e064389
@@ -329,34 +329,34 @@ break_id,wn_format,wn_status,wn_spot_type,wn_transaction_type,wn_sold_spot_count
 6309673,PICK_YOUR,filling,CUSTOM,BUY_IT_NOW,10,10,32,,,#2 PYT Mega Hunt - Drei Jahre,,,153.0,388.0,2026-11-11,spots/6309673.csv,9c06e34bff6d
 6310281,PICK_YOUR,completed,TEAM,BUY_IT_NOW,29,29,29,Inception,,PYT: 2 x NFL Inception Hobby ,,,1023.95,0,2026-11-11,spots/6310281.csv,b59b35c77012
 6310328,PICK_YOUR,completed,CUSTOM,BUY_IT_NOW,47,47,47,Donruss,karlklammer,#2 Panini | 2026 Donruss Hobby + 2026 Obsidian Hobby | PYT 47 Spots (NFL Legends + College),,hobby,611.6,0,2026-11-09,spots/6310328.csv,cd924d9eb780
-6311681,PICK_YOUR,breaking,CUSTOM,AUCTION,223,223,223,Inception,,#1 -PYP- 1x INCEPTION Hobby Box,,,602.3,0,2026-11-11,spots/6311681.csv,c7854dbe6783
+6311681,PICK_YOUR,completed,CUSTOM,AUCTION,223,223,223,Inception,,#1 -PYP- 1x INCEPTION Hobby Box,,,602.3,0,2026-11-11,spots/6311681.csv,c7854dbe6783
 6311737,PICK_YOUR,filling,DIVISION,BUY_IT_NOW,0,0,8,,,#2 -PYD- 1x INCEPTION Hobby + 1x FLAGSHIP Fatpack,,,0,794.0,2026-11-11,spots/6311737.csv,a4ae4df77137
-6311777,PICK_YOUR,filling,TEAM,BUY_IT_NOW,32,32,32,,,#3 -PYT- 2x INCEPTION Hobby + 1x FLAGSHIP Value Box,,,1258.65,0,2026-11-11,spots/6311777.csv,098c40f46703
+6311777,PICK_YOUR,completed,TEAM,BUY_IT_NOW,32,32,32,,,#3 -PYT- 2x INCEPTION Hobby + 1x FLAGSHIP Value Box,,,1258.65,0,2026-11-11,spots/6311777.csv,098c40f46703
 6319300,PICK_YOUR,filling,CUSTOM,BUY_IT_NOW,0,0,32,,,20x Value Boxen #1,,,0,1554.0,2026-11-12,spots/6319300.csv,91129c9e78db
 6319337,PICK_YOUR,filling,CUSTOM,BUY_IT_NOW,0,0,32,,,20x Value Boxen #2,,,0,1554.0,2026-11-12,spots/6319337.csv,91129c9e78db
 6321699,PICK_YOUR,completed,CUSTOM,BUY_IT_NOW,32,32,32,Inception,zo20rips,#2 - PYT INCEPTION FULL CASE BREAK (8 BOXES),8,,3955.7,0,2026-11-09,spots/6321699.csv,349702663f5a
 6325746,PICK_YOUR,completed,CUSTOM,BUY_IT_NOW,32,32,32,Inception,zo20rips,#3 - PYT INCEPTION FULL CASE BREAK (8 BOXES),8,,3775.66,0,2026-11-09,spots/6325746.csv,afcfb7e7f566
-6333513,PICK_YOUR,filling,TEAM,BUY_IT_NOW,23,23,32,,,Signed Memorabilia Mix !,,,447.85,189.0,2026-11-11,spots/6333513.csv,5ac07c0c9614
+6333513,PICK_YOUR,completed,TEAM,BUY_IT_NOW,31,31,31,,,Signed Memorabilia Mix !,,,584.85,189.0,2026-11-11,spots/6333513.csv,b6dc37892f98
 6336170,PICK_YOUR,filling,CUSTOM,AUCTION,0,0,165,,,PYP #1 Casebreak Topps Chrome Hobby NFL 26 (12 Boxen),,,0,165.0,2026-11-12,spots/6336170.csv,6d607451c8c7
 6336476,RANDOM,filling,CUSTOM,BUY_IT_NOW,31,31,80,,,2x 2026 Gold Rush Autographed Funkos Series 2,,,229.0,392.0,2026-11-12,spots/6336476.csv,8b235761904a
-6337002,PICK_YOUR,filling,TEAM,AUCTION,14,15,32,Heritage,,Heritage 2026 Hobby PYT,,,101.0,119.0,2026-11-11,spots/6337002.csv,d5ca0f5f17eb
+6337002,PICK_YOUR,completed,TEAM,AUCTION,30,30,30,Heritage,,Heritage 2026 Hobby PYT,,,220.0,119.0,2026-11-11,spots/6337002.csv,54b47edf50eb
 6337375,PICK_YOUR,filling,CUSTOM,BUY_IT_NOW,1,1,32,,,PYT #1 Casebreak Breaker´s Delight NFL Chrome 26 (6 Boxen) ,,,129.0,11159.0,2026-11-12,spots/6337375.csv,c675582a4520
 6338295,RANDOM,filling,TEAM,BUY_IT_NOW,16,16,32,,,4 Jahres Break,,,183.2,192.0,2026-11-11,spots/6338295.csv,0cdec658f516
-6338407,RANDOM,breaking,CUSTOM,BUY_IT_NOW,7,7,7,Leaf Trinity,,Leaf Trinity 2026 Hobby HIT DRAFT,,,281.0,0,2026-11-11,spots/6338407.csv,b9306fb197ce
+6338407,RANDOM,completed,CUSTOM,BUY_IT_NOW,7,7,7,Leaf Trinity,,Leaf Trinity 2026 Hobby HIT DRAFT,,,281.0,0,2026-11-11,spots/6338407.csv,b9306fb197ce
 6338872,PICK_YOUR,filling,TEAM,BUY_IT_NOW,12,12,32,Inception,,2x Inception 2026 Hobby PYT,,,473.2,933.0,2026-11-11,spots/6338872.csv,8ef26c6479b2
 6338896,RANDOM,filling,TEAM,BUY_IT_NOW,2,0,32,,,2x Holiday Mega 2026 + 2x Donruss Winter Tin 2025 + 2x Heritage Blaster 2026 True RTB,,,24.0,390.0,2026-11-11,spots/6338896.csv,65bf866956f0
 6344665,PICK_YOUR,breaking,TEAM,BUY_IT_NOW,32,32,32,Heritage,,Heritage Break,,,228.2,0,2026-11-11,spots/6344665.csv,8f4145a49f98
-6345323,PICK_YOUR,filling,CUSTOM,BUY_IT_NOW,18,18,30,,,INCEPTION + Flagship MEGA,,,393.3,235.0,2026-11-11,spots/6345323.csv,e3251955471f
+6345323,PICK_YOUR,completed,CUSTOM,BUY_IT_NOW,29,29,29,,,INCEPTION + Flagship MEGA,,,554.9,235.0,2026-11-11,spots/6345323.csv,86cec78a9711
 6346963,PICK_YOUR,filling,TEAM,BUY_IT_NOW,0,0,32,,,🎄 KRX WINTER DOWNTOWN HUNT 🏈 | 5x DONRUSS HOLIDAY TINS | ALL TEAMS 5€ 🔥 PYT,,,0,160.0,2026-11-12,spots/6346963.csv,586bde2b2628
 6346994,PICK_YOUR,filling,TEAM,BUY_IT_NOW,0,0,32,,,💎 KRX CHROME DOUBLE RIP 🔥 | 2x TOPPS CHROME 2025 MEGA | AUTO & XFRACTOR HUNT 🏈 PYT,,,0,362.0,2026-11-12,spots/6346994.csv,6738399c7126
 6350699,RANDOM,filling,TEAM,BUY_IT_NOW,32,32,32,,,2x Gold Rush Mini Helmet Serie 5 RTB #3,,,373.0,0,2026-11-11,spots/6350699.csv,aec8f8d73832
-6352455,PICK_YOUR,filling,TEAM,BUY_IT_NOW,23,23,32,,,#1 - 2026 INCEPTION HOBBY BOX - 1 BOXER - PYT,,,379.5,207.0,2026-11-11,spots/6352455.csv,171bf1663c0a
+6352455,PICK_YOUR,completed,TEAM,BUY_IT_NOW,27,27,27,,,#1 - 2026 INCEPTION HOBBY BOX - 1 BOXER - PYT,,,460.7,207.0,2026-11-11,spots/6352455.csv,8937dae6744c
 6352483,RANDOM,breaking,TEAM,AUCTION,32,32,32,,,#2 - 2025 OPTIC BLASTER - 2 BOXER - RTB,,,86.35,0,2026-11-12,spots/6352483.csv,5fc99e183d42
 6352551,PICK_YOUR,filling,TEAM,BUY_IT_NOW,0,0,32,,,🎄🏈 2026 Topps NFL Holiday – 6 Mega Box Break! 🔥,,,0,574.0,2026-11-11,spots/6352551.csv,ea1847a02b29
-6352806,RANDOM,filling,TEAM,AUCTION,0,0,32,,,Topps NFL Holiday Mega Box,,,0,0,2026-11-12,spots/6352806.csv,3af116d2241b
+6352806,RANDOM,filling,TEAM,AUCTION,0,0,32,,,Topps NFL Holiday Mega Box,,,0,0,2026-11-12,spots/6352806.csv,815a9ecd0700
 6357969,RANDOM,filling,TEAM,AUCTION,4,4,32,,,COOLDOWN - 2x HOLIDAY MEGA Box,,,11.0,1.0,2026-11-11,spots/6357969.csv,21e2c3ae18b0
 6363286,PICK_YOUR,filling,TEAM,BUY_IT_NOW,0,0,32,,,#1 -PYT- 3 x SELECT HOBBY BLASTER 25,,,0,32.0,2026-11-12,spots/6363286.csv,12ed2e064389
-6363313,RANDOM,filling,TEAM,BUY_IT_NOW,32,32,32,,,#2 - RTB - DONRUSS OPTIC RETAIL 2021,,,239.2,0,2026-11-12,spots/6363313.csv,fea921883784
+6363313,RANDOM,completed,TEAM,BUY_IT_NOW,32,32,32,,,#2 - RTB - DONRUSS OPTIC RETAIL 2021,,,239.2,0,2026-11-12,spots/6363313.csv,fea921883784
 6363341,RANDOM,filling,TEAM,BUY_IT_NOW,0,0,32,,,#3 - RTB - 2024 CERTIFIED HOBBY + 2024 Contenders Blaster,,,0,512.0,2026-11-12,spots/6363341.csv,0960e5e2841d
 6368270,RANDOM,filling,TEAM,AUCTION,0,0,32,,,#2 -RTB- 1x INCEPTION Hobby + 1x FLAGSHIP Fatpack,,,0,0,2026-11-12,spots/6368270.csv,3af116d2241b
 6369691,PICK_YOUR,filling,TEAM,BUY_IT_NOW,12,12,32,,,#1 MIDNIGHT,,,228.0,591.0,2026-11-12,spots/6369691.csv,d2e1a4d5f9f3
@@ -368,12 +368,12 @@ break_id,wn_format,wn_status,wn_spot_type,wn_transaction_type,wn_sold_spot_count
 6371329,RANDOM,filling,TEAM,AUCTION,24,23,32,,,#2 RTB: Topps/Panini Blaster Mix,,,49.0,0,2026-11-12,spots/6371329.csv,e68217d6f472
 6371333,PICK_YOUR,filling,TEAM,BUY_IT_NOW,5,5,32,,,2# 2x NFL Topps Midnight Hobby 2026,,,292.1,1380.0,2026-11-12,spots/6371333.csv,cc1e3b7d5cc7
 6381628,PICK_YOUR,completed,TEAM,BUY_IT_NOW,32,32,32,,,#01 2026 Topps Inception Football Hobbybox ( 1Boxer - PYT),,,567.06,0,2026-11-12,spots/6381628.csv,4cac2de8b044
-6383974,PICK_YOUR,breaking,CUSTOM,BUY_IT_NOW,45,45,45,,,#3 Obsidian | 2x 2026 Panini Obsidian Hobby | PYT 47 Spots (NFL Legends + College),,,649.25,0,2026-11-12,spots/6383974.csv,5b26d4b26689
+6383974,PICK_YOUR,completed,CUSTOM,BUY_IT_NOW,45,45,45,,,#3 Obsidian | 2x 2026 Panini Obsidian Hobby | PYT 47 Spots (NFL Legends + College),,,649.25,0,2026-11-12,spots/6383974.csv,5b26d4b26689
 6384020,RANDOM,filling,TEAM,BUY_IT_NOW,0,0,32,,,#1 RTB - Mixer (1x Midnight + 2x Heritage Mega),,,0,928.0,2026-11-12,spots/6384020.csv,faa75376332b
 6384031,PICK_YOUR,filling,TEAM,BUY_IT_NOW,0,0,32,,,#2 PYT - 2x Midnight,,,0,1610.0,2026-11-12,spots/6384031.csv,093f3f588249
 6384053,RANDOM,filling,TEAM,AUCTION,0,0,32,,,#1 (RTB) 1x 2026 Topps Midnight Football - Hobby,,,0,0,2026-11-12,spots/6384053.csv,3af116d2241b
 6384573,RANDOM,filling,TEAM,AUCTION,21,21,47,,,#4 Donruss | 1x 2026 Panini Donruss Hobby | RTB 47 Spots (NFL Legends + College),,,151.0,0,2026-11-12,spots/6384573.csv,756a33c58204
-6385608,PICK_YOUR,breaking,TEAM,AUCTION,32,32,32,,,#1 -PYT- 3 x SELECT HOBBY BLASTER 25,,,112.0,0,2026-11-12,spots/6385608.csv,4bb082c7d115
+6385608,PICK_YOUR,completed,TEAM,AUCTION,32,32,32,,,#1 -PYT- 3 x SELECT HOBBY BLASTER 25,,,112.0,0,2026-11-12,spots/6385608.csv,4bb082c7d115
 6385653,PICK_YOUR,filling,TEAM,AUCTION,0,0,32,,,4x NFL Holiday Mega Box Break,,,0,367.0,2026-11-12,spots/6385653.csv,c85c37bcaf02
 6386302,RANDOM,filling,TEAM,AUCTION,5,4,32,,,#02 2026 Topps Inception Football Hobbybox ( 1Boxer - RTB),,,77.3,0,2026-11-12,spots/6386302.csv,1088195da762
 6398495,PICK_YOUR,filling,TEAM,BUY_IT_NOW,1,1,32,,,#1 PYT - 2x Midnight 2026,,,27.0,1622.0,2026-11-13,spots/6398495.csv,37e9e5044656
