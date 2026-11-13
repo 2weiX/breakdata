@@ -364,7 +364,7 @@ break_id,wn_format,wn_status,wn_spot_type,wn_transaction_type,wn_sold_spot_count
 6370261,PICK_YOUR,filling,TEAM,BUY_IT_NOW,3,3,32,,,2x Midnight Hobby PYT,,,197.2,1767.0,2026-11-12,spots/6370261.csv,0bf9d8bdbcd5
 6370265,RANDOM,filling,TEAM,BUY_IT_NOW,1,0,32,,,1x Midnight Hobby RTB,,,25.0,775.0,2026-11-12,spots/6370265.csv,2dbe8a3d3034
 6370280,PICK_YOUR,filling,CUSTOM,BUY_IT_NOW,2,2,32,,,#1 - PYT FULL CASE MIDNIGHT NFL,,,158.0,5728.0,2026-11-12,spots/6370280.csv,2927c734458c
-6371184,PICK_YOUR,filling,TEAM,BUY_IT_NOW,11,11,32,,,2x NFL Topps Midnight Hobby 2026,,,640.1,1020.0,2026-11-12,spots/6371184.csv,1695c0e49038
+6371184,PICK_YOUR,filling,TEAM,BUY_IT_NOW,11,12,32,,,2x NFL Topps Midnight Hobby 2026,,,640.1,1020.0,2026-11-12,spots/6371184.csv,1695c0e49038
 6371329,RANDOM,filling,TEAM,AUCTION,24,23,32,,,#2 RTB: Topps/Panini Blaster Mix,,,49.0,0,2026-11-12,spots/6371329.csv,e68217d6f472
 6371333,PICK_YOUR,filling,TEAM,BUY_IT_NOW,3,3,32,,,2# 2x NFL Topps Midnight Hobby 2026,,,138.1,1544.0,2026-11-12,spots/6371333.csv,3fc7a7d04a54
 6381628,PICK_YOUR,completed,TEAM,BUY_IT_NOW,32,32,32,,,#01 2026 Topps Inception Football Hobbybox ( 1Boxer - PYT),,,567.06,0,2026-11-12,spots/6381628.csv,4cac2de8b044
