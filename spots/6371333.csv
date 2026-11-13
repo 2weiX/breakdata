@@ -1,8 +1,9 @@
 spot,price,state,buyer
+Arizona Cardinals,74,SOLD,jbtradcards
 Green Bay Packers,25,SOLD,sascha_biegemann
 Kansas City Chiefs,71.1,SOLD,jbtradcards
+Los Angeles Rams,80,SOLD,jbtradcards
 Seattle Seahawks,42,SOLD,shazzer0809
-Arizona Cardinals,79,OPEN,
 Atlanta Falcons,29,OPEN,
 Baltimore Ravens,35,OPEN,
 Buffalo Bills,59,OPEN,
@@ -18,7 +19,6 @@ Indianapolis Colts,32,OPEN,
 Jacksonville Jaguars,27,OPEN,
 Las Vegas Raiders,139,OPEN,
 Los Angeles Chargers,33,OPEN,
-Los Angeles Rams,85,OPEN,
 Miami Dolphins,29,OPEN,
 Minnesota Vikings,35,OPEN,
 New England Patriots,109,OPEN,
