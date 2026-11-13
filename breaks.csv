@@ -376,3 +376,5 @@ break_id,wn_format,wn_status,wn_spot_type,wn_transaction_type,wn_sold_spot_count
 6385608,PICK_YOUR,breaking,TEAM,AUCTION,32,32,32,,,#1 -PYT- 3 x SELECT HOBBY BLASTER 25,,,112.0,0,2026-11-12,spots/6385608.csv,4bb082c7d115
 6385653,PICK_YOUR,filling,TEAM,AUCTION,0,0,32,,,4x NFL Holiday Mega Box Break,,,0,367.0,2026-11-12,spots/6385653.csv,c85c37bcaf02
 6386302,RANDOM,filling,TEAM,AUCTION,5,4,32,,,#02 2026 Topps Inception Football Hobbybox ( 1Boxer - RTB),,,77.3,0,2026-11-12,spots/6386302.csv,1088195da762
+6398495,PICK_YOUR,filling,TEAM,BUY_IT_NOW,0,0,32,,,#1 PYT - 2x Midnight 2026,,,0,1649.0,2026-11-13,spots/6398495.csv,c6d00a91b866
+6398824,PICK_YOUR,filling,TEAM,BUY_IT_NOW,0,0,32,,,#2 PYT - 1x Midnight 2026,,,0,825.0,2026-11-13,spots/6398824.csv,989d8b901f50
