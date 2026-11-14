@@ -1,33 +1,33 @@
 spot,price,state,buyer
 Seattle Seahawks,10,SOLD,schaller_onlineshop
-#2,12,OPEN,
+Los Angeles Chargers,12,SOLD,schaller_onlineshop
 Philadelphia Eagles,10,SOLD,bellocards
 Minnesota Vikings,9,SOLD,schaller_onlineshop
 Cincinnati Bengals,10.2,SOLD,hoenico
 Baltimore Ravens,12,SOLD,bellocards
-#7,12,OPEN,
-#8,12,OPEN,
+Detroit Lions,12,SOLD,schaller_onlineshop
+Atlanta Falcons,4,SOLD,fabian_93
 Los Angeles Rams,12,SOLD,manfredschulz3502
-#10,12,OPEN,
-Las Vegas Raiders,12,SOLD,fabian_93
+New York Giants,12,SOLD,oliversfarsa
+Kansas City Chiefs,12,SOLD,fabian_93
 Green Bay Packers,12,SOLD,jan2407
 Indianapolis Colts,12,SOLD,craden1181
 Tennessee Titans,12,SOLD,schaller_onlineshop
-#15,12,OPEN,
+Buffalo Bills,8,SOLD,jan2407
 Chicago Bears,10,SOLD,schaller_onlineshop
-#17,12,OPEN,
-#18,12,OPEN,
-#19,12,OPEN,
+Arizona Cardinals,12,SOLD,schaller_onlineshop
+Denver Broncos,7,SOLD,fabian_93
+Houston Texans,6,SOLD,fabian_93
 Carolina Panthers,12,SOLD,lonestar997
 Tampa Bay Buccaneers,12,SOLD,maxrox72
 New Orleans Saints,10,SOLD,florianper05379
-Miami Dolphins,12,SOLD,jaekelinho
+Dallas Cowboys,12,SOLD,jaekelinho
 Cleveland Browns,12,SOLD,schaller_onlineshop
 Pittsburgh Steelers,12,SOLD,annashaa
-#26,12,OPEN,
-#27,12,OPEN,
-#28,12,OPEN,
-#29,12,OPEN,
-Dallas Cowboys,12,SOLD,tobigr19
+Washington Commanders,8,SOLD,craden1181
+New York Jets,12,SOLD,craden1181
+San Francisco 49ers,10.8,SOLD,jan2407
+Jacksonville Jaguars,10,SOLD,oliversfarsa
+Miami Dolphins,12,SOLD,tobigr19
 New England Patriots,12,SOLD,fabian_93
-#32,12,OPEN,
+Las Vegas Raiders,10.2,SOLD,tpsbmp93821

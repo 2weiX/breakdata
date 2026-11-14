@@ -1,3 +1,4 @@
 spot,price,state,buyer
-Green Bay Packers,12,SOLD,finstephan
-Las Vegas Raiders,109,SOLD,tassosis
+#3,15,SOLD,finstephan
+Las Vegas Raiders,109,OPEN,
+Green Bay Packers,15,OPEN,

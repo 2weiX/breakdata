@@ -1,5 +1,5 @@
 spot,price,state,buyer
-Arizona Cardinals,45,OPEN,
+Arizona Cardinals,25,SOLD,kondi_tcs
 Atlanta Falcons,10,SOLD,shahrazzo
 Baltimore Ravens,14,SOLD,shahrazzo
 Buffalo Bills,25,SOLD,llaalv
@@ -7,7 +7,7 @@ Carolina Panthers,10,SOLD,shahrazzo
 Chicago Bears,31,SOLD,florianmar
 Cincinnati Bengals,21,SOLD,llaalv
 Cleveland Browns,24,SOLD,shahrazzo
-Dallas Cowboys,27,OPEN,
+Dallas Cowboys,17,SOLD,xandersander
 Denver Broncos,23,SOLD,1pepe
 Detroit Lions,12,SOLD,altsavas
 Green Bay Packers,12,SOLD,nfl_houseofcards
@@ -17,7 +17,7 @@ Jacksonville Jaguars,14,SOLD,rikigronk87
 Kansas City Chiefs,34.4,SOLD,chrisrlz
 Las Vegas Raiders,69,SOLD,1pepe
 Los Angeles Chargers,10,SOLD,xandersander
-Los Angeles Rams,46,OPEN,
+Los Angeles Rams,32,SOLD,kondi_tcs
 Miami Dolphins,10,SOLD,michaelkramer29
 Minnesota Vikings,12,SOLD,altsavas
 New England Patriots,50,SOLD,frank_yankee

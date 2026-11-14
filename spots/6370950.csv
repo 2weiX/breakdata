@@ -1,9 +1,9 @@
 spot,price,state,buyer
 Arizona Cardinals,240,OPEN,
-Atlanta Falcons,65,OPEN,
+Atlanta Falcons,58.5,SOLD,popstephan
 Baltimore Ravens,105,OPEN,
 Buffalo Bills,240,OPEN,
-Carolina Panthers,80,OPEN,
+Carolina Panthers,68,SOLD,rupert_kulmer
 Chicago Bears,240,OPEN,
 Cincinnati Bengals,120,SOLD,steve2518
 Cleveland Browns,185,OPEN,

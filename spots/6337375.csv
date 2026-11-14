@@ -1,5 +1,4 @@
 spot,price,state,buyer
-Minnesota Vikings,129,SOLD,noragemode
 Los Angeles Rams,999,OPEN,
 Las Vegas Raiders,899,OPEN,
 Arizona Cardinals,849,OPEN,
@@ -10,7 +9,7 @@ Chicago Bears,549,OPEN,
 New Orleans Saints,499,OPEN,
 Dallas Cowboys,399,OPEN,
 San Francisco 49ers,399,OPEN,
-Kansas City Chiefs,399,OPEN,
+Kansas City Chiefs,359.1,SOLD,schmexlenny
 New England Patriots,369,OPEN,
 Seattle Seahawks,349,OPEN,
 Tampa Bay Buccaneers,319,OPEN,
@@ -27,6 +26,7 @@ Pittsburgh Steelers,199,OPEN,
 Carolina Panthers,149,OPEN,
 Indianapolis Colts,139,OPEN,
 Jacksonville Jaguars,129,OPEN,
+Minnesota Vikings,129,SOLD,noragemode
 Atlanta Falcons,129,OPEN,
 Green Bay Packers,99,OPEN,
 Houston Texans,99,OPEN,

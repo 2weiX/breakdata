@@ -7,9 +7,7 @@ spot,price,state,buyer
 #6,25,OPEN,
 #7,25,OPEN,
 #8,25,OPEN,
-#9,25,SOLD,matthiasradakovits83
 #10,25,OPEN,
-#11,25,SOLD,matthiasradakovits83
 #12,25,OPEN,
 #13,25,OPEN,
 #14,25,OPEN,
@@ -18,7 +16,6 @@ spot,price,state,buyer
 #17,25,OPEN,
 #18,25,OPEN,
 #19,25,OPEN,
-#20,22,SOLD,joekuhl
 #21,25,OPEN,
 #22,25,OPEN,
 #23,25,OPEN,

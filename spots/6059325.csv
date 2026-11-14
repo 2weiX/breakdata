@@ -1,5 +1,4 @@
 spot,price,state,buyer
-Jacksonville Jaguars,60,SOLD,rikigronk87
 Arizona Cardinals,220,OPEN,
 Atlanta Falcons,80,OPEN,
 Baltimore Ravens,100,OPEN,
@@ -14,6 +13,7 @@ Detroit Lions,90,OPEN,
 Green Bay Packers,100,OPEN,
 Houston Texans,80,OPEN,
 Indianapolis Colts,80,OPEN,
+Jacksonville Jaguars,60,SOLD,rikigronk87
 Kansas City Chiefs,120,OPEN,
 Las Vegas Raiders,320,OPEN,
 Los Angeles Chargers,90,OPEN,
@@ -27,7 +27,7 @@ New York Jets,100,OPEN,
 Philadelphia Eagles,90,OPEN,
 Pittsburgh Steelers,100,OPEN,
 San Francisco 49ers,80,OPEN,
-Seattle Seahawks,90,OPEN,
-Tampa Bay Buccaneers,100,OPEN,
+Seattle Seahawks,70,SOLD,fabhup
+Tampa Bay Buccaneers,80,SOLD,fabhup
 Tennessee Titans,230,OPEN,
 Washington Commanders,100,OPEN,
