@@ -1,33 +1,33 @@
 spot,price,state,buyer
-Arizona Cardinals,4,OPEN,
-Atlanta Falcons,4,OPEN,
-Baltimore Ravens,4,OPEN,
-Buffalo Bills,4,OPEN,
-Carolina Panthers,4,OPEN,
-Chicago Bears,4,OPEN,
-Cincinnati Bengals,4,OPEN,
-Cleveland Browns,4,OPEN,
-Dallas Cowboys,4,OPEN,
-Denver Broncos,4,OPEN,
-Detroit Lions,4,OPEN,
-Green Bay Packers,4,OPEN,
-Houston Texans,4,OPEN,
-Indianapolis Colts,4,OPEN,
-Jacksonville Jaguars,4,OPEN,
-Kansas City Chiefs,2,OPEN,
-Las Vegas Raiders,4,OPEN,
-Los Angeles Chargers,4,OPEN,
-Los Angeles Rams,4,OPEN,
-Miami Dolphins,4,OPEN,
-Minnesota Vikings,4,OPEN,
-New England Patriots,4,OPEN,
-New Orleans Saints,4,OPEN,
-New York Giants,4,OPEN,
-New York Jets,4,OPEN,
-Philadelphia Eagles,4,OPEN,
-Pittsburgh Steelers,4,OPEN,
-San Francisco 49ers,4,OPEN,
-Seattle Seahawks,4,OPEN,
-Tampa Bay Buccaneers,4,OPEN,
-Tennessee Titans,4,OPEN,
-Washington Commanders,4,OPEN,
+Arizona Cardinals,4,SOLD,bayerndjango
+Atlanta Falcons,2,SOLD,bayerndjango
+Baltimore Ravens,2,SOLD,slinrel
+Buffalo Bills,5,SOLD,bayerndjango
+Carolina Panthers,2,SOLD,bayerndjango
+Chicago Bears,4,SOLD,hiedaniela
+Cincinnati Bengals,2,SOLD,hawkfelix99
+Cleveland Browns,2,SOLD,bayerndjango
+Dallas Cowboys,4,SOLD,patrickfin35812
+Denver Broncos,3,SOLD,bayerndjango
+Detroit Lions,2,SOLD,slinrel
+Green Bay Packers,4,SOLD,ts_packers
+Houston Texans,2,SOLD,slinrel
+Indianapolis Colts,2,SOLD,slinrel
+Jacksonville Jaguars,2,SOLD,slinrel
+Kansas City Chiefs,5,SOLD,menlinus
+Las Vegas Raiders,4,SOLD,menlinus
+Los Angeles Chargers,2,SOLD,slinrel
+Los Angeles Rams,3,SOLD,bayerndjango
+Miami Dolphins,2,SOLD,bayerndjango
+Minnesota Vikings,4,SOLD,patrickfin35812
+New England Patriots,2,SOLD,hawkfelix99
+New Orleans Saints,2,SOLD,patrickfin35812
+New York Giants,4,SOLD,bayerndjango
+New York Jets,3,SOLD,hawkfelix99
+Philadelphia Eagles,2,SOLD,slinrel
+Pittsburgh Steelers,2,SOLD,slinrel
+San Francisco 49ers,4,SOLD,sleepyhollow1899
+Seattle Seahawks,2,SOLD,slinrel
+Tampa Bay Buccaneers,5,SOLD,herrfabs
+Tennessee Titans,2,SOLD,hawkfelix99
+Washington Commanders,2,SOLD,bayerndjango

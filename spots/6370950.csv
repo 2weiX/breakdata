@@ -1,10 +1,10 @@
 spot,price,state,buyer
-Arizona Cardinals,240,OPEN,
+Arizona Cardinals,216,SOLD,jbtradcards
 Atlanta Falcons,58.5,SOLD,popstephan
-Baltimore Ravens,105,OPEN,
-Buffalo Bills,240,OPEN,
+Baltimore Ravens,90,SOLD,lostinclothes
+Buffalo Bills,190,SOLD,llaalv
 Carolina Panthers,68,SOLD,rupert_kulmer
-Chicago Bears,240,OPEN,
+Chicago Bears,215,SOLD,bjwormuth
 Cincinnati Bengals,120,SOLD,steve2518
 Cleveland Browns,150,SOLD,1pepe
 Dallas Cowboys,155,SOLD,fumbleinthejungle
@@ -20,14 +20,13 @@ Los Angeles Chargers,55.25,SOLD,kevsen_31
 Los Angeles Rams,200,SOLD,mystikruffy
 Miami Dolphins,50,SOLD,traxes
 Minnesota Vikings,65,SOLD,karlos11
-New England Patriots,340,OPEN,
-New Orleans Saints,185,OPEN,
-New York Giants,185,OPEN,
-New York Jets,200,OPEN,
-Philadelphia Eagles,145,OPEN,
-Pittsburgh Steelers,160,OPEN,
-San Francisco 49ers,185,OPEN,
+New England Patriots,306,SOLD,smilingjoker
+New Orleans Saints,160,SOLD,fabian_93
+New York Giants,157.25,SOLD,marekkrg
+Philadelphia Eagles,125,SOLD,kevkus
+Pittsburgh Steelers,137,SOLD,jmscardbreaks
+San Francisco 49ers,160,SOLD,marekkrg
 Seattle Seahawks,145,SOLD,lumenatic12
-Tampa Bay Buccaneers,240,OPEN,
+Tampa Bay Buccaneers,168,SOLD,bnlsascha
 Tennessee Titans,170,SOLD,fumbleinthejungle
 Washington Commanders,108,SOLD,blochi99
