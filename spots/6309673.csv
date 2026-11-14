@@ -1,31 +1,31 @@
 spot,price,state,buyer
-Buffalo Bills,16.2,SOLD,funkypat
-Chicago Bears,20.8,SOLD,bjwormuth
-Cleveland Browns,7,SOLD,jensrh
-Dallas Cowboys,12,SOLD,chrispdino
-Green Bay Packers,13,SOLD,jensrh
-Jacksonville Jaguars,10,SOLD,hustinho
-Kansas City Chiefs,22,SOLD,cassiorene
-Minnesota Vikings,15,SOLD,karlos11
-Philadelphia Eagles,15,SOLD,funkypat
-Pittsburgh Steelers,22,SOLD,hustinho
 Arizona Cardinals,14,OPEN,
 Atlanta Falcons,18,OPEN,
 Baltimore Ravens,20,OPEN,
+Buffalo Bills,16.2,SOLD,funkypat
 Carolina Panthers,9,OPEN,
+Chicago Bears,20.8,SOLD,bjwormuth
 Cincinnati Bengals,26,OPEN,
+Cleveland Browns,7,SOLD,jensrh
+Dallas Cowboys,12,SOLD,chrispdino
 Denver Broncos,26,OPEN,
 Detroit Lions,18,OPEN,
+Green Bay Packers,13,SOLD,jensrh
 Houston Texans,11,OPEN,
 Indianapolis Colts,15,OPEN,
+Jacksonville Jaguars,10,SOLD,hustinho
+Kansas City Chiefs,22,SOLD,cassiorene
 Las Vegas Raiders,25,OPEN,
 Los Angeles Chargers,14,OPEN,
 Los Angeles Rams,25,OPEN,
 Miami Dolphins,17,OPEN,
+Minnesota Vikings,15,SOLD,karlos11
 New England Patriots,25,OPEN,
 New Orleans Saints,14,OPEN,
 New York Giants,15,OPEN,
 New York Jets,12,OPEN,
+Philadelphia Eagles,15,SOLD,funkypat
+Pittsburgh Steelers,22,SOLD,hustinho
 San Francisco 49ers,26,OPEN,
 Seattle Seahawks,15,OPEN,
 Tampa Bay Buccaneers,12,OPEN,
