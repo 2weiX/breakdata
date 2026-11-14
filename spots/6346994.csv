@@ -2,10 +2,10 @@ spot,price,state,buyer
 Arizona Cardinals,5,OPEN,
 Atlanta Falcons,8,OPEN,
 Baltimore Ravens,10,OPEN,
-Buffalo Bills,10,OPEN,
+Buffalo Bills,9,SOLD,alexbr91483
 Carolina Panthers,10,OPEN,
 Chicago Bears,15,OPEN,
-Cincinnati Bengals,10,OPEN,
+Cincinnati Bengals,8,SOLD,alexbr91483
 Cleveland Browns,10,OPEN,
 Dallas Cowboys,7,OPEN,
 Denver Broncos,10,OPEN,
@@ -25,7 +25,7 @@ New Orleans Saints,10,OPEN,
 New York Giants,19,OPEN,
 New York Jets,10,OPEN,
 Philadelphia Eagles,15,OPEN,
-Pittsburgh Steelers,6,OPEN,
+Pittsburgh Steelers,5,SOLD,alexbr91483
 San Francisco 49ers,10,OPEN,
 Seattle Seahawks,8,OPEN,
 Tampa Bay Buccaneers,12,OPEN,
