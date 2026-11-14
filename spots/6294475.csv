@@ -1,8 +1,8 @@
 spot,price,state,buyer
-#1,5,OPEN,
-#2,5,OPEN,
+Los Angeles Rams,2,SOLD,mjjunior90
+Green Bay Packers,2,SOLD,lacostpair
 Las Vegas Raiders,5,SOLD,eini11
-#4,5,OPEN,
+Seattle Seahawks,3,SOLD,mjjunior90
 #5,5,OPEN,
 #6,5,OPEN,
 Indianapolis Colts,5,SOLD,eini11
@@ -11,7 +11,7 @@ Indianapolis Colts,5,SOLD,eini11
 Philadelphia Eagles,5,SOLD,eini11
 Kansas City Chiefs,5,SOLD,eini11
 #12,5,OPEN,
-#13,5,OPEN,
+#13,2,SOLD,mjjunior90
 #14,5,OPEN,
 #15,5,OPEN,
 #16,5,OPEN,

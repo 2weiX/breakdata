@@ -1,11 +1,11 @@
 spot,price,state,buyer
-#1,16,OPEN,
-#2,16,OPEN,
+#1,16,SOLD,sontrax82
+#2,16,SOLD,sontrax82
 #3,16,OPEN,
 #4,16,OPEN,
 #5,16,OPEN,
 #6,16,OPEN,
-#7,16,OPEN,
+#7,16,SOLD,sontrax82
 #8,16,OPEN,
 #9,16,SOLD,emperor_cards
 #10,16,OPEN,
