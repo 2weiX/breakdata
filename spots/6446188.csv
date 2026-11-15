@@ -2,20 +2,15 @@ spot,price,state,buyer
 #1,5,OPEN,
 #2,5,OPEN,
 #3,5,OPEN,
-#4,5,OPEN,
 #5,5,OPEN,
 #7,5,OPEN,
-#8,5,OPEN,
 #10,5,OPEN,
-#11,5,OPEN,
 #12,5,OPEN,
 #14,5,OPEN,
-#15,5,OPEN,
 #18,5,OPEN,
 #19,5,OPEN,
 #20,5,OPEN,
 #21,5,OPEN,
-#25,5,OPEN,
 #27,5,OPEN,
 #28,5,OPEN,
 #29,5,OPEN,
@@ -31,3 +26,8 @@ Dallas Cowboys,5,SOLD,rayleigh_j_b
 Cincinnati Bengals,5,SOLD,rayleigh_j_b
 Carolina Panthers,5,SOLD,rayleigh_j_b
 Philadelphia Eagles,5,SOLD,rayleigh_j_b
+Los Angeles Chargers,5,SOLD,tpsbmp93821
+Kansas City Chiefs,5,SOLD,miguellissabon
+Miami Dolphins,5,SOLD,miguellissabon
+Chicago Bears,5,SOLD,miguellissabon
+Tampa Bay Buccaneers,5,SOLD,smowhat

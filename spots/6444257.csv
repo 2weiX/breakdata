@@ -1,5 +1,5 @@
 spot,price,state,buyer
-Arizona Cardinals,115,OPEN,
+Arizona Cardinals,103.5,SOLD,jbtradcards
 Atlanta Falcons,39,OPEN,
 Baltimore Ravens,55,OPEN,
 Buffalo Bills,89,OPEN,
@@ -17,7 +17,7 @@ Jacksonville Jaguars,39,OPEN,
 Kansas City Chiefs,109,OPEN,
 Las Vegas Raiders,219,OPEN,
 Los Angeles Chargers,39,OPEN,
-Los Angeles Rams,129,OPEN,
+Los Angeles Rams,116.1,SOLD,jbtradcards
 Miami Dolphins,39,OPEN,
 Minnesota Vikings,49,OPEN,
 New England Patriots,165,OPEN,

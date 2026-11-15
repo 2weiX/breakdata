@@ -1,9 +1,9 @@
 spot,price,state,buyer
 Arizona Cardinals,1,OPEN,
-Atlanta Falcons,1,OPEN,
-Baltimore Ravens,1,OPEN,
+Atlanta Falcons,10,SOLD,jeremymen82375
+Baltimore Ravens,9,SOLD,mortimort
 Buffalo Bills,1,OPEN,
-Carolina Panthers,1,OPEN,
+Carolina Panthers,9,SOLD,cassiorene
 Chicago Bears,1,OPEN,
 Cincinnati Bengals,1,OPEN,
 Cleveland Browns,1,OPEN,
