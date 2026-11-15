@@ -1,14 +1,4 @@
 spot,price,state,buyer
-#1,5,OPEN,
-#2,5,OPEN,
-#5,5,OPEN,
-#14,5,OPEN,
-#18,5,OPEN,
-#20,5,OPEN,
-#21,5,OPEN,
-#29,5,OPEN,
-#30,5,OPEN,
-#31,5,OPEN,
 Houston Texans,5,SOLD,fussballmann
 Denver Broncos,3,SOLD,fussballmann
 Arizona Cardinals,5,SOLD,tpsbmp93821
@@ -18,9 +8,9 @@ Dallas Cowboys,5,SOLD,rayleigh_j_b
 Cincinnati Bengals,5,SOLD,rayleigh_j_b
 Carolina Panthers,5,SOLD,rayleigh_j_b
 Philadelphia Eagles,5,SOLD,rayleigh_j_b
-Los Angeles Chargers,5,SOLD,fussballmann
+Los Angeles Chargers,5,SOLD,miguellissabon
 Kansas City Chiefs,5,SOLD,miguellissabon
-Miami Dolphins,5,SOLD,miguellissabon
+Miami Dolphins,5,SOLD,fussballmann
 Chicago Bears,5,SOLD,miguellissabon
 Tampa Bay Buccaneers,5,SOLD,smowhat
 Green Bay Packers,3.5,SOLD,jobar77
@@ -31,3 +21,13 @@ San Francisco 49ers,4,SOLD,8a8ymonster
 Cleveland Browns,5,SOLD,jobar77
 Indianapolis Colts,5,SOLD,carbau79
 New York Jets,3.5,SOLD,jobar77
+Atlanta Falcons,4,SOLD,konradkarsch
+New York Giants,5,SOLD,andy_rip_it
+Las Vegas Raiders,5,SOLD,andy_rip_it
+Baltimore Ravens,4.4,SOLD,konradkarsch
+Minnesota Vikings,5,SOLD,craden1181
+New Orleans Saints,5,SOLD,craden1181
+Detroit Lions,5,SOLD,koeter88
+Seattle Seahawks,4,SOLD,der_tani
+New England Patriots,0,SOLD,miguellissabon
+Buffalo Bills,5,SOLD,andy_rip_it
