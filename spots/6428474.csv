@@ -1,7 +1,7 @@
 spot,price,state,buyer
 #1,24,OPEN,
 #2,24,OPEN,
-#3,24,OPEN,
+#3,24,SOLD,gutschi03
 #4,24,OPEN,
 #5,24,OPEN,
 #6,24,OPEN,
@@ -15,7 +15,7 @@ spot,price,state,buyer
 #14,24,SOLD,kaicaramba
 #15,24,OPEN,
 #16,24,OPEN,
-#17,24,OPEN,
+#17,24,SOLD,gutschi03
 #18,24,OPEN,
 #19,24,OPEN,
 #20,24,OPEN,
