@@ -1,33 +1,33 @@
 spot,price,state,buyer
 #1,5,OPEN,
 #2,5,OPEN,
-#3,5,OPEN,
 #5,5,OPEN,
-#7,5,OPEN,
-#10,5,OPEN,
-#12,5,OPEN,
 #14,5,OPEN,
 #18,5,OPEN,
-#19,5,OPEN,
 #20,5,OPEN,
 #21,5,OPEN,
-#27,5,OPEN,
-#28,5,OPEN,
 #29,5,OPEN,
 #30,5,OPEN,
 #31,5,OPEN,
-#32,5,OPEN,
 Houston Texans,5,SOLD,fussballmann
 Denver Broncos,3,SOLD,fussballmann
-Arizona Cardinals,5,SOLD,fussballmann
+Arizona Cardinals,5,SOLD,tpsbmp93821
 Washington Commanders,3,SOLD,fussballmann
 Jacksonville Jaguars,5,SOLD,fussballmann
 Dallas Cowboys,5,SOLD,rayleigh_j_b
 Cincinnati Bengals,5,SOLD,rayleigh_j_b
 Carolina Panthers,5,SOLD,rayleigh_j_b
 Philadelphia Eagles,5,SOLD,rayleigh_j_b
-Los Angeles Chargers,5,SOLD,tpsbmp93821
+Los Angeles Chargers,5,SOLD,fussballmann
 Kansas City Chiefs,5,SOLD,miguellissabon
 Miami Dolphins,5,SOLD,miguellissabon
 Chicago Bears,5,SOLD,miguellissabon
 Tampa Bay Buccaneers,5,SOLD,smowhat
+Green Bay Packers,3.5,SOLD,jobar77
+Pittsburgh Steelers,5,SOLD,jobar77
+Tennessee Titans,5,SOLD,carbau79
+Los Angeles Rams,5,SOLD,jobar77
+San Francisco 49ers,4,SOLD,8a8ymonster
+Cleveland Browns,5,SOLD,jobar77
+Indianapolis Colts,5,SOLD,carbau79
+New York Jets,3.5,SOLD,jobar77
