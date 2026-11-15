@@ -6,19 +6,15 @@ spot,price,state,buyer
 #5,5,OPEN,
 #7,5,OPEN,
 #8,5,OPEN,
-#9,5,OPEN,
 #10,5,OPEN,
 #11,5,OPEN,
 #12,5,OPEN,
-#13,5,OPEN,
 #14,5,OPEN,
 #15,5,OPEN,
-#16,5,OPEN,
 #18,5,OPEN,
 #19,5,OPEN,
 #20,5,OPEN,
 #21,5,OPEN,
-#23,5,OPEN,
 #25,5,OPEN,
 #27,5,OPEN,
 #28,5,OPEN,
@@ -31,3 +27,7 @@ Denver Broncos,3,SOLD,fussballmann
 Arizona Cardinals,5,SOLD,fussballmann
 Washington Commanders,3,SOLD,fussballmann
 Jacksonville Jaguars,5,SOLD,fussballmann
+Dallas Cowboys,5,SOLD,rayleigh_j_b
+Cincinnati Bengals,5,SOLD,rayleigh_j_b
+Carolina Panthers,5,SOLD,rayleigh_j_b
+Philadelphia Eagles,5,SOLD,rayleigh_j_b
