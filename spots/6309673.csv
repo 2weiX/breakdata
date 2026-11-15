@@ -1,5 +1,4 @@
 spot,price,state,buyer
-Arizona Cardinals,14,OPEN,
 Atlanta Falcons,18,OPEN,
 Baltimore Ravens,20,OPEN,
 Buffalo Bills,16.2,SOLD,funkypat
@@ -31,3 +30,4 @@ Seattle Seahawks,15,OPEN,
 Tampa Bay Buccaneers,12,OPEN,
 Tennessee Titans,12,OPEN,
 Washington Commanders,19,OPEN,
+Arizona Cardinals,14,SOLD,henriklep

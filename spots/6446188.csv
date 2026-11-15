@@ -4,7 +4,6 @@ spot,price,state,buyer
 #3,5,OPEN,
 #4,5,OPEN,
 #5,5,OPEN,
-#6,5,OPEN,
 #7,5,OPEN,
 #8,5,OPEN,
 #9,5,OPEN,
@@ -15,19 +14,20 @@ spot,price,state,buyer
 #14,5,OPEN,
 #15,5,OPEN,
 #16,5,OPEN,
-#17,5,OPEN,
 #18,5,OPEN,
 #19,5,OPEN,
 #20,5,OPEN,
 #21,5,OPEN,
-#22,5,OPEN,
 #23,5,OPEN,
-#24,5,OPEN,
 #25,5,OPEN,
-#26,5,OPEN,
 #27,5,OPEN,
 #28,5,OPEN,
 #29,5,OPEN,
 #30,5,OPEN,
 #31,5,OPEN,
 #32,5,OPEN,
+Houston Texans,5,SOLD,fussballmann
+Denver Broncos,3,SOLD,fussballmann
+Arizona Cardinals,5,SOLD,fussballmann
+Washington Commanders,3,SOLD,fussballmann
+Jacksonville Jaguars,5,SOLD,fussballmann

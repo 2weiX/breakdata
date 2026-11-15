@@ -22,7 +22,6 @@ spot,price,state,buyer
 #21,16,OPEN,
 #22,16,OPEN,
 #23,16,OPEN,
-#24,16,OPEN,
 #25,16,OPEN,
 #26,16,SOLD,fussballmann
 #27,16,OPEN,
@@ -31,3 +30,4 @@ spot,price,state,buyer
 #30,13,SOLD,max_panne
 #31,16,OPEN,
 #32,16,OPEN,
+#24,16,SOLD,fussballmann
