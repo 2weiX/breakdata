@@ -1,5 +1,4 @@
 spot,price,state,buyer
-Houston Texans,170,SOLD,phlytime_collectibles
 Denver Broncos,190,SOLD,79866
 Cleveland Browns,180,SOLD,phlytime_collectibles
 New England Patriots,185,SOLD,79866
@@ -8,4 +7,32 @@ Minnesota Vikings,205,SOLD,fredbol
 Philadelphia Eagles,215,SOLD,phlytime_collectibles
 New York Jets,210,SOLD,fredbol
 #9,218,SOLD,fredbol
-#10,255,SOLD,phlytime_collectibles
+#1,170,SOLD,phlytime_collectibles
+Tennessee Titans,255,SOLD,phlytime_collectibles
+#11,285,SOLD,fredbol
+Green Bay Packers,280,SOLD,beardownfgb
+Washington Commanders,282,SOLD,beardownfgb
+Seattle Seahawks,200,SOLD,westernbreaks
+New Orleans Saints,215,SOLD,hvacmatt
+Dallas Cowboys,216,SOLD,hvacmatt
+Pittsburgh Steelers,250,SOLD,fredbol
+Detroit Lions,250,SOLD,fredbol
+New York Giants,235,SOLD,westernbreaks
+Kansas City Chiefs,255,SOLD,hvacmatt
+Chicago Bears,290,SOLD,hvacmatt
+Los Angeles Rams,285,SOLD,dwyatt2g
+Tampa Bay Buccaneers,290,SOLD,hvacmatt
+#24,180,SOLD,westernbreaks
+San Francisco 49ers,220,SOLD,phlytime_collectibles
+Cincinnati Bengals,195,SOLD,westernbreaks
+Jacksonville Jaguars,200,SOLD,phlytime_collectibles
+Miami Dolphins,205,SOLD,phlytime_collectibles
+Baltimore Ravens,200,SOLD,westernbreaks
+Indianapolis Colts,205,SOLD,phlytime_collectibles
+Arizona Cardinals,210,SOLD,phlytime_collectibles
+#32,185,SOLD,smoothirips
+Atlanta Falcons,195,SOLD,dre32383
+Carolina Panthers,200,SOLD,_sack_
+Las Vegas Raiders,360,SOLD,massterenz
+Los Angeles Chargers,93,SOLD,cjscardzz209
+Houston Texans,105,SOLD,phlytime_collectibles

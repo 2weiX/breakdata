@@ -1,13 +1,29 @@
 spot,price,state,buyer
 Miami Dolphins,7,SOLD,dmgeist
-#2,11,SOLD,dmgeist
 New England Patriots,8,SOLD,mattwhit72
 Tennessee Titans,7,SOLD,mattwhit72
 San Francisco 49ers,6,SOLD,mattwhit72
 New York Giants,5,SOLD,dmgeist
 Baltimore Ravens,15,SOLD,tfowler17
 Houston Texans,8,SOLD,tfowler17
-#9,1,SOLD,dmgeist
-Denver Broncos,5,SOLD,dmgeist
-Atlanta Falcons,9,SOLD,dmgeist
-Buffalo Bills,28,SOLD,dmgeist
+Los Angeles Chargers,11,SOLD,dmgeist
+"Detroit Lions, Indianapolis Colts, Los Angeles Rams",1,SOLD,dmgeist
+#10,5,SOLD,dmgeist
+Pittsburgh Steelers,9,SOLD,dmgeist
+Atlanta Falcons,28,SOLD,dmgeist
+Philadelphia Eagles,6,SOLD,tfowler17
+"Carolina Panthers, Green Bay Packers, Jacksonville Jaguars, Kansas City Chiefs",32,SOLD,tfowler17
+Washington Commanders,28,SOLD,dmgeist
+Cleveland Browns,10,SOLD,tfowler17
+Dallas Cowboys,15,SOLD,dmgeist
+Las Vegas Raiders,1,SOLD,dmgeist
+Chicago Bears,3,SOLD,dmgeist
+New York Jets,4,SOLD,tfowler17
+Denver Broncos,2,SOLD,squirrel_dog
+Seattle Seahawks,2,SOLD,squirrel_dog
+Cincinnati Bengals,2,SOLD,tfowler17
+Tampa Bay Buccaneers,15,SOLD,byrn71
+Minnesota Vikings,13,SOLD,baconsamwitch
+Buffalo Bills,12,SOLD,joshuapee86969
+Arizona Cardinals,12,SOLD,joshuapee86969
+New Orleans Saints,28,SOLD,byrn71

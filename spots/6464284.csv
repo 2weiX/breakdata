@@ -1,2 +1,47 @@
 spot,price,state,buyer
-#1,1,OPEN,
+New England Patriots,14,SOLD,powdercoater
+Carolina Panthers,13,SOLD,charleswilson
+SEC,13,SOLD,charleswilson
+Pittsburgh Steelers,13,SOLD,charleswilson
+ACC,17,SOLD,powdercoater
+Los Angeles Rams,13,SOLD,charleswilson
+Detroit Lions,13,SOLD,csn22
+Buffalo Bills,11,SOLD,charleswilson
+New Orleans Saints,14,SOLD,csn22
+#10,15,SOLD,specialk1975
+Cincinnati Bengals,14,SOLD,specialk1975
+FBS INDEPENDENT,25,SOLD,specialk1975
+San Francisco 49ers,21,SOLD,slbmlightshow84
+BIG 10,14,SOLD,specialk1975
+Tennessee Titans,13,SOLD,charleswilson
+Kansas City Chiefs,16,SOLD,palmercootet
+Dallas Cowboys,16,SOLD,specialk1975
+Washington Commanders,15,SOLD,palmercootet
+Atlanta Falcons,16,SOLD,specialk1975
+Miami Dolphins,16,SOLD,palmercootet
+Cleveland Browns,19,SOLD,warpony12
+Las Vegas Raiders,20,SOLD,warpony12
+Denver Broncos,25,SOLD,warpony12
+Minnesota Vikings,20,SOLD,warpony12
+Los Angeles Chargers,17,SOLD,specialk1975
+Green Bay Packers,27,SOLD,big_lou_86
+Houston Texans,23,SOLD,trevorsch06064
+CONF USA,17,SOLD,trevorsch06064
+Jacksonville Jaguars,18,SOLD,charleswilson
+BIG 12,17,SOLD,warpony12
+#31,6,SOLD,charleswilson
+Arizona Cardinals,16,SOLD,charleswilson
+New York Jets,21,SOLD,slbmlightshow84
+Seattle Seahawks,16,SOLD,warpony12
+PAC 12,13,SOLD,charleswilson
+MAC + JACKSON ST,14,SOLD,chrispbacon536
+Tampa Bay Buccaneers,15,SOLD,chrispbacon536
+Indianapolis Colts,18,SOLD,jeremyken78
+New York Giants,14,SOLD,chrispbacon536
+Chicago Bears,11,SOLD,charleswilson
+Baltimore Ravens,14,SOLD,warpony12
+SUN BELT,10,SOLD,charleswilson
+#43,11,SOLD,warpony12
+MOUNTAIN WEST,11,SOLD,bigdaddy0728
+AMERICAN,10,SOLD,charleswilson
+Philadelphia Eagles,12,SOLD,charleswilson
