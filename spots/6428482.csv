@@ -3,7 +3,6 @@ spot,price,state,buyer
 #2,16,SOLD,sontrax82
 #3,14,SOLD,nook87
 #4,14,SOLD,tpsbmp93821
-#5,16,OPEN,
 #6,16,SOLD,mightytim84
 #7,16,SOLD,sontrax82
 #8,16,OPEN,
@@ -22,7 +21,6 @@ spot,price,state,buyer
 #21,16,OPEN,
 #22,16,OPEN,
 #23,14,SOLD,rippche
-#25,16,OPEN,
 #26,16,SOLD,fussballmann
 #27,16,OPEN,
 #28,16,OPEN,
@@ -31,3 +29,5 @@ spot,price,state,buyer
 #31,16,OPEN,
 #32,16,OPEN,
 #24,16,SOLD,fussballmann
+#5,16,SOLD,heffcules
+#25,16,SOLD,heffcules
