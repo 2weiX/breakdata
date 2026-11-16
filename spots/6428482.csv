@@ -1,33 +1,33 @@
 spot,price,state,buyer
-#1,16,SOLD,sontrax82
-#2,16,SOLD,sontrax82
-#3,14,SOLD,nook87
-#4,14,SOLD,tpsbmp93821
-#6,16,SOLD,mightytim84
-#7,16,SOLD,sontrax82
-#8,16,OPEN,
-#9,16,SOLD,emperor_cards
-#10,16,SOLD,konradkarsch
-#11,16,OPEN,
-#12,9,SOLD,sontrax82
-#13,16,SOLD,seb0411
-#14,14,SOLD,rekonicx
-#15,16,OPEN,
-#16,16,SOLD,j0hng0tti
-#17,14,SOLD,nook87
-#18,16,OPEN,
-#19,16,OPEN,
-#20,16,OPEN,
-#21,16,OPEN,
-#22,16,OPEN,
-#23,14,SOLD,rippche
-#26,16,SOLD,fussballmann
-#27,16,OPEN,
-#28,16,OPEN,
-#29,16,SOLD,grma1989
-#30,13,SOLD,max_panne
-#31,16,OPEN,
-#32,16,OPEN,
-#24,16,SOLD,fussballmann
-#5,16,SOLD,heffcules
-#25,16,SOLD,heffcules
+Los Angeles Chargers,16,SOLD,sontrax82
+Los Angeles Rams,16,SOLD,sontrax82
+Kansas City Chiefs,14,SOLD,nook87
+Houston Texans,14,SOLD,tpsbmp93821
+Cincinnati Bengals,16,SOLD,heffcules
+Dallas Cowboys,16,SOLD,mightytim84
+Tampa Bay Buccaneers,16,SOLD,sontrax82
+Philadelphia Eagles,16,SOLD,grma1989
+New Orleans Saints,16,SOLD,emperor_cards
+Arizona Cardinals,16,SOLD,konradkarsch
+Pittsburgh Steelers,14,SOLD,ricknickcards
+New York Giants,9,SOLD,sontrax82
+Las Vegas Raiders,16,SOLD,seb0411
+Minnesota Vikings,14,SOLD,rekonicx
+Jacksonville Jaguars,16,SOLD,valentino2104
+Chicago Bears,16,SOLD,j0hng0tti
+New England Patriots,14,SOLD,nook87
+Detroit Lions,14,SOLD,sebb93
+Green Bay Packers,16,SOLD,grumpycardzzz069
+Washington Commanders,14,SOLD,fabienne28
+Tennessee Titans,16,SOLD,teajay003
+Indianapolis Colts,13,SOLD,ricknickcards
+Atlanta Falcons,14,SOLD,rippche
+Buffalo Bills,16,SOLD,fussballmann
+Baltimore Ravens,16,SOLD,heffcules
+Denver Broncos,16,SOLD,fussballmann
+San Francisco 49ers,14,SOLD,ricknickcards
+New York Jets,16,SOLD,peterhart
+Carolina Panthers,16,SOLD,grma1989
+Seattle Seahawks,13,SOLD,max_panne
+Miami Dolphins,14,SOLD,rekonicx
+Cleveland Browns,14,SOLD,heffcules
