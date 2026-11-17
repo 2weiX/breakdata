@@ -1,5 +1,4 @@
 spot,price,state,buyer
-Michigan,31,SOLD,bnd_goblue
 Mississippi State,54,OPEN,
 Oklahoma,45,OPEN,
 Ole Miss,45,OPEN,
@@ -7,3 +6,4 @@ Texas Tech,36,OPEN,
 UCLA,75,OPEN,
 USC,54,OPEN,
 West Virginia,28,OPEN,
+Michigan,31,OPEN,
