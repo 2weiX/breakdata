@@ -1,34 +1,47 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-MISC,,OPEN,
+Arizona Cardinals,240,SOLD,thunder_boomer
+Atlanta Falcons,210,SOLD,bigdaddy71423
+Baltimore Ravens,225,SOLD,undisclosedinformation
+Buffalo Bills,300,SOLD,ocabaseball21
+Carolina Panthers,53,SOLD,undisclosedinformation
+Chicago Bears,250,SOLD,cisners_onlysams
+Cincinnati Bengals,210,SOLD,ryanbeck19637
+Cleveland Browns,205,SOLD,ryanbeck19637
+Dallas Cowboys,260,SOLD,ocabaseball21
+Denver Broncos,94,SOLD,johnkho23
+Detroit Lions,70,SOLD,johnkho23
+Green Bay Packers,222,SOLD,cisners_onlysams
+Houston Texans,30,SOLD,skunkycardemporium315
+Indianapolis Colts,210.4,SOLD,thebinmaster87
+Jacksonville Jaguars,94,SOLD,johnkho23
+Kansas City Chiefs,205,SOLD,ryanbeck19637
+Las Vegas Raiders,51,SOLD,skunkycardemporium315
+Los Angeles Chargers,255,SOLD,thunder_boomer
+Los Angeles Rams,180,SOLD,johnkho23
+Miami Dolphins,36,SOLD,skunkycardemporium315
+Minnesota Vikings,240,SOLD,asassen
+New England Patriots,290,SOLD,undisclosedinformation
+New Orleans Saints,40,SOLD,phill_mianis
+New York Giants,401,SOLD,cisners_onlysams
+New York Jets,69,SOLD,rad62chevyss
+Philadelphia Eagles,210,SOLD,ryanbeck19637
+Pittsburgh Steelers,266,SOLD,thunder_boomer
+San Francisco 49ers,255,SOLD,ryanbeck19637
+Seattle Seahawks,186,SOLD,johnkho23
+Tampa Bay Buccaneers,72,SOLD,1of1sports
+Tennessee Titans,48,SOLD,phill_mianis
+Washington Commanders,84,SOLD,wildcats2686
+MISC,190,SOLD,johnkho23
+T,228,SOLD,thunder_boomer
+T,266,SOLD,undisclosedinformation
+T,265,SOLD,asassen
+T,255,SOLD,ocabaseball21
+T,266,SOLD,ocabaseball21
+T,261,SOLD,ryanbeck19637
+T,210,SOLD,ryanbeck19637
+T,191,SOLD,johnkho23
+T,200,SOLD,ryanbeck19637
+T,180,SOLD,johnkho23
+T,210,SOLD,johnkho23
+T,207,SOLD,cisners_onlysams
+T,230,SOLD,johnkho23
