@@ -1,6 +1,6 @@
 spot,price,state,buyer
 Arizona Cardinals,130,OPEN,
-Atlanta Falcons,25,OPEN,
+Atlanta Falcons,25,SOLD,maze11
 Baltimore Ravens,45,OPEN,
 Buffalo Bills,93,OPEN,
 Carolina Panthers,46,OPEN,
@@ -12,8 +12,8 @@ Denver Broncos,90,OPEN,
 Detroit Lions,64,SOLD,cardozo_cards
 Green Bay Packers,19,SOLD,flo84
 Houston Texans,17,SOLD,grma1989
-Indianapolis Colts,33,OPEN,
-Jacksonville Jaguars,27,OPEN,
+Indianapolis Colts,33,SOLD,maze11
+Jacksonville Jaguars,27,SOLD,maze11
 Kansas City Chiefs,93,SOLD,jobar77
 Las Vegas Raiders,215,OPEN,
 Los Angeles Chargers,50,OPEN,
