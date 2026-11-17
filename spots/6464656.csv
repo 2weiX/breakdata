@@ -1,34 +1,44 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-MISC,,OPEN,
+Arizona Cardinals,245,SOLD,jay2141
+Atlanta Falcons,240,SOLD,jay2141
+Baltimore Ravens,395,SOLD,hawk_shot
+Buffalo Bills,310,SOLD,jay2141
+Carolina Panthers,21,SOLD,hawk_shot
+Chicago Bears,410,SOLD,bailey_breaks
+Cincinnati Bengals,505,SOLD,pokinets
+Cleveland Browns,231,SOLD,jay2141
+Dallas Cowboys,425,SOLD,john1c
+Denver Broncos,220,SOLD,bailey_breaks
+Detroit Lions,385,SOLD,pearson627
+Green Bay Packers,485,SOLD,chambergs
+Houston Texans,335,SOLD,bailey_breaks
+Indianapolis Colts,165,SOLD,flandizzle
+Jacksonville Jaguars,5,SOLD,id_entity
+Kansas City Chiefs,620,SOLD,arsen_o
+Las Vegas Raiders,295,SOLD,big__bobby
+Los Angeles Chargers,380,SOLD,pokinets
+Los Angeles Rams,465,SOLD,nickoswaggg
+Miami Dolphins,183,SOLD,hawk_shot
+Minnesota Vikings,535,SOLD,pokinets
+New England Patriots,565,SOLD,alohazayaa
+New Orleans Saints,4,SOLD,blakerod55771
+New York Giants,455,SOLD,bailey_breaks
+New York Jets,236,SOLD,jay2141
+Philadelphia Eagles,515,SOLD,dalebydaeil
+Pittsburgh Steelers,565,SOLD,pokinets
+San Francisco 49ers,430,SOLD,pokinets
+Seattle Seahawks,25,SOLD,bailey_breaks
+Tampa Bay Buccaneers,462,SOLD,bailey_breaks
+Tennessee Titans,3,SOLD,blakerod55771
+Washington Commanders,210,SOLD,john1c
+MISC,595,SOLD,dalebydaeil
+#2,501,SOLD,pokinets
+#4,366,SOLD,chambergs
+#8,645,SOLD,pokinets
+#9,505,SOLD,pokinets
+#11,531,SOLD,pearson627
+#12,528,SOLD,pearson627
+#17,395,SOLD,big__bobby
+#26,300,SOLD,pokinets
+#29,285,SOLD,pokinets
+#36,38,SOLD,bailey_breaks

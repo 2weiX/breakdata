@@ -1,34 +1,19 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-MISC,,OPEN,
+Baltimore Ravens,329.6,SOLD,solon1012
+Chicago Bears,392,SOLD,calmer_than_you_are
+Cleveland Browns,340,SOLD,everythinginsurance
+Dallas Cowboys,401,SOLD,solon1012
+Denver Broncos,280.8,SOLD,calmer_than_you_are
+Green Bay Packers,270,SOLD,thunder_boomer
+Los Angeles Rams,340,SOLD,everythinginsurance
+Minnesota Vikings,350,SOLD,cisners_onlysams
+New York Giants,360,SOLD,thunder_boomer
+Philadelphia Eagles,311,SOLD,solon1012
+Pittsburgh Steelers,335,SOLD,cisners_onlysams
+Tampa Bay Buccaneers,350,SOLD,cisners_onlysams
+#4,366,SOLD,calmer_than_you_are
+#5,390,SOLD,everythinginsurance
+#9,396,SOLD,calmer_than_you_are
+#12,361,SOLD,cisners_onlysams
+#15,345,SOLD,cisners_onlysams
+#18,1,OPEN,
