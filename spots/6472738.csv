@@ -1,5 +1,5 @@
 spot,price,state,buyer
-Arizona Cardinals,39,OPEN,
+Arizona Cardinals,30,SOLD,tpsbmp93821
 Atlanta Falcons,26,OPEN,
 Baltimore Ravens,33,OPEN,
 Buffalo Bills,29,OPEN,
@@ -45,7 +45,7 @@ Oklahoma Sooners,59,OPEN,
 USC Trojans,59,OPEN,
 Oklahoma State Cowboys,49,OPEN,
 SEC Other,79,OPEN,
-Big Ten Other,69,OPEN,
+Big Ten Other,52,SOLD,tpsbmp93821
 ACC Other,59,OPEN,
 Big 12 Other,39,OPEN,
 NIL Other + High School,39,OPEN,
