@@ -1,11 +1,11 @@
 spot,price,state,buyer
-#1,12,OPEN,
+#1,9.6,SOLD,1pepe
 #2,12,OPEN,
-#3,12,OPEN,
+#3,10,SOLD,vinylmazzias
 #4,12,SOLD,oliversfarsa
-#5,12,OPEN,
+#5,9,SOLD,zonedfence
 #6,10,SOLD,tpsbmp93821
 #7,12,SOLD,eska91
 #8,12,OPEN,
 #9,12,OPEN,
-#10,12,OPEN,
+#10,0,SOLD,rio380
