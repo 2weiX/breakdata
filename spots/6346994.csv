@@ -1,33 +1,33 @@
 spot,price,state,buyer
-Arizona Cardinals,5,OPEN,
-Atlanta Falcons,8,OPEN,
-Baltimore Ravens,10,OPEN,
 Buffalo Bills,9,SOLD,alexbr91483
-Carolina Panthers,10,OPEN,
 Cincinnati Bengals,8,SOLD,alexbr91483
-Cleveland Browns,10,OPEN,
 Dallas Cowboys,7,OPEN,
-Denver Broncos,10,OPEN,
 Detroit Lions,8,SOLD,maze11
 Green Bay Packers,10,SOLD,maze11
-Indianapolis Colts,10,OPEN,
-Jacksonville Jaguars,20,OPEN,
-Kansas City Chiefs,15,OPEN,
 Las Vegas Raiders,16,SOLD,dartholli
-Los Angeles Chargers,8,OPEN,
-Los Angeles Rams,15,OPEN,
-Miami Dolphins,6,OPEN,
 Minnesota Vikings,8,SOLD,maze11
-New England Patriots,15,OPEN,
-New Orleans Saints,10,OPEN,
 New York Giants,19,SOLD,nook87
-New York Jets,10,OPEN,
-Philadelphia Eagles,15,OPEN,
 Pittsburgh Steelers,5,SOLD,alexbr91483
 San Francisco 49ers,10,SOLD,nook87
 Seattle Seahawks,8,SOLD,lieven_k
 Tampa Bay Buccaneers,12,SOLD,maze11
-Tennessee Titans,17,OPEN,
 Washington Commanders,15,OPEN,
 Chicago Bears,10.5,SOLD,schlinn
 Houston Texans,8,SOLD,trvin
+Arizona Cardinals,2,SOLD,darkmachinereloaded
+Atlanta Falcons,4,SOLD,deno6768
+Baltimore Ravens,7,SOLD,kartenmonster
+Carolina Panthers,5,SOLD,konradkarsch
+Cleveland Browns,8.5,SOLD,shahrazzo
+Denver Broncos,8,SOLD,konradkarsch
+Indianapolis Colts,4.75,SOLD,deno6768
+Jacksonville Jaguars,16,SOLD,konradkarsch
+Kansas City Chiefs,12,SOLD,grimar10379
+Los Angeles Chargers,5,SOLD,darkmachinereloaded
+Los Angeles Rams,12,SOLD,grimar10379
+Miami Dolphins,3,SOLD,kartenmonster
+New England Patriots,11,SOLD,deniz513
+New Orleans Saints,10,SOLD,deno6768
+New York Jets,10,SOLD,deno6768
+Philadelphia Eagles,15,SOLD,deno6768
+Tennessee Titans,13.6,SOLD,konradkarsch

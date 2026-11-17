@@ -1,7 +1,6 @@
 spot,price,state,buyer
 Arizona Cardinals,30,SOLD,tpsbmp93821
 Atlanta Falcons,26,OPEN,
-Baltimore Ravens,33,OPEN,
 Buffalo Bills,29,OPEN,
 Carolina Panthers,19,OPEN,
 Chicago Bears,39,OPEN,
@@ -11,18 +10,14 @@ Dallas Cowboys,59,OPEN,
 Denver Broncos,49,OPEN,
 Detroit Lions,43,OPEN,
 Green Bay Packers,49,OPEN,
-Houston Texans,15,OPEN,
 Indianapolis Colts,49,OPEN,
 Jacksonville Jaguars,23,OPEN,
-Kansas City Chiefs,35,OPEN,
 Las Vegas Raiders,39,OPEN,
 Los Angeles Chargers,33,OPEN,
 Los Angeles Rams,54,OPEN,
 Miami Dolphins,33,OPEN,
 Minnesota Vikings,43,OPEN,
 New England Patriots,35.1,SOLD,anne22787
-New Orleans Saints,33,OPEN,
-New York Giants,43,OPEN,
 New York Jets,26,OPEN,
 Philadelphia Eagles,33,OPEN,
 Pittsburgh Steelers,28,SOLD,alex889cards
@@ -49,3 +44,8 @@ Big Ten Other,52,SOLD,tpsbmp93821
 ACC Other,59,OPEN,
 Big 12 Other,39,OPEN,
 NIL Other + High School,39,OPEN,
+Baltimore Ravens,27,SOLD,michfrei
+Houston Texans,10,SOLD,janrei01690
+Kansas City Chiefs,24,SOLD,janrei01690
+New Orleans Saints,28.05,SOLD,that_wildcat_guy
+New York Giants,31,SOLD,bigg_steve

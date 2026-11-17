@@ -1,23 +1,17 @@
 spot,price,state,buyer
-Seattle Seahawks,1,SOLD,oliversfarsa
 Houston Texans,1,SOLD,oliversfarsa
-Buffalo Bills,1,SOLD,oliversfarsa
 New York Giants,1,SOLD,bighoffes80
 Denver Broncos,1,SOLD,bighoffes80
 Dallas Cowboys,1,SOLD,bighoffes80
-Detroit Lions,1,SOLD,oliversfarsa
 Pittsburgh Steelers,1,SOLD,oliversfarsa
 Minnesota Vikings,1,SOLD,oliversfarsa
 New England Patriots,1,SOLD,boxbreakcorner
 Jacksonville Jaguars,1,SOLD,oliversfarsa
-Washington Commanders,1,SOLD,rglt28
 Indianapolis Colts,2,SOLD,rglt28
 Las Vegas Raiders,1,SOLD,rglt28
-Los Angeles Chargers,2,SOLD,rglt28
 Cleveland Browns,2,SOLD,faboom90
 Miami Dolphins,3,SOLD,andrem924
 Philadelphia Eagles,3,SOLD,faboom90
-Cincinnati Bengals,2,SOLD,rglt28
 Chicago Bears,3,SOLD,faboom90
 Atlanta Falcons,2,SOLD,andrem924
 San Francisco 49ers,2,SOLD,andrem924
@@ -27,3 +21,13 @@ Tampa Bay Buccaneers,1,SOLD,rglt28
 Kansas City Chiefs,1,SOLD,rglt28
 Green Bay Packers,1,SOLD,oliversfarsa
 New Orleans Saints,1,SOLD,andi2802
+Los Angeles Chargers,1,SOLD,oliversfarsa
+Cincinnati Bengals,1,SOLD,oliversfarsa
+Washington Commanders,1,SOLD,oliversfarsa
+Seattle Seahawks,1,SOLD,rglt28
+Buffalo Bills,2,SOLD,rglt28
+Detroit Lions,2,SOLD,rglt28
+Los Angeles Rams,1,SOLD,boxbreakcorner
+Baltimore Ravens,1,SOLD,andi2802
+Tennessee Titans,1,SOLD,mike_collectibles
+Arizona Cardinals,3,SOLD,mike_collectibles
