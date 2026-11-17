@@ -1,57 +1,57 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-Alabama Crimson Tide,,OPEN,
-Georgia Bulldogs,,OPEN,
-Indiana Hoosiers,,OPEN,
-LSU Tigers,,OPEN,
-Miami Hurricanes,,OPEN,
-Michigan Wolverines,,OPEN,
-Notre Dame Fighting Irish,,OPEN,
-Ohio State Buckeyes,,OPEN,
-Oklahoma Sooners,,OPEN,
-Ole Miss Rebels,,OPEN,
-Oregon Ducks,,OPEN,
-USC Trojans,,OPEN,
-BYU + Colorado + Hawaii,,OPEN,
-Texas Longhorns + Montana State + San Diego State,,OPEN,
-Texas A&M + North Carolina + Pittsburgh,,OPEN,
-Penn State + Washington Huskies + Wisconsin + Extras,,OPEN,
-Oklahoma State + Rutgers + Michigan State,,OPEN,
-Clemson + Kansas Jayhawks + Northwestern,,OPEN,
-Florida State + Florida Gators + Arkansas,,OPEN,
-Missouri + Illinois + NC State,,OPEN,
-Texas Tech + Houston Cougars + Virginia,,OPEN,
-Kentucky + South Carolina + Tennessee Volunteers,,OPEN,
-Cal + Stanford + Nebraska,,OPEN,
-Duke + TCU + SMU + Kansas State,,OPEN,
+Arizona Cardinals,5,SOLD,dk699
+Atlanta Falcons,5,SOLD,mexwell93
+Baltimore Ravens,5,SOLD,pino29
+Buffalo Bills,5,SOLD,janek069
+Carolina Panthers,6,SOLD,mexwell93
+Chicago Bears,6,SOLD,dk699
+Cincinnati Bengals,6,SOLD,dk699
+Cleveland Browns,5,SOLD,vinylmazzias
+Dallas Cowboys,7,SOLD,buddha62
+Denver Broncos,5,SOLD,kowelenzer11
+Detroit Lions,5,SOLD,buddha62
+Green Bay Packers,6,SOLD,jambro58
+Houston Texans,5,SOLD,discoitalia
+Indianapolis Colts,6,SOLD,buddha62
+Jacksonville Jaguars,5,SOLD,buddha62
+Kansas City Chiefs,5,SOLD,pino29
+Las Vegas Raiders,7,SOLD,discoitalia
+Los Angeles Chargers,6,SOLD,janek069
+Los Angeles Rams,6,SOLD,pino29
+Miami Dolphins,6,SOLD,dk699
+Minnesota Vikings,5,SOLD,discoitalia
+New England Patriots,7,SOLD,janek069
+New Orleans Saints,7,SOLD,buddha62
+New York Giants,5,SOLD,janek069
+Philadelphia Eagles,5,SOLD,janek069
+Pittsburgh Steelers,5,SOLD,jambro58
+San Francisco 49ers,5,SOLD,pino29
+Seattle Seahawks,5,SOLD,janek069
+Tampa Bay Buccaneers,5,SOLD,dk699
+Tennessee Titans,6,SOLD,pino29
+Washington Commanders,5,SOLD,vinylmazzias
+Alabama Crimson Tide,6,SOLD,buddha62
+Georgia Bulldogs,6,SOLD,janek069
+LSU Tigers,6,SOLD,dk699
+Miami Hurricanes,4,SOLD,klars21
+Michigan Wolverines,4,SOLD,klars21
+Notre Dame Fighting Irish,7,SOLD,pino29
+Ohio State Buckeyes,5,SOLD,pino29
+Oklahoma Sooners,5,SOLD,jambro58
+Ole Miss Rebels,5,SOLD,alex889cards
+Oregon Ducks,5,SOLD,dk699
+USC Trojans,5,SOLD,pino29
+BYU + Colorado + Hawaii,6,SOLD,dk699
+Texas Longhorns + Montana State + San Diego State,5,SOLD,pino29
+Texas A&M + North Carolina + Pittsburgh,5,SOLD,elpuntopictures
+Oklahoma State + Rutgers + Michigan State,5,SOLD,buddha62
+Clemson + Kansas Jayhawks + Northwestern,5,SOLD,dk699
+Florida State + Florida Gators + Arkansas,5,SOLD,jambro58
+Missouri + Illinois + NC State,5,SOLD,pino29
+Texas Tech + Houston Cougars + Virginia,6,SOLD,dk699
+Kentucky + South Carolina + Tennessee Volunteers,5,SOLD,dk699
+Cal + Stanford + Nebraska,5,SOLD,alex889cards
+Duke + TCU + SMU + Kansas State,5,SOLD,dk699
+#10,5,SOLD,elpuntopictures
+Penn State + Washington Huskies + Wisconsin,5,SOLD,alex889cards
+#56,1,OPEN,
