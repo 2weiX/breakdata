@@ -3,7 +3,6 @@ spot,price,state,buyer
 #2,11,OPEN,
 #3,11,OPEN,
 #4,11,OPEN,
-#5,11,OPEN,
 #6,11,OPEN,
 #7,11,OPEN,
 #8,11,OPEN,
@@ -31,3 +30,4 @@ spot,price,state,buyer
 #30,11,OPEN,
 #31,11,OPEN,
 #32,11,OPEN,
+Cincinnati Bengals,11,SOLD,alex889cards
