@@ -4,14 +4,12 @@ Atlanta Falcons,8,OPEN,
 Baltimore Ravens,10,OPEN,
 Buffalo Bills,9,SOLD,alexbr91483
 Carolina Panthers,10,OPEN,
-Chicago Bears,15,OPEN,
 Cincinnati Bengals,8,SOLD,alexbr91483
 Cleveland Browns,10,OPEN,
 Dallas Cowboys,7,OPEN,
 Denver Broncos,10,OPEN,
 Detroit Lions,8,SOLD,maze11
 Green Bay Packers,10,SOLD,maze11
-Houston Texans,10,OPEN,
 Indianapolis Colts,10,OPEN,
 Jacksonville Jaguars,20,OPEN,
 Kansas City Chiefs,15,OPEN,
@@ -31,3 +29,5 @@ Seattle Seahawks,8,SOLD,lieven_k
 Tampa Bay Buccaneers,12,SOLD,maze11
 Tennessee Titans,17,OPEN,
 Washington Commanders,15,OPEN,
+Chicago Bears,10.5,SOLD,schlinn
+Houston Texans,8,SOLD,trvin
