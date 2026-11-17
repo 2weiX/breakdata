@@ -1,32 +1,32 @@
 spot,price,state,buyer
-Arizona Cardinals,5,OPEN,
-Atlanta Falcons,5,OPEN,
-Baltimore Ravens,5,OPEN,
-Carolina Panthers,5,OPEN,
-Cincinnati Bengals,5,OPEN,
+Arizona Cardinals,1,SOLD,trvin
+Atlanta Falcons,1,SOLD,aquaorangecollector_1
+Baltimore Ravens,4,SOLD,kartenmonster
+Carolina Panthers,3,SOLD,konradkarsch
+Cincinnati Bengals,3,SOLD,schlinn
 Cleveland Browns,5,OPEN,
 Dallas Cowboys,5,OPEN,
-Denver Broncos,5,OPEN,
+Denver Broncos,3,SOLD,schlinn
 Detroit Lions,5,OPEN,
 Green Bay Packers,5,OPEN,
-Houston Texans,5,OPEN,
+Houston Texans,2,SOLD,trvin
 Indianapolis Colts,5,OPEN,
-Jacksonville Jaguars,5,OPEN,
-Kansas City Chiefs,5,OPEN,
-Las Vegas Raiders,5,OPEN,
+Jacksonville Jaguars,3,SOLD,konradkarsch
+Kansas City Chiefs,5,SOLD,konradkarsch
+Las Vegas Raiders,3,SOLD,schlinn
 Los Angeles Chargers,5,OPEN,
-Los Angeles Rams,5,OPEN,
-Miami Dolphins,5,OPEN,
-Minnesota Vikings,5,OPEN,
-New England Patriots,5,OPEN,
+Los Angeles Rams,3,SOLD,konradkarsch
+Miami Dolphins,0,SOLD,aquaorangecollector_1
+Minnesota Vikings,2,SOLD,schlinn
+New England Patriots,5,SOLD,konradkarsch
 New Orleans Saints,5,OPEN,
 New York Jets,5,OPEN,
-Philadelphia Eagles,5,OPEN,
-Pittsburgh Steelers,5,OPEN,
+Philadelphia Eagles,5,SOLD,deniz513
+Pittsburgh Steelers,5,SOLD,ninetypercent90
 San Francisco 49ers,5,OPEN,
 Seattle Seahawks,5,SOLD,eska91
-Tennessee Titans,5,OPEN,
-Washington Commanders,5,OPEN,
+Tennessee Titans,4,SOLD,konradkarsch
+Washington Commanders,2,SOLD,trvin
 Buffalo Bills,5,SOLD,schlinn
 Chicago Bears,5,SOLD,schlinn
 New York Giants,5,SOLD,trvin
