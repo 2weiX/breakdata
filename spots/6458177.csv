@@ -1,30 +1,4 @@
 spot,price,state,buyer
-"Fernando Mendoza (RC) (BASE, 6x INSERT(Celestial Roots, Dream Land, Night Night, Twilight), 7x AUTO, 3x AUTO & RELIC)",1,OPEN,
-"Josh Allen (BASE, 5x INSERT(Dual, Celestial Roots, Dream Land, Night Night, Twilight), 2x AUTO)",1,OPEN,
-"Patrick Mahomes II (BASE, 5x INSERT(Dual, Celestial Roots, Dream Land, Night Night, Twilight))",1,OPEN,
-"Tom Brady (2x INSERT(Dual, Night Night), 2x AUTO)",1,OPEN,
-"Jeremiyah Love (RC) (BASE, 6x INSERT(Celestial Roots, Dream Land, Night Night, Twilight), 6x AUTO, 3x AUTO & RELIC)",1,OPEN,
-"Drake Maye (BASE, 6x INSERT(Dual, Celestial Roots, Dream Land, Twilight), 3x AUTO)",1,OPEN,
-"Jayden Daniels (BASE, 5x INSERT(Celestial Roots, Dream Land, Night Night, Twilight), 3x AUTO)",1,OPEN,
-"Justin Jefferson (BASE, 5x INSERT(Dual, Celestial Roots, Dream Land, Night Night, Twilight), 2x AUTO)",1,OPEN,
-"Lamar Jackson (BASE, 4x INSERT(Celestial Roots, Dream Land, Night Night, Twilight))",1,OPEN,
-"Saquon Barkley (BASE, 3x INSERT(Night Night, Twilight))",1,OPEN,
-"Trevor Lawrence (BASE, 4x INSERT(Celestial Roots, Dream Land, Twilight), AUTO)",1,OPEN,
-"Emmett Johnson (RC) (BASE, INSERT, 4x AUTO, AUTO & RELIC)",1,OPEN,
-"Carnell Tate (RC) (BASE, 5x INSERT(Celestial Roots, Dream Land, Night Night, Twilight), 6x AUTO, 3x AUTO & RELIC)",1,OPEN,
-"Jordyn Tyson (RC) (BASE, 4x INSERT(Celestial Roots, Dream Land, Night Night), 6x AUTO, 3x AUTO & RELIC)",1,OPEN,
-"Caleb Downs (RC) (BASE, 3x INSERT(Night Night, Twilight), 6x AUTO, 3x AUTO & RELIC)",1,OPEN,
-"Caleb Williams (BASE, 5x INSERT(Dual, Celestial Roots, Dream Land, Night Night, Twilight), 3x AUTO)",1,OPEN,
-"Matthew Stafford (BASE, 3x INSERT(Night Night, Twilight), 2x AUTO)",1,OPEN,
-"Ashton Jeanty (BASE, 2x INSERT(Dual, Dream Land), 2x AUTO)",1,OPEN,
-"Justin Herbert (BASE, 3x INSERT(Celestial Roots, Dream Land, Twilight), AUTO)",1,OPEN,
-"Makai Lemon (RC) (BASE, 2x INSERT(Night Night), 6x AUTO, 3x AUTO & RELIC)",1,OPEN,
-"Ty Simpson (RC) (BASE, 2x INSERT, 6x AUTO, 3x AUTO & RELIC)",1,OPEN,
-"Bo Nix (BASE, 3x INSERT(Celestial Roots, Dream Land, Twilight), 3x AUTO)",1,OPEN,
-"Dak Prescott (BASE, 4x INSERT(Dual, Dream Land, Twilight), 2x AUTO)",1,OPEN,
-"Carson Beck (RC) (BASE, 2x INSERT(Twilight), 6x AUTO, 3x AUTO & RELIC)",1,OPEN,
-"Drew Allar (RC) (BASE, 2x INSERT(Celestial Roots), 6x AUTO, 3x AUTO & RELIC)",1,OPEN,
-"Denzel Boston (RC) (BASE, INSERT, 6x AUTO, 3x AUTO & RELIC)",1,OPEN,
 "Jonah Coleman (RC) (BASE, INSERT, 5x AUTO, 2x AUTO & RELIC)",12,SOLD,buschicopter
 Kevin Coleman Jr. (RC) (AUTO),2,SOLD,chris_happytradingcards
 "De'Von Achane (BASE, INSERT, 2x AUTO)",5,SOLD,chris_happytradingcards
@@ -37,7 +11,6 @@ Adrian Peterson (AUTO),4,SOLD,adamgarai
 Oscar Delp (RC) (AUTO),1,SOLD,adekastosbaras
 Keldric Faulk (RC) (AUTO),1,SOLD,ccrod90
 "George Pickens (BASE, 2x INSERT, 3x AUTO)",5,SOLD,jaekelinho
-"Brock Purdy (BASE, 2x INSERT, 2x AUTO)",1,OPEN,
 "Sam Darnold (BASE, 2x INSERT, 2x AUTO)",3,SOLD,lieven_k
 "Tetairoa McMillan (BASE, 2x INSERT(Twilight), 2x AUTO)",4,SOLD,tjallamandi
 "Tyler Warren (BASE, INSERT, 3x AUTO)",3,SOLD,onurnail
@@ -122,32 +95,6 @@ Micah Parsons (BASE),1,SOLD,flo84
 DK Metcalf (BASE),1,SOLD,alex889cards
 Harold Fannin Jr. (BASE),1,SOLD,michfrei
 "Barry Sanders (INSERT(Dual), AUTO)",3,SOLD,flo84
-"Fernando Mendoza (RC) (BASE, 6x INSERT(Celestial Roots, Dream Land, Night Night, Twilight), 7x AUTO, 3x AUTO & RELIC)",1,OPEN,
-"Josh Allen (BASE, 5x INSERT(Dual, Celestial Roots, Dream Land, Night Night, Twilight), 2x AUTO)",1,OPEN,
-"Patrick Mahomes II (BASE, 5x INSERT(Dual, Celestial Roots, Dream Land, Night Night, Twilight))",1,OPEN,
-"Tom Brady (2x INSERT(Dual, Night Night), 2x AUTO)",1,OPEN,
-"Jeremiyah Love (RC) (BASE, 6x INSERT(Celestial Roots, Dream Land, Night Night, Twilight), 6x AUTO, 3x AUTO & RELIC)",1,OPEN,
-"Drake Maye (BASE, 6x INSERT(Dual, Celestial Roots, Dream Land, Twilight), 3x AUTO)",1,OPEN,
-"Jayden Daniels (BASE, 5x INSERT(Celestial Roots, Dream Land, Night Night, Twilight), 3x AUTO)",1,OPEN,
-"Justin Jefferson (BASE, 5x INSERT(Dual, Celestial Roots, Dream Land, Night Night, Twilight), 2x AUTO)",1,OPEN,
-"Lamar Jackson (BASE, 4x INSERT(Celestial Roots, Dream Land, Night Night, Twilight))",1,OPEN,
-"Saquon Barkley (BASE, 3x INSERT(Night Night, Twilight))",1,OPEN,
-"Trevor Lawrence (BASE, 4x INSERT(Celestial Roots, Dream Land, Twilight), AUTO)",1,OPEN,
-"Emmett Johnson (RC) (BASE, INSERT, 4x AUTO, AUTO & RELIC)",1,OPEN,
-"Carnell Tate (RC) (BASE, 5x INSERT(Celestial Roots, Dream Land, Night Night, Twilight), 6x AUTO, 3x AUTO & RELIC)",1,OPEN,
-"Jordyn Tyson (RC) (BASE, 4x INSERT(Celestial Roots, Dream Land, Night Night), 6x AUTO, 3x AUTO & RELIC)",1,OPEN,
-"Caleb Downs (RC) (BASE, 3x INSERT(Night Night, Twilight), 6x AUTO, 3x AUTO & RELIC)",1,OPEN,
-"Caleb Williams (BASE, 5x INSERT(Dual, Celestial Roots, Dream Land, Night Night, Twilight), 3x AUTO)",1,OPEN,
-"Matthew Stafford (BASE, 3x INSERT(Night Night, Twilight), 2x AUTO)",1,OPEN,
-"Ashton Jeanty (BASE, 2x INSERT(Dual, Dream Land), 2x AUTO)",1,OPEN,
-"Justin Herbert (BASE, 3x INSERT(Celestial Roots, Dream Land, Twilight), AUTO)",1,OPEN,
-"Makai Lemon (RC) (BASE, 2x INSERT(Night Night), 6x AUTO, 3x AUTO & RELIC)",1,OPEN,
-"Ty Simpson (RC) (BASE, 2x INSERT, 6x AUTO, 3x AUTO & RELIC)",1,OPEN,
-"Bo Nix (BASE, 3x INSERT(Celestial Roots, Dream Land, Twilight), 3x AUTO)",1,OPEN,
-"Dak Prescott (BASE, 4x INSERT(Dual, Dream Land, Twilight), 2x AUTO)",1,OPEN,
-"Carson Beck (RC) (BASE, 2x INSERT(Twilight), 6x AUTO, 3x AUTO & RELIC)",1,OPEN,
-"Drew Allar (RC) (BASE, 2x INSERT(Celestial Roots), 6x AUTO, 3x AUTO & RELIC)",1,OPEN,
-"Denzel Boston (RC) (BASE, INSERT, 6x AUTO, 3x AUTO & RELIC)",1,OPEN,
 "Jonah Coleman (RC) (BASE, INSERT, 5x AUTO, 2x AUTO & RELIC)",12,SOLD,buschicopter
 Kevin Coleman Jr. (RC) (AUTO),2,SOLD,chris_happytradingcards
 "De'Von Achane (BASE, INSERT, 2x AUTO)",5,SOLD,chris_happytradingcards
@@ -160,7 +107,6 @@ Adrian Peterson (AUTO),4,SOLD,adamgarai
 Oscar Delp (RC) (AUTO),1,SOLD,adekastosbaras
 Keldric Faulk (RC) (AUTO),1,SOLD,ccrod90
 "George Pickens (BASE, 2x INSERT, 3x AUTO)",5,SOLD,jaekelinho
-"Brock Purdy (BASE, 2x INSERT, 2x AUTO)",1,OPEN,
 "Sam Darnold (BASE, 2x INSERT, 2x AUTO)",3,SOLD,lieven_k
 "Joe Burrow (BASE, 5x INSERT(Dual, Celestial Roots, Dream Land, Night Night, Twilight), 2x AUTO)",20,SOLD,oliversfarsa
 "Jaxon Smith-Njigba (BASE, 4x INSERT(Dual, Celestial Roots, Dream Land, Night Night), AUTO)",23,SOLD,rglt28
@@ -284,3 +230,61 @@ Eli Heidenreich (RC) (AUTO),3,SOLD,alex889cards
 "Amon-Ra St. Brown (BASE, INSERT, AUTO)",12,SOLD,matayori
 "CJ Stroud (BASE, 3x INSERT(Celestial Roots, Twilight))",4,SOLD,andi2802
 Steve Largent (INSERT(Dual)),1,SOLD,jaekelinho
+"Fernando Mendoza (RC) (BASE, 6x INSERT(Celestial Roots, Dream Land, Night Night, Twilight), 7x AUTO, 3x AUTO & RELIC)",93,SOLD,gent01
+"Josh Allen (BASE, 5x INSERT(Dual, Celestial Roots, Dream Land, Night Night, Twilight), 2x AUTO)",30,SOLD,cd89524
+"Patrick Mahomes II (BASE, 5x INSERT(Dual, Celestial Roots, Dream Land, Night Night, Twilight))",38,SOLD,chrisrlz
+"Tom Brady (2x INSERT(Dual, Night Night), 2x AUTO)",39,SOLD,rhelaps
+"Jeremiyah Love (RC) (BASE, 6x INSERT(Celestial Roots, Dream Land, Night Night, Twilight), 6x AUTO, 3x AUTO & RELIC)",35,SOLD,kardinalx
+"Drake Maye (BASE, 6x INSERT(Dual, Celestial Roots, Dream Land, Twilight), 3x AUTO)",21,SOLD,stefanhaldo
+"Jayden Daniels (BASE, 5x INSERT(Celestial Roots, Dream Land, Night Night, Twilight), 3x AUTO)",24,SOLD,deninho
+"Justin Jefferson (BASE, 5x INSERT(Dual, Celestial Roots, Dream Land, Night Night, Twilight), 2x AUTO)",25,SOLD,nilkno
+"Lamar Jackson (BASE, 4x INSERT(Celestial Roots, Dream Land, Night Night, Twilight))",16,SOLD,gent01
+"Saquon Barkley (BASE, 3x INSERT(Night Night, Twilight))",11,SOLD,rikigronk87
+"Trevor Lawrence (BASE, 4x INSERT(Celestial Roots, Dream Land, Twilight), AUTO)",28,SOLD,rikigronk87
+"Emmett Johnson (RC) (BASE, INSERT, 4x AUTO, AUTO & RELIC)",20,SOLD,chrisrlz
+"Carnell Tate (RC) (BASE, 5x INSERT(Celestial Roots, Dream Land, Night Night, Twilight), 6x AUTO, 3x AUTO & RELIC)",34,SOLD,brzi77
+"Jordyn Tyson (RC) (BASE, 4x INSERT(Celestial Roots, Dream Land, Night Night), 6x AUTO, 3x AUTO & RELIC)",25,SOLD,ricknickcards
+"Caleb Downs (RC) (BASE, 3x INSERT(Night Night, Twilight), 6x AUTO, 3x AUTO & RELIC)",32,SOLD,jorgito33
+"Caleb Williams (BASE, 5x INSERT(Dual, Celestial Roots, Dream Land, Night Night, Twilight), 3x AUTO)",44,SOLD,rhelaps
+"Matthew Stafford (BASE, 3x INSERT(Night Night, Twilight), 2x AUTO)",9,SOLD,deasycards
+"Ashton Jeanty (BASE, 2x INSERT(Dual, Dream Land), 2x AUTO)",8,SOLD,jhl83
+"Justin Herbert (BASE, 3x INSERT(Celestial Roots, Dream Land, Twilight), AUTO)",14,SOLD,deninho
+"Makai Lemon (RC) (BASE, 2x INSERT(Night Night), 6x AUTO, 3x AUTO & RELIC)",32,SOLD,kardinalx
+"Ty Simpson (RC) (BASE, 2x INSERT, 6x AUTO, 3x AUTO & RELIC)",33,SOLD,deasycards
+"Bo Nix (BASE, 3x INSERT(Celestial Roots, Dream Land, Twilight), 3x AUTO)",14,SOLD,jorgito33
+"Dak Prescott (BASE, 4x INSERT(Dual, Dream Land, Twilight), 2x AUTO)",8,SOLD,matthiasradakovits83
+"Carson Beck (RC) (BASE, 2x INSERT(Twilight), 6x AUTO, 3x AUTO & RELIC)",36,SOLD,oki1005
+"Drew Allar (RC) (BASE, 2x INSERT(Celestial Roots), 6x AUTO, 3x AUTO & RELIC)",21,SOLD,jorgito33
+"Denzel Boston (RC) (BASE, INSERT, 6x AUTO, 3x AUTO & RELIC)",16,SOLD,rikigronk87
+"Brock Purdy (BASE, 2x INSERT, 2x AUTO)",12,SOLD,jorgito33
+"Fernando Mendoza (RC) (BASE, 6x INSERT(Celestial Roots, Dream Land, Night Night, Twilight), 7x AUTO, 3x AUTO & RELIC)",93,SOLD,gent01
+"Josh Allen (BASE, 5x INSERT(Dual, Celestial Roots, Dream Land, Night Night, Twilight), 2x AUTO)",30,SOLD,cd89524
+"Patrick Mahomes II (BASE, 5x INSERT(Dual, Celestial Roots, Dream Land, Night Night, Twilight))",38,SOLD,chrisrlz
+"Tom Brady (2x INSERT(Dual, Night Night), 2x AUTO)",39,SOLD,rhelaps
+"Jeremiyah Love (RC) (BASE, 6x INSERT(Celestial Roots, Dream Land, Night Night, Twilight), 6x AUTO, 3x AUTO & RELIC)",35,SOLD,kardinalx
+"Drake Maye (BASE, 6x INSERT(Dual, Celestial Roots, Dream Land, Twilight), 3x AUTO)",21,SOLD,stefanhaldo
+"Jayden Daniels (BASE, 5x INSERT(Celestial Roots, Dream Land, Night Night, Twilight), 3x AUTO)",24,SOLD,deninho
+"Justin Jefferson (BASE, 5x INSERT(Dual, Celestial Roots, Dream Land, Night Night, Twilight), 2x AUTO)",25,SOLD,nilkno
+"Lamar Jackson (BASE, 4x INSERT(Celestial Roots, Dream Land, Night Night, Twilight))",16,SOLD,gent01
+"Saquon Barkley (BASE, 3x INSERT(Night Night, Twilight))",11,SOLD,rikigronk87
+"Trevor Lawrence (BASE, 4x INSERT(Celestial Roots, Dream Land, Twilight), AUTO)",28,SOLD,rikigronk87
+"Emmett Johnson (RC) (BASE, INSERT, 4x AUTO, AUTO & RELIC)",20,SOLD,chrisrlz
+"Carnell Tate (RC) (BASE, 5x INSERT(Celestial Roots, Dream Land, Night Night, Twilight), 6x AUTO, 3x AUTO & RELIC)",34,SOLD,brzi77
+"Jordyn Tyson (RC) (BASE, 4x INSERT(Celestial Roots, Dream Land, Night Night), 6x AUTO, 3x AUTO & RELIC)",25,SOLD,ricknickcards
+"Caleb Downs (RC) (BASE, 3x INSERT(Night Night, Twilight), 6x AUTO, 3x AUTO & RELIC)",32,SOLD,jorgito33
+"Caleb Williams (BASE, 5x INSERT(Dual, Celestial Roots, Dream Land, Night Night, Twilight), 3x AUTO)",44,SOLD,rhelaps
+"Matthew Stafford (BASE, 3x INSERT(Night Night, Twilight), 2x AUTO)",9,SOLD,deasycards
+"Ashton Jeanty (BASE, 2x INSERT(Dual, Dream Land), 2x AUTO)",8,SOLD,jhl83
+"Justin Herbert (BASE, 3x INSERT(Celestial Roots, Dream Land, Twilight), AUTO)",14,SOLD,deninho
+"Makai Lemon (RC) (BASE, 2x INSERT(Night Night), 6x AUTO, 3x AUTO & RELIC)",32,SOLD,kardinalx
+"Ty Simpson (RC) (BASE, 2x INSERT, 6x AUTO, 3x AUTO & RELIC)",33,SOLD,deasycards
+"Bo Nix (BASE, 3x INSERT(Celestial Roots, Dream Land, Twilight), 3x AUTO)",14,SOLD,jorgito33
+"Dak Prescott (BASE, 4x INSERT(Dual, Dream Land, Twilight), 2x AUTO)",8,SOLD,matthiasradakovits83
+"Carson Beck (RC) (BASE, 2x INSERT(Twilight), 6x AUTO, 3x AUTO & RELIC)",36,SOLD,oki1005
+"Drew Allar (RC) (BASE, 2x INSERT(Celestial Roots), 6x AUTO, 3x AUTO & RELIC)",21,SOLD,jorgito33
+"Denzel Boston (RC) (BASE, INSERT, 6x AUTO, 3x AUTO & RELIC)",16,SOLD,rikigronk87
+"Brock Purdy (BASE, 2x INSERT, 2x AUTO)",12,SOLD,jorgito33
+Trevor Lawrence new spot,26,SOLD,juanaferndaez
+Denzel Boston new spot,22,SOLD,deasycards
+jalen Hurts new spot,12,SOLD,licantonio
+CeeDee Lamb new spots,16,SOLD,licantonio
