@@ -1,34 +1,41 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-MISC,,OPEN,
+Los Angeles Chargers,65,SOLD,ellbeau
+#2,65,SOLD,gonzoman717
+Miami Dolphins,58,SOLD,qcy6969
+Denver Broncos,66,SOLD,gonzoman717
+Buffalo Bills,59,SOLD,qcy6969
+#6,58,SOLD,ellbeau
+Cleveland Browns,51,SOLD,zomtristan
+Detroit Lions,59,SOLD,ellbeau
+Cincinnati Bengals,51,SOLD,jerseyshorecards1
+Dallas Cowboys,51,SOLD,jerseyshorecards1
+Las Vegas Raiders,54,SOLD,robertoluna
+Pittsburgh Steelers,55,SOLD,robertoluna
+Kansas City Chiefs,58,SOLD,robertoluna
+Baltimore Ravens,55,SOLD,zomtristan
+Tampa Bay Buccaneers,54,SOLD,robertoluna
+MISC,58,SOLD,vegasmann
+San Francisco 49ers,63,SOLD,vegasmann
+#18,62,SOLD,vegasmann
+Green Bay Packers,66,SOLD,vegasmann
+Chicago Bears,69,SOLD,vegasmann
+Philadelphia Eagles,59,SOLD,vegasmann
+Houston Texans,59,SOLD,vegasmann
+#23,53,SOLD,robertoluna
+#24,49,SOLD,thepindoctor
+#25,50,SOLD,robertoluna
+#26,53,SOLD,jerseyshorecards1
+#27,64,SOLD,steelheaddan
+New England Patriots,74,SOLD,steelheaddan
+#29,62,SOLD,johnc28
+Los Angeles Rams,50,SOLD,robertoluna
+New York Giants,42,SOLD,thepindoctor
+Atlanta Falcons,48,SOLD,qcy6969
+#33,45,SOLD,robertoluna
+#34,44,SOLD,robertoluna
+Minnesota Vikings,46,SOLD,robertoluna
+Washington Commanders,1,SOLD,christopher41261
+"New Orleans Saints, Seattle Seahawks",5,SOLD,christopher41261
+Tennessee Titans,5,SOLD,christopher41261
+"Indianapolis Colts, New York Jets",6,SOLD,lefthandstranger
+"Arizona Cardinals, Carolina Panthers, Jacksonville Jaguars",9,SOLD,sarge2135

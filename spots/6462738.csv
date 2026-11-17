@@ -1,26 +1,48 @@
 spot,price,state,buyer
 Kansas City Chiefs,145,SOLD,kingnothing_84
-#2,140,SOLD,thebinmaster87
 Cleveland Browns,122,SOLD,bglenn1522
 Pittsburgh Steelers,120,SOLD,johnkho23
-#5,125,SOLD,kingnothing_84
 New York Giants,116,SOLD,johnkho23
 Minnesota Vikings,125,SOLD,thebinmaster87
 Cincinnati Bengals,125,SOLD,ccline301
-#9,125,SOLD,ccline301
 Buffalo Bills,115,SOLD,kingnothing_84
 New England Patriots,145,SOLD,sweensween6
-#12,125,SOLD,ccline301
-#13,115,SOLD,sweensween6
 Los Angeles Chargers,125,SOLD,sweensween6
 Green Bay Packers,120,SOLD,sweensween6
-#16,140,SOLD,sweensween6
-#17,140,SOLD,sweensween6
-#18,155,SOLD,ccline301
 Washington Commanders,135,SOLD,sweensween6
 Jacksonville Jaguars,150,SOLD,sweensween6
 San Francisco 49ers,155,SOLD,ecbeaty
-Baltimore Ravens,92,SOLD,ryanbeck19637
-Houston Texans,130,SOLD,ccline301
 Chicago Bears,121,SOLD,ryanbeck19637
 Detroit Lions,130,SOLD,ryanbeck19637
+T,140,SOLD,thebinmaster87
+T,125,SOLD,kingnothing_84
+T,125,SOLD,ccline301
+T,125,SOLD,ccline301
+T,115,SOLD,sweensween6
+T,140,SOLD,sweensween6
+T,140,SOLD,sweensween6
+T,155,SOLD,ccline301
+T,92,SOLD,ryanbeck19637
+T,130,SOLD,ccline301
+Denver Broncos,111,SOLD,ccline301
+T,84,SOLD,maximumgirth
+T,113,SOLD,maximumgirth
+Houston Texans,100,SOLD,maximumgirth
+MISC,110,SOLD,maximumgirth
+T,96,SOLD,maximumgirth
+T,102,SOLD,ccline301
+Dallas Cowboys,175,SOLD,thebinmaster87
+Los Angeles Rams,180,SOLD,everythinginsurance
+Baltimore Ravens,58,SOLD,phill_mianis
+Miami Dolphins,37,SOLD,sweensween6
+Tennessee Titans,38,SOLD,maximumgirth
+Las Vegas Raiders,38,SOLD,johnkho23
+Carolina Panthers,42,SOLD,1of1sports
+Philadelphia Eagles,44,SOLD,327cards
+Seattle Seahawks,41,SOLD,phill_mianis
+New Orleans Saints,19,SOLD,phill_mianis
+Tampa Bay Buccaneers,26,SOLD,phill_mianis
+Atlanta Falcons,23,SOLD,delidad3
+Indianapolis Colts,26,SOLD,thebinmaster87
+Arizona Cardinals,22,SOLD,tony77max
+New York Jets,23,SOLD,ecbeaty

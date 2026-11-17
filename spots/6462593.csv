@@ -1,38 +1,50 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-MISC,,OPEN,
-DOWNTOWN,,OPEN,
-DOWNTOWN,,OPEN,
-DOWNTOWN,,OPEN,
-DOWNTOWN,,OPEN,
+T,175,SOLD,sweensween6
+Los Angeles Rams,170,SOLD,sweensween6
+T,170,SOLD,sweensween6
+Green Bay Packers,190,SOLD,sweensween6
+Cleveland Browns,170,SOLD,sweensween6
+#6,200,SOLD,jesgar29487
+Baltimore Ravens,130,SOLD,jasonklein1227
+Minnesota Vikings,175,SOLD,sweensween6
+DOWNTOWN,175,SOLD,sweensween6
+T,135,SOLD,jacksonkwi
+Chicago Bears,126,SOLD,jcarroll57
+Denver Broncos,136,SOLD,jacksonkwi
+T,126,SOLD,cooperdejawn
+MISC,160,SOLD,cooperdejawn
+Kansas City Chiefs,155,SOLD,solon1012
+DOWNTOWN,117.9,SOLD,cooperdejawn
+Los Angeles Chargers,115,SOLD,everythinginsurance
+Dallas Cowboys,130,SOLD,everythinginsurance
+T,138,SOLD,everythinginsurance
+San Francisco 49ers,123.3,SOLD,kingnothing_84
+Pittsburgh Steelers,146,SOLD,cooperdejawn
+T,78,SOLD,jasonklein1227
+DOWNTOWN,105,SOLD,everythinginsurance
+T,105,SOLD,everythinginsurance
+New England Patriots,96,SOLD,solon1012
+T,102,SOLD,solon1012
+T,74,SOLD,johnkho23
+Indianapolis Colts,84,SOLD,jdoof27
+Carolina Panthers,76,SOLD,bglenn1522
+Buffalo Bills,78,SOLD,johnkho23
+New York Giants,85,SOLD,jasonklein1227
+Tennessee Titans,79,SOLD,peterupinyou85
+T,74.7,SOLD,jasonklein1227
+New Orleans Saints,76,SOLD,slickrick8826
+Detroit Lions,72.9,SOLD,1of1sports
+Cincinnati Bengals,86,SOLD,slickrick8826
+T,83,SOLD,1of1sports
+Las Vegas Raiders,85,SOLD,undisclosedinformation
+DOWNTOWN,86,SOLD,cooperdejawn
+Philadelphia Eagles,32,SOLD,johnkho23
+Washington Commanders,23,SOLD,jdoof27
+Jacksonville Jaguars,22,SOLD,wildcats2686
+Houston Texans,21,SOLD,skarr1338
+Miami Dolphins,21,SOLD,skarr1338
+New York Jets,26,SOLD,skarr1338
+Atlanta Falcons,31,SOLD,skarr1338
+Seattle Seahawks,32,SOLD,skarr1338
+Arizona Cardinals,12.6,SOLD,dylintur
+Tampa Bay Buccaneers,22,SOLD,dylintur

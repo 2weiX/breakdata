@@ -1,34 +1,44 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-MISC,,OPEN,
+T,115,SOLD,ecbeaty
+Denver Broncos,129,SOLD,ecbeaty
+Dallas Cowboys,129,SOLD,bigjohn1204
+T,116,SOLD,thunder_boomer
+Los Angeles Chargers,130,SOLD,ecbeaty
+New England Patriots,119,SOLD,bigjohn1204
+MISC,116,SOLD,thunder_boomer
+T,119,SOLD,bigjohn1204
+T,119,SOLD,bigjohn1204
+Cleveland Browns,160,SOLD,bigjohn1204
+Los Angeles Rams,120,SOLD,thunder_boomer
+Philadelphia Eagles,102,SOLD,bigjohn1204
+T,84,SOLD,bigjohn1204
+Las Vegas Raiders,95,SOLD,bigjohn1204
+T,105,SOLD,ecbeaty
+Green Bay Packers,105,SOLD,ecbeaty
+T,105,SOLD,ryanhan41096
+Kansas City Chiefs,113,SOLD,dubscards9807
+Buffalo Bills,107,SOLD,bglenn1522
+Indianapolis Colts,115,SOLD,bigjohn1204
+New York Giants,112,SOLD,bigjohn1204
+Houston Texans,102,SOLD,bigjohn1204
+Chicago Bears,114,SOLD,ryanhan41096
+Tampa Bay Buccaneers,91,SOLD,dubscards9807
+Detroit Lions,88,SOLD,bglenn1522
+Minnesota Vikings,93,SOLD,bigjohn1204
+T,78,SOLD,ryanhan41096
+Seattle Seahawks,71.1,SOLD,voidcardmarket
+Pittsburgh Steelers,74,SOLD,kzcardco
+T,70,SOLD,voidcardmarket
+Washington Commanders,39,SOLD,ryanhan41096
+Cincinnati Bengals,63,SOLD,ryanhan41096
+T,58,SOLD,voidcardmarket
+Tennessee Titans,60,SOLD,voidcardmarket
+Arizona Cardinals,51,SOLD,bglenn1522
+San Francisco 49ers,55,SOLD,1of1sports
+New Orleans Saints,29,SOLD,ryanhan41096
+Baltimore Ravens,27,SOLD,antme11
+Atlanta Falcons,13,SOLD,1of1sports
+Carolina Panthers,19,SOLD,ryanhan41096
+Jacksonville Jaguars,8,SOLD,bglenn1522
+New York Jets,17,SOLD,mrdeweyyy
+Miami Dolphins,9,SOLD,ryanhan41096

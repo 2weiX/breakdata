@@ -1,44 +1,48 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-FBS INDEPENDENT,,OPEN,
-BIG 10,,OPEN,
-BIG 12,,OPEN,
-SEC,,OPEN,
-CONF USA,,OPEN,
-MOUNTAIN WEST,,OPEN,
-ACC,,OPEN,
-AMERICAN,,OPEN,
-MAC + JACKSON ST,,OPEN,
-SUN BELT,,OPEN,
-PAC 12,,OPEN,
+New Orleans Saints,13,SOLD,allenjr32
+Pittsburgh Steelers,18,SOLD,warpony12
+New York Giants,9,SOLD,allenjr32
+Green Bay Packers,10,SOLD,allenjr32
+Buffalo Bills,16,SOLD,slbmlightshow84
+Tampa Bay Buccaneers,15,SOLD,allenjr32
+Kansas City Chiefs,16,SOLD,allenjr32
+#8,15,SOLD,schmeatwagon
+Cincinnati Bengals,15,SOLD,slbmlightshow84
+Detroit Lions,15,SOLD,allenjr32
+Washington Commanders,14,SOLD,schmeatwagon
+Cleveland Browns,32,SOLD,allenjr32
+San Francisco 49ers,16,SOLD,mattcarriaga80
+Miami Dolphins,16,SOLD,allenjr32
+SUN BELT,1,SOLD,schmeatwagon
+Arizona Cardinals,1,SOLD,schmeatwagon
+New York Jets,12,SOLD,schmeatwagon
+BIG 10,20,SOLD,allenjr32
+Seattle Seahawks,14,SOLD,slbmlightshow84
+Baltimore Ravens,16,SOLD,allenjr32
+Tennessee Titans,16,SOLD,slbmlightshow84
+New England Patriots,14,SOLD,schmeatwagon
+BIG 12,22,SOLD,bmorenasty
+#24,18,SOLD,rtr1990
+Dallas Cowboys,22,SOLD,rtr1990
+ACC,23,SOLD,rtr1990
+SEC,14,SOLD,rtr1990
+#28,15,SOLD,slbmlightshow84
+Jacksonville Jaguars,15,SOLD,slbmlightshow84
+Philadelphia Eagles,16,SOLD,cwhighwind
+Atlanta Falcons,20,SOLD,cwhighwind
+Los Angeles Chargers,18,SOLD,rtr1990
+Minnesota Vikings,17,SOLD,cwhighwind
+PAC 12,17,SOLD,cwhighwind
+Carolina Panthers,18,SOLD,cwhighwind
+#36,27,SOLD,cwhighwind
+Las Vegas Raiders,17,SOLD,warpony12
+Indianapolis Colts,16,SOLD,seanlen22
+FBS INDEPENDENT,16,SOLD,charleswilson
+AMERICAN,17,SOLD,warpony12
+CONF USA,17,SOLD,seanlen22
+Chicago Bears,13,SOLD,charleswilson
+MAC + JACKSON ST,12,SOLD,charleswilson
+MOUNTAIN WEST,16,SOLD,charleswilson
+Los Angeles Rams,14,SOLD,charleswilson
+Denver Broncos,14,SOLD,charleswilson
+Houston Texans,15,SOLD,cwhighwind
