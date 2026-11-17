@@ -1,12 +1,12 @@
 spot,price,state,buyer
-Division 1,,OPEN,
-Division 2,,OPEN,
-Division 3,,OPEN,
-Division 4,,OPEN,
-Division 5,,OPEN,
-Division 6,,OPEN,
-Division 7,,OPEN,
-Division 8,,OPEN,
-Division 9,,OPEN,
-Division 10,,OPEN,
-Division 11,,OPEN,
+Division 1,48,SOLD,mcdonaugh87
+Division 2,74,SOLD,jasonscottmcfarland
+Division 3,56,SOLD,johnp4413
+Division 4,42,SOLD,johnp4413
+Division 5,40,SOLD,johnp4413
+Division 6,40.8,SOLD,johnp4413
+Division 7,65.45,SOLD,johnp4413
+Division 9,67,SOLD,bhill64155
+Division 10,73,SOLD,johnp4413
+Division 11,56,SOLD,johnp4413
+#11,1,OPEN,

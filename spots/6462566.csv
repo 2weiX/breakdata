@@ -1,34 +1,45 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-MISC,,OPEN,
+Arizona Cardinals,107,SOLD,printrun1
+Atlanta Falcons,200,SOLD,asassen
+Baltimore Ravens,141,SOLD,bglenn1522
+Buffalo Bills,165,SOLD,ryanbeck19637
+Carolina Panthers,185,SOLD,bigdaddy71423
+Chicago Bears,189,SOLD,scuddmissle
+Cincinnati Bengals,140,SOLD,bglenn1522
+Cleveland Browns,165,SOLD,ryanbeck19637
+Dallas Cowboys,226,SOLD,ja_hova_3p
+Denver Broncos,186,SOLD,brendanhen41409
+Detroit Lions,170,SOLD,johnkho23
+Green Bay Packers,148,SOLD,endzonechasers
+Houston Texans,137,SOLD,ja_hova_3p
+Indianapolis Colts,185,SOLD,brendanhen41409
+Jacksonville Jaguars,145,SOLD,endzonechasers
+Kansas City Chiefs,172,SOLD,ryanbeck19637
+Las Vegas Raiders,143,SOLD,johnkho23
+Los Angeles Chargers,139,SOLD,bglenn1522
+Los Angeles Rams,420,SOLD,ryanbeck19637
+Miami Dolphins,184,SOLD,wade1022
+Minnesota Vikings,202,SOLD,johnkho23
+New England Patriots,141,SOLD,endzonechasers
+New Orleans Saints,200,SOLD,bigdaddy71423
+New York Giants,146.7,SOLD,bglenn1522
+New York Jets,141,SOLD,1of1sports
+Philadelphia Eagles,145,SOLD,jasongtr1982
+Pittsburgh Steelers,260,SOLD,brendanhen41409
+San Francisco 49ers,180,SOLD,brendanhen41409
+Seattle Seahawks,155,SOLD,printrun1
+Tampa Bay Buccaneers,130,SOLD,peterupinyou85
+Tennessee Titans,155,SOLD,scuddmissle
+Washington Commanders,135,SOLD,jasongtr1982
+MISC,165,SOLD,johnkho23
+T,140,SOLD,bglenn1522
+T,170,SOLD,ryanbeck19637
+T,140,SOLD,endzonechasers
+T,148,SOLD,johnkho23
+T,141,SOLD,jasongtr1982
+T,111,SOLD,jasongtr1982
+T,162,SOLD,johnkho23
+T,220,SOLD,brendanhen41409
+T,220.5,SOLD,ja_hova_3p
+T,195,SOLD,ja_hova_3p
+T,175,SOLD,asassen
