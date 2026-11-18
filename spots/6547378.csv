@@ -1,7 +1,7 @@
 spot,price,state,buyer
 Arizona Cardinals,125.1,SOLD,jbtradcards
 Atlanta Falcons,55,OPEN,
-Baltimore Ravens,69,OPEN,
+Baltimore Ravens,65,SOLD,bigg_steve
 Buffalo Bills,139,OPEN,
 Carolina Panthers,65,OPEN,
 Chicago Bears,129,SOLD,bjwormuth
@@ -27,7 +27,7 @@ New York Jets,79,OPEN,
 Philadelphia Eagles,89,OPEN,
 Pittsburgh Steelers,89,OPEN,
 San Francisco 49ers,119,OPEN,
-Seattle Seahawks,95,OPEN,
+Seattle Seahawks,90,SOLD,chris016381
 Tampa Bay Buccaneers,98.1,SOLD,bigg_steve
 Tennessee Titans,109,OPEN,
 Washington Commanders,79,OPEN,

@@ -3,12 +3,10 @@ Arizona Cardinals,6,SOLD,matthiasradakovits83
 Atlanta Falcons,10,SOLD,niners46
 Baltimore Ravens,12,SOLD,kawara
 Buffalo Bills,27,SOLD,radkon2306
-Carolina Panthers,6,OPEN,
 Chicago Bears,6,SOLD,bjwormuth
 Cincinnati Bengals,12,SOLD,karlklammer
 Cleveland Browns,8,SOLD,pj_cardz
 Dallas Cowboys,10,SOLD,basti_2710
-Denver Broncos,10,OPEN,
 Detroit Lions,12,SOLD,glockenchili
 Green Bay Packers,21,SOLD,karlklammer
 Houston Texans,1,SOLD,niners46
@@ -16,7 +14,6 @@ Indianapolis Colts,9,SOLD,andreasfin
 Jacksonville Jaguars,6,SOLD,florianper05379
 Kansas City Chiefs,14,SOLD,chrisrlz
 Las Vegas Raiders,12,SOLD,darth_olli
-Los Angeles Chargers,13,OPEN,
 Los Angeles Rams,12,SOLD,basti_2710
 Miami Dolphins,6,SOLD,fabian_93
 Minnesota Vikings,9,SOLD,basti_2710
@@ -28,5 +25,5 @@ Pittsburgh Steelers,10,SOLD,alex889cards
 San Francisco 49ers,17,SOLD,cavilheca
 Seattle Seahawks,13,SOLD,smowhat
 Tampa Bay Buccaneers,19,SOLD,karlklammer
-Tennessee Titans,12,OPEN,
 Washington Commanders,11,SOLD,karlklammer
+"Panthers, Broncos, Titans, Chargers",30,SOLD,koeter88
