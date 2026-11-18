@@ -1,4 +1,5 @@
 spot,price,state,buyer
+Arizona Cardinals ,559,OPEN,
 Atlanta Falcons,169,OPEN,
 Baltimore Ravens,239,OPEN,
 Buffalo Bills,429,SOLD,titanovic
@@ -12,7 +13,8 @@ Detroit Lions,249,SOLD,justsomecardguy
 Green Bay Packers,209,OPEN,
 Houston Texans,169,OPEN,
 Indianapolis Colts,199,OPEN,
-Kansas City Chiefs,599,OPEN,
+Jacksonville Jaguars ,249,OPEN,
+Kansas City Chiefs,549,SOLD,gkgkggg
 Las Vegas Raiders,859,OPEN,
 Los Angeles Chargers,189,OPEN,
 Los Angeles Rams,529,SOLD,deasycards
@@ -22,12 +24,10 @@ New England Patriots,539,OPEN,
 New Orleans Saints,279,OPEN,
 New York Giants,399,OPEN,
 New York Jets,309,OPEN,
+Philadelphia Eagles ,279,OPEN,
 Pittsburgh Steelers,259,OPEN,
-San Francisco 49ers,279,OPEN,
+San Francisco 49ers,225,SOLD,1pepe
 Seattle Seahawks,379,OPEN,
 Tampa Bay Buccaneers,379,OPEN,
 Tennessee Titans,339,OPEN,
-Arizona Cardinals ,559,OPEN,
-Jacksonville Jaguars ,249,OPEN,
-Philadelphia Eagles ,279,OPEN,
 Washington Commanders ,299,OPEN,
