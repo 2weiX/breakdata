@@ -5,12 +5,10 @@ spot,price,state,buyer
 #4,12,OPEN,
 #5,12,OPEN,
 #6,12,OPEN,
-#7,12,OPEN,
 #8,12,OPEN,
 #9,12,OPEN,
 #10,12,OPEN,
 #11,12,OPEN,
-#12,12,OPEN,
 #13,12,OPEN,
 #14,12,OPEN,
 #15,12,OPEN,
@@ -21,7 +19,6 @@ spot,price,state,buyer
 #20,12,OPEN,
 #21,12,OPEN,
 #22,12,OPEN,
-#23,12,OPEN,
 #24,12,OPEN,
 #25,12,OPEN,
 #26,12,OPEN,
@@ -31,3 +28,6 @@ spot,price,state,buyer
 #30,12,OPEN,
 #31,12,OPEN,
 #32,12,OPEN,
+Chicago Bears,12,SOLD,tobigr19
+Jacksonville Jaguars,12,SOLD,tobigr19
+Arizona Cardinals,12,SOLD,jaekelinho

@@ -5,7 +5,6 @@ spot,price,state,buyer
 #4,12,OPEN,
 #5,12,OPEN,
 #6,12,OPEN,
-#7,12,OPEN,
 #8,12,OPEN,
 #9,12,OPEN,
 #10,12,OPEN,
@@ -15,7 +14,6 @@ Carolina Panthers,12,SOLD,jaekelinho
 #14,12,OPEN,
 #15,12,OPEN,
 #16,12,OPEN,
-#17,12,OPEN,
 #18,12,OPEN,
 #19,12,OPEN,
 #20,12,OPEN,
@@ -31,3 +29,5 @@ Carolina Panthers,12,SOLD,jaekelinho
 #30,12,OPEN,
 #31,12,OPEN,
 #32,12,OPEN,
+Denver Broncos,12,SOLD,tobigr19
+Tennessee Titans,12,SOLD,tobigr19
