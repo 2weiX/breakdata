@@ -1,7 +1,7 @@
 spot,price,state,buyer
 Arizona Cardinals,9,OPEN,
 Atlanta Falcons,3,OPEN,
-Baltimore Ravens,6,OPEN,
+Baltimore Ravens,6,SOLD,kawara
 Carolina Panthers,6,OPEN,
 Chicago Bears,7,OPEN,
 Cincinnati Bengals,4,OPEN,
@@ -11,7 +11,7 @@ Denver Broncos,5,OPEN,
 Green Bay Packers,3,SOLD,matthiasradakovits83
 Houston Texans,3,OPEN,
 Kansas City Chiefs,8,OPEN,
-Las Vegas Raiders,10,OPEN,
+Las Vegas Raiders,10,SOLD,darth_olli
 Los Angeles Chargers,5,OPEN,
 Los Angeles Rams,7,OPEN,
 Miami Dolphins,4,OPEN,

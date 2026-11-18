@@ -1,5 +1,5 @@
 spot,price,state,buyer
-Baltimore Ravens,12,OPEN,
+Baltimore Ravens,12,SOLD,kawara
 Buffalo Bills,27,SOLD,radkon2306
 Carolina Panthers,6,OPEN,
 Chicago Bears,6,SOLD,bjwormuth
@@ -11,7 +11,7 @@ Detroit Lions,12,SOLD,glockenchili
 Green Bay Packers,21,SOLD,karlklammer
 Jacksonville Jaguars,6,SOLD,florianper05379
 Kansas City Chiefs,14,SOLD,chrisrlz
-Las Vegas Raiders,14,OPEN,
+Las Vegas Raiders,12,SOLD,darth_olli
 Los Angeles Chargers,13,OPEN,
 Los Angeles Rams,15,OPEN,
 Miami Dolphins,6,SOLD,fabian_93
