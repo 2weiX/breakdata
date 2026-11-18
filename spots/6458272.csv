@@ -1,33 +1,33 @@
 spot,price,state,buyer
-Arizona Cardinals,1,OPEN,
+Arizona Cardinals,25,SOLD,hello_im_pauli
 Atlanta Falcons,8,SOLD,alexvandam
-Baltimore Ravens,1,OPEN,
-Buffalo Bills,1,OPEN,
+Baltimore Ravens,9,SOLD,koeter88
+Buffalo Bills,24,SOLD,konradkarsch
 Carolina Panthers,13,SOLD,kevihno_kun
-Chicago Bears,1,OPEN,
-Cincinnati Bengals,1,OPEN,
-Cleveland Browns,1,OPEN,
-Dallas Cowboys,1,OPEN,
-Denver Broncos,1,OPEN,
+Chicago Bears,25,SOLD,chrizzelbizzel
+Cincinnati Bengals,10,SOLD,saschakro
+Cleveland Browns,25,SOLD,konradkarsch
+Dallas Cowboys,7,SOLD,latradingcards82
+Denver Broncos,15,SOLD,konradkarsch
 Detroit Lions,14,SOLD,cardhobby_munich
 Green Bay Packers,12,SOLD,jambro58
 Houston Texans,9,SOLD,alexvandam
-Indianapolis Colts,1,OPEN,
+Indianapolis Colts,7,SOLD,rampy999
 Jacksonville Jaguars,6,SOLD,alexvandam
-Kansas City Chiefs,1,OPEN,
-Las Vegas Raiders,1,OPEN,
+Kansas City Chiefs,22,SOLD,konradkarsch
+Las Vegas Raiders,38,SOLD,gent01
 Los Angeles Chargers,2,SOLD,alexvandam
-Los Angeles Rams,1,OPEN,
+Los Angeles Rams,21,SOLD,konradkarsch
 Miami Dolphins,5,SOLD,hennib
 Minnesota Vikings,12,SOLD,matthiasradakovits83
-New England Patriots,1,OPEN,
-New Orleans Saints,1,OPEN,
-New York Giants,1,OPEN,
+New England Patriots,23,SOLD,konradkarsch
+New Orleans Saints,13,SOLD,alexvandam
+New York Giants,16,SOLD,konradkarsch
 New York Jets,9,SOLD,hennib
-Philadelphia Eagles,1,OPEN,
-Pittsburgh Steelers,1,OPEN,
+Philadelphia Eagles,10,SOLD,flyvi37
+Pittsburgh Steelers,20,SOLD,konradkarsch
 San Francisco 49ers,15,SOLD,latradingcards82
 Seattle Seahawks,12,SOLD,konradkarsch
 Tampa Bay Buccaneers,19,SOLD,alexvandam
-Tennessee Titans,1,OPEN,
-Washington Commanders,1,OPEN,
+Tennessee Titans,11,SOLD,rampy999
+Washington Commanders,8,SOLD,latradingcards82

@@ -19,10 +19,13 @@ Los Angeles Rams,135,OPEN,
 Miami Dolphins,27,OPEN,
 New England Patriots,109,OPEN,
 New Orleans Saints,59,OPEN,
-New York Giants,75,SOLD,gianthausa6
+#21,80,SOLD,gianthausa6
 Philadelphia Eagles,55,OPEN,
 San Francisco 49ers,79,OPEN,
-Seattle Seahawks,64,SOLD,fabhup
-Tampa Bay Buccaneers,69,SOLD,fabhup
+#24,70,SOLD,fabhup
+#25,75,SOLD,fabhup
 Tennessee Titans,75,OPEN,
 Washington Commanders,49,OPEN,
+Seattle Seahawks,70,OPEN,
+New York Giants,80,OPEN,
+Tampa Bay Buccaneers,75,OPEN,

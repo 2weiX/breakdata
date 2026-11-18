@@ -1,6 +1,6 @@
 spot,price,state,buyer
 Arizona Cardinals,19,OPEN,
-Atlanta Falcons,4,OPEN,
+Atlanta Falcons,4,SOLD,bighoffes80
 Baltimore Ravens,6,OPEN,
 Buffalo Bills,15,SOLD,koeter88
 Carolina Panthers,4,SOLD,bizepsminister
@@ -9,7 +9,7 @@ Cincinnati Bengals,9,SOLD,mooglicards
 Cleveland Browns,7,OPEN,
 Dallas Cowboys,11,OPEN,
 Denver Broncos,6,OPEN,
-Detroit Lions,6,OPEN,
+Detroit Lions,6,SOLD,carbau79
 Green Bay Packers,4,SOLD,jordanfel54929
 Houston Texans,3,SOLD,packers91
 Indianapolis Colts,5,OPEN,
