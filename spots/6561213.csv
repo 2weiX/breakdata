@@ -1,33 +1,33 @@
 spot,price,state,buyer
-#1,9,SOLD,garsch67899
-#2,9,SOLD,bobofboom
-#3,9,SOLD,grimar10379
-#4,9,OPEN,
-#5,9,SOLD,s3_xin
-#6,9,OPEN,
-#7,9,SOLD,breaksunchained
-#8,9,SOLD,valentino2104
-#9,9,OPEN,
-#10,9,SOLD,torius82
-#11,9,SOLD,matthiasradakovits83
-#12,9,SOLD,s3_xin
-#13,9,SOLD,ter_stenz1
-#14,9,SOLD,ccrod90
-#15,8.1,SOLD,valentino2104
-#16,9,OPEN,
-#17,9,SOLD,mightytim84
-#18,9,SOLD,bobofboom
-#19,9,SOLD,bobofboom
-#20,9,OPEN,
-#21,9,OPEN,
-#22,9,SOLD,shahrazzo
-#23,9,SOLD,breaksunchained
-#24,9,OPEN,
-#25,9,OPEN,
-#26,9,SOLD,funkypat
-#27,9,SOLD,breaksunchained
-#28,9,OPEN,
-#29,9,OPEN,
-#30,9,OPEN,
-#31,9,SOLD,mightytim84
-#32,9,SOLD,paddy1983
+Minnesota Vikings,9,SOLD,garsch67899
+Dallas Cowboys,9,SOLD,bobofboom
+New Orleans Saints,9,SOLD,grimar10379
+San Francisco 49ers,9,SOLD,ernie474
+Seattle Seahawks,9,SOLD,s3_xin
+Los Angeles Rams,9,SOLD,xxpaddy7xx
+Miami Dolphins,9,SOLD,breaksunchained
+Los Angeles Chargers,9,SOLD,valentino2104
+Cincinnati Bengals,9,SOLD,funkypat
+Atlanta Falcons,9,SOLD,torius82
+Green Bay Packers,9,SOLD,matthiasradakovits83
+Pittsburgh Steelers,9,SOLD,s3_xin
+Carolina Panthers,9,SOLD,ter_stenz1
+Arizona Cardinals,9,SOLD,ccrod90
+New England Patriots,8.1,SOLD,valentino2104
+Tampa Bay Buccaneers,9,SOLD,manfredschulz3502
+Tennessee Titans,9,SOLD,mightytim84
+New York Giants,9,SOLD,bobofboom
+Houston Texans,9,SOLD,bobofboom
+Washington Commanders,9,SOLD,helix_187
+Las Vegas Raiders,8,SOLD,xxpaddy7xx
+Buffalo Bills,9,SOLD,shahrazzo
+New York Jets,9,SOLD,breaksunchained
+Philadelphia Eagles,9,SOLD,ernie474
+Indianapolis Colts,9,SOLD,derwirth
+Denver Broncos,9,SOLD,funkypat
+Chicago Bears,9,SOLD,breaksunchained
+Jacksonville Jaguars,9,SOLD,breaksunchained
+Detroit Lions,8,SOLD,glockenchili
+Kansas City Chiefs,8,SOLD,matthiasradakovits83
+Cleveland Browns,9,SOLD,mightytim84
+Baltimore Ravens,9,SOLD,paddy1983
