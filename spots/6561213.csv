@@ -1,14 +1,14 @@
 spot,price,state,buyer
-#1,9,OPEN,
-#2,9,OPEN,
-#3,9,OPEN,
+#1,9,SOLD,garsch67899
+#2,9,SOLD,bobofboom
+#3,9,SOLD,grimar10379
 #4,9,OPEN,
 #5,9,SOLD,s3_xin
 #6,9,OPEN,
 #7,9,SOLD,breaksunchained
 #8,9,SOLD,valentino2104
 #9,9,OPEN,
-#10,9,OPEN,
+#10,9,SOLD,torius82
 #11,9,SOLD,matthiasradakovits83
 #12,9,SOLD,s3_xin
 #13,9,SOLD,ter_stenz1
@@ -30,4 +30,4 @@ spot,price,state,buyer
 #29,9,OPEN,
 #30,9,OPEN,
 #31,9,SOLD,mightytim84
-#32,9,OPEN,
+#32,9,SOLD,paddy1983
