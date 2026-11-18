@@ -1,33 +1,33 @@
 spot,price,state,buyer
-Arizona Cardinals,14,OPEN,
-Atlanta Falcons,4,OPEN,
-Baltimore Ravens,10,OPEN,
-Buffalo Bills,10,OPEN,
-Carolina Panthers,5,OPEN,
-Chicago Bears,11,OPEN,
-Cincinnati Bengals,10,OPEN,
-Cleveland Browns,12,OPEN,
-Dallas Cowboys,10,OPEN,
-Denver Broncos,7,OPEN,
-Detroit Lions,8,OPEN,
-Green Bay Packers,5,OPEN,
+Arizona Cardinals,5,SOLD,trvin
+Atlanta Falcons,1,SOLD,stephanheb
+Baltimore Ravens,2,SOLD,nicozachas85
+Buffalo Bills,3,SOLD,bighoffes80
+Carolina Panthers,1,SOLD,trvin
+Chicago Bears,5,SOLD,trvin
+Cincinnati Bengals,3,SOLD,bighoffes80
+Cleveland Browns,2,SOLD,bighoffes80
+Dallas Cowboys,6,SOLD,hugoianer
+Denver Broncos,5.6,SOLD,sludig85
+Detroit Lions,2,SOLD,darth_olli
+Green Bay Packers,1,SOLD,aquaorangecollector_1
 Houston Texans,4,SOLD,trvin
-Indianapolis Colts,4,OPEN,
-Jacksonville Jaguars,4,OPEN,
+Indianapolis Colts,1,SOLD,stephanheb
+Jacksonville Jaguars,2,SOLD,hugoianer
 Kansas City Chiefs,10,SOLD,chrisrlz
-Las Vegas Raiders,22,OPEN,
-Los Angeles Chargers,7,OPEN,
-Los Angeles Rams,15,OPEN,
+Las Vegas Raiders,17.6,SOLD,darth_olli
+Los Angeles Chargers,1,SOLD,bighoffes80
+Los Angeles Rams,6,SOLD,fabhup
 Miami Dolphins,4,SOLD,aquaorangecollector_1
-Minnesota Vikings,7,OPEN,
-New England Patriots,9,OPEN,
-New Orleans Saints,12,OPEN,
-New York Giants,10,OPEN,
-New York Jets,8,OPEN,
-Philadelphia Eagles,8,OPEN,
-Pittsburgh Steelers,7,OPEN,
-San Francisco 49ers,9,OPEN,
+Minnesota Vikings,2,SOLD,b_a_baracus83
+New England Patriots,5,SOLD,bighoffes80
+New Orleans Saints,2,SOLD,nicozachas85
+New York Giants,1,SOLD,trvin
+New York Jets,2,SOLD,trvin
+Philadelphia Eagles,2.85,SOLD,nicozachas85
+Pittsburgh Steelers,1,SOLD,bighoffes80
+San Francisco 49ers,2,SOLD,darth_olli
 Seattle Seahawks,9,SOLD,lieven_k
-Tampa Bay Buccaneers,7,OPEN,
-Tennessee Titans,12,OPEN,
-Washington Commanders,7,OPEN,
+Tampa Bay Buccaneers,1,SOLD,fabhup
+Tennessee Titans,2,SOLD,nicozachas85
+Washington Commanders,2,SOLD,trvin

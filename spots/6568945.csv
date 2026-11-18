@@ -2,7 +2,7 @@ spot,price,state,buyer
 Arizona Cardinals,14,OPEN,
 Atlanta Falcons,14,OPEN,
 Baltimore Ravens,14,OPEN,
-Buffalo Bills,14,OPEN,
+Buffalo Bills,14,SOLD,nokturas
 Carolina Panthers,14,OPEN,
 Chicago Bears,14,OPEN,
 Cincinnati Bengals,14,OPEN,
@@ -26,7 +26,7 @@ New York Giants,14,OPEN,
 New York Jets,14,OPEN,
 Philadelphia Eagles,14,OPEN,
 Pittsburgh Steelers,14,OPEN,
-San Francisco 49ers,14,OPEN,
+San Francisco 49ers,14,SOLD,nokturas
 Seattle Seahawks,14,OPEN,
 Tampa Bay Buccaneers,14,OPEN,
 Tennessee Titans,14,OPEN,
