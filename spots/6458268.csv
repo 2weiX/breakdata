@@ -1,8 +1,8 @@
 spot,price,state,buyer
 Arizona Cardinals,459,OPEN,
-Atlanta Falcons,99,OPEN,
+Atlanta Falcons,79.2,SOLD,jobar77
 Baltimore Ravens,175,SOLD,mortimort
-Buffalo Bills,419,OPEN,
+Buffalo Bills,310,SOLD,flashgordon38727
 Carolina Panthers,119,SOLD,mikeb29688
 Chicago Bears,375.2,SOLD,bjwormuth
 Cincinnati Bengals,215.2,SOLD,flex157
@@ -28,6 +28,6 @@ Philadelphia Eagles,165,SOLD,moritzml38617
 Pittsburgh Steelers,154,SOLD,1pepe
 San Francisco 49ers,369,OPEN,
 Seattle Seahawks,295.2,SOLD,apfelbaum95
-Tampa Bay Buccaneers,369,OPEN,
+Tampa Bay Buccaneers,295.2,SOLD,bigg_steve
 Tennessee Titans,269,OPEN,
 Washington Commanders,78,SOLD,heffcules

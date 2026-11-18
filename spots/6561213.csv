@@ -11,13 +11,13 @@ spot,price,state,buyer
 #10,9,OPEN,
 #11,9,OPEN,
 #12,9,OPEN,
-#13,9,OPEN,
+#13,9,SOLD,ter_stenz1
 #14,9,OPEN,
 #15,9,OPEN,
 #16,9,OPEN,
-#17,9,OPEN,
-#18,9,OPEN,
-#19,9,OPEN,
+#17,9,SOLD,mightytim84
+#18,9,SOLD,bobofboom
+#19,9,SOLD,bobofboom
 #20,9,OPEN,
 #21,9,OPEN,
 #22,9,OPEN,
@@ -29,5 +29,5 @@ spot,price,state,buyer
 #28,9,OPEN,
 #29,9,OPEN,
 #30,9,OPEN,
-#31,9,OPEN,
+#31,9,SOLD,mightytim84
 #32,9,OPEN,
