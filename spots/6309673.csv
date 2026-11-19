@@ -1,6 +1,6 @@
 spot,price,state,buyer
 Atlanta Falcons,18,OPEN,
-Baltimore Ravens,20,OPEN,
+Baltimore Ravens,16,SOLD,michfrei
 Buffalo Bills,16.2,SOLD,funkypat
 Carolina Panthers,9,OPEN,
 Chicago Bears,20.8,SOLD,bjwormuth
@@ -10,7 +10,7 @@ Dallas Cowboys,12,SOLD,chrispdino
 Denver Broncos,26,OPEN,
 Detroit Lions,18,OPEN,
 Green Bay Packers,13,SOLD,jensrh
-Houston Texans,11,OPEN,
+Houston Texans,8.8,SOLD,ronny_maccaroni
 Indianapolis Colts,15,OPEN,
 Jacksonville Jaguars,10,SOLD,hustinho
 Kansas City Chiefs,22,SOLD,cassiorene
@@ -27,7 +27,7 @@ Philadelphia Eagles,15,SOLD,funkypat
 Pittsburgh Steelers,22,SOLD,hustinho
 San Francisco 49ers,26,OPEN,
 Seattle Seahawks,15,OPEN,
-Tampa Bay Buccaneers,12,OPEN,
+Tampa Bay Buccaneers,9.6,SOLD,breaking_kev
 Tennessee Titans,12,OPEN,
 Washington Commanders,19,OPEN,
 Arizona Cardinals,14,SOLD,henriklep

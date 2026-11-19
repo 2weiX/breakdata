@@ -1,6 +1,5 @@
 spot,price,state,buyer
 #1,14,OPEN,
-#2,14,OPEN,
 #3,14,OPEN,
 #4,14,SOLD,rikigronk87
 #5,14,OPEN,
@@ -17,7 +16,6 @@ New York Giants,10,SOLD,rikigronk87
 New England Patriots,11,SOLD,rikigronk87
 #17,14,OPEN,
 New York Jets,12,SOLD,rikigronk87
-#19,14,OPEN,
 Los Angeles Chargers,11,SOLD,rikigronk87
 Tennessee Titans,12,SOLD,rikigronk87
 Houston Texans,14,SOLD,flex157
@@ -31,3 +29,5 @@ New Orleans Saints,14,SOLD,jan2407
 #30,14,OPEN,
 #31,14,OPEN,
 #32,14,OPEN,
+Cleveland Browns,12,SOLD,bobofboom
+Seattle Seahawks,12,SOLD,bobofboom
