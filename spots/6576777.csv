@@ -1,33 +1,33 @@
 spot,price,state,buyer
-Arizona Cardinals,1,OPEN,
-Atlanta Falcons,1,OPEN,
-Baltimore Ravens,1,OPEN,
-Buffalo Bills,1,OPEN,
-Carolina Panthers,1,OPEN,
-Chicago Bears,1,OPEN,
-Cincinnati Bengals,1,OPEN,
-Cleveland Browns,1,OPEN,
-Dallas Cowboys,1,OPEN,
-Denver Broncos,1,OPEN,
-Detroit Lions,1,OPEN,
-Green Bay Packers,1,OPEN,
-Houston Texans,1,OPEN,
-Indianapolis Colts,1,OPEN,
-Jacksonville Jaguars,1,OPEN,
-Kansas City Chiefs,1,OPEN,
+Arizona Cardinals,11,SOLD,ter_stenz1
+Atlanta Falcons,3,SOLD,sportino
+Baltimore Ravens,4,SOLD,thewhitebeast
+Buffalo Bills,5,SOLD,thewhitebeast
+Carolina Panthers,2,SOLD,tatze_cards
+Chicago Bears,11,SOLD,oldmanoli
+Cincinnati Bengals,6,SOLD,sportino
+Cleveland Browns,4,SOLD,jensrh
+Dallas Cowboys,7,SOLD,vinylmazzias
+Denver Broncos,6,SOLD,pascalwie
+Detroit Lions,4,SOLD,pascalwie
+Green Bay Packers,12,SOLD,lambeauleapz
+Houston Texans,4,SOLD,pascalwie
+Indianapolis Colts,4,SOLD,jensrh
+Jacksonville Jaguars,6,SOLD,sportino
+Kansas City Chiefs,19,SOLD,chrisrlz
 Las Vegas Raiders,1,OPEN,
-Los Angeles Chargers,1,OPEN,
-Los Angeles Rams,1,OPEN,
-Miami Dolphins,1,OPEN,
-Minnesota Vikings,1,OPEN,
+Los Angeles Chargers,4,SOLD,schuetzim79
+Los Angeles Rams,8,SOLD,thewhitebeast
+Miami Dolphins,3,SOLD,jensrh
+Minnesota Vikings,4,SOLD,jensrh
 New England Patriots,1,OPEN,
-New Orleans Saints,1,OPEN,
-New York Giants,1,OPEN,
-New York Jets,1,OPEN,
-Philadelphia Eagles,1,OPEN,
-Pittsburgh Steelers,1,OPEN,
-San Francisco 49ers,1,OPEN,
-Seattle Seahawks,1,OPEN,
-Tampa Bay Buccaneers,1,OPEN,
-Tennessee Titans,1,OPEN,
-Washington Commanders,1,OPEN,
+New Orleans Saints,4,SOLD,thewhitebeast
+New York Giants,7,SOLD,flo84
+New York Jets,7,SOLD,jetsnicoo
+Philadelphia Eagles,5,SOLD,ccrod90
+Pittsburgh Steelers,7,SOLD,flo84
+San Francisco 49ers,3,SOLD,rayleigh_j_b
+Seattle Seahawks,11,SOLD,lieven_k
+Tampa Bay Buccaneers,11,SOLD,ter_stenz1
+Tennessee Titans,4,SOLD,zjunz
+Washington Commanders,5,SOLD,ccrod90
