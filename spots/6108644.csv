@@ -1,32 +1,33 @@
 spot,price,state,buyer
-Arizona Cardinals,1,SOLD,simihawk24
-Baltimore Ravens,1,SOLD,mandrillus
-Buffalo Bills,4,SOLD,konradkarsch
-Carolina Panthers,1,SOLD,lfi97
-Chicago Bears,1,SOLD,simihawk24
-Cincinnati Bengals,1,SOLD,konradkarsch
-Cleveland Browns,1,SOLD,konradkarsch
-Dallas Cowboys,4,SOLD,arnest1503
-Denver Broncos,1,SOLD,tomfcm1965
+Los Angeles Rams,1,SOLD,simihawk24
 Detroit Lions,1,SOLD,simihawk24
 Green Bay Packers,1,SOLD,simihawk24
+Carolina Panthers,1,SOLD,lfi97
 Houston Texans,1,SOLD,lfi97
-Indianapolis Colts,1,SOLD,simihawk24
-Jacksonville Jaguars,2,SOLD,officialdoublea
 Kansas City Chiefs,1,SOLD,simihawk24
-Las Vegas Raiders,3,SOLD,officialdoublea
-Los Angeles Chargers,1,SOLD,konradkarsch
-Los Angeles Rams,1,SOLD,simihawk24
-Minnesota Vikings,3,SOLD,officialdoublea
-New England Patriots,4,SOLD,konradkarsch
-New Orleans Saints,1,SOLD,tomfcm1965
+Washington Commanders,1,SOLD,simihawk24
 New York Giants,1,SOLD,tomfcm1965
-New York Jets,2,SOLD,konradkarsch
+Denver Broncos,1,SOLD,tomfcm1965
+Arizona Cardinals,1,SOLD,simihawk24
+Minnesota Vikings,1,SOLD,tomfcm1965
+Chicago Bears,1,SOLD,simihawk24
+Baltimore Ravens,1,SOLD,mandrillus
+Seattle Seahawks,1,SOLD,simihawk24
+Indianapolis Colts,1,SOLD,simihawk24
 Philadelphia Eagles,1,SOLD,konradkarsch
 Pittsburgh Steelers,1,SOLD,konradkarsch
+Cincinnati Bengals,1,SOLD,konradkarsch
+Los Angeles Chargers,1,SOLD,konradkarsch
+Cleveland Browns,1,SOLD,konradkarsch
 San Francisco 49ers,1,SOLD,konradkarsch
-Seattle Seahawks,1,SOLD,simihawk24
+Jacksonville Jaguars,2,SOLD,officialdoublea
+New York Jets,2,SOLD,konradkarsch
 Tennessee Titans,4,SOLD,konradkarsch
-Washington Commanders,1,SOLD,simihawk24
 #25,1,OPEN,
-#31,1,OPEN,
+Buffalo Bills,4,SOLD,konradkarsch
+New Orleans Saints,3,SOLD,officialdoublea
+New England Patriots,4,SOLD,konradkarsch
+Las Vegas Raiders,3,SOLD,officialdoublea
+Dallas Cowboys,4,SOLD,arnest1503
+Tampa Bay Buccaneers,4,SOLD,officialdoublea
+"Atlanta Falcons, Miami Dolphins",4,SOLD,arnest1503
