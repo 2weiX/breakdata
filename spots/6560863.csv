@@ -5,7 +5,6 @@ spot,price,state,buyer
 #5,6,OPEN,
 #6,6,OPEN,
 #7,6,OPEN,
-#8,6,OPEN,
 Green Bay Packers,6,SOLD,rayleigh_j_b
 Minnesota Vikings,6,SOLD,rayleigh_j_b
 #12,6,OPEN,
@@ -31,3 +30,4 @@ Arizona Cardinals,6,SOLD,derwirth
 Jacksonville Jaguars,6,SOLD,carbau79
 New York Jets,6,SOLD,phca
 Washington Commanders,6,SOLD,phca
+Las Vegas Raiders,6,SOLD,ccrod90
