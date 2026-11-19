@@ -1,33 +1,33 @@
 spot,price,state,buyer
-#1,33,SOLD,nfl_houseofcards
-#2,33,OPEN,
-#3,33,SOLD,sebastiansch49586
-#4,33,OPEN,
-#5,33,SOLD,js5cards
-#6,33,SOLD,bjwormuth
-#7,33,SOLD,breaksunchained
-#8,33,SOLD,fabian_93
-#9,33,OPEN,
-#10,33,OPEN,
-#11,33,SOLD,fabian_93
-#12,37,SOLD,sebastiansch49586
-#13,28,SOLD,js5cards
-#14,33,SOLD,cardsucher
-#15,33,SOLD,makrele2000
-#16,33,OPEN,
-#17,33,SOLD,cardsucher
-#18,33,SOLD,papercutbreakz
-#19,33,OPEN,
-#20,33,OPEN,
-#21,33,OPEN,
-#22,33,SOLD,tak3r180
-#23,33,SOLD,bigg_steve
-#24,32,SOLD,redactedredted
-#25,31,SOLD,makrele2000
-#26,33,SOLD,tampa_greg
-#27,33,SOLD,ericmal1109
-#28,33,SOLD,bigg_steve
-#29,33,OPEN,
-#30,33,OPEN,
-#31,33,OPEN,
-#32,33,SOLD,boene32
+Washington Commanders,33,SOLD,nfl_houseofcards
+Kansas City Chiefs,33,SOLD,redactedredted
+Arizona Cardinals,33,SOLD,sebastiansch49586
+Dallas Cowboys,32,SOLD,cardsucher
+Carolina Panthers,33,SOLD,js5cards
+Los Angeles Rams,33,SOLD,bjwormuth
+Philadelphia Eagles,33,SOLD,breaksunchained
+Buffalo Bills,33,SOLD,fabian_93
+Seattle Seahawks,32,SOLD,breaksunchained
+Green Bay Packers,31,SOLD,xxpaddy7xx
+New Orleans Saints,33,SOLD,fabian_93
+Cincinnati Bengals,37,SOLD,sebastiansch49586
+Los Angeles Chargers,28,SOLD,js5cards
+Las Vegas Raiders,33,SOLD,cardsucher
+New York Jets,33,SOLD,makrele2000
+Detroit Lions,32,SOLD,goldcreek_sportcards_by_linne
+Tennessee Titans,33,SOLD,cardsucher
+Pittsburgh Steelers,33,SOLD,papercutbreakz
+New York Giants,28,SOLD,js5cards
+Miami Dolphins,33,SOLD,er_win
+Minnesota Vikings,31,SOLD,cardsucher
+Indianapolis Colts,33,SOLD,tak3r180
+Chicago Bears,33,SOLD,bigg_steve
+Tampa Bay Buccaneers,32,SOLD,redactedredted
+San Francisco 49ers,31,SOLD,makrele2000
+Jacksonville Jaguars,33,SOLD,tampa_greg
+Cleveland Browns,33,SOLD,ericmal1109
+Baltimore Ravens,33,SOLD,bigg_steve
+Denver Broncos,31,SOLD,quehlgeist
+Atlanta Falcons,33,SOLD,er_win
+New England Patriots,33,SOLD,nfl_houseofcards
+Houston Texans,33,SOLD,boene32
