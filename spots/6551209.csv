@@ -1,9 +1,4 @@
 spot,price,state,buyer
-#1,12,OPEN,
-#2,12,OPEN,
-#3,12,OPEN,
-#4,12,OPEN,
-#5,12,OPEN,
 #6,12,OPEN,
 #7,12,OPEN,
 #8,12,OPEN,
@@ -11,9 +6,7 @@ spot,price,state,buyer
 #10,12,OPEN,
 #11,12,OPEN,
 #12,12,OPEN,
-#13,12,OPEN,
 #14,12,OPEN,
-#15,12,OPEN,
 #16,12,OPEN,
 #17,12,OPEN,
 #18,12,OPEN,
@@ -31,3 +24,10 @@ spot,price,state,buyer
 #30,12,OPEN,
 #31,12,OPEN,
 #32,12,OPEN,
+Kansas City Chiefs,12,SOLD,eska91
+Seattle Seahawks,12,SOLD,eska91
+Chicago Bears,11,SOLD,tpsbmp93821
+Buffalo Bills,12,SOLD,xxpaddy7xx
+Dallas Cowboys,12,SOLD,makrele2000
+Tampa Bay Buccaneers,11,SOLD,ter_stenz1
+Minnesota Vikings,12,SOLD,makrele2000

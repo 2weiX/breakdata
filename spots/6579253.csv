@@ -1,13 +1,13 @@
 spot,price,state,buyer
-Arizona Cardinals,105,OPEN,
+Arizona Cardinals,95,SOLD,makrele2000
 Atlanta Falcons,28.05,SOLD,roland42004
 Baltimore Ravens,49,SOLD,deshawnert
-Buffalo Bills,99,OPEN,
+Buffalo Bills,87,SOLD,justsomecardguy
 Carolina Panthers,49,SOLD,oatsharpgaming
 Chicago Bears,89.1,SOLD,bjwormuth
 Cincinnati Bengals,68,SOLD,tampa_greg
-Cleveland Browns,65,OPEN,
-Dallas Cowboys,75,OPEN,
+Cleveland Browns,55.25,SOLD,popstephan
+Dallas Cowboys,66,SOLD,nfl_houseofcards
 Denver Broncos,69,SOLD,oldmanoli
 Detroit Lions,49.5,SOLD,schmittissportcards
 Green Bay Packers,33,SOLD,nfl_houseofcards
@@ -16,18 +16,17 @@ Indianapolis Colts,30,SOLD,ericmal1109
 Jacksonville Jaguars,43,SOLD,joker13884
 Kansas City Chiefs,135,SOLD,tomsch02541
 Los Angeles Chargers,40.5,SOLD,js5cards
-Los Angeles Rams,139,OPEN,
+Los Angeles Rams,120,SOLD,kondi_tcs
 Miami Dolphins,34,SOLD,cardsucher
 Minnesota Vikings,39,SOLD,oldmanoli
-New England Patriots,149,OPEN,
-New Orleans Saints,69,OPEN,
+New England Patriots,129,SOLD,nfl_houseofcards
+New Orleans Saints,59,SOLD,oldmanoli
 New York Giants,60,SOLD,boxbreakcorner
 New York Jets,49,SOLD,pavleiro
-Philadelphia Eagles,65,OPEN,
-Pittsburgh Steelers,65,OPEN,
+Philadelphia Eagles,65,SOLD,antonio_sanchez
+Pittsburgh Steelers,53,SOLD,glockenchili
 San Francisco 49ers,89,SOLD,tampa_greg
 Seattle Seahawks,70,SOLD,breaksunchained
 Tampa Bay Buccaneers,80.1,SOLD,berto0407
-Tennessee Titans,89,OPEN,
 Washington Commanders,46,SOLD,karlklammer
-Las Vegas Raiders (NEU),199,OPEN,
+Las Vegas Raiders (NEU),170,SOLD,darth_olli

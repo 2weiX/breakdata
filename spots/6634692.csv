@@ -11,7 +11,7 @@ spot,price,state,buyer
 #10,33,OPEN,
 #11,33,OPEN,
 #12,33,OPEN,
-#13,33,OPEN,
+#13,28,SOLD,js5cards
 #14,33,SOLD,cardsucher
 #15,33,SOLD,makrele2000
 #16,33,OPEN,
@@ -20,13 +20,13 @@ spot,price,state,buyer
 #19,33,OPEN,
 #20,33,OPEN,
 #21,33,OPEN,
-#22,33,OPEN,
+#22,33,SOLD,tak3r180
 #23,33,SOLD,bigg_steve
 #24,33,OPEN,
-#25,33,OPEN,
+#25,31,SOLD,makrele2000
 #26,33,OPEN,
 #27,33,SOLD,ericmal1109
-#28,33,OPEN,
+#28,33,SOLD,bigg_steve
 #29,33,OPEN,
 #30,33,OPEN,
 #31,33,OPEN,

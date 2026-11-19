@@ -2,10 +2,10 @@ spot,price,state,buyer
 Arizona Cardinals,130,OPEN,
 Atlanta Falcons,45,OPEN,
 Baltimore Ravens,65,OPEN,
-Buffalo Bills,120,OPEN,
+Buffalo Bills,105,SOLD,xbaito
 Carolina Panthers,65,OPEN,
 Chicago Bears,135,OPEN,
-Cincinnati Bengals,130,OPEN,
+Cincinnati Bengals,110,SOLD,xbaito
 Cleveland Browns,90,OPEN,
 Dallas Cowboys,100,OPEN,
 Denver Broncos,120,OPEN,
@@ -15,7 +15,7 @@ Houston Texans,75,OPEN,
 Indianapolis Colts,65,OPEN,
 Jacksonville Jaguars,49,SOLD,marcello1993
 Kansas City Chiefs,105,SOLD,jobar77
-Las Vegas Raiders,230,OPEN,
+Las Vegas Raiders,203,SOLD,c0mapple
 Los Angeles Chargers,43,OPEN,
 Los Angeles Rams,165,OPEN,
 Miami Dolphins,32,SOLD,traxes
