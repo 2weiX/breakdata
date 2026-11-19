@@ -1,6 +1,6 @@
 spot,price,state,buyer
 Arizona Cardinals,105,OPEN,
-Atlanta Falcons,33,OPEN,
+Atlanta Falcons,28.05,SOLD,roland42004
 Baltimore Ravens,49,SOLD,deshawnert
 Buffalo Bills,99,OPEN,
 Carolina Panthers,49,OPEN,
@@ -23,7 +23,7 @@ Minnesota Vikings,39,SOLD,oldmanoli
 New England Patriots,149,OPEN,
 New Orleans Saints,69,OPEN,
 New York Giants,60,SOLD,boxbreakcorner
-New York Jets,55,OPEN,
+New York Jets,49,SOLD,pavleiro
 Philadelphia Eagles,65,OPEN,
 Pittsburgh Steelers,65,OPEN,
 San Francisco 49ers,89,SOLD,tampa_greg
