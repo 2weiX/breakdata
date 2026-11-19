@@ -1,12 +1,10 @@
 spot,price,state,buyer
-#1,14,OPEN,
 #3,14,OPEN,
 #4,14,SOLD,rikigronk87
 #5,14,OPEN,
 Kansas City Chiefs,12,SOLD,rikigronk87
 #7,14,OPEN,
 #8,14,OPEN,
-#9,14,OPEN,
 #10,14,OPEN,
 #11,14,OPEN,
 #12,14,OPEN,
@@ -28,6 +26,8 @@ New Orleans Saints,14,SOLD,jan2407
 #29,14,OPEN,
 #30,14,OPEN,
 #31,14,OPEN,
-#32,14,OPEN,
 Cleveland Browns,12,SOLD,bobofboom
 Seattle Seahawks,12,SOLD,bobofboom
+Chicago Bears,12.6,SOLD,mosquitotito
+Denver Broncos,12.6,SOLD,mosquitotito
+Dallas Cowboys,12.6,SOLD,mosquitotito
