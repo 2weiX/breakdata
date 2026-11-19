@@ -1,38 +1,38 @@
 spot,price,state,buyer
-Arizona Cardinals,4,OPEN,
+Arizona Cardinals,4,SOLD,tpsbmp93821
 Atlanta Falcons,4,SOLD,stephanheb
-Baltimore Ravens,4,OPEN,
+Baltimore Ravens,5,SOLD,kawara
 Buffalo Bills,4,SOLD,koeter88
-Carolina Panthers,4,OPEN,
-Chicago Bears,4,OPEN,
-Cincinnati Bengals,4,OPEN,
-Cleveland Browns,4,OPEN,
-Dallas Cowboys,4,OPEN,
-Denver Broncos,4,OPEN,
-Detroit Lions,4,OPEN,
-Green Bay Packers,4,OPEN,
-Houston Texans,4,OPEN,
-Indianapolis Colts,4,OPEN,
-Jacksonville Jaguars,4,OPEN,
-Kansas City Chiefs,4,OPEN,
-Las Vegas Raiders,4,OPEN,
-Los Angeles Chargers,4,OPEN,
-Los Angeles Rams,4,OPEN,
-Miami Dolphins,4,OPEN,
-Minnesota Vikings,4,OPEN,
-New England Patriots,4,OPEN,
-New Orleans Saints,4,OPEN,
-New York Giants,4,OPEN,
-New York Jets,4,OPEN,
-Philadelphia Eagles,4,OPEN,
+Carolina Panthers,4,SOLD,jobar77
+Chicago Bears,5,SOLD,1pepe
+Cincinnati Bengals,4,SOLD,bavragorhammerfaust
+Cleveland Browns,4,SOLD,jobar77
+Dallas Cowboys,8,SOLD,jaekelinho
+Denver Broncos,6,SOLD,sebastiankwi
+Detroit Lions,4,SOLD,matzelinho_90
+Green Bay Packers,5,SOLD,hansawoodstockbreaks
+Houston Texans,4,SOLD,schaller_onlineshop
+Indianapolis Colts,4,SOLD,miguellissabon
+Jacksonville Jaguars,4,SOLD,bokeeh
+Kansas City Chiefs,6,SOLD,miguellissabon
+Las Vegas Raiders,6,SOLD,jhl83
+Los Angeles Chargers,5,SOLD,jobar77
+Los Angeles Rams,5,SOLD,jobar77
+Miami Dolphins,4,SOLD,bavragorhammerfaust
+Minnesota Vikings,4,SOLD,niklaspro
+New England Patriots,8,SOLD,miguellissabon
+New Orleans Saints,10,SOLD,schaller_onlineshop
+New York Giants,6,SOLD,jhl83
+New York Jets,4,SOLD,niklaspro
+Philadelphia Eagles,4,SOLD,miguellissabon
 Pittsburgh Steelers,8,SOLD,alex889cards
-San Francisco 49ers,4,OPEN,
-Seattle Seahawks,4,OPEN,
-Tampa Bay Buccaneers,4,OPEN,
-Tennessee Titans,4,OPEN,
-Washington Commanders,4,OPEN,
-ACC,4,OPEN,
-Big Ten,4,OPEN,
-Big 12,4,OPEN,
+San Francisco 49ers,4,SOLD,fabian_93
+Seattle Seahawks,4,SOLD,smowhat
+Tampa Bay Buccaneers,4,SOLD,schaller_onlineshop
+Tennessee Titans,4,SOLD,jobar77
+Washington Commanders,4,SOLD,fabian_93
+ACC,7,SOLD,1pepe
+Big Ten,10,SOLD,1pepe
+Big 12,15,SOLD,1pepe
 SEC,10,SOLD,chrische93
-Other,4,OPEN,
+Other,5,SOLD,miguellissabon
