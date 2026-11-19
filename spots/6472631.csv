@@ -1,33 +1,33 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+Arizona Cardinals,1,SOLD,konradkarsch
+Atlanta Falcons,1,SOLD,konradkarsch
+Baltimore Ravens,4,SOLD,der_marsl
+Buffalo Bills,3,SOLD,nook87
+Carolina Panthers,2,SOLD,konradkarsch
+Chicago Bears,2,SOLD,konradkarsch
+Cincinnati Bengals,2,SOLD,konradkarsch
+Cleveland Browns,1,SOLD,konradkarsch
+Dallas Cowboys,2,SOLD,konradkarsch
+Denver Broncos,2,SOLD,nook87
+Detroit Lions,1,SOLD,konradkarsch
+Green Bay Packers,1,SOLD,konradkarsch
+Houston Texans,1,SOLD,konradkarsch
+Indianapolis Colts,1,SOLD,konradkarsch
+Jacksonville Jaguars,2,SOLD,nook87
+Kansas City Chiefs,6,SOLD,chrisrlz
+Las Vegas Raiders,1,SOLD,konradkarsch
+Los Angeles Chargers,1,SOLD,konradkarsch
+Los Angeles Rams,2,SOLD,konradkarsch
+Miami Dolphins,1,SOLD,konradkarsch
+Minnesota Vikings,2,SOLD,konradkarsch
+New England Patriots,2,SOLD,konradkarsch
+New Orleans Saints,2,SOLD,nook87
+New York Giants,1,SOLD,konradkarsch
+New York Jets,2,SOLD,nook87
+Philadelphia Eagles,2,SOLD,nook87
+Pittsburgh Steelers,2,SOLD,nook87
+San Francisco 49ers,4,SOLD,chrisrlz
+Seattle Seahawks,1,SOLD,konradkarsch
+Tampa Bay Buccaneers,3,SOLD,der_marsl
+Tennessee Titans,4,SOLD,chrisrlz
+Washington Commanders,1,SOLD,konradkarsch
