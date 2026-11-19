@@ -1,15 +1,22 @@
 spot,price,state,buyer
-#6,12,OPEN,
-#7,12,OPEN,
-#8,12,OPEN,
-#9,12,OPEN,
-#10,12,OPEN,
-#11,12,OPEN,
-#12,12,OPEN,
-#14,12,OPEN,
-#16,12,OPEN,
-#17,12,OPEN,
-#18,12,OPEN,
+Kansas City Chiefs,12,SOLD,eska91
+Seattle Seahawks,12,SOLD,eska91
+Chicago Bears,11,SOLD,tpsbmp93821
+Buffalo Bills,12,SOLD,xxpaddy7xx
+Dallas Cowboys,12,SOLD,makrele2000
+San Francisco 49ers,10,SOLD,frank_yankee
+Green Bay Packers,11,SOLD,anne22787
+Arizona Cardinals,12,SOLD,anne22787
+New Orleans Saints,12,SOLD,tusmarkus
+New York Jets,12,SOLD,tusmarkus
+New York Giants,12,SOLD,frank_yankee
+New England Patriots,12,SOLD,arnest1503
+Tampa Bay Buccaneers,11,SOLD,ter_stenz1
+Denver Broncos,12,SOLD,tusmarkus
+Minnesota Vikings,12,SOLD,makrele2000
+Tennessee Titans,12,SOLD,arnest1503
+Detroit Lions,12,SOLD,tusmarkus
+Los Angeles Rams,12,SOLD,bokeeh
 #19,12,OPEN,
 #20,12,OPEN,
 #21,12,OPEN,
@@ -24,10 +31,3 @@ spot,price,state,buyer
 #30,12,OPEN,
 #31,12,OPEN,
 #32,12,OPEN,
-Kansas City Chiefs,12,SOLD,eska91
-Seattle Seahawks,12,SOLD,eska91
-Chicago Bears,11,SOLD,tpsbmp93821
-Buffalo Bills,12,SOLD,xxpaddy7xx
-Dallas Cowboys,12,SOLD,makrele2000
-Tampa Bay Buccaneers,11,SOLD,ter_stenz1
-Minnesota Vikings,12,SOLD,makrele2000

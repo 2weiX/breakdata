@@ -1,13 +1,13 @@
 spot,price,state,buyer
-Arizona Cardinals,59,OPEN,
+Arizona Cardinals,40,SOLD,frank_yankee
 Atlanta Falcons,18,SOLD,marwin143
 Baltimore Ravens,22.95,SOLD,vini2616
 Buffalo Bills,40,SOLD,sludig85
 Carolina Panthers,22,SOLD,tatze_cards
 Chicago Bears,49.5,SOLD,jhl83
 Cincinnati Bengals,29,SOLD,goldcreek_sportcards_by_linne
-Cleveland Browns,35,OPEN,
-Dallas Cowboys,38,OPEN,
+Cleveland Browns,28,SOLD,someoranny
+Dallas Cowboys,26.6,SOLD,tusmarkus
 Denver Broncos,37,SOLD,sludig85
 Detroit Lions,32,SOLD,roe11
 Green Bay Packers,16,SOLD,finstephan
@@ -15,9 +15,9 @@ Houston Texans,15,SOLD,craden1181
 Indianapolis Colts,14.5,SOLD,marwin143
 Jacksonville Jaguars,16.75,SOLD,mco3101
 Kansas City Chiefs,56,SOLD,1pepe
-Las Vegas Raiders,95,OPEN,
+Las Vegas Raiders,76,SOLD,dannyt27
 Los Angeles Chargers,20,SOLD,frank_yankee
-Los Angeles Rams,65,OPEN,
+Los Angeles Rams,50,SOLD,der_marsl
 Miami Dolphins,22,SOLD,marwin143
 Minnesota Vikings,18.9,SOLD,oldmanoli
 New England Patriots,62.1,SOLD,frank_yankee
@@ -30,4 +30,5 @@ San Francisco 49ers,33,SOLD,obb_pasy
 Seattle Seahawks,33,SOLD,lumenatic12
 Tampa Bay Buccaneers,36,SOLD,der_marsl
 Tennessee Titans,30,SOLD,obb_pasy
-Washington Commanders,33,OPEN,
+Washington Commanders,24.75,SOLD,xxpaddy7xx
+JAGS NEU,23,SOLD,glockenchili
