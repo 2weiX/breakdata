@@ -1,7 +1,7 @@
 spot,price,state,buyer
 Arizona Cardinals,16,OPEN,
 Atlanta Falcons,7,OPEN,
-Baltimore Ravens,8,OPEN,
+Baltimore Ravens & Philadelphia Eagles,17,SOLD,py420
 Buffalo Bills,15,SOLD,robertaug061194
 Carolina Panthers,7,OPEN,
 Chicago Bears,13.6,SOLD,morgan88226
@@ -24,7 +24,6 @@ New England Patriots,12,SOLD,graveheart
 New Orleans Saints,11,OPEN,
 New York Giants,11,OPEN,
 New York Jets,8,OPEN,
-Philadelphia Eagles,12,OPEN,
 Pittsburgh Steelers,10,SOLD,booobooo_steelah
 San Francisco 49ers,15,SOLD,robertaug061194
 Seattle Seahawks,10,OPEN,

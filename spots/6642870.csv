@@ -1,9 +1,9 @@
 spot,price,state,buyer
 Arizona Cardinals,50,OPEN,
 Atlanta Falcons,20,OPEN,
-Baltimore Ravens,25,OPEN,
+Baltimore Ravens,22.5,SOLD,yumz
 Buffalo Bills,45,OPEN,
-Carolina Panthers,30,OPEN,
+Carolina Panthers,27,SOLD,yumz
 Chicago Bears,40,OPEN,
 Cincinnati Bengals,40,OPEN,
 Cleveland Browns,35,OPEN,

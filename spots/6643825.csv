@@ -1,5 +1,4 @@
 spot,price,state,buyer
-Akron,6,OPEN,
 Alabama,69,OPEN,
 Arizona,9,OPEN,
 Arizona State,42,OPEN,
@@ -8,7 +7,7 @@ Auburn,25,OPEN,
 BYU,139,OPEN,
 Baylor,14,SOLD,waynehags91
 Boise State,9,OPEN,
-Boston College,8,OPEN,
+Boston College,9,OPEN,
 California,58.88,SOLD,jeremyd8
 Cincinnati,25,OPEN,
 Clemson,30,SOLD,adarob88868
@@ -19,13 +18,14 @@ Florida,59,OPEN,
 Florida State,25,OPEN,
 Fresno State,6,OPEN,
 Georgia,49,OPEN,
-Houston,14,OPEN,
+Houston and Akron,13,SOLD,demcanes
 Illinois,29,OPEN,
 Indiana,89,OPEN,
 Iowa,9,OPEN,
+Iowa State and Caleb Williams High School Spot,27,SOLD,mattyrd9
 Peyton Manning - Isidore Newman School,19,OPEN,
 Kansas,35,OPEN,
-Kansas State,27,OPEN,
+Kansas State,20,SOLD,nittanylion506
 Kentucky,59,OPEN,
 LSU,39,OPEN,
 Louisiana,16.1,SOLD,breaks_by_u
@@ -33,7 +33,7 @@ Louisville,8,SOLD,tcorn01
 Maryland,12,OPEN,
 Miami / Duke,189,OPEN,
 Michigan,79,OPEN,
-Michigan State,29,OPEN,
+Michigan State,21,SOLD,jeremiahwood
 Minnesota,6,OPEN,
 Mississippi State,149,OPEN,
 Missouri,29,OPEN,
@@ -46,19 +46,19 @@ Notre Dame,140,SOLD,handcuffs
 Ohio State,45,SOLD,waynehags91
 Oklahoma,29,SOLD,johnnymo70
 Oklahoma State,189,OPEN,
-Ole Miss,35,OPEN,
+Ole Miss,25,SOLD,dano1292
 Oregon,55,OPEN,
 Penn State,12,SOLD,andyr77
 Pittsburgh,31.2,SOLD,amg1204
 Purdue,22,OPEN,
 Rutgers,49,OPEN,
 SMU,22,OPEN,
-San Diego State,12,OPEN,
+San Diego State,10,SOLD,cblade19
 South Carolina,42,SOLD,adarob88868
 Stanford,35,OPEN,
 Syracuse,25,OPEN,
 TCU,29,OPEN,
-Tennessee,55,OPEN,
+Tennessee,59,OPEN,
 Texas,189,OPEN,
 Texas A&M,59,OPEN,
 Texas State,12,SOLD,waynehags91
@@ -79,5 +79,4 @@ Western Kentucky,19,OPEN,
 Wisconsin,29,OPEN,
 Wyoming,11,OPEN,
 Washington State,7,SOLD,waynehags91
-Western Michigan,6,OPEN,
-Iowa State and Caleb Williams High School Spot,27,SOLD,mattyrd9
+Western Michigan,4.2,SOLD,ripperjones36

@@ -1,22 +1,28 @@
 spot,price,state,buyer
-Arizona Cardinals,22,SOLD,jonathanhon25002
-Chicago Bears,14,SOLD,gobama72
-Dallas Cowboys,16,SOLD,atcgut
-Denver Broncos,13,SOLD,atcgut
-Green Bay Packers,22,SOLD,jonathanhon25002
-Houston Texans,12,SOLD,squirrelboy44
-Los Angeles Chargers,25,SOLD,gobama72
-Minnesota Vikings,14,SOLD,atcgut
-New Orleans Saints,17,SOLD,jonathanhon25002
-New York Giants,17,SOLD,macksports
-New York Jets,16,SOLD,jetsforlife26
-Pittsburgh Steelers,13,SOLD,leprechaunsean9
-Seattle Seahawks,16,SOLD,macksports
-Tampa Bay Buccaneers,13,SOLD,leprechaunsean9
-Tennessee Titans,15,SOLD,macksports
 #1,15,SOLD,hambone1073
 "Buffalo Bills, San Francisco 49ers",15,SOLD,hambone1073
+Chicago Bears,14,SOLD,gobama72
+New Orleans Saints,17,SOLD,jonathanhon25002
+Green Bay Packers,22,SOLD,jonathanhon25002
+Arizona Cardinals,22,SOLD,jonathanhon25002
 "Cleveland Browns, Kansas City Chiefs",41,SOLD,jonathanhon25002
 "Los Angeles Rams, New England Patriots",14,SOLD,gobama72
+Minnesota Vikings,14,SOLD,atcgut
+Denver Broncos,13,SOLD,atcgut
+Tennessee Titans,15,SOLD,macksports
+Los Angeles Chargers,25,SOLD,gobama72
+Seattle Seahawks,16,SOLD,macksports
+New York Giants,17,SOLD,macksports
 "Cincinnati Bengals, Jacksonville Jaguars",25,SOLD,leprechaunsean9
-#21,1,OPEN,
+New York Jets,16,SOLD,jetsforlife26
+Tampa Bay Buccaneers,13,SOLD,leprechaunsean9
+Dallas Cowboys,16,SOLD,atcgut
+Pittsburgh Steelers,13,SOLD,leprechaunsean9
+Houston Texans,12,SOLD,squirrelboy44
+Atlanta Falcons,12,SOLD,squirrelboy44
+Miami Dolphins,11,SOLD,atcgut
+Las Vegas Raiders,14,SOLD,leprechaunsean9
+"Baltimore Ravens, Detroit Lions",22,SOLD,trevorlawrencelover420
+"Carolina Panthers, Philadelphia Eagles",27,SOLD,pespina9
+Indianapolis Colts,17,SOLD,leprechaunsean9
+Washington Commanders,9,SOLD,maxyou27872

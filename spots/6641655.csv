@@ -1,7 +1,7 @@
 spot,price,state,buyer
 Arizona Cardinals,200,OPEN,
 Atlanta Falcons,85,OPEN,
-Baltimore Ravens,85,OPEN,
+Baltimore Ravens,75,SOLD,rfeist
 Buffalo Bills,150,OPEN,
 Carolina Panthers,65,OPEN,
 Chicago Bears,175,OPEN,
@@ -9,7 +9,7 @@ Cincinnati Bengals,125,OPEN,
 Cleveland Browns,110,OPEN,
 Dallas Cowboys,135,OPEN,
 Denver Broncos,175,OPEN,
-Detroit Lions,50,OPEN,
+Detroit Lions,37,SOLD,jayvazzo
 Green Bay Packers,50,OPEN,
 Houston Texans,45,OPEN,
 Indianapolis Colts,45,OPEN,
@@ -29,5 +29,5 @@ Pittsburgh Steelers,110,OPEN,
 San Francisco 49ers,125,OPEN,
 Seattle Seahawks,100,OPEN,
 Tampa Bay Buccaneers,115,OPEN,
-Tennessee Titans,150,OPEN,
+Tennessee Titans,105,SOLD,the_warden_1
 Washington Commanders,125,OPEN,

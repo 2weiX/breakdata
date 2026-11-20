@@ -1,37 +1,62 @@
 spot,price,state,buyer
-Baltimore Ravens,145,SOLD,nick1103
-Buffalo Bills,138,SOLD,endzonechasers
-Chicago Bears,132,SOLD,endzonechasers
-Cleveland Browns,153,SOLD,ryanhan41096
-Dallas Cowboys,142,SOLD,ccline301
-Denver Broncos,126,SOLD,rileyfor
-Houston Texans,95,SOLD,cisners_onlysams
 Kansas City Chiefs,168,SOLD,ryanhan41096
-Los Angeles Chargers,145,SOLD,everythinginsurance
-Los Angeles Rams,141,SOLD,endzonechasers
-Minnesota Vikings,151,SOLD,johnkho23
-New England Patriots,131,SOLD,ryanhan41096
-Pittsburgh Steelers,137,SOLD,ccline301
-San Francisco 49ers,127,SOLD,thodig93
-Seattle Seahawks,130,SOLD,everythinginsurance
-Tampa Bay Buccaneers,43,SOLD,ryanhan41096
-MISC,126,SOLD,ryanhan41096
-WHOEY 1,121,SOLD,ryanhan41096
-WHOEY 2,161,SOLD,everythinginsurance
-WHOEY 3,136,SOLD,bailey1013
 WHOEY 4,141,SOLD,johnkho23
+Cleveland Browns,153,SOLD,ryanhan41096
+T,124.1,SOLD,endzonechasers
+Minnesota Vikings,151,SOLD,johnkho23
+WHOEY 8,156,SOLD,ryanhan41096
+T,138,SOLD,endzonechasers
+Los Angeles Rams,141,SOLD,endzonechasers
+Baltimore Ravens,145,SOLD,nick1103
 WHOEY 5,151,SOLD,endzonechasers
 WHOEY 7,136,SOLD,nick1103
-WHOEY 8,156,SOLD,ryanhan41096
-#4,124.1,SOLD,endzonechasers
-#7,138,SOLD,endzonechasers
-#14,137,SOLD,ryanhan41096
-#19,130,SOLD,ccline301
-#20,160,SOLD,ccline301
-#22,153,SOLD,ccline301
-#23,121,SOLD,ryanhan41096
-#25,112,SOLD,nick1103
-#27,127,SOLD,thodig93
-#28,125,SOLD,thodig93
-#34,1,SOLD,cisners_onlysams
-#36,1,OPEN,
+MISC,126,SOLD,ryanhan41096
+Buffalo Bills,138,SOLD,endzonechasers
+T,137,SOLD,ryanhan41096
+Chicago Bears,132,SOLD,endzonechasers
+New England Patriots,131,SOLD,ryanhan41096
+Denver Broncos,126,SOLD,rileyfor
+Dallas Cowboys,142,SOLD,ccline301
+T,130,SOLD,ccline301
+T,160,SOLD,ccline301
+Pittsburgh Steelers,137,SOLD,ccline301
+T,153,SOLD,ccline301
+T,121,SOLD,ryanhan41096
+WHOEY 3,136,SOLD,bailey1013
+T,112,SOLD,nick1103
+San Francisco 49ers,127,SOLD,thodig93
+T,127,SOLD,thodig93
+T,125,SOLD,thodig93
+Arizona Cardinals,130,SOLD,everythinginsurance
+Los Angeles Chargers,145,SOLD,everythinginsurance
+WHOEY 2,161,SOLD,everythinginsurance
+WHOEY 1,121,SOLD,ryanhan41096
+Houston Texans,95,SOLD,cisners_onlysams
+T,1,SOLD,cisners_onlysams
+T,43,SOLD,ryanhan41096
+T,84,SOLD,wildcats2686
+T,77,SOLD,evgar
+Detroit Lions,90,SOLD,wildcats2686
+T,91,SOLD,cisners_onlysams
+Green Bay Packers,93,SOLD,ryanhan41096
+T,95,SOLD,everythinginsurance
+T,79,SOLD,delidad3
+Philadelphia Eagles,111,SOLD,bailey1013
+T,127,SOLD,everythinginsurance
+WHOEY 6,117,SOLD,ryanhan41096
+Washington Commanders,30,SOLD,delidad3
+T,25,SOLD,evgar
+T,36,SOLD,delidad3
+Las Vegas Raiders,21,SOLD,evgar
+Jacksonville Jaguars,30,SOLD,dannyp51
+New York Giants,55,SOLD,bailey1013
+Cincinnati Bengals,13,SOLD,evgar
+New York Jets,16,SOLD,evgar
+Tennessee Titans,18,SOLD,evgar
+New Orleans Saints,16,SOLD,evgar
+Indianapolis Colts,13,SOLD,evgar
+Atlanta Falcons,13,SOLD,evgar
+Tampa Bay Buccaneers,15,SOLD,shanesco92602
+Miami Dolphins,15,SOLD,thesmokingcannon
+Carolina Panthers,20,SOLD,everythinginsurance
+Seattle Seahawks,38,SOLD,baldguybreaks

@@ -1,33 +1,34 @@
 spot,price,state,buyer
-Arizona Cardinals,25,SOLD,bos168
-Atlanta Falcons,24,SOLD,northcoastcards231
 Baltimore Ravens,24,SOLD,cadeham77275
-Carolina Panthers,32,SOLD,cadeham77275
-Chicago Bears,23,SOLD,cdub624
 Cincinnati Bengals,24,SOLD,undybunch3
-Cleveland Browns,19,SOLD,bos168
-Dallas Cowboys,30,SOLD,cadeham77275
+Kansas City Chiefs,25,SOLD,chachad08761
+Seattle Seahawks,25,SOLD,bos168
+Arizona Cardinals,25,SOLD,bos168
+Carolina Panthers,32,SOLD,cadeham77275
+New England Patriots,24,SOLD,mitcht218
+Miami Dolphins,24,SOLD,mitcht218
+Los Angeles Chargers,25,SOLD,bos168
 Denver Broncos,25,SOLD,undybunch3
-Detroit Lions,20,SOLD,reformcards
 Green Bay Packers,25,SOLD,mitcht218
 Houston Texans,24,SOLD,cadeham77275
+Tampa Bay Buccaneers,25,SOLD,cadeham77275
 Indianapolis Colts,1,SOLD,bos168
 Jacksonville Jaguars,19,SOLD,chino18025
-Kansas City Chiefs,25,SOLD,chachad08761
-Las Vegas Raiders,19,SOLD,chino18025
-Los Angeles Chargers,25,SOLD,bos168
-Los Angeles Rams,13,SOLD,cadeham77275
-Miami Dolphins,24,SOLD,mitcht218
-Minnesota Vikings,16,SOLD,chino18025
-New England Patriots,24,SOLD,mitcht218
-New Orleans Saints,23,SOLD,cdub624
-New York Jets,26,SOLD,chino18025
+Cleveland Browns,19,SOLD,bos168
 Philadelphia Eagles,18,SOLD,bos168
-Pittsburgh Steelers,22,SOLD,cadeham77275
-San Francisco 49ers,22,SOLD,bos168
-Seattle Seahawks,25,SOLD,bos168
-Tampa Bay Buccaneers,25,SOLD,cadeham77275
-Tennessee Titans,23,SOLD,mitcht218
+Los Angeles Rams,13,SOLD,cadeham77275
+Minnesota Vikings,16,SOLD,chino18025
+Las Vegas Raiders,19,SOLD,chino18025
 Washington Commanders,22,SOLD,chino18025
+New York Jets,26,SOLD,chino18025
+Pittsburgh Steelers,22,SOLD,cadeham77275
+Atlanta Falcons,24,SOLD,northcoastcards231
+Tennessee Titans,23,SOLD,mitcht218
+New Orleans Saints,23,SOLD,cdub624
+Chicago Bears,23,SOLD,cdub624
+San Francisco 49ers,22,SOLD,bos168
+Dallas Cowboys,30,SOLD,cadeham77275
+Detroit Lions,20,SOLD,reformcards
 Miscellaneous,18,SOLD,cadeham77275
-#32,1,OPEN,
+New York Giants,20,SOLD,reformcards
+Buffalo Bills,1,SOLD,reformcards

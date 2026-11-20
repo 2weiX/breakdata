@@ -1,33 +1,32 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+Cleveland Browns,24,SOLD,dannyp51
+Baltimore Ravens,26,SOLD,twood1404
+Las Vegas Raiders,30,SOLD,dannyp51
+San Francisco 49ers,29,SOLD,twood1404
+Indianapolis Colts,33,SOLD,mars_culture
+Los Angeles Rams,32,SOLD,chriskre83351
+Minnesota Vikings,37,SOLD,dannyp51
+New York Jets,28,SOLD,chriskre83351
+Houston Texans,35,SOLD,chriskre83351
+Kansas City Chiefs,35,SOLD,chriskre83351
+Jacksonville Jaguars,28,SOLD,mars_culture
+Washington Commanders,32,SOLD,twood1404
+Chicago Bears,28,SOLD,dannyp51
+Cincinnati Bengals,29,SOLD,mars_culture
+Arizona Cardinals,5,SOLD,robcroteau924
+Dallas Cowboys,28,SOLD,chriskre83351
+Philadelphia Eagles,20,SOLD,robcroteau924
+Los Angeles Chargers,21,SOLD,twood1404
+New York Giants,20,SOLD,twood1404
+Tampa Bay Buccaneers,19,SOLD,kentre44980
+Pittsburgh Steelers,23,SOLD,kentre44980
+New England Patriots,22,SOLD,swiggynix615
+Buffalo Bills,27,SOLD,swiggynix615
+Atlanta Falcons,28,SOLD,chriskre83351
+Denver Broncos,15,SOLD,swiggynix615
+New Orleans Saints,14,SOLD,swiggynix615
+Miami Dolphins,12,SOLD,pmcenroe
+Green Bay Packers,12,SOLD,chriskre83351
+Seattle Seahawks,9,SOLD,chriskre83351
+Tennessee Titans,21,SOLD,chriskre83351
+Carolina Panthers,21,SOLD,beastmode773

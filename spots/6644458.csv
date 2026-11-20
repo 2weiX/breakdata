@@ -1,33 +1,36 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+Washington Commanders,240,SOLD,goldcardvault
+Los Angeles Rams,260,SOLD,goldcardvault
+New York Jets,262,SOLD,bbanng52
+Pittsburgh Steelers,250,SOLD,jcarroll57
+Denver Broncos,260,SOLD,bbanng52
+Philadelphia Eagles,250,SOLD,jrlands
+Dallas Cowboys,260,SOLD,tdowel8
+Tennessee Titans,250,SOLD,jcarroll57
+Seattle Seahawks,250,SOLD,jrlands
+Indianapolis Colts,250,SOLD,jcarroll57
+New England Patriots,250,SOLD,jrlands
+Houston Texans,250,SOLD,goldcardvault
+Kansas City Chiefs,250,SOLD,therealjd
+Minnesota Vikings,255,SOLD,christophersmi81390
+Chicago Bears,265,SOLD,christophersmi81390
+Arizona Cardinals,265,SOLD,christophersmi81390
+Carolina Panthers,250,SOLD,christophersmi81390
+#18,260,SOLD,christophersmi81390
+#19,265,SOLD,christophersmi81390
+Detroit Lions,280,SOLD,hard_cards
+New York Giants,270,SOLD,hard_cards
+Miami Dolphins,255,SOLD,kirbra91721
+#23,280,SOLD,cristd5
+Cincinnati Bengals,290,SOLD,cristd5
+Jacksonville Jaguars,265,SOLD,christophersmi81390
+San Francisco 49ers,285,SOLD,christophersmi81390
+Atlanta Falcons,260,SOLD,hard_cards
+Tampa Bay Buccaneers,275,SOLD,cristd5
+New Orleans Saints,300,SOLD,leethalee77
+Cleveland Browns,361,SOLD,leethalee77
+Las Vegas Raiders,360,SOLD,leethalee77
+Los Angeles Chargers,250,SOLD,leethalee77
+Baltimore Ravens,250,SOLD,scottfamilysprts
+Buffalo Bills,255,SOLD,scottfamilysprts
+Green Bay Packers,110,SOLD,scottfamilysprts

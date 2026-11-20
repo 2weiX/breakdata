@@ -1,0 +1,24 @@
+spot,price,state,buyer
+Buffalo Bills,60,SOLD,joeywag
+Dallas Cowboys,59,SOLD,boozman1
+Chicago Bears,49,SOLD,joeywag
+#4,48,SOLD,joeywag
+Seattle Seahawks,51,SOLD,joeywag
+Los Angeles Rams,52,SOLD,ggmyguy
+New York Jets,47,SOLD,brooksideboers
+Cincinnati Bengals,62,SOLD,joeywag
+Miami Dolphins,1,SOLD,brooksideboers
+Baltimore Ravens,1,SOLD,joeywag
+Kansas City Chiefs,50,SOLD,jonathanash6714
+Los Angeles Chargers,71,SOLD,jonathanash6714
+#13,53,SOLD,jonathanash6714
+Minnesota Vikings,63,SOLD,jonathanash6714
+New England Patriots,59,SOLD,joeywag
+Detroit Lions,53,SOLD,ggmyguy
+Cleveland Browns,42,SOLD,joeywag
+Indianapolis Colts,69,SOLD,joeywag
+Tampa Bay Buccaneers,59,SOLD,alleo0923
+Green Bay Packers,68,SOLD,alleo0923
+Las Vegas Raiders,58,SOLD,alleo0923
+Jacksonville Jaguars,61,SOLD,joeywag
+#23,1,OPEN,

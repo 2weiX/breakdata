@@ -2,13 +2,16 @@ spot,price,state,buyer
 #1,12,OPEN,
 #2,12,OPEN,
 #3,12,OPEN,
+Los Angeles Chargers,12,SOLD,koeter88
 #5,12,OPEN,
 #6,12,OPEN,
 Denver Broncos,12,SOLD,tobigr19
+Chicago Bears,11,SOLD,jimmy_monke
 #9,12,OPEN,
-#10,12,OPEN,
+Green Bay Packers,10,SOLD,87hollywood87
 Carolina Panthers,12,SOLD,jaekelinho
 #12,12,OPEN,
+Kansas City Chiefs,12,SOLD,germanfootballfan
 #14,12,OPEN,
 #15,12,OPEN,
 #16,12,OPEN,
@@ -16,18 +19,15 @@ Tennessee Titans,12,SOLD,tobigr19
 #18,12,OPEN,
 #19,12,OPEN,
 #20,12,OPEN,
-New Orleans Saints,12,SOLD,tobigr19
-#25,12,OPEN,
-#26,12,OPEN,
-#28,12,OPEN,
-#30,12,OPEN,
-#32,12,OPEN,
-New England Patriots,12,SOLD,pxxxz4008
-Los Angeles Chargers,12,SOLD,koeter88
-Chicago Bears,11,SOLD,jimmy_monke
-Kansas City Chiefs,12,SOLD,germanfootballfan
 Dallas Cowboys,12,SOLD,totocards
 San Francisco 49ers,12,SOLD,mejulie07
+New Orleans Saints,12,SOLD,tobigr19
 Detroit Lions,12,SOLD,gigsto
+#25,12,OPEN,
+#26,12,OPEN,
+New England Patriots,12,SOLD,pxxxz4008
+#28,12,OPEN,
 Indianapolis Colts,12,SOLD,gigsto
+#30,12,OPEN,
 Houston Texans,12,SOLD,paullon33
+#32,12,OPEN,
