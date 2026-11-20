@@ -2,10 +2,8 @@ spot,price,state,buyer
 #1,17,OPEN,
 #2,17,OPEN,
 #3,17,OPEN,
-#4,17,OPEN,
 #5,17,OPEN,
 #6,17,OPEN,
-#7,17,OPEN,
 #8,17,OPEN,
 #9,17,OPEN,
 #10,17,OPEN,
@@ -31,3 +29,5 @@ spot,price,state,buyer
 #30,17,OPEN,
 #31,17,OPEN,
 #32,17,OPEN,
+Cleveland Browns,17,SOLD,maxrox72
+Green Bay Packers,17,SOLD,maxrox72
