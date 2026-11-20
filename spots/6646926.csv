@@ -1,33 +1,32 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+Arizona Cardinals,30,SOLD,mcdevitttom81
+Atlanta Falcons,10,SOLD,computah
+Baltimore Ravens,34,SOLD,bdjr7
+Buffalo Bills,26,SOLD,adamhaz57944
+Carolina Panthers,19,SOLD,scottjac46893
+Chicago Bears,25,SOLD,bdjr7
+Dallas Cowboys,24,SOLD,danieloco54140
+Denver Broncos,33,SOLD,fortier33
+Detroit Lions,26,SOLD,bdjr7
+Green Bay Packers,21,SOLD,punkyyy_
+Indianapolis Colts,23,SOLD,mcdevitttom81
+Jacksonville Jaguars,17,SOLD,danieloco54140
+Kansas City Chiefs,25,SOLD,punkyyy_
+Las Vegas Raiders,27,SOLD,mcdevitttom81
+Los Angeles Chargers,24,SOLD,corbinhal78841
+Los Angeles Rams,33,SOLD,ryanroul19
+Miami Dolphins,15,SOLD,corbinhal78841
+Minnesota Vikings,58,SOLD,adamhaz57944
+New England Patriots,31,SOLD,punkyyy_
+New York Giants,27,SOLD,corbinhal78841
+New York Jets,21,SOLD,punkyyy_
+Pittsburgh Steelers,10,SOLD,mcdevitttom81
+San Francisco 49ers,34,SOLD,jacoblac89633
+Tampa Bay Buccaneers,25,SOLD,bdjr7
+Tennessee Titans,31,SOLD,adamhaz57944
+Washington Commanders,16,SOLD,punkyyy_
+"Cleveland Browns, Seattle Seahawks",35,SOLD,punkyyy_
+"Cincinnati Bengals, New Orleans Saints",44,SOLD,bdjr7
+#12,81,SOLD,bdjr7
+#16,43,SOLD,punkyyy_
+"Houston Texans, Philadelphia Eagles",23,SOLD,adamhaz57944

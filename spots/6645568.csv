@@ -11,8 +11,8 @@ spot,price,state,buyer
 #11,32,OPEN,
 #12,32,OPEN,
 #13,32,OPEN,
-#14,32,OPEN,
-#15,32,OPEN,
+#14,27.2,SOLD,tak3r180
+#15,32,SOLD,makrele2000
 #16,32,OPEN,
 #17,32,OPEN,
 #18,32,OPEN,
@@ -25,9 +25,9 @@ spot,price,state,buyer
 #25,32,OPEN,
 #26,32,OPEN,
 #27,32,OPEN,
-#28,32,OPEN,
+#28,27,SOLD,buzzufo
 #29,32,OPEN,
 #30,32,OPEN,
 #31,32,OPEN,
-#32,32,OPEN,
+#32,27,SOLD,buzzufo
 #3,28.8,SOLD,karlklammer

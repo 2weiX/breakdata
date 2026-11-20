@@ -1,12 +1,10 @@
 spot,price,state,buyer
-Arizona Cardinals,40,OPEN,
 Atlanta Falcons,10,SOLD,tatershed
 Baltimore Ravens,40,OPEN,
 Buffalo Bills,45,OPEN,
 Carolina Panthers,10,OPEN,
 Chicago Bears,30,SOLD,markdyou77
 Cincinnati Bengals,19,SOLD,fatwhalelardass
-Cleveland Browns,20,OPEN,
 Denver Broncos,30,OPEN,
 Detroit Lions,20,SOLD,anthonyzyr
 Houston Texans,15,OPEN,
@@ -17,14 +15,15 @@ Los Angeles Chargers,20,OPEN,
 Los Angeles Rams,40,OPEN,
 Miami Dolphins,9.5,SOLD,jadams40
 Minnesota Vikings,30,OPEN,
-New England Patriots,35,OPEN,
+New England Patriots,33.25,SOLD,solitcards
 New Orleans Saints,35,OPEN,
 New York Jets,15,SOLD,jadams40
 Philadelphia Eagles,20,OPEN,
 Pittsburgh Steelers,15,SOLD,jcksct
 San Francisco 49ers,30,SOLD,fatwhalelardass
-Seattle Seahawks,20,OPEN,
+Seattle Seahawks,20,SOLD,benito1313
 Tampa Bay Buccaneers,35,OPEN,
 Tennessee Titans,35,OPEN,
 Washington Commanders,30,OPEN,
 Indianapolis Colts GIANTS PACKER,50,SOLD,jbyanks1
+Arizona Cardinals BROWNS,54,SOLD,benito1313

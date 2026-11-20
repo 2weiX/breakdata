@@ -1,5 +1,5 @@
 spot,price,state,buyer
-Arizona Cardinals,65,OPEN,
+Arizona Cardinals,65,SOLD,chiryan
 Atlanta Falcons,30,OPEN,
 Baltimore Ravens,50,OPEN,
 Buffalo Bills,52,SOLD,philj101786
@@ -20,7 +20,7 @@ Los Angeles Chargers,35,OPEN,
 Los Angeles Rams,65,OPEN,
 Miami Dolphins,28,SOLD,shawnconklin730
 Minnesota Vikings,40,OPEN,
-New England Patriots,65,OPEN,
+New England Patriots,52,SOLD,chetche19554
 New Orleans Saints,50,OPEN,
 New York Giants,44,SOLD,rmink845
 New York Jets,55,SOLD,chiryan

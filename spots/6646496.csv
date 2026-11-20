@@ -1,42 +1,37 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-MISC,,OPEN,
-WHOEY 1,,OPEN,
-WHOEY 2,,OPEN,
-WHOEY 3,,OPEN,
-WHOEY 4,,OPEN,
-WHOEY 5,,OPEN,
-WHOEY 6,,OPEN,
-WHOEY 7,,OPEN,
-WHOEY 8,,OPEN,
+Baltimore Ravens,145,SOLD,nick1103
+Buffalo Bills,138,SOLD,endzonechasers
+Chicago Bears,132,SOLD,endzonechasers
+Cleveland Browns,153,SOLD,ryanhan41096
+Dallas Cowboys,142,SOLD,ccline301
+Denver Broncos,126,SOLD,rileyfor
+Houston Texans,95,SOLD,cisners_onlysams
+Kansas City Chiefs,168,SOLD,ryanhan41096
+Los Angeles Chargers,145,SOLD,everythinginsurance
+Los Angeles Rams,141,SOLD,endzonechasers
+Minnesota Vikings,151,SOLD,johnkho23
+New England Patriots,131,SOLD,ryanhan41096
+Pittsburgh Steelers,137,SOLD,ccline301
+San Francisco 49ers,127,SOLD,thodig93
+Seattle Seahawks,130,SOLD,everythinginsurance
+Tampa Bay Buccaneers,43,SOLD,ryanhan41096
+MISC,126,SOLD,ryanhan41096
+WHOEY 1,121,SOLD,ryanhan41096
+WHOEY 2,161,SOLD,everythinginsurance
+WHOEY 3,136,SOLD,bailey1013
+WHOEY 4,141,SOLD,johnkho23
+WHOEY 5,151,SOLD,endzonechasers
+WHOEY 7,136,SOLD,nick1103
+WHOEY 8,156,SOLD,ryanhan41096
+#4,124.1,SOLD,endzonechasers
+#7,138,SOLD,endzonechasers
+#14,137,SOLD,ryanhan41096
+#19,130,SOLD,ccline301
+#20,160,SOLD,ccline301
+#22,153,SOLD,ccline301
+#23,121,SOLD,ryanhan41096
+#25,112,SOLD,nick1103
+#27,127,SOLD,thodig93
+#28,125,SOLD,thodig93
+#34,1,SOLD,cisners_onlysams
+#36,1,OPEN,

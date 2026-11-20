@@ -1,33 +1,34 @@
 spot,price,state,buyer
-Arizona Cardinals,1,OPEN,
-Atlanta Falcons,1,OPEN,
-Baltimore Ravens,1,OPEN,
-Buffalo Bills,1,OPEN,
-Carolina Panthers,1,OPEN,
-Chicago Bears,1,OPEN,
-Cincinnati Bengals,1,OPEN,
-Cleveland Browns,1,OPEN,
-Dallas Cowboys,1,OPEN,
-Denver Broncos,1,OPEN,
-Detroit Lions,1,OPEN,
-Green Bay Packers,1,OPEN,
-Houston Texans,1,OPEN,
-Indianapolis Colts,1,OPEN,
-Jacksonville Jaguars,1,OPEN,
-Kansas City Chiefs,1,OPEN,
-Las Vegas Raiders,1,OPEN,
-Los Angeles Chargers,1,OPEN,
-Los Angeles Rams,1,OPEN,
-Miami Dolphins,1,OPEN,
-Minnesota Vikings,1,OPEN,
-New England Patriots,1,OPEN,
-New Orleans Saints,1,OPEN,
-New York Giants,1,OPEN,
-New York Jets,1,OPEN,
-Philadelphia Eagles,1,OPEN,
-Pittsburgh Steelers,1,OPEN,
-San Francisco 49ers,1,OPEN,
-Seattle Seahawks,1,OPEN,
-Tampa Bay Buccaneers,1,OPEN,
-Tennessee Titans,1,OPEN,
-Washington Commanders,1,OPEN,
+Arizona Cardinals,30,SOLD,heavypackspulls
+Atlanta Falcons,4,SOLD,ryanjon92087
+Baltimore Ravens,21,SOLD,mblasey7
+Buffalo Bills,30,SOLD,ryanjon92087
+Carolina Panthers,5,SOLD,ryanjon92087
+Chicago Bears,25,SOLD,fire_tro
+Cincinnati Bengals,23,SOLD,archie2425
+Cleveland Browns,7,SOLD,marvinator216
+Dallas Cowboys,7,SOLD,tdubs34
+Denver Broncos,13,SOLD,semperficandc
+Detroit Lions,17,SOLD,semperficandc
+Green Bay Packers,6,SOLD,just_bacho
+Houston Texans,4,SOLD,just_bacho
+Indianapolis Colts,4,SOLD,thefourthhenry
+Jacksonville Jaguars,6,SOLD,just_bacho
+Kansas City Chiefs,46,SOLD,fire_tro
+Las Vegas Raiders,46,SOLD,heavypackspulls
+Los Angeles Chargers,5,SOLD,just_bacho
+Los Angeles Rams,15,SOLD,semperficandc
+Miami Dolphins,1,SOLD,ryanjon92087
+Minnesota Vikings,7,SOLD,dmc_87
+New England Patriots,10,SOLD,booobooo_steelah
+New Orleans Saints,6,SOLD,ryanjon92087
+New York Giants,16,SOLD,just_bacho
+New York Jets,5,SOLD,ryanjon92087
+Philadelphia Eagles,11,SOLD,py420
+Pittsburgh Steelers,22,SOLD,booobooo_steelah
+San Francisco 49ers,11,SOLD,george_skittle_85
+Seattle Seahawks,8,SOLD,ryanjon92087
+Tampa Bay Buccaneers,4,SOLD,thefourthhenry
+Tennessee Titans,4,SOLD,ryanjon92087
+Washington Commanders,5,SOLD,heavypackspulls
+Kansas City Chiefs,23,SOLD,anturso6

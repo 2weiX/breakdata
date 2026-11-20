@@ -1,34 +1,33 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-Miscellaneous,,OPEN,
+Arizona Cardinals,25,SOLD,bos168
+Atlanta Falcons,24,SOLD,northcoastcards231
+Baltimore Ravens,24,SOLD,cadeham77275
+Carolina Panthers,32,SOLD,cadeham77275
+Chicago Bears,23,SOLD,cdub624
+Cincinnati Bengals,24,SOLD,undybunch3
+Cleveland Browns,19,SOLD,bos168
+Dallas Cowboys,30,SOLD,cadeham77275
+Denver Broncos,25,SOLD,undybunch3
+Detroit Lions,20,SOLD,reformcards
+Green Bay Packers,25,SOLD,mitcht218
+Houston Texans,24,SOLD,cadeham77275
+Indianapolis Colts,1,SOLD,bos168
+Jacksonville Jaguars,19,SOLD,chino18025
+Kansas City Chiefs,25,SOLD,chachad08761
+Las Vegas Raiders,19,SOLD,chino18025
+Los Angeles Chargers,25,SOLD,bos168
+Los Angeles Rams,13,SOLD,cadeham77275
+Miami Dolphins,24,SOLD,mitcht218
+Minnesota Vikings,16,SOLD,chino18025
+New England Patriots,24,SOLD,mitcht218
+New Orleans Saints,23,SOLD,cdub624
+New York Jets,26,SOLD,chino18025
+Philadelphia Eagles,18,SOLD,bos168
+Pittsburgh Steelers,22,SOLD,cadeham77275
+San Francisco 49ers,22,SOLD,bos168
+Seattle Seahawks,25,SOLD,bos168
+Tampa Bay Buccaneers,25,SOLD,cadeham77275
+Tennessee Titans,23,SOLD,mitcht218
+Washington Commanders,22,SOLD,chino18025
+Miscellaneous,18,SOLD,cadeham77275
+#32,1,OPEN,

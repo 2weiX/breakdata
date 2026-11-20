@@ -1,101 +1,47 @@
 spot,price,state,buyer
-4. Jordyn Tyson,,OPEN,
-24. Lamar Jackson,,OPEN,
-48. Travis Hunter,,OPEN,
-40. Tyler Shough,,OPEN,
-31. Jaxson Dart,,OPEN,
-89. Minnesota Vikings — All Other Players,,OPEN,
-71. Baltimore Ravens — All Other Players,,OPEN,
-8. Caleb Downs,,OPEN,
-91. New Orleans Saints — All Other Players,,OPEN,
-72. Buffalo Bills — All Other Players + QB Bills,,OPEN,
-60. Jerry Rice,,OPEN,
-30. Bo Nix,,OPEN,
-1. Fernando Mendoza,,OPEN,
-65. John Elway,,OPEN,
-42. Ja'Marr Chase,,OPEN,
-97. Seattle Seahawks — All Other Players,,OPEN,
-76. Cleveland Browns — All Other Players + QB Browns,,OPEN,
-77. Dallas Cowboys — All Other Players,,OPEN,
-56. Trey McBride,,OPEN,
-87. Los Angeles Rams — All Other Players,,OPEN,
-92. New York Giants — All Other Players,,OPEN,
-15. Jadarian Price,,OPEN,
-38. Dak Prescott,,OPEN,
-41. Justin Jefferson,,OPEN,
-54. Ashton Jeanty,,OPEN,
-28. Jayden Daniels,,OPEN,
-57. Tom Brady,,OPEN,
-95. Pittsburgh Steelers — All Other Players,,OPEN,
-34. Brock Purdy,,OPEN,
-2. Jeremiyah Love,,OPEN,
-46. Amon-Ra St. Brown,,OPEN,
-81. Houston Texans — All Other Players,,OPEN,
-94. Philadelphia Eagles — All Other Players + QB Eagles,,OPEN,
-32. Cam Ward,,OPEN,
-59. Joe Montana,,OPEN,
-11. Kenyon Sadiq,,OPEN,
-45. CeeDee Lamb,,OPEN,
-33. Matthew Stafford,,OPEN,
-14. Omar Cooper Jr.,,OPEN,
-70. Atlanta Falcons — All Other Players,,OPEN,
-73. Carolina Panthers — All Other Players,,OPEN,
-90. New England Patriots — All Other Players,,OPEN,
-43. Jaxon Smith-Njigba,,OPEN,
-69. Arizona Cardinals — All Other Players,,OPEN,
-37. Trevor Lawrence,,OPEN,
-44. Puka Nacua,,OPEN,
-100. Washington Commanders — All Other Players,,OPEN,
-74. Chicago Bears — All Other Players,,OPEN,
-23. Drake Maye,,OPEN,
-10. Sonny Styles,,OPEN,
-16. Drew Allar,,OPEN,
-66. Brett Favre,,OPEN,
-49. Bijan Robinson,,OPEN,
-18. Garrett Nussmeier,,OPEN,
-19. David Bailey,,OPEN,
-51. Saquon Barkley,,OPEN,
-53. Derrick Henry,,OPEN,
-67. Drew Brees,,OPEN,
-80. Green Bay Packers — All Other Players,,OPEN,
-88. Miami Dolphins — All Other Players,,OPEN,
-36. CJ Stroud,,OPEN,
-68. Rob Gronkowski,,OPEN,
-75. Cincinnati Bengals — All Other Players,,OPEN,
-99. Tennessee Titans / Oilers — All Other Players,,OPEN,
-25. Joe Burrow,,OPEN,
-63. Bo Jackson,,OPEN,
-26. Justin Herbert,,OPEN,
-21. Josh Allen,,OPEN,
-3. Carnell Tate,,OPEN,
-13. Denzel Boston,,OPEN,
-27. Jalen Hurts,,OPEN,
-6. Makai Lemon,,OPEN,
-86. Los Angeles Chargers — All Other Players,,OPEN,
-50. Jahmyr Gibbs,,OPEN,
-12. KC Concepcion,,OPEN,
-64. Dan Marino,,OPEN,
-84. Kansas City Chiefs — All Other Players,,OPEN,
-55. Brock Bowers,,OPEN,
-39. Shedeur Sanders,,OPEN,
-17. Cade Klubnik,,OPEN,
-7. Carson Beck,,OPEN,
-5. Ty Simpson,,OPEN,
-78. Denver Broncos — All Other Players,,OPEN,
-20. Rueben Bain Jr.,,OPEN,
-96. San Francisco 49ers — All Other Players,,OPEN,
-52. Christian McCaffrey,,OPEN,
-82. Indianapolis Colts — All Other Players,,OPEN,
-58. Peyton Manning,,OPEN,
-22. Patrick Mahomes II,,OPEN,
-9. Arvell Reese,,OPEN,
-47. Malik Nabers,,OPEN,
-29. Caleb Williams,,OPEN,
-62. Barry Sanders,,OPEN,
-98. Tampa Bay Buccaneers — All Other Players,,OPEN,
-61. Randy Moss,,OPEN,
-83. Jacksonville Jaguars — All Other Players,,OPEN,
-93. New York Jets — All Other Players,,OPEN,
-35. Jordan Love,,OPEN,
-79. Detroit Lions — All Other Players,,OPEN,
-85. Las Vegas Raiders — All Other Players,,OPEN,
+48. Travis Hunter,15,SOLD,chayknee
+31. Jaxson Dart,15,SOLD,millertime99
+89. Minnesota Vikings — All Other Players,13,SOLD,millertime99
+71. Baltimore Ravens — All Other Players,13,SOLD,kard_sharks
+8. Caleb Downs,13,SOLD,millertime99
+91. New Orleans Saints — All Other Players,12,SOLD,chayknee
+60. Jerry Rice,21,SOLD,sircharles929
+65. John Elway,18,SOLD,chayknee
+97. Seattle Seahawks — All Other Players,13,SOLD,dorpar15098
+76. Cleveland Browns — All Other Players + QB Browns,14,SOLD,millertime99
+77. Dallas Cowboys — All Other Players,13,SOLD,abrose12
+92. New York Giants — All Other Players,13,SOLD,millertime99
+38. Dak Prescott,13,SOLD,chanpanthaman
+28. Jayden Daniels,13,SOLD,chayknee
+57. Tom Brady,17,SOLD,creekside_sports
+95. Pittsburgh Steelers — All Other Players,13,SOLD,chroniccardboard
+34. Brock Purdy,17,SOLD,thegoat62920
+46. Amon-Ra St. Brown,11,SOLD,mikek1997
+94. Philadelphia Eagles — All Other Players + QB Eagles,13,SOLD,dorpar15098
+11. Kenyon Sadiq,11,SOLD,lilbird97
+33. Matthew Stafford,13,SOLD,chanpanthaman
+14. Omar Cooper Jr.,11,SOLD,dorpar15098
+70. Atlanta Falcons — All Other Players,13,SOLD,nchristncoach2020
+23. Drake Maye,17,SOLD,millertime99
+66. Brett Favre,13,SOLD,chayknee
+49. Bijan Robinson,1,SOLD,mikek1997
+18. Garrett Nussmeier,14,SOLD,mikek1997
+19. David Bailey,13,SOLD,kard_sharks
+51. Saquon Barkley,14,SOLD,duanejetski
+53. Derrick Henry,12,SOLD,chayknee
+80. Green Bay Packers — All Other Players,11,SOLD,dorpar15098
+68. Rob Gronkowski,10,SOLD,duanejetski
+75. Cincinnati Bengals — All Other Players,11,SOLD,mikek1997
+25. Joe Burrow,11,SOLD,mikek1997
+21. Josh Allen,16,SOLD,reddog7676
+3. Carnell Tate,16,SOLD,duanejetski
+6. Makai Lemon,14,SOLD,chayknee
+64. Dan Marino,13,SOLD,mikek1997
+17. Cade Klubnik,12,SOLD,jharsh_wn
+5. Ty Simpson,13,SOLD,kard_sharks
+58. Peyton Manning,14,SOLD,abrose12
+29. Caleb Williams,16,SOLD,mikek1997
+98. Tampa Bay Buccaneers — All Other Players,11,SOLD,duanejetski
+83. Jacksonville Jaguars — All Other Players,19,SOLD,sircharles929
+93. New York Jets — All Other Players,21,SOLD,dorpar15098
+35. Jordan Love,17,SOLD,chayknee
