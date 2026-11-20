@@ -1,17 +1,19 @@
 spot,price,state,buyer
-Chiefs + Panthers,7,OPEN,
-Cowboys + Browns,7,OPEN,
-49ers + Falcons,7,OPEN,
-Eagles + Titans,6,OPEN,
-Bills + Saints,6,OPEN,
-Lions + Raiders,5.6,SOLD,legosam4
-Ravens + Cardinals,6,OPEN,
-Packers + Jaguars,6,OPEN,
-Bengals + Giants,6,SOLD,jacobnew75656
-Vikings + Buccaneers,6,OPEN,
-Seahawks + Colts,6,OPEN,
-Broncos + Jets,6,OPEN,
-Dolphins + Commanders,5.6,SOLD,caseycarlow
-Chargers + Bears,6,OPEN,
-Rams + Patriots,6,SOLD,samdella23
-Steelers + Texans,6,OPEN,
+Chiefs + Panthers,5,OPEN,
+Cowboys + Browns,5,OPEN,
+49ers + Falcons,5,OPEN,
+Eagles + Titans,4,OPEN,
+Bills + Saints,4,OPEN,
+Lions + Raiders,7,OPEN,
+Ravens + Cardinals,5,OPEN,
+Packers + Jaguars,5,OPEN,
+Bengals + Giants,6,OPEN,
+Vikings + Buccaneers,5,OPEN,
+Seahawks + Colts,5,OPEN,
+Broncos + Jets,5,OPEN,
+Dolphins + Commanders,7,OPEN,
+Chargers + Bears,5,OPEN,
+Rams + Patriots,6,OPEN,
+Steelers + Texans,4,OPEN,
+#6,7,SOLD,legosam4
+#13,7,SOLD,caseycarlow

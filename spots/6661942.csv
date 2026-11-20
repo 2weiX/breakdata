@@ -1,7 +1,7 @@
 spot,price,state,buyer
 Baltimore Ravens,20,SOLD,milka613
 Dallas Cowboys,19,SOLD,mpake
-Buffalo Bills,19,SOLD,milka613
+Buffalo Bills,14,SOLD,patmod
 p4,24,SOLD,milka613
 Seattle Seahawks,25,SOLD,svendoc1530
 p5,27,SOLD,milka613
@@ -11,4 +11,31 @@ p6,25,SOLD,svendoc1530
 Atlanta Falcons,25,SOLD,svendoc1530
 New York Giants,28,SOLD,milka613
 p2,26,SOLD,milka613
-#13,1,OPEN,
+#3,19,SOLD,milka613
+p3,42,SOLD,meckmess1316
+Los Angeles Chargers,26,SOLD,milka613
+Kansas City Chiefs,24,SOLD,mpake
+Arizona Cardinals,24,SOLD,winnerzcircle1979
+Minnesota Vikings,34,SOLD,winnerzcircle1979
+Las Vegas Raiders,28,SOLD,milka613
+p1,27,SOLD,patmod
+New York Jets,24,SOLD,jesterblood
+New Orleans Saints,23,SOLD,meckmess1316
+Denver Broncos,22,SOLD,meckmess1316
+Detroit Lions,18,SOLD,jesterblood
+New England Patriots,1,SOLD,shawnw33859
+Tennessee Titans,13,SOLD,shawnw33859
+Cincinnati Bengals,14,SOLD,meckmess1316
+#27,18,SOLD,meckmess1316
+Pittsburgh Steelers,17,SOLD,meckmess1316
+Indianapolis Colts,17,SOLD,jacemiel
+San Francisco 49ers,17,SOLD,timmylandis1992
+Chicago Bears,16,SOLD,jacemiel
+Jacksonville Jaguars,14,SOLD,jacemiel
+Miami Dolphins,16,SOLD,chucktidd3
+Houston Texans,16,SOLD,jacemiel
+Cleveland Browns,13,SOLD,patmod
+Tampa Bay Buccaneers,14,SOLD,timmylandis1992
+Carolina Panthers,13,SOLD,patmod
+Green Bay Packers,9,SOLD,patmod
+Washington Commanders,7,SOLD,patmod

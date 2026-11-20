@@ -1,6 +1,25 @@
 spot,price,state,buyer
 Georgia,3,SOLD,furnitureslayer
-Cleveland Browns,4,SOLD,furnitureslayer
 "Carolina Panthers, Los Angeles Chargers",9,SOLD,furnitureslayer
 "Detroit Lions, Washington Commanders",21,SOLD,furnitureslayer
-#5,4,SOLD,furnitureslayer
+"Cleveland Browns, Pittsburgh Steelers",4,SOLD,furnitureslayer
+San Francisco 49ers,4,SOLD,furnitureslayer
+Notre Dame,6,SOLD,furnitureslayer
+"Dallas Cowboys, Denver Broncos",7,SOLD,furnitureslayer
+"BIG 12 Others + High School, Ole Miss",17,SOLD,furnitureslayer
+Miami Dolphins,19,SOLD,furnitureslayer
+"Ohio State, BIG 10 Others (No Ohio State & Oregon)",10,SOLD,furnitureslayer
+"Los Angeles Rams, Kansas City Chiefs",20,SOLD,87upstate
+"Las Vegas Raiders, New Orleans Saints",22,SOLD,thunter66
+"Miami, SEC Others (No Georgia & LSU & Ole Miss)",22,SOLD,furnitureslayer
+"Chicago Bears, LSU",20,SOLD,thunter66
+"Baltimore Ravens, Green Bay Packers",23,SOLD,furnitureslayer
+"Buffalo Bills, ACC Others + Others (No Miami)",19,SOLD,thunter66
+"New England Patriots, Oregon",20,SOLD,furnitureslayer
+"Arizona Cardinals, Tennessee Titans",19,SOLD,87upstate
+"Indianapolis Colts, Minnesota Vikings",18,SOLD,furnitureslayer
+"New York Giants, New York Jets",19,SOLD,furnitureslayer
+"Philadelphia Eagles, Seattle Seahawks",18,SOLD,thunter66
+#22,17,SOLD,furnitureslayer
+"Atlanta Falcons, Tampa Bay Buccaneers",14,SOLD,thunter66
+"Cincinnati Bengals, Houston Texans, Jacksonville Jaguars",28,SOLD,87upstate

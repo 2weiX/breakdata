@@ -1,34 +1,37 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-MISC,,OPEN,
+Atlanta Falcons,46,SOLD,chux1027
+Baltimore Ravens,79,SOLD,kadyndil
+Buffalo Bills,47,SOLD,jerseyshorecards1
+Carolina Panthers,48,SOLD,woody_1976
+Chicago Bears,66,SOLD,meykel67
+Cincinnati Bengals,90,SOLD,kadyndil
+Cleveland Browns,30,SOLD,jerseyshorecards1
+Dallas Cowboys,74,SOLD,kadyndil
+Detroit Lions,58,SOLD,bubbmc78
+Green Bay Packers,77,SOLD,willzcardzz
+Houston Texans,68,SOLD,chux1027
+Indianapolis Colts,46,SOLD,woody_1976
+Jacksonville Jaguars,40,SOLD,woody_1976
+Kansas City Chiefs,70,SOLD,meykel67
+Los Angeles Chargers,75,SOLD,bubbmc78
+Los Angeles Rams,43,SOLD,ellbeau
+Miami Dolphins,77,SOLD,willzcardzz
+Minnesota Vikings,88,SOLD,woody_1976
+New England Patriots,64,SOLD,slabhappy77
+New Orleans Saints,54,SOLD,ellbeau
+New York Giants,180,SOLD,jerseyshorecards1
+Philadelphia Eagles,74,SOLD,ellbeau
+Pittsburgh Steelers,82,SOLD,kadyndil
+San Francisco 49ers,83,SOLD,willzcardzz
+Seattle Seahawks,63,SOLD,chux1027
+Tampa Bay Buccaneers,30,SOLD,thepindoctor
+Tennessee Titans,61,SOLD,tacteam1
+Washington Commanders,67,SOLD,chux1027
+MISC,42,SOLD,woody_1976
+#6,82,SOLD,kadyndil
+#7,88,SOLD,kadyndil
+#21,59,SOLD,meykel67
+#24,59,SOLD,thepindoctor
+#31,49,SOLD,woody_1976
+#34,89,SOLD,woody_1976
+#36,1,OPEN,

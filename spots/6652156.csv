@@ -1,34 +1,42 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-Miscellaneous,,OPEN,
+Arizona Cardinals,58,SOLD,jlcoffey2020
+Atlanta Falcons,41,SOLD,amgsportsrips
+Baltimore Ravens,89,SOLD,amgsportsrips
+Buffalo Bills,86,SOLD,amgsportsrips
+Carolina Panthers,32,SOLD,amgsportsrips
+Chicago Bears,114,SOLD,jason97732
+Cincinnati Bengals,113,SOLD,amgsportsrips
+Cleveland Browns,171,SOLD,jy_younggunz
+Dallas Cowboys,145,SOLD,mrsnyder
+Denver Broncos,117,SOLD,jason97732
+Detroit Lions,140,SOLD,amgsportsrips
+Green Bay Packers,127,SOLD,amgsportsrips
+Houston Texans,112,SOLD,amgsportsrips
+Indianapolis Colts,84,SOLD,amgsportsrips
+Jacksonville Jaguars,122,SOLD,hutch801
+Kansas City Chiefs,130,SOLD,willriv43766
+Las Vegas Raiders,140,SOLD,jason97732
+Los Angeles Chargers,127,SOLD,bigtfromvv
+Los Angeles Rams,121,SOLD,jy_younggunz
+Minnesota Vikings,145,SOLD,uniquename1
+New England Patriots,149,SOLD,mrsnyder
+New Orleans Saints,117,SOLD,mjskradski
+New York Giants,180,SOLD,jy_younggunz
+New York Jets,56,SOLD,jlcoffey2020
+Philadelphia Eagles,127,SOLD,jy_younggunz
+Pittsburgh Steelers,98,SOLD,amgsportsrips
+San Francisco 49ers,115,SOLD,ifyouskunkmeurg4y
+Seattle Seahawks,115,SOLD,amgsportsrips
+Tampa Bay Buccaneers,1,SOLD,amgsportsrips
+Tennessee Titans,127,SOLD,rt89
+Washington Commanders,125,SOLD,hutch801
+Miscellaneous,41,SOLD,amgsportsrips
+#3,116,SOLD,hutch801
+#9,121,SOLD,hutch801
+#12,130,SOLD,ifyouskunkmeurg4y
+#16,120,SOLD,amgsportsrips
+#18,150,SOLD,hutch801
+#25,140,SOLD,mrsnyder
+#28,141,SOLD,mrsnyder
+#32,140,SOLD,jy_younggunz
+#41,1,OPEN,

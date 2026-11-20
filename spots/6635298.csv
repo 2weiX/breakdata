@@ -1,33 +1,41 @@
 spot,price,state,buyer
 Arizona Cardinals,62,OPEN,
-Atlanta Falcons,12.6,SOLD,4th_down_finds
+Atlanta Falcons,18,OPEN,
 Baltimore Ravens,28,OPEN,
 Buffalo Bills,58,OPEN,
 Carolina Panthers,22,OPEN,
 Chicago Bears,58,OPEN,
 Cincinnati Bengals,38,OPEN,
 Cleveland Browns,38,OPEN,
-Dallas Cowboys,25,SOLD,bobice1
+Dallas Cowboys,31,OPEN,
 Denver Broncos,28,OPEN,
 Detroit Lions,29,OPEN,
-Green Bay Packers,15.4,SOLD,4th_down_finds
-Houston Texans,7.7,SOLD,4th_down_finds
+Green Bay Packers,22,OPEN,
+Houston Texans,11,OPEN,
 Indianapolis Colts,15,OPEN,
-Jacksonville Jaguars,14.7,SOLD,4th_down_finds
+Jacksonville Jaguars,21,OPEN,
 Kansas City Chiefs,102,OPEN,
 Las Vegas Raiders,130,OPEN,
 Los Angeles Chargers,19,OPEN,
 Los Angeles Rams,65,OPEN,
-Miami Dolphins,12.6,SOLD,4th_down_finds
-Minnesota Vikings,13.3,SOLD,4th_down_finds
+Miami Dolphins,18,OPEN,
+Minnesota Vikings,19,OPEN,
 New England Patriots,82,OPEN,
 New Orleans Saints,36,OPEN,
 New York Giants,44,OPEN,
 New York Jets,30,OPEN,
 Philadelphia Eagles,29,OPEN,
-Pittsburgh Steelers,18.2,SOLD,carolinacollex
+Pittsburgh Steelers,26,OPEN,
 San Francisco 49ers,42,OPEN,
 Seattle Seahawks,45,OPEN,
 Tampa Bay Buccaneers,38,OPEN,
 Tennessee Titans,35,OPEN,
 Washington Commanders,25,OPEN,
+#2,18,SOLD,4th_down_finds
+#9,31,SOLD,bobice1
+#12,22,SOLD,4th_down_finds
+#13,11,SOLD,4th_down_finds
+#15,21,SOLD,4th_down_finds
+#20,18,SOLD,4th_down_finds
+#21,19,SOLD,4th_down_finds
+#27,26,SOLD,carolinacollex

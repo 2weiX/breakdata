@@ -1,16 +1,12 @@
 spot,price,state,buyer
-Atlanta Falcons,20,OPEN,
+Atlanta Falcons,10,SOLD,bucee740
 "Chicago Bears, Vikings",70,SOLD,chriswil19975
 Cincinnati Bengals,35,SOLD,lucasbar38466
-Cleveland Browns,30,OPEN,
-Green Bay Packers,35,OPEN,
-Indianapolis Colts,20,OPEN,
+Indianapolis Colts,2,SOLD,sirslabs
 Las Vegas Raiders,95,SOLD,dailyripzzz
-Los Angeles Chargers,25,OPEN,
-Miami Dolphins,25,OPEN,
+Miami Dolphins,12,SOLD,jaysogoated420
 "New England Patriots, Broncos, Bucs",110,SOLD,thegiver
-New Orleans Saints,45,OPEN,
 New York Jets,16,SOLD,maverick_breaks
-Pittsburgh Steelers,25,OPEN,
 "Arizona Cardinals,Jags,Ravens, 49ers, Seahawks, Lions",140,SOLD,chriswil19975
 "New York Giants, Eagles, Commanders",60,SOLD,thegiver
+"Cleveland Browns, Packers, Saints",42,SOLD,jaysogoated420

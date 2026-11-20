@@ -2,14 +2,11 @@ spot,price,state,buyer
 #1,20,OPEN,
 #2,20,OPEN,
 #3,20,OPEN,
-#4,20,OPEN,
 #5,20,OPEN,
 #6,20,OPEN,
 #7,20,OPEN,
 #8,20,OPEN,
-#9,20,OPEN,
 #10,20,OPEN,
-#11,20,OPEN,
 #12,20,OPEN,
 #13,20,OPEN,
 Miami Dolphins,20,SOLD,webernation
@@ -23,3 +20,6 @@ Miami Dolphins,20,SOLD,webernation
 #22,20,OPEN,
 #23,20,OPEN,
 #24,20,OPEN,
+New Orleans Saints,20,SOLD,simplegreg
+San Francisco 49ers,20,SOLD,simplegreg
+Los Angeles Rams,20,SOLD,simplegreg

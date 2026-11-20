@@ -1,5 +1,5 @@
 spot,price,state,buyer
-Arizona Cardinals,20,OPEN,
+Arizona Cardinals,20,SOLD,wezzieb
 Atlanta Falcons,12,OPEN,
 Baltimore Ravens,15,OPEN,
 Buffalo Bills,15,SOLD,brandonlab46946
@@ -12,7 +12,7 @@ Denver Broncos,12,SOLD,bluearcsportscards
 Detroit Lions,15,OPEN,
 Green Bay Packers,15,OPEN,
 Houston Texans,15,OPEN,
-Indianapolis Colts,15,OPEN,
+Indianapolis Colts,15,SOLD,katek12934
 Jacksonville Jaguars,15,OPEN,
 Kansas City Chiefs,15,SOLD,nohuddlerips
 Las Vegas Raiders,20,SOLD,kent9999
@@ -22,7 +22,7 @@ Minnesota Vikings,15,OPEN,
 New England Patriots/Buccs,20,SOLD,rayg79
 New Orleans Saints,15,OPEN,
 New York Giants,12.75,SOLD,randrsportscards
-New York Jets,20,OPEN,
+New York Jets,20,SOLD,wezzieb
 Philadelphia Eagles,12,OPEN,
 Pittsburgh Steelers,12,SOLD,benniepue
 Seattle Seahawks,15,OPEN,

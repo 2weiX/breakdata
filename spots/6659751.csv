@@ -1,40 +1,31 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-BIG10,,OPEN,
-SEC,,OPEN,
-BIG12,,OPEN,
-ACC,,OPEN,
-PAC 12,,OPEN,
-Notre Dame & UCONN (Independents),,OPEN,
-Group of G5 ,,OPEN,
+Arizona Cardinals,7,SOLD,bullstodie
+Baltimore Ravens,6,SOLD,keithtaylor3m
+Carolina Panthers,12,SOLD,gmo5984
+Chicago Bears,9,SOLD,browtine
+Cincinnati Bengals,8,SOLD,bullstodie
+Cleveland Browns,6,SOLD,gmo5984
+Denver Broncos,10,SOLD,philj101786
+Detroit Lions,7,SOLD,gmo5984
+Jacksonville Jaguars,8,SOLD,bullstodie
+Kansas City Chiefs,6,SOLD,keithtaylor3m
+Las Vegas Raiders,8,SOLD,philj101786
+Los Angeles Chargers,6,SOLD,tbowen4
+Los Angeles Rams,5.95,SOLD,riehledavid
+Minnesota Vikings,7,SOLD,gmo5984
+New Orleans Saints,8,SOLD,ericboe
+New York Giants,7,SOLD,bullstodie
+Philadelphia Eagles,6,SOLD,keithtaylor3m
+San Francisco 49ers,6,SOLD,keithtaylor3m
+Seattle Seahawks,8,SOLD,bullstodie
+Tampa Bay Buccaneers,1,SOLD,keithtaylor3m
+Tennessee Titans,8,SOLD,ericboe
+Washington Commanders,10,SOLD,philj101786
+BIG10,5,SOLD,bullstodie
+SEC,7,SOLD,gmo5984
+BIG12,10.2,SOLD,keithtaylor3m
+ACC,5.95,SOLD,keithtaylor3m
+PAC 12,6,SOLD,ericboe
+Notre Dame & UCONN (Independents),15,SOLD,philj101786
+trade,8,SOLD,philj101786
+#30,1,OPEN,

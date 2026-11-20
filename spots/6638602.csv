@@ -1,20 +1,18 @@
 spot,price,state,buyer
 Arizona Cardinals,60,OPEN,
-Atlanta Falcons,10,OPEN,
-Baltimore Ravens,20,OPEN,
+Atlanta Falcons,5,SOLD,steelcitycrush
 Carolina Panthers,15,OPEN,
 Cleveland Browns,20,OPEN,
 Detroit Lions,12,SOLD,letsgetcards77
-Houston Texans,10,OPEN,
+Houston Texans,7,SOLD,christianhay64373
 Indianapolis Colts,15,OPEN,
 Jacksonville Jaguars,25,OPEN,
 Las Vegas Raiders,60,OPEN,
 Los Angeles Chargers,20,OPEN,
 Miami Dolphins,15,OPEN,
-New Orleans Saints,20,OPEN,
-New York Giants,20,OPEN,
 New York Jets,15,OPEN,
 San Francisco 49ers,35,OPEN,
 Seattle Seahawks,20,OPEN,
 Tampa Bay Buccaneers,30,OPEN,
-Tennessee Titans,25,OPEN,
+Baltimore Ravens/Titans,35,SOLD,steelcitycrush
+New Orleans Saints/ Giants,30,SOLD,001collectorscove

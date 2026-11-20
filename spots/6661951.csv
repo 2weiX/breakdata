@@ -1,33 +1,36 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+Arizona Cardinals,22,SOLD,bigfootforthedub
+Atlanta Falcons,15,SOLD,theo_knowlty25
+Baltimore Ravens,17,SOLD,diesel1205
+Buffalo Bills,24,SOLD,jschejbal19
+Carolina Panthers,15,SOLD,bigfootforthedub
+Chicago Bears,25,SOLD,jschejbal19
+Cincinnati Bengals,15,SOLD,bigfootforthedub
+Cleveland Browns,16,SOLD,walterdun67817
+Dallas Cowboys,15,SOLD,walterdun67817
+Denver Broncos,16,SOLD,jcb0318
+Detroit Lions,15,SOLD,spennyssports
+Green Bay Packers,18,SOLD,walterdun67817
+Houston Texans,16,SOLD,bigfootforthedub
+Indianapolis Colts,17,SOLD,walterdun67817
+Jacksonville Jaguars,18,SOLD,walterdun67817
+Kansas City Chiefs,11,SOLD,jcb0318
+Las Vegas Raiders,17,SOLD,spennyssports
+Los Angeles Chargers,19,SOLD,jschejbal19
+Los Angeles Rams,16,SOLD,jones5664
+Miami Dolphins,15,SOLD,walterdun67817
+Minnesota Vikings,16,SOLD,walterdun67817
+New England Patriots,22,SOLD,theo_knowlty25
+New Orleans Saints,12,SOLD,stankyhanke
+New York Giants,15,SOLD,jones5664
+New York Jets,16,SOLD,shashabooiii
+Philadelphia Eagles,17,SOLD,jschejbal19
+Pittsburgh Steelers,18,SOLD,jschejbal19
+San Francisco 49ers,14,SOLD,diesel1205
+Seattle Seahawks,12,SOLD,diesel1205
+Tampa Bay Buccaneers,15,SOLD,bigfootforthedub
+Tennessee Titans,13,SOLD,diesel1205
+Washington Commanders,12,SOLD,walterdun67817
+TRADE,16,SOLD,spennyssports
+TRADE,15,SOLD,diesel1205
+TRADE,12,SOLD,diesel1205

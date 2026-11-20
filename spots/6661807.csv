@@ -1,5 +1,4 @@
 spot,price,state,buyer
-#1,34,SOLD,brandonbor13631
 Dolphins,36,SOLD,bshearman333bsh
 Vikings,37,SOLD,brandonbor13631
 Ravens,26,SOLD,brandonbor13631
@@ -15,23 +14,30 @@ Giants,13,SOLD,x_joshin_x
 Independents,16,SOLD,brandonbor13631
 Commanders,30,SOLD,sparky_hammer
 Cardinals,20,SOLD,oldintheway
-#17,18,SOLD,x_joshin_x
 Saints,17,SOLD,jtg3
 Panthers,23,SOLD,skarr1338
 Raiders,32,SOLD,brandonbor13631
 Chiefs,22,SOLD,oldintheway
-#22,21,SOLD,brandonbor13631
 Steelers,32,SOLD,brandonbor13631
 Lions,36,SOLD,brandonbor13631
 49ers,36,SOLD,bshearman333bsh
 Falcons,34,SOLD,brandonbor13631
 Titans,21,SOLD,brandonbor13631
-#28,23,SOLD,jtg3
-#29,27,SOLD,brandonbor13631
 Cowboys,23,SOLD,jtg3
 Big 12,33,SOLD,nooch128
 Buccaneers,17,SOLD,x_joshin_x
 Jets,18,SOLD,x_joshin_x
 Jaguars,19,SOLD,jheath34
 Browns,18,SOLD,oldintheway
-#36,1,OPEN,
+TRADE 1,34,SOLD,brandonbor13631
+TRADE 2,18,SOLD,x_joshin_x
+TRADE 3,21,SOLD,brandonbor13631
+TARDE 4,23,SOLD,jtg3
+TRADE 5,27,SOLD,brandonbor13631
+Texans,19,SOLD,x_joshin_x
+Colts,23,SOLD,bshearman333bsh
+Seahawks,27,SOLD,teapot1978
+Chargers,25,SOLD,jtg3
+Packers,17,SOLD,x_joshin_x
+Patriots,25,SOLD,jtg3
+Bengals,15,SOLD,teapot1978

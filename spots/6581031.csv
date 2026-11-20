@@ -1,6 +1,6 @@
 spot,price,state,buyer
 Arizona Cardinals,159,OPEN,
-Atlanta Falcons,54,OPEN,
+Atlanta Falcons,47,SOLD,jeffjan23
 Buffalo Bills,139,SOLD,el_huhn
 Carolina Panthers,74,OPEN,
 Chicago Bears,129,SOLD,bjwormuth
@@ -22,7 +22,7 @@ New England Patriots,150,SOLD,roughberlin
 New Orleans Saints,67.2,SOLD,fabian_93
 New York Giants,109,OPEN,
 New York Jets,89,OPEN,
-Philadelphia Eagles,89,OPEN,
+Philadelphia Eagles,79,SOLD,jeffjan23
 Pittsburgh Steelers,75.6,SOLD,jbtradcards
 San Francisco 49ers,99,SOLD,butkau
 Seattle Seahawks,104,OPEN,
