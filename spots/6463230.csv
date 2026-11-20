@@ -1,0 +1,40 @@
+spot,price,state,buyer
+Buffalo Bills,101,SOLD,vegasmann
+New York Giants,101,SOLD,vegasmann
+#3,105,SOLD,vegasmann
+Los Angeles Rams,106,SOLD,vegasmann
+Cincinnati Bengals,106,SOLD,vegasmann
+Los Angeles Chargers,106,SOLD,vegasmann
+Indianapolis Colts,112,SOLD,dask1223
+Minnesota Vikings,106,SOLD,vegasmann
+#9,106,SOLD,vegasmann
+#10,98,SOLD,terminaltakes
+New England Patriots,102,SOLD,terminaltakes
+Dallas Cowboys,88,SOLD,vegasmann
+Philadelphia Eagles,78,SOLD,vegasmann
+San Francisco 49ers,82,SOLD,zomtristan
+Denver Broncos,63,SOLD,vegasmann
+Chicago Bears,67,SOLD,vegasmann
+Atlanta Falcons,55,SOLD,vegasmann
+Kansas City Chiefs,52,SOLD,rambin
+#19,44,SOLD,vegasmann
+#20,55,SOLD,vegasmann
+Green Bay Packers,43,SOLD,rambin
+Seattle Seahawks,34,SOLD,rambin
+Cleveland Browns,36,SOLD,astory306
+#24,51,SOLD,argyleeaglecards11
+Jacksonville Jaguars,50,SOLD,dask1223
+Baltimore Ravens,40,SOLD,argyleeaglecards11
+MISC,42,SOLD,rambin
+Las Vegas Raiders,30,SOLD,wisco1719
+#29,54,SOLD,jleo071986
+Detroit Lions,53,SOLD,jleo071986
+Pittsburgh Steelers,64,SOLD,jleo071986
+Tampa Bay Buccaneers,76,SOLD,jleo071986
+Washington Commanders,28,SOLD,jleo071986
+Houston Texans,36,SOLD,gonzoman717
+Carolina Panthers,3,SOLD,jameshung
+New Orleans Saints,5,SOLD,jameshung
+Tennessee Titans,7,SOLD,dior_and_downtowns
+Arizona Cardinals,3,SOLD,rambin
+"Miami Dolphins, New York Jets",8,SOLD,dask1223

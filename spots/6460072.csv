@@ -1,0 +1,25 @@
+spot,price,state,buyer
+"Chargers, Clippers, Dodgers",1,SOLD,richthename
+"Broncos, Nuggets, Rockies",3,SOLD,richthename
+"Steelers, Spurs, Pirates",4,SOLD,richthename
+"Jets, Nets, Mets, Liberty",1,SOLD,richthename
+"Giants, Knicks, Yankees",1,SOLD,richthename
+"Lions, Pistons, Tigers",1,SOLD,richthename
+"Ravens, SAC Kings, Orioles, Monarchs",1,SOLD,richthename
+"Eagles, 76ers, Phillies, Falcons, Hawks, Braves, Dream, Panthers, Hornets, POR Fire, Titans, Grizzlies, STL Cardinals",32,SOLD,cravenjmo23
+"Bengals, Reds, Conn SUN, Buccaneers, Magic, Rays, Colts, Pacers, White Sox, Fever, Rams, Lakers, Angels, Sparks",32,SOLD,cravenjmo23
+"Cardinals, Diamondbacks,Suns, Mercury, Commanders, Wizards, Nationals, Mystics, Seahawks, Trail Blazers, Mariners, Storm, Texans, Rockets, Astros, Comets",32,SOLD,cravenjmo23
+"Bears, Bulls, Cubs, Sky",3,SOLD,cravenjmo23
+"Bills, Raptors, Blue Jays, Tempo",8,SOLD,cravenjmo23
+"Browns, Cavs, Guardians",5,SOLD,richthename
+"Cowboys, Mavericks, Rangers, Wings        
+        ",3,SOLD,richthename
+"Patriots, Celtics, Red Sox",2,SOLD,cravenjmo23
+"Chiefs. Thunder, Royals",3,SOLD,richthename
+"Jaguars, Padres",1,SOLD,richthename
+"Vikings, Wolves, Twins, Lynx",4,SOLD,richthename
+"49ers, Warriors, SFGiants, Valkaries",3,SOLD,johncasperjr
+"Packers, Bucks, Brewers",3,SOLD,richthename
+"Dolphins, Heat, Marlins",5,SOLD,richthename
+"Raiders, Jazz, Athletics, Aces",5,SOLD,johncasperjr
+"Saints, Pelicans",7,SOLD,richthename

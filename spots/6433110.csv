@@ -1,5 +1,4 @@
 spot,price,state,buyer
-Cleveland Browns,35,SOLD,jme_singles
 Los Angeles Chargers,38,SOLD,bustedknuckel
 Tennessee Titans,39,SOLD,dakinepulls808
 Baltimore Ravens,42,SOLD,rfz1123
@@ -30,7 +29,6 @@ Detroit Lions,42,SOLD,cheims09
 Indianapolis Colts,39,SOLD,tttran1044
 NUKE,43,SOLD,tttran1044
 Pittsburgh Steelers,46,SOLD,tj999915
-Green Bay Packers,44.65,SOLD,jme_singles
 Carolina Panthers,37,SOLD,tj999915
 Tampa Bay Buccaneers,44,SOLD,smalltowngifts
 Seattle Seahawks,44,SOLD,smalltowngifts
@@ -38,3 +36,5 @@ Houston Texans,49,SOLD,tj999915
 NUKE,51,SOLD,smalltowngifts
 Denver Broncos,41,SOLD,smalltowngifts
 MISC,57,SOLD,smalltowngifts
+Cleveland Browns,35,SOLD,jme_collection
+Green Bay Packers,44.65,SOLD,jme_collection
