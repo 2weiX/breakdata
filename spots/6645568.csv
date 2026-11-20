@@ -1,33 +1,33 @@
 spot,price,state,buyer
-#1,32,SOLD,patrick2601
-#2,12,SOLD,bjwormuth
-#4,25,SOLD,cassiorene
-#5,30,SOLD,glockenchili
-#6,27,SOLD,bjwormuth
-#7,27,SOLD,roughberlin
-#8,32,SOLD,valentino2104
-#9,32,OPEN,
-#10,28.8,SOLD,sucukpapi
-#11,32,OPEN,
-#12,32,SOLD,noluckjustchris
-#13,32,SOLD,168wqs168
-#14,27.2,SOLD,tak3r180
-#15,32,SOLD,makrele2000
-#16,30,SOLD,jjaa_
-#17,27,SOLD,roughberlin
-#18,32,SOLD,frank_yankee
-#19,32,OPEN,
-#20,32,OPEN,
-#21,32,OPEN,
-#22,32,SOLD,kleindominique87
-#23,28.8,SOLD,noluckjustchris
-#24,32,SOLD,justsomecardguy
-#25,32,SOLD,makrele2000
-#26,32,OPEN,
-#27,32,OPEN,
-#28,27,SOLD,buzzufo
-#29,30,SOLD,snapbackbreaks
-#30,32,OPEN,
-#31,32,SOLD,frank_yankee
-#32,27,SOLD,buzzufo
-#3,28.8,SOLD,karlklammer
+Cleveland Browns,32,SOLD,patrick2601
+Indianapolis Colts,12,SOLD,bjwormuth
+Baltimore Ravens,28.8,SOLD,karlklammer
+Philadelphia Eagles,25,SOLD,cassiorene
+Green Bay Packers,30,SOLD,glockenchili
+Buffalo Bills,27,SOLD,bjwormuth
+Miami Dolphins,27,SOLD,roughberlin
+Arizona Cardinals,32,SOLD,valentino2104
+Tennessee Titans,27,SOLD,roughberlin
+Jacksonville Jaguars,28.8,SOLD,sucukpapi
+New Orleans Saints,30,SOLD,168wqs168
+New York Giants,32,SOLD,noluckjustchris
+Dallas Cowboys,32,SOLD,168wqs168
+Las Vegas Raiders,27.2,SOLD,tak3r180
+Tampa Bay Buccaneers,32,SOLD,makrele2000
+Atlanta Falcons,30,SOLD,jjaa_
+Kansas City Chiefs,27,SOLD,roughberlin
+Chicago Bears,32,SOLD,frank_yankee
+Houston Texans,30,SOLD,168wqs168
+Denver Broncos,30,SOLD,patrick2601
+Los Angeles Rams,27,SOLD,glockenchili
+San Francisco 49ers,32,SOLD,kleindominique87
+Seattle Seahawks,28.8,SOLD,noluckjustchris
+New York Jets,32,SOLD,justsomecardguy
+Minnesota Vikings,32,SOLD,makrele2000
+Washington Commanders,27,SOLD,mafi2003
+Detroit Lions,27,SOLD,gkgkggg
+Carolina Panthers,27,SOLD,buzzufo
+Cincinnati Bengals,30,SOLD,snapbackbreaks
+New England Patriots,27,SOLD,kleindominique87
+Los Angeles Chargers,32,SOLD,frank_yankee
+Pittsburgh Steelers,27,SOLD,buzzufo

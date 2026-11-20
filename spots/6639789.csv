@@ -1,20 +1,34 @@
 spot,price,state,buyer
+Dallas Cowboys,1,SOLD,kriech42
+Los Angeles Chargers,19,SOLD,rt89
 Arizona Cardinals,1,SOLD,mrittmer
 Atlanta Falcons,16,SOLD,mrittmer
 Carolina Panthers,16,SOLD,mrittmer
-Cleveland Browns,17,SOLD,loganjeffries
-Dallas Cowboys,1,SOLD,kriech42
-Denver Broncos,30,SOLD,vanni72781
-Detroit Lions,16,SOLD,rt89
-Kansas City Chiefs,20,SOLD,ppccardz
-Las Vegas Raiders,30,SOLD,mrittmer
-Los Angeles Chargers,19,SOLD,rt89
-Los Angeles Rams,21,SOLD,vanni72781
-Minnesota Vikings,1,SOLD,vanni72781
 New England Patriots,15,SOLD,mrittmer
-New Orleans Saints,17,SOLD,rt89
-New York Giants,21,SOLD,mrittmer
-Philadelphia Eagles,20,SOLD,rt89
+Denver Broncos,30,SOLD,vanni72781
 Pittsburgh Steelers,23,SOLD,vanni72781
 San Francisco 49ers,21,SOLD,vanni72781
-#19,1,OPEN,
+Los Angeles Rams,21,SOLD,vanni72781
+Philadelphia Eagles,20,SOLD,rt89
+Minnesota Vikings,1,SOLD,vanni72781
+New York Giants,21,SOLD,mrittmer
+Las Vegas Raiders,30,SOLD,mrittmer
+Cleveland Browns,17,SOLD,loganjeffries
+Detroit Lions,16,SOLD,rt89
+New Orleans Saints,17,SOLD,rt89
+Kansas City Chiefs,20,SOLD,ppccardz
+Seattle Seahawks,16,SOLD,rt89
+Miscellaneous,17,SOLD,ppccardz
+Buffalo Bills,16,SOLD,mrittmer
+Houston Texans,20,SOLD,mrittmer
+Jacksonville Jaguars,32,SOLD,mrittmer
+Cincinnati Bengals,19,SOLD,ppccardz
+Baltimore Ravens,13,SOLD,vanni72781
+Indianapolis Colts,12,SOLD,cardsrfun1772
+Washington Commanders,15,SOLD,mrittmer
+New York Jets,20,SOLD,vanni72781
+Tampa Bay Buccaneers,9,SOLD,mrittmer
+Green Bay Packers,17,SOLD,vanni72781
+Tennessee Titans,22,SOLD,mrittmer
+Miami Dolphins,25,SOLD,vanni72781
+Chicago Bears,26,SOLD,vanni72781

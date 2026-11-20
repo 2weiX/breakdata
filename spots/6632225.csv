@@ -1,8 +1,8 @@
 spot,price,state,buyer
 Arizona Cardinals,65,SOLD,chiryan
-Atlanta Falcons,30,OPEN,
+Atlanta Falcons,30,SOLD,gmo5984
 Buffalo Bills,52,SOLD,philj101786
-Carolina Panthers,45,OPEN,
+Carolina Panthers,30,SOLD,gmo5984
 Chicago Bears,50,SOLD,nccards92
 Cincinnati Bengals,36,SOLD,philj101786
 Cleveland Browns,42.5,SOLD,mattdylan0408
@@ -19,14 +19,14 @@ Los Angeles Chargers,28,SOLD,mroside760
 Los Angeles Rams,65,SOLD,ginodig
 Miami Dolphins,28,SOLD,shawnconklin730
 New England Patriots,52,SOLD,chetche19554
-New Orleans Saints,50,OPEN,
+New Orleans Saints,38,SOLD,gmo5984
 New York Giants,44,SOLD,rmink845
 New York Jets,55,SOLD,chiryan
 Philadelphia Eagles,38,SOLD,gmo5984
-Pittsburgh Steelers,45,OPEN,
+Pittsburgh Steelers,36,SOLD,gmo5984
 San Francisco 49ers,50,SOLD,wjlyons4
 Seattle Seahawks,48,SOLD,keithtaylor3m
 Tampa Bay Buccaneers,44,SOLD,margage78726
-Tennessee Titans,65,OPEN,
+Tennessee Titans,49,SOLD,ginodig
 Washington Commanders,40,SOLD,gmo5984
 Vikings + Ravens,70,SOLD,vmcardshop

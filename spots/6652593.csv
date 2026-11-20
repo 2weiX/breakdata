@@ -1,5 +1,4 @@
 spot,price,state,buyer
-BRONCOS,10,SOLD,kingbishop85
 Chaser 2🔥,31,SOLD,jawdog
 #2,22,SOLD,jawdog
 Chaser 9🔥,18,SOLD,redspidereye
@@ -15,7 +14,7 @@ Chaser 12🔥,16,SOLD,tylerhen44159
 #13,9,SOLD,tylerhen44159
 #14,16,SOLD,danielgar39863
 #15,12,SOLD,class_a_sports
-BUCCANEERS,16,SOLD,jawdog
+#16,16,SOLD,jawdog
 #17,16,SOLD,class_a_sports
 Chaser 10🔥,20,SOLD,class_a_sports
 #19,15,SOLD,joshuak2334
@@ -35,7 +34,38 @@ STEELERS,17,SOLD,tes7897
 JETS,14,SOLD,tylerhen44159
 Chaser 5🔥,17,SOLD,joshuak2334
 Chaser 4🔥,11,SOLD,kingbishop85
-INDEPENDENT,10,SOLD,jacksonada88829
-BIG 12,10,SOLD,jacksonada88829
+BRONCOS,10,SOLD,kingbishop85
+#37,10,SOLD,jacksonada88829
+#38,10,SOLD,jacksonada88829
 Chaser 7🔥,11,SOLD,jacksonada88829
-#40,1,OPEN,
+#40,10,SOLD,aumakua
+#41,11,SOLD,aumakua
+EAGLES,12,SOLD,tes7897
+#43,8,SOLD,aumakua
+#44,13,SOLD,aumakua
+HIGH SCHOOL,13,SOLD,aumakua
+TITANS,15,SOLD,jacksonada88829
+#47,13,SOLD,jawdog
+BROWNS,12,SOLD,jawdog
+#49,12,SOLD,hensley419
+#50,7,SOLD,hensley419
+#51,15,SOLD,chrisdude
+#52,19,SOLD,chrisdude
+SEC,34,SOLD,chrisdude
+Chaser 6🔥,17,SOLD,chrisdude
+ACC,17,SOLD,hensley419
+BIG 10,9,SOLD,davefor87129
+INDEPENDENT,10,SOLD,davefor87129
+BIG 12,15,SOLD,johnnnyb123
+Chaser 8🔥,11,SOLD,rg333329
+BIG SKY,8,SOLD,rg333329
+RAMS,17,SOLD,rg333329
+BILLS,13,SOLD,jaypatty0485
+SEAHAWKS,19,SOLD,jaypatty0485
+BUCCANEERS,1,SOLD,rg333329
+PATRIOTS,7,SOLD,rg333329
+49ERS,5,SOLD,rg333329
+BENGALS,13,SOLD,rg333329
+PANTHERS,5,SOLD,aumakua
+TEXANS,7,SOLD,rg333329
+SAINTS,42,SOLD,chadbal47453

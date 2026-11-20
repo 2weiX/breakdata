@@ -1,34 +1,38 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-NIL,,OPEN,
+Chicago Bears,680,SOLD,wegmark
+T,650,SOLD,wegmark
+T,660,SOLD,wegmark
+Cleveland Browns,655,SOLD,wegmark
+San Francisco 49ers,655,SOLD,wegmark
+Pittsburgh Steelers,520,SOLD,muleyfreak
+T,645,SOLD,wegmark
+Philadelphia Eagles,651,SOLD,wegmark
+T,609,SOLD,wegmark
+Los Angeles Rams,645,SOLD,wegmark
+Kansas City Chiefs,300,SOLD,pokinets
+Los Angeles Chargers,270,SOLD,briesh81437
+Dallas Cowboys,180,SOLD,pokinets
+New York Giants,420,SOLD,wegmark
+T,360,SOLD,wegmark
+New England Patriots,250,SOLD,muleyfreak
+T,105,SOLD,wegmark
+T,265,SOLD,wegmark
+NIL,236,SOLD,wegmark
+Seattle Seahawks,125,SOLD,briesh81437
+Cincinnati Bengals,160,SOLD,make_me_rich
+Denver Broncos,162,SOLD,briesh81437
+T,173,SOLD,muleyfreak
+T,141,SOLD,pokinets
+Buffalo Bills,115,SOLD,wegmark
+Carolina Panthers,121,SOLD,wegmark
+T,156,SOLD,wegmark
+Houston Texans,35,SOLD,jerg43
+Atlanta Falcons,96,SOLD,aldog714
+Minnesota Vikings,98,SOLD,aldog714
+T,97,SOLD,jerg43
+T,108,SOLD,wegmark
+Detroit Lions,103,SOLD,wegmark
+Washington Commanders,74,SOLD,klinezac
+Tampa Bay Buccaneers,101,SOLD,wegmark
+T,91,SOLD,make_me_rich
+#37,1,OPEN,

@@ -1,34 +1,26 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons*,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears*,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys*,,OPEN,
-Denver Broncos*,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars*,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders*,,OPEN,
-Los Angeles Chargers*,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins*,,OPEN,
-Minnesota Vikings*,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants*,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers*,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-MISC*,,OPEN,
+Minnesota Vikings*,9,SOLD,waterview9320
+New York Jets,10,SOLD,waterview9320
+MISC*,12,SOLD,joeman_01
+Detroit Lions,10,SOLD,waterview9320
+Buffalo Bills,11,SOLD,andrewlahr
+Miami Dolphins*,11,SOLD,waterview9320
+Houston Texans,12,SOLD,hannahbear14
+Las Vegas Raiders*,11,SOLD,hannahbear14
+Los Angeles Chargers*,16,SOLD,andrewlahr
+New England Patriots,14,SOLD,andrewlahr
+Dallas Cowboys*,13,SOLD,waterview9320
+Los Angeles Rams,11,SOLD,mason_8
+Cincinnati Bengals,13,SOLD,rebmat420
+Chicago Bears,16,SOLD,aintnowaybro
+Baltimore Ravens,13,SOLD,aintnowaybro
+Tampa Bay Buccaneers,14,SOLD,aintnowaybro
+#17,1,SOLD,andrewlahr
+San Francisco 49ers,10,SOLD,andrewlahr
+Kansas City Chiefs,15,SOLD,aintnowaybro
+Green Bay Packers,15,SOLD,aintnowaybro
+#21,1,SOLD,mason_8
+#22,2,SOLD,jwil1979
+Arizona Cardinals,11,SOLD,waterview9320
+Cleveland Browns,14,SOLD,hannahbear14
+Pittsburgh Steelers*,14,SOLD,waterview9320

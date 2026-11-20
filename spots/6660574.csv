@@ -1,33 +1,29 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+Houston Texans,8,SOLD,py420
+Kansas City Chiefs,8,SOLD,py420
+Tennessee Titans,8,SOLD,paulwaul
+New Orleans Saints,8,SOLD,mikejones0906
+Las Vegas Raiders,8,SOLD,el_bandidohq
+Baltimore Ravens,8,SOLD,mikejones0906
+Washington Commanders,8,SOLD,mikejones0906
+Buffalo Bills,8,SOLD,mikejones0906
+Arizona Cardinals,8,SOLD,mikejones0906
+Jacksonville Jaguars,8,SOLD,mikejones0906
+New England Patriots,8,SOLD,mikejones0906
+San Francisco 49ers,9,SOLD,mikejones0906
+Cincinnati Bengals,10,SOLD,el_bandidohq
+Los Angeles Rams,10,SOLD,cardboardhustlerz
+New York Giants,8,SOLD,mikejones0906
+Detroit Lions,8,SOLD,mikejones0906
+Philadelphia Eagles,8,SOLD,py420
+Dallas Cowboys,8,SOLD,mikejones0906
+Chicago Bears,8,SOLD,mikejones0906
+Seattle Seahawks,8,SOLD,mikejones0906
+Minnesota Vikings,8,SOLD,mikejones0906
+Indianapolis Colts,8,SOLD,cardboardhustlerz
+New York Jets,8,SOLD,mikejones0906
+Pittsburgh Steelers,8,SOLD,mikejones0906
+Cleveland Browns,8,SOLD,mikejones0906
+Tampa Bay Buccaneers,6,SOLD,mikejones0906
+Green Bay Packers,6,SOLD,paulwaul
+#28,1,OPEN,

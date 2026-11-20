@@ -1,5 +1,5 @@
 spot,price,state,buyer
-Indiana,108,OPEN,
+Indiana,108,SOLD,barretttravis63
 Iowa State,27,SOLD,nasnic27059
 Kansas State,23,SOLD,nasnic27059
 Michigan,31,SOLD,nasnic27059
@@ -7,11 +7,11 @@ Mississippi State,54,SOLD,barretttravis63
 Missouri,45,SOLD,barretttravis63
 Nebraska,32,SOLD,barretttravis63
 Ohio State,180,SOLD,45bucknut18
-Oklahoma,45,OPEN,
+Oklahoma,42.75,SOLD,jruss50
 Oklahoma State,63,SOLD,barretttravis63
 Ole Miss,45,SOLD,barretttravis63
 Texas,54,SOLD,jayohhhh17
-Texas Tech,36,OPEN,
-UCLA,75,OPEN,
-USC,54,OPEN,
+Texas Tech,36,SOLD,barretttravis63
+UCLA,75,SOLD,nasnic27059
+USC,54,SOLD,ricky_ds_cards
 West Virginia,28,SOLD,nasnic27059
