@@ -1,0 +1,31 @@
+spot,price,state,buyer
+#1,30,SOLD,trevor23whitcher
+Buffalo Bills,7,SOLD,cbckiggins12
+Carolina Panthers,26,SOLD,cbckiggins12
+Pittsburgh Steelers,27,SOLD,trevor23whitcher
+New Orleans Saints,30,SOLD,cbckiggins12
+#6,30,SOLD,cartercar93579
+New England Patriots,38,SOLD,tommy_southard
+Chicago Bears,25,SOLD,cbckiggins12
+Washington Commanders,22,SOLD,miketh620
+San Francisco 49ers,27,SOLD,sullie519
+Miami Dolphins,27,SOLD,trevor23whitcher
+Las Vegas Raiders,21,SOLD,miketh620
+Detroit Lions,17,SOLD,bp_3316
+Tampa Bay Buccaneers,14,SOLD,miketh620
+#15,21,SOLD,chase_theory
+Kansas City Chiefs,19,SOLD,chase_theory
+Los Angeles Rams,24,SOLD,chase_theory
+Los Angeles Chargers,27,SOLD,chase_theory
+Green Bay Packers,23,SOLD,chase_theory
+New York Giants,19,SOLD,kn_ripz
+Indianapolis Colts,27,SOLD,melmel23291
+Baltimore Ravens,32,SOLD,valdez33
+"Jacksonville Jaguars, Tennessee Titans",42,SOLD,valdez33
+New York Jets,19,SOLD,kn_ripz
+Houston Texans,22,SOLD,valdez33
+Denver Broncos,23,SOLD,kn_ripz
+Minnesota Vikings,22,SOLD,melmel23291
+Arizona Cardinals,32,SOLD,rileybeinreal
+Dallas Cowboys,34,SOLD,rileybeinreal
+#30,1,OPEN,

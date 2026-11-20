@@ -1,6 +1,5 @@
 spot,price,state,buyer
 #1,7,OPEN,
-#2,7,OPEN,
 #3,7,OPEN,
 Jacksonville Jaguars,7,SOLD,ato38
 Kansas City Chiefs,7,SOLD,alex889cards
@@ -31,3 +30,4 @@ New York Jets,7,SOLD,jensrh
 New York Giants,7,SOLD,mightytim84
 Detroit Lions,5.95,SOLD,alex889cards
 Los Angeles Chargers,6.5,SOLD,alex889cards
+Pittsburgh Steelers,6,SOLD,bighoffes80

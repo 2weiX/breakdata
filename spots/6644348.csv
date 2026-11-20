@@ -1,0 +1,33 @@
+spot,price,state,buyer
+Arizona Cardinals,18,OPEN,
+Atlanta Falcons,6,OPEN,
+Baltimore Ravens,12,OPEN,
+Buffalo Bills,11,SOLD,jcl_cards
+Carolina Panthers,9,OPEN,
+Chicago Bears,13,OPEN,
+Cincinnati Bengals,13,OPEN,
+Cleveland Browns,10,OPEN,
+Dallas Cowboys,12,OPEN,
+Denver Broncos,10,OPEN,
+Detroit Lions,9,OPEN,
+Green Bay Packers,9,OPEN,
+Houston Texans,7,OPEN,
+Indianapolis Colts,7,OPEN,
+Jacksonville Jaguars,10,OPEN,
+Kansas City Chiefs,18,OPEN,
+Las Vegas Raiders,28,OPEN,
+Los Angeles Chargers,6,OPEN,
+Los Angeles Rams,13,SOLD,2sonscards
+Miami Dolphins,9,OPEN,
+Minnesota Vikings,8,SOLD,jcl_cards
+New England Patriots,20,OPEN,
+New Orleans Saints,11,OPEN,
+New York Giants,12,OPEN,
+New York Jets,10,OPEN,
+Philadelphia Eagles,10,OPEN,
+Pittsburgh Steelers,9,OPEN,
+San Francisco 49ers,10.4,SOLD,snedds03
+Seattle Seahawks,8,SOLD,snedds03
+Tampa Bay Buccaneers,16,OPEN,
+Tennessee Titans,7,SOLD,rebel1320
+Washington Commanders,9,OPEN,

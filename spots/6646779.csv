@@ -1,0 +1,30 @@
+spot,price,state,buyer
+Buffalo Bills,300,SOLD,case_or_skunk
+Pittsburgh Steelers,310,SOLD,tunaboyz415
+New York Giants,315,SOLD,tunaboyz415
+Cincinnati Bengals,325,SOLD,taaang
+Detroit Lions,320,SOLD,case_or_skunk
+#6,321,SOLD,taaang
+Minnesota Vikings,333,SOLD,tunaboyz415
+Cleveland Browns,320,SOLD,case_or_skunk
+#9,340,SOLD,jkirish1
+Dallas Cowboys,371,SOLD,jkirish1
+Los Angeles Rams,375,SOLD,jkirish1
+#12,340,SOLD,case_or_skunk
+#13,363,SOLD,tunaboyz415
+Los Angeles Chargers,365,SOLD,tunaboyz415
+#15,335,SOLD,case_or_skunk
+Green Bay Packers,313,SOLD,case_or_skunk
+#17,331,SOLD,tunaboyz415
+#18,315,SOLD,tunaboyz415
+San Francisco 49ers,175,SOLD,case_or_skunk
+#20,13,SOLD,case_or_skunk
+Washington Commanders,225,SOLD,case_or_skunk
+#22,155,SOLD,cardshark02
+Chicago Bears,160,SOLD,cardshark02
+Jacksonville Jaguars,105,SOLD,alderman333
+New England Patriots,100,SOLD,alderman333
+#26,112,SOLD,case_or_skunk
+Indianapolis Colts,94,SOLD,one2bob
+#28,57,SOLD,alderman333
+#29,1,OPEN,
