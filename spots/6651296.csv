@@ -1,33 +1,18 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+Atlanta Falcons,10,SOLD,marlon04
+Buffalo Bills,22,SOLD,anthonywar
+Chicago Bears,12,SOLD,anthonywar
+Cleveland Browns,13,SOLD,mfelice83
+Dallas Cowboys,10,SOLD,anthonywar
+Denver Broncos,19,SOLD,anthonywar
+Detroit Lions,13,SOLD,adambla60226
+Green Bay Packers,6,SOLD,snappertapper
+Kansas City Chiefs,21,SOLD,motorman_1966
+Las Vegas Raiders,11,SOLD,anthonywar
+New York Giants,16,SOLD,anthonywar
+Pittsburgh Steelers,10,SOLD,anthonywar
+San Francisco 49ers,23,SOLD,igotthatfireshun
+Seattle Seahawks,11,SOLD,marlon04
+Tampa Bay Buccaneers,20,SOLD,igotthatfireshun
+Washington Commanders,9,SOLD,snappertapper
+#17,1,OPEN,

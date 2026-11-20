@@ -1,33 +1,35 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+Arizona Cardinals,4,SOLD,bdubscardz
+Atlanta Falcons,5,SOLD,flips3030
+Baltimore Ravens,1,SOLD,bdubscardz
+Buffalo Bills,2,SOLD,bdubscardz
+Carolina Panthers,3,SOLD,flips3030
+Chicago Bears,5,SOLD,flips3030
+Cincinnati Bengals,3,SOLD,nichau49116
+Cleveland Browns,4,SOLD,flips3030
+Dallas Cowboys,1,SOLD,flips3030
+Denver Broncos,5,SOLD,nichau49116
+Detroit Lions,2,SOLD,nichau49116
+Green Bay Packers,2,SOLD,flips3030
+Houston Texans,1,SOLD,bdubscardz
+Indianapolis Colts,5,SOLD,flips3030
+Jacksonville Jaguars,1,SOLD,flips3030
+Kansas City Chiefs,3,SOLD,flips3030
+Las Vegas Raiders,3,SOLD,bdubscardz
+Los Angeles Chargers,2,SOLD,flips3030
+Los Angeles Rams,5,SOLD,flips3030
+Miami Dolphins,3,SOLD,flips3030
+Minnesota Vikings,3,SOLD,flips3030
+New England Patriots,3,SOLD,flips3030
+New Orleans Saints,2,SOLD,flips3030
+New York Giants,3,SOLD,nichau49116
+New York Jets,2,SOLD,flips3030
+Philadelphia Eagles,3,SOLD,flips3030
+Pittsburgh Steelers,2,SOLD,flips3030
+San Francisco 49ers,4,SOLD,flips3030
+Seattle Seahawks,4,SOLD,nichau49116
+Tampa Bay Buccaneers,5,SOLD,nichau49116
+Tennessee Titans,3,SOLD,flips3030
+Washington Commanders,2,SOLD,bdubscardz
+#17,1,SOLD,flips3030
+NIL,21,SOLD,bdubscardz

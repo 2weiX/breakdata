@@ -1,21 +1,18 @@
 spot,price,state,buyer
 Arizona Cardinals,99,OPEN,
 Atlanta Falcons,16,SOLD,oatsharpgaming
-Baltimore Ravens,39,OPEN,
-Buffalo Bills,85,OPEN,
-Dallas Cowboys,64,OPEN,
-Green Bay Packers,35,OPEN,
-Houston Texans,25,OPEN,
-Jacksonville Jaguars,39,OPEN,
-Las Vegas Raiders,159,OPEN,
-Los Angeles Chargers,39,OPEN,
-Los Angeles Rams,115,OPEN,
-Miami Dolphins,29,OPEN,
+Baltimore Ravens,28,SOLD,saltyfoxn
+Green Bay Packers,25,SOLD,roughberlin
+Houston Texans,3,SOLD,danielber23
+Jacksonville Jaguars,39,SOLD,derek_mayer
+Los Angeles Rams,115,SOLD,derek_mayer
+Miami Dolphins,20.3,SOLD,antonio_sanchez
 New Orleans Saints,59,OPEN,
-New York Giants,55,OPEN,
+New York Giants,38.5,SOLD,js5cards
 New York Jets,55,OPEN,
-Pittsburgh Steelers,65,OPEN,
-Seattle Seahawks,69,OPEN,
+Pittsburgh Steelers,45.5,SOLD,gkgkggg
+Seattle Seahawks,45,SOLD,makrele2000
 Tampa Bay Buccaneers,72,OPEN,
-Tennessee Titans,72,OPEN,
+Tennessee Titans,72,SOLD,derek_mayer
 Washington Commanders,49,OPEN,
+Dallas Cowboys + raiders + chargers + bills,223,SOLD,stephanjun

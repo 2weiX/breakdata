@@ -1,34 +1,48 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-Miscellaneous,,OPEN,
+Arizona Cardinals,101,SOLD,carrollcomics98
+Atlanta Falcons,146,SOLD,lookingtobuynow
+Baltimore Ravens,142,SOLD,brownkyl8
+Buffalo Bills,140,SOLD,lookingtobuynow
+Carolina Panthers,142,SOLD,hutch801
+Chicago Bears,145,SOLD,lookingtobuynow
+Cincinnati Bengals,115,SOLD,lookingtobuynow
+Cleveland Browns,102,SOLD,lookingtobuynow
+Dallas Cowboys,145,SOLD,lookingtobuynow
+Denver Broncos,101,SOLD,lookingtobuynow
+Detroit Lions,145,SOLD,lookingtobuynow
+Green Bay Packers,111,SOLD,omw2fyb219
+Houston Texans,88,SOLD,carrollcomics98
+Indianapolis Colts,111,SOLD,dpturnerjr
+Jacksonville Jaguars,87,SOLD,lookingtobuynow
+Kansas City Chiefs,119,SOLD,lookingtobuynow
+Las Vegas Raiders,140,SOLD,hutch801
+Los Angeles Chargers,170,SOLD,billybobtheclown
+Los Angeles Rams,145,SOLD,brownkyl8
+Miami Dolphins,108,SOLD,lambchops79
+Minnesota Vikings,160,SOLD,lookingtobuynow
+New England Patriots,155,SOLD,hutch801
+New Orleans Saints,90,SOLD,lambchops79
+New York Giants,130,SOLD,lookingtobuynow
+New York Jets,110,SOLD,brandonkurskiaz
+Philadelphia Eagles,136,SOLD,omw2fyb219
+Pittsburgh Steelers,142,SOLD,brownkyl8
+San Francisco 49ers,119,SOLD,lookingtobuynow
+Seattle Seahawks,137,SOLD,lookingtobuynow
+Tampa Bay Buccaneers,139,SOLD,omw2fyb219
+Tennessee Titans,90,SOLD,lambchops79
+Washington Commanders,120,SOLD,billybobtheclown
+Miscellaneous,126,SOLD,billybobtheclown
+#2,105,SOLD,omw2fyb219
+#3,150,SOLD,hutch801
+#4,122,SOLD,lookingtobuynow
+#9,150,SOLD,brownkyl8
+#10,150,SOLD,billybobtheclown
+#16,175,SOLD,billybobtheclown
+#17,160,SOLD,billybobtheclown
+#20,146,SOLD,brownkyl8
+#23,125,SOLD,lookingtobuynow
+#28,120,SOLD,lookingtobuynow
+#32,110,SOLD,lookingtobuynow
+#37,117,SOLD,lookingtobuynow
+#38,111,SOLD,lookingtobuynow
+#39,111,SOLD,lookingtobuynow

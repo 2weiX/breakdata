@@ -1,34 +1,39 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-MISC,,OPEN,
+Arizona Cardinals,19,SOLD,jmoney_247
+Atlanta Falcons,25,SOLD,phill_mianis
+Baltimore Ravens,89,SOLD,_marshall1
+Buffalo Bills,99,SOLD,phill_mianis
+Carolina Panthers,85,SOLD,ryanhan41096
+Chicago Bears,85,SOLD,willriv43766
+Cincinnati Bengals,97,SOLD,ryanhan41096
+Cleveland Browns,96,SOLD,phill_mianis
+Dallas Cowboys,85,SOLD,phill_mianis
+Denver Broncos,60,SOLD,ryanhan41096
+Detroit Lions,89,SOLD,ryanhan41096
+Green Bay Packers,102,SOLD,ryanhan41096
+Houston Texans,20,SOLD,knasby
+Indianapolis Colts,50,SOLD,phill_mianis
+Jacksonville Jaguars,104,SOLD,wildcats2686
+Kansas City Chiefs,102,SOLD,ryanhan41096
+Las Vegas Raiders,92,SOLD,endzonechasers
+Los Angeles Chargers,105,SOLD,wildcats2686
+Los Angeles Rams,108,SOLD,delidad3
+Miami Dolphins,47,SOLD,01chief
+Minnesota Vikings,50,SOLD,beezythatguy515
+New England Patriots,94,SOLD,endzonechasers
+New Orleans Saints,18,SOLD,phill_mianis
+New York Giants,99,SOLD,_marshall1
+New York Jets,15,SOLD,knasby
+Philadelphia Eagles,97,SOLD,delidad3
+Pittsburgh Steelers,106,SOLD,endzonechasers
+San Francisco 49ers,90,SOLD,endzonechasers
+Seattle Seahawks,100,SOLD,_marshall1
+Tampa Bay Buccaneers,21,SOLD,knasby
+Tennessee Titans,85,SOLD,beezythatguy515
+Washington Commanders,101,SOLD,01chief
+MISC,89,SOLD,masonriver
+T,85,SOLD,phill_mianis
+T,91,SOLD,endzonechasers
+T,106,SOLD,01chief
+T,65,SOLD,endzonechasers
+T,46,SOLD,01chief

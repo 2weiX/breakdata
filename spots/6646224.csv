@@ -1,33 +1,33 @@
 spot,price,state,buyer
 Las Vegas Raiders,19,OPEN,
-Arizona Cardinals,18,OPEN,
+Arizona Cardinals,9,SOLD,wiz714sportscards
 Tennessee Titans,17,OPEN,
-Los Angeles Rams,17,OPEN,
-Dallas Cowboys,14,OPEN,
+Los Angeles Rams,17,SOLD,2sonscards
+Dallas Cowboys,6,SOLD,wiz714sportscards
 New England Patriots,14,OPEN,
 Philadelphia Eagles,13,OPEN,
-Buffalo Bills,13,OPEN,
-Kansas City Chiefs,13,OPEN,
+Buffalo Bills,13,SOLD,wiz714sportscards
+Kansas City Chiefs,23,SOLD,redkingdom01
 Cleveland Browns,12,OPEN,
-Seattle Seahawks,12,OPEN,
+Seattle Seahawks,12,SOLD,jnut77
 San Francisco 49ers,12,OPEN,
 New Orleans Saints,11,OPEN,
 New York Jets,11,OPEN,
 Washington Commanders,11,OPEN,
 Baltimore Ravens,10,OPEN,
-Cincinnati Bengals,10,OPEN,
-Chicago Bears,10,OPEN,
-Denver Broncos,9,OPEN,
+Cincinnati Bengals,14,SOLD,jnut77
+Chicago Bears,15,SOLD,whiskyrocks
+Denver Broncos,9,SOLD,wiz714sportscards
 Pittsburgh Steelers,9,OPEN,
-Green Bay Packers,9,OPEN,
-Tampa Bay Buccaneers,9,OPEN,
-Detroit Lions,9,OPEN,
-Carolina Panthers,9,OPEN,
-New York Giants,9,OPEN,
-Los Angeles Chargers,8,OPEN,
-Minnesota Vikings,8,OPEN,
-Miami Dolphins,7,OPEN,
-Houston Texans,6,OPEN,
-Indianapolis Colts,6,OPEN,
-Jacksonville Jaguars,6,OPEN,
-Atlanta Falcons,5,OPEN,
+Green Bay Packers,9,SOLD,jnut77
+Tampa Bay Buccaneers,9,SOLD,wiz714sportscards
+Detroit Lions,9,SOLD,basementcards
+Carolina Panthers,2,SOLD,whiskyrocks
+New York Giants,9,SOLD,bigbluehitfactory
+Los Angeles Chargers,4,SOLD,jnut77
+Minnesota Vikings,5,SOLD,wiz714sportscards
+Miami Dolphins,1,SOLD,wiz714sportscards
+Houston Texans,3,SOLD,jnut77
+Indianapolis Colts,4,SOLD,jnut77
+Jacksonville Jaguars,5,SOLD,jnut77
+Atlanta Falcons,7,SOLD,jnut77

@@ -4,18 +4,17 @@ Atlanta Falcons,20,OPEN,
 Baltimore Ravens,22.5,SOLD,yumz
 Buffalo Bills,45,OPEN,
 Carolina Panthers,27,SOLD,yumz
-Chicago Bears,40,OPEN,
-Cincinnati Bengals,40,OPEN,
+Chicago Bears,40,SOLD,ms_weber
 Cleveland Browns,35,OPEN,
 Dallas Cowboys,40,OPEN,
 Denver Broncos,30,OPEN,
 Detroit Lions,25.5,SOLD,jaymewisc
-Green Bay Packers,30,OPEN,
+Green Bay Packers,30,SOLD,ms_weber
 Houston Texans,30,OPEN,
 Indianapolis Colts,25,OPEN,
-Jacksonville Jaguars,40,OPEN,
-Kansas City Chiefs,55,OPEN,
-Las Vegas Raiders,75,OPEN,
+Jacksonville Jaguars,40,SOLD,ms_weber
+Kansas City Chiefs,55,SOLD,ms_weber
+Las Vegas Raiders,75,SOLD,ms_weber
 Los Angeles Chargers,20,OPEN,
 Los Angeles Rams,45,OPEN,
 Miami Dolphins,16,SOLD,mysticmarkets
@@ -27,7 +26,8 @@ New York Jets,30,OPEN,
 Philadelphia Eagles,35,OPEN,
 Pittsburgh Steelers,30,OPEN,
 San Francisco 49ers,40,OPEN,
-Seattle Seahawks,30,OPEN,
+Seattle Seahawks,30,SOLD,brycel86
 Tampa Bay Buccaneers,21,SOLD,727kickz
 Tennessee Titans,55,OPEN,
 Washington Commanders,30,OPEN,
+Cincinnati Bengals AND AN NBA FAT PACK,0,SOLD,dogfather56

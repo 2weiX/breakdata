@@ -1,2 +1,18 @@
 spot,price,state,buyer
-#1,1,OPEN,
+Buffalo Bills,5,SOLD,jyale21
+Chicago Bears,5,SOLD,vincesvintages
+Detroit Lions,5,SOLD,vincesvintages
+Houston Texans,5,SOLD,vincesvintages
+Atlanta Falcons,5,SOLD,vincesvintages
+Indianapolis Colts,5,SOLD,vincesvintages
+Carolina Panthers,5,SOLD,vincesvintages
+San Francisco 49ers,5,SOLD,vincesvintages
+Minnesota Vikings,5,SOLD,richie_reed
+Los Angeles Rams,5,SOLD,landynthib
+Kansas City Chiefs,5,SOLD,richie_reed
+New England Patriots,5,SOLD,landynthib
+Denver Broncos,4,SOLD,richie_reed
+Jacksonville Jaguars,4,SOLD,richie_reed
+Philadelphia Eagles,4,SOLD,landynthib
+Arizona Cardinals,4,SOLD,richie_reed
+#17,1,OPEN,

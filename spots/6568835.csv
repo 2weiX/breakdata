@@ -1,11 +1,9 @@
 spot,price,state,buyer
 Arizona Cardinals,52,SOLD,kondi_tcs
-Atlanta Falcons,35,OPEN,
 Baltimore Ravens,22,SOLD,michfrei
 Buffalo Bills,51,SOLD,koeter88
 Carolina Panthers,26,SOLD,fibo1029
-Cincinnati Bengals,45,OPEN,
-Cleveland Browns,65,OPEN,
+Cleveland Browns,65,SOLD,mjjunior90
 Dallas Cowboys,50,SOLD,maxrox72
 Denver Broncos,45,SOLD,fritte97
 Detroit Lions,29.75,SOLD,silvianeu
@@ -14,19 +12,19 @@ Houston Texans,22,SOLD,mosquitotito
 Indianapolis Colts,30,OPEN,
 Jacksonville Jaguars,35,OPEN,
 Las Vegas Raiders,125,SOLD,1pepe
-Los Angeles Rams,75,OPEN,
-Miami Dolphins,25,OPEN,
+Los Angeles Rams,60,SOLD,bjwormuth
+Miami Dolphins,25,SOLD,atm81
 Minnesota Vikings,21,SOLD,totocards
-New England Patriots,88,OPEN,
+New England Patriots,80,SOLD,hahoherobin
 New Orleans Saints,40,SOLD,mosquitotito
-New York Giants,77,OPEN,
-New York Jets,77,OPEN,
+New York Giants,61.6,SOLD,hahoherobin
+New York Jets,65.45,SOLD,tobigr19
 Philadelphia Eagles,62,OPEN,
 Pittsburgh Steelers,52,OPEN,
 San Francisco 49ers,42,SOLD,latradingcards82
 Seattle Seahawks,38.25,SOLD,snapbackbreaks
-Tampa Bay Buccaneers,77,OPEN,
-Tennessee Titans,77,OPEN,
+Tampa Bay Buccaneers,70,SOLD,hahoherobin
+Tennessee Titans,61.6,SOLD,hahoherobin
 Washington Commanders,50,OPEN,
 Chicago Bears,63.75,SOLD,kondi_tcs
 Kansas City Chiefs,60,SOLD,chrisrlz

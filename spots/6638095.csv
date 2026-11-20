@@ -1,33 +1,15 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+Atlanta Falcons,36,SOLD,cardboardovergroceries
+Baltimore Ravens,38,SOLD,bouchiboi
+Buffalo Bills,38,SOLD,bouchiboi
+Carolina Panthers,40,SOLD,gordojay1991
+Cleveland Browns,39,SOLD,cardboardovergroceries
+Denver Broncos,37,SOLD,denalidylan
+Detroit Lions,30,SOLD,swifty07
+Green Bay Packers,45,SOLD,cardboardovergroceries
+Jacksonville Jaguars,40,SOLD,bouchiboi
+Las Vegas Raiders,40,SOLD,gordojay1991
+New Orleans Saints,39,SOLD,jayc5680
+Philadelphia Eagles,46,SOLD,gordojay1991
+Seattle Seahawks,38,SOLD,jayc5680
+#14,1,OPEN,

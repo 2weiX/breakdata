@@ -1,12 +1,12 @@
 spot,price,state,buyer
-Baltimore Ravens,305,SOLD,jkirish1
+Baltimore Ravens,210,SOLD,grishane
 Buffalo Bills,405,SOLD,jkirish1
 Cleveland Browns,343,SOLD,boston8899
-Detroit Lions,340,SOLD,kidelm
+Detroit Lions,333,SOLD,bbailey777
 Houston Texans,320,SOLD,mahomesfan1
 Kansas City Chiefs,400,SOLD,mahomesfan1
 Los Angeles Rams,345,SOLD,boston8899
-New Orleans Saints,350,SOLD,mahomesfan1
+New Orleans Saints,160,SOLD,hd_breakz
 New York Giants,455,SOLD,jkirish1
 San Francisco 49ers,350,SOLD,boston8899
 #2,425,SOLD,boston8899
@@ -16,4 +16,33 @@ San Francisco 49ers,350,SOLD,boston8899
 #14,330,SOLD,jkirish1
 #16,310,SOLD,kidelm
 #17,300,SOLD,mahomesfan1
-#18,315,SOLD,mahomesfan1
+#1,305,SOLD,jkirish1
+#10,350,SOLD,mahomesfan1
+#15,340,SOLD,kidelm
+Chicago Bears,315,SOLD,mahomesfan1
+Green Bay Packers,300,SOLD,andrewf85
+#20,302,SOLD,andrewf85
+#21,310,SOLD,andrewf85
+Minnesota Vikings,325,SOLD,andrewf85
+Los Angeles Chargers,324,SOLD,kidelm
+#24,310,SOLD,andrewf85
+#25,304,SOLD,andrewf85
+#26,317,SOLD,bbailey777
+Cincinnati Bengals,341,SOLD,bbailey777
+Dallas Cowboys,355,SOLD,jkirish1
+Philadelphia Eagles,127,SOLD,andrewf85
+#31,300,SOLD,bbailey777
+Atlanta Falcons,215,SOLD,jy_younggunz
+Seattle Seahawks,195,SOLD,bbailey777
+#34,150,SOLD,jy_younggunz
+#35,285,SOLD,bbailey777
+New England Patriots,285,SOLD,bbailey777
+MISC,270,SOLD,bbailey777
+Carolina Panthers,149,SOLD,hd_breakz
+Washington Commanders,310,SOLD,grishane
+Arizona Cardinals,310,SOLD,grishane
+"Las Vegas Raiders, New York Jets",420,SOLD,miketigs54
+"Denver Broncos, Jacksonville Jaguars",435,SOLD,grishane
+"Indianapolis Colts, Miami Dolphins",495,SOLD,miketigs54
+Pittsburgh Steelers,795,SOLD,grishane
+"Tampa Bay Buccaneers, Tennessee Titans",225,SOLD,jy_younggunz

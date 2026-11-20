@@ -1,6 +1,6 @@
 spot,price,state,buyer
 Alabama,69,OPEN,
-Arizona,9,OPEN,
+Arizona,2,SOLD,ripperjones36
 Arizona State,30,SOLD,dkz1314
 Arkansas,25,SOLD,jeremyd8
 Auburn,25,OPEN,
@@ -11,7 +11,7 @@ Boston College,5,SOLD,jeremyd8
 California,58.88,SOLD,jeremyd8
 Cincinnati,25,OPEN,
 Clemson,30,SOLD,adarob88868
-Colorado,14,OPEN,
+Colorado,11,SOLD,bricktamland415
 Delaware,15,SOLD,ju1ior
 Josh Allen - Firebaugh High School,19,SOLD,bombsquad_sportscards
 Florida,59,OPEN,
@@ -20,27 +20,26 @@ Fresno State,4,SOLD,ripperjones36
 Georgia,49,OPEN,
 Houston and Akron,13,SOLD,demcanes
 Illinois,29,OPEN,
-Indiana,89,OPEN,
+Indiana,55,SOLD,jlightning77
 Iowa State and Caleb Williams High School Spot,27,SOLD,mattyrd9
 Peyton Manning - Isidore Newman School,15.2,SOLD,5starcardcollectables
 Kansas,35,OPEN,
 Kansas State,20,SOLD,nittanylion506
 Kentucky,59,OPEN,
-LSU,39,OPEN,
+LSU,25,SOLD,jeremyd8
 Louisiana,16.1,SOLD,breaks_by_u
 Louisville,8,SOLD,tcorn01
-Maryland,12,OPEN,
+Maryland,7,SOLD,jeremyd8
 Miami / Duke,140,SOLD,eeikevik
 Michigan,79,OPEN,
 Michigan State,21,SOLD,jeremiahwood
 Minnesota,3,SOLD,ripperjones36
-Mississippi State,149,OPEN,
+Mississippi State,110,SOLD,bricktamland415
 Missouri,29,OPEN,
 NC State,2,SOLD,ripperjones36
 Nebraska,49,OPEN,
-New Mexico,9,OPEN,
+New Mexico,5,SOLD,jeremyd8
 North Carolina,14,SOLD,waynehags91
-Northwestern,15,OPEN,
 Notre Dame,140,SOLD,handcuffs
 Ohio State,45,SOLD,waynehags91
 Oklahoma,29,SOLD,johnnymo70
@@ -49,7 +48,7 @@ Ole Miss,25,SOLD,dano1292
 Oregon,55,OPEN,
 Penn State,12,SOLD,andyr77
 Pittsburgh,31.2,SOLD,amg1204
-Purdue,22,OPEN,
+Purdue,17,SOLD,bricktamland415
 Rutgers,49,OPEN,
 SMU,22,OPEN,
 San Diego State,10,SOLD,cblade19
@@ -60,8 +59,7 @@ Tennessee,59,OPEN,
 Texas,189,OPEN,
 Texas A&M,59,OPEN,
 Texas State,12,SOLD,waynehags91
-Texas Tech,55,OPEN,
-Tulsa,12,OPEN,
+Texas Tech,40,SOLD,bricktamland415
 UCF,29,OPEN,
 UCLA,19,OPEN,
 UConn,14,OPEN,
@@ -79,3 +77,4 @@ Wyoming,11,OPEN,
 Washington State,7,SOLD,waynehags91
 Western Michigan,4.2,SOLD,ripperjones36
 TCU and Iowa,30,SOLD,shayne4zuma
+Northwestern and Tulsa,20,SOLD,jlightning77
