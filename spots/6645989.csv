@@ -1,33 +1,33 @@
 spot,price,state,buyer
-#1,8,SOLD,frank_yankee
-#2,8,SOLD,sucukpapi
-#3,8,SOLD,bauer95
-#4,8,SOLD,hustinho
-#5,8,SOLD,kondi_tcs
-#6,8,SOLD,bauer95
-#7,8,SOLD,veitkohnen
-#8,8,SOLD,derwirth
-#9,8,SOLD,matthiasradakovits83
-#10,8,SOLD,kondi_tcs
-#11,8,SOLD,matthiasradakovits83
-#12,8,SOLD,roughberlin
-#13,8,SOLD,smowhat
-#14,8,SOLD,marcmontana77
-#15,8,SOLD,torius82
-#16,8,SOLD,derwirth
-#17,8,SOLD,hustinho
-#18,8,OPEN,
-#19,8,OPEN,
-#20,8,OPEN,
-#21,8,OPEN,
-#22,8,SOLD,frank_yankee
-#23,8,SOLD,kondi_tcs
-#24,8,SOLD,frank_yankee
-#25,8,SOLD,smowhat
-#26,8,SOLD,boxbreakcorner
-#27,8,OPEN,
-#28,8,OPEN,
-#29,8,OPEN,
-#30,8,SOLD,hustinho
-#31,8,SOLD,ter_stenz1
-#32,8,SOLD,torius82
+New Orleans Saints,8,SOLD,frank_yankee
+New York Jets,8,SOLD,sucukpapi
+Pittsburgh Steelers,8,SOLD,bauer95
+Minnesota Vikings,8,SOLD,hustinho
+Washington Commanders,8,SOLD,kondi_tcs
+Los Angeles Rams,8,SOLD,bauer95
+Arizona Cardinals,8,SOLD,veitkohnen
+Tennessee Titans,8,SOLD,derwirth
+New York Giants,8,SOLD,matthiasradakovits83
+New England Patriots,8,SOLD,kondi_tcs
+Detroit Lions,8,SOLD,matthiasradakovits83
+Tampa Bay Buccaneers,8,SOLD,roughberlin
+Carolina Panthers,8,SOLD,smowhat
+San Francisco 49ers,8,SOLD,marcmontana77
+Chicago Bears,8,SOLD,torius82
+Las Vegas Raiders,8,SOLD,derwirth
+Seattle Seahawks,8,SOLD,hustinho
+Indianapolis Colts,8,SOLD,benjaminhinz
+Los Angeles Chargers,8,SOLD,nicozachas85
+Buffalo Bills,8,SOLD,benjaminhinz
+Atlanta Falcons,8,SOLD,benjaminhinz
+Cincinnati Bengals,8,SOLD,frank_yankee
+Cleveland Browns,8,SOLD,kondi_tcs
+Jacksonville Jaguars,8,SOLD,frank_yankee
+Baltimore Ravens,8,SOLD,smowhat
+Denver Broncos,8,SOLD,boxbreakcorner
+Green Bay Packers,8,SOLD,ernie474
+Houston Texans,8,SOLD,ernie474
+Miami Dolphins,8,SOLD,nicozachas85
+Kansas City Chiefs,8,SOLD,hustinho
+Philadelphia Eagles,8,SOLD,ter_stenz1
+Dallas Cowboys,8,SOLD,torius82
