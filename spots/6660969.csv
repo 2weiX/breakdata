@@ -1,0 +1,37 @@
+spot,price,state,buyer
+Dallas Cowboys,0,SOLD,edge34
+#2,69,SOLD,edge34
+Kansas City Chiefs,72,SOLD,edge34
+Chicago Bears,68,SOLD,edge34
+Los Angeles Chargers,64,SOLD,edge34
+#6,102,SOLD,edge34
+#7,101,SOLD,edge34
+Denver Broncos,105,SOLD,edge34
+Cleveland Browns,101,SOLD,edge34
+Washington Commanders,112,SOLD,edge34
+#11,120,SOLD,edge34
+NIL,101,SOLD,soniclv
+Minnesota Vikings,88,SOLD,bigdumper13
+Houston Texans,99,SOLD,mikemik141414
+Pittsburgh Steelers,63,SOLD,lickhitty
+#16,69,SOLD,lickhitty
+#17,65,SOLD,soniclv
+New York Giants,68,SOLD,mikebww13
+#19,65,SOLD,mikebww13
+Los Angeles Rams,74,SOLD,mikebww13
+#21,63,SOLD,mikebww13
+#22,66,SOLD,mikebww13
+Buffalo Bills,80,SOLD,mikemik141414
+Cincinnati Bengals,50,SOLD,rcustodio13
+#25,51,SOLD,rcustodio13
+Detroit Lions,42,SOLD,rcustodio13
+Jacksonville Jaguars,49,SOLD,rcustodio13
+#28,48,SOLD,soniclv
+Green Bay Packers,42,SOLD,rcustodio13
+#30,47,SOLD,soniclv
+Seattle Seahawks,50,SOLD,soniclv
+#32,53,SOLD,soniclv
+New England Patriots,56,SOLD,lesmo5738
+San Francisco 49ers,64,SOLD,soniclv
+Tennessee Titans,32,SOLD,lesmo5738
+#36,1,OPEN,

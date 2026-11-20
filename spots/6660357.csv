@@ -1,9 +1,9 @@
 spot,price,state,buyer
-#1,1250,SOLD,cristd5
-#2,1250,OPEN,
-#3,1250,SOLD,ucpike10
-#4,1250,OPEN,
-#5,1250,OPEN,
-#6,1250,OPEN,
-pike jory#7,1150,SOLD,ucpike10
-#8,1250,SOLD,theripsyndicate
+AFC East,1250,SOLD,cristd5
+AFC West,1250,SOLD,grishane
+AFC South,1250,SOLD,ucpike10
+NFC South,1150,SOLD,grishane
+NFC North,1150,SOLD,grishane
+NFC East,1150,SOLD,grishane
+NFC West,1150,SOLD,ucpike10
+AFC North,1250,SOLD,theripsyndicate

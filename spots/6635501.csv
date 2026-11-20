@@ -1,20 +1,20 @@
 spot,price,state,buyer
 Arizona Cardinals,415,OPEN,
 Atlanta Falcons,99,OPEN,
-Baltimore Ravens,159,OPEN,
-Buffalo Bills,299,OPEN,
-Carolina Panthers,175,OPEN,
-Chicago Bears,359,OPEN,
+Baltimore Ravens,112,SOLD,nealomcp
+Buffalo Bills,239,SOLD,flashgordon38727
+Carolina Panthers,140,SOLD,emperor_cards
+Chicago Bears,287.2,SOLD,bjwormuth
 Cleveland Browns,239,OPEN,
 Dallas Cowboys,199,OPEN,
 Denver Broncos,299,OPEN,
-Detroit Lions,169,OPEN,
+Detroit Lions,169,SOLD,schmittissportcards
 Green Bay Packers,135,SOLD,clx_13
 Houston Texans,99,OPEN,
 Indianapolis Colts,129,OPEN,
 Jacksonville Jaguars,169,OPEN,
 Kansas City Chiefs,455,OPEN,
-Las Vegas Raiders,659,OPEN,
+Las Vegas Raiders,490,SOLD,k_a_z
 Los Angeles Chargers,119,OPEN,
 Los Angeles Rams,399,OPEN,
 Miami Dolphins,145,OPEN,
@@ -23,11 +23,11 @@ New Orleans Saints,189,OPEN,
 New York Giants,289,OPEN,
 New York Jets,215,OPEN,
 Philadelphia Eagles,189,OPEN,
-Pittsburgh Steelers,175,OPEN,
+Pittsburgh Steelers,139,SOLD,1pepe
 Seattle Seahawks,269,SOLD,aigchr
 Tampa Bay Buccaneers,269,OPEN,
-Tennessee Titans,239,OPEN,
-Washington Commanders,199,OPEN,
+Tennessee Titans,239,SOLD,makrele2000
+Washington Commanders,159.2,SOLD,boblenny123
 Cincinnati Bengals,199,SOLD,shiningnba
 New England Patriots,399,SOLD,shiningnba
 San Francisco 49ers,189,SOLD,shiningnba

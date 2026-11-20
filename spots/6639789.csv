@@ -1,34 +1,20 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-Miscellaneous,,OPEN,
+Arizona Cardinals,1,SOLD,mrittmer
+Atlanta Falcons,16,SOLD,mrittmer
+Carolina Panthers,16,SOLD,mrittmer
+Cleveland Browns,17,SOLD,loganjeffries
+Dallas Cowboys,1,SOLD,kriech42
+Denver Broncos,30,SOLD,vanni72781
+Detroit Lions,16,SOLD,rt89
+Kansas City Chiefs,20,SOLD,ppccardz
+Las Vegas Raiders,30,SOLD,mrittmer
+Los Angeles Chargers,19,SOLD,rt89
+Los Angeles Rams,21,SOLD,vanni72781
+Minnesota Vikings,1,SOLD,vanni72781
+New England Patriots,15,SOLD,mrittmer
+New Orleans Saints,17,SOLD,rt89
+New York Giants,21,SOLD,mrittmer
+Philadelphia Eagles,20,SOLD,rt89
+Pittsburgh Steelers,23,SOLD,vanni72781
+San Francisco 49ers,21,SOLD,vanni72781
+#19,1,OPEN,

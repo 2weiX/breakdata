@@ -1,33 +1,26 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+Arizona Cardinals,11,SOLD,beachcard
+Baltimore Ravens,13,SOLD,cbasore1025
+Buffalo Bills,12,SOLD,krispykrebbles
+Cincinnati Bengals,14,SOLD,curtis_cards
+Dallas Cowboys,13,SOLD,curtis_cards
+Green Bay Packers,11,SOLD,beachcard
+Houston Texans,11,SOLD,breffni_k1
+Jacksonville Jaguars,15,SOLD,golab215fnr
+Kansas City Chiefs,14,SOLD,gmuns96
+Las Vegas Raiders,13,SOLD,beachcard
+Los Angeles Rams,15,SOLD,scruggsmc
+Minnesota Vikings,13,SOLD,gmuns96
+New York Giants,22,SOLD,breffni_k1
+New York Jets,10,SOLD,gmuns96
+Philadelphia Eagles,25,SOLD,jsha7
+San Francisco 49ers,10,SOLD,theathleticcollectors
+Tampa Bay Buccaneers,13,SOLD,beachcard
+Tennessee Titans,15,SOLD,scruggsmc
+"Atlanta Falcons, Los Angeles Chargers",11,SOLD,jsha7
+"Chicago Bears, Denver Broncos",20,SOLD,stello_co
+"Detroit Lions, Seattle Seahawks",24,SOLD,stello_co
+"New England Patriots, New Orleans Saints",27,SOLD,stello_co
+"Cleveland Browns, Washington Commanders",24,SOLD,vass05
+"Indianapolis Colts, Miami Dolphins",22,SOLD,krispykrebbles
+"Carolina Panthers, Pittsburgh Steelers",24,SOLD,hooligan19

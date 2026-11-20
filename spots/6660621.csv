@@ -1,0 +1,41 @@
+spot,price,state,buyer
+San Francisco 49ers,42,SOLD,ashbam92
+Philadelphia Eagles,39,SOLD,mrelkassassin
+Los Angeles Chargers,37,SOLD,arena2
+#4,35,SOLD,arena2
+New England Patriots,35,SOLD,arena2
+Tennessee Titans,36,SOLD,pinchmedisney
+#7,39,SOLD,pinchmedisney
+Cleveland Browns,35,SOLD,arena2
+Dallas Cowboys,37,SOLD,theashman
+MISC,35,SOLD,arena2
+#11,38,SOLD,ashbam92
+#12,35,SOLD,arena2
+#13,38,SOLD,theashman
+Indianapolis Colts,37,SOLD,joeyhol69561
+Buffalo Bills,33,SOLD,againtoday
+New Orleans Saints,36,SOLD,againtoday
+Denver Broncos,36,SOLD,ashbam92
+Detroit Lions,37,SOLD,theashman
+#19,26,SOLD,arena2
+#20,32,SOLD,theashman
+Baltimore Ravens,26,SOLD,theashman
+Green Bay Packers,31,SOLD,ashbam92
+Kansas City Chiefs,23,SOLD,theashman
+Cincinnati Bengals,30,SOLD,theashman
+Los Angeles Rams,29,SOLD,theashman
+New York Giants,28,SOLD,arena2
+New York Jets,30,SOLD,arena2
+Las Vegas Raiders,32,SOLD,mandybreaks
+Jacksonville Jaguars,30,SOLD,mandybreaks
+#30,32,SOLD,theashman
+Miami Dolphins,32,SOLD,theashman
+#32,30,SOLD,gonzalesduane
+Pittsburgh Steelers,35,SOLD,gonzalesduane
+Seattle Seahawks,36,SOLD,gonzalesduane
+Chicago Bears,38,SOLD,gonzalesduane
+Carolina Panthers,44,SOLD,gonzalesduane
+Houston Texans,32,SOLD,theashman
+Tampa Bay Buccaneers,35,SOLD,theashman
+Arizona Cardinals,34,SOLD,mandybreaks
+#40,1,OPEN,

@@ -1,6 +1,6 @@
 spot,price,state,buyer
 Arizona Cardinals,55,OPEN,
-Atlanta Falcons,25,OPEN,
+Atlanta Falcons,20,SOLD,zipless
 Ravens and Jags`,48,SOLD,301breakz
 Buffalo Bills,55,OPEN,
 Carolina Panthers,28,SOLD,cburt
@@ -8,7 +8,7 @@ Chicago Bears,38.25,SOLD,pellino1979
 Cincinnati Bengals,28,SOLD,fire_jlaw
 Cleveland Browns,50,OPEN,
 Dallas Cowboys,40,OPEN,
-Denver Broncos,45,OPEN,
+Denver Broncos,36,SOLD,mathewwel96605
 Detroit Lions,35,OPEN,
 Green Bay Packers,25,SOLD,extra_sharpe_cards
 Houston Texans,20,OPEN,

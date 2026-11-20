@@ -1,11 +1,11 @@
 spot,price,state,buyer
 Arizona Cardinals,105,OPEN,
 Atlanta Falcons,29,OPEN,
-Baltimore Ravens,39,OPEN,
+Baltimore Ravens,32,SOLD,flimmy
 Buffalo Bills,79,OPEN,
 Carolina Panthers,39,OPEN,
 Chicago Bears,99,OPEN,
-Cincinnati Bengals,45,OPEN,
+Cincinnati Bengals,45,SOLD,deno6768
 Cleveland Browns,65,OPEN,
 Dallas Cowboys,69,OPEN,
 Denver Broncos,69,OPEN,

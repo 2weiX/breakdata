@@ -1,30 +1,25 @@
 spot,price,state,buyer
-Arizona Cardinals,75,OPEN,
 Atlanta Falcons,20,SOLD,ktownrips
-Baltimore Ravens,40,OPEN,
 Buffalo Bills,42,SOLD,raisingthe_barr
-Carolina Panthers,25,OPEN,
-Chicago Bears,60,OPEN,
 Cincinnati Bengals,45,SOLD,heavy131711
-Cleveland Browns,40,OPEN,
+Cleveland Browns,20,SOLD,thekaisergrade
 Dallas Cowboys,40,SOLD,orirob
-Denver Broncos,45,OPEN,
+Denver Broncos,20,SOLD,stalefunyuns
 Detroit Lions,28,SOLD,kylevel
 Green Bay Packers,25,SOLD,vinny_the_mush
 Indianapolis Colts,5,SOLD,ktownrips
-Jacksonville Jaguars,35,OPEN,
 Kansas City Chiefs,50,SOLD,84sportscards
 Las Vegas Raiders,70,SOLD,pullinhoes
-Los Angeles Chargers,30,OPEN,
+Los Angeles Chargers,5,SOLD,stalefunyuns
 Los Angeles Rams,44,SOLD,bwiz84
 Miami Dolphins,15,SOLD,mattdylan0408
 Minnesota Vikings/Texans,20,SOLD,czarcards
-New England Patriots,60,OPEN,
-New Orleans Saints,55,OPEN,
-New York Giants,55,OPEN,
-Philadelphia Eagles,50,OPEN,
+New England Patriots,40,SOLD,84sportscards
 Pittsburgh Steelers,35,SOLD,smitman74
 San Francisco 49ers,40,SOLD,ktownrips
 Seattle Seahawks,10,SOLD,pgeezy206
 Washington Commanders,24,SOLD,tyland82
 Tampa Bay Buccaneers/Titans,65,SOLD,scotka
+Arizona Cardinals/Jags/Ravens,100,SOLD,stalefunyuns
+"Chicago Bears, Giants, Panthers",80,SOLD,defaque
+New Orleans Saints/Eagles,60,SOLD,stalefunyuns

@@ -1,20 +1,16 @@
 spot,price,state,buyer
-Arizona Cardinals,109,OPEN,
+Arizona Cardinals,89,SOLD,markalanmanny21
 Baltimore Ravens,33.15,SOLD,kingraven3
-Buffalo Bills,99,OPEN,
-Chicago Bears,99,OPEN,
 Cincinnati Bengals,35,SOLD,swaggypadre
-Cleveland Browns,69,OPEN,
 Denver Broncos,60,SOLD,matthewmcc86281
 Detroit Lions,34,SOLD,donohio
 Green Bay Packers,25,SOLD,texexblou
 Houston Texans,19,SOLD,texexblou
-Kansas City Chiefs,109,OPEN,
-Las Vegas Raiders,279,OPEN,
-Los Angeles Rams,99,OPEN,
+Kansas City Chiefs,89,SOLD,nypatriot
+Las Vegas Raiders,209,SOLD,markalanmanny21
 Miami Dolphins,39,SOLD,agless
 New England Patriots,119,SOLD,nypatriot
-New Orleans Saints,69,OPEN,
+New Orleans Saints,59,SOLD,suciodustin
 New York Giants,94,SOLD,nypatriot
 New York Jets,69,OPEN,
 Pittsburgh Steelers,40,SOLD,swarty11
@@ -23,3 +19,6 @@ Seattle Seahawks,59,SOLD,nate_s27
 Tampa Bay Buccaneers,44,SOLD,nypatriot
 Tennessee Titans,89,OPEN,
 Washington Commanders,59,SOLD,gknapp843
+BEARS & BROWNS COMBO,140,SOLD,stiegler028
+RAMS & COWBOYS COMBO,148,SOLD,stiegler028
+BILLS & EAGLES COMBO,150,SOLD,nate_s27

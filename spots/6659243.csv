@@ -1,88 +1,64 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-Alabama Crimson Tide (University of Alabama),,OPEN,
-Arkansas Razorbacks (University of Arkansas),,OPEN,
-Auburn Tigers (Auburn University),,OPEN,
-Florida Gators (University of Florida),,OPEN,
-Georgia Bulldogs (University of Georgia),,OPEN,
-Kentucky Wildcats (University of Kentucky),,OPEN,
-LSU Tigers (Louisiana State University),,OPEN,
-Mississippi State Bulldogs (Mississippi State University),,OPEN,
-Missouri Tigers (University of Missouri),,OPEN,
-Oklahoma Sooners (University of Oklahoma),,OPEN,
-Ole Miss Rebels (University of Mississippi),,OPEN,
-South Carolina Gamecocks (University of South Carolina),,OPEN,
-Tennessee Volunteers (University of Tennessee),,OPEN,
-Texas A&M Aggies (Texas A&M University),,OPEN,
-Texas Longhorns (University of Texas at Austin),,OPEN,
-Vanderbilt Commodores (Vanderbilt University,,OPEN,
-Illinois Fighting Illini,,OPEN,
-Indiana Hoosiers,,OPEN,
-Iowa Hawkeyes,,OPEN,
-Maryland Terrapins,,OPEN,
-Michigan Wolverines,,OPEN,
-Michigan State Spartans,,OPEN,
-Minnesota Golden Gophers,,OPEN,
-Nebraska Cornhuskers,,OPEN,
-Northwestern Wildcats,,OPEN,
-Ohio State Buckeyes,,OPEN,
-Oregon Ducks,,OPEN,
-Penn State Nittany Lions,,OPEN,
-Purdue Boilermakers,,OPEN,
-Rutgers Scarlet Knights,,OPEN,
-UCLA Bruins,,OPEN,
-USC Trojans,,OPEN,
-Washington Huskies,,OPEN,
-Wisconsin Badgers,,OPEN,
-Boston College Eagles,,OPEN,
-California Golden Bears (Cal),,OPEN,
-Clemson Tigers,,OPEN,
-Duke Blue Devils,,OPEN,
-Florida State Seminoles,,OPEN,
-Georgia Tech Yellow Jackets,,OPEN,
-Louisville Cardinals,,OPEN,
-Miami Hurricanes,,OPEN,
-NC State Wolfpack,,OPEN,
-North Carolina Tar Heels,,OPEN,
-Notre Dame Fighting Irish ,,OPEN,
-Pittsburgh (Pitt) Panthers,,OPEN,
-SMU Mustangs,,OPEN,
-Stanford Cardinal,,OPEN,
-Syracuse Orange,,OPEN,
-Virginia Cavaliers,,OPEN,
-Virginia Tech Hokies,,OPEN,
-Wake Forest Demon Deacon,,OPEN,
-BYU COUGARS,,OPEN,
-            OKLAHOMA STATE COWBOYS ,,OPEN,
-REST OF NIL NOT LISTED,,OPEN,
+Arizona Cardinals,10,SOLD,sambet5113
+Atlanta Falcons,7,SOLD,sambet5113
+Baltimore Ravens,7,SOLD,teamhardways
+Buffalo Bills,10,SOLD,jdngee
+Carolina Panthers,8,SOLD,tmoney678
+Chicago Bears,9,SOLD,suggahdaddy69
+Cincinnati Bengals,7,SOLD,teamhardways
+Dallas Cowboys,10,SOLD,suggahdaddy69
+Denver Broncos,7,SOLD,tmoney678
+Detroit Lions,9,SOLD,jdngee
+Green Bay Packers,8,SOLD,cnc671
+Houston Texans,10,SOLD,jdngee
+Indianapolis Colts,1,SOLD,suggahdaddy69
+Kansas City Chiefs,8,SOLD,tmoney678
+Las Vegas Raiders,7,SOLD,teamhardways
+Los Angeles Chargers,8,SOLD,jb49869
+Los Angeles Rams,10,SOLD,sambet5113
+Miami Dolphins,8,SOLD,tankalicousss
+Minnesota Vikings,6,SOLD,teamhardways
+New England Patriots,7,SOLD,tmoney678
+New York Giants,8,SOLD,suggahdaddy69
+New York Jets,8,SOLD,tankalicousss
+Philadelphia Eagles,8,SOLD,jdngee
+Pittsburgh Steelers,8,SOLD,jb49869
+San Francisco 49ers,9,SOLD,tankalicousss
+Tampa Bay Buccaneers,9.5,SOLD,jdngee
+Tennessee Titans,8,SOLD,jb49869
+Alabama Crimson Tide (University of Alabama),10,SOLD,skol4lyfe
+Arkansas Razorbacks (University of Arkansas),8,SOLD,jb49869
+Florida Gators (University of Florida),1,SOLD,tankalicousss
+LSU Tigers (Louisiana State University),9.5,SOLD,tankalicousss
+Oklahoma Sooners (University of Oklahoma),9,SOLD,tmoney678
+Ole Miss Rebels (University of Mississippi),8,SOLD,cnc671
+South Carolina Gamecocks (University of South Carolina),11,SOLD,jdngee
+Tennessee Volunteers (University of Tennessee),9.5,SOLD,jdngee
+Texas Longhorns (University of Texas at Austin),11,SOLD,tankalicousss
+Vanderbilt Commodores (Vanderbilt University,8,SOLD,suggahdaddy69
+Illinois Fighting Illini,10,SOLD,jdngee
+Indiana Hoosiers,10,SOLD,tmoney678
+Iowa Hawkeyes,7,SOLD,teamhardways
+Michigan State Spartans,1,SOLD,jb49869
+Ohio State Buckeyes,9,SOLD,jdngee
+Oregon Ducks,9,SOLD,jdngee
+Purdue Boilermakers,7,SOLD,teamhardways
+Rutgers Scarlet Knights,9,SOLD,tankalicousss
+UCLA Bruins,7,SOLD,teamhardways
+USC Trojans,9,SOLD,tankalicousss
+Washington Huskies,6,SOLD,teamhardways
+California Golden Bears (Cal),9,SOLD,sambet5113
+Clemson Tigers,9,SOLD,jdngee
+Duke Blue Devils,8,SOLD,tankalicousss
+Georgia Tech Yellow Jackets,8,SOLD,suggahdaddy69
+Louisville Cardinals,7,SOLD,teamhardways
+North Carolina Tar Heels,6,SOLD,teamhardways
+SMU Mustangs,10,SOLD,tmoney678
+Stanford Cardinal,8,SOLD,jb49869
+Syracuse Orange,8,SOLD,jb49869
+Virginia Cavaliers,6,SOLD,teamhardways
+Wake Forest Demon Deacon,8,SOLD,jb49869
+BYU COUGARS,10,SOLD,suggahdaddy69
+REST OF NIL NOT LISTED,8,SOLD,skol4lyfe
+#28,10,SOLD,jdngee
+#63,1,OPEN,

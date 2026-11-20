@@ -1,6 +1,5 @@
 spot,price,state,buyer
 #1,12,OPEN,
-#2,12,OPEN,
 #3,12,OPEN,
 New York Jets,10.2,SOLD,tpsbmp93821
 #5,12,OPEN,
@@ -11,23 +10,24 @@ Houston Texans,12,SOLD,paullon33
 #10,12,OPEN,
 Pittsburgh Steelers,12,SOLD,87hollywood87
 Jacksonville Jaguars,12,SOLD,tobigr19
-#13,12,OPEN,
 Tennessee Titans,12,SOLD,tobigr19
 #15,12,OPEN,
 #16,12,OPEN,
-#18,12,OPEN,
 #19,12,OPEN,
-#20,12,OPEN,
 Buffalo Bills,12,SOLD,totocards
 Baltimore Ravens,12,SOLD,gigsto
 Arizona Cardinals,12,SOLD,jaekelinho
 Denver Broncos,12,SOLD,tobigr19
-#25,12,OPEN,
 Los Angeles Chargers,12,SOLD,pxxxz4008
-#27,12,OPEN,
 #28,12,OPEN,
 Cleveland Browns,12,SOLD,tobigr19
 Kansas City Chiefs,14,SOLD,mnustnr
 #31,12,OPEN,
 #32,12,OPEN,
 Tampa Bay Buccaneers,12,SOLD,tobigr19
+New England Patriots,10,SOLD,b_baseballcards
+Detroit Lions,12,SOLD,pxxxz4008
+Las Vegas Raiders,12,SOLD,annashaa
+Los Angeles Rams,10,SOLD,max_no
+Indianapolis Colts,12,SOLD,gigsto
+Miami Dolphins,12,SOLD,max_no

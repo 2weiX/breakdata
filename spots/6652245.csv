@@ -1,34 +1,38 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-Miscellaneous,,OPEN,
+Arizona Cardinals,78,SOLD,hutch801
+Atlanta Falcons,91,SOLD,looseaction
+Baltimore Ravens,109,SOLD,tyb1659
+Buffalo Bills,120,SOLD,uniquename1
+Carolina Panthers,102,SOLD,tyb1659
+Chicago Bears,101,SOLD,billybobtheclown
+Cincinnati Bengals,111,SOLD,t3mcguire
+Cleveland Browns,85,SOLD,lambchops79
+Dallas Cowboys,112,SOLD,scottrob99
+Denver Broncos,120,SOLD,willriv43766
+Detroit Lions,111,SOLD,uniquename1
+Green Bay Packers,120,SOLD,omw2fyb219
+Houston Texans,69,SOLD,lambchops79
+Indianapolis Colts,112,SOLD,t3mcguire
+Jacksonville Jaguars,58,SOLD,lambchops79
+Kansas City Chiefs,105,SOLD,tyb1659
+Las Vegas Raiders,102,SOLD,carrollcomics98
+Los Angeles Chargers,130,SOLD,carrollcomics98
+Los Angeles Rams,128,SOLD,t3mcguire
+Miami Dolphins,107,SOLD,mjskradski
+Minnesota Vikings,116,SOLD,carrollcomics98
+New England Patriots,136,SOLD,omw2fyb219
+New Orleans Saints,74,SOLD,thechroniccollector
+New York Giants,115,SOLD,carrollcomics98
+New York Jets,90,SOLD,anthony082236
+Philadelphia Eagles,101,SOLD,uniquename1
+Pittsburgh Steelers,91,SOLD,jlam899
+San Francisco 49ers,154,SOLD,thechroniccollector
+Seattle Seahawks,121,SOLD,looseaction
+Tampa Bay Buccaneers,57,SOLD,lambchops79
+Tennessee Titans,95,SOLD,jlam899
+Washington Commanders,101,SOLD,carrollcomics98
+Miscellaneous,101,SOLD,lambchops79
+#2,112,SOLD,t3mcguire
+#18,104,SOLD,tyb1659
+#23,115,SOLD,omw2fyb219
+#27,97,SOLD,lambchops79

@@ -1,12 +1,12 @@
 spot,price,state,buyer
-Arizona Cardinals,50,OPEN,
+Arizona Cardinals,0,SOLD,rndstarstorm
 Atlanta Falcons,35,OPEN,
 Baltimore Ravens,35,OPEN,
-Buffalo Bills,45,OPEN,
+Buffalo Bills,33,SOLD,onlytwo64
 Carolina Panthers,45,OPEN,
 Chicago Bears,36,SOLD,cncsiu
 Cincinnati Bengals,54,SOLD,chalkboard_cards
-Cleveland Browns,35,OPEN,
+Cleveland Browns,35,SOLD,rndstarstorm
 Dallas Cowboys,45,OPEN,
 Denver Broncos,45,OPEN,
 Detroit Lions,42,SOLD,jaymewisc

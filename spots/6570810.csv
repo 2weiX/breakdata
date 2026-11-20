@@ -5,7 +5,6 @@ spot,price,state,buyer
 #5,17,OPEN,
 #8,17,OPEN,
 #10,17,OPEN,
-#11,17,OPEN,
 #12,17,OPEN,
 #13,17,SOLD,rikigronk87
 #14,17,OPEN,
@@ -15,7 +14,6 @@ spot,price,state,buyer
 #18,17,OPEN,
 #19,17,OPEN,
 #21,17,OPEN,
-#22,17,OPEN,
 #24,17,OPEN,
 #25,17,OPEN,
 #26,17,OPEN,
@@ -31,3 +29,5 @@ Kansas City Chiefs,17,SOLD,pxxxz4008
 Buffalo Bills,16,SOLD,rikigronk87
 Tampa Bay Buccaneers,17,SOLD,totocards
 Chicago Bears,6,SOLD,obb_pasy
+Indianapolis Colts,17,SOLD,gianthausa6
+Philadelphia Eagles,17,SOLD,gianthausa6

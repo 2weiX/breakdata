@@ -1,8 +1,8 @@
 spot,price,state,buyer
 Arizona Cardinals,180,OPEN,
-Atlanta Falcons,40,OPEN,
+Atlanta Falcons,15,SOLD,krewscards1
 Baltimore Ravens,85,OPEN,
-Buffalo Bills,120,OPEN,
+Buffalo Bills,85.5,SOLD,krewscards1
 Carolina Panthers,75,OPEN,
 Chicago Bears,155,OPEN,
 Cincinnati Bengals,60,SOLD,krewscards1
@@ -12,7 +12,7 @@ Denver Broncos,75,OPEN,
 Detroit Lions,75,OPEN,
 Green Bay Packers,11,SOLD,krewscards1
 Houston Texans,55,OPEN,
-Indianapolis Colts,55,OPEN,
+Indianapolis Colts,20,SOLD,krewscards1
 Jacksonville Jaguars,55,OPEN,
 Kansas City Chiefs,300,OPEN,
 Las Vegas Raiders,300,OPEN,
