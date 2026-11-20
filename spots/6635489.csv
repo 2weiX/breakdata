@@ -12,7 +12,6 @@ spot,price,state,buyer
 #11,132,SOLD,deasycards
 #12,132,OPEN,
 #13,132,OPEN,
-#14,132,OPEN,
 #15,132,SOLD,makrele2000
 #16,132,SOLD,pavleiro
 #17,132,OPEN,
@@ -31,3 +30,4 @@ spot,price,state,buyer
 #30,132,OPEN,
 #31,132,OPEN,
 #32,132,OPEN,
+#14,132,SOLD,k_a_z

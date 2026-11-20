@@ -1,12 +1,7 @@
 spot,price,state,buyer
-Division 1,,OPEN,
-Division 2,,OPEN,
-Division 3,,OPEN,
-Division 4,,OPEN,
-Division 5,,OPEN,
-Division 6,,OPEN,
-Division 7,,OPEN,
-Division 8,,OPEN,
-Division 9,,OPEN,
-Division 10,,OPEN,
-Division 11,,OPEN,
+Division 9,16,SOLD,plywood85
+Division 10,16,SOLD,plywood85
+Division 2,20,SOLD,bdub228
+Division 4,1,SOLD,plywood85
+Division 6,1,SOLD,plywood85
+#6,1,OPEN,

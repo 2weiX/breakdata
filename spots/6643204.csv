@@ -1,11 +1,7 @@
 spot,price,state,buyer
-Arizona Cardinals,75,OPEN,
 Atlanta Falcons,45,OPEN,
 Baltimore Ravens,58,OPEN,
-Buffalo Bills,65,OPEN,
 Carolina Panthers,52,OPEN,
-Chicago Bears,65,OPEN,
-Cleveland Browns,55,OPEN,
 Dallas Cowboys,65,OPEN,
 Denver Broncos,55,OPEN,
 Detroit Lions,48,OPEN,
@@ -13,22 +9,23 @@ Green Bay Packers,52,OPEN,
 Houston Texans,38,OPEN,
 Indianapolis Colts,48,OPEN,
 Jacksonville Jaguars,48,OPEN,
-Kansas City Chiefs,85,OPEN,
 Las Vegas Raiders,95,OPEN,
 Los Angeles Chargers,48,OPEN,
-Los Angeles Rams,65,OPEN,
 Miami Dolphins,48,OPEN,
-Minnesota Vikings,45,OPEN,
 New England Patriots,55,SOLD,live_free999
 New Orleans Saints,52,OPEN,
 New York Giants,65,OPEN,
 New York Jets,48,OPEN,
 Philadelphia Eagles,52,OPEN,
 Pittsburgh Steelers,38.4,SOLD,jonesmccoy
-San Francisco 49ers,58,OPEN,
-Seattle Seahawks,52,OPEN,
-Tampa Bay Buccaneers,58,OPEN,
-Tennessee Titans,58,OPEN,
 Washington Commanders,33.6,SOLD,mikew1
-NIL Spot/ All College Teams,160,OPEN,
 Cincinnati Bengals (Steph Both Breaks),75,SOLD,steph1918
+Buffalo Bills,46,SOLD,ameratraders
+Chicago Bears,50,SOLD,mjb_222
+Cleveland Browns,55,SOLD,rndstarstorm
+Kansas City Chiefs,60,SOLD,ameratraders
+"Minnesota Vikings, Rams, Titans & Cardinals",185,SOLD,carefully_bold_mallard
+San Francisco 49ers,42,SOLD,ameratraders
+Seattle Seahawks,36.4,SOLD,lurkinglarry101
+Tampa Bay Buccaneers,42,SOLD,ameratraders
+NIL Spot/ All College Teams,160,SOLD,rndstarstorm

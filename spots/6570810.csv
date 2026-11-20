@@ -1,24 +1,6 @@
 spot,price,state,buyer
 #1,17,OPEN,
-#2,17,OPEN,
-#5,17,OPEN,
-#8,17,OPEN,
-#12,17,OPEN,
 #13,17,SOLD,rikigronk87
-#14,17,OPEN,
-#15,15,OPEN,
-#17,15,OPEN,
-#18,17,OPEN,
-#19,17,OPEN,
-#21,17,OPEN,
-#24,15,OPEN,
-#26,17,OPEN,
-#27,17,OPEN,
-#28,17,OPEN,
-#29,15,OPEN,
-#30,17,OPEN,
-#31,17,OPEN,
-#32,17,OPEN,
 Cleveland Browns,17,SOLD,maxrox72
 Green Bay Packers,17,SOLD,maxrox72
 Kansas City Chiefs,17,SOLD,pxxxz4008
@@ -31,3 +13,19 @@ New England Patriots,15,SOLD,tobigr19
 Miami Dolphins,16,SOLD,atm81
 Tennessee Titans,15,SOLD,jimmy_monke
 Washington Commanders,15,SOLD,stephanheb
+Pittsburgh Steelers,15,SOLD,soenke23
+Los Angeles Chargers,16,SOLD,jobar77
+Minnesota Vikings,13,SOLD,butkau
+Seattle Seahawks,15,SOLD,breaksunchained
+Houston Texans,15,SOLD,soenke23
+Jacksonville Jaguars,15,SOLD,rikigronk87
+Arizona Cardinals,14,SOLD,gianthausa6
+San Francisco 49ers,15,SOLD,pxxxz4008
+Los Angeles Rams,15,SOLD,rikigronk87
+Carolina Panthers,15,SOLD,rikigronk87
+New Orleans Saints,15,SOLD,craden1181
+Detroit Lions,17,SOLD,atm81
+Denver Broncos,17,SOLD,janrhl1999
+New York Giants,15,SOLD,soenke23
+Dallas Cowboys,15,SOLD,jaekelinho
+New York Jets,8,SOLD,soenke23

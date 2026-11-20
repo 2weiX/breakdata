@@ -1,23 +1,19 @@
 spot,price,state,buyer
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Los Angeles Chargers,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Washington Commanders,,OPEN,
+Cleveland Browns,10,SOLD,ryankel63941
+Detroit Lions,11,SOLD,ryankel63941
+"Denver Broncos, Kansas City Chiefs",10,SOLD,saturnsports
+Seattle Seahawks,10,SOLD,ryankel63941
+Miami Dolphins,10,SOLD,ryankel63941
+Houston Texans,10,SOLD,saturnsports
+Pittsburgh Steelers,10,SOLD,kollousion
+New York Jets,10,SOLD,ryankel63941
+Baltimore Ravens,10,SOLD,kollousion
+Philadelphia Eagles,10,SOLD,ryankel63941
+Cincinnati Bengals,10,SOLD,ryankel63941
+Buffalo Bills,10,SOLD,kollousion
+San Francisco 49ers,17,SOLD,saturnsports
+Los Angeles Chargers,10,SOLD,petty4243
+Washington Commanders,10,SOLD,petty4243
+Jacksonville Jaguars,11,SOLD,ryankel63941
+Minnesota Vikings,10,SOLD,kollousion
+#18,1,OPEN,

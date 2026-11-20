@@ -1,33 +1,25 @@
 spot,price,state,buyer
-#1,22,SOLD,fibo1029
 #2,22,SOLD,atm81
-#3,22,OPEN,
-#4,22,OPEN,
 #5,22,SOLD,soenke23
-#6,22,OPEN,
 #7,20,SOLD,breaksunchained
-#8,22,OPEN,
-#9,22,OPEN,
-#10,22,OPEN,
-#11,22,OPEN,
-#12,22,OPEN,
-#13,22,SOLD,soenke23
-#14,22,OPEN,
-#15,22,OPEN,
-#16,22,SOLD,soenke23
-#17,22,OPEN,
-#18,22,OPEN,
-#19,22,SOLD,butkau
-#20,22,OPEN,
-#21,22,OPEN,
-#22,22,OPEN,
 #23,22,SOLD,soenke23
-#24,22,OPEN,
-#25,22,OPEN,
-#26,22,SOLD,gianthausa6
-#27,22,OPEN,
-#28,22,SOLD,butkau
-#29,22,OPEN,
-#30,22,OPEN,
-#31,22,OPEN,
-#32,22,OPEN,
+Carolina Panthers,22,SOLD,fibo1029
+#3,22,SOLD,cd89524
+Cincinnati Bengals,22,SOLD,zonedfence
+#8,22,SOLD,jhl83
+#9,22,SOLD,soenke23
+#10,22,SOLD,soenke23
+Chicago Bears,19,SOLD,jobar77
+Detroit Lions,22,SOLD,soenke23
+#15,19,SOLD,butkau
+Pittsburgh Steelers,22,SOLD,soenke23
+#17,22,SOLD,gianthausa6
+San Francisco 49ers,22,SOLD,butkau
+Los Angeles Rams,22,SOLD,rikigronk87
+#21,22,SOLD,bigg_steve
+Buffalo Bills,22,SOLD,jan2407
+New York Giants,22,SOLD,gianthausa6
+#27,22,SOLD,bigg_steve
+Kansas City Chiefs,22,SOLD,butkau
+#29,20,SOLD,jobar77
+#30,22,SOLD,49ersflo

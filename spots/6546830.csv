@@ -5,7 +5,6 @@ Baltimore Ravens,50,OPEN,
 Buffalo Bills,45,SOLD,bigge093
 Carolina Panthers,75,OPEN,
 Chicago Bears,80,SOLD,davidcha09424
-Cincinnati Bengals,45,OPEN,
 Cleveland Browns,100,OPEN,
 Dallas Cowboys,75,SOLD,shawnfitz74
 Denver Broncos,60,OPEN,
@@ -17,10 +16,8 @@ Jacksonville Jaguars,100,OPEN,
 Kansas City Chiefs,75,SOLD,rabtim75028
 Las Vegas Raiders,125,OPEN,
 Los Angeles Chargers,90,OPEN,
-Los Angeles Rams,45,OPEN,
 Miami Dolphins,40,OPEN,
 Minnesota Vikings,35,OPEN,
-New England Patriots,90,OPEN,
 New Orleans Saints,95,OPEN,
 New York Giants,150,OPEN,
 Philadelphia Eagles,60,OPEN,
@@ -30,3 +27,5 @@ Tampa Bay Buccaneers,50,OPEN,
 Tennessee Titans,100,OPEN,
 Washington Commanders,35,OPEN,
 New York Jets,35,OPEN,
+Cincinnati Bengals,45,SOLD,slowride804
+Los Angeles Rams,45,SOLD,slowride804

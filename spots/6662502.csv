@@ -9,22 +9,15 @@ AZ - Pat Tillman / AZ - Trey McBride / AZ/LAR - Kurt Warner,45,OPEN,
 "AZ - Reggie Virgil / AZ - Trey Benson / AZ Others - B. Baker, C. Bistontis, D. Burke, J. Brissett, J. Conner, M. Harrison Jr., W. Johnson",20,OPEN,
 BAL - Lamar Jackson / BAL - Elijah Sarratt,95,OPEN,
 BAL/TEN - Derrick Henry / BAL - Ja'Kobi Lane,80,OPEN,
-BAL - Joe Flacco / BAL - Ray Lewis,10,OPEN,
 BAL - Jonathan Ogden / BAL - Nate Wiggins / BAL - Zay Flowers,20,OPEN,
 "BAL - Kyle Hamilton / BAL - Terrell Suggs / BAL Others - A. Randall, D. Walker, J. Cuevas, M. Andrews, R. Bateman, R. Smith, T. Hendrickson, Z. Young",19,OPEN,
 BUF - Josh Allen / BUF - Cornelius Bennett,339,OPEN,
-BUF - Dalton Kincaid / BUF - Skyler Bell,25,OPEN,
-BUF - James Cook / BUF - Thurman Thomas,20,OPEN,
-"BUF - Jim Kelly / BUF - Keon Coleman / BUF Others - C. Benford, C. Bishop, D. Dawkins, D. Igbinosun, D. Knox, D. Moore, J. Kilgore, K. Shakir, T. Parker, Z. Durant",20,OPEN,
 "CAR - Bryce Young / CAR - Chris Brazzell II / CAR Others - C. Hubbard, D. Brown, J. Coker, J. Horn, J. Horn Jr., J. Mingo, J. Sanders, L. Hunter, M. Freeling, T. Etienne, T. Tremble, W. Lee III, Z. Wheatley",105,OPEN,
-CAR - Tetairoa McMillan / CAR - Luke Kuechly / CAR - Xavier Legette,60,OPEN,
 CHI - Caleb Williams / CHI - Colston Loveland,360,OPEN,
 "CHI - Dillon Thieneman / CHI - Rome Odunze / CHI Others - D. Swift, D. Wright, J. Johnson, J. Thuney, K. Monangai, M. Moss, M. Muhammad, M. Sweat, R. Johnson, T. Bagent, S. Roush",49,SOLD,denverbreaks
 CHI - Jim McMahon / CHI - Mike Singletary / CHI - Zavion Thomas,25,SOLD,denverbreaks
 CHI - Luther Burden III / CHI - William Perry,45,SOLD,denverbreaks
-CIN - Ja'Marr Chase / CIN - Andrei Iosivas,65,OPEN,
 CIN - Joe Burrow / CIN - Anthony Muñoz,255,OPEN,
-"CIN - Boomer Esiason / CIN - Chase Brown / CIN Others - A. Mims, C. Howell, C. Young, D. Lawrence, E. McPherson, J. Allen, J. Endries, K. Jenkins, T. Davis, T. Higgins",25,OPEN,
 "CLE - Carson Schwesinger / CLE - Bernie Kosar / CLE Others - A. Anderson, C. Tillman, D. Sampson, D. Ward, G. Delpit, J. Jeudy, J. Royer, M. Graham",45,OPEN,
 CLE - Denzel Boston / CLE - Emmanuel McNeil-Warren,75,OPEN,
 CLE - KC Concepcion / CLE - Harold Fannin Jr.,85,OPEN,
@@ -32,25 +25,16 @@ CLE - Quinshon Judkins / CLE - Joe Thomas / CLE - Taylen Green,69,OPEN,
 CLE - Ozzie Newsome / CLE - Shedeur Sanders / CLE - Spencer Fano,20,OPEN,
 DAL - Caleb Downs / DAL - Brandon Aubrey,75,OPEN,
 "DAL - CeeDee Lamb / DAL - DeMarco Murray / DAL Others - A. Smith, B. Spann-Ford, C. Beebe, D. Bland, D. Overshown, G. Pickens, J. Barham, J. Ferguson, K. Clark, L. Overton, L. Schoonmaker, M. Liufau, M. Trigg, T. Guyton, Q. Williams",60,OPEN,
-DAL - Dak Prescott / DAL - Tony Romo,80,OPEN,
 DAL - Jason Witten / DAL - Malachi Lawrence / DAL - Troy Aikman,25,OPEN,
 DAL - Javonte Williams / DAL - Michael Irvin / DAL - Dez Bryant,19,OPEN,
-DEN - Bo Nix / DEN - Jaylen Waddle,135,OPEN,
-DEN - John Elway / DEN - Terrell Davis,15,OPEN,
 DEN - Jonah Coleman / DEN - Steve Atwater,15,SOLD,denverbreaks
-"DEN - Marvin Mims Jr. / DEN - RJ Harvey / DEN Others - A. Estime, C. Sutton, D. Bentley, J. Dobbins, J. Joly, N. Bonitto, Q. Meinerz, T. Hufanga, T. York, Z. Allen",19,OPEN,
 DEN - Pat Surtain II / DEN - Von Miller,35,OPEN,
 DET - Amon-Ra St. Brown / DET - Barry Sanders,79,OPEN,
 DET - Jahmyr Gibbs / DET - Brian Branch,89,OPEN,
 "DET/LAR - Jared Goff / DET - Sam LaPorta / DET Others - A. Hutchinson, B. Miller, D. Moore, I. Pacheco, I. Teslaa, J. Campbell, J. Williams, K. Abney II, K. Law, L. Altmyer",65,OPEN,
 GB - Brett Favre / GB - Matthew Golden,35,OPEN,
 GB - Edgerrin Cooper / GB - LeRoy Butler / GB - Sterling Sharpe,19,OPEN,
-"GB - James Lofton / GB - Josh Jacobs / GB Others - B. Cisse, C. McCellan, C. Watson, D. Jackson, D. Sutton, D. Wicks, J. Bullard, J. Reed, L. Musgrave, L. Ness, M. Lloyd, S. Williams, T. Kraft, X. Mckinney",35,OPEN,
 GB - Jordan Love / GB - Micah Parsons,65,OPEN,
-HOU - CJ Stroud / HOU - Andre Johnson,45,OPEN,
-"HOU - Jayden Higgins / HOU - Will Anderson Jr. / HOU Others - C. Bullock, C. Stover, D. Montgomery, D. Schultz, D. Stingley Jr., H. To'oTo'o K. Lassiter, K. McDonald, K. Rutledge, L. Bond, M. Klein, N. Whittington, R. Blankenship",25,OPEN,
-HOU - Nico Collins / HOU - Woody Marks,15,OPEN,
-"IND - Alec Pierce / IND - Josh Downs / IND Others - A. Richardson, A. Gould, A. Haulcy, C. Allen, C. Curry, D. Buckner, D. Burks, L. Latu, Q. Nelson, R. Leonard, S. Gardner, S. Mcgowan",19,OPEN,
 IND - Daniel Jones / IND - Tyler Warren,35,OPEN,
 IND - Edgerrin James / IND - Jonathan Taylor / IND/DEN - Peyton Manning,59,OPEN,
 JAX - Trevor Lawrence / JAX - Bhayshul Tuten,160,OPEN,
@@ -61,7 +45,6 @@ KC - Garrett Nussmeier / KC - Chris Jones,45,OPEN,
 KC - Kenneth Walker III / KC - Christian Okoye,40,OPEN,
 KC - Patrick Mahomes II / KC - Cyrus Allen,335,OPEN,
 KC - Dante Hall / KC - Peter Woods / KC - Tyreek Hill,20,OPEN,
-"KC - Emmett Johnson / KC - Travis Kelce / KC Others - C. Humphrey, G. Karlaftis, N. Bolton, T. Thornton",59,OPEN,
 KC - Mansoor Delane / KC - Rashee Rice / KC - Xavier Worthy,40,OPEN,
 LAC - Justin Herbert / LAC - Antonio Gates,80,OPEN,
 LAC - Dan Fouts / LAC - Ladd McConkey / LAC - Quentin Johnston,30,OPEN,
@@ -76,7 +59,6 @@ LV - Fernando Mendoza / LV - Jermod McCoy,419,OPEN,
 LV - Maxx Crosby / LV - Tre Tucker,39,OPEN,
 "LV - Mike Washington Jr. / LV - Tim Brown / LV Others - A. O'Connell, D. Thornton, J. Bech, J. Chinn, K. Cousins, M. Mayer, N. Dean, Q. Walker, R. Hemby",35,OPEN,
 MIA - De'Von Achane / MIA - Bob Griese,65,OPEN,
-"MIA - Caleb Douglas / MIA - Malik Washington / MIA Others - C. Robinson, J. Wright, K. Coleman Jr., K. Grant, O. Gordon II, Q. Ewers",35,OPEN,
 MIA - Chris Bell / MIA - Malik Willis,30,OPEN,
 MIA - Dan Marino / MIA - Jacob Rodriguez,40,OPEN,
 MIN - Justin Jefferson / MIN - Aaron Jones Sr.,120,OPEN,
@@ -86,9 +68,7 @@ NE - Drake Maye / NE - Adam Vinatieri,130,OPEN,
 "NE - TreVeyon Henderson / NE - Christian Gonzalez / NE Others - B. Morton, C. Lomu, H. Henry, J. Polk, J. Milton III, K. Williams, M. Hollins, R. Spillane, R. Stevenson",65,OPEN,
 NE/TB - Tom Brady / NE - Eli Raridon,339,OPEN,
 NE - Kayshon Boutte / NE - Rob Gronkowski / NE - Ty Law,25,OPEN,
-"NO - Jordyn Tyson / NO - Alvin Kamara / NO Others - A. Kamara, B. Bresee, B. Lance, C. Miller, C. Olave, J. Johnson, K. McKinstry, O. Delp, S. Rattler, T. Etienne Jr., T. Hill",100,OPEN,
 NO - Tyler Shough / NO - Archie Manning / NO - Drew Brees,90,OPEN,
-"NYG - Arvell Reese / NYG - Cam Skattebo / NYG Others - A. Carter, B. Burns, C. Hood, D. Slayton, F. Mauigoa, I. Likely, T. Johnson, T. Tracy Jr.",105,OPEN,
 NYG - Jaxson Dart / NYG - Eli Manning,155,OPEN,
 NYG - Malik Nabers / NYG - Lawrence Taylor / NYG - Malachi Fields,60,OPEN,
 NYJ - Cade Klubnik / NYJ - Braelon Allen,65,OPEN,
@@ -98,29 +78,49 @@ NYJ - Kenyon Sadiq / NYJ - Darrelle Revis,45,OPEN,
 PHI - Jalen Hurts / PHI - Brian Dawkins,75,OPEN,
 PHI - Makai Lemon / PHI - Brian Westbrook,90,OPEN,
 PHI/NYG - Saquon Barkley / PHI - Cole Payton,60,OPEN,
-"PHI - Eric Allen / PHI - LeSean McCoy / PHI Others - C. Dejean, D. Goedert, D. Lawson, D. Smith, E. Stowers, J. Campbell, J. Trotter, J. Mailata, W. Shipley",19,OPEN,
-PHI - Jalen Carter / PHI - Tank Bigsby / Eagles QB Tecmo,10,OPEN,
 PIT - Aaron Rodgers / PIT - Germie Bernard,89,OPEN,
-"PIT - Drew Allar / PIT - Jerome Bettis / PIT Others - C. Heyward, D. Everette, D. Metcalf, D. Washington, J. Porter Jr., J. Warren, K. Johnson, L. Mcree, P. Freiermuth, P. Wilson, W. Howard",95,OPEN,
 PIT - Rod Woodson / PIT - T. J. Watt / PIT - Troy Polamalu,35,OPEN,
 "SEA - Jadarian Price / SEA - Byron Murphy II / SEA Others - A. Barner, B. Clark, C. Kupp, D. Witherspoon, E. Henderson Jr., G. Holani, J. Neal, N. Emanwori, R. Shaheed",75,OPEN,
-SEA - Jaxon Smith-Njigba / SEA - Kam Chancellor,139,OPEN,
 SEA/NYJ - Sam Darnold / SEA - Malcolm Smith,40,OPEN,
 SEA - Richard Sherman / SEA - Steve Largent / SEA - Zach Charbonnet,15,OPEN,
-SF - Brock Purdy / SF - Steve Young,109,OPEN,
 SF/CAR - Christian McCaffrey / SF - Frank Gore,65,OPEN,
 SF - Fred Warner / SF - Kaelon Black / SF/KC - Joe Montana,55,OPEN,
 "SF - George Kittle / SF - Roger Craig / SF Others - C. Kirk, E. Prysock, J. Cowing, J. Moody, M. Evans, N. Bosa, R. Height, R. Pearsall, T. Williams",55,OPEN,
 SF - Jerry Rice / SF - Kyle Juszczyk / SF - De'Zhaun Stribling,50,OPEN,
 TB - Emeka Egbuka / TB - Bucky Irving,50,OPEN,
 TB/CLE - Baker Mayfield / TB - Jalon Daniels,45,OPEN,
-"TB - Mike Alstott / TB - Ted Hurst / TB Others - A. Winfield, C. Braswell, C. Godwin, C. Otton, G. Barton, J. McMillan, J. Trotter, K. Gainwell, T. Johnson, V. Vea",19,OPEN,
 TB - Rueben Bain Jr. / TB - Warren Sapp,35,OPEN,
 TEN - Cam Ward / TEN - Bruce Matthews,60,OPEN,
 TEN - Carnell Tate / TEN - Nick Singleton,165,OPEN,
 "TEN - Tyjae Spears / TEN - Warren Moon / TEN Others - A. Hill Jr., C. Dike, C. Ridley, E. Ayomanor, G. Helm, J. Simmons, K. Faulk, K. Winston Jr., T. Pollard, T. Sweat, W. Levis",29,OPEN,
 WAS - Jayden Daniels / WAS - Antonio Williams,140,OPEN,
 WAS - Sonny Styles / WAS - Art Monk,65,SOLD,denverbreaks
-WAS - Athan Kaliakmanis / WAS - Terry McLaurin,10,OPEN,
 WAS - DeAngelo Hall / WAS - John Riggins / WAS - Sean Taylor,15,SOLD,denverbreaks
-"WAS - Deebo Samuel / WAS Others - C. Okonkwo, J. Merritt, K. Allen, K. Chaisson, L. McCaffrey, L. Tunsil, M. Sainristil, R. Henry Jr., R. White",15,OPEN,
+BAL - Joe Flacco / BAL - Ray Lewis,8,SOLD,tadzielinski
+BUF - Dalton Kincaid / BUF - Skyler Bell,18,SOLD,therealbchase
+BUF - James Cook / BUF - Thurman Thomas,17,SOLD,tadzielinski
+"BUF - Jim Kelly / BUF - Keon Coleman / BUF Others - C. Benford, C. Bishop, D. Dawkins, D. Igbinosun, D. Knox, D. Moore, J. Kilgore, K. Shakir, T. Parker, Z. Durant",16,SOLD,tadzielinski
+CAR - Tetairoa McMillan / CAR - Luke Kuechly / CAR - Xavier Legette,54,SOLD,therealbchase
+CIN - Ja'Marr Chase / CIN - Andrei Iosivas,55.25,SOLD,bowenrey
+"CIN - Boomer Esiason / CIN - Chase Brown / CIN Others - A. Mims, C. Howell, C. Young, D. Lawrence, E. McPherson, J. Allen, J. Endries, K. Jenkins, T. Davis, T. Higgins",25,SOLD,alexander60568
+DAL - Dak Prescott / DAL - Tony Romo,70,SOLD,sportsfan0433
+DEN - Bo Nix / DEN - Jaylen Waddle,105,SOLD,somocards
+DEN - John Elway / DEN - Terrell Davis,11,SOLD,the_men_in_tights
+"DEN - Marvin Mims Jr. / DEN - RJ Harvey / DEN Others - A. Estime, C. Sutton, D. Bentley, J. Dobbins, J. Joly, N. Bonitto, Q. Meinerz, T. Hufanga, T. York, Z. Allen",14,SOLD,the_men_in_tights
+"GB - James Lofton / GB - Josh Jacobs / GB Others - B. Cisse, C. McCellan, C. Watson, D. Jackson, D. Sutton, D. Wicks, J. Bullard, J. Reed, L. Musgrave, L. Ness, M. Lloyd, S. Williams, T. Kraft, X. Mckinney",30,SOLD,hauss77
+HOU - CJ Stroud / HOU - Andre Johnson,40,SOLD,htxcollectables
+"HOU - Jayden Higgins / HOU - Will Anderson Jr. / HOU Others - C. Bullock, C. Stover, D. Montgomery, D. Schultz, D. Stingley Jr., H. To'oTo'o K. Lassiter, K. McDonald, K. Rutledge, L. Bond, M. Klein, N. Whittington, R. Blankenship",20,SOLD,bossbucks
+HOU - Nico Collins / HOU - Woody Marks,13,SOLD,htxcollectables
+"IND - Alec Pierce / IND - Josh Downs / IND Others - A. Richardson, A. Gould, A. Haulcy, C. Allen, C. Curry, D. Buckner, D. Burks, L. Latu, Q. Nelson, R. Leonard, S. Gardner, S. Mcgowan",14,SOLD,jakefis
+"KC - Emmett Johnson / KC - Travis Kelce / KC Others - C. Humphrey, G. Karlaftis, N. Bolton, T. Thornton",50,SOLD,pickles0103
+"MIA - Caleb Douglas / MIA - Malik Washington / MIA Others - C. Robinson, J. Wright, K. Coleman Jr., K. Grant, O. Gordon II, Q. Ewers",28,SOLD,bossbucks
+"NO - Jordyn Tyson / NO - Alvin Kamara / NO Others - A. Kamara, B. Bresee, B. Lance, C. Miller, C. Olave, J. Johnson, K. McKinstry, O. Delp, S. Rattler, T. Etienne Jr., T. Hill",90,SOLD,bowenrey
+"NYG - Arvell Reese / NYG - Cam Skattebo / NYG Others - A. Carter, B. Burns, C. Hood, D. Slayton, F. Mauigoa, I. Likely, T. Johnson, T. Tracy Jr.",94.5,SOLD,bossbucks
+"PHI - Eric Allen / PHI - LeSean McCoy / PHI Others - C. Dejean, D. Goedert, D. Lawson, D. Smith, E. Stowers, J. Campbell, J. Trotter, J. Mailata, W. Shipley",14,SOLD,the_men_in_tights
+PHI - Jalen Carter / PHI - Tank Bigsby / Eagles QB Tecmo,7,SOLD,jandjcards10
+"PIT - Drew Allar / PIT - Jerome Bettis / PIT Others - C. Heyward, D. Everette, D. Metcalf, D. Washington, J. Porter Jr., J. Warren, K. Johnson, L. Mcree, P. Freiermuth, P. Wilson, W. Howard",85,SOLD,whiskey2022
+SEA - Jaxon Smith-Njigba / SEA - Kam Chancellor,125,SOLD,sportsfan0433
+SF - Brock Purdy / SF - Steve Young,99,SOLD,bowenrey
+"TB - Mike Alstott / TB - Ted Hurst / TB Others - A. Winfield, C. Braswell, C. Godwin, C. Otton, G. Barton, J. McMillan, J. Trotter, K. Gainwell, T. Johnson, V. Vea",14,SOLD,the_men_in_tights
+WAS - Athan Kaliakmanis / WAS - Terry McLaurin,7,SOLD,jandjcards10
+"WAS - Deebo Samuel / WAS Others - C. Okonkwo, J. Merritt, K. Allen, K. Chaisson, L. McCaffrey, L. Tunsil, M. Sainristil, R. Henry Jr., R. White",10.5,SOLD,danmou

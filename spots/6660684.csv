@@ -1,34 +1,44 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-MISC,,OPEN,
+Minnesota Vikings,25,SOLD,vegasmann
+Baltimore Ravens,31,SOLD,vegasmann
+Cleveland Browns,131,SOLD,vegasmann
+San Francisco 49ers,137,SOLD,vegasmann
+Kansas City Chiefs,141,SOLD,vegasmann
+Chicago Bears,131,SOLD,vegasmann
+#7,20,SOLD,vegasmann
+#8,117,SOLD,nholland164
+Green Bay Packers,118,SOLD,nholland164
+Tampa Bay Buccaneers,115,SOLD,thepindoctor
+#11,37,SOLD,vegasmann
+#12,116,SOLD,vegasmann
+Pittsburgh Steelers,117,SOLD,vegasmann
+Los Angeles Chargers,106.95,SOLD,thepindoctor
+Houston Texans,111,SOLD,vegasmann
+#16,0,SOLD,vectorcts
+New England Patriots,91,SOLD,thepindoctor
+#18,91,SOLD,vectorcts
+MISC,78,SOLD,vegasmann
+#20,63,SOLD,vegasmann
+Cincinnati Bengals,121,SOLD,vectorcts
+#22,113,SOLD,vegasmann
+#23,95,SOLD,cheims09
+Los Angeles Rams,93,SOLD,bowenrey
+Detroit Lions,80,SOLD,morallycuddleyhen
+Jacksonville Jaguars,67.45,SOLD,cgoodwin65
+New York Giants,50,SOLD,shodzilla_hardcards
+Seattle Seahawks,39,SOLD,mos_cards
+#29,46,SOLD,raspywombat
+Washington Commanders,65,SOLD,raspywombat
+Buffalo Bills,46,SOLD,raspywombat
+Philadelphia Eagles,50,SOLD,mos_cards
+Arizona Cardinals,42,SOLD,cgoodwin65
+Denver Broncos,39,SOLD,zomtristan
+#35,32,SOLD,mos_cards
+Atlanta Falcons,36,SOLD,scw2step
+Dallas Cowboys,150,SOLD,vectorcts
+Tennessee Titans,2,SOLD,cgoodwin65
+Las Vegas Raiders,5,SOLD,humdre
+New York Jets,5,SOLD,guardsfan87
+Indianapolis Colts,7,SOLD,mikerussell366
+Miami Dolphins,10,SOLD,ajaccollection
+"Carolina Panthers, New Orleans Saints",16,SOLD,ajaccollection

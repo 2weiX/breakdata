@@ -1,47 +1,47 @@
 spot,price,state,buyer
 Los Angeles Rams & Arizona Cardinals,9,SOLD,bozz33
-"Entire AFC South:  Titans, Colts, Jags, Texans",19,OPEN,
-Las Vegas Raiders,19,OPEN,
-Kansas City Chiefs,22,OPEN,
-Pittsburgh Steelers,14,OPEN,
-Dallas Cowboys & Washington Commanders,20,OPEN,
 San Francisco 49ers,19,OPEN,
-New York Jets & Clemson,12,OPEN,
 "Entire NFC North &Jackson St: Bears, Vikings, Lions, Packers",28,SOLD,vdubtech81
 Tampa Bay Buccaneers,4,SOLD,tgoldsmith67
 New York Giants,3,SOLD,lahomie
 Texas,13,SOLD,tarheelboz
 Miami,21,OPEN,
-"Entire Big 12 (but Texas Tech): BYU, Ok st, Az St, Utah, Houston, Baylor, Kansas, Kansas st, TCU, UCF, WVU, Arizona, Colorado, Iowa st, ",39,OPEN,
-Buffalo Bills/Wyoming,12,OPEN,
-New England Patriots,12,OPEN,
 "Cincinnati Bengals, Texas Tech, Cincinnati",5,SOLD,vol4liferocky
 Atlanta Falcons,8,OPEN,
 New Orleans Saints,11,OPEN,
-Philadelphia Eagles,16,OPEN,
-Baltimore Ravens,6,OPEN,
 Seattle Seahawks,10,OPEN,
 Cleveland Browns,4,SOLD,chriseck05673
-Carolina Panthers & Georgia Tech,15,OPEN,
-Denver Broncos & LA Chargers,15,OPEN,
-Notre Dame&Uconn,18,OPEN,
 Michigan,4,SOLD,tgoldsmith67
-USC,14,OPEN,
 Texas A&M,11.9,SOLD,bozz33
-Indiana,21,OPEN,
-"Rest of ACC: California, , Louisville, BC, Stanford, Syracuse",10,OPEN,
-Oklahoma,12,OPEN,
 South Carolina& Florida,14.4,SOLD,tarheelboz
 "Rest of SEC:Mississippi State, Vandy, Kentucky, Arkansas, Auburn, Mizzu, Tennessee",20,SOLD,lahomie
-Miami Dolphins & Pitt,18,OPEN,
 VOID do not buy,10,OPEN,
 Alabama,5,SOLD,bozz33
 Oregon,4,SOLD,bozz33
 Georgia,5,SOLD,bozz33
 SMU,10,OPEN,
 "All 18 G-6 Schools: UNLV, Boise State, Akron, Charlotte, Delaware, FAU, Frensno St, Louisiana,Marshall,  San Diego St, Southern Miss, Texas St, Tulsa, Wash st, W. Kentucky, W. Michigan, New Mexico, Ohio",10,SOLD,kstang18kst
-LSU,12,OPEN,
-"Rest of Big Ten: Illinois, Wash, Neb, UCLA, Rutgers, Mich st. Maryland, Ohio St, Penn St, NW, Purdue, Iowa, Wis, Minn",25,OPEN,
 "ACC/NC&VA: Wake, UNC, NC State, Duke, VT, Virginia",12,OPEN,
 Florida State,10,OPEN,
-High School,10,OPEN,
+"Entire AFC South:  Titans, Colts, Jags, Texans",1,SOLD,tgoldsmith67
+Las Vegas Raiders,6,SOLD,vol4liferocky
+Kansas City Chiefs,2,SOLD,vol4liferocky
+"Steelers, 49ers,miami, Falcons, Saints, seahawksSMU, ACC NC VA, FSU",20,SOLD,tarheelboz
+Dallas Cowboys & Washington Commanders,2,SOLD,vol4liferocky
+New York Jets & Clemson,2,SOLD,vol4liferocky
+"Entire Big 12 (but Texas Tech): BYU, Ok st, Az St, Utah, Houston, Baylor, Kansas, Kansas st, TCU, UCF, WVU, Arizona, Colorado, Iowa st, ",9,SOLD,vol4liferocky
+Buffalo Bills/Wyoming,2,SOLD,vol4liferocky
+New England Patriots,2,SOLD,vol4liferocky
+Philadelphia Eagles,2,SOLD,huntervan14099
+Baltimore Ravens,1,SOLD,tgoldsmith67
+Carolina Panthers & Georgia Tech,4,SOLD,tarheelboz
+Denver Broncos & LA Chargers,5,SOLD,tgoldsmith67
+Notre Dame&Uconn,7,SOLD,lahomie
+USC,2,SOLD,vol4liferocky
+Indiana,7,SOLD,tarheelboz
+"Rest of ACC: California, , Louisville, BC, Stanford, Syracuse",3,SOLD,vol4liferocky
+Oklahoma,2,SOLD,chad205
+Miami Dolphins & Pitt,2,SOLD,chriseck05673
+LSU,2,SOLD,chad205
+"Rest of Big Ten: Illinois, Wash, Neb, UCLA, Rutgers, Mich st. Maryland, Ohio St, Penn St, NW, Purdue, Iowa, Wis, Minn",2,SOLD,tgoldsmith67
+High School,2,SOLD,vol4liferocky

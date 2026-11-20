@@ -1,5 +1,4 @@
 spot,price,state,buyer
-Minnesota Vikings,3950,SOLD,sam_nubz
 Traded,2550,SOLD,sam_nubz
 Traded,2550,SOLD,sam_nubz
 Kansas City Chiefs,2000,SOLD,owinthehouse
@@ -12,4 +11,28 @@ New York Giants,4050,SOLD,owinthehouse
 Dallas Cowboys,3005,SOLD,sam_nubz
 Pittsburgh Steelers,5201,SOLD,owinthehouse
 Cleveland Browns,3150,SOLD,sam_nubz
-#14,1,OPEN,
+Traded,3950,SOLD,sam_nubz
+New England Patriots,2600,SOLD,sam_nubz
+Denver Broncos,3050,SOLD,joshmellberg
+Traded,3650,SOLD,joshmellberg
+Las Vegas Raiders,2550,SOLD,sam_nubz
+Green Bay Packers,4411,SOLD,joshmellberg
+Los Angeles Rams,2450,SOLD,sam_nubz
+Minnesota Vikings,925,SOLD,cromags
+Traded,1750,SOLD,cromags
+New Orleans Saints,1320,SOLD,sam_nubz
+Traded,1340,SOLD,sam_nubz
+Seattle Seahawks,210,SOLD,jerg43
+Los Angeles Chargers,1020,SOLD,sam_nubz
+Traded,105,SOLD,cromags
+Cincinnati Bengals,1070,SOLD,joshmellberg
+Buffalo Bills,1110,SOLD,joshmellberg
+Philadelphia Eagles,635,SOLD,joshmellberg
+Tampa Bay Buccaneers,525,SOLD,joshmellberg
+Detroit Lions,505,SOLD,joshmellberg
+Baltimore Ravens,505,SOLD,joshmellberg
+Houston Texans,333,SOLD,joshmellberg
+Washington Commanders,333,SOLD,joshmellberg
+"Carolina Panthers, Tennessee Titans",257,SOLD,cromags
+"Atlanta Falcons, Miami Dolphins",175,SOLD,cromags
+"Arizona Cardinals, Indianapolis Colts, Jacksonville Jaguars, New York Jets",443,SOLD,joshmellberg

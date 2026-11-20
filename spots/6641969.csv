@@ -1,138 +1,51 @@
 spot,price,state,buyer
-Spider-Man / Spider-Man 2099,,OPEN,
-Wolverine,,OPEN,
-Venom / Symbiotic Alien / Andi Benton,,OPEN,
-Carnage,,OPEN,
-Ghost-Spider,,OPEN,
-Miles Morales,,OPEN,
-Black Cat,,OPEN,
-Scarlet Witch,,OPEN,
-Psylocke,,OPEN,
-Magik,,OPEN,
-Rogue,,OPEN,
-Emma Frost,,OPEN,
-Silk,,OPEN,
-Iron Man,,OPEN,
-Hulk / Thaddeus Ross,,OPEN,
-Thor,,OPEN,
-Captain America,,OPEN,
-Doctor Doom,,OPEN,
-Green Goblin / Norman Osborn / Harry Osborn,,OPEN,
-Phoenix / Dark Phoenix / Jean Grey,,OPEN,
-Storm,,OPEN,
-Gambit,,OPEN,
-Magneto,,OPEN,
-X-23,,OPEN,
-Doctor Strange,,OPEN,
-Thanos,,OPEN,
-Loki / Lady Loki / Alligator Loki,,OPEN,
-Black Panther,,OPEN,
-Silver Surfer,,OPEN,
-Ghost Rider / Cosmic Ghost Rider / Bats / Hellstrom,,OPEN,
-Spider-Woman,,OPEN,
-Spider-Girl,,OPEN,
-Spider-Boy,,OPEN,
-Spider-Punk,,OPEN,
-Scarlet Spider,,OPEN,
-Spider-Man Noir,,OPEN,
-Spider-Ham,,OPEN,
-Daredevil,,OPEN,
-Moon Knight,,OPEN,
-She-Hulk,,OPEN,
-Black Widow,,OPEN,
-Captain Marvel,,OPEN,
-Ms. Marvel,,OPEN,
-Mary Jane,,OPEN,
-Elektra,,OPEN,
-Mystique,,OPEN,
-Jubilee,,OPEN,
-Kitty Pryde,,OPEN,
-Dazzler,,OPEN,
-Polaris,,OPEN,
-Cyclops,,OPEN,
-Professor X,,OPEN,
-Nightcrawler,,OPEN,
-Colossus,,OPEN,
-Beast,,OPEN,
-Iceman,,OPEN,
-Cable,,OPEN,
-Bishop,,OPEN,
-Havok,,OPEN,
-Archangel,,OPEN,
-Mister Sinister,,OPEN,
-Apocalypse,,OPEN,
-Juggernaut,,OPEN,
-Sabretooth,,OPEN,
-Omega Red,,OPEN,
-Sentry,,OPEN,
-Adam Warlock,,OPEN,
-Nova,,OPEN,
-Star-Lord,,OPEN,
-Rocket Raccoon,,OPEN,
-Groot,,OPEN,
-Drax,,OPEN,
-Angela,,OPEN,
-Hela,,OPEN,
-Beta Ray Bill,,OPEN,
-Mighty Thor,,OPEN,
-Odin,,OPEN,
-Mister Fantastic,,OPEN,
-Invisible Woman,,OPEN,
-Human Torch,,OPEN,
-The Thing,,OPEN,
-Galactus,,OPEN,
-Kang the Conqueror,,OPEN,
-Ultron,,OPEN,
-Vision,,OPEN,
-Quicksilver,,OPEN,
-Ant-Man,,OPEN,
-Wasp,,OPEN,
-Iron Fist,,OPEN,
-Shang-Chi,,OPEN,
-Namor,,OPEN,
-Blade,,OPEN,
-Morbius,,OPEN,
-Kingpin,,OPEN,
-Kraven the Hunter,,OPEN,
-Scorpion,,OPEN,
-Electro,,OPEN,
-Rhino,,OPEN,
-Vulture,,OPEN,
-Lizard,,OPEN,
-Shocker / Hobgoblin,,OPEN,
-Doctor Octopus / Dr. Otto Octavius / Red Goblin,,OPEN,
-Mister Negative / Prowler,,OPEN,
-Anti-Venom / Hellverine / Old Man Logan,,OPEN,
-Taskmaster / Baron Zemo,,OPEN,
-Killmonger / U.S. Agent,,OPEN,
-Black Bolt / Medusa,,OPEN,
-Squirrel Girl / Jeff the Land Shark / Tippy-Toe,,OPEN,
-Gwenpool / White Tiger,,OPEN,
-Ironheart / War Machine / Rescue,,OPEN,
-Luna Snow / Nico Minoru,,OPEN,
-Kate Bishop / Jessica Jones,,OPEN,
-America Chavez / Misty Knight,,OPEN,
-Silver Sable / Firestar,,OPEN,
-Sunspot / Stryfe,,OPEN,
-Fantomex / Multiple Man,,OPEN,
-Baron Mordo / Dormammu / Doyle Dormammu,,OPEN,
-Mephisto / Chthon,,OPEN,
-Moonstar / Cypher / Warlock,,OPEN,
-Abomination / Absorbing Man / Leader / Maestro,,OPEN,
-Gladiator / Kid Gladiator / Schwarzschild,,OPEN,
-Man-Thing / Fin Fang Foom / Ka-Zar,,OPEN,
-Darkhawk / Deathlok / Machine Man / Jocasta,,OPEN,
-Black Knight / Hercules / Ares / Ikaris,,OPEN,
-Enchantress / Clea / Wiccan,,OPEN,
-Yondu / Phyla-Vell / Quasar / Genis-Vell,,OPEN,
-Wonder Man / Jack of Hearts / Whiplash,,OPEN,
-Silver Samurai / Toad / Frenzy / Exodus,,OPEN,
-Hawkeye / Dragonfire / Ransom / Sword Master / Hulkette,,OPEN,
-Iron Cat / Invincible Woman / Deathdream / M.O.D.O.K. / Batroc,,OPEN,
-Man-Wolf / High Evolutionary / Terrax / Nimrod / The Maker,,OPEN,
-Jitter / White Widow / Werewolf By Night / Hellcat / Echo,,OPEN,
-Captain Britain / Slapstick / Hallows' Eve / Tigra / Throg,,OPEN,
-Moon Girl / Doctor Voodoo / Cosmo / Lockjaw / Chewie,,OPEN,
-Lucky the Pizza Dog / Devil Dinosaur / Onslaught / Blob / Super-Skrull,,OPEN,
-Carmilla Black / May Parker / Lonnie Lincoln / Big Donovan / Chameleon,,OPEN,
-Bulldozer / Butane / Mila Masaryk / Mikhail Sytsevich / Jeanne Foucault,,OPEN,
+Baron Mordo / Dormammu / Doyle Dormammu,6,SOLD,sirbobbarker
+Black Panther,10,SOLD,big27dog
+Kang the Conqueror,7,SOLD,big27dog
+Mephisto / Chthon,5,SOLD,ashleyschaefferbmw
+Spider-Boy,7,SOLD,big27dog
+Rogue,6,SOLD,da_bears_mom93
+America Chavez / Misty Knight,6,SOLD,big27dog
+Spider-Girl,6,SOLD,da_bears_mom93
+Sentry,5,SOLD,rwhinamante
+Havok,6,SOLD,da_bears_mom93
+Bulldozer / Butane / Mila Masaryk / Mikhail Sytsevich / Jeanne Foucault,7,SOLD,da_bears_mom93
+Silver Surfer,5,SOLD,rwhinamante
+Hela,5,SOLD,rwhinamante
+Blade,5,SOLD,ashleyschaefferbmw
+Loki / Lady Loki / Alligator Loki,5,SOLD,rwhinamante
+Man-Thing / Fin Fang Foom / Ka-Zar,5,SOLD,purdyspicy
+Shang-Chi,5,SOLD,thesneakelk
+Odin,5,SOLD,thesneakelk
+The Thing,6,SOLD,cornercards
+Storm,6,SOLD,cornercards
+Spider-Man Noir,6,SOLD,cornercards
+Man-Wolf / High Evolutionary / Terrax / Nimrod / The Maker,6,SOLD,rwhinamante
+Silver Samurai / Toad / Frenzy / Exodus,8,SOLD,cornercards
+Invisible Woman,5,SOLD,thesneakelk
+Fantomex / Multiple Man,7,SOLD,thesneakelk
+Miles Morales,5,SOLD,cornercards
+Emma Frost,6,SOLD,thesneakelk
+Thanos,5,SOLD,rwhinamante
+Ghost Rider / Cosmic Ghost Rider / Bats / Hellstrom,5,SOLD,ashleyschaefferbmw
+Lucky the Pizza Dog / Devil Dinosaur / Onslaught / Blob / Super-Skrull,19,SOLD,cornercards
+Lizard,5,SOLD,big27dog
+Gambit,5,SOLD,big27dog
+Colossus,6,SOLD,suddendeath_samurai
+Archangel,5,SOLD,suddendeath_samurai
+Scarlet Witch,7,SOLD,suddendeath_samurai
+Rhino,5,SOLD,suddendeath_samurai
+She-Hulk,5,SOLD,suddendeath_samurai
+Killmonger / U.S. Agent,8,SOLD,ac1789
+Wolverine,7,SOLD,suddendeath_samurai
+Taskmaster / Baron Zemo,5,SOLD,suddendeath_samurai
+Star-Lord,5,SOLD,ashleyschaefferbmw
+Scarlet Spider,5,SOLD,rwhinamante
+Yondu / Phyla-Vell / Quasar / Genis-Vell,6,SOLD,ac1789
+Venom / Symbiotic Alien / Andi Benton,5,SOLD,suddendeath_samurai
+Elektra,7,SOLD,suddendeath_samurai
+Vulture,7,SOLD,suddendeath_samurai
+Mister Sinister,5,SOLD,rwhinamante
+Beta Ray Bill,6,SOLD,ac1789
+Carnage,5,SOLD,ac1789
+Phoenix / Dark Phoenix / Jean Grey,6,SOLD,suddendeath_samurai

@@ -3,9 +3,7 @@ spot,price,state,buyer
 #2,23,OPEN,
 #3,23,OPEN,
 #4,23,SOLD,lennartdeboer
-#5,23,OPEN,
 #6,23,OPEN,
-#7,23,OPEN,
 #8,23,OPEN,
 #9,23,OPEN,
 #10,23,OPEN,
@@ -29,3 +27,5 @@ spot,price,state,buyer
 #28,23,OPEN,
 #29,23,OPEN,
 #30,23,OPEN,
+#5,23,SOLD,tolgaq17
+#7,23,SOLD,arek83

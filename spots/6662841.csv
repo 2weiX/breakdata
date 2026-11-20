@@ -1,21 +1,51 @@
 spot,price,state,buyer
 Dallas Cowboys,108,SOLD,bigtfromvv
 Seattle Seahawks,115,SOLD,spidersfoot
-#3,165,SOLD,spidersfoot
-Atlanta Falcons,143,SOLD,ryanhan41096
 Cleveland Browns,140,SOLD,spidersfoot
-#6,146,SOLD,ryanhan41096
 Chicago Bears,151,SOLD,ryanhan41096
-#8,131,SOLD,ryanhan41096
 Las Vegas Raiders,106.25,SOLD,jasonwhi48753
-#10,105,SOLD,ryanhan41096
-#11,130,SOLD,peterupinyou85
 Los Angeles Rams,140,SOLD,peterupinyou85
-#13,116,SOLD,faircatchsportscards
 MISC,142,SOLD,faircatchsportscards
 Green Bay Packers,106,SOLD,ryanhan41096
-#16,21,SOLD,jasonwhi48753
-#17,109,SOLD,jasonwhi48753
 Washington Commanders,101,SOLD,jasonwhi48753
-Miami Dolphins,95,SOLD,peterupinyou85
-#20,1,OPEN,
+T,165,SOLD,spidersfoot
+T,143,SOLD,ryanhan41096
+T,146,SOLD,ryanhan41096
+T,131,SOLD,ryanhan41096
+T,105,SOLD,ryanhan41096
+T,130,SOLD,peterupinyou85
+T,116,SOLD,faircatchsportscards
+T,21,SOLD,jasonwhi48753
+T,109,SOLD,jasonwhi48753
+Denver Broncos,95,SOLD,peterupinyou85
+T,98,SOLD,peterupinyou85
+Cincinnati Bengals,91,SOLD,spidersfoot
+Arizona Cardinals,83,SOLD,jasonwhi48753
+T,76,SOLD,wildcats2686
+Detroit Lions,77,SOLD,ryanhan41096
+T,85,SOLD,spidersfoot
+San Francisco 49ers,80,SOLD,tony77max
+T,95,SOLD,spidersfoot
+T,99,SOLD,jasonwhi48753
+New York Giants,120,SOLD,spidersfoot
+Kansas City Chiefs,116,SOLD,wildcats2686
+T,75,SOLD,jasonwhi48753
+T,58,SOLD,tony77max
+New Orleans Saints,66,SOLD,jasonwhi48753
+Tampa Bay Buccaneers,66,SOLD,peterupinyou85
+T,32,SOLD,tony77max
+Buffalo Bills,36,SOLD,tony77max
+Atlanta Falcons,26,SOLD,tony77max
+Baltimore Ravens,36,SOLD,wildcats2686
+Los Angeles Chargers,38,SOLD,setty30
+Indianapolis Colts,23,SOLD,tony77max
+Pittsburgh Steelers,21,SOLD,tony77max
+New York Jets,22,SOLD,tony77max
+New England Patriots,33,SOLD,johnkho23
+Tennessee Titans,50,SOLD,wildcats2686
+Philadelphia Eagles,52,SOLD,wildcats2686
+Carolina Panthers,6,SOLD,jasonwhi48753
+Jacksonville Jaguars,9,SOLD,jasonwhi48753
+Miami Dolphins,10,SOLD,tony77max
+Houston Texans,13,SOLD,jasonwhi48753
+Minnesota Vikings,15,SOLD,tony77max

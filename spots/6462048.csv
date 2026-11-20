@@ -1,6 +1,5 @@
 spot,price,state,buyer
 Los Angeles Chargers,541,SOLD,pokinets
-Tennessee Titans,680,SOLD,rossiranch2020
 Kansas City Chiefs,710,SOLD,packheights
 Pittsburgh Steelers,550,SOLD,jyang0888
 Tampa Bay Buccaneers,620,SOLD,dkass75
@@ -33,3 +32,4 @@ New England Patriots,656,SOLD,mdragicevich
 Carolina Panthers,145,SOLD,jyang0888
 Minnesota Vikings,163,SOLD,jyang0888
 "Indianapolis Colts, New Orleans Saints, New York Jets",72,SOLD,brettelkslayer
+Tennessee Titans,680,SOLD,rossiranch
