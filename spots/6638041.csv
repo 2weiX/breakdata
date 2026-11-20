@@ -6,8 +6,6 @@ spot,price,state,buyer
 #6,30,OPEN,
 #9,30,OPEN,
 #13,30,OPEN,
-#14,30,SOLD,passi97
-#15,30,SOLD,justsomecardguy
 #16,30,OPEN,
 #17,30,OPEN,
 #18,30,OPEN,
@@ -16,7 +14,6 @@ spot,price,state,buyer
 #23,30,OPEN,
 #24,30,OPEN,
 #26,30,OPEN,
-#27,30,SOLD,justsomecardguy
 #28,30,OPEN,
 #29,30,OPEN,
 #30,30,OPEN,
