@@ -11,7 +11,6 @@ spot,price,state,buyer
 #10,13,OPEN,
 #11,13,OPEN,
 32. Jalen Milroe – Byrum Brown,13,SOLD,tobigr19
-#13,13,OPEN,
 #14,13,OPEN,
 26. Aaron Murray – Brock Purdy,13,SOLD,tobigr19
 #16,13,OPEN,
@@ -20,7 +19,6 @@ spot,price,state,buyer
 #19,13,OPEN,
 #20,13,OPEN,
 #21,13,OPEN,
-#22,13,OPEN,
 8. Joe Theisman – Andrew Edwards,13,SOLD,totocards
 #24,13,OPEN,
 #25,13,OPEN,
@@ -56,3 +54,5 @@ spot,price,state,buyer
 #55,13,OPEN,
 #56,13,OPEN,
 30. Arrington Maiden – DJ Lagway,13,SOLD,flex157
+10. Bernie Kosar – Garrett Greene,11,SOLD,jimmy_monke
+1. David Klingler – Patrick Mahomes,13,SOLD,jimmy_monke

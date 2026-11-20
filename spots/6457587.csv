@@ -2,7 +2,6 @@ spot,price,state,buyer
 #1,9,OPEN,
 #2,9,OPEN,
 #3,9,OPEN,
-#4,9,OPEN,
 #5,9,OPEN,
 #6,9,OPEN,
 #7,9,OPEN,
@@ -31,3 +30,4 @@ spot,price,state,buyer
 #30,9,OPEN,
 #31,9,OPEN,
 #32,9,OPEN,
+#4,9,SOLD,tpsbmp93821

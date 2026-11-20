@@ -1,7 +1,6 @@
 spot,price,state,buyer
 #1,32,OPEN,
 #2,32,OPEN,
-#3,32,OPEN,
 #4,32,OPEN,
 #5,32,OPEN,
 #6,32,OPEN,
@@ -31,3 +30,4 @@ spot,price,state,buyer
 #30,32,OPEN,
 #31,32,OPEN,
 #32,32,OPEN,
+#3,28.8,SOLD,karlklammer
