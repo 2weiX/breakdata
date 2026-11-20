@@ -1,13 +1,14 @@
 spot,price,state,buyer
 Arizona Cardinals,49,OPEN,
-Atlanta Falcons,19,OPEN,
+Atlanta Falcons,15,SOLD,reesefab
 Baltimore Ravens,18,SOLD,kawara
-Buffalo Bills,44,OPEN,
+Buffalo Bills,37,SOLD,bauer95
 Carolina Panthers,31,OPEN,
+Chicago Bears,30.8,SOLD,cassiorene
 Cincinnati Bengals,20.4,SOLD,bauer95
-Cleveland Browns,28,OPEN,
+Cleveland Browns,25,SOLD,reesefab
 Dallas Cowboys,28.05,SOLD,flex157
-Denver Broncos,46,OPEN,
+Denver Broncos,39,SOLD,hoenico
 Detroit Lions,19,SOLD,fortyfourcollect
 Green Bay Packers,16,SOLD,matthiasradakovits83
 Houston Texans,31,OPEN,
@@ -15,19 +16,18 @@ Indianapolis Colts,17,SOLD,oldmanoli
 Jacksonville Jaguars,17,SOLD,oldmanoli
 Kansas City Chiefs,50,SOLD,roughberlin
 Las Vegas Raiders,98,OPEN,
-Los Angeles Chargers,20,OPEN,
+Los Angeles Chargers,20,SOLD,reesefab
 Los Angeles Rams,61,OPEN,
 Miami Dolphins,23,OPEN,
 Minnesota Vikings,18,SOLD,derwirth
 New England Patriots,53,SOLD,roughberlin
-New Orleans Saints,33,OPEN,
+New Orleans Saints,27,SOLD,bauer95
 New York Giants,35,OPEN,
 New York Jets,25,OPEN,
 Philadelphia Eagles,20.4,SOLD,passi97
 Pittsburgh Steelers,20.7,SOLD,hustinho
 San Francisco 49ers,28,SOLD,marcmontana77
 Seattle Seahawks,28.05,SOLD,flex157
-Tennessee Titans,33,OPEN,
-Washington Commanders,42,OPEN,
-Chicago Bears,30.8,SOLD,cassiorene
 Tampa Bay Buccaneers,22.1,SOLD,benjaminhinz
+Tennessee Titans,28,SOLD,benjaminhinz
+Washington Commanders,42,OPEN,
