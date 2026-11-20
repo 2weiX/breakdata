@@ -1,33 +1,24 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+Buffalo Bills,13,SOLD,atcgut
+Chicago Bears,14,SOLD,hambone1073
+Cincinnati Bengals,17,SOLD,thomasj22
+Dallas Cowboys,20,SOLD,atcgut
+Denver Broncos,17,SOLD,hambone1073
+Detroit Lions,11,SOLD,thomasj22
+Indianapolis Colts,23,SOLD,bkimpel21
+Jacksonville Jaguars,20,SOLD,bkimpel21
+Kansas City Chiefs,9,SOLD,soleciopath
+Los Angeles Chargers,20,SOLD,thomasj22
+Los Angeles Rams,17,SOLD,dta_mob
+New Orleans Saints,18,SOLD,hambone1073
+New York Jets,16,SOLD,bkimpel21
+Philadelphia Eagles,17,SOLD,hambone1073
+Pittsburgh Steelers,12,SOLD,atcgut
+Seattle Seahawks,18,SOLD,dta_mob
+Tennessee Titans,12,SOLD,atcgut
+Washington Commanders,27,SOLD,bkimpel21
+"New York Giants, Tampa Bay Buccaneers",13,SOLD,cards4fun707
+#4,13,SOLD,cards4fun707
+#13,10,SOLD,doomday_mfs
+"Minnesota Vikings, New England Patriots",36,SOLD,atcgut
+"Green Bay Packers, San Francisco 49ers",28,SOLD,gobama72

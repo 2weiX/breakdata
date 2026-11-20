@@ -1,13 +1,10 @@
 spot,price,state,buyer
-#1,7,OPEN,
-#3,7,OPEN,
 Jacksonville Jaguars,7,SOLD,ato38
 Kansas City Chiefs,7,SOLD,alex889cards
 Atlanta Falcons,6,SOLD,jensrh
 Tennessee Titans,7,SOLD,mightytim84
 Chicago Bears,7,SOLD,murmel74
 New Orleans Saints,7,SOLD,bighoffes80
-#10,7,OPEN,
 Green Bay Packers,7,SOLD,mightytim84
 Indianapolis Colts,7,SOLD,jensrh
 Philadelphia Eagles,7,SOLD,rayleigh_j_b
@@ -16,13 +13,11 @@ Los Angeles Rams,7,SOLD,jensrh
 Miami Dolphins,7,SOLD,ato38
 Dallas Cowboys,7,SOLD,murmel74
 Las Vegas Raiders,6,SOLD,mightytim84
-#20,7,OPEN,
 Tampa Bay Buccaneers,7,SOLD,mightytim84
 Washington Commanders,7,SOLD,bighoffes80
 San Francisco 49ers,7,SOLD,rayleigh_j_b
 Cincinnati Bengals,7,SOLD,bighoffes80
 Seattle Seahawks,7,SOLD,alex889cards
-#26,7,OPEN,
 Baltimore Ravens,6,SOLD,murmel74
 Cleveland Browns,7,SOLD,bighoffes80
 Minnesota Vikings,7,SOLD,bighoffes80
@@ -31,3 +26,8 @@ New York Giants,7,SOLD,mightytim84
 Detroit Lions,5.95,SOLD,alex889cards
 Los Angeles Chargers,6.5,SOLD,alex889cards
 Pittsburgh Steelers,6,SOLD,bighoffes80
+Arizona Cardinals,6,SOLD,jensrh
+Houston Texans,7,SOLD,bighoffes80
+Carolina Panthers,7,SOLD,alex889cards
+Denver Broncos,7,SOLD,bighoffes80
+New England Patriots,5,SOLD,bighoffes80

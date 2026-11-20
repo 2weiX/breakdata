@@ -1,11 +1,9 @@
 spot,price,state,buyer
 #3,14,OPEN,
 #4,14,SOLD,rikigronk87
-#5,14,OPEN,
 Kansas City Chiefs,12,SOLD,rikigronk87
 #8,14,OPEN,
 #10,14,OPEN,
-#11,14,OPEN,
 #12,14,OPEN,
 New York Giants,10,SOLD,rikigronk87
 #14,14,OPEN,
@@ -31,3 +29,5 @@ Chicago Bears,12.6,SOLD,mosquitotito
 Denver Broncos,12.6,SOLD,mosquitotito
 Dallas Cowboys,12.6,SOLD,mosquitotito
 Las Vegas Raiders,14,SOLD,jimmy_monke
+Buffalo Bills,12,SOLD,rikigronk87
+Pittsburgh Steelers,14,SOLD,fabian_93

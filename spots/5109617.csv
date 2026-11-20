@@ -1,15 +1,15 @@
 spot,price,state,buyer
 Arizona Cardinals,7,OPEN,
-Atlanta Falcons,7,OPEN,
+Atlanta Falcons,5.6,SOLD,tatershed
 Baltimore Ravens,10,OPEN,
 Buffalo Bills,10,SOLD,krginkel
 Carolina Panthers,15,OPEN,
 Chicago Bears,15,OPEN,
-Cincinnati Bengals,10,OPEN,
+Cincinnati Bengals,8,SOLD,dawgs2b
 Cleveland Browns,20,OPEN,
 Dallas Cowboys,7,OPEN,
 Denver Broncos,10,OPEN,
-Detroit Lions,7,OPEN,
+Detroit Lions,5.6,SOLD,tatershed
 Green Bay Packers,7,OPEN,
 Houston Texans,7,OPEN,
 Indianapolis Colts,15,OPEN,
@@ -19,7 +19,7 @@ Las Vegas Raiders,18,OPEN,
 Los Angeles Chargers,10,OPEN,
 Los Angeles Rams,10,OPEN,
 Miami Dolphins,7,OPEN,
-Minnesota Vikings,7,OPEN,
+Minnesota Vikings,15,OPEN,
 New England Patriots,15,OPEN,
 New Orleans Saints,18,OPEN,
 New York Giants,33,OPEN,
@@ -30,4 +30,4 @@ San Francisco 49ers,7,SOLD,mortymoore
 Seattle Seahawks,10,OPEN,
 Tampa Bay Buccaneers,15,OPEN,
 Tennessee Titans,20,OPEN,
-Washington Commanders,7,OPEN,
+Washington Commanders,4.9,SOLD,rdr570

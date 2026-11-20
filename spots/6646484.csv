@@ -1,34 +1,19 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-MISC,,OPEN,
+Atlanta Falcons,130,SOLD,wildcats2686
+Buffalo Bills,166,SOLD,peterupinyou85
+Carolina Panthers,115,SOLD,lanbri46107
+Chicago Bears,160,SOLD,peterupinyou85
+Cincinnati Bengals,106,SOLD,lantzuh
+Kansas City Chiefs,116,SOLD,lanbri46107
+Las Vegas Raiders,111,SOLD,lanbri46107
+Los Angeles Chargers,127,SOLD,justinripswax
+Miami Dolphins,132,SOLD,justinripswax
+Minnesota Vikings,110,SOLD,justinripswax
+New England Patriots,116,SOLD,justinripswax
+Philadelphia Eagles,140,SOLD,wildcats2686
+Washington Commanders,105,SOLD,lanbri46107
+MISC,121,SOLD,justinripswax
+#1,99,SOLD,lanbri46107
+#3,165,SOLD,lanbri46107
+#6,116,SOLD,lanbri46107
+"Los Angeles Rams, Seattle Seahawks",371,SOLD,peterupinyou85

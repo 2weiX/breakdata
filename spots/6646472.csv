@@ -1,24 +1,51 @@
 spot,price,state,buyer
-#1,125.8,SOLD,johnkho23
 Cleveland Browns,155,SOLD,johnkho23
 Kansas City Chiefs,159,SOLD,jaypro78
 🔥Denver Broncos🔥,165,SOLD,jaypro78
-#5,156,SOLD,johnkho23
 🔥 Cincinnati Bengals 🔥,160,SOLD,johnkho23
-Arizona Cardinals,130.05,SOLD,danm033080
+Arizona Cardinals,53,SOLD,aldog714
 Indianapolis Colts,128.35,SOLD,lantzuh
-#9,155,SOLD,danm033080
 Baltimore Ravens,155,SOLD,ryanhan41096
 🔥Philadelphia Eagles🔥,130.9,SOLD,prepper616
-#12,149,SOLD,ryanhan41096
-#13,156,SOLD,ryanhan41096
 Dallas Cowboys,155,SOLD,delidad3
-#15,157,SOLD,delidad3
-#16,123.25,SOLD,tylerwing33346
-#17,158,SOLD,tylerwing33346
-#18,165,SOLD,tylerwing33346
 🔥Los Angeles Rams🔥,169,SOLD,tylerwing33346
-#20,146,SOLD,delidad3
-#21,145,SOLD,jaypro78
 🔥Houston Texans🔥,145,SOLD,tylerwing33346
-#23,1,OPEN,
+T,125.8,SOLD,johnkho23
+T,156,SOLD,johnkho23
+🔥Chicago Bears🔥,130.05,SOLD,danm033080
+T,155,SOLD,danm033080
+T,149,SOLD,ryanhan41096
+T,156,SOLD,ryanhan41096
+T,157,SOLD,delidad3
+T,123.25,SOLD,tylerwing33346
+T,158,SOLD,tylerwing33346
+T,165,SOLD,tylerwing33346
+T,146,SOLD,delidad3
+T,145,SOLD,jaypro78
+T,130,SOLD,malu12
+#24,130,SOLD,gardaitron39
+🔥Miami Dolphins🔥,125,SOLD,jaypro78
+Seattle Seahawks,135,SOLD,tylerwing33346
+T,120,SOLD,danm033080
+🔥Jacksonville Jaguars🔥,135,SOLD,tylerwing33346
+T,103,SOLD,delidad3
+T,107,SOLD,ryanhan41096
+🔥Atlanta Falcons🔥,116,SOLD,delidad3
+Minnesota Vikings,115,SOLD,ryanhan41096
+T,78,SOLD,malu12
+🔥Pittsburgh Steelers🔥,81,SOLD,malu12
+New York Jets,73,SOLD,shasha11
+San Francisco 49ers,53,SOLD,zrcard
+Green Bay Packers,91,SOLD,malu12
+New Orleans Saints,61,SOLD,zrcard
+Los Angeles Chargers,60,SOLD,zrcard
+Buffalo Bills,60,SOLD,zrcard
+MISC,89,SOLD,peterupinyou85
+Carolina Panthers,89,SOLD,tylerwing33346
+Detroit Lions,82,SOLD,jokerstef
+Tampa Bay Buccaneers,90,SOLD,zrcard
+Tennessee Titans,90,SOLD,jokerstef
+🔥Las Vegas Raiders🔥,99,SOLD,tylerwing33346
+New England Patriots,45,SOLD,lanbri46107
+New York Giants,45,SOLD,lanbri46107
+Washington Commanders,32,SOLD,lanbri46107

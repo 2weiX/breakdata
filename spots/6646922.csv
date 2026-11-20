@@ -1,6 +1,5 @@
 spot,price,state,buyer
 #1,30,SOLD,trevor23whitcher
-Buffalo Bills,7,SOLD,cbckiggins12
 Carolina Panthers,26,SOLD,cbckiggins12
 Pittsburgh Steelers,27,SOLD,trevor23whitcher
 New Orleans Saints,30,SOLD,cbckiggins12
@@ -28,4 +27,8 @@ Denver Broncos,23,SOLD,kn_ripz
 Minnesota Vikings,22,SOLD,melmel23291
 Arizona Cardinals,32,SOLD,rileybeinreal
 Dallas Cowboys,34,SOLD,rileybeinreal
-#30,1,OPEN,
+"Buffalo Bills, Philadelphia Eagles",7,SOLD,cbckiggins12
+Cincinnati Bengals,24,SOLD,valdez33
+Seattle Seahawks,27,SOLD,trevor23whitcher
+Atlanta Falcons,17,SOLD,bp_3316
+Cleveland Browns,25,SOLD,cbckiggins12
