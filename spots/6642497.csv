@@ -1,32 +1,28 @@
 spot,price,state,buyer
-Arizona Cardinals,16,OPEN,
-Atlanta Falcons,6,OPEN,
+Arizona Cardinals,12.8,SOLD,morgan88226
 Baltimore Ravens,7,SOLD,oxleyjn
 Buffalo Bills,15,SOLD,bills1971
-Carolina Panthers,6,OPEN,
 Chicago Bears,19,SOLD,cableguy3167
 Cincinnati Bengals,4,SOLD,robertaug061194
 Cleveland Browns,8,SOLD,squirtle34
 Denver Broncos,8,SOLD,cableguy3167
 Detroit Lions,7,SOLD,robertaug061194
 Green Bay Packers,9,SOLD,cableguy3167
-Houston Texans,7,OPEN,
-Indianapolis Colts,7,OPEN,
+Houston Texans,5,SOLD,jibblesbreaks
 Jacksonville Jaguars,7,SOLD,pricelesscardboard
 Kansas City Chiefs,15,SOLD,jram9645
 Las Vegas Raiders,15.2,SOLD,browtine
 Los Angeles Chargers,4.72,SOLD,robertaug061194
-Los Angeles Rams,12,OPEN,
 Miami Dolphins,6,SOLD,richardsolos
-Minnesota Vikings,9,OPEN,
 New England Patriots,11.2,SOLD,graveheart
 New Orleans Saints,8,SOLD,cableguy3167
 New York Giants,6,SOLD,alika52
-New York Jets,7,OPEN,
-Philadelphia Eagles,11,OPEN,
+Philadelphia Eagles,11,SOLD,py420
 Pittsburgh Steelers,8,SOLD,booobooo_steelah
 San Francisco 49ers,10,SOLD,robertaug061194
 Seattle Seahawks,7.2,SOLD,morgan88226
 Tampa Bay Buccaneers,6,SOLD,robertaug061194
-Tennessee Titans,10,OPEN,
 Washington Commanders,4.72,SOLD,robertaug061194
+Atlanta Falcons & Minnesota Vikings,12.5,SOLD,sdmfberzerker
+Carolina Panthers & Indianapolis Colts,10,SOLD,py420
+"Los Angeles Rams, New York Jets & Tennessee Titans",23.5,SOLD,morgan88226

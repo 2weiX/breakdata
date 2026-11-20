@@ -1,34 +1,40 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-Miscellaneous,,OPEN,
+Arizona Cardinals,75,SOLD,carrollcomics98
+Atlanta Falcons,97,SOLD,jeremyfun53937
+Baltimore Ravens,112,SOLD,omw2fyb219
+Buffalo Bills,160,SOLD,brownkyl8
+Carolina Panthers,80,SOLD,wadeicus34
+Chicago Bears,97,SOLD,cardmark_
+Cincinnati Bengals,103,SOLD,brownkyl8
+Cleveland Browns,89,SOLD,omw2fyb219
+Dallas Cowboys,121,SOLD,brownkyl8
+Denver Broncos,8,SOLD,willriv43766
+Detroit Lions,165,SOLD,brownkyl8
+Green Bay Packers,101,SOLD,jeremyfun53937
+Houston Texans,94,SOLD,omw2fyb219
+Indianapolis Colts,91,SOLD,typhooniego
+Jacksonville Jaguars,97,SOLD,rt89
+Kansas City Chiefs,115,SOLD,dpturnerjr
+Las Vegas Raiders,98,SOLD,jeremyfun53937
+Los Angeles Chargers,134,SOLD,brownkyl8
+Los Angeles Rams,110,SOLD,brownkyl8
+Miami Dolphins,85,SOLD,jameshung
+Minnesota Vikings,88,SOLD,omw2fyb219
+New England Patriots,157,SOLD,brownkyl8
+New Orleans Saints,110,SOLD,brownkyl8
+New York Giants,120,SOLD,dpturnerjr
+Philadelphia Eagles,85,SOLD,carrollcomics98
+Pittsburgh Steelers,145,SOLD,brownkyl8
+San Francisco 49ers,106,SOLD,brownkyl8
+Tennessee Titans,69,SOLD,kickcollectibles
+Washington Commanders,70,SOLD,brianben88056
+Miscellaneous,119,SOLD,brownkyl8
+#2,107,SOLD,brownkyl8
+#5,107,SOLD,brownkyl8
+#12,101,SOLD,omw2fyb219
+#16,91,SOLD,omw2fyb219
+#22,90,SOLD,typhooniego
+#26,120,SOLD,jeremyfun53937
+#27,110,SOLD,jeremyfun53937
+#31,120,SOLD,jeremyfun53937
+#39,1,OPEN,

@@ -1,33 +1,31 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+Atlanta Falcons,5,SOLD,robcroteau924
+Buffalo Bills,40,SOLD,muhrda86
+Carolina Panthers,36,SOLD,twood1404
+Chicago Bears,17,SOLD,fisterer12619
+Cincinnati Bengals,19,SOLD,fisterer12619
+Cleveland Browns,38,SOLD,fisterer12619
+Dallas Cowboys,68,SOLD,fisterer12619
+Denver Broncos,29,SOLD,twood1404
+Detroit Lions,24,SOLD,fisterer12619
+Green Bay Packers,29,SOLD,muhrda86
+Houston Texans,34,SOLD,fisterer12619
+Jacksonville Jaguars,37,SOLD,fisterer12619
+Kansas City Chiefs,33,SOLD,muhrda86
+Las Vegas Raiders,32,SOLD,fisterer12619
+Los Angeles Chargers,59,SOLD,fisterer12619
+Los Angeles Rams,58,SOLD,fisterer12619
+Miami Dolphins,32,SOLD,fisterer12619
+Minnesota Vikings,54,SOLD,fisterer12619
+New England Patriots,32,SOLD,fisterer12619
+New Orleans Saints,22,SOLD,fisterer12619
+New York Giants,41,SOLD,muhrda86
+New York Jets,40,SOLD,muhrda86
+Philadelphia Eagles,35,SOLD,fisterer12619
+Pittsburgh Steelers,40,SOLD,muhrda86
+San Francisco 49ers,26,SOLD,fisterer12619
+Tampa Bay Buccaneers,29,SOLD,fisterer12619
+Tennessee Titans,32,SOLD,fisterer12619
+Washington Commanders,35,SOLD,fisterer12619
+"Arizona Cardinals, Seattle Seahawks",39,SOLD,muhrda86
+"Baltimore Ravens, Indianapolis Colts",43,SOLD,fisterer12619

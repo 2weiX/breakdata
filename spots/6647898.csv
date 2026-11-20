@@ -1,34 +1,19 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-MISC,,OPEN,
+Baltimore Ravens,305,SOLD,jkirish1
+Buffalo Bills,405,SOLD,jkirish1
+Cleveland Browns,343,SOLD,boston8899
+Detroit Lions,340,SOLD,kidelm
+Houston Texans,320,SOLD,mahomesfan1
+Kansas City Chiefs,400,SOLD,mahomesfan1
+Los Angeles Rams,345,SOLD,boston8899
+New Orleans Saints,350,SOLD,mahomesfan1
+New York Giants,455,SOLD,jkirish1
+San Francisco 49ers,350,SOLD,boston8899
+#2,425,SOLD,boston8899
+#4,400,SOLD,boston8899
+#8,335,SOLD,boston8899
+#13,340,SOLD,jkirish1
+#14,330,SOLD,jkirish1
+#16,310,SOLD,kidelm
+#17,300,SOLD,mahomesfan1
+#18,315,SOLD,mahomesfan1

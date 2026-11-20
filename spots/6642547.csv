@@ -1,33 +1,33 @@
 spot,price,state,buyer
-Arizona Cardinals,5,OPEN,
+Arizona Cardinals,3,OPEN,
 Atlanta Falcons,5,SOLD,stevensau35258
-Baltimore Ravens,5,OPEN,
-Buffalo Bills,5,OPEN,
+Baltimore Ravens,3,OPEN,
+Buffalo Bills,3,SOLD,keecards_
 Carolina Panthers,8,SOLD,degnerd20
-Chicago Bears,7,OPEN,
-Cincinnati Bengals,5,OPEN,
+Chicago Bears,3,SOLD,feltssportscards
+Cincinnati Bengals,3,OPEN,
 Cleveland Browns,13,SOLD,degnerd20
-Dallas Cowboys,6,OPEN,
+Dallas Cowboys,3,OPEN,
 Denver Broncos,8,SOLD,ashlynnh24
-Detroit Lions,5,OPEN,
+Detroit Lions,3,OPEN,
 Green Bay Packers,6,SOLD,ashlynnh24
-Houston Texans,5,OPEN,
-Indianapolis Colts,5,OPEN,
-Jacksonville Jaguars,10,OPEN,
+Houston Texans,5,SOLD,ashlynnh24
+Indianapolis Colts,3,OPEN,
+Jacksonville Jaguars,3,SOLD,feltssportscards
 Kansas City Chiefs,5,SOLD,keecards_
-Las Vegas Raiders,12,OPEN,
-Los Angeles Chargers,6,OPEN,
+Las Vegas Raiders,4,SOLD,feltssportscards
+Los Angeles Chargers,3,OPEN,
 Los Angeles Rams,5,SOLD,pearob36088
-Miami Dolphins,5,OPEN,
+Miami Dolphins,3,OPEN,
 Minnesota Vikings,5,SOLD,degnerd20
-New England Patriots,8,OPEN,
-New Orleans Saints,9,OPEN,
-New York Giants,15,OPEN,
-New York Jets,5,OPEN,
+New England Patriots,3,OPEN,
+New Orleans Saints,4,SOLD,ashlynnh24
+New York Giants,8,SOLD,feltssportscards
+New York Jets,3,OPEN,
 Philadelphia Eagles,8,SOLD,feltssportscards
-Pittsburgh Steelers,9,OPEN,
-San Francisco 49ers,5,OPEN,
-Seattle Seahawks,5,OPEN,
-Tampa Bay Buccaneers,5,OPEN,
-Tennessee Titans,14,OPEN,
-Washington Commanders,6,OPEN,
+Pittsburgh Steelers,4,OPEN,
+San Francisco 49ers,3,OPEN,
+Seattle Seahawks,3,OPEN,
+Tampa Bay Buccaneers,3,OPEN,
+Tennessee Titans,5,SOLD,feltssportscards
+Washington Commanders,3,OPEN,

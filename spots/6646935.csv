@@ -1,33 +1,36 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+Arizona Cardinals,34,SOLD,sergemode22
+Atlanta Falcons,21,SOLD,foose1324
+Baltimore Ravens,3,SOLD,schmeatwagon
+Buffalo Bills,22,SOLD,foose1324
+Carolina Panthers,17,SOLD,chefstevenhaught216
+Chicago Bears,18,SOLD,chefstevenhaught216
+Cincinnati Bengals,18,SOLD,chefstevenhaught216
+Dallas Cowboys,20,SOLD,robbydyk
+Detroit Lions,7,SOLD,schmeatwagon
+Green Bay Packers,24,SOLD,boyhairz3seam
+Houston Texans,20,SOLD,ivan50571
+Indianapolis Colts,22,SOLD,mcdevitttom81
+Jacksonville Jaguars,14,SOLD,schmeatwagon
+Kansas City Chiefs,1,SOLD,schmeatwagon
+Las Vegas Raiders,19,SOLD,flipzki
+Los Angeles Chargers,18,SOLD,mcdevitttom81
+Los Angeles Rams,19,SOLD,foose1324
+Miami Dolphins,13,SOLD,daylanc27
+Minnesota Vikings,18,SOLD,sdr1111
+New York Giants,22,SOLD,schmeatwagon
+New York Jets,18,SOLD,foose1324
+Philadelphia Eagles,21,SOLD,boyhairz3seam
+Pittsburgh Steelers,16,SOLD,chefstevenhaught216
+San Francisco 49ers,15,SOLD,brentbal70393
+Seattle Seahawks,24,SOLD,foose1324
+Tampa Bay Buccaneers,28,SOLD,fortier33
+Tennessee Titans,17,SOLD,chefstevenhaught216
+Washington Commanders,17,SOLD,brentbal70393
+"Cleveland Browns, New Orleans Saints",49,SOLD,vanhorn82
+"Denver Broncos, New England Patriots",45,SOLD,sdr1111
+#22,35,SOLD,foose1324
+#24,24,SOLD,foose1324
+#31,26,SOLD,foose1324
+#32,30,SOLD,foose1324
+#34,30,SOLD,foose1324

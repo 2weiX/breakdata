@@ -1,34 +1,21 @@
 spot,price,state,buyer
-LA Rams + LA Lakers + LA Angels,,OPEN,
-CHI Bears + CHI Bulls + CHI Cubs,,OPEN,
-NE Patriots + BOS Celtics + BOS Red Sox,,OPEN,
-LA Chargers + LA Clippers + LA Dodgers,,OPEN,
-DAL Cowboys + DAL Mavericks + TX Rangers,,OPEN,
-KC Chiefs + OKC Thunder + KC Royals,,OPEN,
-BUF Bills + TOR Raptors + TOR Blue Jays,,OPEN,
-PIT Steelers + SA Spurs + PIT Pirates,,OPEN,
-SF 49ers + GS Warriors + SF Giants,,OPEN,
-CLE Browns + CLE Cavaliers + CLE Guardians,,OPEN,
-MISC,,OPEN,
-BAL Ravens + SAC Kings + BAL Orioles,,OPEN,
-CIN Bengals + CIN Reds,,OPEN,
-MIN Vikings + MIN Timberwolves + MIN Twins,,OPEN,
-TB Buccaneers + ORL Magic + TB Rays,,OPEN,
-DEN Broncos + DEN Nuggets + CO Rockies,,OPEN,
-NY Giants + NY Knicks + NY Yankees,,OPEN,
-AZ Cardinals + PHX Suns + AZ Diamondbacks,,OPEN,
-IND Colts + IND Pacers + CHI White Sox,,OPEN,
-WAS Commanders + WAS Wizards + WAS Nationals,,OPEN,
-MIA Dolphins + MIA Heat + MIA Marlins,,OPEN,
-PHI Eagles + PHI 76ers + PHI Phillies,,OPEN,
-ATL Falcons + ATL Hawks + ATL Braves,,OPEN,
-JAX Jaguars + SD Padres,,OPEN,
-NY Jets + BK Nets + NY Mets,,OPEN,
-DET Lions + DET Pistons + DET Tigers,,OPEN,
-GB Packers + MIL Bucks + MIL Brewers,,OPEN,
-CAR Panthers + CHA Hornets,,OPEN,
-LV Raiders + UTA Jazz + OK Athletics,,OPEN,
-NO Saints + NO Pelicans,,OPEN,
-SEA Seahawks + POR Trail Blazers + SEA Mariners,,OPEN,
-HOU Texans + HOU Rockets + HOU Astros,,OPEN,
-TEN Titans + MEM Grizzlies + STL Cardinals,,OPEN,
+LA Rams + LA Lakers + LA Angels,78,SOLD,bigglezworth
+NE Patriots + BOS Celtics + BOS Red Sox,162,SOLD,bigglezworth
+LA Chargers + LA Clippers + LA Dodgers,100,SOLD,dantheman1224
+DAL Cowboys + DAL Mavericks + TX Rangers,116,SOLD,steelheaddan
+KC Chiefs + OKC Thunder + KC Royals,89,SOLD,jkc713
+BUF Bills + TOR Raptors + TOR Blue Jays,105,SOLD,wilziah
+PIT Steelers + SA Spurs + PIT Pirates,105,SOLD,jmccain17
+CLE Browns + CLE Cavaliers + CLE Guardians,110,SOLD,bigglezworth
+MISC,91,SOLD,jmccain17
+BAL Ravens + SAC Kings + BAL Orioles,110,SOLD,mg0204
+CIN Bengals + CIN Reds,165,SOLD,wilziah
+DET Lions + DET Pistons + DET Tigers,71,SOLD,hurricanehayes_
+GB Packers + MIL Bucks + MIL Brewers,80,SOLD,bigglezworth
+#1,97,SOLD,bigglezworth
+#6,97,SOLD,steelheaddan
+#8,98,SOLD,mg0204
+#12,165,SOLD,wilziah
+#14,120,SOLD,wilziah
+#16,107,SOLD,dantheman1224
+#19,90,SOLD,hurricanehayes_

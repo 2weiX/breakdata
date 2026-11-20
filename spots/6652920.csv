@@ -1,5 +1,4 @@
 spot,price,state,buyer
-#1,82,SOLD,opensesamebreaks
 #2,76,SOLD,bigglezworth
 DAL Cowboys + DAL Mavericks + TX Rangers,79,SOLD,opensesamebreaks
 #4,77,SOLD,steelheaddan
@@ -15,13 +14,38 @@ PIT Steelers + SA Spurs + PIT Pirates,91,SOLD,steelheaddan
 LA Chargers + LA Clippers + LA Dodgers,83,SOLD,bigglezworth
 KC Chiefs + OKC Thunder + KC Royals,80,SOLD,bigglezworth
 DEN Broncos + DEN Nuggets + CO Rockies,75,SOLD,dantheman1224
-#18,73,SOLD,bigglezworth
 #19,72,SOLD,bigglezworth
 NE Patriots + BOS Celtics + BOS Red Sox,83,SOLD,modellbreaks
 CLE Browns + CLE Cavaliers + CLE Guardians,79,SOLD,modellbreaks
 #22,70,SOLD,modellbreaks
 LA Rams + LA Lakers + LA Angels,71,SOLD,bigglezworth
 #24,51,SOLD,hurricanehayes_
-LV Raiders + UTA Jazz + OK Athletics,51,SOLD,hurricanehayes_
-WAS Commanders + WAS Wizards + WAS Nationals,59,SOLD,hurricanehayes_
-#27,51,SOLD,hurricanehayes_
+LV Raiders + UTA Jazz + OK Athletics,73,SOLD,bigglezworth
+WAS Commanders + WAS Wizards + WAS Nationals,9,SOLD,mattman07783
+SEA Seahawks + POR Trail Blazers + SEA Mariners,82,SOLD,opensesamebreaks
+#25,51,SOLD,hurricanehayes_
+#26,59,SOLD,hurricanehayes_
+PHI Eagles + PHI 76ers + PHI Phillies,51,SOLD,hurricanehayes_
+BAL Ravens + SAC Kings + BAL Orioles,62,SOLD,hurricanehayes_
+GB Packers + MIL Bucks + MIL Brewers,61,SOLD,hurricanehayes_
+#30,79,SOLD,hurricanehayes_
+SF 49ers + GS Warriors + SF Giants,56,SOLD,steelheaddan
+HOU Texans + HOU Rockets + HOU Astros,59,SOLD,hurricanehayes_
+IND Colts + IND Pacers + CHI White Sox,56,SOLD,dollar_dugout
+#34,61,SOLD,steelheaddan
+DET Lions + DET Pistons + DET Tigers,47,SOLD,hurricanehayes_
+#36,26,SOLD,hurricanehayes_
+#37,45,SOLD,hurricanehayes_
+NY Giants + NY Knicks + NY Yankees,45,SOLD,mattman07783
+#39,38,SOLD,aswupr
+"MIA Dolphins + MIA Heat + MIA Marlins, ATL Falcons + ATL Hawks + ATL Braves",38,SOLD,hurricanehayes_
+MISC,48,SOLD,aswupr
+CHI Bears + CHI Bulls + CHI Cubs,42,SOLD,hurricanehayes_
+CAR Panthers + CHA Hornets,6,SOLD,bigglezworth
+#44,6,SOLD,bigglezworth
+JAX Jaguars + SD Padres,8,SOLD,dollar_dugout
+TEN Titans + MEM Grizzlies + STL Cardinals,3,SOLD,bigglezworth
+#47,9,SOLD,opensesamebreaks
+AZ Cardinals + PHX Suns + AZ Diamondbacks,13,SOLD,mattman07783
+NO Saints + NO Pelicans,14,SOLD,denali_breaks
+NY Jets + BK Nets + NY Mets,9,SOLD,mojojoejoe727

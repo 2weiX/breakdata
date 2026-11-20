@@ -1,13 +1,13 @@
 spot,price,state,buyer
 Alabama,69,OPEN,
 Arizona,9,OPEN,
-Arizona State,42,OPEN,
+Arizona State,30,SOLD,dkz1314
 Arkansas,25,SOLD,jeremyd8
 Auburn,25,OPEN,
 BYU,139,OPEN,
 Baylor,14,SOLD,waynehags91
-Boise State,9,OPEN,
-Boston College,9,OPEN,
+Boise State,5,SOLD,ripperjones36
+Boston College,5,SOLD,jeremyd8
 California,58.88,SOLD,jeremyd8
 Cincinnati,25,OPEN,
 Clemson,30,SOLD,adarob88868
@@ -16,14 +16,13 @@ Delaware,15,SOLD,ju1ior
 Josh Allen - Firebaugh High School,19,SOLD,bombsquad_sportscards
 Florida,59,OPEN,
 Florida State,25,OPEN,
-Fresno State,6,OPEN,
+Fresno State,4,SOLD,ripperjones36
 Georgia,49,OPEN,
 Houston and Akron,13,SOLD,demcanes
 Illinois,29,OPEN,
 Indiana,89,OPEN,
-Iowa,9,OPEN,
 Iowa State and Caleb Williams High School Spot,27,SOLD,mattyrd9
-Peyton Manning - Isidore Newman School,19,OPEN,
+Peyton Manning - Isidore Newman School,15.2,SOLD,5starcardcollectables
 Kansas,35,OPEN,
 Kansas State,20,SOLD,nittanylion506
 Kentucky,59,OPEN,
@@ -31,13 +30,13 @@ LSU,39,OPEN,
 Louisiana,16.1,SOLD,breaks_by_u
 Louisville,8,SOLD,tcorn01
 Maryland,12,OPEN,
-Miami / Duke,189,OPEN,
+Miami / Duke,140,SOLD,eeikevik
 Michigan,79,OPEN,
 Michigan State,21,SOLD,jeremiahwood
-Minnesota,6,OPEN,
+Minnesota,3,SOLD,ripperjones36
 Mississippi State,149,OPEN,
 Missouri,29,OPEN,
-NC State,6,OPEN,
+NC State,2,SOLD,ripperjones36
 Nebraska,49,OPEN,
 New Mexico,9,OPEN,
 North Carolina,14,SOLD,waynehags91
@@ -45,7 +44,7 @@ Northwestern,15,OPEN,
 Notre Dame,140,SOLD,handcuffs
 Ohio State,45,SOLD,waynehags91
 Oklahoma,29,SOLD,johnnymo70
-Oklahoma State,189,OPEN,
+Oklahoma State,140,SOLD,bricktamland415
 Ole Miss,25,SOLD,dano1292
 Oregon,55,OPEN,
 Penn State,12,SOLD,andyr77
@@ -57,7 +56,6 @@ San Diego State,10,SOLD,cblade19
 South Carolina,42,SOLD,adarob88868
 Stanford,35,OPEN,
 Syracuse,25,OPEN,
-TCU,29,OPEN,
 Tennessee,59,OPEN,
 Texas,189,OPEN,
 Texas A&M,59,OPEN,
@@ -67,16 +65,17 @@ Tulsa,12,OPEN,
 UCF,29,OPEN,
 UCLA,19,OPEN,
 UConn,14,OPEN,
-UNLV,6,OPEN,
+UNLV,6,SOLD,nittanylion506
 USC,71.1,SOLD,frankbuc43102
-Utah,49,OPEN,
+Utah,35,SOLD,bricktamland415
 Vanderbilt,59,OPEN,
-Virginia,9,OPEN,
-Wake Forest,55,OPEN,
+Virginia,6,SOLD,jeremyd8
+Wake Forest,45,SOLD,bricktamland415
 Washington,44,SOLD,labfam5
 West Virginia,29,OPEN,
-Western Kentucky,19,OPEN,
+Western Kentucky,14.42,SOLD,smittay42
 Wisconsin,29,OPEN,
 Wyoming,11,OPEN,
 Washington State,7,SOLD,waynehags91
 Western Michigan,4.2,SOLD,ripperjones36
+TCU and Iowa,30,SOLD,shayne4zuma

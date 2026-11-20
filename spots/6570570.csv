@@ -1,7 +1,6 @@
 spot,price,state,buyer
 Chicago Bears,12.6,SOLD,mosquitotito
 Cleveland Browns,12,SOLD,bobofboom
-#3,14,OPEN,
 #4,14,SOLD,rikigronk87
 Buffalo Bills,12,SOLD,rikigronk87
 Kansas City Chiefs,12,SOLD,rikigronk87
@@ -31,3 +30,4 @@ Jacksonville Jaguars,14,SOLD,flimmy
 Philadelphia Eagles,14,SOLD,flimmy
 Washington Commanders,14,SOLD,wichtelcards
 Dallas Cowboys,12.6,SOLD,mosquitotito
+San Francisco 49ers,14,SOLD,rikigronk87
