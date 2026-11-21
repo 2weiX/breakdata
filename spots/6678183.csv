@@ -1,0 +1,23 @@
+spot,price,state,buyer
+p4,31,SOLD,justinbrue
+New Orleans Saints,34,SOLD,bhoffman2007
+Philadelphia Eagles,35,SOLD,bhoffman2007
+Cincinnati Bengals,45,SOLD,bhoffman2007
+Las Vegas Raiders,38,SOLD,bhoffman2007
+"San Francisco 49ers, Tampa Bay Buccaneers",115,SOLD,bhoffman2007
+"Dallas Cowboys, Los Angeles Chargers",125,SOLD,bhoffman2007
+p6,44,SOLD,wizzy11
+p2,115,SOLD,justinbrue
+"Minnesota Vikings, New York Giants",115,SOLD,bhoffman2007
+Los Angeles Rams,40,SOLD,drey26475
+"p3, p5",115,SOLD,justinbrue
+ztrade,44,SOLD,drey26475
+New England Patriots,47,SOLD,drey26475
+Cleveland Browns,29,SOLD,humfleet
+Chicago Bears,28,SOLD,humfleet
+"Baltimore Ravens, Denver Broncos",115,SOLD,ginob247
+"Jacksonville Jaguars, Miami Dolphins",125,SOLD,ginob247
+Arizona Cardinals,40,SOLD,drey26475
+Indianapolis Colts,32,SOLD,kev1697
+"Pittsburgh Steelers, p1",115,SOLD,justinbrue
+#22,1,OPEN,

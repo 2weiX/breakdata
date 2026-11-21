@@ -1,51 +1,16 @@
 spot,price,state,buyer
-Arizona Cardinals (Downtown + Duo),,OPEN,
-Atlanta Falcons (Duo + Uptown),,OPEN,
-Baltimore Ravens (Downtown + Uptown),,OPEN,
-Buffalo Bills (Downtown + Uptown),,OPEN,
-Carolina Panthers (Downtown + Uptown),,OPEN,
-Chicago Bears (Downtown + Uptown),,OPEN,
-Cincinnati Bengals (Uptown),,OPEN,
-Cleveland Browns (Uptown),,OPEN,
-Dallas Cowboys (Downtown x2 + Duo + Uptown),,OPEN,
-Denver Broncos (Downtown + Duo + Uptown),,OPEN,
-Detroit Lions (Duo + Uptown),,OPEN,
-Green Bay Packers (Downtown + Uptown),,OPEN,
-Houston Texans (Downtown),,OPEN,
-Indianapolis Colts (Downtown + Uptown),,OPEN,
-Jacksonville Jaguars (Uptown),,OPEN,
-Kansas City Chiefs (Uptown),,OPEN,
-Las Vegas Raiders (Uptown + Downtown),,OPEN,
-Los Angeles Chargers (Downtown + Duo),,OPEN,
-Los Angeles Rams (Downtown + Uptown),,OPEN,
-Miami Dolphins (Uptown),,OPEN,
-Minnesota Vikings (Downtown + Duo),,OPEN,
-New England Patriots (Downtown + Uptown),,OPEN,
-New Orleans Saints (Duo + Uptown),,OPEN,
-New York Giants (Downtown + Uptown),,OPEN,
-New York Jets (Uptown),,OPEN,
-Philadelphia Eagles (Uptown),,OPEN,
-Pittsburgh Steelers (Downtown + Duo + Uptown),,OPEN,
-San Francisco 49ers (Duo + Uptown),,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers (Downtown + Uptown),,OPEN,
-Tennessee Titans (Downtown + Uptown),,OPEN,
-Washington Commanders (Uptown),,OPEN,
-Notre Dame (Downtown + Duo + Horizon),,OPEN,
-Oklahoma Sooners (Downtown + Horizon),,OPEN,
-Ole Miss Rebels (Downtown x2 + Horizon x2),,OPEN,
-Cal Golden Bears (Downtown),,OPEN,
-Ohio State Buckeyes (Downtown x2 + Duo + Horizon x2),,OPEN,
-USC Trojans (Downtown + Horizon x2),,OPEN,
-Missouri Tigers (Downtown),,OPEN,
-Penn State Nittany Lions (Downtown + Horizon),,OPEN,
-Miami Hurricanes (Downtown + Horizon),,OPEN,
-Oregon Ducks (Downtown + Duo + Horizon),,OPEN,
-Michigan Wolverines (Downtown + Horizon),,OPEN,
-Alabama Crimson Tide (Downtown),,OPEN,
-Georgia Bulldogs (Duo + Horizon x3),,OPEN,
-LSU Tigers (Horizon x2),,OPEN,
-Indiana Hoosiers (Horizon x2),,OPEN,
-NIL Bundle #1 (Holiday Uptown),,OPEN,
-NIL Bundle #2,,OPEN,
-NIL Bundle #3,,OPEN,
+Arizona Cardinals (Downtown + Duo),13,SOLD,cornholiobeavis
+Los Angeles Rams (Downtown + Uptown),13,SOLD,dukedriscoll
+Atlanta Falcons (Duo + Uptown),12.35,SOLD,busdriver18
+Pittsburgh Steelers (Downtown + Duo + Uptown),11,SOLD,dukedriscoll
+Notre Dame (Downtown + Duo + Horizon),11,SOLD,dukedriscoll
+New York Giants (Downtown + Uptown),7,SOLD,whitelightnin
+Cal Golden Bears (Downtown),9,SOLD,dukedriscoll
+Dallas Cowboys (Downtown x2 + Duo + Uptown),10,SOLD,busdriver18
+New Orleans Saints (Duo + Uptown),9,SOLD,whitelightnin
+Tampa Bay Buccaneers (Downtown + Uptown),9,SOLD,jd1300
+Oklahoma Sooners (Downtown + Horizon),11,SOLD,whitelightnin
+Detroit Lions (Duo + Uptown),11,SOLD,citycreekcards
+Miami Dolphins (Uptown),14,SOLD,whatthehelly808
+Philadelphia Eagles (Uptown),11,SOLD,whitelightnin
+#15,1,OPEN,

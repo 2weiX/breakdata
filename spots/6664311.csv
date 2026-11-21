@@ -1,6 +1,6 @@
 spot,price,state,buyer
-Arizona Cardinals,60,OPEN,
-Atlanta Falcons,25,OPEN,
+Arizona Cardinals,35,SOLD,borgie86
+Atlanta Falcons,10,SOLD,lunchboxusmc
 Baltimore Ravens and 49ers,40,SOLD,sqirly1998
 Buffalo Bills,30,SOLD,jupiter_joe
 Carolina Panthers,15,SOLD,jesusvaz61904
@@ -20,9 +20,9 @@ Los Angeles Chargers,10.8,SOLD,rick_jamezzz
 Los Angeles Rams,21,SOLD,jesusvaz61904
 Miami Dolphins,8.4,SOLD,mattdylan0408
 Minnesota Vikings and Buccaneers,17,SOLD,lunchboxusmc
-New Orleans Saints,34,OPEN,
+New Orleans Saints,10,SOLD,sqirly1998
 New York Giants,21,SOLD,baystatecardz
-New York Jets,36,OPEN,
+New York Jets,9,SOLD,sqirly1998
 Philadelphia Eagles,17,SOLD,carolina_blue_cards
 Pittsburgh Steelers,17,SOLD,sqirly1998
 Seattle Seahawks,9.8,SOLD,rick_jamezzz

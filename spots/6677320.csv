@@ -1,2 +1,36 @@
 spot,price,state,buyer
-Philadelphia Eagles,121,SOLD,sullsmky
+#1,121,SOLD,sullsmky
+Tennessee Titans,160,SOLD,adamcc
+Houston Texans,125,SOLD,sullsmky
+Washington Commanders,115,SOLD,hayes36446
+Carolina Panthers,112,SOLD,tstar14
+Jacksonville Jaguars,120,SOLD,jevoneno34
+#7,107,SOLD,the_warden_1
+Philadelphia Eagles,115,SOLD,the_warden_1
+Atlanta Falcons,115,SOLD,the_warden_1
+Minnesota Vikings,125,SOLD,jman503
+Denver Broncos,127,SOLD,the_warden_1
+Arizona Cardinals,138,SOLD,sullsmky
+Dallas Cowboys,140,SOLD,tstar14
+#14,159,SOLD,tstar14
+Seattle Seahawks,129,SOLD,sgray93
+Miami Dolphins,125,SOLD,the_warden_1
+New York Jets,120,SOLD,tstar14
+Los Angeles Rams,125,SOLD,cardsovermoney
+Green Bay Packers,125,SOLD,tstar14
+Chicago Bears,124,SOLD,the_warden_1
+New York Giants,155,SOLD,sgray93
+Kansas City Chiefs,115,SOLD,the_warden_1
+Buffalo Bills,116,SOLD,cardsovermoney
+Cincinnati Bengals,1,SOLD,sgray93
+New England Patriots,101,SOLD,the_warden_1
+Tampa Bay Buccaneers,106,SOLD,cowboys17
+Cleveland Browns,132,SOLD,berndog25
+San Francisco 49ers,114,SOLD,cowboys17
+Indianapolis Colts,112,SOLD,juice36
+Detroit Lions,116,SOLD,berndog25
+Las Vegas Raiders,101,SOLD,berndog25
+New Orleans Saints,88,SOLD,juice36
+Baltimore Ravens,85,SOLD,andy_rew
+Pittsburgh Steelers,58,SOLD,cowboys17
+Los Angeles Chargers,40,SOLD,andy_rew

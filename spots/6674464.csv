@@ -2,7 +2,7 @@ spot,price,state,buyer
 Arizona Cardinals,50,OPEN,
 Atlanta Falcons,20,OPEN,
 Baltimore Ravens,45,OPEN,
-Buffalo Bills,45,OPEN,
+Buffalo Bills,45,SOLD,sullsmky
 Carolina Panthers,30,OPEN,
 Chicago Bears,36,SOLD,makten
 Cincinnati Bengals,45,SOLD,cmattson99
@@ -22,7 +22,7 @@ Miami Dolphins,16,SOLD,mysticmarkets
 Minnesota Vikings,35,SOLD,cmattson99
 New England Patriots,32,SOLD,graveheart
 New Orleans Saints,35,OPEN,
-New York Giants,40,OPEN,
+New York Giants,40,SOLD,sullsmky
 New York Jets,30,OPEN,
 Philadelphia Eagles,35,OPEN,
 Pittsburgh Steelers,35,OPEN,

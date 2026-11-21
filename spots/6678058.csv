@@ -1,0 +1,554 @@
+spot,price,state,buyer
+TB/NE - Tom Brady (AU) (CH),,OPEN,
+CHI - Caleb Williams (AU) (CH) (PP),,OPEN,
+BUF - Josh Allen (AU) (CH),,OPEN,
+NE - Drake Maye (CH) (PP),,OPEN,
+DEN - Bo Nix (AU) (CH) (PP),,OPEN,
+CIN - Joe Burrow (AU) (CH),,OPEN,
+WAS - Jayden Daniels (AU) (PP),,OPEN,
+SEA - Jaxon Smith-Njigba (AU) (CH) (PP),,OPEN,
+ARI - Jeremiyah Love (AU) (CH),,OPEN,
+LAR - Ty Simpson (AU) (CH),,OPEN,
+ARI - Carson Beck (AU) (CH),,OPEN,
+NYG - Jaxson Dart (AU) (CH),,OPEN,
+LAR - Matthew Stafford (AU) (CH),,OPEN,
+TEN - Carnell Tate (AU) (CH),,OPEN,
+DET - Jahmyr Gibbs (AU) (PP),,OPEN,
+CAR - Bryce Young (AU) (CH) (PP),,OPEN,
+LAR/CLE - Myles Garrett (AU) (CH),,OPEN,
+MIN - Justin Jefferson (AU) (CH),,OPEN,
+HOU - CJ Stroud (CH) (PP),,OPEN,
+SF - Brock Purdy (AU) (CH),,OPEN,
+PIT - Drew Allar (AU) (CH),,OPEN,
+LAR - Puka Nacua (AU) (PP),,OPEN,
+NO - Jordyn Tyson (AU) (CH),,OPEN,
+LV - Brock Bowers (AU) (CH) (PP),,OPEN,
+CAR - Tetairoa McMillan (AU) (CH),,OPEN,
+ATL - Bijan Robinson (CH) (PP),,OPEN,
+BAL - Lamar Jackson (CH),,OPEN,
+PHI - Makai Lemon (AU) (CH),,OPEN,
+TEN - Cam Ward (AU),,OPEN,
+CLE - KC Concepcion (AU) (CH),,OPEN,
+SF/CAR - Christian McCaffrey (AU) (CH),,OPEN,
+CLE - Denzel Boston (AU) (CH),,OPEN,
+SEA - Jadarian Price (AU) (CH),,OPEN,
+PHI - Jalen Hurts (AU) (CH),,OPEN,
+DAL - Dak Prescott (AU) (CH),,OPEN,
+DAL - Caleb Downs (AU) (CH),,OPEN,
+NYG - Arvell Reese (AU) (CH),,OPEN,
+CIN - Ja'Marr Chase (AU) (CH),,OPEN,
+NYJ - Cade Klubnik (AU) (CH),,OPEN,
+JAX - Trevor Lawrence (AU) (CH),,OPEN,
+PHI/NYG - Saquon Barkley (AU),,OPEN,
+LAC - Justin Herbert (AU) (CH),,OPEN,
+CLE - Carson Schwesinger (AU) (CH),,OPEN,
+KC - Garrett Nussmeier (AU) (CH),,OPEN,
+DEN/IND - Peyton Manning (AU),,OPEN,
+SEA/NYJ - Sam Darnold (AU) (CH),,OPEN,
+DAL - CeeDee Lamb (AU) (CH),,OPEN,
+NYG - Malik Nabers (AU),,OPEN,
+"SF - Jerry Rice (AU) (CH)
+NYJ - Wayne Chrebet",,OPEN,
+"DET - Amon-Ra St. Brown (AU) (CH)
+LAR - Torry Holt",,OPEN,
+"PIT - Aaron Rodgers (AU) (CH)
+DAL - Tony Dorsett",,OPEN,
+"DET/LAR - Jared Goff (AU) (CH)
+MIA - Ricky Williams",,OPEN,
+"WAS - Sonny Styles (AU) (CH)
+CHI - Noah Sewell",,OPEN,
+"BAL/TEN - Derrick Henry (AU) (CH)
+LV - Marcus Allen",,OPEN,
+"MIA - De'Von Achane (AU) (CH) (PP)
+TEN - Jevon Kearse",,OPEN,
+"BAL - Zay Flowers (AU) (PP)
+KC - Jamaal Charles",,OPEN,
+"JAX - Brian Thomas Jr. (AU) (PP)
+SEA - Jalen Milroe",,OPEN,
+"SF - George Kittle (CH)
+PIT - Jack Ham",,OPEN,
+"NYJ - Kenyon Sadiq (AU) (CH)
+TEN - Eddie George
+GB - Charles Woodson",,OPEN,
+"LAC - Ladd McConkey (AU) (PP)
+DEN - Champ Bailey
+BUF - Andre Reed",,OPEN,
+"PIT - Germie Bernard (AU)
+MIN - Adrian Peterson
+CHI - Brian Urlacher",,OPEN,
+"BAL - Ja'Kobi Lane (AU)
+LAR - Aaron Donald
+CAR - Will Lee III (AU)",,OPEN,
+"MIN - Randy Moss (AU)
+DAL - Tyler Guyton (PP)
+CAR - Trevor Etienne",,OPEN,
+"KC - Emmett Johnson (AU)
+CAR - Tommy Tremble
+DAL - Quinnen Williams",,OPEN,
+"MIN - Jordan Addison (AU) (PP)
+DAL - Marist Liufau (PP)
+DAL - Luke Schoonmaker (PP)",,OPEN,
+"NYJ - Garrett Wilson (AU) (CH)
+CAR - Lee Hunter
+DAL - Kenny Clark",,OPEN,
+"GB - Micah Parsons (CH)
+CAR - Jonathan Mingo (PP)
+CAR - Jimmy Horn Jr.",,OPEN,
+"KC - Xavier Worthy (AU) (PP)
+CAR - Jaycee Horn
+DAL - Jake Ferguson",,OPEN,
+"TB/CLE - Baker Mayfield (CH)
+DAL - Jaishawn Barham (AU)
+CAR - Ja'Tavion Sanders (PP)",,OPEN,
+"NYG - Malachi Fields (AU)
+CAR - Derrick Brown
+DAL - DeMarvion Overshown",,OPEN,
+"NO - Tyler Shough (AU)
+DAL - DaRon Bland
+CAR - Chuba Hubbard",,OPEN,
+"SF - De'Zhaun Stribling (AU)
+LAR - Jared Verse (PP)
+GB - Dani Dennis-Sutton (AU)
+CLE - Denzel Ward
+BAL - Devontez Walker",,OPEN,
+"TB - Emeka Egbuka (AU)
+KC - Tyreek Hill
+GB - Brandon Cisse (AU)
+CLE - Cedric Tillman (PP)
+DEN - Zach Allen",,OPEN,
+"NYJ - David Bailey (AU) (CH)
+NE - Ty Law (AU)
+NO - Spencer Rattler (PP)
+TEN - Tony Pollard
+TB - Vita Vea",,OPEN,
+"ATL - Michael Penix Jr. (PP)
+ARI - Trey Benson (PP)
+TB - Jalen McMillan (PP)
+TEN - Kevin Winston Jr.
+TB - Tez Johnson (AU)",,OPEN,
+"GB - Matthew Golden (AU)
+KC - Rashee Rice (PP)
+NE - Robert Spillane (CH)
+TEN - Jeffery Simmons
+DEN - Talanoa Hufanga",,OPEN,
+"TB - Rueben Bain Jr. (AU)
+SEA - Kam Chancellor (AU)
+NE - Rhamondre Stevenson (CH)
+TEN - Gunnar Helm
+DEN - Quinn Meinerz",,OPEN,
+"KC/SEA - Kenneth Walker III (AU) (CH)
+BUF - Jim Kelly (AU)
+SEA - Rashid Shaheed
+TEN - Chimere Dike
+DEN - Nik Bonitto",,OPEN,
+"BUF - Keon Coleman (AU) (PP)
+HOU - Jayden Higgins (AU)
+SEA - Nick Emmanwori (CH)
+TEN - Calvin Ridley (AU)
+TB - Kenneth Gainwell",,OPEN,
+"MIA - Dan Marino (AU) (CH)
+KC - Chris Jones
+NE - Mack Hollins (CH)
+ARI - Will Johnson
+DEN - Justin Joly (AU)",,OPEN,
+"SF - Kaelon Black (AU) (CH)
+NE - Adam Vinatieri (AU)
+NE - Kyle Williams
+ARI - Marvin Harrison Jr.
+TB - Josiah Trotter",,OPEN,
+"CIN - Chase Brown (AU) (PP)
+DEN - Von Miller (AU)
+SEA - Julian Neal
+ARI - James Conner
+DEN - J.K. Dobbins",,OPEN,
+"NYJ - Breece Hall (AU)
+LAR - Eric Dickerson (AU)
+NE - Ja'Lynn Polk (PP)
+ARI - Jacoby Brissett
+TB - Graham Barton (PP)",,OPEN,
+"MIA - Jacob Rodriguez (AU)
+DEN - Terrell Davis (AU)
+NE - Hunter Henry (CH)
+ARI - Denzel Burke
+DEN - Dallen Bentley (AU)",,OPEN,
+"LV - Ashton Jeanty (AU)
+CHI - Mike Singletary (AU)
+SEA - George Holani (PP)
+ARI - Budda Baker
+DEN - Courtland Sutton",,OPEN,
+"KC - Mansoor Delane (AU)
+DAL - Javonte Williams (AU)
+SEA - Cooper Kupp (CH)
+MIN - Will Reichard (PP)
+TB - Chris Godwin",,OPEN,
+"MIA - Caleb Douglas (AU)
+LV - Howie Long (AU)
+SEA - Bud Clark
+MIN - T.J. Hockenson
+TB - Chris Braswell (PP)",,OPEN,
+"CHI - Luther Burden III (AU)
+NYJ - Darrelle Revis (AU)
+NE - Behren Morton (AU)
+MIN - Kyler Murray
+TB - Cade Otton
+DAL - Brevyn Spann-Ford (PP)",,OPEN,
+"LV - Maxx Crosby (AU)
+PHI - Brian Dawkins (AU)
+SEA - AJ Barner (CH)
+MIN - Jauan Jennings
+DEN - Audric Estime (PP)
+GB - Xavier McKinney",,OPEN,
+"NE - TreVeyon Henderson (AU) (CH)
+WAS - Terry McLaurin (AU)
+WAS - Kaytron Allen (AU)
+MIN - Jake Golday (AU)
+TB - Antoine Winfield Jr.
+GB - Tucker Kraft",,OPEN,
+"LV - Mike Washington Jr. (AU)
+HOU - Woody Marks (AU)
+IND - Deion Burks (AU)
+MIN - J.J. McCarthy
+PIT - Will Howard (AU)
+GB - Savion Williams",,OPEN,
+"ARI - Michael Wilson (AU) (PP)
+TB - Warren Sapp (AU)
+NO - Chris Olave (AU)
+MIN - Demond Claiborne (AU)
+LAC - Tre Harris III
+GB - MarShawn Lloyd (PP)",,OPEN,
+"MIA - Chris Bell (AU) (CH)
+SF - Kyle Juszczyk (AU)
+SF - Jacob Cowing (PP)
+MIN - Byron Murphy Jr.
+WAS - Rachaad White
+GB - Lukas Van Ness (PP)",,OPEN,
+"CHI - Colston Loveland (AU)
+BAL - Joe Flacco (AU)
+TEN - Will Levis (PP)
+ATL - Harold Perkins Jr. (AU)
+PIT - Payton Wilson (PP)
+GB - Jayden Reed",,OPEN,
+"CHI - Rome Odunze (PP)
+LV - Jermod McCoy (AU)
+TEN - Keldric Faulk (AU)
+JAX - Travon Walker
+PIT - Pat Freiermuth
+GB - Javon Bullard (PP)",,OPEN,
+"WAS - Sean Taylor (CH)
+WAS - Deebo Samuel (AU)
+KC - Tyquan Thornton
+JAX - Nate Boerkircher (AU)
+LAC - Oronde Gadsden
+GB - Dontayvion Wicks (PP)",,OPEN,
+"HOU - Will Anderson Jr. (PP)
+CIN - Andrei Iosivas (PP)
+KC - Nick Bolton
+JAX - Josh Hines-Allen
+WAS - Mike Sainristil (PP)
+GB - Christian Watson",,OPEN,
+"GB - Jordan Love (CH)
+ATL - Tony Gonzalez (AU)
+KC - George Karlaftis
+JAX - Josh Cameron (AU)
+WAS - Laremy Tunsil
+GB - Chris McClellan",,OPEN,
+"CLE - Quinshon Judkins (AU)
+MIN - Cris Carter (AU)
+KC - Creed Humphrey
+JAX - Jakobi Meyers
+LAC - Khalil Mack
+BUF - Khalil Shakir",,OPEN,
+"CAR - Chris Brazzell II (AU) (CH)
+NO - Archie Manning (AU)
+SF - Romello Height (AU)
+JAX - Albert Regis (AU)
+PIT - Kaleb Johnson (AU)
+BUF - Dion Dawkins",,OPEN,
+"DET - Barry Sanders (AU)
+DAL - Malachi Lawrence (AU)
+SEA - Devon Witherspoon (CH) (PP)
+IND - CJ Allen (AU)
+WAS - K'Lavon Chaisson
+BUF - Dawson Knox (AU)",,OPEN,
+"NO - Drew Brees (AU)
+BAL - Jonathan Ogden (AU)
+NYG - Francis Mauigoa (AU)
+MIA - Quinn Ewers
+LAC - Junior Colson (PP)
+BUF - Davison Igbinosun (AU)",,OPEN,
+"IND - Jonathan Taylor (AU)
+MIN - Dallas Turner (PP)
+MIN - Caleb Banks (AU)
+MIA - Ollie Gordon II
+PIT - Joey Porter Jr.
+BUF - DJ Moore",,OPEN,
+"BUF - Dalton Kincaid (PP)
+DAL - Michael Irvin (AU)
+IND - Anthony Richardson (PP)
+MIA - Kenneth Grant
+PIT - Jaylen Warren
+BUF - Cole Bishop (PP)",,OPEN,
+"DEN - Pat Surtain II (AU) (CH)
+DAL - Dez Bryant (AU)
+NE - Caleb Lomu (AU)
+DET - Kendrick Law (AU)
+WAS - Jacory Croskey-Merritt (AU)
+BUF - Christian Benford",,OPEN,
+"TEN - Nick Singleton (AU)
+DEN - Marvin Mims Jr. (PP)
+SEA - Malcolm Smith (AU)
+DET - Keith Abney II (AU)
+LAC - Genesis Smith (AU)
+ATL - Xavier Watts",,OPEN,
+"NYG - Cam Skattebo
+CHI - Jim McMahon (AU)
+IND - Edgerrin James (AU)
+MIA - Jaylen Wright
+LAC - Derwin James
+ATL - Olamide Zaccheaus",,OPEN,
+"LV - Bo Jackson (AU)
+CIN - Boomer Esiason (AU)
+CLE - Ozzie Newsome (AU)
+DET - Jameson Williams
+PIT - Daylen Everette (AU)
+ATL - Kyle Pitts Sr.",,OPEN,
+"CHI - Dillon Thieneman (AU)
+NE - Kayshon Boutte (PP)
+JAX - Parker Washington (PP)
+DET - Jack Campbell
+PIT - Darnell Washington (PP)
+ATL - Jalon Walker (AU)",,OPEN,
+"ATL - Zachariah Branch (AU)
+BAL - Kyle Hamilton (AU)
+CAR - Jalen Coker (PP)
+DET - Isiah Pacheco
+PIT - DK Metcalf
+ATL - Chris Lindstrom",,OPEN,
+"ATL - Drake London (AU)
+PIT - Jerome Bettis (AU)
+JAX - Tony Boselli (AU)
+DET - Isaac TeSlaa
+WAS - Chig Okonkwo
+ATL - Brian Robinson Jr.",,OPEN,
+"TB - Bucky Irving (PP)
+DAL - Tony Romo (AU)
+SEA - Steve Largent (AU)
+DET - Derrick Moore (AU)
+PIT - Cameron Heyward
+CIN - Tee Higgins",,OPEN,
+"SF/KC - Joe Montana (AU)
+ARI - Reggie Virgil (AU)
+SF - Roger Craig (AU)
+MIA - Chop Robinson (AU)
+LAC - Cameron Dicker
+CIN - Tacario Davis (AU)",,OPEN,
+"LAC - Omarion Hampton (AU)
+MIN - Aaron Jones Sr. (AU)
+WAS - John Riggins (AU)
+DET - Aidan Hutchinson
+LV - Quay Walker
+CIN - Kris Jenkins (PP)",,OPEN,
+"BUF - James Cook (AU)
+ATL/PHI - Michael Vick (AU)
+CLE - Harold Fannin Jr.
+BAL - Zion Young (AU)
+LV - Nakobe Dean
+CIN - Jonathan Allen",,OPEN,
+"ARI - Trey McBride (CH)
+LV - Tre Tucker (PP)
+WAS - DeAngelo Hall (AU)
+BUF - T.J. Parker (AU)
+LV - Michael Mayer (PP)
+CIN - Evan McPherson",,OPEN,
+"IND - Tyler Warren (AU)
+JAX - Travis Hunter
+KC - Dante Hall (AU)
+SEA - Uchenna Nwosu (CH)
+LV - Kirk Cousins
+CIN - Dexter Lawrence II",,OPEN,
+"LAR - Blake Corum (PP)
+PIT - Troy Polamalu (AU)
+LAC - Dan Fouts (AU)
+SF - Trent Williams
+LV - Jeremy Chinn
+CIN - Cashius Howell (AU)",,OPEN,
+"WAS - Antonio Williams (AU)
+GB - Brett Favre (CH)
+TEN - Bruce Matthews (AU)
+SF - Ricky Pearsall
+LV - Jack Bech
+CIN - Amarius Mims (PP)",,OPEN,
+"ARI - Pat Tillman (CH)
+NYG - Lawrence Taylor (AU)
+TEN - Tyjae Spears (PP)
+SF - Nick Bosa
+LV - Dont'e Thornton Jr. (AU)
+IND - Alec Pierce (AU)",,OPEN,
+"BAL - Elijah Sarratt (AU)
+NE - Eli Raridon (AU)
+LAC - Joe Alt (PP)
+SF - Mike Evans
+LV - Aidan O'Connell (PP)
+IND - Sauce Gardner",,OPEN,
+"DET - Sam LaPorta (PP)
+CLE - Bernie Kosar (AU)
+DAL - DeMarco Murray (AU)
+SF - Jake Moody (PP)
+LAR - Trent McDuffie
+IND - Riley Leonard",,OPEN,
+"NE - Rob Gronkowski (AU)
+IND - Josh Downs (PP)
+HOU - Andre Johnson (AU)
+SF - Christian Kirk
+LAR - Terrance Ferguson
+IND - Quenton Nelson",,OPEN,
+"PIT - T.J. Watt (AU)
+IND - Daniel Jones (AU) (CH)
+CHI - Tyson Bagent (PP)
+DAL - George Pickens
+CHI - Sam Roush (AU)
+IND - Laiatu Latu",,OPEN,
+"DAL - Troy Aikman (AU) (CH)
+CAR - Xavier Legette (PP)
+SEA - Zach Charbonnet (PP)
+DAL - Cooper Beebe (PP)
+CHI - Roschon Johnson (PP)
+IND - DeForest Buckner",,OPEN,
+"LAR - Kyren Williams (AU)
+CAR - Luke Kuechly (AU)
+ATL - Tua Tagovailoa (AU)
+ATL - Avieon Terrell (AU)
+CHI - Montez Sweat
+IND - Anthony Gould (PP)",,OPEN,
+"LAR - Max Klare (AU)
+ARI/LAR - Kurt Warner (AU)
+SF - Steve Young (AU)
+GB - Luke Musgrave (PP)
+CHI - Kyle Monangai
+IND - A.J. Haulcy (AU)",,OPEN,
+"SF - Fred Warner (AU)
+CLE - Taylen Green (AU)
+DEN - Steve Atwater (AU)
+NYG - Tyrone Tracy Jr. (PP)
+LAR - Kobie Turner (PP)
+NO - Travis Etienne Jr.",,OPEN,
+"ARI - Larry Fitzgerald (AU)
+SEA - Byron Murphy II (PP)
+TB - Mike Alstott (AU)
+NYG - Theo Johnson (PP)
+LAR - Kamren Kinchens (PP)
+NO - Taysom Hill (AU)",,OPEN,
+"GB - Edgerrin Cooper (AU) (PP)
+DEN - John Elway (AU)
+JAX - Maurice Jones-Drew (AU)
+NYG - Isaiah Likely
+LAR - Joshua Karty (PP)
+NO - Kool-Aid McKinstry",,OPEN,
+"NE - Christian Gonzalez (CH) (PP)
+DET - Brian Branch (PP)
+MIA - Malik Willis
+NYG - Darius Slayton
+LAR - Jordan Whittington
+NO - Juwan Johnson",,OPEN,
+"NYJ - Braelon Allen (PP)
+KC - Christian Okoye (AU) (CH)
+GB - LeRoy Butler (AU)
+NYG - Colton Hood (AU)
+CHI - Joe Thuney
+NO - Christen Miller (AU)",,OPEN,
+"NE - Joe Milton III (PP)
+PHI - Cole Payton (AU)
+GB - James Lofton (AU)
+NYG - Brian Burns
+CHI - Jaylon Johnson
+NO - Bryan Bresee",,OPEN,
+"CHI - Zavion Thomas (AU)
+ATL - Deion Sanders (AU)
+SF - Frank Gore (AU)
+NYG - Abdul Carter
+LAR - Davante Adams
+HOU - Reed Blankenship",,OPEN,
+"NYG - Eli Manning (AU)
+JAX - Brenton Strange (PP)
+PHI - Eric Allen (AU)
+LAR - CJ Daniels (AU)
+CHI - Darnell Wright
+HOU - Marlin Klein (AU)",,OPEN,
+"TEN - Warren Moon (AU) (CH)
+BUF - Cornelius Bennett (AU) (CH)
+PHI - Brian Westbrook (AU)
+CIN - Colbie Young (AU)
+CHI - D'Andre Swift
+HOU - Keylan Rutledge (AU)",,OPEN,
+"LAC - Quentin Johnston (PP)
+GB - Sterling Sharpe (AU) (CH)
+MIA - Bob Griese (AU)
+PHI - Eli Stowers
+LAR - Byron Young
+HOU - Kayden McDonald (AU)",,OPEN,
+"BUF - Skyler Bell (AU)
+JAX - Cam Little (PP)
+CIN - Anthony Muñoz (AU)
+NO - Bryce Lance (AU)
+PHI - Will Shipley (PP)
+HOU - Kamari Lassiter (AU)",,OPEN,
+"DEN - RJ Harvey (AU)
+KC - Peter Woods (AU)
+LV - Tim Brown (AU)
+WAS - Luke McCaffrey (PP)
+PHI - Jordan Mailata
+HOU - Henry To'oTo'o (PP)",,OPEN,
+"GB - Josh Jacobs (AU)
+KC - Travis Kelce
+MIA - Malik Washington (PP)
+LAC - Brenen Thompson (AU)
+PHI - Jihaad Campbell (AU)
+HOU - Derek Stingley Jr.",,OPEN,
+"NYJ - Omar Cooper Jr. (CH)
+CLE - Shedeur Sanders (CH)
+CLE - Joe Thomas (AU)
+LAC - Akheem Mesidor (AU)
+PHI - Jeremiah Trotter (PP)
+HOU - David Montgomery",,OPEN,
+"CHI - William Perry (AU) (CH)
+DEN - Jaylen Waddle (CH)
+LAC - Antonio Gates (AU)
+TEN - Elic Ayomanor (AU)
+PHI - DeVonta Smith
+HOU - Dalton Schultz",,OPEN,
+"WAS - Art Monk (AU) (CH)
+NO - Alvin Kamara (AU)
+BUF - Thurman Thomas (AU)
+NYJ - T'Vondre Sweat (PP)
+PHI - Dallas Goedert
+HOU - Calen Bullock (PP)",,OPEN,
+"HOU - Nico Collins (AU)
+PIT - Rod Woodson (AU) (CH)
+BAL - Terrell Suggs (AU)
+NYJ - Minkah Fitzpatrick
+PHI - Cooper DeJean
+HOU - Cade Stover (PP)",,OPEN,
+"DAL - Brandon Aubrey (PP)
+BAL - Ray Lewis (AU)
+BAL - Nate Wiggins (PP)
+NYJ - Mason Taylor
+CLE - Mason Graham
+BAL - Trey Hendrickson",,OPEN,
+"TB - Ted Hurst (AU)
+SEA - Richard Sherman (AU)
+BUF - LeSean McCoy (AU)
+NYJ - Geno Smith
+CLE - Jerry Jeudy
+BAL - Roquan Smith (AU)",,OPEN,
+"JAX - Bhayshul Tuten (AU)
+CLE - Emmanuel McNeil-Warren (AU)
+PHI - Tank Bigsby (PP)
+NYJ - Demario Davis
+CLE - Grant Delpit
+BAL - Rashod Bateman",,OPEN,
+"DEN - Jonah Coleman
+PHI - Jalen Carter (PP)
+ARI/SF - Anquan Boldin (AU)
+NYJ - Adonai Mitchell
+CLE - Dylan Sampson
+BAL - Mark Andrews",,OPEN,

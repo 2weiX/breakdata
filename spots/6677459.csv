@@ -2,13 +2,13 @@ spot,price,state,buyer
 Green Bay Packers,130,SOLD,ryanhan41096
 Dallas Cowboys,123,SOLD,rumblinbumblincards
 Pittsburgh Steelers,115,SOLD,ryanhan41096
-#4,115,SOLD,ryanhan41096
-#5,94,SOLD,ryanhan41096
+T,115,SOLD,ryanhan41096
+T,94,SOLD,ryanhan41096
 Cincinnati Bengals,100,SOLD,ryanhan41096
 Los Angeles Rams,75,SOLD,ryanhan41096
 Philadelphia Eagles,83,SOLD,ryanhan41096
 Los Angeles Chargers,94,SOLD,mooseluce
-#10,127,SOLD,mooseluce
+T,127,SOLD,mooseluce
 San Francisco 49ers,85,SOLD,mooseluce
 Baltimore Ravens,78,SOLD,wheressoldo
 Las Vegas Raiders,119,SOLD,skarr1338
@@ -16,7 +16,27 @@ Miami Dolphins,112,SOLD,jaxpav
 MISC,122,SOLD,wheressoldo
 Chicago Bears,127,SOLD,ryanhan41096
 Kansas City Chiefs,99,SOLD,wheressoldo
-#18,90,SOLD,wildcats2686
+T,90,SOLD,wildcats2686
 Detroit Lions,98,SOLD,wildcats2686
-Arizona Cardinals,79,SOLD,ryanhan41096
-#21,1,OPEN,
+Minnesota Vikings,79,SOLD,ryanhan41096
+T,94,SOLD,ryanhan41096
+New York Giants,83,SOLD,ryanhan41096
+Tampa Bay Buccaneers,69,SOLD,gdione
+T,69,SOLD,gdione
+T,69,SOLD,ja_hova_3p
+New England Patriots,69,SOLD,ja_hova_3p
+New York Jets,51,SOLD,tformation
+R,46,SOLD,ja_hova_3p
+Washington Commanders,48,SOLD,ja_hova_3p
+Cleveland Browns,50,SOLD,327cards
+Denver Broncos,46,SOLD,tformation
+Seattle Seahawks,36,SOLD,gdione
+Buffalo Bills,37,SOLD,ja_hova_3p
+Tennessee Titans,3,SOLD,hudzvt
+New Orleans Saints,15,SOLD,gdione
+Carolina Panthers,16,SOLD,gdione
+Jacksonville Jaguars,17,SOLD,rumblinbumblincards
+Houston Texans,16,SOLD,dank4132
+Atlanta Falcons,17,SOLD,01chief
+Arizona Cardinals,11,SOLD,tformation
+Indianapolis Colts,3,SOLD,rumblinbumblincards

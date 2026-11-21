@@ -31,7 +31,7 @@ spot,price,state,buyer
 "164 - Justin Herbert, Los Angeles Chargers",75,OPEN,
 "166 - Quentin Johnston, Los Angeles Chargers",25,OPEN,
 "174 - Matthew Stafford, Los Angeles Rams",200,OPEN,
-"175 - Kyren Williams, Los Angeles Rams",30,OPEN,
+"175 - Kyren Williams, Los Angeles Rams",21,SOLD,glea44
 "176 - Blake Corum, Los Angeles Rams",14,SOLD,apfoster
 "178 - Puka Nacua, Los Angeles Rams",100,OPEN,
 "185 - De'Von Achane, Miami Dolphins",60,OPEN,
@@ -137,7 +137,7 @@ spot,price,state,buyer
 "358 - CJ Daniels (RC), Los Angeles Rams",11,SOLD,apfoster
 "359 - Max Klare (RC), Los Angeles Rams",25,OPEN,
 "360 - Caleb Douglas (RC), Miami Dolphins",28,SOLD,brew291
-"361 - Jacob Rodriguez (RC), Miami Dolphins",70,OPEN,
+"361 - Jacob Rodriguez (RC), Miami Dolphins",50,SOLD,ruddlefarms
 "363 - Demond Claiborne (RC), Minnesota Vikings",15,SOLD,hoik
 "364 - Caleb Banks (RC), Minnesota Vikings",15,SOLD,hoik
 "365 - Jake Golday (RC), Minnesota Vikings",15,SOLD,hoik
@@ -160,8 +160,8 @@ spot,price,state,buyer
 "386 - Kaelon Black (RC), San Francisco 49ers",40,SOLD,ryansul14188
 "387 - De'Zhaun Stribling (RC), San Francisco 49ers",25,SOLD,kgcards32
 "388 - Romello Height (RC), San Francisco 49ers",15,OPEN,
-"389 - Jadarian Price (RC), Seattle Seahawks",80,OPEN,
-"390 - Julian Neal (RC), Seattle Seahawks",15,OPEN,
+"389 - Jadarian Price (RC), Seattle Seahawks",56,SOLD,glea44
+"390 - Julian Neal (RC), Seattle Seahawks",3,SOLD,uncletaco916
 "391 - Bud Clark (RC), Seattle Seahawks",15,OPEN,
 "392 - Ted Hurst (RC), Tampa Bay Buccaneers",20,OPEN,
 "393 - Rueben Bain Jr. (RC), Tampa Bay Buccaneers",30,OPEN,
@@ -169,7 +169,7 @@ spot,price,state,buyer
 "395 - Nick Singleton (RC), Tennessee Titans",25,OPEN,
 "396 - Carnell Tate (RC), Tennessee Titans",180,SOLD,thepick_6
 "397 - Keldric Faulk (RC), Tennessee Titans",15,OPEN,
-"398 - Kaytron Allen (RC), Washington Commanders",15,OPEN,
+"398 - Kaytron Allen (RC), Washington Commanders",1,SOLD,tashap1908
 "399 - Antonio Williams (RC), Washington Commanders",45,OPEN,
 402 - Brett Favre & Troy Aikman & Joe Montana,120,OPEN,
 "403 - Dan Marino & 183 - Malik Willis & 184 - Quinn Ewers & Bob Griese, Miami Dolphins",90,OPEN,
@@ -187,14 +187,11 @@ spot,price,state,buyer
 "71 - Myles Garrett, Los Angeles Rams/Cleveland Browns",150,OPEN,
 "72 - Carson Schwesinger, Cleveland Browns",60,OPEN,
 "75 - Dak Prescott & Tony Romo, Dallas Cowboys",88,SOLD,gatorpk321
-"76 - Javonte Williams, Dallas Cowboys",20,OPEN,
-"77 - George Pickens, Dallas Cowboys",25,OPEN,
 "78 - CeeDee Lamb, Garrett Wilson, Aaron Jones, Dallas Turner, JJ McCarthy",130,SOLD,hoik
-"84 - Brandon Aubrey, Dallas Cowboys",35,OPEN,
 "85 - Bo Nix & John Elway, Denver Broncos",200,OPEN,
 "87 - RJ Harvey, Denver Broncos",30,OPEN,
 "89 - Jaylen Waddle, Denver Broncos",20,OPEN,
-"90 - Marvin Mims Jr., Denver Broncos",15,OPEN,
+"90 - Marvin Mims Jr., Denver Broncos",2,SOLD,shippem
 "94 - Pat Surtain II, Denver Broncos",35,OPEN,
 "95 - Jared Goff, Detroit Lions",80,OPEN,
 "96 - Jahmyr Gibbs, Detroit Lions",125,SOLD,samhnovak
@@ -207,7 +204,7 @@ Bo Jackson & Barry Sanders & Marcus Allen,90,OPEN,
 "Caleb Williams, D. Swift, K. Monangai, Rome Odunze and Chicago Bears Others (11 Players)",450,SOLD,bexleytaylor
 Cincinnati Bengals Others (7 Players),30,OPEN,
 Cleveland Browns Others (7 Players),40,OPEN,
-Dallas Cowboys Others (11 Players),60,OPEN,
+"Javonte Williams, George Pickens, Brandon Aubrey, Dallas Cowboys Others (11 Players)",100,SOLD,folkes
 Denver Broncos Others (10 Players),60,OPEN,
 Detroit Lions Others (5 Players),40,OPEN,
 "Jordan Love, Josh Jacobs, Christian Watson/Sterling Sharpe, Micah Parsons, Green Bay Packers Others (12 Players)",190,SOLD,kerverder
@@ -216,7 +213,7 @@ Indianapolis Colts Others (9 Players),40,OPEN,
 Jacksonville Jaguars Others (6 Players),21,SOLD,dirtydeer
 Kansas City Chiefs Others (8 Players),60,OPEN,
 Kurt Warner & Anquan Boldin & Larry Fitzgerald & Torry Holt,55,OPEN,
-Las Vegas Raiders Others (9 Players),40,OPEN,
+Las Vegas Raiders Others (9 Players),25,SOLD,glea44
 Los Angeles Chargers Others (9 Players),40,OPEN,
 Los Angeles Rams Others (11 Players),60,OPEN,
 Miami Dolphins Others (6 Players),40,OPEN,
