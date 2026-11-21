@@ -1,12 +1,12 @@
 spot,price,state,buyer
-AFC North,,OPEN,
-AFC East,,OPEN,
-AFC West,,OPEN,
-AFC South,,OPEN,
-NFC North,,OPEN,
-NFC East,,OPEN,
-NFC West,,OPEN,
-NFC South,,OPEN,
-1/1,,OPEN,
-MISC,,OPEN,
-Downtown/Uptown,,OPEN,
+NFC North,18,SOLD,tancol1984
+NFC South,18,SOLD,austin5050
+NFC West,19,SOLD,tancol1984
+AFC North,20,SOLD,austin5050
+AFC South,21,SOLD,codrav19
+MISC,24,SOLD,tancol1984
+Downtown/Uptown,16,SOLD,austin5050
+1/1,18,SOLD,codrav19
+AFC West,18,SOLD,tancol1984
+NFC East,21,SOLD,codrav19
+AFC East,24,SOLD,tancol1984

@@ -1,34 +1,41 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-MISC,,OPEN,
+#1,870,SOLD,karlin
+#2,888,SOLD,clin55
+#3,900,SOLD,clin55
+#4,946,SOLD,bjornjur
+#5,906,SOLD,clin55
+#6,955,SOLD,rjf15
+#7,961,SOLD,bjornjur
+MISC,896,SOLD,clin55
+#9,910,SOLD,bjornjur
+#10,800,SOLD,breakinbacon
+#11,886,SOLD,breakinbacon
+#12,710,SOLD,clin55
+#13,840,SOLD,breakinbacon
+#14,912,SOLD,breakinbacon
+#15,830,SOLD,clin55
+#16,510,SOLD,breakinbacon
+#17,616,SOLD,breakinbacon
+#18,430,SOLD,rjf15
+#19,585,SOLD,clin55
+#20,440,SOLD,brycerav
+#21,592,SOLD,jsin420
+#22,430,SOLD,atygady
+#23,450,SOLD,jsin420
+#24,480,SOLD,mikeser09357
+#25,490,SOLD,clin55
+#26,390,SOLD,atygady
+#27,440,SOLD,atygady
+#28,227,SOLD,gsco43
+#29,180,SOLD,atygady
+#30,132,SOLD,atygady
+#31,152,SOLD,breakfreaks
+#32,125,SOLD,breakfreaks
+#33,275,SOLD,jsin420
+#34,44,SOLD,jsin420
+#35,62,SOLD,jsin420
+#36,65,SOLD,jsin420
+#37,71,SOLD,jsin420
+#38,108,SOLD,jsin420
+#39,96,SOLD,jsin420
+#40,132,SOLD,jsin420

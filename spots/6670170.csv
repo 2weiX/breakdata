@@ -1,33 +1,30 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+"Cleveland Browns, Houston Texans",18,SOLD,boardwalkcollection
+Arizona Cardinals,16,SOLD,boardwalkcollection
+Green Bay Packers,18,SOLD,boardwalkcollection
+"Atlanta Falcons, New York Giants",24,SOLD,vaughnfp
+New Orleans Saints,27,SOLD,vaughnfp
+Jacksonville Jaguars,22,SOLD,boardwalkcollection
+Detroit Lions,22,SOLD,vaughnfp
+Philadelphia Eagles,23,SOLD,vaughnfp
+Carolina Panthers,20,SOLD,boardwalkcollection
+Tennessee Titans,25,SOLD,vaughnfp
+Seattle Seahawks,27,SOLD,boardwalkcollection
+Buffalo Bills,20,SOLD,vaughnfp
+Cincinnati Bengals,23,SOLD,vaughnfp
+Tampa Bay Buccaneers,25,SOLD,superwashed
+Chicago Bears,20,SOLD,vaughnfp
+New England Patriots,31,SOLD,superwashed
+Kansas City Chiefs,42,SOLD,yodaddy6969
+San Francisco 49ers,23,SOLD,vaughnfp
+Dallas Cowboys,79,SOLD,superwashed
+Indianapolis Colts,8,SOLD,yodaddy6969
+Tradeback,19,SOLD,yodaddy6969
+Los Angeles Rams,21,SOLD,vaughnfp
+Las Vegas Raiders,13,SOLD,kdeezy22
+Los Angeles Chargers,12,SOLD,michaelfoley107
+Baltimore Ravens,14,SOLD,michaelfoley107
+"Denver Broncos, New York Jets",47,SOLD,superwashed
+Pittsburgh Steelers,43,SOLD,boardwalkcollection
+Minnesota Vikings,24,SOLD,vaughnfp
+"Miami Dolphins, Washington Commanders",31,SOLD,bemo93

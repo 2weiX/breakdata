@@ -1,24 +1,14 @@
 spot,price,state,buyer
 Arizona Cardinals,13,SOLD,missioncontrolcardco
-Atlanta Falcons,10,OPEN,
 Baltimore Ravens,15,OPEN,
-Buffalo Bills,20,OPEN,
 Carolina Panthers,10,OPEN,
 Chicago Bears,13,SOLD,missioncontrolcardco
 Cincinnati Bengals,10,SOLD,jaraujo
 Cleveland Browns,20,OPEN,
-Dallas Cowboys,15,OPEN,
-Denver Broncos,20,OPEN,
 Detroit Lions,15,OPEN,
-Green Bay Packers,10,OPEN,
 Houston Texans,10,SOLD,missioncontrolcardco
 Indianapolis Colts,10,OPEN,
-Jacksonville Jaguars,10,OPEN,
-Kansas City Chiefs,25,OPEN,
-Las Vegas Raiders,40,OPEN,
 Los Angeles Chargers,15,OPEN,
-Los Angeles Rams,30,OPEN,
-Miami Dolphins,10,OPEN,
 Minnesota Vikings,10,OPEN,
 New England Patriots,25,OPEN,
 New Orleans Saints,20,OPEN,
@@ -31,4 +21,12 @@ Seattle Seahawks,5,SOLD,jaraujo
 Tampa Bay Buccaneers,10,OPEN,
 Tennessee Titans,25,OPEN,
 Washington Commanders,20,OPEN,
-College / NIL (all college-designated cards),140,OPEN,
+Atlanta Falcons,5,SOLD,missioncontrolcardco
+Buffalo Bills,20,SOLD,blowthegripbreeze
+Dallas Cowboys,15,SOLD,blowthegripbreeze
+Green Bay Packers,10,SOLD,blowthegripbreeze
+Jacksonville Jaguars,10,SOLD,blowthegripbreeze
+Kansas City Chiefs & Los Angeles Rams & Denver Broncos,60,SOLD,pjudice105
+Las Vegas Raiders,40,SOLD,pjudice105
+Miami Dolphins,10,SOLD,rcantux
+College / NIL (all college-designated cards),140,SOLD,pjudice105

@@ -1,33 +1,27 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+Las Vegas Raiders,1,SOLD,theamishbreaker
+Cleveland Browns,8,SOLD,sheywae
+New York Giants,14,SOLD,griffinmeckler
+San Francisco 49ers,15,SOLD,griffinmeckler
+Seattle Seahawks,16,SOLD,madmac1981
+Kansas City Chiefs,19,SOLD,madmac1981
+Tennessee Titans,23,SOLD,madmac1981
+Miami Dolphins,22,SOLD,griffinmeckler
+Jacksonville Jaguars,21,SOLD,jerryb88
+Cincinnati Bengals,1,SOLD,justinappleby
+Atlanta Falcons,15,SOLD,caseycollects
+Los Angeles Rams,18,SOLD,biggsarge1
+New York Jets,16,SOLD,jrawleigh
+Carolina Panthers,30,SOLD,nathanryan82
+Chicago Bears,32,SOLD,jrawleigh
+New England Patriots,35,SOLD,tonym209
+Dallas Cowboys,20,SOLD,jrawleigh
+Buffalo Bills,20,SOLD,jrawleigh
+Arizona Cardinals,20,SOLD,jrawleigh
+Philadelphia Eagles,20,SOLD,madmac1981
+Denver Broncos,22,SOLD,jrawleigh
+Tampa Bay Buccaneers,22,SOLD,jrawleigh
+Washington Commanders,18,SOLD,griffinmeckler
+Detroit Lions,19,SOLD,griffinmeckler
+Green Bay Packers,15,SOLD,justinappleby
+#26,1,OPEN,

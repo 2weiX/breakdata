@@ -6,15 +6,11 @@ BOX 5,69,SOLD,ryanamo67826
 #5,60,SOLD,spence9008
 CHASER 9,44,SOLD,ryanamo67826
 Washington Commanders,42,SOLD,jessesmi26456
-#8,24,SOLD,ryanamo67826
-#9,34,SOLD,txhellrazor
 BOX 7,48,SOLD,txhellrazor
 BOX 1,48,SOLD,redonkulous_rips
-#12,44,SOLD,bigkountry6262
 Green Bay Packers,44,SOLD,bigkountry6262
 CHASER 8,27,SOLD,bigkountry6262
 CHASER 6,43,SOLD,bigkountry6262
-#16,39,SOLD,bigkountry6262
 BOX 9,43,SOLD,bigkountry6262
 Atlanta Falcons,44,SOLD,bigkountry6262
 Miami Dolphins,41,SOLD,bigkountry6262
@@ -29,16 +25,30 @@ Los Angeles Chargers,62,SOLD,henry73
 CHASER 2,54,SOLD,henry73
 CHASER 12,53,SOLD,henry73
 Houston Texans,44,SOLD,henry73
-#31,40,SOLD,ryanamo67826
 BOX 10,42,SOLD,henry73
 BOX 6,45,SOLD,theplowergarden
 Denver Broncos,40,SOLD,redonkulous_rips
-#35,40,SOLD,ryanamo67826
-#36,43,SOLD,theplowergarden
 Cincinnati Bengals,38,SOLD,maremaremary
 CHASER 11,39,SOLD,rickker07757
 New York Jets,43,SOLD,maremaremary
 Chicago Bears,42,SOLD,maremaremary
 Pittsburgh Steelers,30,SOLD,jbr5191
 Indianapolis Colts,80,SOLD,maremaremary
-#43,1,OPEN,
+TRADE SPOT,24,SOLD,ryanamo67826
+TRADE SPOT,34,SOLD,txhellrazor
+TRADE SPOT,44,SOLD,bigkountry6262
+TRADE SPOT,39,SOLD,bigkountry6262
+TRADE SPOT,40,SOLD,ryanamo67826
+TRADE SPOT,40,SOLD,ryanamo67826
+TRADE SPOT,43,SOLD,theplowergarden
+Seattle Seahawks,77,SOLD,maremaremary
+CHASER 4,32,SOLD,rickker07757
+Tampa Bay Buccaneers,45,SOLD,maremaremary
+Buffalo Bills,32,SOLD,planol
+Cleveland Browns,39,SOLD,planol
+Minnesota Vikings,37,SOLD,planol
+Carolina Panthers,40,SOLD,planol
+BOX 8,50,SOLD,don_marino
+New Orleans Saints,37,SOLD,don_marino
+Tennessee Titans,46,SOLD,maremaremary
+CHASER 10,75,SOLD,maremaremary

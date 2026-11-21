@@ -1,34 +1,35 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-MISC,,OPEN,
+Carolina Panthers,5,SOLD,mp0363
+Denver Broncos,15,SOLD,mp0363
+Green Bay Packers,17,SOLD,kovechkin
+Minnesota Vikings,17,SOLD,kovechkin
+Detroit Lions,15,SOLD,kevlarr24
+Chicago Bears,16,SOLD,kovechkin
+Indianapolis Colts,15,SOLD,mp0363
+Arizona Cardinals,10,SOLD,mp0363
+Philadelphia Eagles,18,SOLD,ivanwri87932
+Washington Commanders,14,SOLD,ivanwri87932
+Tennessee Titans,17,SOLD,daddy_218
+Baltimore Ravens,18,SOLD,cvojack
+Los Angeles Rams,16,SOLD,ivanwri87932
+New York Jets,19,SOLD,cvojack
+New England Patriots,16,SOLD,ivanwri87932
+Pittsburgh Steelers,19,SOLD,joehea39854
+Tampa Bay Buccaneers,16,SOLD,ivanwri87932
+Cincinnati Bengals,10,SOLD,mp0363
+Kansas City Chiefs,20,SOLD,anna1587
+New Orleans Saints,14,SOLD,mp0363
+Las Vegas Raiders,16,SOLD,ivanwri87932
+MISC,16,SOLD,ivanwri87932
+Seattle Seahawks,16,SOLD,aadair09
+#24,17,SOLD,ivanwri87932
+San Francisco 49ers,17,SOLD,aadair09
+Los Angeles Chargers,17,SOLD,aadair09
+Buffalo Bills,20,SOLD,aadair09
+Miami Dolphins,18,SOLD,bapple44
+Jacksonville Jaguars,19,SOLD,aadair09
+Houston Texans,18,SOLD,aadair09
+Cleveland Browns,18,SOLD,aadair09
+New York Giants,18,SOLD,aadair09
+Atlanta Falcons,18,SOLD,aadair09
+Dallas Cowboys,18,SOLD,aadair09
