@@ -1,34 +1,27 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-MISC,,OPEN,
+Denver Broncos,376,SOLD,jtvnyc
+#2,400,SOLD,pinnacle307
+Dallas Cowboys,430,SOLD,pinnacle307
+Kansas City Chiefs,416,SOLD,jtvnyc
+Buffalo Bills,400,SOLD,pinnacle307
+Minnesota Vikings,390,SOLD,pinnacle307
+Cincinnati Bengals,361,SOLD,kingcarcollects
+San Francisco 49ers,375,SOLD,kingcarcollects
+Green Bay Packers,300,SOLD,bambreaks
+#10,295,SOLD,jtvnyc
+Cleveland Browns,355,SOLD,pinnacle307
+#12,255,SOLD,jtvnyc
+#13,290,SOLD,jtvnyc
+#14,255,SOLD,kingcarcollects
+Atlanta Falcons,353,SOLD,jtvnyc
+Chicago Bears,355,SOLD,kingcarcollects
+Miami Dolphins,390,SOLD,jtvnyc
+#18,350,SOLD,kingcarcollects
+Pittsburgh Steelers,350,SOLD,bwoodonetre
+Los Angeles Rams,297,SOLD,bigdaddy71423
+Las Vegas Raiders,360,SOLD,pinnacle307
+#22,367,SOLD,srulcsales
+New York Giants,365,SOLD,pinnacle307
+MISC,201,SOLD,bigdaddy71423
+Philadelphia Eagles,201,SOLD,aarond5670
+#26,1,OPEN,

@@ -1,0 +1,29 @@
+spot,price,state,buyer
+Cleveland Browns,3,SOLD,broncosrule
+Detroit Lions,3,SOLD,broncosrule
+Tennessee Titans,4,SOLD,sirlexser
+Atlanta Falcons,4,SOLD,sirlexser
+CHASER 3,7,SOLD,sirlexser
+CHASER 7,6,SOLD,broncosrule
+CHASER 6,4,SOLD,broncosrule
+San Francisco 49ers,5,SOLD,sirlexser
+CHASER 2,7,SOLD,broncosrule
+Seattle Seahawks,6,SOLD,broncosrule
+Jacksonville Jaguars,3,SOLD,sirlexser
+New Orleans Saints,3,SOLD,sirlexser
+New York Jets,4,SOLD,sirlexser
+CHASER 8,8,SOLD,broncosrule
+Cincinnati Bengals,3,SOLD,sirlexser
+Denver Broncos,4,SOLD,broncosrule
+"Los Angeles Chargers, Pittsburgh Steelers",9,SOLD,flips3030
+CHASER 5,4,SOLD,flips3030
+Green Bay Packers,3,SOLD,sirlexser
+Dallas Cowboys,5,SOLD,broncosrule
+Washington Commanders,3,SOLD,mcglasson185
+CHASER 4,6,SOLD,mcglasson185
+"Baltimore Ravens, Carolina Panthers",19,SOLD,mcglasson185
+Minnesota Vikings,7,SOLD,mcglasson185
+"Miami Dolphins, Philadelphia Eagles",9,SOLD,mcglasson185
+New York Giants,6,SOLD,mcglasson185
+Indianapolis Colts,3,SOLD,toddstr26484
+Houston Texans,34,SOLD,mcglasson185

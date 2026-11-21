@@ -1,16 +1,19 @@
 spot,price,state,buyer
+"AKRON, arizona, boston, cinn, maryland, san diego, tulsa, unlv, washington, west ken, west mich",40,SOLD,jbm33
 ALABAMA,39.2,SOLD,duckqweefs
 ARIZONA STATE,29,OPEN,
 ARKANSAS,29,OPEN,
 AUBURN,22,OPEN,
 BAYLOR,15.2,SOLD,shayne4zuma
 BOISE STATE,3,SOLD,nittanylion506
+BYU and south carolina and ok state,185,SOLD,winterlands1978
 CAL,60,OPEN,
 CLEMSON,18,SOLD,shawnstr82558
 COLORADO,8,SOLD,shawnstr82558
 DELEWARE,12,SOLD,bmason_breaks_and_memorabilia
 FLORIDA,31.2,SOLD,parkieuf
 FRESNO ST,2,SOLD,irishfan1122
+FSU and syracuse,30,SOLD,shawnstr82558
 GEORGIA,50,OPEN,
 HOUSTON,12,SOLD,bricktamland415
 ILLINOIS,22,OPEN,
@@ -42,18 +45,15 @@ TEXAS A&M,44,OPEN,
 TEXAS STATE,12,SOLD,bmason_breaks_and_memorabilia
 TEXAS TECH,40,OPEN,
 UCF,12.8,SOLD,nittanylion506
-UCLA,20,OPEN,
+UCLA,14,SOLD,tadzielinski
 UCONN,11,OPEN,
 UNC,10,SOLD,cw89gt
 USC,48,SOLD,hawk2424
 VANDERBILT,22,SOLD,bricktamland415
 VIRGINIA,7,SOLD,cw89gt
 WAKE FOREST,38,SOLD,bricktamland415
+WASHINGTON and rutgers,65,SOLD,tunanocrust89
 WISCONSIN,12,SOLD,shawnstr82558
 WYOMING,14,SOLD,patty9
 DUKE,30,OPEN,
 "Ragin Cajun, SMU, Iowa",27,SOLD,shayne4zuma
-"AKRON, arizona, boston, cinn, maryland, san diego, tulsa, unlv, washington, west ken, west mich",40,SOLD,jbm33
-BYU and south carolina and ok state,185,SOLD,winterlands1978
-FSU and syracuse,30,SOLD,shawnstr82558
-WASHINGTON and rutgers,65,SOLD,tunanocrust89

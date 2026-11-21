@@ -1,33 +1,36 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+Philadelphia Eagles,16,SOLD,sdr1111
+Pittsburgh Steelers,17,SOLD,joshuawes07926
+Las Vegas Raiders,18,SOLD,jimjam30558
+Cleveland Browns,16,SOLD,jimjam30558
+Cincinnati Bengals,15,SOLD,joshuawes07926
+New England Patriots,15,SOLD,behindthebarbreaks
+Chicago Bears,15,SOLD,sdr1111
+Jacksonville Jaguars,15,SOLD,koemic50099
+Dallas Cowboys,17,SOLD,jimjam30558
+Detroit Lions,16,SOLD,miketh620
+Arizona Cardinals,15,SOLD,miketh620
+Los Angeles Chargers,16,SOLD,datdude53
+Seattle Seahawks,16,SOLD,jimjam30558
+#14,15,SOLD,datdude53
+Tennessee Titans,16,SOLD,koemic50099
+New York Giants,15,SOLD,sdr1111
+Houston Texans,15,SOLD,sdr1111
+Buffalo Bills,19,SOLD,jimjam30558
+#19,12,SOLD,koemic50099
+#20,10,SOLD,koemic50099
+San Francisco 49ers,12,SOLD,koemic50099
+Green Bay Packers,14,SOLD,stevenwoo77650
+Indianapolis Colts,14,SOLD,stevenwoo77650
+Washington Commanders,14,SOLD,randalland44399
+Los Angeles Rams,13,SOLD,yeeeee707
+Baltimore Ravens,15,SOLD,randalland44399
+Atlanta Falcons,17,SOLD,yeeeee707
+Denver Broncos,9,SOLD,yeeeee707
+Kansas City Chiefs,13,SOLD,randalland44399
+Miami Dolphins,11,SOLD,blakekessler4
+Minnesota Vikings,10,SOLD,yeeeee707
+Tampa Bay Buccaneers,13,SOLD,joshuawes07926
+Carolina Panthers,8,SOLD,sdr1111
+New York Jets,14,SOLD,miketh620
+New Orleans Saints,13,SOLD,miketh620

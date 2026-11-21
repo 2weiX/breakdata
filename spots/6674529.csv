@@ -1,43 +1,51 @@
 spot,price,state,buyer
-Arizona Cardinals,5,SOLD,mattstidham
-CHASER TEAM 1,2,SOLD,soonersfan89
-Baltimore Ravens,5,SOLD,drasland
-CHASER TEAM 2,4,SOLD,legendoflakeview
-CHASER TEAM 3 ,3,SOLD,drasland
-CHASER TEAM 4 ,4,SOLD,drasland
-CHASER TEAM 5 ,5,SOLD,mattstidham
-Detroit Lions,2,SOLD,drasland
-Houston Texans,4,SOLD,legendoflakeview
-Indianapolis Colts,4,SOLD,mattstidham
-Jacksonville Jaguars,5,SOLD,mattstidham
-CHASE TEAM 7 ,3,SOLD,mattstidham
-Las Vegas Raiders,5,SOLD,mattstidham
 Los Angeles Chargers,1,SOLD,zwf1
 Los Angeles Rams,4,SOLD,ncj1112
-Miami Dolphins,5,SOLD,mattstidham
-CHASER TEAM 8,6,SOLD,mattstidham
-New England Patriots,8,SOLD,zwf1
-New Orleans Saints,4,SOLD,beknuck
-CHASER TEAM 9,7,SOLD,solez713npokemonz
-New York Jets,5,SOLD,mattstidham
-Philadelphia Eagles,5,SOLD,mattstidham
 CHASER TEAM 10,3,SOLD,zwf1
-CHASER TEAM 11,6,SOLD,mattstidham
-CHASER TEAM 12,5,SOLD,mattstidham
-CHASER TEAM 13 ,5,SOLD,mattstidham
-Washington Commanders,5,SOLD,mattstidham
-ACC,5,SOLD,mattstidham
-SEC,5,SOLD,mattstidham
-INDEPENDENT,5,SOLD,mattstidham
+CHASE TEAM 7 ,3,SOLD,mattstidham
+New England Patriots,8,SOLD,zwf1
+CHASER TEAM 9,7,SOLD,solez713npokemonz
+Baltimore Ravens,5,SOLD,drasland
+CHASER TEAM 3 ,3,SOLD,drasland
+Detroit Lions,2,SOLD,drasland
 B-10,2,SOLD,drasland
-B-12,5,SOLD,mattstidham
+Houston Texans,4,SOLD,legendoflakeview
+CHASER TEAM 4 ,4,SOLD,drasland
+CHASER TEAM 2,4,SOLD,legendoflakeview
+CHASER TEAM 1,2,SOLD,soonersfan89
+ACC,5,SOLD,mattstidham
+TOPPS HOLIDAY PACK,5,SOLD,mattstidham
 SUNBELT,5,SOLD,mattstidham
+New Orleans Saints,4,SOLD,beknuck
+Las Vegas Raiders,5,SOLD,mattstidham
+TOPPS HOLIDAY PACK,5,SOLD,mattstidham
+CHASER TEAM 11,6,SOLD,mattstidham
+Arizona Cardinals,5,SOLD,mattstidham
+Jacksonville Jaguars,5,SOLD,mattstidham
+Washington Commanders,5,SOLD,mattstidham
+SEC,5,SOLD,mattstidham
 MAC,5,SOLD,mattstidham
-PAC-12,5,SOLD,beknuck
-AMERICAN,5,SOLD,mattstidham
+Philadelphia Eagles,5,SOLD,mattstidham
 TOPPS HOLIDAY PACK,5,SOLD,mattstidham
-TOPPS HOLIDAY PACK,5,SOLD,mattstidham
-TOPPS HOLIDAY PACK,5,SOLD,mattstidham
+New York Jets,5,SOLD,mattstidham
+INDEPENDENT,5,SOLD,mattstidham
+CHASER TEAM 8,6,SOLD,mattstidham
+CHASER TEAM 5 ,5,SOLD,mattstidham
+Indianapolis Colts,4,SOLD,mattstidham
 TOPPS HOLIDAY PACK,5,SOLD,beknuck
+PAC-12,5,SOLD,beknuck
+Miami Dolphins,5,SOLD,mattstidham
+CHASER TEAM 13 ,5,SOLD,mattstidham
+B-12,5,SOLD,mattstidham
+AMERICAN,5,SOLD,mattstidham
 TOPPS HOLIDAY PACK,4,SOLD,beknuck
-#42,1,OPEN,
+CHASER TEAM 12,5,SOLD,mattstidham
+TOPPS HOLIDAY PACK,5,SOLD,beknuck
+Pittsburgh Steelers,8,SOLD,mattstidham
+Carolina Panthers,5,SOLD,beknuck
+Dallas Cowboys,5,SOLD,beknuck
+TOPPS HOLIDAY PACK,5,SOLD,beknuck
+MOUNTAIN WEST,7,SOLD,beknuck
+CUSA,8,SOLD,mattstidham
+Cincinnati Bengals,13,SOLD,beknuck
+CHASER TEAM 6,15,SOLD,mattstidham
