@@ -1,33 +1,19 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+Atlanta Falcons,21,SOLD,upinsmoke
+Baltimore Ravens,17,SOLD,andythewxman
+Buffalo Bills,22,SOLD,jyoung83169
+Carolina Panthers,18,SOLD,gijtd
+Chicago Bears,21,SOLD,hixcody
+Houston Texans,1,SOLD,gijtd
+Jacksonville Jaguars,15,SOLD,gijtd
+Kansas City Chiefs,20,SOLD,gijtd
+Las Vegas Raiders,23,SOLD,treju
+Los Angeles Rams,20,SOLD,gijtd
+Miami Dolphins,18,SOLD,gijtd
+New York Giants,21,SOLD,peytongib6363
+New York Jets,23,SOLD,gijtd
+Philadelphia Eagles,20,SOLD,gijtd
+Pittsburgh Steelers,22,SOLD,peytongib6363
+San Francisco 49ers,26,SOLD,hixcody
+Seattle Seahawks,21,SOLD,hixcody
+#8,22,SOLD,hixcody

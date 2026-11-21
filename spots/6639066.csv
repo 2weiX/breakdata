@@ -1,11 +1,11 @@
 spot,price,state,buyer
-SPOT 1,,OPEN,
-SPOT 2,,OPEN,
-SPOT 3,,OPEN,
-SPOT 4,,OPEN,
-SPOT 5,,OPEN,
-SPOT 6,,OPEN,
-SPOT 7,,OPEN,
-SPOT 8,,OPEN,
-SPOT 9,,OPEN,
-SPOT 11,,OPEN,
+SPOT 1,40,SOLD,hubbs222
+SPOT 2,30,SOLD,jwbm_rocketcity_breaks
+SPOT 3,38,SOLD,fast_break_chaos
+SPOT 4,25,SOLD,daryllewis77
+SPOT 5,38,SOLD,jp2cards
+SPOT 6,30,SOLD,fast_break_chaos
+SPOT 7,44,SOLD,jwbm_rocketcity_breaks
+SPOT 8,30,SOLD,hubbs222
+SPOT 9,39,SOLD,martin_bj85
+SPOT 11,30,SOLD,hubbs222

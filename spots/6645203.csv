@@ -1,6 +1,5 @@
 spot,price,state,buyer
 Los Angeles Chargers,306,SOLD,jkcards35
-#2,307,SOLD,jkcards35
 Pittsburgh Steelers,297,SOLD,pokinets
 New England Patriots,312,SOLD,jkcards35
 Cleveland Browns,301.5,SOLD,nholland164
@@ -13,15 +12,31 @@ Detroit Lions,317,SOLD,father_sonsportscards17
 Chicago Bears,295,SOLD,patoc15119
 Los Angeles Rams,288,SOLD,mooresmoke
 Denver Broncos,297,SOLD,father_sonsportscards17
-#15,321,SOLD,father_sonsportscards17
 San Francisco 49ers,270,SOLD,derdel78099
 Cincinnati Bengals,302,SOLD,derdel78099
-#18,300,SOLD,father_sonsportscards17
 Tampa Bay Buccaneers,310,SOLD,patoc15119
-#20,297,SOLD,derdel78099
 Green Bay Packers,290,SOLD,derdel78099
-#22,277,SOLD,father_sonsportscards17
 #23,275,SOLD,derdel78099
-#24,285,SOLD,patoc15119
-#25,200,SOLD,patoc15119
-#26,223,SOLD,father_sonsportscards17
+Washington Commanders,307,SOLD,jkcards35
+Tennessee Titans,321,SOLD,father_sonsportscards17
+Baltimore Ravens,300,SOLD,father_sonsportscards17
+New Orleans Saints,297,SOLD,derdel78099
+Kansas City Chiefs,277,SOLD,father_sonsportscards17
+Philadelphia Eagles,285,SOLD,patoc15119
+Atlanta Falcons,200,SOLD,patoc15119
+Arizona Cardinals,223,SOLD,father_sonsportscards17
+Miami Dolphins,157,SOLD,father_sonsportscards17
+Indianapolis Colts,175,SOLD,patoc15119
+#29,186,SOLD,father_sonsportscards17
+New York Jets,121,SOLD,jkcards35
+#31,161,SOLD,derdel78099
+#32,160,SOLD,father_sonsportscards17
+Seattle Seahawks,89,SOLD,patoc15119
+#34,140,SOLD,father_sonsportscards17
+#35,115,SOLD,father_sonsportscards17
+#36,99,SOLD,jkcards35
+#37,106,SOLD,patoc15119
+Las Vegas Raiders,145,SOLD,jay2141
+Carolina Panthers,185,SOLD,jay2141
+Jacksonville Jaguars,285,SOLD,casanova15
+Dallas Cowboys,890,SOLD,eddiemurphy5

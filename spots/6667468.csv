@@ -1,33 +1,18 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+Baltimore Ravens,4,SOLD,boomboombangsports
+Chicago Bears,4,SOLD,jrzuni21
+Cincinnati Bengals,4,SOLD,horjason
+Denver Broncos,5,SOLD,tnrsportscards
+Detroit Lions,3,SOLD,horjason
+Green Bay Packers,4,SOLD,jrzuni21
+Kansas City Chiefs,3,SOLD,tnrsportscards
+Los Angeles Chargers,3,SOLD,horjason
+Minnesota Vikings,3,SOLD,horjason
+New Orleans Saints,4,SOLD,tnrsportscards
+Philadelphia Eagles,2,SOLD,tnrsportscards
+Pittsburgh Steelers,3,SOLD,jrzuni21
+Seattle Seahawks,3,SOLD,tnrsportscards
+Tampa Bay Buccaneers,3,SOLD,jrzuni21
+Tennessee Titans,4,SOLD,tnrsportscards
+Trade,3,SOLD,tnrsportscards
+#17,1,OPEN,

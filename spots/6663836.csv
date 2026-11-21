@@ -2,32 +2,32 @@ spot,price,state,buyer
 Arizona Cardinals,349,OPEN,
 Atlanta Falcons,99,OPEN,
 Baltimore Ravens,159,OPEN,
-Buffalo Bills,329,SOLD,stickyfingerssports
-Carolina Panthers,119,SOLD,theulaw
+Buffalo Bills,329,OPEN,
+Carolina Panthers,119,OPEN,
 Chicago Bears,329,OPEN,
-Cincinnati Bengals,199,SOLD,robertwil45733
+Cincinnati Bengals,199,OPEN,
 Cleveland Browns,209,OPEN,
-Dallas Cowboys,169,SOLD,ezq
+Dallas Cowboys,169,OPEN,
 Denver Broncos,199,OPEN,
-Detroit Lions,149,SOLD,donrico777
-Green Bay Packers,109,SOLD,fishman77
+Green Bay Packers,109,OPEN,
 Houston Texans,99,OPEN,
 Indianapolis Colts,99,OPEN,
-Jacksonville Jaguars,109,SOLD,yuhhuhmikey
+Jacksonville Jaguars,109,OPEN,
 Kansas City Chiefs,549,OPEN,
-Las Vegas Raiders,629,SOLD,dilcasey
+Las Vegas Raiders,629,OPEN,
 Los Angeles Chargers,99,OPEN,
 Los Angeles Rams,379,OPEN,
-Miami Dolphins,109,SOLD,kegs_cards
-Minnesota Vikings,119,SOLD,ma1t0u
-New England Patriots,479,SOLD,yuhhuhmikey
+Miami Dolphins,109,OPEN,
+Minnesota Vikings,119,OPEN,
+New England Patriots,479,OPEN,
 New Orleans Saints,189,OPEN,
 New York Giants,279,OPEN,
 New York Jets,179,OPEN,
 Philadelphia Eagles,199,OPEN,
 Pittsburgh Steelers,159,OPEN,
-San Francisco 49ers,249,SOLD,616sportscards
+San Francisco 49ers,249,OPEN,
 Seattle Seahawks,259,OPEN,
 Tampa Bay Buccaneers,219,OPEN,
-Tennessee Titans,199,SOLD,dilcasey
+Tennessee Titans,199,OPEN,
 Washington Commanders,149,OPEN,
+#31,199,SOLD,dilcasey
