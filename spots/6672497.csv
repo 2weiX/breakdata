@@ -1,9 +1,9 @@
 spot,price,state,buyer
 Arizona Cardinals,50,OPEN,
-Atlanta Falcons,25,OPEN,
+Atlanta Falcons,17.5,SOLD,wisemad
 Baltimore Ravens,40,OPEN,
 Buffalo Bills,55,OPEN,
-Carolina Panthers,30,OPEN,
+Carolina Panthers,15,SOLD,straightcashhomie
 Chicago Bears,55,OPEN,
 Cincinnati Bengals,40,SOLD,breakwax
 Cleveland Browns,30,OPEN,
@@ -11,14 +11,14 @@ Dallas Cowboys,45,OPEN,
 Denver Broncos,45,OPEN,
 Detroit Lions,40,OPEN,
 Green Bay Packers,45,OPEN,
-Houston Texans,20,OPEN,
-Indianapolis Colts,25,OPEN,
+Houston Texans,1,SOLD,blakebou68275
+Indianapolis Colts,9,SOLD,straightcashhomie
 Jacksonville Jaguars,30,OPEN,
 Kansas City Chiefs,55,OPEN,
 Las Vegas Raiders,100,OPEN,
 Los Angeles Chargers,30,OPEN,
-Los Angeles Rams,45,OPEN,
-Miami Dolphins,25,OPEN,
+Los Angeles Rams,35,SOLD,2sonscards
+Miami Dolphins,5,SOLD,wisemad
 Minnesota Vikings,40,OPEN,
 New England Patriots,50,OPEN,
 New Orleans Saints,32,SOLD,blakebou68275

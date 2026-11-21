@@ -1,0 +1,16 @@
+spot,price,state,buyer
+Tampa Bay Buccaneers,15,SOLD,bronco901
+Seattle Seahawks,9,SOLD,tsk_2018
+Detroit Lions,11,SOLD,tsk_2018
+Buffalo Bills,16,SOLD,bronco901
+Chicago Bears,15,SOLD,tsk_2018
+New England Patriots,17,SOLD,nastynate10810
+"Atlanta Falcons, Philadelphia Eagles",34,SOLD,tsk_2018
+"Indianapolis Colts, Tennessee Titans",30,SOLD,bronco901
+"Carolina Panthers, Washington Commanders",31,SOLD,cadams1975
+"Denver Broncos, Green Bay Packers",29,SOLD,tsk_2018
+"Arizona Cardinals, Jacksonville Jaguars",23,SOLD,cothernandson
+"Cleveland Browns, Miami Dolphins",30,SOLD,tsk_2018
+"Los Angeles Rams, San Francisco 49ers",34,SOLD,tsk_2018
+"Los Angeles Chargers, Minnesota Vikings",25,SOLD,tsk_2018
+#15,1,OPEN,

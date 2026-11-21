@@ -1,11 +1,11 @@
 spot,price,state,buyer
-Arizona Cardinals (benito),300,SOLD,benito1313
+Arizona Cardinals (benito),300,OPEN,
 Atlanta Falcons,189,OPEN,
 Baltimore Ravens,339,OPEN,
 Buffalo Bills,589,OPEN,
-Carolina Panthers,175,SOLD,peterfis47951
-Chicago Bears,649,OPEN,
-Cincinnati Bengals + Jaguars (Joesan),400,SOLD,joe_san
+Carolina Panthers,175,OPEN,
+Chicago Bears,549,OPEN,
+Cincinnati Bengals + Jaguars (Joesan),400,OPEN,
 Cleveland Browns,325,OPEN,
 Dallas Cowboys,369,OPEN,
 Denver Broncos,479,OPEN,
@@ -13,11 +13,11 @@ Green Bay Packers,209,OPEN,
 Houston Texans,169,OPEN,
 Indianapolis Colts,189,OPEN,
 Kansas City Chiefs,899,OPEN,
-Las Vegas Raiders,900,SOLD,fanup
+Las Vegas Raiders,1199,OPEN,
 Los Angeles Chargers,199,OPEN,
 Los Angeles Rams,595,OPEN,
 Miami Dolphins,249,OPEN,
-New England Patriots,605,SOLD,fanup
+New England Patriots,849,OPEN,
 New Orleans Saints,379,OPEN,
 New York Giants,479,OPEN,
 New York Jets,299,OPEN,
@@ -25,8 +25,12 @@ Philadelphia Eagles,289,OPEN,
 Pittsburgh Steelers,269,OPEN,
 San Francisco 49ers,399,OPEN,
 Seattle Seahawks,475,OPEN,
-Tampa Bay Buccaneers,325,SOLD,fanup
+Tampa Bay Buccaneers,419,OPEN,
 Tennessee Titans,419,OPEN,
 Washington Commanders,299,OPEN,
-Detroit Lions,199,SOLD,motowncardfanatic82
-Minnesota Vikings,199.2,SOLD,mos_cards
+Detroit Lions,199,OPEN,
+Minnesota Vikings,200,OPEN,
+#16,1199,SOLD,fanup
+#20,200,SOLD,mos_cards
+#21,849,SOLD,fanup
+#29,419,SOLD,fanup

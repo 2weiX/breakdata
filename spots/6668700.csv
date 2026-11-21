@@ -1,6 +1,5 @@
 spot,price,state,buyer
-Arizona Cardinals,15,OPEN,
-Atlanta Falcons,7,OPEN,
+Arizona Cardinals,12,SOLD,cauchuck
 Baltimore Ravens,6,SOLD,darentz
 Buffalo Bills,17,SOLD,hckynate
 Carolina Panthers,2,SOLD,neilmac985
@@ -18,12 +17,12 @@ Los Angeles Chargers,1,SOLD,hckynate
 Los Angeles Rams,2,SOLD,xninja5
 Miami Dolphins,3,SOLD,justinmin64757
 Minnesota Vikings,6.4,SOLD,neilmac985
-New England Patriots,14,OPEN,
+New England Patriots,11,SOLD,yelpitsmeagain
 New Orleans Saints,1,SOLD,dfnewt004
-New York Jets,8,OPEN,
+New York Jets,1,SOLD,hckynate
 Pittsburgh Steelers,6,SOLD,darentz
 San Francisco 49ers,9.6,SOLD,neilmac985
-Seattle Seahawks,8,OPEN,
-Tampa Bay Buccaneers,6,OPEN,
-Tennessee Titans,8,OPEN,
+Seattle Seahawks,4,SOLD,xninja5
+Tampa Bay Buccaneers,5.7,SOLD,yelpitsmeagain
+Tennessee Titans,8,SOLD,cauchuck
 Washington Commanders,6.4,SOLD,neilmac985

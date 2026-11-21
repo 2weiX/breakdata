@@ -1,14 +1,8 @@
 spot,price,state,buyer
-#1,114,SOLD,beezythatguy515
 GOAT,112,SOLD,beezythatguy515
 Kansas City Chiefs,97,SOLD,tbrewer2
-#4,97,SOLD,tbrewer2
 GOAT,98,SOLD,tbrewer2
-#6,96,SOLD,tbrewer2
 New England Patriots,89,SOLD,slantbreaks
-#8,87,SOLD,tbrewer2
-#9,86,SOLD,tbrewer2
-#10,86,SOLD,delidad3
 Dallas Cowboys,88,SOLD,generalfive1
 Pittsburgh Steelers,96,SOLD,delidad3
 Indianapolis Colts,81,SOLD,masonriver
@@ -20,24 +14,41 @@ Buffalo Bills,101,SOLD,prepper616
 MISC,110,SOLD,mnsportsguys23
 New York Giants,106,SOLD,prepper616
 Detroit Lions,1,SOLD,prepper616
-#22,77,SOLD,masonriver
 Minnesota Vikings,93,SOLD,masonriver
 Los Angeles Rams,90,SOLD,masonriver
 Cleveland Browns,91,SOLD,tbrewer2
 GOAT,87,SOLD,delidad3
 Chicago Bears,91,SOLD,wildcats2686
-#28,74,SOLD,masonriver
-#29,9,SOLD,prepper616
-#30,75,SOLD,phill_mianis
-#31,65,SOLD,phill_mianis
 Baltimore Ravens,74,SOLD,delidad3
 San Francisco 49ers,75,SOLD,phill_mianis
 Washington Commanders,54,SOLD,beezythatguy515
-#35,64,SOLD,delidad3
-#36,60,SOLD,beezythatguy515
 Green Bay Packers,58,SOLD,phill_mianis
 Jacksonville Jaguars,58,SOLD,beezythatguy515
 Seattle Seahawks,57,SOLD,lantzuh
-#40,63,SOLD,lantzuh
 Denver Broncos,69,SOLD,lantzuh
-#42,1,OPEN,
+T,114,SOLD,beezythatguy515
+T,97,SOLD,tbrewer2
+T,96,SOLD,tbrewer2
+T,87,SOLD,tbrewer2
+T,86,SOLD,tbrewer2
+T,86,SOLD,delidad3
+T,77,SOLD,masonriver
+T,74,SOLD,masonriver
+T,9,SOLD,prepper616
+T,75,SOLD,phill_mianis
+T,65,SOLD,phill_mianis
+T,64,SOLD,delidad3
+T,60,SOLD,beezythatguy515
+T,63,SOLD,lantzuh
+T,72,SOLD,phill_mianis
+T,83,SOLD,ryanhan41096
+Los Angeles Chargers,85,SOLD,ryanhan41096
+Arizona Cardinals,65,SOLD,delidad3
+Atlanta Falcons,82,SOLD,flandersnj32
+Las Vegas Raiders,107,SOLD,ryanhan41096
+Tennessee Titans,90,SOLD,flandersnj32
+Miami Dolphins,98,SOLD,flandersnj32
+New Orleans Saints,110,SOLD,flandersnj32
+New York Jets,131,SOLD,flandersnj32
+GOAT,180,SOLD,lantzuh
+Tampa Bay Buccaneers,41,SOLD,flandersnj32

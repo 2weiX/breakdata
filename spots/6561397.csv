@@ -1,20 +1,17 @@
 spot,price,state,buyer
-Arizona Cardinals,86,OPEN,
+Arizona Cardinals,79,OPEN,
 Buffalo Bills,44.2,SOLD,paulcar84691
 Chicago Bears,42,SOLD,kamholz24
 Cincinnati Bengals,41,SOLD,barrislife19
 Dallas Cowboys,43,SOLD,laser9431
-Denver Broncos,52,OPEN,
 Detroit Lions,25,SOLD,oldskewlmisfit
 Kansas City Chiefs,59,SOLD,rkbull
-Las Vegas Raiders,219,OPEN,
+Las Vegas Raiders,217,OPEN,
 Los Angeles Rams,65,SOLD,2sonscards
 New England Patriots,58,SOLD,graveheart
-New Orleans Saints,52,OPEN,
-New York Giants,56,OPEN,
-Philadelphia Eagles,62,OPEN,
+Philadelphia Eagles,59,OPEN,
 San Francisco 49ers,29.6,SOLD,cardcamp
-Tennessee Titans,54,OPEN,
 "Texans, Packers, Panthers, Falcons, Jaguars, Colts, Vikings, Buccaneers",222,SOLD,ciaodown22
 RAVENS CHARGERS SEAHAWKS,98,SOLD,ciaodown22
 "Dolphins, Steelers, Commanders, Browns, Jets",185,SOLD,ciaodown22
+"Broncos, Saints, Giants, Titans",200,SOLD,ciaodown22
