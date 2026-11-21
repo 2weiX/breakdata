@@ -1,27 +1,41 @@
 spot,price,state,buyer
-San Francisco 49ers,185,SOLD,father_sonsportscards17
-Chicago Bears,207,SOLD,ripaholics_seth
-Cincinnati Bengals,204,SOLD,jkcards35
-Buffalo Bills,216,SOLD,jkcards35
-Denver Broncos,10,SOLD,father_sonsportscards17
-Cleveland Browns,211,SOLD,ripaholics_seth
-Tampa Bay Buccaneers,145,SOLD,ripaholics_seth
-Los Angeles Chargers,192,SOLD,jkcards35
-Kansas City Chiefs,222,SOLD,jkcards35
-Philadelphia Eagles,166,SOLD,father_sonsportscards17
-Atlanta Falcons,130,SOLD,casanova15
-Green Bay Packers,54,SOLD,casanova15
-Carolina Panthers,125,SOLD,nholland164
-New England Patriots,215,SOLD,pokinets
-Los Angeles Rams,152,SOLD,ripaholics_seth
 Baltimore Ravens,189,SOLD,father_sonsportscards17
+San Francisco 49ers,185,SOLD,father_sonsportscards17
 Pittsburgh Steelers,198,SOLD,ripaholics_seth
-Minnesota Vikings,212,SOLD,casanova15
+Cincinnati Bengals,204,SOLD,jkcards35
 #5,175.1,SOLD,pokinets
-#9,216,SOLD,jkcards35
+New England Patriots,215,SOLD,pokinets
+Buffalo Bills,216,SOLD,jkcards35
+Minnesota Vikings,212,SOLD,casanova15
+MISC,216,SOLD,jkcards35
+Kansas City Chiefs,222,SOLD,jkcards35
+Chicago Bears,207,SOLD,ripaholics_seth
 #12,207,SOLD,pokinets
+Los Angeles Chargers,192,SOLD,jkcards35
 #14,142,SOLD,ripaholics_seth
-#21,105,SOLD,father_sonsportscards17
-#24,122,SOLD,casanova15
-#25,105,SOLD,father_sonsportscards17
-#26,1,OPEN,
+Cleveland Browns,211,SOLD,ripaholics_seth
+Los Angeles Rams,152,SOLD,ripaholics_seth
+Denver Broncos,10,SOLD,father_sonsportscards17
+Philadelphia Eagles,166,SOLD,father_sonsportscards17
+Tampa Bay Buccaneers,145,SOLD,ripaholics_seth
+Atlanta Falcons,130,SOLD,casanova15
+Seattle Seahawks,105,SOLD,father_sonsportscards17
+Green Bay Packers,54,SOLD,casanova15
+Houston Texans,125,SOLD,nholland164
+Indianapolis Colts,122,SOLD,casanova15
+Dallas Cowboys,105,SOLD,father_sonsportscards17
+#26,115,SOLD,father_sonsportscards17
+"Arizona Cardinals, Miami Dolphins",110,SOLD,ashtonkingg
+Washington Commanders,118,SOLD,jkcards35
+#29,105,SOLD,father_sonsportscards17
+Las Vegas Raiders,88,SOLD,ashtonkingg
+New York Jets,112,SOLD,casanova15
+#32,95,SOLD,jkcards35
+New York Giants,71,SOLD,jmcgov85
+Jacksonville Jaguars,20,SOLD,ashtonkingg
+Tennessee Titans,17,SOLD,ashtonkingg
+New Orleans Saints,21,SOLD,casanova15
+Carolina Panthers,17,SOLD,casanova15
+#38,53,SOLD,nholland164
+Detroit Lions,85,SOLD,ashtonkingg
+#40,151,SOLD,jkcards35

@@ -1,34 +1,42 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-Miscellaneous,,OPEN,
+Cincinnati Bengals,141,SOLD,jeremyfun53937
+Baltimore Ravens,131,SOLD,jeremyfun53937
+Green Bay Packers,132,SOLD,bglenn1522
+#4,130,SOLD,jeremyfun53937
+Dallas Cowboys,126,SOLD,bglenn1522
+New Orleans Saints,121,SOLD,gareli48009
+Los Angeles Chargers,118,SOLD,jeremyfun53937
+#8,116,SOLD,jeremyfun53937
+San Francisco 49ers,118,SOLD,tmitchell0301
+Minnesota Vikings,115,SOLD,bglenn1522
+Houston Texans,124,SOLD,raymond14stone
+#12,105,SOLD,bglenn1522
+Buffalo Bills,120,SOLD,bglenn1522
+Las Vegas Raiders,120,SOLD,scottsta79153
+Pittsburgh Steelers,142,SOLD,scottsta79153
+Tampa Bay Buccaneers,130,SOLD,samspro1
+#17,135,SOLD,scottsta79153
+Philadelphia Eagles,130,SOLD,tommymcn34851
+Chicago Bears,135,SOLD,dfattore1
+#20,130,SOLD,scottsta79153
+New York Jets,145,SOLD,izac1234
+#22,136,SOLD,jeremyfun53937
+Kansas City Chiefs,140,SOLD,billybobtheclown
+Carolina Panthers,134,SOLD,samspro1
+Jacksonville Jaguars,145,SOLD,tmitchell0301
+Miscellaneous,139,SOLD,scottsta79153
+Seattle Seahawks,142,SOLD,scottsta79153
+New England Patriots,160,SOLD,scottsta79153
+#29,140,SOLD,tommymcn34851
+New York Giants,138,SOLD,jeremyfun53937
+#31,134,SOLD,billybobtheclown
+Los Angeles Rams,135,SOLD,billybobtheclown
+Denver Broncos,102,SOLD,samspro1
+Cleveland Browns,85,SOLD,samspro1
+Detroit Lions,64,SOLD,thtdudepete
+Tennessee Titans,58,SOLD,tommymcn34851
+Arizona Cardinals,67,SOLD,scottsta79153
+Miami Dolphins,83,SOLD,scottsta79153
+Atlanta Falcons,85,SOLD,scottsta79153
+Indianapolis Colts,89,SOLD,scottsta79153
+Washington Commanders,78,SOLD,scottsta79153

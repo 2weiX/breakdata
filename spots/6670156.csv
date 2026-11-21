@@ -1,8 +1,8 @@
 spot,price,state,buyer
-#1,50,SOLD,aponte1224
-#2,54,SOLD,aponte1224
-#3,63,SOLD,azambonisportscards
-#4,57,SOLD,joshuabreaks
-#5,57,SOLD,joshuabreaks
-#6,60,SOLD,azambonisportscards
-#7,1,OPEN,
+Pick 6,50,SOLD,aponte1224
+Pick 4,54,SOLD,aponte1224
+Pick 1,63,SOLD,azambonisportscards
+Pick 7,57,SOLD,joshuabreaks
+Pick 2,57,SOLD,joshuabreaks
+Pick 5,60,SOLD,azambonisportscards
+Pick 3,57.6,SOLD,aponte1224

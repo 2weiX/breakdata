@@ -1,34 +1,36 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-Misc,,OPEN,
+Detroit Lions,47,SOLD,endtimevault
+Cleveland Browns,47,SOLD,endtimevault
+Pittsburgh Steelers,42,SOLD,justbreak3
+#4,42,SOLD,justbreak3
+Denver Broncos,43,SOLD,dabrunz
+Los Angeles Rams,45,SOLD,dabrunz
+Jacksonville Jaguars,45,SOLD,endtimevault
+Green Bay Packers,49,SOLD,ajfbreaks
+Carolina Panthers,80,SOLD,kadyndil
+#10,53,SOLD,dabrunz
+New England Patriots,55,SOLD,dabrunz
+Dallas Cowboys,63,SOLD,jesgar29487
+Kansas City Chiefs,65,SOLD,chazosen
+Houston Texans,69,SOLD,chazosen
+New York Giants,66,SOLD,jesgar29487
+Seattle Seahawks,64,SOLD,chazosen
+Baltimore Ravens,60,SOLD,chazosen
+#18,66,SOLD,allgasnobreakz
+San Francisco 49ers,65,SOLD,chazosen
+#20,64,SOLD,allgasnobreakz
+New York Jets,57,SOLD,justbreak3
+Minnesota Vikings,63,SOLD,allgasnobreakz
+Philadelphia Eagles,55,SOLD,dabrunz
+Los Angeles Chargers,59,SOLD,allgasnobreakz
+Atlanta Falcons,59,SOLD,dabrunz
+Miami Dolphins,64,SOLD,jesgar29487
+Indianapolis Colts,63,SOLD,chazosen
+Washington Commanders,58,SOLD,dabrunz
+Chicago Bears,125,SOLD,dabrunz
+Misc,66,SOLD,justbreak3
+Buffalo Bills,51,SOLD,chazosen
+Cincinnati Bengals,61,SOLD,aaronrodgersdirtylefttoe
+#33,19,SOLD,chazosen
+#34,10,SOLD,kadyndil
+#35,1,OPEN,

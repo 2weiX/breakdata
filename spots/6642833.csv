@@ -2,7 +2,7 @@ spot,price,state,buyer
 Caleb Williams (IV) (UV) (91 AUTO) (AUTO) (PREM1ERE),265,OPEN,
 Patrick Mahomes II (IV) (GG) (AUTO) (ETCH) (UV),220,OPEN,
 CJ Stroud (IV) (GG) (PREM1ERE),35,OPEN,
-Bo Nix (KAIJU) (ETCH) (91 AUTO) (AUTO) (DUAL) (PREM1ERE),100,OPEN,
+Bo Nix (KAIJU) (ETCH) (91 AUTO) (AUTO) (DUAL) (PREM1ERE),80,SOLD,andrews0lis949
 Bryce Young (IV) (GG) (HELIX) (91 AUTO) (AUTO) (DUAL) (PREM1ERE),30,SOLD,mrb70441
 Jahmyr Gibbs (AUTO) (DUAL) (PREMIERE),55,OPEN,
 Carson Beck (RR) (IV) (DUAL) (AUTO),25,SOLD,mrb70441
@@ -55,7 +55,7 @@ Chase Brown (AUTO) (PREM1ERE),7,OPEN,
 Dan Marino (IV) (AUTO),5,OPEN,
 Jared Verse (PREM1ERE),2,SOLD,mrb70441
 Quentin Johnston (PREM1ERE),3,OPEN,
-Rome Odunze (PREM1ERE),5,OPEN,
+Rome Odunze (PREM1ERE),5,SOLD,jeffreycar32036
 Spencer Rattler (PREM1ERE),2,OPEN,
 Tank Bigsby (PREM1ERE),2,SOLD,pullforgecards
 Trevor Lawrence (IV) (GG) (ETCH) (AUTO),13,SOLD,ripsum
@@ -200,7 +200,7 @@ Derwin James,2,OPEN,
 DeVonta Smith,3,OPEN,
 Devontez Walker,2,OPEN,
 Dexter Lawrence I,2,OPEN,
-Dillon Thieneman (AUTO),2,OPEN,
+Dillon Thieneman (AUTO),2,SOLD,jeffreycar32036
 Dion Dawkins,2,OPEN,
 DJ Moore,2,OPEN,
 DK Metcalf,2,OPEN,
@@ -346,7 +346,7 @@ Michael Vick (AUTO),3,OPEN,
 Mike Alstott (AUTO),2,OPEN,
 Mike Evans,3,SOLD,mrb70441
 Mike Sainristil (PREM1ERE),2,OPEN,
-Mike Singletary (AUTO),2,OPEN,
+Mike Singletary (AUTO),2,SOLD,jeffreycar32036
 Mike Washington Jr. (AUTO),7,SOLD,brianf9123
 Minkah Fitzpatrick,2,OPEN,
 Montez Sweat,2,OPEN,
@@ -407,11 +407,11 @@ Xavier McKinney,2,OPEN,
 Xavier Watts,2,OPEN,
 Zach Allen,2,OPEN,
 Zachariah Branch (AUTO),2,SOLD,strykerstrong
-Zavion Thomas (AUTO),2,OPEN,
+Zavion Thomas (AUTO),2,SOLD,jeffreycar32036
 Zion Young (AUTO),2,OPEN,
 Brock Bowers,15,OPEN,
 Justin Jefferson,10,SOLD,sportscardcollects702
-Colston Loveland,3,OPEN,
+Colston Loveland,3,SOLD,jeffreycar32036
 Tyler Shough,4.8,SOLD,atrainbreaks
 Baker Mayfield,5,OPEN,
 Jaxson Smith-Njigba,11.2,SOLD,rev_and_rip
@@ -454,5 +454,5 @@ Germie Bernard,2.8,SOLD,clayp930
 Rob Gronkowski,6,OPEN,
 Dez Bryant,2,OPEN,
 Matthew Golden & Sterling Sharpe,5,SOLD,kimmat86167
-"Luther Burden, D'Andre Swift, Kyle Monangi, Colston Loveland",12,OPEN,
+"Luther Burden, D'Andre Swift, Kyle Monangi, Colston Loveland",12,SOLD,jeffreycar32036
 Ty Simpson,12,SOLD,rev_and_rip

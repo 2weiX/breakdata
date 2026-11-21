@@ -1,34 +1,44 @@
 spot,price,state,buyer
-Arizona Cardinals,120,SOLD,dabrunz
-Atlanta Falcons,106,SOLD,vegasmann
-Baltimore Ravens,145,SOLD,dabrunz
-Buffalo Bills,130,SOLD,vegasmann
-Chicago Bears,130,SOLD,jksportkc
-Cincinnati Bengals,23,SOLD,kadyndil
 Cleveland Browns,97,SOLD,vegasmann
-Dallas Cowboys,123,SOLD,vegasmann
-Denver Broncos,125,SOLD,dabrunz
-Detroit Lions,106,SOLD,vegasmann
-Green Bay Packers,151,SOLD,fnfnetwork
-Kansas City Chiefs,120,SOLD,dabrunz
-Los Angeles Chargers,130,SOLD,dabrunz
-Los Angeles Rams,125,SOLD,dabrunz
-Miami Dolphins,55,SOLD,kadyndil
+Atlanta Falcons,106,SOLD,vegasmann
 New England Patriots,108,SOLD,vegasmann
-New York Giants,120,SOLD,dabrunz
-Philadelphia Eagles,130,SOLD,vegasmann
-Pittsburgh Steelers,130,SOLD,kadyndil
-San Francisco 49ers,126,SOLD,dabrunz
-Tampa Bay Buccaneers,130,SOLD,jleo071986
+Detroit Lions,106,SOLD,vegasmann
+Dallas Cowboys,123,SOLD,vegasmann
+Buffalo Bills,130,SOLD,vegasmann
 MISC,129,SOLD,vegasmann
+Philadelphia Eagles,130,SOLD,vegasmann
+Denver Broncos,125,SOLD,dabrunz
 #10,130,SOLD,vegasmann
+Pittsburgh Steelers,130,SOLD,kadyndil
+Los Angeles Rams,125,SOLD,dabrunz
 #13,130,SOLD,vegasmann
 #14,145,SOLD,fnfnetwork
 #15,144,SOLD,fnfnetwork
+Green Bay Packers,151,SOLD,fnfnetwork
 #17,120,SOLD,vegasmann
 #18,130,SOLD,vegasmann
 #19,2,SOLD,kadyndil
+#20,120,SOLD,dabrunz
+San Francisco 49ers,126,SOLD,dabrunz
+Los Angeles Chargers,130,SOLD,dabrunz
+Baltimore Ravens,145,SOLD,dabrunz
+Chicago Bears,130,SOLD,jksportkc
 #25,120,SOLD,dabrunz
+New York Giants,120,SOLD,dabrunz
 #27,36,SOLD,dabrunz
+Tampa Bay Buccaneers,130,SOLD,jleo071986
+Kansas City Chiefs,120,SOLD,dabrunz
 #30,11,SOLD,kadyndil
-#33,1,OPEN,
+Las Vegas Raiders,55,SOLD,kadyndil
+Cincinnati Bengals,23,SOLD,kadyndil
+#33,30,SOLD,phill_mianis
+New York Jets,39,SOLD,zomtristan
+#35,65,SOLD,fnfnetwork
+Washington Commanders,71,SOLD,fnfnetwork
+Miami Dolphins,73,SOLD,jesgar29487
+Seattle Seahawks,70,SOLD,fnfnetwork
+Houston Texans,77,SOLD,slick_vic117
+Minnesota Vikings,116,SOLD,phill_mianis
+"Carolina Panthers, Jacksonville Jaguars",4,SOLD,phill_mianis
+"New Orleans Saints, Tennessee Titans",17,SOLD,jesgar29487
+"Arizona Cardinals, Indianapolis Colts",6,SOLD,phill_mianis

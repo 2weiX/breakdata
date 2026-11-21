@@ -1,12 +1,12 @@
 spot,price,state,buyer
-AFC North,,OPEN,
-AFC East,,OPEN,
-AFC West,,OPEN,
-AFC South,,OPEN,
-NFC North,,OPEN,
-NFC East,,OPEN,
-NFC West,,OPEN,
-NFC South,,OPEN,
-1/1,,OPEN,
-MISC,,OPEN,
-Downtown/Uptown,,OPEN,
+NFC North,20,SOLD,tancol1984
+AFC East,21,SOLD,tancol1984
+1/1,22,SOLD,kurmor
+NFC West,22,SOLD,kurmor
+MISC,22,SOLD,tancol1984
+AFC South,21.85,SOLD,patentsky
+AFC North,24,SOLD,taylorsch44982
+NFC South,25,SOLD,tmitchell0301
+NFC East,25,SOLD,lb84
+AFC West,24,SOLD,patentsky
+Downtown/Uptown,30,SOLD,taylorsch44982

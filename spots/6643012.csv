@@ -1,6 +1,6 @@
 spot,price,state,buyer
-Arizona Cardinals,12,OPEN,
-Atlanta Falcons,8,OPEN,
+Arizona Cardinals,6,SOLD,chalalala
+Atlanta Falcons,5.4,SOLD,jebofalltradingcards22
 Baltimore Ravens,9.6,SOLD,jebofalltradingcards22
 Buffalo Bills,11.2,SOLD,dietzelscardstop
 Carolina Panthers,10,OPEN,
@@ -27,4 +27,4 @@ Philadelphia Eagles,10,OPEN,
 Pittsburgh Steelers,10,OPEN,
 San Francisco 49ers,12,SOLD,jebofalltradingcards22
 Tennessee Titans,10,SOLD,cashout_on_wax
-Washington Commanders,10,OPEN,
+Washington Commanders,6,SOLD,bsizzles07

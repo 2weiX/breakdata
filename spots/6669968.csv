@@ -1,38 +1,27 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-SEC,,OPEN,
-BIG TEN,,OPEN,
-ACC,,OPEN,
-BIG 12,,OPEN,
-OTHERS,,OPEN,
+Buffalo Bills,10,SOLD,chrisa080808
+Kansas City Chiefs,10,SOLD,chrisa080808
+Dallas Cowboys,7,SOLD,dmoose35
+BIG TEN,11,SOLD,willpor11766
+Baltimore Ravens,13,SOLD,guccismoke
+Los Angeles Rams,10,SOLD,quantumhelix
+Philadelphia Eagles,13,SOLD,quantumhelix
+Tampa Bay Buccaneers,18,SOLD,timothysto38415
+OTHERS,18,SOLD,timothysto38415
+Miami Dolphins,15,SOLD,timothysto38415
+New England Patriots,18,SOLD,timothysto38415
+Cincinnati Bengals,17,SOLD,guccismoke
+Cleveland Browns,15,SOLD,guccismoke
+BIG 12,11,SOLD,netzero_01
+Atlanta Falcons,13,SOLD,dmoose35
+New Orleans Saints,7.65,SOLD,netzero_01
+Las Vegas Raiders,10,SOLD,willpor11766
+New York Jets,11,SOLD,timothysto38415
+San Francisco 49ers,18,SOLD,coreybur54724
+Chicago Bears,17,SOLD,mogul420
+Tennessee Titans,18,SOLD,coreybur54724
+Washington Commanders,14,SOLD,mogul420
+Carolina Panthers,13,SOLD,mogul420
+ACC,13,SOLD,mogul420
+Pittsburgh Steelers,13,SOLD,dmoose35
+#26,1,OPEN,

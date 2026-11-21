@@ -1,33 +1,42 @@
 spot,price,state,buyer
-Baltimore Ravens,74,SOLD,casanova15
-Buffalo Bills,42,SOLD,johnh717
-Carolina Panthers,43,SOLD,justbreak3
-Chicago Bears,84,SOLD,sheehan45
-Cincinnati Bengals,38,SOLD,justbreak3
-Cleveland Browns,73,SOLD,sheehan45
 Dallas Cowboys,41,SOLD,troymarcyes
+Buffalo Bills,42,SOLD,johnh717
+Cincinnati Bengals,38,SOLD,justbreak3
 Denver Broncos,51,SOLD,sheehan45
-Detroit Lions,73,SOLD,sheehan45
-Green Bay Packers,77,SOLD,bernsteinjd
-Indianapolis Colts,34,SOLD,rcustodio13
-Kansas City Chiefs,62,SOLD,sheehan45
-Las Vegas Raiders,36,SOLD,johnh717
-Los Angeles Chargers,68,SOLD,sheehan45
-Los Angeles Rams,48,SOLD,sheehan45
-New England Patriots,69,SOLD,bernsteinjd
-New York Giants,74,SOLD,sheehan45
-Philadelphia Eagles,48,SOLD,sheehan45
-Pittsburgh Steelers,51,SOLD,ajfbreaks
-San Francisco 49ers,65,SOLD,dabrunz
-Tampa Bay Buccaneers,61,SOLD,casanova15
-Tennessee Titans,67,SOLD,casanova15
-Washington Commanders,46,SOLD,johnh717
-Misc,55,SOLD,sheehan45
 #5,41,SOLD,sheehan45
+Los Angeles Rams,48,SOLD,sheehan45
+Kansas City Chiefs,62,SOLD,sheehan45
 #8,60,SOLD,dabrunz
+San Francisco 49ers,65,SOLD,dabrunz
+Misc,55,SOLD,sheehan45
 #11,65,SOLD,bernsteinjd
 #12,60,SOLD,sheehan45
+Tennessee Titans,67,SOLD,casanova15
+Green Bay Packers,77,SOLD,bernsteinjd
+New York Giants,74,SOLD,sheehan45
+Cleveland Browns,73,SOLD,sheehan45
+Baltimore Ravens,74,SOLD,casanova15
+Philadelphia Eagles,48,SOLD,sheehan45
+Detroit Lions,73,SOLD,sheehan45
+Los Angeles Chargers,68,SOLD,sheehan45
+New England Patriots,69,SOLD,bernsteinjd
 #22,50,SOLD,sheehan45
 #23,51,SOLD,johnh717
+Tampa Bay Buccaneers,61,SOLD,casanova15
+Chicago Bears,84,SOLD,sheehan45
+Washington Commanders,46,SOLD,johnh717
+Pittsburgh Steelers,51,SOLD,ajfbreaks
 #28,51,SOLD,johnh717
+Carolina Panthers,43,SOLD,justbreak3
+Indianapolis Colts,34,SOLD,rcustodio13
+Las Vegas Raiders,36,SOLD,johnh717
 #32,36,SOLD,rcustodio13
+New York Jets,32,SOLD,sdvjames
+Minnesota Vikings,36,SOLD,johnh717
+Houston Texans,19,SOLD,sdvjames
+Miami Dolphins,39,SOLD,papatrex
+New Orleans Saints,27,SOLD,papatrex
+Arizona Cardinals,27,SOLD,papatrex
+Seattle Seahawks,34,SOLD,papatrex
+Atlanta Falcons,36,SOLD,papatrex
+Jacksonville Jaguars,22,SOLD,sdvjames

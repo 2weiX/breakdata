@@ -1,10 +1,10 @@
 spot,price,state,buyer
-Spot 1,,OPEN,
-Spot 2,,OPEN,
-Spot 3,,OPEN,
-Spot 4,,OPEN,
-Spot 5,,OPEN,
-Spot 6,,OPEN,
-Spot 7,,OPEN,
-Spot 8,,OPEN,
-Spot 9,,OPEN,
+Spot 4,16,SOLD,rbcard_z
+Spot 1,16,SOLD,bentleys_cards
+Spot 5,17,SOLD,rbcard_z
+Spot 8,20,SOLD,rbcard_z
+Spot 2,20,SOLD,martin_bj85
+Spot 9,20,SOLD,bentleys_cards
+Spot 3,20,SOLD,rbcard_z
+Spot 6,23,SOLD,martin_bj85
+Spot 7,27,SOLD,martin_bj85

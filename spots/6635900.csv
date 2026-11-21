@@ -1,5 +1,4 @@
 spot,price,state,buyer
-Arizona Cardinals,55,OPEN,
 Baltimore Ravens,25,OPEN,
 Carolina Panthers,30,OPEN,
 Chicago Bears,35,SOLD,tornadoalleycardz
@@ -13,7 +12,6 @@ Indianapolis Colts,20,OPEN,
 Jacksonville Jaguars,25,OPEN,
 Kansas City Chiefs,45,OPEN,
 Las Vegas Raiders,45,SOLD,topgun_breaks
-Los Angeles Chargers,15,OPEN,
 Los Angeles Rams,30,SOLD,yesse24
 Miami Dolphins,15,OPEN,
 Minnesota Vikings,20,OPEN,

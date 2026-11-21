@@ -1,17 +1,28 @@
 spot,price,state,buyer
-Carolina Panthers,38,SOLD,fisterer12619
 Dallas Cowboys,24,SOLD,dillonr3
+New York Giants,27,SOLD,dillonr3
+Tennessee Titans,30,SOLD,dillonr3
+Carolina Panthers,38,SOLD,fisterer12619
 Denver Broncos,55,SOLD,fisterer12619
-Detroit Lions,43,SOLD,chino18025
+New York Jets,57,SOLD,chino18025
 Green Bay Packers,57,SOLD,chino18025
-Houston Texans,38,SOLD,jere31
+Pittsburgh Steelers,56,SOLD,gibbs_cardz
 Las Vegas Raiders,41,SOLD,rifoo7
+Detroit Lions,43,SOLD,chino18025
+New Orleans Saints,33,SOLD,chino18025
+Philadelphia Eagles,33,SOLD,gibbs_cardz
+Houston Texans,38,SOLD,jere31
 Los Angeles Chargers,59,SOLD,chino18025
 Miami Dolphins,72,SOLD,rifoo7
-New Orleans Saints,33,SOLD,chino18025
-New York Giants,27,SOLD,dillonr3
-New York Jets,57,SOLD,chino18025
-Philadelphia Eagles,33,SOLD,gibbs_cardz
-Pittsburgh Steelers,56,SOLD,gibbs_cardz
-Tennessee Titans,30,SOLD,dillonr3
-#16,1,OPEN,
+Jacksonville Jaguars,69,SOLD,jripz303
+Seattle Seahawks,102,SOLD,fatal4funhouse
+Cincinnati Bengals,95,SOLD,rifoo7
+#19,89,SOLD,jripz303
+Indianapolis Colts,93,SOLD,scottsta79153
+Kansas City Chiefs,74,SOLD,fatal4funhouse
+Atlanta Falcons,21,SOLD,richardfet
+"Arizona Cardinals, Los Angeles Rams",5,SOLD,dillonr3
+"Baltimore Ravens, Tampa Bay Buccaneers",6,SOLD,gibbs_cardz
+"San Francisco 49ers, Washington Commanders",6,SOLD,richardfet
+"Chicago Bears, Cleveland Browns",7,SOLD,dillonr3
+"Buffalo Bills, Minnesota Vikings, New England Patriots",1,SOLD,richardfet
