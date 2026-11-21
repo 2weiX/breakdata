@@ -1,9 +1,42 @@
 spot,price,state,buyer
 #1,18,SOLD,nichie3
-Cleveland Browns,16,SOLD,nichie3
+Denver Broncos,16,SOLD,nichie3
 #3,19,SOLD,nichie3
 #4,3,SOLD,jfd924
-Tampa Bay Buccaneers,21,SOLD,nichie3
+#5,21,SOLD,nichie3
 Seattle Seahawks,21,SOLD,nichie3
 Baltimore Ravens,17,SOLD,chrish216
-#8,1,OPEN,
+#8,16,SOLD,nichie3
+Kansas City Chiefs,19,SOLD,nichie3
+Miami Dolphins,1,SOLD,chrish216
+Pittsburgh Steelers,15,SOLD,nichie3
+Minnesota Vikings,18,SOLD,nichie3
+New York Jets,18,SOLD,mugalum
+#14,22,SOLD,nichie3
+Jacksonville Jaguars,21,SOLD,nichie3
+New England Patriots,18,SOLD,mugalum
+Chicago Bears,32,SOLD,nichie3
+NO HUD,20,SOLD,mugalum
+Los Angeles Rams,19,SOLD,mugalum
+Carolina Panthers,24,SOLD,joncro17240
+Cincinnati Bengals,21,SOLD,joncro17240
+Buffalo Bills,22,SOLD,awash13
+Green Bay Packers,23,SOLD,joncro17240
+Indianapolis Colts,19,SOLD,awash13
+Arizona Cardinals,16,SOLD,ryanbut10869
+New York Giants,18,SOLD,awash13
+Los Angeles Chargers,15,SOLD,weshock
+Las Vegas Raiders,16,SOLD,bh199644
+New Orleans Saints,19,SOLD,chrish216
+Tennessee Titans,32,SOLD,bbe_murph
+1ST DOWN ,26,SOLD,joncro17240
+Atlanta Falcons,17,SOLD,ryanfra49600
+Detroit Lions,17,SOLD,ryanfra49600
+Washington Commanders,14,SOLD,ryanfra49600
+Tampa Bay Buccaneers,17,SOLD,bh199644
+San Francisco 49ers,17,SOLD,ryanfra49600
+Cleveland Browns,18,SOLD,joncro17240
+Dallas Cowboys,12,SOLD,grab_your_goat
+Philadelphia Eagles,9,SOLD,ryanfra49600
+Houston Texans,8,SOLD,mugalum
+MISC,30,SOLD,nichie3

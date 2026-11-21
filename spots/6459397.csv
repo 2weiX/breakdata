@@ -1,14 +1,14 @@
 spot,price,state,buyer
 Arizona Cardinals,10,OPEN,
-Atlanta Falcons,10,OPEN,
+Atlanta Falcons,10,SOLD,suckmikeditka
 Buffalo Bills,10,OPEN,
 Carolina Panthers,10,OPEN,
 Chicago Bears,10,OPEN,
 Cincinnati Bengals,10,OPEN,
 Cleveland Browns,10,OPEN,
 Dallas Cowboys,10,OPEN,
-Denver Broncos,10,OPEN,
-Detroit Lions,10,OPEN,
+Denver Broncos,10,SOLD,suckmikeditka
+Detroit Lions,9.5,SOLD,gracie304
 Green Bay Packers,10,OPEN,
 Houston Texans,10,OPEN,
 Indianapolis Colts,10,OPEN,

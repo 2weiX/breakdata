@@ -1,11 +1,11 @@
 spot,price,state,buyer
 Arizona Cardinals,12,OPEN,
-Atlanta Falcons,14,OPEN,
-Carolina Panthers,28,OPEN,
+Atlanta Falcons,14,SOLD,raf_bmk
+Carolina Panthers,18,SOLD,sergethi
 Chicago Bears,21,SOLD,taranisrzh35
-Cincinnati Bengals,18,OPEN,
-Cleveland Browns,34,OPEN,
-Dallas Cowboys,16,OPEN,
+Cincinnati Bengals,12,SOLD,harres25
+Cleveland Browns,23.8,SOLD,le_templier_76
+Dallas Cowboys,10,SOLD,taranisrzh35
 Denver Broncos,14,SOLD,gauzef
 Detroit Lions,20,SOLD,benebene
 Green Bay Packers,17,SOLD,gauzef
@@ -13,10 +13,10 @@ Houston Texans,20,OPEN,
 Indianapolis Colts,24,OPEN,
 Jacksonville Jaguars,25.5,SOLD,jagsels
 Kansas City Chiefs,16,SOLD,sergethi
-Las Vegas Raiders,36,OPEN,
-Los Angeles Chargers,26,OPEN,
+Las Vegas Raiders,28.8,SOLD,le_templier_76
+Los Angeles Chargers,18,SOLD,sergethi
 Los Angeles Rams,16,SOLD,sergethi
-Miami Dolphins,18,OPEN,
+Miami Dolphins,14.4,SOLD,stefanhaldo
 Minnesota Vikings,20,SOLD,diangho
 New England Patriots,26,SOLD,synip_hypelinebreaks
 New Orleans Saints,18,SOLD,clementmik
@@ -27,5 +27,5 @@ Pittsburgh Steelers,24,OPEN,
 San Francisco 49ers,17,SOLD,jagsels
 Seattle Seahawks,26,OPEN,
 Tampa Bay Buccaneers,16,SOLD,sanddrock
-Tennessee Titans,28,OPEN,
-Washington Commanders,16,OPEN,
+Tennessee Titans,20,SOLD,jordan13090
+Washington Commanders,10,SOLD,harres25

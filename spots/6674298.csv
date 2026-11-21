@@ -1,23 +1,23 @@
 spot,price,state,buyer
 Atlanta Falcons,5,SOLD,moonman36433
-Baltimore Ravens,8,OPEN,
+Baltimore Ravens,4,SOLD,timlam44111
 Buffalo Bills,11,SOLD,jollyrancher88
 Carolina Panthers,7,SOLD,jollyrancher88
 Chicago Bears,18,SOLD,tarheel5023
-Cincinnati Bengals,9,OPEN,
-Cleveland Browns,12,OPEN,
+Cincinnati Bengals,6,SOLD,cedarscardboard
+Cleveland Browns,9.6,SOLD,latenightripsllc
 Dallas Cowboys,8,SOLD,timlam44111
-Denver Broncos,10,OPEN,
+Denver Broncos,7,SOLD,cedarscardboard
 Detroit Lions,10,OPEN,
 Green Bay Packers,5.6,SOLD,timlam44111
 Houston Texans,9,OPEN,
-Indianapolis Colts,7,OPEN,
+Indianapolis Colts,2,SOLD,cedarscardboard
 Jacksonville Jaguars,11,SOLD,jollyrancher88
-Kansas City Chiefs,12,OPEN,
+Kansas City Chiefs,8,SOLD,cedarscardboard
 Las Vegas Raiders,21,SOLD,jollyrancher88
-Los Angeles Chargers,8,OPEN,
-Los Angeles Rams,10,OPEN,
-Miami Dolphins,9,OPEN,
+Los Angeles Chargers,3,SOLD,cedarscardboard
+Los Angeles Rams,4,SOLD,maxxbreakss
+Miami Dolphins,7.2,SOLD,latenightripsllc
 Minnesota Vikings,10,OPEN,
 New England Patriots,12,SOLD,tarheel5023
 New Orleans Saints,9,OPEN,
@@ -25,7 +25,7 @@ New York Giants,11,SOLD,jollyrancher88
 New York Jets,12,SOLD,jollyrancher88
 Philadelphia Eagles,6,SOLD,maxxbreakss
 Pittsburgh Steelers,8,SOLD,tarheel5023
-San Francisco 49ers,11,OPEN,
+San Francisco 49ers,5,SOLD,cedarscardboard
 Seattle Seahawks,8,OPEN,
 Tampa Bay Buccaneers,10,OPEN,
 Washington Commanders,9,SOLD,jollyrancher88

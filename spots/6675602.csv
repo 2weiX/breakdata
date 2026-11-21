@@ -1,27 +1,22 @@
 spot,price,state,buyer
-Atlanta Falcons,199,OPEN,
-Buffalo Bills,499,OPEN,
-Carolina Panthers,199,OPEN,
+Atlanta Falcons,169,SOLD,garrettallred
+Buffalo Bills,475,SOLD,dazzlesports12
 Chicago Bears,499,OPEN,
 Cleveland Browns,299,OPEN,
-Dallas Cowboys,199,OPEN,
+Dallas Cowboys,180,SOLD,norcalsonger
 Denver Broncos,299,OPEN,
-Detroit Lions,199,OPEN,
-Green Bay Packers,149,OPEN,
-Houston Texans,149,OPEN,
-Indianapolis Colts,189,OPEN,
-Jacksonville Jaguars,149,OPEN,
-Los Angeles Chargers,199,OPEN,
-Miami Dolphins,149,OPEN,
-Minnesota Vikings,199,OPEN,
+Detroit Lions,185,SOLD,kylevel
+Jacksonville Jaguars,125,SOLD,mikeell87513
+Los Angeles Chargers,185,SOLD,garrettallred
 New Orleans Saints,299,OPEN,
 New York Giants,375,SOLD,brianmcg10688
-New York Jets,249,OPEN,
+New York Jets,200,SOLD,mikeell87513
 Philadelphia Eagles,229,OPEN,
 Pittsburgh Steelers,299,OPEN,
 San Francisco 49ers,399,OPEN,
 Seattle Seahawks,399,OPEN,
-Tennessee Titans,329,OPEN,
 Washington Commanders,329,OPEN,
 "Ravens, Chiefs, Raiders, Rams, Bucs, Pats",3999,SOLD,garrettallred
 "Bengals, Cards",0,SOLD,mikeell87513
+"Packers, Texans, Colts, Dolphins, Vikings, Panthers",985,SOLD,garrettallred
+Tennessee Titans,329,OPEN,

@@ -1,33 +1,40 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+Buffalo Bills,26,SOLD,tpp48
+Chicago Bears,28,SOLD,mattgen
+Philadelphia Eagles,27,SOLD,lwibescards
+Pittsburgh Steelers,24,SOLD,tpp48
+New York Giants,20,SOLD,tpp48
+San Francisco 49ers,26,SOLD,nickmeumooch
+Seattle Seahawks,24,SOLD,swish__22
+Dallas Cowboys,25,SOLD,tvanch12
+Minnesota Vikings,26,SOLD,sleevey_wonder
+Washington Commanders,16,SOLD,tanty3
+Cincinnati Bengals,16,SOLD,nickmeumooch
+New England Patriots,20,SOLD,theblakecarpenter
+Arizona Cardinals,25,SOLD,everyonesrival
+#14,25,SOLD,swish__22
+Indianapolis Colts,19,SOLD,jonfred0828
+Jacksonville Jaguars,28,SOLD,woode87
+Denver Broncos,32,SOLD,bmiller03
+#18,33,SOLD,woode87
+Green Bay Packers,34,SOLD,woode87
+Las Vegas Raiders,45,SOLD,infu
+#21,46,SOLD,infu
+#22,45,SOLD,tpp48
+Tampa Bay Buccaneers,42,SOLD,treecare
+#24,38,SOLD,infu
+#25,30,SOLD,treecare
+Baltimore Ravens,38,SOLD,tanty3
+New Orleans Saints,30,SOLD,loganw5
+#28,29,SOLD,loganw5
+Detroit Lions,30,SOLD,jonfred0828
+Carolina Panthers,28,SOLD,jonfred0828
+Houston Texans,30,SOLD,jonfred0828
+Tennessee Titans,30,SOLD,craigtheredscm
+New York Jets,33,SOLD,poboyscards
+Atlanta Falcons,32,SOLD,infu
+Los Angeles Rams,34,SOLD,loganw5
+Cleveland Browns,32,SOLD,infu
+Los Angeles Chargers,38,SOLD,tanty3
+Kansas City Chiefs,44,SOLD,infu
+Miami Dolphins,21,SOLD,jivebox46

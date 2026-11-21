@@ -2,7 +2,7 @@ spot,price,state,buyer
 Cardinals,25,OPEN,
 Falcons,8,OPEN,
 Ravens,15,OPEN,
-Bills,25,OPEN,
+Bills,20,SOLD,b3cattle
 Panthers,8,OPEN,
 Bears,25,SOLD,betternamelater
 Bengals,12,SOLD,browtine

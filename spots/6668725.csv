@@ -4,7 +4,7 @@ spot,price,state,buyer
 "ARI- Larry Fitzgerald (A), CO26",7.2,SOLD,cth43
 "ARI- Michael Wilson (A), Prem1er Patch Auto",29,OPEN,
 "ARI- Arizona Cardinals Others (Boldin, Warner, T Benson, Virgil, Baker, Bisontis, Burke, Brissett, Conner, Harrison Jr, Johnson)",48,OPEN,
-"ARI- Pat Tillman, IV",38,OPEN,
+"ARI- Pat Tillman, IV",38,SOLD,dynodaxxxcards
 "ARI- Trey McBride, M99",29,OPEN,
 "ATL- Bijan Robinson (A), IV, CEV, Prem1er Patch Auto",144,OPEN,
 ATL- Deion Sanders (A),11,SOLD,micyau
@@ -16,10 +16,10 @@ ATL- Zachariah Branch (RC)(A),38,OPEN,
 "BAL- Derrick Henry (A), Tecmo, UV, Tecmo Auto",96,OPEN,
 BAL- Elijah Sarratt (RC)(A),29,OPEN,
 "BAL- Ja'Kobi Lane (RC)(A), CEV",48,OPEN,
-"BAL- Lamar Jackson, IV, Kaiju",163,OPEN,
+"BAL- Lamar Jackson, IV, Kaiju",100,SOLD,dynodaxxxcards
 "BAL- Nate Wiggins (A), Prem1er Patch Auto",21,OPEN,
 "BAL- Baltimore Ravens Others (Hamilton, Flacco, R Smith, Suggs, Hendrickson, Ogden, Randall, Walker, Cuevas, Andrews, Bateman, Z Young)",67,OPEN,
-BAL- Ray Lewis (A),19,OPEN,
+BAL- Ray Lewis (A),19,SOLD,dynodaxxxcards
 "BAL- Zay Flowers (A), Prem1er Patch Auto",67,OPEN,
 "BUF- Cole Bishop (A), Prem1er Patch Auto",9,SOLD,cackalackycards
 "BUF- Cornelius Bennett, Tecmo, Tecmo Auto",38,OPEN,
@@ -57,7 +57,7 @@ CLE- Emmanuel McNeil-Warren (RC)(A),24,OPEN,
 "CLE- Cleveland Browns Others (Judkins, J Thomas, Newsome, Tillman, Kosar, T Green, Anderson, Ward, Sampson, Delpit, Fannin, Jeudy, Royer, Graham, Fano)",96,OPEN,
 "CLE- Shedeur Sanders, GG",15,OPEN,
 "DAL- Brandon Aubrey (A), Prem1er Patch Auto",10.5,SOLD,chrisunderwood175
-"DAL- Brevyn Spann-Ford (A) & Luke Schoonmaker (A), Prem1er Patch Autos",9,OPEN,
+"DAL- Brevyn Spann-Ford (A) & Luke Schoonmaker (A), Prem1er Patch Autos",7.65,SOLD,barrettcards
 "DAL- Caleb Downs (RC)(A), IV, CEV, DAY1, RR, dual w/ Arvell Reese",115,OPEN,
 "DAL- CeeDee Lamb (A), CEV, UV",60,SOLD,chrisunderwood175
 "DAL- Cooper Beebe (A), Tyler Guyton (A) & Marist Liufau (A), Prem1er Patch Autos",19,OPEN,
@@ -186,7 +186,7 @@ NYG- Francis Mauigoa (RC)(A),19,OPEN,
 NYG- Malachi Fields (A),29,OPEN,
 NYG- Malik Nabers (A),77,OPEN,
 "NYG- New York Giants Others (C Hood, E Manning, A Carter, B Burns, Slayton, Likely)",77,OPEN,
-"NYG- Tyrone Tracy Jr (A) & Theo Johnson (A), Prem1er Patch Autos",9,OPEN,
+"NYG- Tyrone Tracy Jr (A) & Theo Johnson (A), Prem1er Patch Autos",7,SOLD,pd_atlas
 "NYJ- Braelon Allen (A), Prem1er Patch Auto",19,OPEN,
 "NYJ- Breece Hall (A), dual w/ Wilson",77,OPEN,
 "NYJ- Cade Klubnik (RC), RR",38,OPEN,
