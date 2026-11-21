@@ -1,9 +1,10 @@
 spot,price,state,buyer
 DOWNTOWN,125,SOLD,aldog714
-Miami Dolphins,100,SOLD,beezythatguy515
-Tennessee Titans,105,SOLD,johnkho23
-#4,125,SOLD,bigjohn1204
 DOWNTOWN,126,SOLD,beezythatguy515
+DOWNTOWN,135,SOLD,thodig93
+DOWNTOWN,96,SOLD,ckrickl
+Miami Dolphins,16,SOLD,bglenn1522
+Tennessee Titans,9,SOLD,gardaitron39
 New England Patriots,115,SOLD,bigjohn1204
 Cincinnati Bengals,123,SOLD,bigjohn1204
 MISC,131,SOLD,ckrickl
@@ -11,5 +12,36 @@ Jacksonville Jaguars,130,SOLD,ckrickl
 Green Bay Packers,133,SOLD,bigjohn1204
 Buffalo Bills,135,SOLD,bigjohn1204
 Tampa Bay Buccaneers,137,SOLD,wildcats2686
-DOWNTOWN,135,SOLD,thodig93
-#14,1,OPEN,
+T,100,SOLD,beezythatguy515
+T,105,SOLD,johnkho23
+T,125,SOLD,bigjohn1204
+Los Angeles Rams,101,SOLD,generalfive1
+Los Angeles Chargers,105,SOLD,johnkho23
+New York Giants,105,SOLD,tomscuz002
+Cleveland Browns,110,SOLD,bigjohn1204
+Washington Commanders,105,SOLD,bigjohn1204
+Las Vegas Raiders,110,SOLD,gardaitron39
+Baltimore Ravens,135,SOLD,gbang
+Chicago Bears,130,SOLD,gbang
+T,120,SOLD,gbang
+Atlanta Falcons,120,SOLD,beezythatguy515
+T,130,SOLD,tomscuz002
+Seattle Seahawks,145,SOLD,tomscuz002
+Denver Broncos,135,SOLD,everythinginsurance
+Philadelphia Eagles,125,SOLD,everythinginsurance
+Minnesota Vikings,145,SOLD,bigjohn1204
+Dallas Cowboys,140,SOLD,everythinginsurance
+T,125,SOLD,bigjohn1204
+Pittsburgh Steelers,135,SOLD,bigjohn1204
+T,121,SOLD,everythinginsurance
+T,122,SOLD,bigjohn1204
+San Francisco 49ers,105,SOLD,g_manly
+T,105,SOLD,g_manly
+Indianapolis Colts,84,SOLD,mytsharp21
+Kansas City Chiefs,40,SOLD,mytsharp21
+Houston Texans,12,SOLD,bglenn1522
+Detroit Lions,20,SOLD,ckrickl
+Arizona Cardinals,15,SOLD,shasha11
+Carolina Panthers,15,SOLD,shasha11
+New York Jets,11,SOLD,jameshung
+New Orleans Saints,13,SOLD,gardaitron39

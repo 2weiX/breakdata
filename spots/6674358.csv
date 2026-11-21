@@ -1,34 +1,43 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-Miscellaneous,,OPEN,
+Arizona Cardinals,74,SOLD,mytsharp21
+Atlanta Falcons,105,SOLD,tomscuz002
+Baltimore Ravens,92,SOLD,jaybonni
+Buffalo Bills,112,SOLD,kickcollectibles
+Carolina Panthers,108,SOLD,jaybonni
+Chicago Bears,103,SOLD,carrollcomics98
+Cincinnati Bengals,106,SOLD,jaybonni
+Cleveland Browns,141,SOLD,newjon32442
+Dallas Cowboys,107,SOLD,jason_johnson_10
+Denver Broncos,137,SOLD,gospelrips
+Detroit Lions,141,SOLD,gospelrips
+Green Bay Packers,107,SOLD,jaybonni
+Houston Texans,110,SOLD,larrybird15626
+Indianapolis Colts,69,SOLD,mytsharp21
+Jacksonville Jaguars,98,SOLD,gardaitron39
+Kansas City Chiefs,130,SOLD,gospelrips
+Las Vegas Raiders,88,SOLD,carrollcomics98
+Los Angeles Chargers,140,SOLD,tomscuz002
+Los Angeles Rams,116,SOLD,masch
+Miami Dolphins,111,SOLD,jameshung
+Minnesota Vikings,115,SOLD,bangnbreaksandcollectible
+New England Patriots,140,SOLD,tomscuz002
+New Orleans Saints,112,SOLD,fargav
+New York Giants,115,SOLD,mjskradski
+New York Jets,77,SOLD,mytsharp21
+Philadelphia Eagles,88,SOLD,kickcollectibles
+Pittsburgh Steelers,215,SOLD,gospelrips
+San Francisco 49ers,130,SOLD,gospelrips
+Seattle Seahawks,93,SOLD,masch
+Tampa Bay Buccaneers,106,SOLD,gospelrips
+Tennessee Titans,94,SOLD,gospelrips
+Washington Commanders,110,SOLD,gospelrips
+Miscellaneous,105,SOLD,kickcollectibles
+#4,145,SOLD,larrybird15626
+#6,130,SOLD,jason_johnson_10
+#14,110,SOLD,jaybonni
+#15,100,SOLD,jaybonni
+#18,105,SOLD,jaybonni
+#19,100,SOLD,gospelrips
+#20,110,SOLD,gospelrips
+#21,115,SOLD,gospelrips
+#30,106,SOLD,jameshung

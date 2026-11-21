@@ -54,7 +54,6 @@ spot,price,state,buyer
 "209 - Tyler Shough & Drew Brees, New Orleans Saints",110,OPEN,
 "212 - Alvin Kamara & 211 - Travis Etienne Jr., New Orleans Saints",25,OPEN,
 "213 - Chris Olave, New Orleans Saints",40,OPEN,
-"218 - Jaxson Dart, New York Giants",225,OPEN,
 "228 - Breece Hall, New York Jets",40,OPEN,
 "229 - Braelon Allen, New York Jets",25,OPEN,
 "23 - Zay Flowers, Baltimore Ravens",40,OPEN,
@@ -100,7 +99,7 @@ spot,price,state,buyer
 "309 - Zion Young (RC), Baltimore Ravens",15,OPEN,
 "310 - Skyler Bell (RC), Buffalo Bills",30,OPEN,
 "311 - T.J. Parker (RC), Buffalo Bills",15,OPEN,
-"312 - Davison Igbinosun (RC), Buffalo Bills",15,OPEN,
+"312 - Davison Igbinosun (RC), Buffalo Bills",10.5,SOLD,joey1582
 "314 - Lee Hunter (RC), Carolina Panthers",15,OPEN,
 "315 - Will Lee III (RC), Carolina Panthers",1,SOLD,topher10889
 "316 - Zavion Thomas (RC), Chicago Bears",20,SOLD,jtarafa_24
@@ -140,7 +139,7 @@ spot,price,state,buyer
 "350 - Mansoor Delane (RC), Kansas City Chiefs",20,SOLD,naterigs
 "351 - Fernando Mendoza (RC), Las Vegas Raiders",630,SOLD,fatherofthree
 "352 - Mike Washington Jr. (RC), Las Vegas Raiders",40,OPEN,
-"353 - Jermod McCoy (RC), Las Vegas Raiders",15,OPEN,
+"353 - Jermod McCoy (RC), Las Vegas Raiders",12,SOLD,bobblehead_sports_cards
 "354 - Brenen Thompson (RC), Los Angeles Chargers",20,OPEN,
 "355 - Akheem Mesidor (RC), Los Angeles Chargers",15,OPEN,
 "356 - Genesis Smith (RC), Los Angeles Chargers",15,OPEN,
@@ -159,9 +158,6 @@ spot,price,state,buyer
 "370 - Bryce Lance (RC), New Orleans Saints",15,OPEN,
 "371 - Christen Miller (RC), New Orleans Saints",15,OPEN,
 "372 - Malachi Fields (RC), New York Giants",15,SOLD,apfoster
-"373 - Francis Mauigoa (RC), New York Giants",15,OPEN,
-"374 - Arvell Reese (RC), New York Giants",150,OPEN,
-"375 - Colton Hood (RC), New York Giants",15,OPEN,
 "376 - Cade Klubnik (RC), New York Jets",75,OPEN,
 "377 - Omar Cooper Jr. (RC), New York Jets",55,OPEN,
 "378 - Kenyon Sadiq (RC), New York Jets",60,OPEN,
@@ -235,9 +231,7 @@ Miami Dolphins Others (6 Players),40,OPEN,
 Minnesota Vikings Others (8 Players),45,SOLD,kervs_wife
 New England Patriots Others (8 Players),40,SOLD,gatorpk321
 New Orleans Saints Others (6 Players),30,OPEN,
-New York Giants Others (8 Players),30,OPEN,
 New York Jets Others (7 Players),30,OPEN,
-"Peyton Manning & Eli Manning, Colts, Broncos, Giants",55,OPEN,
 Pittsburgh Steelers Others (13 Players),48,SOLD,gatorpk321
 San Francisco 49ers Others (8 Players),30,OPEN,
 Seattle Seahawks Others (Lombardi & 8 Players),61.5,SOLD,uncletaco916
@@ -253,3 +247,4 @@ Washington Commanders Others (12 Players),60,OPEN,
 "219 - Cam Skattebo, Malik Nabers",65,SOLD,porky082
 "James Cook, Buffalo Bills Others (11 Players),",75,SOLD,troymaz
 "Caleb Williams, D. Swift, K. Monangai, Rome Odunze and Chicago Bears Others (11 Players)",450,SOLD,bexleytaylor
+"Jaxson Dart, Francis Mauigou (RC), Arvell Reese (RC), Colton Hood (RC), Peyton Manning & Eli Manning, New York Giants Others (8 Players)",350,SOLD,porky082

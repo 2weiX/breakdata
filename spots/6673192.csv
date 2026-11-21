@@ -1,6 +1,6 @@
 spot,price,state,buyer
 Arizona Cardinals,150,OPEN,
-Atlanta Falcons,50,OPEN,
+Atlanta Falcons,20,SOLD,av1122
 Baltimore Ravens,40,SOLD,mikeyford
 Cleveland Browns,45.5,SOLD,tonydel93366
 Dallas Cowboys,65,SOLD,av1122
@@ -14,10 +14,11 @@ Los Angeles Chargers,30,SOLD,woody1907
 Los Angeles Rams,150,OPEN,
 Miami Dolphins,15,SOLD,woody1907
 New England Patriots,110,SOLD,est4brook
-New Orleans Saints,85,OPEN,
+New Orleans Saints,55,SOLD,mikeyford
 New York Giants,80,SOLD,est4brook
 Philadelphia Eagles,80,SOLD,louiskol
 Pittsburgh Steelers,60,OPEN,
 Seattle Seahawks,65,SOLD,glitch206
 Tennessee Titans,65,SOLD,jbkards
 Washington Commanders,75,OPEN,
+Steelers and Saints and Texans,175,OPEN,
