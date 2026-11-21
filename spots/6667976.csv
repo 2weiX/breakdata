@@ -1,18 +1,16 @@
 spot,price,state,buyer
 Arizona Cardinals,13,SOLD,missioncontrolcardco
-Baltimore Ravens,15,OPEN,
+Baltimore Ravens,15,SOLD,alonzoiii36947
 Carolina Panthers,10,OPEN,
 Chicago Bears,13,SOLD,missioncontrolcardco
 Cincinnati Bengals,10,SOLD,jaraujo
 Detroit Lions,15,OPEN,
 Houston Texans,10,SOLD,missioncontrolcardco
-Indianapolis Colts,10,OPEN,
+Indianapolis Colts,10,SOLD,narcoscustomjewelry
 Los Angeles Chargers,15,OPEN,
 Minnesota Vikings,10,OPEN,
-New York Giants,25,OPEN,
-Philadelphia Eagles,20,OPEN,
+New York Giants,25,SOLD,alonzoiii36947
 Pittsburgh Steelers,15,OPEN,
-San Francisco 49ers,15,OPEN,
 Seattle Seahawks,5,SOLD,jaraujo
 Washington Commanders,20,OPEN,
 Atlanta Falcons,5,SOLD,missioncontrolcardco
@@ -25,3 +23,4 @@ Las Vegas Raiders,40,SOLD,pjudice105
 Miami Dolphins,10,SOLD,rcantux
 College / NIL (all college-designated cards),140,SOLD,pjudice105
 Cleveland Browns & pats & Saints & jets & Buccs & TENNesse only for PJ,60,SOLD,pjudice105
+Philadelphia Eagles & 49ers ,20,SOLD,alonzoiii36947

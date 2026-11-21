@@ -33,7 +33,7 @@ spot,price,state,buyer
 "157 - Tre Tucker, Las Vegas Raiders",25,OPEN,
 "159 - Brock Bowers, Las Vegas Raiders",80,OPEN,
 "16 - Kyle Pitts Sr. & Tony Gonzalez, Atlanta Falcons",60,OPEN,
-"160 - Maxx Crosby & Howie Long, Las Vegas Raiders",55,OPEN,
+"160 - Maxx Crosby & Howie Long, Las Vegas Raiders",44,SOLD,emersond23
 "164 - Justin Herbert, Los Angeles Chargers",75,OPEN,
 "165 - Omarion Hampton, Los Angeles Chargers",35,OPEN,
 "166 - Quentin Johnston, Los Angeles Chargers",25,OPEN,
@@ -64,7 +64,6 @@ spot,price,state,buyer
 "229 - Braelon Allen, New York Jets",25,OPEN,
 "23 - Zay Flowers, Baltimore Ravens",40,OPEN,
 "231 - Garrett Wilson, New York Jets",50,OPEN,
-"236 - Jalen Hurts, Philadelphia Eagles",75,OPEN,
 "238 - Tank Bigsby, Philadelphia Eagles",20,OPEN,
 "242 - Jalen Carter, Philadelphia Eagles",20,OPEN,
 "243 - Jihaad Campbell, Philadelphia Eagles",25,OPEN,
@@ -72,9 +71,9 @@ spot,price,state,buyer
 "245 - Aaron Rodgers, Pittsburgh Steelers",60,OPEN,
 "252 - T.J. Watt, Pittsburgh Steelers",50,OPEN,
 "254 - Brock Purdy & Steve Young, San Francisco 49ers",160,OPEN,
-"255 - Christian McCaffrey, San Francisco 49ers",65,OPEN,
+"255 - Christian McCaffrey, San Francisco 49ers",30,SOLD,panther89
 "257 - Mike Evans & 404 - Jerry Rice, San Francisco 49ers",75,OPEN,
-"260 - George Kittle, San Francisco 49ers",45,OPEN,
+"260 - George Kittle, San Francisco 49ers",36,SOLD,emersond23
 "262 - Nick Bosa, San Francisco 49ers",15,OPEN,
 "263 - Fred Warner, San Francisco 49ers",15,OPEN,
 "264 - Sam Darnold, Seattle Seahawks",80,OPEN,
@@ -251,7 +250,6 @@ New Orleans Saints Others (6 Players),30,OPEN,
 New York Giants Others (8 Players),30,OPEN,
 New York Jets Others (7 Players),30,OPEN,
 "Peyton Manning & Eli Manning, Colts, Broncos, Giants",55,OPEN,
-Philadelphia Eagles Others (9 Players),60,OPEN,
 Pittsburgh Steelers Others (13 Players),60,OPEN,
 San Francisco 49ers Others (8 Players),30,OPEN,
 Seattle Seahawks Others (Lombardi & 8 Players),61.5,SOLD,uncletaco916
@@ -261,3 +259,4 @@ Washington Commanders Others (12 Players),60,OPEN,
 "317 - Sam Roush (RC), Luther Burden, Colston Loveland",90,SOLD,chavizzle
 "405 - Tom Brady, Bryce Young, Ty Simpson (RC)",620,SOLD,fatherofthree
 "Carolina Panthers Others (10 Players), Chris Brazzell II (RC), Tetairoa McMillian",140,SOLD,panther89
+"Philadelphia Eagles Others (9 Players), Jalen Hurts",105,OPEN,

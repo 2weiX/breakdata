@@ -1,32 +1,31 @@
 spot,price,state,buyer
-Arizona Cardinals,21,OPEN,
-Atlanta Falcons,9,OPEN,
-Baltimore Ravens,11,OPEN,
+Atlanta Falcons,6,SOLD,hendrixbreaks
+Baltimore Ravens,4,SOLD,hendrixbreaks
 Buffalo Bills,15.2,SOLD,dietzelscardstop
 Carolina Panthers,7,SOLD,jbsvaultstore
 Chicago Bears,13,SOLD,adriancas11532
 Cincinnati Bengals,13,SOLD,shockruh
-Cleveland Browns,15,OPEN,
+Cleveland Browns,10,SOLD,biggame033
 Dallas Cowboys,10.2,SOLD,rolandguz
-Denver Broncos,15,OPEN,
+Denver Broncos,7,SOLD,hendrixbreaks
 Green Bay Packers,7,SOLD,adriancas11532
 Houston Texans,6,SOLD,shockruh
 Indianapolis Colts,9,SOLD,adriancas11532
 Kansas City Chiefs,18,SOLD,nashcards1
-Las Vegas Raiders,42,OPEN,
-Los Angeles Chargers,8,OPEN,
+Los Angeles Chargers,3,SOLD,biggame033
 Los Angeles Rams,12,SOLD,regularguy208
 Miami Dolphins,2,SOLD,adriancas11532
-Minnesota Vikings,13,OPEN,
+Minnesota Vikings,3,SOLD,hendrixbreaks
 New England Patriots,15.3,SOLD,adriancas11532
 New Orleans Saints,9,SOLD,adriancas11532
-New York Giants,15,OPEN,
-New York Jets,9,OPEN,
-Philadelphia Eagles,14,OPEN,
-Pittsburgh Steelers,12,OPEN,
+New York Giants,6,SOLD,hendrixbreaks
+New York Jets,5,SOLD,biggame033
+Philadelphia Eagles,6,SOLD,shockruh
+Pittsburgh Steelers,5,SOLD,hendrixbreaks
 San Francisco 49ers,14,SOLD,militarycity_cardops
 Seattle Seahawks,14,SOLD,olympus_breaks
 Tampa Bay Buccaneers,7,SOLD,shockruh
 Tennessee Titans,11,SOLD,nashcards1
 Washington Commanders,8,SOLD,vtech2
 Detroit Lions and Jags ,20,SOLD,shockruh
+Arizona Cardinals and Raiders,50,SOLD,shockruh

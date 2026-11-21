@@ -1,0 +1,13 @@
+spot,price,state,buyer
+Arizona Cardinals,12,SOLD,bronco901
+Chicago Bears,15,SOLD,vincentcar78449
+Tennessee Titans,12,SOLD,bronco901
+Cincinnati Bengals,14,SOLD,andresvil63240
+Denver Broncos,16,SOLD,doomday_mfs
+"Atlanta Falcons, Dallas Cowboys",30,SOLD,marvinator216
+"Cleveland Browns, New York Giants",22,SOLD,bronco901
+"Los Angeles Rams, Pittsburgh Steelers",25,SOLD,vincentcar78449
+"Baltimore Ravens, New England Patriots",22,SOLD,bronco901
+"Minnesota Vikings, Seattle Seahawks",18,SOLD,kadellemieux
+"Detroit Lions, Washington Commanders",19,SOLD,vincentcar78449
+#12,1,OPEN,

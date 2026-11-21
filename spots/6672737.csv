@@ -1,32 +1,28 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+Arizona Cardinals,8,SOLD,carolina_blue_cards
+Atlanta Falcons,4,SOLD,mattleg20015
+Baltimore Ravens,8,SOLD,mattleg20015
+Carolina Panthers,5,SOLD,carolina_blue_cards
+Cincinnati Bengals,12,SOLD,blazinjay420
+Cleveland Browns,5,SOLD,ski2127
+Dallas Cowboys,11,SOLD,mattleg20015
+Denver Broncos,9,SOLD,mattleg20015
+Detroit Lions,9,SOLD,superman198540
+Green Bay Packers,14,SOLD,x_joshin_x
+Houston Texans,10,SOLD,robj1975
+Las Vegas Raiders,11,SOLD,superman198540
+Los Angeles Rams,10,SOLD,ski2127
+Miami Dolphins,3,SOLD,jeremy26323
+New Orleans Saints,5,SOLD,hollabackboy38
+New York Giants,12,SOLD,ski2127
+Philadelphia Eagles,9,SOLD,hickboy1623
+Pittsburgh Steelers,15,SOLD,robj1975
+San Francisco 49ers,13,SOLD,x_joshin_x
+Seattle Seahawks,5,SOLD,mattleg20015
+Tampa Bay Buccaneers,6,SOLD,robj1975
+Tennessee Titans,10,SOLD,superman198540
+Washington Commanders,10,SOLD,joshmons_cardknocklife_434
+"Buffalo Bills, Kansas City Chiefs",14,SOLD,superman198540
+"Chicago Bears, Jacksonville Jaguars",13,SOLD,x_joshin_x
+"Minnesota Vikings, New England Patriots",8,SOLD,mattleg20015
+"Indianapolis Colts, Los Angeles Chargers",4,SOLD,robj1975

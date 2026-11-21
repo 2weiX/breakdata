@@ -1,6 +1,5 @@
 spot,price,state,buyer
 Tampa Bay Buccaneers,15,SOLD,bronco901
-Seattle Seahawks,9,SOLD,tsk_2018
 Detroit Lions,11,SOLD,tsk_2018
 Buffalo Bills,16,SOLD,bronco901
 Chicago Bears,15,SOLD,tsk_2018
@@ -13,4 +12,11 @@ New England Patriots,17,SOLD,nastynate10810
 "Cleveland Browns, Miami Dolphins",30,SOLD,tsk_2018
 "Los Angeles Rams, San Francisco 49ers",34,SOLD,tsk_2018
 "Los Angeles Chargers, Minnesota Vikings",25,SOLD,tsk_2018
-#15,1,OPEN,
+"New Orleans Saints, Seattle Seahawks",9,SOLD,tsk_2018
+"Baltimore Ravens, New York Giants",20,SOLD,cothernandson
+Pittsburgh Steelers,11,SOLD,tsk_2018
+Kansas City Chiefs,26,SOLD,tsk_2018
+Cincinnati Bengals,10,SOLD,vincentcar78449
+Dallas Cowboys,14,SOLD,smalltowngifts
+Las Vegas Raiders,11,SOLD,smalltowngifts
+"Houston Texans, New York Jets",31,SOLD,hbqxr8jhwv
