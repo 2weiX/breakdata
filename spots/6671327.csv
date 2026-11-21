@@ -1,7 +1,6 @@
 spot,price,state,buyer
 Los Angeles Chargers,20,SOLD,alton4pats
 Tennessee Titans,10,SOLD,locdog2399
-Cleveland Browns,13,SOLD,alton4pats
 "Dallas Cowboys, New York Jets",26,SOLD,antsin87491
 Jacksonville Jaguars,15,SOLD,hittinbangerz14
 New Orleans Saints,15,SOLD,stinky_cheese_guy
@@ -10,4 +9,22 @@ Detroit Lions,16,SOLD,warbux_games
 San Francisco 49ers,19,SOLD,eljefe771
 Baltimore Ravens,25,SOLD,warbux_games
 Tampa Bay Buccaneers,18,SOLD,alton4pats
-#12,1,OPEN,
+"Cleveland Browns, New England",13,SOLD,alton4pats
+Denver Broncos,23,SOLD,locdog2399
+Chicago Bears,24,SOLD,skinny2354
+Houston Texans,20,SOLD,burgess_moody
+Indianapolis Colts,20,SOLD,eljefe771
+Buffalo Bills,21,SOLD,jcdriller2
+New York Giants,22,SOLD,eljefe771
+Cincinnati Bengals,19,SOLD,burgess_moody
+Los Angeles Rams,22,SOLD,valrichie
+Philadelphia Eagles,22,SOLD,eljefe771
+Minnesota Vikings,21,SOLD,valrichie
+Carolina Panthers,23,SOLD,hittinbangerz14
+Seattle Seahawks,21,SOLD,locdog2399
+Miami Dolphins,24,SOLD,valrichie
+Las Vegas Raiders,26,SOLD,valrichie
+Pittsburgh Steelers,17,SOLD,drejoel
+Atlanta Falcons,19,SOLD,drejoel
+Arizona Cardinals,18,SOLD,drejoel
+"Green Bay Packers, Washington Commanders",28,SOLD,warbux_games
