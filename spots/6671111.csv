@@ -1,33 +1,35 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+Dallas Cowboys,40,SOLD,alekaha
+Los Angeles Rams,53,SOLD,anto617
+Pittsburgh Steelers,49,SOLD,alekaha
+Tampa Bay Buccaneers,51,SOLD,alekaha
+Houston Texans,50,SOLD,alekaha
+Tennessee Titans,50,SOLD,anto617
+Las Vegas Raiders,46,SOLD,josephdoooee7
+Kansas City Chiefs,50,SOLD,pauley2269
+New York Jets,44,SOLD,mrburnski
+Detroit Lions,56,SOLD,pauley2269
+Cleveland Browns,40,SOLD,josephdoooee7
+San Francisco 49ers,40,SOLD,josephdoooee7
+Baltimore Ravens,49,SOLD,pauley2269
+Arizona Cardinals,47,SOLD,anto617
+Denver Broncos,42,SOLD,anto617
+Carolina Panthers,37,SOLD,josephdoooee7
+Buffalo Bills,2,SOLD,josephdoooee7
+Los Angeles Chargers,42,SOLD,pauley2269
+#19,40,SOLD,josephdoooee7
+Green Bay Packers,40,SOLD,michaelg1978
+Seattle Seahawks,32,SOLD,josephdoooee7
+Indianapolis Colts,40,SOLD,3dbillingsley
+Philadelphia Eagles,36,SOLD,josephdoooee7
+Minnesota Vikings,49,SOLD,pauley2269
+Washington Commanders,40,SOLD,alekaha
+Miami Dolphins,37,SOLD,josephdoooee7
+Cincinnati Bengals,1,SOLD,michaelg1978
+Atlanta Falcons,41,SOLD,pauley2269
+Chicago Bears,39,SOLD,mrburnski
+New York Giants,32,SOLD,michaelg1978
+New Orleans Saints,31,SOLD,pauley2269
+Jacksonville Jaguars,35,SOLD,alekaha
+New England Patriots,44,SOLD,josephdoooee7
+MISC,47,SOLD,pauley2269

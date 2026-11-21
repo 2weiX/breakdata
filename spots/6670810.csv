@@ -1,6 +1,6 @@
 spot,price,state,buyer
-Miami Dolphins,59,SOLD,jrott113025
-#2,3,SOLD,shaunc2
+Carolina Panthers,59,SOLD,jrott113025
+TRADE SPOT,3,SOLD,shaunc2
 Denver Broncos,38,SOLD,shaunc2
 Chicago Bears,42,SOLD,jrott113025
 CHASER 4,46,SOLD,jrott113025
@@ -15,18 +15,39 @@ CHASER 6,40,SOLD,stiii
 Buffalo Bills,40,SOLD,shaunc2
 Houston Texans,47,SOLD,shaunc2
 CHASER 7,53,SOLD,billybobtheclown
-#17,58,SOLD,billybobtheclown
-Kansas City Chiefs,62,SOLD,billybobtheclown
+TRADE SPOT,58,SOLD,billybobtheclown
+BOX 3,62,SOLD,billybobtheclown
 BOX 10,68,SOLD,billybobtheclown
-New England Patriots,72,SOLD,billybobtheclown
+Kansas City Chiefs,72,SOLD,billybobtheclown
 BOX 5,67,SOLD,jrott113025
 CHASER 1,65,SOLD,billybobtheclown
-#23,68,SOLD,jaibo314
+TRADE SPOT,68,SOLD,jaibo314
 CHASER 2,80,SOLD,jaibo314
 CHASER 10,71,SOLD,stiii
 CHASER 5,76,SOLD,jaibo314
 Tampa Bay Buccaneers,74,SOLD,jaibo314
 #28,82,SOLD,jaibo314
 BOX 8,70,SOLD,stiii
-Indianapolis Colts,48,SOLD,jrott113025
-#31,1,OPEN,
+TRADE SPOT,48,SOLD,jrott113025
+TRADE SPOT,48,SOLD,billybobtheclown
+CHASER 12,36,SOLD,bugguy6971
+BOX 7,17,SOLD,billybobtheclown
+TRADE SPOT,55,SOLD,billybobtheclown
+Cleveland Browns,1,SOLD,billybobtheclown
+TRADE SPOT,56,SOLD,stiii
+Baltimore Ravens,53,SOLD,billybobtheclown
+CHASER 9,56,SOLD,stiii
+BOX 11,56,SOLD,jrott113025
+Los Angeles Chargers,59,SOLD,davidklapproth
+New Orleans Saints,60,SOLD,luckyaces
+BOX 6,59,SOLD,billybobtheclown
+Miami Dolphins,63,SOLD,luckyaces
+New England Patriots,63,SOLD,luckyaces
+New York Jets,69,SOLD,luckyaces
+Indianapolis Colts,70,SOLD,luckyaces
+BOX 1,68,SOLD,luckyaces
+Cincinnati Bengals,68,SOLD,luckyaces
+BOX 4,71,SOLD,luckyaces
+Seattle Seahawks,56,SOLD,michaelfoley107
+Washington Commanders,74,SOLD,billybobtheclown
+BOX 2,88,SOLD,luckyaces

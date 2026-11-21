@@ -2,7 +2,7 @@ spot,price,state,buyer
 #1,385,SOLD,karlin
 Cincinnati Bengals,280,SOLD,kob_bean
 Buffalo Bills,365,SOLD,karlin
-Washington Commanders,255,SOLD,kob_bean
+Kansas City Chiefs,255,SOLD,kob_bean
 Philadelphia Eagles,275,SOLD,kob_bean
 New England Patriots,280,SOLD,kob_bean
 Minnesota Vikings,260,SOLD,gsco43
@@ -14,7 +14,33 @@ Dallas Cowboys,295,SOLD,botrosp1979
 #13,310,SOLD,cmcrb1
 #14,361,SOLD,kob_bean
 Los Angeles Chargers,339,SOLD,cmcrb1
-#16,331,SOLD,kob_bean
-Arizona Cardinals,338,SOLD,jkcards35
-New York Jets,390,SOLD,theworkingmanripz
-#19,410,SOLD,theworkingmanripz
+Chicago Bears,331,SOLD,kob_bean
+Tampa Bay Buccaneers,338,SOLD,jkcards35
+#18,390,SOLD,theworkingmanripz
+San Francisco 49ers,410,SOLD,theworkingmanripz
+#20,405,SOLD,theworkingmanripz
+Los Angeles Rams,415,SOLD,kob_bean
+#22,405,SOLD,gsco43
+#23,400,SOLD,kob_bean
+MISC,265,SOLD,thelongcards
+#25,275,SOLD,kob_bean
+Green Bay Packers,170,SOLD,fulltilt817
+#27,164,SOLD,fulltilt817
+#28,190,SOLD,fulltilt817
+Washington Commanders,132,SOLD,gsco43
+Arizona Cardinals,175,SOLD,twofonez
+Atlanta Falcons,110,SOLD,fizzy_
+New York Giants,125,SOLD,fizzy_
+Miami Dolphins,105,SOLD,halveee
+Baltimore Ravens,110,SOLD,fulltilt817
+Indianapolis Colts,120,SOLD,halveee
+#36,110,SOLD,jimmyvegascards
+Houston Texans,120,SOLD,jimmyvegascards
+Detroit Lions,105,SOLD,jimmyvegascards
+Denver Broncos,89,SOLD,jimmyvegascards
+#40,38,SOLD,jimmyvegascards
+Carolina Panthers,41,SOLD,thodig93
+Seattle Seahawks,35,SOLD,halveee
+Las Vegas Raiders,25,SOLD,thodig93
+"Jacksonville Jaguars, Tennessee Titans",39,SOLD,thodig93
+"New Orleans Saints, New York Jets",32,SOLD,thodig93
