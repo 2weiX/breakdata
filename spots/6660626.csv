@@ -1,33 +1,30 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+Cleveland Browns,5,SOLD,papaprimexo
+Arizona Cardinals,4,SOLD,papaprimexo
+Washington Commanders,4,SOLD,breakersbank
+Kansas City Chiefs,5,SOLD,papaprimexo
+Houston Texans,5,SOLD,breakersbank
+Tennessee Titans,6,SOLD,papaprimexo
+Tampa Bay Buccaneers,8,SOLD,blue_rose82
+San Francisco 49ers,6,SOLD,papaprimexo
+Los Angeles Rams,7,SOLD,blue_rose82
+Cincinnati Bengals,6,SOLD,papaprimexo
+"Atlanta Falcons, Dallas Cowboys",13,SOLD,chadtit
+"Denver Broncos, Miami Dolphins",11,SOLD,papaprimexo
+New York Giants,7,SOLD,tlc66362
+Chicago Bears,7,SOLD,padres_fanatic_619
+Los Angeles Chargers,8,SOLD,brandoncharles13
+#16,9,SOLD,brandoncharles13
+Las Vegas Raiders,8,SOLD,padres_fanatic_619
+Seattle Seahawks,7,SOLD,dhart10
+Green Bay Packers,7,SOLD,stevendoty
+Jacksonville Jaguars,7,SOLD,ochucko
+"Baltimore Ravens, Pittsburgh Steelers",17,SOLD,ochucko
+"Detroit Lions, Indianapolis Colts",14,SOLD,ochucko
+New Orleans Saints,7,SOLD,senor_goat
+Buffalo Bills,8,SOLD,blue_rose82
+New England Patriots,6,SOLD,boomer05
+Minnesota Vikings,6,SOLD,smiryne
+Philadelphia Eagles,5,SOLD,chadtit
+New York Jets,5,SOLD,senor_goat
+Carolina Panthers,5,SOLD,chadtit

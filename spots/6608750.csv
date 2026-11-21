@@ -7,7 +7,6 @@ Chicago Bears,9,SOLD,rynoo23
 Cincinnati Bengals,8,OPEN,
 Cleveland Browns,6,OPEN,
 Dallas Cowboys,10,OPEN,
-Denver Broncos,6,OPEN,
 Detroit Lions,7.2,SOLD,joeb42982
 Green Bay Packers,9,OPEN,
 Houston Texans,7,OPEN,
@@ -26,10 +25,10 @@ Philadelphia Eagles,9,OPEN,
 Pittsburgh Steelers,10,OPEN,
 San Francisco 49ers,8.4,SOLD,brickmwiggybreaks
 Seattle Seahawks,7,OPEN,
-Tampa Bay Buccaneers,6,OPEN,
 "Tennessee Titans, Panthers",10,SOLD,lestercsmith
 Washington Commanders,6,OPEN,
 "NIL A, Oregon, Ohio State,Georgia, Texas",14.4,SOLD,lestercsmith
 "NIL B, Alabama,Notre Dame,USC,LSU,Ole Miss, Saints",15,SOLD,landynthib
 "NIL C, Oklamhoma,Texas A&M, Indiana, Clemson,Penn State,Florida State,Miami",10,SOLD,lestercsmith
 "NIL D, All other college, schools, high school and no team NIL cards",8,SOLD,eloe1975
+"Tampa Bay Buccaneers, Broncos",10,SOLD,carolina_blue_cards
