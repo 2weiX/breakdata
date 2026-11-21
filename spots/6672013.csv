@@ -2,7 +2,6 @@ spot,price,state,buyer
 🧬 Atlanta Falcons 🔬,36,SOLD,jonathanash6714
 🛰️ Baltimore Ravens 🧲,40,SOLD,jonathanash6714
 🧲 Green Bay Packers 🔋,37,SOLD,sdmirrus1214
-💊 Houston Texans 🌡️,34,SOLD,wsucoug55
 🫁 Jacksonville Jaguars 🫀,1,SOLD,sanguineblade1129
 🌡️ Kansas City Chiefs 🩻,44,SOLD,sdmirrus1214
 🔋 Los Angeles Rams 🛰️,40,SOLD,jonathanash6714
@@ -15,4 +14,23 @@ spot,price,state,buyer
 #1,36,SOLD,rogeraar
 #7,37,SOLD,jonathanash6714
 #9,32,SOLD,sanguineblade1129
-#17,1,OPEN,
+#15,34,SOLD,wsucoug55
+🚀 Cincinnati Bengals 🔭,45,SOLD,yourbos
+🧫 Chicago Bears 🦠,36,SOLD,yourbos
+#19,33,SOLD,wsucoug55
+☢️ New England Patriots 🦠,32,SOLD,wsucoug55
+#21,39,SOLD,ajtajt131
+🧫 Detroit Lions ☢️,34,SOLD,ajtajt131
+🧯 Los Angeles Chargers ☣️,40,SOLD,wsucoug55
+#24,27,SOLD,ajtajt131
+☣️ Indianapolis Colts 🧯,25,SOLD,joehea39854
+⚗️ Miami Dolphins 🧪,40,SOLD,marissagib18
+👨‍🔬 Dallas Cowboys 🧠,37,SOLD,marissagib18
+🔬 Denver Broncos ⚛️,38,SOLD,ggmyguy
+💡 San Francisco 49ers 🤖,37,SOLD,nate32367
+🔩 Carolina Panthers ⚙️,39,SOLD,nate32367
+💉 Pittsburgh Steelers 🩺,36,SOLD,nate32367
+🫀 New York Jets 🫁,36,SOLD,tipzripz
+🩺 Buffalo Bills 💉,38,SOLD,wsucoug55
+🩻 Tennessee Titans 💊,28,SOLD,tipzripz
+"🧪 Arizona Cardinals ⚗️, 🦷 Cleveland Browns 🦴, 💊 Houston Texans 🌡️, 🤖 Las Vegas Raiders 💡, 🧪 New Orleans Saints 🧬, 🦠 Washington Commanders 🧫",34,SOLD,marissagib18

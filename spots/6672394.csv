@@ -1,7 +1,7 @@
 spot,price,state,buyer
 ATL - Bijan Robinson,349,OPEN,
 ATL - Drake London,99,OPEN,
-ATL - Kyle Pitts Sr.,49,OPEN,
+ATL - Kyle Pitts Sr.,39,OPEN,
 ATL - Michael Penix Jr.,45,OPEN,
 "ATL Others - T. Gonzalez, C. Lindstrom, H. Perkins Jr., B. Robinson Jr., D. Sanders, T. Tagovailoa, A. Terrell, J. Walker, X. Watts, O. Zaccheaus",49,OPEN,
 ATL/PHI - Michael Vick,45,OPEN,
@@ -25,7 +25,7 @@ BUF - Dalton Kincaid,59,OPEN,
 BUF - James Cook,99,OPEN,
 BUF - Josh Allen,2499,OPEN,
 BUF - Keon Coleman,45,OPEN,
-BUF - Skyler Bell,65,OPEN,
+BUF - Skyler Bell,65,SOLD,topher10889
 CAR - Bryce Young,299,OPEN,
 CAR - Chris Brazzell II,99,OPEN,
 CAR - Luke Kuechly,45,OPEN,
@@ -37,7 +37,7 @@ CHI - Dillon Thieneman,55,SOLD,csminix46
 CHI - Luther Burden III,199,OPEN,
 "CHI Others - J. Johnson, J. McMahon, K. Monangai, M. Moss, M. Muhammad, S. Roush, N. Sewell, M. Singletary, M. Sweat, D. Swift, J. Thuney, B. Urlacher, D. Wright",50,SOLD,benito1313
 CHI - Rome Odunze,85,OPEN,
-CHI - William Perry,65,OPEN,
+CHI - William Perry,65,SOLD,creekside_sports
 CHI - Zavion Thomas,59,OPEN,
 CIN - Chase Brown,65,OPEN,
 CIN - Ja'Marr Chase,349,OPEN,
@@ -59,12 +59,12 @@ DAL - George Pickens,59,OPEN,
 DAL - Malachi Lawrence,45,OPEN,
 "DAL Others - J. Barham, D. Bland, D. Bryant, K. Clark, T. Dorsett, J. Ferguson, M. Irvin, D. Murray, D. Overshown, L. Overton, A. Smith, M. Trigg, J. Williams, Q. Williams",65,OPEN,
 DAL - Tony Romo,45,OPEN,
-DAL - Troy Aikman,55,OPEN,
+DAL - Troy Aikman,55,SOLD,creekside_sports
 DEN - Bo Nix,899,OPEN,
 DEN - Jaylen Waddle,69,OPEN,
 DEN - John Elway,65,OPEN,
-DEN - Jonah Coleman,49,OPEN,
-"DEN Others - Z. Allen, S. Atwater, C. Bailey, D. Bentley, N. Bonitto, T. Davis, J. Dobbins, T. Hufanga, J. Joly, Q. Meinerz, V. Miller, M. Mims Jr., C. Sutton, T. York",55,OPEN,
+DEN - Jonah Coleman,49,SOLD,6ix0h5ive
+"DEN Others - Z. Allen, S. Atwater, C. Bailey, D. Bentley, N. Bonitto, T. Davis, J. Dobbins, T. Hufanga, J. Joly, Q. Meinerz, V. Miller, M. Mims Jr., C. Sutton, T. York",46.75,SOLD,tsig_collects
 DEN - Pat Surtain II,149,OPEN,
 DEN - RJ Harvey,49,OPEN,
 DET - Amon-Ra St. Brown,325,OPEN,
@@ -145,14 +145,14 @@ NYG - Eli Manning,69,OPEN,
 NYG - Jaxson Dart,825,OPEN,
 NYG - Malachi Fields,55,SOLD,benito1313
 NYG - Malik Nabers,199,OPEN,
-"NYG Others - B. Burns, A. Carter, C. Hood, T. Johnson, I. Likely, F. Mauigoa, D. Slayton, L. Taylor, T. Tracy Jr.",59,OPEN,
+"NYG Others - B. Burns, A. Carter, C. Hood, T. Johnson, I. Likely, F. Mauigoa, D. Slayton, L. Taylor, T. Tracy Jr.",50.15,SOLD,tsig_collects
 NYJ - Breece Hall,125,OPEN,
 NYJ - Cade Klubnik,299,OPEN,
 NYJ - David Bailey,275,OPEN,
 NYJ - Garrett Wilson,199,OPEN,
 NYJ - Kenyon Sadiq,225,OPEN,
 NYJ - Omar Cooper Jr.,75,OPEN,
-"NYJ Others - B. Allen, W. Chrebet, D. Davis, M. Fitzpatrick, A. Mitchell, D. Ponds, D. Revis, G. Smith, T. Sweat, M. Taylor",49,OPEN,
+"NYJ Others - B. Allen, W. Chrebet, D. Davis, M. Fitzpatrick, A. Mitchell, D. Ponds, D. Revis, G. Smith, T. Sweat, M. Taylor",41.65,SOLD,tsig_collects
 PHI - Cole Payton,65,OPEN,
 PHI - Jalen Hurts,225,OPEN,
 PHI - Makai Lemon,525,OPEN,

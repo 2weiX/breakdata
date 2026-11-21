@@ -1,34 +1,32 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-MISC,,OPEN,
+Atlanta Falcons,25,SOLD,6capper
+Baltimore Ravens,86,SOLD,brplaga
+Buffalo Bills,89,SOLD,6capper
+Chicago Bears,195,SOLD,6capper
+Cincinnati Bengals,100,SOLD,6capper
+Cleveland Browns,150,SOLD,maxamizzzz
+Dallas Cowboys,147,SOLD,kmac1234
+Detroit Lions,150,SOLD,6capper
+Green Bay Packers,135,SOLD,6capper
+Houston Texans,26,SOLD,patoc15119
+Jacksonville Jaguars,93,SOLD,kickcollectibles
+Kansas City Chiefs,128,SOLD,patoc15119
+Las Vegas Raiders,162,SOLD,steelheaddan
+Los Angeles Chargers,160,SOLD,ghoem5
+Los Angeles Rams,145,SOLD,patoc15119
+Minnesota Vikings,106,SOLD,6capper
+New England Patriots,107,SOLD,patoc15119
+New York Giants,207,SOLD,maxamizzzz
+Philadelphia Eagles,91,SOLD,steelheaddan
+Pittsburgh Steelers,270,SOLD,patoc15119
+San Francisco 49ers,140,SOLD,patoc15119
+Seattle Seahawks,27,SOLD,brplaga
+Tampa Bay Buccaneers,32,SOLD,6capper
+Washington Commanders,88,SOLD,steelheaddan
+MISC,78,SOLD,kickcollectibles
+#2,125,SOLD,6capper
+#5,125,SOLD,maxamizzzz
+#10,150,SOLD,steelheaddan
+#21,99,SOLD,6capper
+"Carolina Panthers, Miami Dolphins",34,SOLD,patoc15119
+#31,1,OPEN,

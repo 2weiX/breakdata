@@ -1,34 +1,36 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-MISC,,OPEN,
+Arizona Cardinals,46,SOLD,patoc15119
+Atlanta Falcons,13,SOLD,patoc15119
+Baltimore Ravens,93,SOLD,peterupinyou85
+Buffalo Bills,73,SOLD,tyb1659
+Carolina Panthers,9,SOLD,patoc15119
+Chicago Bears,76,SOLD,steelheaddan
+Cincinnati Bengals,90,SOLD,brplaga
+Dallas Cowboys,155,SOLD,jmccain17
+Denver Broncos,57,SOLD,bigglezworth
+Detroit Lions,85,SOLD,6capper
+Green Bay Packers,91,SOLD,brplaga
+Jacksonville Jaguars,59,SOLD,steelheaddan
+Kansas City Chiefs,75,SOLD,tyb1659
+Las Vegas Raiders,19,SOLD,braves23
+Los Angeles Chargers,78,SOLD,steelheaddan
+Los Angeles Rams,74,SOLD,steelheaddan
+Miami Dolphins,3,SOLD,patoc15119
+Minnesota Vikings,73,SOLD,tyb1659
+New England Patriots,78,SOLD,tyb1659
+New Orleans Saints,7,SOLD,patoc15119
+New York Giants,65,SOLD,6capper
+Philadelphia Eagles,78,SOLD,patoc15119
+Pittsburgh Steelers,78,SOLD,steelheaddan
+San Francisco 49ers,74,SOLD,6capper
+Seattle Seahawks,14,SOLD,glitch206
+Washington Commanders,13,SOLD,patoc15119
+MISC,32,SOLD,patoc15119
+#2,65,SOLD,tyb1659
+#14,69,SOLD,detroitsf313
+#15,75,SOLD,johnhp
+#16,71,SOLD,6capper
+"Cleveland Browns, Indianapolis Colts",79,SOLD,patoc15119
+"Tampa Bay Buccaneers, Tennessee Titans",16,SOLD,patoc15119
+"Houston Texans, New York Jets",14,SOLD,patoc15119
+#35,171,SOLD,steelheaddan

@@ -1,34 +1,50 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-MISC,,OPEN,
+Arizona Cardinals,27,SOLD,drunkenfists
+Atlanta Falcons,27,SOLD,johnkho23
+Baltimore Ravens,144.5,SOLD,aldog714
+Buffalo Bills,200,SOLD,scuddmissle
+Carolina Panthers,148,SOLD,scuddmissle
+Chicago Bears,185,SOLD,wildcats2686
+Cincinnati Bengals,142,SOLD,peterupinyou85
+Cleveland Browns,205,SOLD,billsfannola
+Dallas Cowboys,183,SOLD,sweensween6
+Denver Broncos,150,SOLD,peterupinyou85
+Detroit Lions,188,SOLD,wildcats2686
+Green Bay Packers,155,SOLD,wildcats2686
+Houston Texans,25,SOLD,gdione
+Indianapolis Colts,22,SOLD,johnkho23
+Jacksonville Jaguars,140,SOLD,bigdaddy71423
+Kansas City Chiefs,84.15,SOLD,gdione
+Las Vegas Raiders,145,SOLD,wildcats2686
+Los Angeles Chargers,193,SOLD,wildcats2686
+Los Angeles Rams,179,SOLD,skunkycardemporium315
+Miami Dolphins,35,SOLD,initiativewon
+Minnesota Vikings,47,SOLD,initiativewon
+New England Patriots,160,SOLD,endzonechasers
+New Orleans Saints,175,SOLD,endzonechasers
+New York Giants,187,SOLD,jha19
+New York Jets,28,SOLD,johnkho23
+Philadelphia Eagles,175,SOLD,endzonechasers
+Pittsburgh Steelers,175,SOLD,endzonechasers
+San Francisco 49ers,195,SOLD,scuddmissle
+Seattle Seahawks,78,SOLD,skunkycardemporium315
+Tampa Bay Buccaneers,31,SOLD,skunkycardemporium315
+Tennessee Titans,135,SOLD,bigdaddy71423
+Washington Commanders,42,SOLD,dank4132
+MISC,181,SOLD,skunkycardemporium315
+T,196,SOLD,wildcats2686
+T,178,SOLD,endzonechasers
+T,175,SOLD,endzonechasers
+T,180,SOLD,aldog714
+T,188,SOLD,sweensween6
+T,172.55,SOLD,scuddmissle
+T,203,SOLD,scuddmissle
+T,190,SOLD,sweensween6
+T,170,SOLD,endzonechasers
+T,144,SOLD,aldog714
+T,140,SOLD,scuddmissle
+T,160,SOLD,peterupinyou85
+T,152,SOLD,wildcats2686
+T,110,SOLD,peterupinyou85
+T,65,SOLD,skunkycardemporium315
+T,58,SOLD,skunkycardemporium315

@@ -1,5 +1,4 @@
 spot,price,state,buyer
-Arizona Cardinals,60,OPEN,
 Atlanta Falcons,21.25,SOLD,coleuswizard
 Baltimore Ravens,31.5,SOLD,carterbk1
 Buffalo Bills,75,SOLD,northcoast
@@ -7,26 +6,23 @@ Carolina Panthers & MInnesota Vikings ,75,SOLD,cartermack5
 Chicago Bears,49,SOLD,moo1two
 Cincinnati Bengals,85,SOLD,rndstarstorm
 Cleveland Browns,55,SOLD,ptamike
-Dallas Cowboys,60,OPEN,
-Denver Broncos,40,OPEN,
-Detroit Lions,40,OPEN,
+Denver Broncos,30,SOLD,jon_henderson00
+Detroit Lions,30,SOLD,kb248_collectibles
 Green Bay Packers,34.2,SOLD,thos13
 Houston Texans,19,SOLD,cmaw
-Indianapolis Colts,25,OPEN,
 Jacksonville Jaguars,30,SOLD,chrisung
 Kansas City Chiefs,49.5,SOLD,northcoast
 Las Vegas Raiders,87,SOLD,jon_henderson00
 Los Angeles Chargers,15,SOLD,thos13
-Los Angeles Rams,75,OPEN,
 Miami Dolphins,19,SOLD,stephenang30023
-New England Patriots,70,OPEN,
-New Orleans Saints,50,OPEN,
+New England Patriots,60,SOLD,capecodbreaks
 New York Giants,46.75,SOLD,rndstarstorm
 New York Jets,27,SOLD,thos13
 Philadelphia Eagles,40,SOLD,dbargas
-Pittsburgh Steelers,50,OPEN,
 San Francisco 49ers,75,SOLD,marcosmartinez916
 Seattle Seahawks,25,SOLD,kanonxover
 Tampa Bay Buccaneers,40,SOLD,heathrogers
 Tennessee Titans,65,SOLD,rndstarstorm
 Washington Commanders,25,SOLD,chrisung
+Arizona Cardinals & Los Angeles Rams,100,SOLD,kb248_collectibles
+"Dallas Cowboys, New Orleans Saints , PIttsburgh Steelers ",135,SOLD,kb248_collectibles

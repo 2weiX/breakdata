@@ -1,34 +1,42 @@
 spot,price,state,buyer
-Arizona Cardinals - CRACKED FROSTBITE,,OPEN,
-Atlanta Falcons - CRACKED FROSTBITE,,OPEN,
-Baltimore Ravens -CRACKED FROSTBITE,,OPEN,
-Buffalo Bills - CRACKED FROSTBITE,,OPEN,
-Carolina Panthers - CRACKED FROSTBITE,,OPEN,
-Chicago Bears - CRACKED FROSTBITE,,OPEN,
-Cincinnati Bengals - CRACKED FROSTBITE,,OPEN,
-Cleveland Browns - CRACKED FROSTBITE,,OPEN,
-Dallas Cowboys - CRACKED FROSTBITE,,OPEN,
-Denver Broncos - CRACKED FROSTBITE,,OPEN,
-Detroit Lions - CRACKED FROSTBITE,,OPEN,
-Green Bay Packers - CRACKED FROSTBITE,,OPEN,
-Houston Texans - CRACKED FROSTBITE,,OPEN,
-Indianapolis Colts - CRACKED FROSTBITE,,OPEN,
-Jacksonville Jaguars - CRACKED FROSTBITE,,OPEN,
-Kansas City Chiefs - CRACKED FROSTBITE,,OPEN,
-Las Vegas Raiders - CRACKED FROSTBITE,,OPEN,
-Los Angeles Chargers - CRACKED FROSTBITE,,OPEN,
-Los Angeles Rams - CRACKED FROSTBITE,,OPEN,
-Miami Dolphins - CRACKED FROSTBITE,,OPEN,
-Minnesota Vikings - CRACKED FROSTBITE,,OPEN,
-New England Patriots - CRACKED FROSTBITE,,OPEN,
-New Orleans Saints - CRACKED FROSTBITE,,OPEN,
-New York Giants - CRACKED FROSTBITE,,OPEN,
-New York Jets - CRACKED FROSTBITE,,OPEN,
-Philadelphia Eagles - CRACKED FROSTBITE,,OPEN,
-Pittsburgh Steelers - CRACKED FROSTBITE,,OPEN,
-San Francisco 49ers - CRACKED FROSTBITE,,OPEN,
-Seattle Seahawks - CRACKED FROSTBITE,,OPEN,
-Tampa Bay Buccaneers - CRACKED FROSTBITE,,OPEN,
-Tennessee Titans - CRACKED FROSTBITE,,OPEN,
-Washington Commanders - CRACKED FROSTBITE,,OPEN,
-MISC - CRACKED FROSTBITE,,OPEN,
+Atlanta Falcons - CRACKED FROSTBITE,220,SOLD,gbang
+Baltimore Ravens -CRACKED FROSTBITE,204,SOLD,gbang
+Buffalo Bills - CRACKED FROSTBITE,245,SOLD,jojowoods5181
+Chicago Bears - CRACKED FROSTBITE,255,SOLD,kuest
+Cincinnati Bengals - CRACKED FROSTBITE,310,SOLD,hobbyhouse_dev
+Cleveland Browns - CRACKED FROSTBITE,231,SOLD,murphdogberg
+Dallas Cowboys - CRACKED FROSTBITE,282,SOLD,oyvey82
+Denver Broncos - CRACKED FROSTBITE,245,SOLD,murphdogberg
+Detroit Lions - CRACKED FROSTBITE,325,SOLD,hobbyhouse_dev
+Green Bay Packers - CRACKED FROSTBITE,282,SOLD,oyvey82
+Kansas City Chiefs - CRACKED FROSTBITE,325,SOLD,murphdogberg
+Los Angeles Chargers - CRACKED FROSTBITE,263,SOLD,oyvey82
+Los Angeles Rams - CRACKED FROSTBITE,257,SOLD,kuest
+Minnesota Vikings - CRACKED FROSTBITE,225,SOLD,nartwehttam
+New England Patriots - CRACKED FROSTBITE,200,SOLD,oyvey82
+Philadelphia Eagles - CRACKED FROSTBITE,179,SOLD,jojowoods5181
+Pittsburgh Steelers - CRACKED FROSTBITE,300,SOLD,cmcrb1
+San Francisco 49ers - CRACKED FROSTBITE,236,SOLD,murphdogberg
+Tampa Bay Buccaneers - CRACKED FROSTBITE,250,SOLD,jojowoods5181
+Tennessee Titans - CRACKED FROSTBITE,230,SOLD,nartwehttam
+Washington Commanders - CRACKED FROSTBITE,215,SOLD,gbang
+MISC - CRACKED FROSTBITE,290,SOLD,kuest
+#7,272,SOLD,oyvey82
+#8,310,SOLD,kuest
+#11,225,SOLD,kuest
+#12,312,SOLD,oyvey82
+#13,302,SOLD,kuest
+#14,236,SOLD,oyvey82
+#15,310,SOLD,murphdogberg
+#20,300,SOLD,hobbyhouse_dev
+#22,265,SOLD,murphdogberg
+#23,186,SOLD,murphdogberg
+#24,255,SOLD,murphdogberg
+#27,152,SOLD,jojowoods5181
+#32,225,SOLD,jojowoods5181
+#33,205,SOLD,jojowoods5181
+#37,200,SOLD,nartwehttam
+#38,210,SOLD,nartwehttam
+#39,200,SOLD,murphdogberg
+#40,185,SOLD,nartwehttam
+#41,1,OPEN,

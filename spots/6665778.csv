@@ -1,44 +1,44 @@
 spot,price,state,buyer
-SHOVEL 1,,OPEN,
-SHOVEL 2,,OPEN,
-SHOVEL 3,,OPEN,
-SHOVEL 4,,OPEN,
-SHOVEL 5,,OPEN,
-SHOVEL 6,,OPEN,
-SHOVEL 7,,OPEN,
-SHOVEL 8,,OPEN,
-SHOVEL 9,,OPEN,
-SHOVEL 10,,OPEN,
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-NIL/MISC,,OPEN,
+SHOVEL 1,100,SOLD,sugare4
+SHOVEL 2,91,SOLD,johnnyred1
+SHOVEL 3,180,SOLD,willyhol03404
+SHOVEL 4,118,SOLD,make_me_rich
+SHOVEL 5,90,SOLD,zrb847
+SHOVEL 6,122,SOLD,rbawab01
+SHOVEL 7,156,SOLD,maxamizzzz
+SHOVEL 8,125,SOLD,make_me_rich
+SHOVEL 9,125,SOLD,maxamizzzz
+SHOVEL 10,85,SOLD,make_me_rich
+Atlanta Falcons,150,SOLD,maxamizzzz
+Baltimore Ravens,141,SOLD,rbawab01
+Buffalo Bills,80,SOLD,willyhol03404
+Chicago Bears,105,SOLD,maxamizzzz
+Cleveland Browns,110,SOLD,maxamizzzz
+Dallas Cowboys,76,SOLD,johnnyred1
+Detroit Lions,112,SOLD,sugare4
+Las Vegas Raiders,73,SOLD,goody_rips
+Los Angeles Chargers,112,SOLD,willyhol03404
+New England Patriots,55,SOLD,make_me_rich
+New York Giants,59,SOLD,sugare4
+Pittsburgh Steelers,98,SOLD,make_me_rich
+San Francisco 49ers,50,SOLD,johnnyred1
+Washington Commanders,56,SOLD,zrb847
+NIL/MISC,99,SOLD,make_me_rich
+T,83,SOLD,maxamizzzz
+T,93,SOLD,maxamizzzz
+T,94,SOLD,maxamizzzz
+T,117,SOLD,willyhol03404
+T,105,SOLD,maxamizzzz
+T,131,SOLD,make_me_rich
+T,126,SOLD,make_me_rich
+T,135,SOLD,maxamizzzz
+T,105,SOLD,sugare4
+T,72,SOLD,goody_rips
+T,79,SOLD,johnnyred1
+T,73,SOLD,zrb847
+T,88,SOLD,zrb847
+T,54,SOLD,johnnyred1
+"Indianapolis Colts, New Orleans Saints",116,SOLD,sugare4
+"Green Bay Packers, Minnesota Vikings",73,SOLD,joesal33333
+"Denver Broncos, Kansas City Chiefs",102,SOLD,make_me_rich
+T,88,SOLD,joesal33333

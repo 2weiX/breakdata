@@ -1,25 +1,25 @@
 spot,price,state,buyer
-Arizona Cardinals,60,OPEN,
-Atlanta Falcons,60,OPEN,
+Arizona Cardinals,35,SOLD,vincentngu70820
+Atlanta Falcons,42,SOLD,1justme
 Baltimore Ravens,55,OPEN,
 Buffalo Bills,55,OPEN,
 Carolina Panthers,55,OPEN,
 Chicago Bears,60,OPEN,
-Cincinnati Bengals,40,OPEN,
+Cincinnati Bengals,25,SOLD,vincentngu70820
 Cleveland Browns,40,OPEN,
 Dallas Cowboys,75,OPEN,
 Denver Broncos,100,OPEN,
 Detroit Lions,100,OPEN,
-Green Bay Packers,50,OPEN,
-Houston Texans,25,OPEN,
-Indianapolis Colts,50,OPEN,
+Green Bay Packers,35,SOLD,ejonas20
+Houston Texans,18,SOLD,vincentngu70820
+Indianapolis Colts,40,SOLD,faulk28
 Jacksonville Jaguars,30,OPEN,
 Kansas City Chiefs,60,OPEN,
 Las Vegas Raiders,100,OPEN,
 Los Angeles Chargers,50,OPEN,
 Los Angeles Rams,100,OPEN,
 Miami Dolphins,50,OPEN,
-Minnesota Vikings,100,OPEN,
+Minnesota Vikings,60,SOLD,wyo_bones
 New England Patriots,75,OPEN,
 New Orleans Saints,100,OPEN,
 New York Giants,40,SOLD,kgriff80
@@ -33,32 +33,31 @@ Tennessee Titans,60,OPEN,
 Washington Commanders,40,OPEN,
 Alabama,20,SOLD,leavinherewitsumn
 BYU,19,SOLD,jayyydawgvic
-Cal ,30,OPEN,
-Clemson,20,OPEN,
-Florida State,20,OPEN,
-Georgia,75,OPEN,
-High School/Santa Claus/Snowman/Florida,20,OPEN,
-Houston,15,OPEN,
-Illinois,15,OPEN,
-Indiana ,35,OPEN,
+Cal ,17,SOLD,faulk28
+Clemson,15,SOLD,famoussheamus
+Florida State,10,SOLD,famoussheamus
+Georgia,50,SOLD,zanderson25
+High School/Santa Claus/Snowman/Florida,14,SOLD,kgriff80
+Houston,7,SOLD,vincentngu70820
+Illinois,3,SOLD,jayyydawgvic
 Kansas State/Michigan State/Kentucky,24,SOLD,kgriff80
 LSU,50,OPEN,
-Miami ,60,OPEN,
+Miami ,38,SOLD,sulziisback
 Michigan,60,OPEN,
 Missouri/Montana State/Arkansas,25,OPEN,
-Nebraska,30,OPEN,
 Notre Dame,100,OPEN,
-Ohio State,100,OPEN,
+Ohio State,75,SOLD,scott8gk
 Oklahoma,50,OPEN,
 Oklahoma State/Ole Miss ,60,SOLD,jayyydawgvic
 Oregon,75,OPEN,
 Penn State,50,OPEN,
-Rutgers/SMU/South Carolina,25,OPEN,
-Stanford/Tenessee/Texas Tech,25,OPEN,
+Rutgers/SMU/South Carolina,19,SOLD,207cardz
+Stanford/Tenessee/Texas Tech,13,SOLD,famoussheamus
 Texas A&M,30,OPEN,
-Texas,50,OPEN,
+Texas,35,SOLD,zanderson25
 USC,75,OPEN,
 Washington,15,OPEN,
-NC State/Kansas/Arizona State/West Virginia,20,OPEN,
+NC State/Kansas/Arizona State/West Virginia,10,SOLD,vincentngu70820
 Utah/Wisconsin/Virginia/North Carolina,7,SOLD,kgriff80
-Duke/TCU/Colorado/Auburn,20,OPEN,
+Duke/TCU/Colorado/Auburn,10,SOLD,famoussheamus
+Indiana/Nebraska,40,SOLD,famoussheamus

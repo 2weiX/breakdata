@@ -2,13 +2,13 @@ spot,price,state,buyer
 Atlanta Falcons,16,OPEN,
 Baltimore Ravens,19,OPEN,
 Carolina Panthers,18,OPEN,
-Houston Texans,15,OPEN,
+Houston Texans,15,SOLD,pick75
 Indianapolis Colts,18,OPEN,
 Kansas City Chiefs,15,SOLD,pick75
 Las Vegas Raiders,15.4,SOLD,feedme74457
 Los Angeles Chargers,18,OPEN,
 Los Angeles Rams,25,OPEN,
-Minnesota Vikings,17,OPEN,
+Minnesota Vikings,13.6,SOLD,dhittercards
 New England Patriots,19,SOLD,sevenle
 New York Giants,18,SOLD,dhittercards
 Seattle Seahawks,21,OPEN,

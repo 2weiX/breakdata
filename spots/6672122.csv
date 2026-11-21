@@ -1,7 +1,39 @@
 spot,price,state,buyer
-Houston Texans,91,SOLD,jasonwhi48753
 Kansas City Chiefs,102,SOLD,johnkho23
 Los Angeles Rams,91,SOLD,jasonwhi48753
 New England Patriots,46,SOLD,rumblinbumblincards
 MISC,106,SOLD,johnkho23
-#6,1,OPEN,
+T,91,SOLD,jasonwhi48753
+Dallas Cowboys,91,SOLD,jasonwhi48753
+T,86,SOLD,jasonwhi48753
+Tampa Bay Buccaneers,88,SOLD,endzonechasers
+Cleveland Browns,84,SOLD,endzonechasers
+Minnesota Vikings,88,SOLD,jasonwhi48753
+Detroit Lions,82,SOLD,endzonechasers
+Chicago Bears,85,SOLD,wildcats2686
+T,74,SOLD,endzonechasers
+T,81,SOLD,johnkho23
+Buffalo Bills,87,SOLD,wildcats2686
+Green Bay Packers,82,SOLD,johnkho23
+Los Angeles Chargers,73,SOLD,endzonechasers
+San Francisco 49ers,79,SOLD,endzonechasers
+Pittsburgh Steelers,64,SOLD,johnkho23
+Indianapolis Colts,47,SOLD,1of1sports
+Atlanta Falcons,49,SOLD,johnkho23
+T,53,SOLD,endzonechasers
+Washington Commanders,68,SOLD,endzonechasers
+Tennessee Titans,61,SOLD,aldog714
+Las Vegas Raiders,63,SOLD,sankney
+Denver Broncos,67,SOLD,1of1sports
+New York Giants,67,SOLD,jsellzcards
+T,71,SOLD,jsellzcards
+Seattle Seahawks,50,SOLD,jsellzcards
+Jacksonville Jaguars,23,SOLD,johnkho23
+Baltimore Ravens,24,SOLD,327cards
+Miami Dolphins,36,SOLD,ckrickl
+Carolina Panthers,39,SOLD,thodig93
+New York Jets,49,SOLD,thodig93
+New Orleans Saints,65,SOLD,thodig93
+Philadelphia Eagles,71,SOLD,thodig93
+Arizona Cardinals,56,SOLD,thodig93
+"Cincinnati Bengals, Houston Texans",110,SOLD,asassen
