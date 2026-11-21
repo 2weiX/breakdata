@@ -8,7 +8,7 @@ Missouri,21,SOLD,diesel1205
 Kentucky,24,SOLD,hawk2424
 LSU,27,SOLD,dasiprips
 Indiana,27,SOLD,bigyetti
-Duke,27,SOLD,hawk2424
+TRADE,27,SOLD,hawk2424
 TRADE,26,SOLD,ethanvk12
 TRADE,32,SOLD,slkwilly23
 Texas State,32,SOLD,dasiprips
@@ -22,7 +22,7 @@ TRADE,34,SOLD,diesel1205
 Michigan,28,SOLD,bazcards44
 Stanford,23,SOLD,ethanvk12
 Florida,35,SOLD,ethanvk12
-Kansas State,36,SOLD,hawk2424
+Wyoming,36,SOLD,hawk2424
 Miami,35,SOLD,dasiprips
 TRADE,20,SOLD,bazcards44
 Arkansas,25,SOLD,bazcards44
@@ -46,7 +46,7 @@ Wisconsin,27,SOLD,jasontur57554
 TRADE,26,SOLD,jasontur57554
 TRADE,28,SOLD,dano1292
 Tennessee,39,SOLD,kragarrett29257
-Colorado,27,SOLD,goose2728
+TRADE,27,SOLD,goose2728
 TRADE,27,SOLD,auntmis
 TRADE,34,SOLD,jasontur57554
 Texas Tech,27,SOLD,auntmis
@@ -57,13 +57,57 @@ Arizona,28,SOLD,georgeaja44605
 Auburn,35,SOLD,kimbob7
 UCLA,37,SOLD,kimbob7
 UConn,27,SOLD,jasontur57554
-Louisville,25,SOLD,slkwilly23
+TRADE,25,SOLD,slkwilly23
 Cincinnati,25,SOLD,kragarrett29257
 Oklahoma State,34,SOLD,jeffoli4205
 Baylor,30,SOLD,kimbob7
 TRADE,27,SOLD,dano1292
 West Virginia,27,SOLD,jasontur57554
 Utah,25,SOLD,dano1292
-Vanderbilt,24,SOLD,diesel1205
-Syracuse,26,SOLD,kimbob7
-Western Kentucky,25,SOLD,dasiprips
+TRADE,24,SOLD,diesel1205
+TRADE,26,SOLD,kimbob7
+TRADE,25,SOLD,dasiprips
+North Carolina,32,SOLD,dasiprips
+Washington,26,SOLD,kragarrett29257
+TRADE,27,SOLD,kimbob7
+TRADE,25,SOLD,goose2728
+TRADE,30,SOLD,slkwilly23
+Purdue,26,SOLD,kimbob7
+High School Tribute,34,SOLD,hawk2424
+Penn State,30,SOLD,hargub
+Texas,26,SOLD,diesel1205
+Wake Forest,15,SOLD,charlitosbaby4
+Boise State,24,SOLD,hargub
+Washington State,10,SOLD,slkwilly23
+TRADE,22,SOLD,goose2728
+Rutgers,15,SOLD,goose2728
+Oklahoma,14,SOLD,goose2728
+TRADE,13,SOLD,goose2728
+Fresno State,14,SOLD,darrylk05
+Vanderbilt,13,SOLD,goose2728
+Houston,10,SOLD,goose2728
+TRADE,10,SOLD,goose2728
+San Diego State,9,SOLD,charlitosbaby4
+Nebraska,14,SOLD,diesel1205
+Western Michigan,9,SOLD,goose2728
+UNLV,8,SOLD,goose2728
+Akron,13,SOLD,dagenripz
+Iowa State,13,SOLD,diesel1205
+Texas A&M,10,SOLD,nherrington
+New Mexico,6,SOLD,diesel1205
+Maryland,8,SOLD,diesel1205
+Georgia,8,SOLD,darrylk05
+Minnesota,5,SOLD,dagenripz
+Florida State,4,SOLD,nherrington
+Colorado,6,SOLD,dagenripz
+TCU,6,SOLD,ethanvk12
+Duke,6,SOLD,ethanvk12
+Northwestern,6,SOLD,jasontur57554
+Louisiana,6,SOLD,jasontur57554
+Louisville,6,SOLD,nherrington
+Kansas State,6,SOLD,charlitosbaby4
+Tulsa,5,SOLD,jasontur57554
+Western Kentucky,4,SOLD,charlitosbaby4
+Syracuse,4,SOLD,nherrington
+NC State,4,SOLD,nherrington
+Virginia,4,SOLD,nherrington

@@ -1,0 +1,14 @@
+spot,price,state,buyer
+New England Patriots,8,SOLD,okie_cardz
+New York Giants,8,SOLD,bradcol19
+Los Angeles Rams,7,SOLD,billielalag
+"Arizona Cardinals, Dallas Cowboys, Denver Broncos, Indianapolis Colts, New Orleans Saints, Philadelphia Eagles, Tampa Bay Buccaneers",45,SOLD,billielalag
+"Buffalo Bills, Las Vegas Raiders, Minnesota Vikings",20,SOLD,billielalag
+Jacksonville Jaguars,6,SOLD,okie_cardz
+"Atlanta Falcons, Cleveland Browns, Green Bay Packers, Kansas City Chiefs, Pittsburgh Steelers, Washington Commanders",35,SOLD,billielalag
+Cincinnati Bengals,8,SOLD,billielalag
+Chicago Bears,6,SOLD,billielalag
+Detroit Lions,8,SOLD,billielalag
+Carolina Panthers,6,SOLD,billielalag
+Tennessee Titans,6,SOLD,billielalag
+#13,1,OPEN,

@@ -1,0 +1,35 @@
+spot,price,state,buyer
+Big 12,6,SOLD,coachemtp
+Colts,5,SOLD,coachemtp
+#3,7,SOLD,beanius
+Broncos,7,SOLD,snakefistdynamo
+Cardinals,12,SOLD,beanius
+Bengals,14,SOLD,injuryriddden
+Independents,10,SOLD,beanius
+Steelers,8,SOLD,beanius
+49ers,8,SOLD,beanius
+Giants,12,SOLD,beanius
+Lions,9,SOLD,beanius
+SEC,10,SOLD,jsnkohler
+Big Ten,13,SOLD,injuryriddden
+#14,1,SOLD,beanius
+Saints,6,SOLD,snakefistdynamo
+Rams,7,SOLD,beanius
+Dolphins,15,SOLD,beanius
+Bears,10,SOLD,pictroy
+Vikings,3,SOLD,pictroy
+Eagles,6,SOLD,pictroy
+Texans,7,SOLD,pictroy
+Bills,12,SOLD,davidmen2001
+#23,7,SOLD,davidmen2001
+#24,16,SOLD,davidmen2001
+Raiders,13,SOLD,davidmen2001
+Jaguars,13,SOLD,mikeary
+Cowboys,8,SOLD,snakefistdynamo
+Ravens,11,SOLD,captainwithabigolepipe
+Jets,14,SOLD,captainwithabigolepipe
+Packers,9,SOLD,mikeary
+Panthers,9,SOLD,captainwithabigolepipe
+Buccaneers,11,SOLD,captainwithabigolepipe
+Patriots,9,SOLD,mikeary
+Chiefs,9,SOLD,captainwithabigolepipe

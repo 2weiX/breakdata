@@ -1,33 +1,33 @@
 spot,price,state,buyer
 Arizona Cardinals,1,SOLD,cncsiu
-Atlanta Falcons,5,OPEN,
-Baltimore Ravens,8,OPEN,
+Atlanta Falcons,2,SOLD,cncsiu
+Baltimore Ravens,1,SOLD,cncsiu
 Buffalo Bills,5,SOLD,cncsiu
-Carolina Panthers,9,OPEN,
+Carolina Panthers,1,SOLD,cncsiu
 Chicago Bears,8,SOLD,cncsiu
-Cincinnati Bengals,10,OPEN,
+Cincinnati Bengals,10,SOLD,cncsiu
 Cleveland Browns,2,SOLD,cncsiu
-Dallas Cowboys,12,OPEN,
-Denver Broncos,10,OPEN,
-Detroit Lions,8,OPEN,
-Green Bay Packers,8,OPEN,
-Houston Texans,8,OPEN,
-Indianapolis Colts,7,OPEN,
-Jacksonville Jaguars,7,OPEN,
-Kansas City Chiefs,12,OPEN,
-Las Vegas Raiders,14,OPEN,
-Los Angeles Chargers,9,OPEN,
-Los Angeles Rams,6,OPEN,
+Dallas Cowboys,1,SOLD,cncsiu
+Denver Broncos,3,SOLD,cncsiu
+Detroit Lions,3,SOLD,cncsiu
+Green Bay Packers,1,SOLD,moonstone_mama444
+Houston Texans,1,SOLD,cncsiu
+Indianapolis Colts,2,SOLD,moonstone_mama444
+Jacksonville Jaguars,5,SOLD,cncsiu
+Kansas City Chiefs,5,SOLD,cncsiu
+Las Vegas Raiders,21,SOLD,sacollectors
+Los Angeles Chargers,1,SOLD,lrock
+Los Angeles Rams,2,SOLD,lrock
 Miami Dolphins,1,SOLD,cncsiu
-Minnesota Vikings,8,OPEN,
-New England Patriots,12,OPEN,
-New Orleans Saints,5,OPEN,
-New York Giants,8,OPEN,
+Minnesota Vikings,2,SOLD,cncsiu
+New England Patriots,3,SOLD,cncsiu
+New Orleans Saints,5,SOLD,cncsiu
+New York Giants,3,SOLD,cncsiu
 New York Jets,3,SOLD,cncsiu
-Philadelphia Eagles,10,OPEN,
-Pittsburgh Steelers,9,OPEN,
-San Francisco 49ers,9,OPEN,
-Seattle Seahawks,6,OPEN,
+Philadelphia Eagles,3,SOLD,sacollectors
+Pittsburgh Steelers,3,SOLD,cncsiu
+San Francisco 49ers,3,SOLD,lrock
+Seattle Seahawks,1,SOLD,cncsiu
 Tampa Bay Buccaneers,2,SOLD,cncsiu
 Tennessee Titans,3,SOLD,cncsiu
-Washington Commanders,10,OPEN,
+Washington Commanders,3,SOLD,insa20
