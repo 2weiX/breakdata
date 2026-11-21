@@ -1,0 +1,34 @@
+spot,price,state,buyer
+Kansas City Chiefs,1,SOLD,mrsteviejanowski
+Pittsburgh Steelers,1,SOLD,mrsteviejanowski
+Houston Texans,1,SOLD,mrsteviejanowski
+Seattle Seahawks,2,SOLD,ganjibare
+Los Angeles Chargers,2,SOLD,ganjibare
+San Francisco 49ers,2,SOLD,mrsteviejanowski
+Cincinnati Bengals,3,SOLD,landynthib
+Philadelphia Eagles,2,SOLD,mrsteviejanowski
+Atlanta Falcons,3,SOLD,ganjibare
+Minnesota Vikings,2,SOLD,mrsteviejanowski
+Arizona Cardinals,3,SOLD,ericryz
+Baltimore Ravens,3,SOLD,ericryz
+Green Bay Packers,3,SOLD,ericryz
+Buffalo Bills,3,SOLD,ericryz
+Indianapolis Colts,3,SOLD,mrsteviejanowski
+Miami Dolphins,4,SOLD,ericryz
+Carolina Panthers,4,SOLD,ericryz
+Tennessee Titans,4,SOLD,mrsteviejanowski
+Dallas Cowboys,4,SOLD,ericryz
+Jacksonville Jaguars,4,SOLD,ganjibare
+Chicago Bears,4,SOLD,ericryz
+Las Vegas Raiders,4,SOLD,mrsteviejanowski
+Denver Broncos,4,SOLD,landynthib
+nil,4,SOLD,ericryz
+Washington Commanders,2,SOLD,ericryz
+New England Patriots,2,SOLD,landynthib
+Detroit Lions,1,SOLD,ganjibare
+New York Giants,1,SOLD,ericryz
+Los Angeles Rams,1,SOLD,ganjibare
+Tampa Bay Buccaneers,1,SOLD,landynthib
+New Orleans Saints,2,SOLD,ganjibare
+New York Jets,3,SOLD,pinkygreen
+Cleveland Browns,3,SOLD,pinkygreen

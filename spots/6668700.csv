@@ -1,29 +1,29 @@
 spot,price,state,buyer
-Arizona Cardinals,17,OPEN,
+Arizona Cardinals,15,OPEN,
 Atlanta Falcons,7,OPEN,
-Baltimore Ravens,8,OPEN,
+Baltimore Ravens,6,SOLD,darentz
 Buffalo Bills,17,SOLD,hckynate
-Carolina Panthers,9,OPEN,
+Carolina Panthers,2,SOLD,neilmac985
 Chicago Bears,9,SOLD,rynoo23
 Cincinnati Bengals,15.2,SOLD,neilmac985
-Cleveland Browns,11,OPEN,
-Dallas Cowboys,10,OPEN,
-Denver Broncos,10,OPEN,
-Detroit Lions,12,OPEN,
-Green Bay Packers,8,OPEN,
-Houston Texans,8,OPEN,
+Cleveland Browns,5,SOLD,rez_ripz
+Dallas Cowboys,2,SOLD,darentz
+Denver Broncos,2,SOLD,justinmin64757
+Detroit Lions,7,SOLD,jefsel62546
+Green Bay Packers,3,SOLD,dfnewt004
+Houston Texans,1,SOLD,hckynate
 Indianapolis Colts,6,SOLD,dfnewt004
-Jacksonville Jaguars,12,OPEN,
+Jacksonville Jaguars,3,SOLD,hckynate
 Los Angeles Chargers,1,SOLD,hckynate
-Los Angeles Rams,9,OPEN,
-Miami Dolphins,8,OPEN,
+Los Angeles Rams,2,SOLD,xninja5
+Miami Dolphins,3,SOLD,justinmin64757
 Minnesota Vikings,6.4,SOLD,neilmac985
-New England Patriots,16,OPEN,
+New England Patriots,14,OPEN,
 New Orleans Saints,1,SOLD,dfnewt004
 New York Jets,8,OPEN,
-Pittsburgh Steelers,8,OPEN,
-San Francisco 49ers,15,OPEN,
-Seattle Seahawks,11,OPEN,
-Tampa Bay Buccaneers,7,OPEN,
-Tennessee Titans,10,OPEN,
+Pittsburgh Steelers,6,SOLD,darentz
+San Francisco 49ers,9.6,SOLD,neilmac985
+Seattle Seahawks,8,OPEN,
+Tampa Bay Buccaneers,6,OPEN,
+Tennessee Titans,8,OPEN,
 Washington Commanders,6.4,SOLD,neilmac985

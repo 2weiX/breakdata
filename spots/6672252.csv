@@ -1,11 +1,11 @@
 spot,price,state,buyer
 AFC North,26,OPEN,
-AFC East,26,OPEN,
+AFC East,80,SOLD,uncleballa
 AFC West,26,SOLD,uncleballa
 AFC South,26,SOLD,uncleballa
 NFC North,26,SOLD,uncleballa
 NFC East,26,SOLD,uncleballa
 NFC West,26,OPEN,
 NFC South,26,OPEN,
-NIL,35,OPEN,
+NIL,30,SOLD,kevintank2399
 HOLIDAY SPOT,10,SOLD,uncleballa

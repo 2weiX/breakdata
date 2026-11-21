@@ -1,6 +1,5 @@
 spot,price,state,buyer
 Arizona Cardinals,42,OPEN,
-Atlanta Falcons,3,SOLD,dr_detroit71
 Baltimore Ravens,20,SOLD,quickfix401153
 Buffalo Bills,50,SOLD,darentz
 Carolina Panthers,35,OPEN,
@@ -14,14 +13,12 @@ Houston Texans,13,SOLD,marissvaillan
 Indianapolis Colts,7,SOLD,mikejones0906
 Kansas City Chiefs,65,SOLD,brianmen44615
 Las Vegas Raiders,80,SOLD,quickfix401153
-Los Angeles Chargers,1,SOLD,dr_detroit71
 Los Angeles Rams,30,OPEN,
 Miami Dolphins,6,SOLD,sykeout727
 Minnesota Vikings,35,OPEN,
 New England Patriots,37,OPEN,
 New Orleans Saints,25,SOLD,darentz
 New York Giants,46,OPEN,
-New York Jets,6,SOLD,dr_detroit71
 Philadelphia Eagles,14,SOLD,aye_deejay
 Pittsburgh Steelers,9,SOLD,darentz
 San Francisco 49ers,47,OPEN,

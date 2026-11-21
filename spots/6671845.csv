@@ -1,33 +1,19 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+Detroit Lions,17,SOLD,droopdgydg
+Carolina Panthers,20,SOLD,squirtle34
+"Chicago Bears, Las Vegas Raiders",34,SOLD,squirtle34
+"Pittsburgh Steelers, San Francisco 49ers",32,SOLD,droopdgydg
+"Denver Broncos, Kansas City Chiefs",32,SOLD,libby13
+"Buffalo Bills, Seattle Seahawks",30,SOLD,nastynate10810
+"Minnesota Vikings, New York Jets",32,SOLD,droopdgydg
+"Cincinnati Bengals, Los Angeles Rams",27,SOLD,libby13
+"New England Patriots, New York Giants",24,SOLD,libby13
+"Arizona Cardinals, Dallas Cowboys",25,SOLD,libby13
+"Green Bay Packers, Indianapolis Colts",25,SOLD,droopdgydg
+"Cleveland Browns, Miami Dolphins",23,SOLD,nastynate10810
+"Philadelphia Eagles, Tampa Bay Buccaneers, Tennessee Titans",35,SOLD,droopdgydg
+"Los Angeles Chargers, New Orleans Saints",21,SOLD,smalltowngifts
+"Atlanta Falcons, Houston Texans",23,SOLD,smalltowngifts
+Jacksonville Jaguars,12,SOLD,libby13
+Washington Commanders,11,SOLD,libby13
+Baltimore Ravens,11,SOLD,cth43
