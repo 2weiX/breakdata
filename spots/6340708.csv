@@ -1,56 +1,59 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-Alabama,,OPEN,
-BYU,,OPEN,
-California,,OPEN,
-Florida,,OPEN,
-Georgia,,OPEN,
-Illinois,,OPEN,
-Indiana,,OPEN,
-LSU,,OPEN,
-Miami,,OPEN,
-Michigan,,OPEN,
-Mississippi State,,OPEN,
-Notre Dame,,OPEN,
-Ohio State,,OPEN,
-Oklahoma,,OPEN,
-Oklahoma State,,OPEN,
-Ole Miss,,OPEN,
-Oregon,,OPEN,
-South Carolina,,OPEN,
-Texas,,OPEN,
-Texas A&M,,OPEN,
-Texas Tech,,OPEN,
-USC,,OPEN,
-Washington,,OPEN,
+Arizona Cardinals,9,SOLD,hv__breakers
+Atlanta Falcons,6,SOLD,jeffdow93354
+Baltimore Ravens,2,SOLD,moneyfortacos
+Buffalo Bills,19,SOLD,rasa808
+Carolina Panthers,8,SOLD,jcb0318
+Chicago Bears,11,SOLD,johng92080
+Cincinnati Bengals,5,SOLD,wizard_sleeve69
+Cleveland Browns,16,SOLD,ostranderkevin
+Dallas Cowboys,11,SOLD,rylee1976
+Denver Broncos,12,SOLD,hv__breakers
+Detroit Lions,16,SOLD,rasa808
+Indianapolis Colts,7,SOLD,raidermike74
+Jacksonville Jaguars,12,SOLD,cnc671
+Kansas City Chiefs,15,SOLD,rasa808
+Las Vegas Raiders,12,SOLD,the_porkchop_express
+Los Angeles Rams,17,SOLD,ilikecamskattebo113
+Miami Dolphins,11,SOLD,johng92080
+Minnesota Vikings,10,SOLD,cnc671
+New England Patriots,9,SOLD,jcb0318
+New Orleans Saints,9,SOLD,rasa808
+New York Giants,16,SOLD,nsg1972
+New York Jets,6,SOLD,moneyfortacos
+Philadelphia Eagles,9,SOLD,rasa808
+Pittsburgh Steelers,13,SOLD,rylee1976
+San Francisco 49ers,12,SOLD,moneyfortacos
+Seattle Seahawks,10,SOLD,rasa808
+Tampa Bay Buccaneers,12,SOLD,jcb0318
+Tennessee Titans,12,SOLD,jasonmcneese2525
+Washington Commanders,10,SOLD,nsg1972
+Alabama,14,SOLD,ostranderkevin
+BYU,10,SOLD,rasa808
+California,13,SOLD,rasa808
+Florida,11,SOLD,moneyfortacos
+Georgia,10,SOLD,207cardz
+Illinois,11,SOLD,ilikecamskattebo113
+Indiana,11,SOLD,nsg1972
+LSU,9,SOLD,juswil83487
+Miami,7,SOLD,cnc671
+Michigan,10,SOLD,the_porkchop_express
+Mississippi State,9,SOLD,juswil83487
+Notre Dame,11,SOLD,bigburg713
+Ohio State,9,SOLD,raidermike74
+Oklahoma,11,SOLD,nsg1972
+Oklahoma State,10,SOLD,the_porkchop_express
+Ole Miss,7,SOLD,moneyfortacos
+Oregon,10,SOLD,hv__breakers
+South Carolina,11,SOLD,nsg1972
+Texas,15,SOLD,bigburg713
+Texas A&M,10,SOLD,jdcards_24
+Texas Tech,20,SOLD,bigburg713
+USC,10,SOLD,cnc671
+Washington,10,SOLD,jeffdow93354
+#4,12,SOLD,jcb0318
+#9,20,SOLD,bigburg713
+#38,10,SOLD,hv__breakers
+#54,5,SOLD,realone719
+"Green Bay Packers, Houston Texans, Los Angeles Chargers",11,SOLD,rasa808
+65 NIL Teams,26,SOLD,moneyfortacos

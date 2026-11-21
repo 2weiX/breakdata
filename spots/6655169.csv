@@ -1,6 +1,6 @@
 spot,price,state,buyer
-#1,67,OPEN,
-#2,67,SOLD,respectmyauthoritehhhh
-#3,67,OPEN,
-#4,67,SOLD,lutty300
-#5,67,SOLD,tdooley
+ACC,57,SOLD,respectmyauthoritehhhh
+Big 10,67,SOLD,respectmyauthoritehhhh
+Big 12,57,SOLD,respectmyauthoritehhhh
+SEC,67,SOLD,lutty300
+All Others,67,SOLD,tdooley

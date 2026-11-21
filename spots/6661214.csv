@@ -1,8 +1,8 @@
 spot,price,state,buyer
 Chicago Bulls,140,OPEN,
-Memphis Grizzlies,80,SOLD,raffinar
+Memphis Grizzlies,100,OPEN,
 Miami Heat,65,OPEN,
-New York Knicks,32,SOLD,raffinar
+New York Knicks,40,OPEN,
 Sacramento Kings,130,OPEN,
 Utah Jazz,100,OPEN,
 Washington Wizards,130,OPEN,
@@ -29,3 +29,5 @@ Phoenix Suns,60,OPEN,
 Portland Trail Blazers,60,OPEN,
 San Antonio Spurs,115,OPEN,
 Toronto Raptors,70,OPEN,
+#15,100,SOLD,raffinar
+#20,40,SOLD,raffinar

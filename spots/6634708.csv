@@ -1,29 +1,12 @@
 spot,price,state,buyer
-Arizona Diamondbacks,4,OPEN,
-Baltimore Orioles,4,OPEN,
 Boston Red Sox,6,SOLD,armyguyripz
-Chicago Cubs,6,OPEN,
+Chicago Cubs,4.8,SOLD,davidmcc
 Chicago White Sox,6,SOLD,piemanjay
 Cincinnati Reds,6,SOLD,piemanjay
-Cleveland Guardians,4,OPEN,
-Colorado Rockies,4,OPEN,
-Houston Astros,4,OPEN,
 Kansas City Royals,6,SOLD,piemanjay
-Los Angeles Angels,4,OPEN,
 Los Angeles Dodgers,8,SOLD,piemanjay
-Miami Marlins,4,OPEN,
 Milwaukee Brewers,6,SOLD,armyguyripz
-Minnesota Twins,4,OPEN,
-New York Mets,5,OPEN,
 New York Yankees,6,SOLD,williamhart0528
-Oakland Athletics,4,OPEN,
-Philadelphia Phillies,4,OPEN,
-San Diego Padres,4,OPEN,
-San Francisco Giants,4,OPEN,
-Tampa Bay Rays,4,OPEN,
-Texas Rangers,4,OPEN,
-Toronto Blue Jays,4,OPEN,
-Washington Nationals,4,OPEN,
 Atlanta Braves,3.2,SOLD,dirtybirdbreaks
 Detroit Tigers,5,SOLD,armyguyripz
 Pittsburgh Pirates,5,SOLD,armyguyripz

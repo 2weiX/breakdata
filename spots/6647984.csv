@@ -1,33 +1,30 @@
 spot,price,state,buyer
-Arizona Cardinals,60,OPEN,
-Atlanta Falcons,10,OPEN,
-Baltimore Ravens,20,OPEN,
+Arizona Cardinals,40,SOLD,thepenskefile
+Atlanta Falcons,7,SOLD,devinlin12
+Baltimore Ravens,16,SOLD,big_ole_bert
 Buffalo Bills,24,SOLD,boyo047
-Carolina Panthers,15,OPEN,
-Chicago Bears,25,OPEN,
-Cleveland Browns,20,OPEN,
-Denver Broncos,20,OPEN,
+Carolina Panthers,6,SOLD,devinlin12
+Cleveland Browns,20,SOLD,devinlin12
+Denver Broncos,15,SOLD,moneybagbreaks
 Detroit Lions,12,SOLD,letsgetcards77
-Indianapolis Colts,15,OPEN,
-Jacksonville Jaguars,25,OPEN,
+Indianapolis Colts,1,SOLD,devinlin12
+Jacksonville Jaguars,16,SOLD,big_ole_bert
 Kansas City Chiefs,24,SOLD,rkbull
-Los Angeles Chargers,20,OPEN,
-Los Angeles Rams,30,OPEN,
-Miami Dolphins,15,OPEN,
+Los Angeles Chargers,10,SOLD,devinlin12
+Miami Dolphins,10.5,SOLD,devinlin12
 New England Patriots,20,SOLD,nopantslachance
-New Orleans Saints,20,OPEN,
-New York Giants,20,OPEN,
-New York Jets,15,OPEN,
-Philadelphia Eagles,25,OPEN,
-Pittsburgh Steelers,20,OPEN,
-San Francisco 49ers,35,OPEN,
-Seattle Seahawks,20,OPEN,
-Tampa Bay Buccaneers,30,OPEN,
-Tennessee Titans,25,OPEN,
-Washington Commanders,20,OPEN,
+New Orleans Saints,14,SOLD,natmci51716
+New York Giants,16,SOLD,onegiantloss
+New York Jets,12,SOLD,devinlin12
+Philadelphia Eagles,17.5,SOLD,marcuswags
+Pittsburgh Steelers,16,SOLD,big_ole_bert
+San Francisco 49ers,25,SOLD,george_skittle_85
+Washington Commanders,10,SOLD,tbrady_69
 Cincinnati Bengals,25,SOLD,smiley2189
 Dallas Cowboys,15,SOLD,smiley2189
 Green Bay Packers,12,SOLD,hauss77
 Houston Texans,10,SOLD,biggame033
 Las Vegas Raiders,60,SOLD,biggame033
 Minnesota Vikings,20,SOLD,miljosh30218
+Chicago Bears/Seahawks/Bucs,50,SOLD,tbrady_69
+Los Angeles Rams/ Titans,40,SOLD,devinlin12

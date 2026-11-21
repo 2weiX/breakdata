@@ -1,21 +1,21 @@
 spot,price,state,buyer
-Arizona Cardinals,199,OPEN,
+Arizona Cardinals,120,SOLD,thesportscardloft
 Atlanta Falcons,54,SOLD,adam1378
-Baltimore Ravens,79,OPEN,
+Baltimore Ravens,59,SOLD,thesportscardloft
 Buffalo Bills,189,SOLD,thereelck
-Carolina Panthers,69,OPEN,
+Carolina Panthers,69,SOLD,thesportscardloft
 Chicago Bears,189,SOLD,cardsfan87
 Cincinnati Bengals,109,SOLD,barrislife19
-Cleveland Browns,119,OPEN,
+Cleveland Browns,119,SOLD,thesportscardloft
 Dallas Cowboys,89,SOLD,isojeffrey11
 Detroit Lions,79,SOLD,andresvil63240
 Green Bay Packers,59,SOLD,thereelck
-Indianapolis Colts,49,OPEN,
+Indianapolis Colts,40,SOLD,thesportscardloft
 Jacksonville Jaguars,54,SOLD,trentc
 Las Vegas Raiders,359,SOLD,isojeffrey11
-Los Angeles Chargers,59,OPEN,
-New England Patriots,259,OPEN,
-New Orleans Saints,119,OPEN,
+Los Angeles Chargers,59,SOLD,thesportscardloft
+New England Patriots,195,SOLD,bruinzcardz
+New Orleans Saints,114,SOLD,thesportscardloft
 New York Giants,159,SOLD,bmartz
 New York Jets,94,SOLD,trentc
 Philadelphia Eagles,119,SOLD,elduderino11
@@ -31,3 +31,4 @@ Denver Broncos,114,SOLD,trentc
 Kansas City Chiefs,304,SOLD,kcsmalls01
 Los Angeles Rams,209,SOLD,regsripz
 Seattle Seahawks,149,SOLD,coby_sports
+Los Angeles Rams (re-add mojo),186,SOLD,trentc

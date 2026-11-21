@@ -2,7 +2,6 @@ spot,price,state,buyer
 Boston College,2,SOLD,sheywae
 Delaware,2,SOLD,jasonhath
 Washington,2,SOLD,dwdiego
-#4,6,SOLD,dwdiego
 Isidore Newman School,3,SOLD,sweetchang
 Rutgers,4,SOLD,dwdiego
 Florida,3,SOLD,plus11
@@ -34,7 +33,6 @@ UCLA,5,SOLD,lebreckbecky
 Arizona,5,SOLD,jasonhath
 Oklahoma,5,SOLD,lebreckbecky
 #35,6,SOLD,lebreckbecky
-Stanford,5,SOLD,5starcardcollectables
 Michigan State,3,SOLD,5starcardcollectables
 BYU,5,SOLD,5starcardcollectables
 Oregon,6,SOLD,lebreckbecky
@@ -54,4 +52,29 @@ Utah,6,SOLD,thetradeup
 #53,6,SOLD,thetradeup
 #54,6,SOLD,thetradeup
 Houston,6,SOLD,cmoneysportscards5
-#56,1,OPEN,
+Colorado,6,SOLD,dwdiego
+Firebaugh High School,5,SOLD,5starcardcollectables
+Clemson,4,SOLD,sanch90
+#57,6,SOLD,5starcardcollectables
+Ole Miss,6,SOLD,jacobhen73292
+Oklahoma State,6,SOLD,jacobhen73292
+#60,4,SOLD,dwdiego
+Missouri,6,SOLD,sanch90
+"Arkansas, Baylor, Tennessee",13,SOLD,sanch90
+South Carolina,4,SOLD,weston007
+Western Michigan,4,SOLD,weston007
+Iowa,4,SOLD,weston007
+Mississippi State,5,SOLD,locdog1983
+Georgia,5,SOLD,lebreckbecky
+Western Kentucky,5,SOLD,sigscards
+UNLV,4,SOLD,jacobhen73292
+UConn,4,SOLD,jacobhen73292
+California,6,SOLD,thetradeup
+Wake Forest,6,SOLD,thetradeup
+Northwestern,4,SOLD,mvillanueva60
+Vanderbilt,4,SOLD,mvillanueva60
+Fresno State,4,SOLD,mrsteviejanowski
+WSU,2,SOLD,jacobhen73292
+New Mexico,2,SOLD,jacobhen73292
+Virginia,1,SOLD,jacobhen73292
+"Akron, Auburn, Cincinnati, Florida State, Kansas State, Maryland, Minnesota, Nebraska, Purdue, San Diego State, Stanford, Tulsa, UCF, UNC",22,SOLD,jacobhen73292

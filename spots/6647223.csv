@@ -1,12 +1,10 @@
 spot,price,state,buyer
-Division 1,,OPEN,
-Division 2,,OPEN,
-Division 3,,OPEN,
-Division 4,,OPEN,
-Division 5,,OPEN,
-Division 6,,OPEN,
-Division 7,,OPEN,
-Division 8,,OPEN,
-Division 9,,OPEN,
-Division 10,,OPEN,
-Division 11,,OPEN,
+Division 4,9,SOLD,akeen1
+Division 5,14,SOLD,916kid
+Division 6,16,SOLD,akeen1
+Division 8,9,SOLD,akeen1
+Division 9,11,SOLD,akeen1
+Division 10,14,SOLD,akeen1
+Division 11,16,SOLD,akeen1
+"Division 2, Division 3",15,SOLD,916kid
+"Division 1, Division 7",12,SOLD,akeen1

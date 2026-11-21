@@ -1,0 +1,23 @@
+spot,price,state,buyer
+Cincinnati Bengals,3,SOLD,alexrous95
+Seattle Seahawks,3,SOLD,alexrous95
+San Francisco 49ers,3,SOLD,alexrous95
+Chicago Bears,3,SOLD,alexrous95
+Los Angeles Rams,3,SOLD,alexrous95
+Minnesota Vikings,3,SOLD,alexrous95
+Miami Dolphins,3,SOLD,alexrous95
+New England Patriots,3,SOLD,alexrous95
+Indianapolis Colts,3,SOLD,todsweeney27
+Tampa Bay Buccaneers,2,SOLD,todsweeney27
+Tennessee Titans,2,SOLD,jimmyrowe12
+Kansas City Chiefs,1,SOLD,todsweeney27
+Green Bay Packers,1,SOLD,todsweeney27
+Las Vegas Raiders,1,SOLD,alexrous95
+Arizona Cardinals,1,SOLD,alexrous95
+Detroit Lions,1,SOLD,todsweeney27
+"Atlanta Falcons, Jacksonville Jaguars",1,SOLD,todsweeney27
+"Buffalo Bills, Cleveland Browns",1,SOLD,alexrous95
+"Denver Broncos, Houston Texans, New York Giants",1,SOLD,alexrous95
+"Carolina Panthers, Dallas Cowboys, Philadelphia Eagles",1,SOLD,todsweeney27
+"New York Jets, Pittsburgh Steelers, Washington Commanders",1,SOLD,alexrous95
+"Baltimore Ravens, Los Angeles Chargers, New Orleans Saints",1,SOLD,todsweeney27

@@ -1,0 +1,42 @@
+spot,price,state,buyer
+T,62,SOLD,cannon001
+Philadelphia Eagles,64,SOLD,pokinets
+San Francisco 49ers,76,SOLD,pokinets
+T,75,SOLD,cannon001
+New England Patriots,70,SOLD,pokinets
+Los Angeles Rams,65,SOLD,akeen1
+Los Angeles Chargers,53,SOLD,cannon001
+T,54,SOLD,akeen1
+T,3,SOLD,cannon001
+Cleveland Browns,62,SOLD,akeen1
+T,56,SOLD,pokinets
+T,70,SOLD,pokinets
+Buffalo Bills,71,SOLD,pokinets
+T,69,SOLD,akeen1
+NIL,69,SOLD,cannon001
+Chicago Bears,70,SOLD,akeen1
+Minnesota Vikings,35,SOLD,akeen1
+T,63,SOLD,pokinets
+T,61,SOLD,pokinets
+T,60,SOLD,pokinets
+Pittsburgh Steelers,63,SOLD,pokinets
+Cincinnati Bengals,64,SOLD,frankwhite920
+T,61,SOLD,akeen1
+T,63,SOLD,bigmcards
+T,60,SOLD,bigmcards
+T,68,SOLD,bigmcards
+T,61,SOLD,akeen1
+T,62,SOLD,bigmcards
+T,67,SOLD,bigmcards
+New York Giants,72,SOLD,bigmcards
+T,56,SOLD,dixon2049
+Dallas Cowboys,65,SOLD,akeen1
+Denver Broncos,50,SOLD,dixon2049
+T,65,SOLD,dixon2049
+T,62,SOLD,dixon2049
+Kansas City Chiefs,62,SOLD,bigmcards
+Baltimore Ravens,25,SOLD,frankwhite920
+Detroit Lions,25,SOLD,akeen1
+"Atlanta Falcons, Green Bay Packers, Houston Texans, Las Vegas Raiders, New Orleans Saints",41,SOLD,akeen1
+"Arizona Cardinals, Jacksonville Jaguars, Miami Dolphins, Seattle Seahawks, Tampa Bay Buccaneers",40,SOLD,bigmcards
+"Carolina Panthers, Indianapolis Colts, New York Jets, Tennessee Titans, Washington Commanders",34,SOLD,cannon001

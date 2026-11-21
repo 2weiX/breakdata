@@ -1,21 +1,17 @@
 spot,price,state,buyer
-Arizona Cardinals,60,OPEN,
-Baltimore Ravens,26,OPEN,
+Baltimore Ravens,13,SOLD,nicsjustbetter
 Buffalo Bills,18.2,SOLD,sirsnapper
-Carolina Panthers,21,OPEN,
 Chicago Bears,20.8,SOLD,dnelson2582
 Cincinnati Bengals,21,SOLD,coachdoo
-Cleveland Browns,21,OPEN,
+Cleveland Browns,12,SOLD,coachdoo
 Dallas Cowboys,20,SOLD,coachdoo
-Detroit Lions,26,OPEN,
-Green Bay Packers,26,OPEN,
+Detroit Lions,13,SOLD,pandacalves
+Green Bay Packers,11,SOLD,pandacalves
 Houston Texans,7,SOLD,vinnyripzz
 Jacksonville Jaguars,13,SOLD,pandacalves
 Kansas City Chiefs,21,SOLD,coachdoo
-Las Vegas Raiders,59,OPEN,
-Los Angeles Chargers,21,OPEN,
 Los Angeles Rams,15,SOLD,coachdoo
-Miami Dolphins,18,OPEN,
+Miami Dolphins,7,SOLD,coachdoo
 Minnesota Vikings,25,SOLD,toughlovevntg
 New England Patriots,20.8,SOLD,jaycavs83
 New Orleans Saints,20,SOLD,robrobertf
@@ -25,13 +21,9 @@ Philadelphia Eagles,14,SOLD,vinnyripzz
 Pittsburgh Steelers,31,SOLD,coachdoo
 San Francisco 49ers,20,SOLD,nicsjustbetter
 Seattle Seahawks,5,SOLD,laoboy
-Tampa Bay Buccaneers,29,OPEN,
-COMMIES,16,OPEN,
+COMMIES,8,SOLD,pandacalves
 OLE MISS/ARIZONA,25,SOLD,dwight2424
 NOTRA DAME,26,SOLD,dwight2424
-MIAMI,26,OPEN,
 OHIO STATE,29,SOLD,dwight2424
-OREGON DUCKS,26,OPEN,
-MICHIGAN,19,OPEN,
-REST OF NIL,76,OPEN,
+MICHIGAN,7,SOLD,pandacalves
 utah,10,SOLD,robrobertf

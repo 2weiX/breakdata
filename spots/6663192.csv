@@ -1,32 +1,30 @@
 spot,price,state,buyer
-Arizona Cardinals,40,OPEN,
-Atlanta Falcons,20,OPEN,
-Baltimore Ravens,25,OPEN,
+Arizona Cardinals,20,SOLD,scottval2
+Atlanta Falcons,9,SOLD,silentj0501
+Baltimore Ravens,12,SOLD,scottval2
 Buffalo Bills,30,SOLD,thehobbyhood
-Carolina Panthers,20,OPEN,
-Chicago Bears,30,OPEN,
+Carolina Panthers,17,SOLD,okole_puka
+Chicago Bears,30,SOLD,pellino1979
 Cincinnati Bengals,28,SOLD,flowstatebreaks
-Cleveland Browns,30,OPEN,
-Dallas Cowboys,25,OPEN,
-Denver Broncos,25,OPEN,
+Cleveland Browns,22,SOLD,scottval2
+Dallas Cowboys,25,SOLD,geophman
+Denver Broncos,12,SOLD,scottval2
 Detroit Lions,25,SOLD,prepper616
-Green Bay Packers,25,OPEN,
-Houston Texans,20,OPEN,
-Indianapolis Colts,20,OPEN,
-Jacksonville Jaguars,30,OPEN,
+Green Bay Packers,9,SOLD,spacecitysportscollector
+Houston Texans,9,SOLD,dungeondealz
+Indianapolis Colts,6,SOLD,silentj0501
+Jacksonville Jaguars,18,SOLD,scottval2
 Kansas City Chiefs,40,SOLD,caseycheifs
 Las Vegas Raiders,60,SOLD,scottval2
-Los Angeles Chargers,25,OPEN,
-Los Angeles Rams,25,OPEN,
-Miami Dolphins,20,OPEN,
-Minnesota Vikings,25,OPEN,
-New Orleans Saints,25,OPEN,
+Los Angeles Rams,11,SOLD,spacecitysportscollector
+Miami Dolphins,3,SOLD,vmoneysales
+Minnesota Vikings,25,SOLD,silentj0501
+New Orleans Saints,10,SOLD,vmoneysales
 New York Giants,25,SOLD,steph13s
-New York Jets,20,OPEN,
-Philadelphia Eagles,25,OPEN,
+New York Jets,8,SOLD,dungeondealz
+Philadelphia Eagles,11,SOLD,dungeondealz
 Pittsburgh Steelers,20,SOLD,05beau28
 San Francisco 49ers,30,SOLD,atimayo
-Seattle Seahawks,25,OPEN,
-Tampa Bay Buccaneers,25,OPEN,
-Tennessee Titans,30,OPEN,
+Seattle Seahawks,6,SOLD,scottval2
+Tampa Bay Buccaneers,15,SOLD,silentj0501
 Washington Commanders,50,SOLD,supa808

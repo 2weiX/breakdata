@@ -1,33 +1,36 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-Miscellaneous,,OPEN,
+Arizona Cardinals,23,SOLD,robnow34880
+Atlanta Falcons,16,SOLD,robnow34880
+Baltimore Ravens,19,SOLD,robnow34880
+Buffalo Bills,19,SOLD,letsgetthis23
+Carolina Panthers,17,SOLD,jaybonni
+Cincinnati Bengals,22,SOLD,nicksce
+Cleveland Browns,17,SOLD,vinny511
+Dallas Cowboys,26,SOLD,willbai93076
+Denver Broncos,16,SOLD,robnow34880
+Detroit Lions,26,SOLD,willbai93076
+Green Bay Packers,1,SOLD,matthewcoo31342
+Houston Texans,20,SOLD,willbai93076
+Indianapolis Colts,22,SOLD,willbai93076
+Jacksonville Jaguars,22,SOLD,robnow34880
+Kansas City Chiefs,18,SOLD,matthewcoo31342
+Las Vegas Raiders,18,SOLD,robnow34880
+Los Angeles Chargers,18,SOLD,willbai93076
+Los Angeles Rams,18,SOLD,matthewcoo31342
+Miami Dolphins,19,SOLD,kevbo915
+Minnesota Vikings,9,SOLD,willbai93076
+New England Patriots,17,SOLD,robnow34880
+New Orleans Saints,18,SOLD,jaybonni
+New York Giants,25,SOLD,vinny511
+New York Jets,19,SOLD,anthony082236
+Philadelphia Eagles,22,SOLD,kp315
+Pittsburgh Steelers,16,SOLD,matthewcoo31342
+San Francisco 49ers,25,SOLD,robnow34880
+Seattle Seahawks,61,SOLD,jaybonni
+Tampa Bay Buccaneers,19,SOLD,neeleyjl
+Tennessee Titans,27,SOLD,willbai93076
+Washington Commanders,24,SOLD,willha166
+Miscellaneous,17,SOLD,robnow34880
+#15,23,SOLD,willbai93076
+#19,20,SOLD,robnow34880
+#26,20,SOLD,willbai93076

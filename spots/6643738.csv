@@ -1,29 +1,29 @@
 spot,price,state,buyer
-#1,20,OPEN,
-#2,20,OPEN,
-#3,20,OPEN,
-#4,20,OPEN,
-#5,20,OPEN,
-#6,20,OPEN,
-#7,20,OPEN,
-#8,20,OPEN,
-#9,20,OPEN,
-#10,20,OPEN,
-#11,20,OPEN,
-#12,20,OPEN,
-#13,20,OPEN,
-#14,20,OPEN,
-#15,20,OPEN,
-#16,20,OPEN,
-#17,20,OPEN,
-#18,20,OPEN,
-#19,20,OPEN,
-#20,20,OPEN,
-#21,20,OPEN,
-#22,20,OPEN,
-#23,20,OPEN,
-#24,20,OPEN,
-#25,20,OPEN,
-#26,20,OPEN,
-#27,20,OPEN,
-#28,20,OPEN,
+Detroit Lions,20,SOLD,chipfis
+Kansas City Chiefs,17,SOLD,webernation
+Buffalo Bills,16,SOLD,nrtcards
+Denver Broncos,19,SOLD,matt102410
+Green Bay Packers,17,SOLD,chipfis
+Tennessee Titans,16,SOLD,chipfis
+Los Angeles Chargers,18,SOLD,chipfis
+New York Giants,20,SOLD,miller33313
+Las Vegas Raiders,20,SOLD,miller33313
+Los Angeles Rams,1,SOLD,vnamoon
+New England Patriots,20,SOLD,miller33313
+Atlanta Falcons,15,SOLD,vnamoon
+Cleveland Browns,18,SOLD,chipfis
+San Francisco 49ers,20,SOLD,webernation
+Jacksonville Jaguars,18,SOLD,chipfis
+Chicago Bears,16,SOLD,bigdelisportscards
+Miami Dolphins,10,SOLD,stuarthendricks
+Cincinnati Bengals,19,SOLD,stuarthendricks
+Washington Commanders,13,SOLD,stuarthendricks
+Indianapolis Colts,15,SOLD,chipfis
+Tampa Bay Buccaneers,17,SOLD,chipfis
+Baltimore Ravens,15,SOLD,stuarthendricks
+Houston Texans,15,SOLD,vnamoon
+Dallas Cowboys,20,SOLD,matt102410
+Philadelphia Eagles,15,SOLD,chipfis
+New York Jets,14,SOLD,chipfis
+Pittsburgh Steelers,15,SOLD,sda1001
+Carolina Panthers,13,SOLD,irishjim223

@@ -1,6 +1,6 @@
 spot,price,state,buyer
 Arizona Cardinals,195,OPEN,
-Atlanta Falcons,30,SOLD,ibuydumbthings
+Atlanta Falcons,30,OPEN,
 Baltimore Ravens,90,OPEN,
 Buffalo Bills,190,OPEN,
 Carolina Panthers,40,OPEN,
@@ -8,19 +8,19 @@ Chicago Bears,55,OPEN,
 Cincinnati Bengals,95,OPEN,
 Cleveland Browns,110,OPEN,
 Dallas Cowboys,85,OPEN,
-Denver Broncos,36,SOLD,bcrosson2
+Denver Broncos,45,OPEN,
 Detroit Lions,55,OPEN,
-Green Bay Packers,31.5,SOLD,ibuydumbthings
+Green Bay Packers,45,OPEN,
 Houston Texans,35,OPEN,
 Indianapolis Colts,35,OPEN,
-Jacksonville Jaguars,28,SOLD,ungargames
+Jacksonville Jaguars,35,OPEN,
 Kansas City Chiefs,185,OPEN,
 Las Vegas Raiders,295,OPEN,
 Los Angeles Chargers,40,OPEN,
 Los Angeles Rams,195,OPEN,
 Miami Dolphins,40,OPEN,
-Minnesota Vikings,32,SOLD,byrne14fun
-New England Patriots,60,SOLD,nhcardscollector
+Minnesota Vikings,40,OPEN,
+New England Patriots,75,OPEN,
 New Orleans Saints,95,OPEN,
 New York Giants,65,OPEN,
 New York Jets,65,OPEN,
@@ -28,6 +28,12 @@ Philadelphia Eagles,85,OPEN,
 Pittsburgh Steelers,95,OPEN,
 San Francisco 49ers,45,OPEN,
 Seattle Seahawks,75,OPEN,
-Tampa Bay Buccaneers,35,SOLD,brittanyy87894
+Tampa Bay Buccaneers,35,OPEN,
 Tennessee Titans,95,OPEN,
 Washington Commanders,55,OPEN,
+#6,55,SOLD,byrne14fun
+#10,45,SOLD,bcrosson2
+#12,45,SOLD,ibuydumbthings
+#15,35,SOLD,ungargames
+#21,40,SOLD,byrne14fun
+#22,75,SOLD,nhcardscollector

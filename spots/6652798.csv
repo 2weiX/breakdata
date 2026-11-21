@@ -1,39 +1,59 @@
 spot,price,state,buyer
-Chaser 1🔥,,OPEN,
-Chaser 2🔥,,OPEN,
-Chaser 3🔥,,OPEN,
-Chaser 4🔥,,OPEN,
-Chaser 5🔥,,OPEN,
-Chaser 6🔥,,OPEN,
-Chaser 7🔥,,OPEN,
-Chaser 8🔥,,OPEN,
-Chaser 9🔥,,OPEN,
-Chaser 10🔥,,OPEN,
-Chaser 11🔥,,OPEN,
-Chaser 12🔥,,OPEN,
-Chaser 13🔥,,OPEN,
-BILLS,,OPEN,
-PANTHERS,,OPEN,
-BENGALS,,OPEN,
-BROWNS,,OPEN,
-BRONCOS,,OPEN,
-LIONS,,OPEN,
-TEXANS,,OPEN,
-RAMS,,OPEN,
-PATRIOTS,,OPEN,
-SAINTS,,OPEN,
-JETS,,OPEN,
-EAGLES,,OPEN,
-STEELERS,,OPEN,
-49ERS,,OPEN,
-SEAHAWKS,,OPEN,
-BUCCANEERS,,OPEN,
-TITANS,,OPEN,
-COMMANDERS,,OPEN,
-SEC,,OPEN,
-BIG 12,,OPEN,
-ACC,,OPEN,
-BIG 10,,OPEN,
-INDEPENDENT,,OPEN,
-BIG SKY,,OPEN,
-HIGH SCHOOL,,OPEN,
+Chaser 1🔥,19,SOLD,class_a_sports
+Chaser 2🔥,13,SOLD,phinfan22
+Chaser 3🔥,16,SOLD,class_a_sports
+Chaser 4🔥,14,SOLD,scottchaney1974
+Chaser 5🔥,17,SOLD,joshuak2334
+Chaser 6🔥,13,SOLD,djmartymar3356
+Chaser 7🔥,14,SOLD,class_a_sports
+Chaser 8🔥,10,SOLD,jschaney2010
+Chaser 9🔥,24,SOLD,mwall77
+Chaser 10🔥,13,SOLD,davide24
+Chaser 11🔥,35,SOLD,raynorcom
+Chaser 12🔥,27,SOLD,class_a_sports
+Chaser 13🔥,26,SOLD,mwall77
+BILLS,26,SOLD,jschaney2010
+PANTHERS,3,SOLD,vandmcards68
+BENGALS,9,SOLD,rickyjones92598
+BROWNS,10,SOLD,rickyjones92598
+BRONCOS,9,SOLD,vandmcards68
+LIONS,16,SOLD,djmartymar3356
+TEXANS,3,SOLD,vandmcards68
+RAMS,7,SOLD,rickyjones92598
+PATRIOTS,20,SOLD,yobotjr85
+SAINTS,7,SOLD,class_a_sports
+JETS,9,SOLD,joshuak2334
+EAGLES,17,SOLD,yobotjr85
+STEELERS,17,SOLD,davide24
+49ERS,18,SOLD,joeljoe43304
+SEAHAWKS,8,SOLD,frydad34
+BUCCANEERS,2,SOLD,rickyjones92598
+TITANS,6,SOLD,frydad34
+COMMANDERS,17,SOLD,joeljoe43304
+SEC,14,SOLD,scottchaney1974
+BIG 12,7,SOLD,alhouser
+ACC,1,SOLD,frydad34
+BIG 10,33,SOLD,raynorcom
+INDEPENDENT,25,SOLD,mwall77
+BIG SKY,65,SOLD,davide24
+HIGH SCHOOL,16,SOLD,class_a_sports
+#3,15,SOLD,djmartymar3356
+#9,16,SOLD,djmartymar3356
+#10,17,SOLD,class_a_sports
+#12,19,SOLD,class_a_sports
+#14,18,SOLD,class_a_sports
+#16,13.5,SOLD,class_a_sports
+#19,7,SOLD,joshuak2334
+#21,48,SOLD,raynorcom
+#22,30,SOLD,raynorcom
+#23,38,SOLD,raynorcom
+#27,16,SOLD,jschaney2010
+#29,19,SOLD,raynorcom
+#31,13,SOLD,joshuak2334
+#32,16,SOLD,joshuak2334
+#33,16,SOLD,davide24
+#34,14,SOLD,davide24
+#35,20,SOLD,jschaney2010
+#39,8,SOLD,joshuak2334
+#41,13,SOLD,phinfan22
+#42,13,SOLD,phinfan22

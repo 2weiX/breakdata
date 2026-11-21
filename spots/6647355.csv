@@ -1,37 +1,26 @@
 spot,price,state,buyer
-Arizona Cardinals,49,OPEN,
-Atlanta Falcons,49,OPEN,
-Baltimore Ravens,49,OPEN,
-Buffalo Bills,49,OPEN,
-Carolina Panthers,49,OPEN,
-Cincinnati Bengals,49,OPEN,
-Dallas Cowboys,49,OPEN,
+Arizona Cardinals,39.2,SOLD,kragarrett29257
+Atlanta Falcons,49,SOLD,wichitawaxman
+Baltimore Ravens,13,SOLD,seansummers
+Carolina Panthers,40,SOLD,skipsqueek
+Cincinnati Bengals,49,SOLD,mocksmonsters
+Dallas Cowboys,41.65,SOLD,kragarrett29257
 Detroit Lions,49,SOLD,kylevel
-Green Bay Packers,49,OPEN,
-Houston Texans,49,OPEN,
-Indianapolis Colts,49,OPEN,
-Jacksonville Jaguars,49,OPEN,
+Jacksonville Jaguars,10,SOLD,seansummers
 Kansas City Chiefs,39.2,SOLD,cdubcards2014
-Las Vegas Raiders,49,OPEN,
-Los Angeles Rams,49,OPEN,
-Miami Dolphins,49,OPEN,
-Minnesota Vikings,49,OPEN,
-New England Patriots,49,OPEN,
-New Orleans Saints,49,OPEN,
-New York Giants,49,OPEN,
-New York Jets,49,OPEN,
-Philadelphia Eagles,49,OPEN,
-Pittsburgh Steelers,49,OPEN,
+Los Angeles Rams,49,SOLD,seansummers
+New England Patriots,35,SOLD,csousax603
+New Orleans Saints,41.65,SOLD,tylerkra52897
+New York Jets,14,SOLD,seansummers
 San Francisco 49ers,39.2,SOLD,cdubcards2014
-Seattle Seahawks,49,OPEN,
-Tampa Bay Buccaneers,49,OPEN,
-Tennessee Titans,49,OPEN,
-Washington Commanders,49,OPEN,
-ACC,249,OPEN,
+Tampa Bay Buccaneers,14,SOLD,seansummers
+Washington Commanders,49,SOLD,rat_poth
+ACC,149,SOLD,danfalk
 Big 12,199,SOLD,lfgsc
-PAC 12,99,OPEN,
-Big 10,199,OPEN,
-SEC,249,OPEN,
-G6 + Notre Dame,249,OPEN,
+PAC 12,99,SOLD,austin93592
+Big 10,160,SOLD,danfalk
+SEC,175,SOLD,csousax603
+G6 + Notre Dame,99,SOLD,danfalk
 Browns Broncos,75,SOLD,lfgsc
 Chicago Chargers,75,SOLD,3dubs
+Vikes Giants Texans Eagles Colts,196,SOLD,homestake

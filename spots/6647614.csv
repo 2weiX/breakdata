@@ -1,0 +1,9 @@
+spot,price,state,buyer
+"AFC WEST: Broncos, Chiefs, Raiders, Chargers",10,SOLD,xhitman
+"AFC EAST: Bills, Dolphins, Patriots, Jets",10,OPEN,
+"AFC NORTH: Ravens, Bengals, Browns, Steelers",10,OPEN,
+"NFC EAST: Cowboys, Eagles, Giants, Commanders",9,OPEN,
+"NFC NORTH: Bears, Lions, Packers, Vikings",9,OPEN,
+"AFC SOUTH: Texans, Colts, Jaguars, Titans",8,OPEN,
+"NFC SOUTH: Falcons, Panthers, Saints, Buccaneers",8,OPEN,
+"NFC WEST: Cardinals, Rams, 49ers, Seahawks",8,OPEN,
