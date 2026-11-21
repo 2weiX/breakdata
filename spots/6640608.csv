@@ -1,7 +1,6 @@
 spot,price,state,buyer
 Arizona Cardinals,35,OPEN,
 Atlanta Falcons,15,SOLD,crew911
-Baltimore Ravens,15,OPEN,
 Buffalo Bills,40,SOLD,freddog78
 Carolina Panthers,15,OPEN,
 Chicago Bears,24,SOLD,sjpeschke
@@ -31,3 +30,4 @@ Washington Commanders,20,OPEN,
 LIONS,30,SOLD,kyyoalien
 Minnesota Vikings,13.5,SOLD,tylersam90770
 Seattle Seahawks,14,SOLD,cashcards910
+Baltimore Ravens,11,SOLD,alexandercas34207

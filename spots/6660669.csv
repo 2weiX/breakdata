@@ -1,2 +1,39 @@
 spot,price,state,buyer
-#1,1,OPEN,
+San Francisco 49ers,53,SOLD,kadyndil
+Buffalo Bills,53,SOLD,scw2step
+Cleveland Browns,53,SOLD,scw2step
+#4,53,SOLD,kodyejohn
+Minnesota Vikings,56,SOLD,vectorcts
+#6,62,SOLD,vectorcts
+Atlanta Falcons,58,SOLD,kadyndil
+#8,56,SOLD,gridirongallery
+Dallas Cowboys,65,SOLD,vectorcts
+Los Angeles Chargers,59,SOLD,kadyndil
+New York Giants,83,SOLD,vectorcts
+Cincinnati Bengals,74,SOLD,slabhappy77
+#13,73,SOLD,slabhappy77
+Chicago Bears,71,SOLD,zerbe70
+Baltimore Ravens,70,SOLD,gridirongallery
+New York Jets,72,SOLD,wilziah
+Las Vegas Raiders,71,SOLD,wilziah
+Tennessee Titans,45,SOLD,aswupr
+Kansas City Chiefs,82,SOLD,wilziah
+Green Bay Packers,78,SOLD,aswupr
+Los Angeles Rams,75,SOLD,jmastin1931
+Denver Broncos,65,SOLD,marineoorah
+New England Patriots,68,SOLD,marineoorah
+Pittsburgh Steelers,58,SOLD,jmastin1931
+Arizona Cardinals,66,SOLD,jmastin1931
+Jacksonville Jaguars,82,SOLD,michaelmic88252
+Philadelphia Eagles,81,SOLD,jmastin1931
+Washington Commanders,47,SOLD,jmastin1931
+#30,1,SOLD,jmastin1931
+Detroit Lions,26,SOLD,jmastin1931
+Houston Texans,37,SOLD,jmastin1931
+MISC,50,SOLD,wilziah
+Tampa Bay Buccaneers,34,SOLD,michaelmic88252
+Seattle Seahawks,4,SOLD,sladerade
+Carolina Panthers,3,SOLD,sladerade
+New Orleans Saints,3,SOLD,slabhappy77
+Miami Dolphins,1,SOLD,slabhappy77
+Indianapolis Colts,3,SOLD,aswupr

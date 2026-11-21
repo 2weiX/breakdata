@@ -1,33 +1,37 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+#1,53,SOLD,foose1324
+#2,33,SOLD,armlim
+Kansas City Chiefs,30,SOLD,bobbyjam60825
+Arizona Cardinals,36,SOLD,bobbyjam60825
+Pittsburgh Steelers,30,SOLD,syke15
+Las Vegas Raiders,28,SOLD,schmeatwagon
+Buffalo Bills,36,SOLD,bobbyjam60825
+Tennessee Titans,34,SOLD,upsdad701
+Denver Broncos,31,SOLD,elvinx22
+New York Giants,39,SOLD,jasonianazzi09
+San Francisco 49ers,32,SOLD,jasonianazzi09
+#12,56,SOLD,jasonianazzi09
+Tampa Bay Buccaneers,41,SOLD,bobbyjam60825
+Carolina Panthers,43,SOLD,dynodaxxxcards
+Detroit Lions,50,SOLD,dynodaxxxcards
+New York Jets,48,SOLD,dynodaxxxcards
+New England Patriots,49,SOLD,dynodaxxxcards
+Minnesota Vikings,50,SOLD,dmoore1018
+Los Angeles Rams,49,SOLD,dmoore1018
+Philadelphia Eagles,34,SOLD,armlim
+Seattle Seahawks,38,SOLD,armlim
+Chicago Bears,24,SOLD,schmeatwagon
+Green Bay Packers,44,SOLD,armlim
+Dallas Cowboys,35,SOLD,elvinx22
+Atlanta Falcons,40,SOLD,joben5200
+New Orleans Saints,17,SOLD,elvinx22
+Jacksonville Jaguars,27,SOLD,elvinx22
+Baltimore Ravens,27,SOLD,bobbyjam60825
+Cleveland Browns,27,SOLD,bobbyjam60825
+Washington Commanders,44,SOLD,shin_y
+Los Angeles Chargers,45,SOLD,dmoore1018
+Miami Dolphins,51,SOLD,syke15
+Indianapolis Colts,52,SOLD,shin_y
+#34,80,SOLD,foose1324
+Houston Texans,69,SOLD,dmoore1018
+Cincinnati Bengals,77,SOLD,dmoore1018

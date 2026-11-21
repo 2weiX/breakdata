@@ -1,15 +1,11 @@
 spot,price,state,buyer
-Arizona Cardinals,49,OPEN,
 Atlanta Falcons,23,OPEN,
 Baltimore Ravens,35,OPEN,
 Buffalo Bills,39,SOLD,stickyfingerssports
-Carolina Panthers,35,OPEN,
-Chicago Bears,49,OPEN,
 Cincinnati Bengals,30,SOLD,rileymil27376
 Cleveland Browns,18,OPEN,
 Denver Broncos,28,SOLD,rileymil27376
 Green Bay Packers,20.5,SOLD,vegasrob23
-Houston Texans,17,OPEN,
 Indianapolis Colts,17,OPEN,
 Jacksonville Jaguars,24,OPEN,
 Las Vegas Raiders,49,SOLD,jason30643
@@ -17,12 +13,9 @@ Los Angeles Chargers,29,OPEN,
 Los Angeles Rams,45,SOLD,2sonscards
 Miami Dolphins,16.15,SOLD,garvian
 Minnesota Vikings,25,OPEN,
-New England Patriots,45,OPEN,
 New Orleans Saints,29,OPEN,
-Philadelphia Eagles,35,OPEN,
 Pittsburgh Steelers,20,SOLD,biggdogg99
 Seattle Seahawks,39,OPEN,
-Tampa Bay Buccaneers,35,OPEN,
 Tennessee Titans,39,OPEN,
 Washington Commanders,25,OPEN,
 DETROIT LIONS,25.2,SOLD,garvian
@@ -30,3 +23,9 @@ Dallas Cowboys,32,SOLD,douglald21
 New York Giants,23,SOLD,steph13s
 New York Jets,11.99,SOLD,garvian
 San Francisco 49ers,24,SOLD,rileymil27376
+Arizona Cardinals,45,OPEN,
+Carolina Panthers,30,OPEN,
+Chicago Bears,41.65,SOLD,cardsfan87
+Philadelphia Eagles,32,OPEN,
+Tampa Bay Buccaneers,25,SOLD,jason30643
+"NEW ENGLAND PATRIOTS , HOUSTON TEXANS",49,SOLD,lordfawquad

@@ -1,6 +1,5 @@
 spot,price,state,buyer
 Arizona Cardinals,65,OPEN,
-Atlanta Falcons,20,OPEN,
 Baltimore Ravens,35,OPEN,
 Buffalo Bills,40,SOLD,hallshobbyhouse
 Carolina Panthers,25,OPEN,
@@ -11,7 +10,6 @@ Dallas Cowboys - Reserved craigjaq,26,SOLD,craigjaq
 Denver Broncos,35,OPEN,
 Detroit Lions,30,OPEN,
 Green Bay Packers,35,OPEN,
-Houston Texans,15,OPEN,
 Indianapolis Colts,20,OPEN,
 Jacksonville Jaguars,22.5,SOLD,cardboardandchill
 Kansas City Chiefs,44,SOLD,84sportscards
@@ -31,3 +29,5 @@ Seattle Seahawks,35,OPEN,
 Tampa Bay Buccaneers - Reserved 727kickz,28,SOLD,727kickz
 Tennessee Titans,35,SOLD,jhoff_coach
 Washington Commanders,30,OPEN,
+Atlanta Falcons,15,SOLD,angel80nitto
+Houston Texans,12,SOLD,angel80nitto

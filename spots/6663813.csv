@@ -1,33 +1,31 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+Washington Commanders,3,SOLD,schmexlenny
+Tennessee Titans,4,SOLD,soenke23
+Buffalo Bills,4,SOLD,derwirth
+New England Patriots,3,SOLD,nicklassch1898
+Cleveland Browns,4,SOLD,schmexlenny
+Denver Broncos,4,SOLD,soenke23
+Cincinnati Bengals,4,SOLD,schmexlenny
+Carolina Panthers,4,SOLD,derwirth
+Jacksonville Jaguars,4,SOLD,soenke23
+Kansas City Chiefs,4,SOLD,schmexlenny
+New York Jets,4,SOLD,derwirth
+Dallas Cowboys,4,SOLD,soenke23
+Houston Texans,4,SOLD,butkau
+Tampa Bay Buccaneers,3,SOLD,nicklassch1898
+Philadelphia Eagles,4,SOLD,butkau
+Las Vegas Raiders,3,SOLD,nicklassch1898
+New Orleans Saints,4,SOLD,derwirth
+Los Angeles Chargers,4,SOLD,soenke23
+Los Angeles Rams,5,SOLD,morle888mor
+Miami Dolphins,5,SOLD,morle888mor
+Baltimore Ravens,6,SOLD,morle888mor
+New York Giants,5,SOLD,bokeeh
+Pittsburgh Steelers,7,SOLD,morle888mor
+Chicago Bears,7,SOLD,soenke23
+Arizona Cardinals,6,SOLD,morle888mor
+Seattle Seahawks,6,SOLD,morle888mor
+Green Bay Packers,6,SOLD,soenke23
+Indianapolis Colts,6,SOLD,morle888mor
+Minnesota Vikings,6,SOLD,butkau
+#30,1,OPEN,

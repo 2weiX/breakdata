@@ -1,6 +1,44 @@
 spot,price,state,buyer
 #1,710,SOLD,chambergs
-Baltimore Ravens,541,SOLD,eyelaser
-Washington Commanders,581,SOLD,jfo18041
 New England Patriots,581,SOLD,eyelaser
-#5,1,OPEN,
+#2,541,SOLD,eyelaser
+Buffalo Bills,581,SOLD,jfo18041
+Los Angeles Rams,711,SOLD,eyelaser
+Minnesota Vikings,745,SOLD,eyelaser
+Tennessee Titans,733,SOLD,jfo18041
+MISC.,575,SOLD,ghoem5
+Dallas Cowboys,733,SOLD,ghoem5
+Cleveland Browns,535,SOLD,sharrison723
+#11,425,SOLD,adubbs28
+#12,600,SOLD,ghoem5
+#13,600,SOLD,jfo18041
+#14,655,SOLD,eyelaser
+#15,545,SOLD,ghoem5
+Cincinnati Bengals,545,SOLD,ghoem5
+Baltimore Ravens,561,SOLD,boston8899
+Chicago Bears,550,SOLD,boston8899
+#19,698,SOLD,incognit0
+Los Angeles Chargers,539,SOLD,boston8899
+Philadelphia Eagles,450,SOLD,incognit0
+Detroit Lions,361,SOLD,adubbs28
+#23,410,SOLD,boston8899
+New York Giants,505,SOLD,incognit0
+Denver Broncos,295,SOLD,jcable8
+Jacksonville Jaguars,287,SOLD,jcable8
+Kansas City Chiefs,455,SOLD,jcable8
+Washington Commanders,311,SOLD,jcable8
+New Orleans Saints,375,SOLD,jcable8
+Arizona Cardinals,295,SOLD,jcable8
+New York Jets,320,SOLD,ghoem5
+Atlanta Falcons,320,SOLD,adubbs28
+Tampa Bay Buccaneers,336,SOLD,jfo18041
+#34,340,SOLD,jfo18041
+Houston Texans,1,SOLD,sharrison723
+Carolina Panthers,35,SOLD,incognit0
+Las Vegas Raiders,19,SOLD,nickyp6800
+Seattle Seahawks,22,SOLD,frankiedots
+Indianapolis Colts,34,SOLD,boston8899
+Miami Dolphins,15,SOLD,lynkramer1
+Green Bay Packers,358,SOLD,nickyp6800
+Pittsburgh Steelers,1340,SOLD,pokinets
+San Francisco 49ers,1415,SOLD,pokinets

@@ -1,7 +1,5 @@
 spot,price,state,buyer
 Arizona Cardinals,10,SOLD,rynoo23
-Atlanta Falcons,8,OPEN,
-Baltimore Ravens,8,OPEN,
 Buffalo Bills/Jags/phins,20,SOLD,grigorenkofam5
 Carolina Panthers,8,SOLD,rynoo23
 Chicago Bears,8,SOLD,frankbre78
@@ -9,38 +7,36 @@ Cincinnati Bengals,8,SOLD,sops_25
 Cleveland Browns,8,SOLD,cbright85
 Dallas Cowboys,10,SOLD,dobettercards
 Denver Broncos,6,SOLD,krazykbreaks
-Detroit Lions,8,OPEN,
 Green Bay Packers,8,SOLD,sops_25
-Houston Texans,6,OPEN,
-Indianapolis Colts,8,OPEN,
 Kansas City Chiefs,8,SOLD,browtine
 Las Vegas Raiders,12,SOLD,browtine
-Los Angeles Chargers,8,OPEN,
 Los Angeles Rams,10,SOLD,jakebreakslv
 New England Patriots,10,SOLD,rynoo23
 New Orleans Saints,8,SOLD,legacy_breaks
 New York Giants,10,SOLD,rynoo23
-New York Jets,8,OPEN,
-Philadelphia Eagles,8,OPEN,
-Pittsburgh Steelers,8,OPEN,
 San Francisco 49ers,6.4,SOLD,johnjoh75334
 Tampa Bay Buccaneers,8,SOLD,frankbre78
-Tennessee Titans,8,OPEN,
-Washington Commanders,8,OPEN,
-Byu/Cal,8,OPEN,
 Georgia/LSU/USC/Washington/Seahawks ,20,SOLD,ahousedividedcards
 Illinios/Indiana,6,SOLD,dobettercards
-Kentucky/KState,6,OPEN,
-Miami/Missouri/Montana,8,OPEN,
 Notre Dame,8,SOLD,rynoo23
 Texas/Tech/A&M/Houston,10,SOLD,dobettercards
-Penn St/Rutgers,6,OPEN,
 Oregon,5.6,SOLD,dobettercards
-Ole Miss/Nebraska,8,OPEN,
 Ohio State,6.4,SOLD,johnjoh75334
 Alabama,5,SOLD,krazykbreaks
 Oklahoma/State,8,SOLD,jakebreakslv
 Clemson/FSU/Tenn./Stanford,8,SOLD,dobettercards
-South Carolina/SMU,6,OPEN,
 Minnesota Vikings,5.6,SOLD,frankbre78
 Michigan/MSU,8,SOLD,ndhockeygirlcards
+Atlanta Falcons/penn st/rutgers,12,SOLD,grigorenkofam5
+Baltimore Ravens,8,SOLD,mattleg20015
+Detroit Lions,6,SOLD,amandanor22162
+Indianapolis Colts,6,SOLD,mattleg20015
+Los Angeles Chargers,4,SOLD,billyblasto
+New York Jets,7,SOLD,billyblasto
+Philadelphia Eagles,8,SOLD,amandanor22162
+Pittsburgh Steelers,6,SOLD,billyblasto
+Tennessee Titans,8,SOLD,1swapshop
+Washington Commanders,7,SOLD,amandanor22162
+Byu/Cal/Miami/Missouri/Montana/ole miss/Nebraska,22,SOLD,mattleg20015
+Kentucky/KState,6,SOLD,madwaxbreaks
+South Carolina/SMU,6,SOLD,billyblasto
