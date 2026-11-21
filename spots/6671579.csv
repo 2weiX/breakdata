@@ -1,44 +1,45 @@
 spot,price,state,buyer
-Baltimore Ravens,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Pittsburgh Steelers,,OPEN,
-Atlanta Falcons,,OPEN,
-New Orleans Saints,,OPEN,
-Seattle Seahawks,,OPEN,
-Los Angelos Rams,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-New England Patriots,,OPEN,
-Miami Dolphins,,OPEN,
-Buffalo Bills,,OPEN,
-Houston Texans,,OPEN,
-Indiannapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Tennessee Titans,,OPEN,
-Tampa Bay Buccanneers,,OPEN,
-Dallas Cowboys,,OPEN,
-San Fransisco 49ers,,OPEN,
-Carolina Panthers,,OPEN,
-Los Angelos Chargers,,OPEN,
-Las Vegas Raiders,,OPEN,
-Kansas City Chiefs,,OPEN,
-Denver Broncos,,OPEN,
-Chicago Bears,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Minnesota Vikings,,OPEN,
-Washington Commanders,,OPEN,
-Philladelphia Eagles,,OPEN,
-Arizona Cardinals,,OPEN,
-AAC,,OPEN,
-Conference Usa,,OPEN,
-MW,,OPEN,
-SBC,,OPEN,
-Pac 12,,OPEN,
-Mac+ Jackson St.,,OPEN,
-Independent (ND),,OPEN,
-Big 10,,OPEN,
-ACC,,OPEN,
-BIG 12,,OPEN,
-SEC,,OPEN,
+New England Patriots,4,SOLD,boybrew
+Dallas Cowboys,10,SOLD,boybrew
+Las Vegas Raiders,12,SOLD,boybrew
+ACC,1,SOLD,burgess_moody
+Detroit Lions,11,SOLD,boybrew
+Carolina Panthers,14,SOLD,burgess_moody
+Denver Broncos,7,SOLD,boybrew
+Chicago Bears,3,SOLD,boybrew
+Buffalo Bills,15,SOLD,boybrew
+Kansas City Chiefs,13,SOLD,burgess_moody
+Independent (ND),1,SOLD,boybrew
+#12,14,SOLD,dustemall41
+New Orleans Saints,1,SOLD,boybrew
+SEC,15,SOLD,burgess_moody
+Big 10,15,SOLD,boybrew
+San Fransisco 49ers,15,SOLD,boybrew
+Cincinnati Bengals,15,SOLD,burgess_moody
+Los Angelos Chargers,15,SOLD,boybrew
+Pittsburgh Steelers,15,SOLD,boybrew
+Arizona Cardinals,15,SOLD,boybrew
+Tennessee Titans,15,SOLD,boybrew
+Seattle Seahawks,15,SOLD,boybrew
+Houston Texans,15,SOLD,boybrew
+AAC,15,SOLD,boybrew
+Jacksonville Jaguars,15,SOLD,boybrew
+Pac 12,15,SOLD,boybrew
+Atlanta Falcons,15,SOLD,boybrew
+Green Bay Packers,15,SOLD,boybrew
+Washington Commanders,15,SOLD,boybrew
+BIG 12,15,SOLD,krisfrancardz
+New York Giants,15,SOLD,krisfrancardz
+Philladelphia Eagles,15,SOLD,boybrew
+Cleveland Browns,9,SOLD,boybrew
+MW,8,SOLD,burgess_moody
+Indiannapolis Colts,5,SOLD,boybrew
+Mac+ Jackson St.,1,SOLD,boybrew
+Tampa Bay Buccanneers,9,SOLD,burgess_moody
+Los Angelos Rams,10,SOLD,jwisor84
+SBC,5,SOLD,jwisor84
+Baltimore Ravens,8,SOLD,jwisor84
+Miami Dolphins,6,SOLD,jwisor84
+New York Jets,5,SOLD,jwisor84
+Conference Usa,6,SOLD,jwisor84
+Minnesota Vikings,6,SOLD,brandonblunk
