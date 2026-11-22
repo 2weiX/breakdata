@@ -1,17 +1,43 @@
 spot,price,state,buyer
-#1,505,SOLD,jeffreyjef29677
-#2,570,SOLD,jeffreyjef29677
-#3,616,SOLD,jeffreyjef29677
-#4,682,SOLD,josalk
-#5,750,SOLD,jeffreyjef29677
-#6,782,SOLD,jeffreyjef29677
 #7,738,SOLD,josalk
-#8,712,SOLD,jeffreyjef29677
-#9,685,SOLD,jeffreyjef29677
-#10,567,SOLD,jbethree_805
-#11,617,SOLD,jeffreyjef29677
-#12,608,SOLD,jeffreyjef29677
-#13,598,SOLD,jeffreyjef29677
-#14,460,SOLD,jbethree_805
 #15,155,SOLD,father_sonsportscards17
 #16,400,SOLD,justmissmith
+Cleveland Browns,505,SOLD,jeffreyjef29677
+New England Patriots,570,SOLD,jeffreyjef29677
+New York Giants,616,SOLD,jeffreyjef29677
+Tampa Bay Buccaneers,682,SOLD,josalk
+Pittsburgh Steelers,750,SOLD,jeffreyjef29677
+San Francisco 49ers,782,SOLD,jeffreyjef29677
+Philadelphia Eagles,712,SOLD,jeffreyjef29677
+Green Bay Packers,685,SOLD,jeffreyjef29677
+Carolina Panthers,567,SOLD,jbethree_805
+Cincinnati Bengals,617,SOLD,jeffreyjef29677
+Kansas City Chiefs,608,SOLD,jeffreyjef29677
+Dallas Cowboys,598,SOLD,jeffreyjef29677
+Detroit Lions,460,SOLD,jbethree_805
+Los Angeles Rams,430,SOLD,jbethree_805
+Denver Broncos,400,SOLD,father_sonsportscards17
+Washington Commanders,362,SOLD,805_collectibles
+Minnesota Vikings,478,SOLD,jeffreyjef29677
+#21,416,SOLD,jeffreyjef29677
+#22,410,SOLD,jeffreyjef29677
+#23,340,SOLD,jeffreyjef29677
+Los Angeles Chargers,393,SOLD,jeffreyjef29677
+Buffalo Bills,322,SOLD,father_sonsportscards17
+#26,327,SOLD,hobbyhouse_dev
+#27,355,SOLD,hobbyhouse_dev
+#28,352,SOLD,hobbyhouse_dev
+#29,420,SOLD,hobbyhouse_dev
+Chicago Bears,404,SOLD,hobbyhouse_dev
+Las Vegas Raiders,204,SOLD,bige1723
+Baltimore Ravens,198,SOLD,chiefs311982
+Indianapolis Colts,141,SOLD,bwingle12
+New York Jets,111,SOLD,ricsta98435
+Seattle Seahawks,210,SOLD,chiefs311982
+Tennessee Titans,130,SOLD,_dmsii_
+MISC,191,SOLD,chiefs311982
+Houston Texans,145,SOLD,_dmsii_
+Jacksonville Jaguars,67,SOLD,bwingle12
+Arizona Cardinals,51,SOLD,ricsta98435
+Atlanta Falcons,26,SOLD,bwingle12
+"Miami Dolphins, New Orleans Saints",31,SOLD,ricsta98435
