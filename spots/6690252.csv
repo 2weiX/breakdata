@@ -1,0 +1,35 @@
+spot,price,state,buyer
+#1,28,SOLD,maindrain
+Dallas Cowboys,32,SOLD,maindrain
+Los Angeles Chargers,30,SOLD,mbf12342000
+#4,32,SOLD,maindrain
+Atlanta Falcons,42,SOLD,maw8216
+Chicago Bears,52,SOLD,maw8216
+Kansas City Chiefs,37,SOLD,maindrain
+Denver Broncos,38,SOLD,maindrain
+#9,32,SOLD,mbf12342000
+#10,42,SOLD,maindrain
+New York Giants,32,SOLD,mbf12342000
+Green Bay Packers,34,SOLD,maindrain
+San Francisco 49ers,32,SOLD,mbf12342000
+#14,32,SOLD,maindrain
+Los Angeles Rams,34,SOLD,maindrain
+Buffalo Bills,30,SOLD,maindrain
+Tampa Bay Buccaneers,32,SOLD,mbf12342000
+#18,28,SOLD,maindrain
+Las Vegas Raiders,39,SOLD,maw8216
+Pittsburgh Steelers,29,SOLD,maindrain
+Baltimore Ravens,25,SOLD,mbf12342000
+Jacksonville Jaguars,30,SOLD,maindrain
+Miami Dolphins,25,SOLD,maindrain
+Indianapolis Colts,24,SOLD,mbf12342000
+New Orleans Saints,27,SOLD,maindrain
+Cleveland Browns,33,SOLD,maindrain
+Seattle Seahawks,30,SOLD,maindrain
+Houston Texans,25,SOLD,nlumblo
+Tennessee Titans,25,SOLD,mbf12342000
+Arizona Cardinals,27,SOLD,dakinepulls808
+Detroit Lions,26,SOLD,dakinepulls808
+Carolina Panthers,30,SOLD,przjoh
+Cincinnati Bengals,34,SOLD,przjoh
+#34,1,OPEN,

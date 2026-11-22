@@ -1,33 +1,31 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+Cleveland Browns,5,SOLD,wildstreaker
+Atlanta Falcons,5,SOLD,wildstreaker
+Dallas Cowboys,4,SOLD,wildstreaker
+Los Angeles Rams,5,SOLD,wildstreaker
+Indianapolis Colts,5,SOLD,wildstreaker
+Detroit Lions,6,SOLD,shadgeg
+San Francisco 49ers,6,SOLD,wildstreaker
+Arizona Cardinals,9,SOLD,travbry
+Los Angeles Chargers,7,SOLD,shadgeg
+Minnesota Vikings,7,SOLD,travbry
+"New Orleans Saints, Tampa Bay Buccaneers",16,SOLD,shadgeg
+"Baltimore Ravens, Kansas City Chiefs",17,SOLD,travbry
+New England Patriots,7,SOLD,wildstreaker
+Houston Texans,7,SOLD,wildstreaker
+Las Vegas Raiders,7,SOLD,wildstreaker
+Washington Commanders,6,SOLD,wildstreaker
+Seattle Seahawks,7,SOLD,grahamsgems
+Green Bay Packers,8,SOLD,wildstreaker
+Tennessee Titans,13,SOLD,chrislin48213
+Miami Dolphins,7,SOLD,wildstreaker
+Carolina Panthers,8,SOLD,grahamsgems
+New York Giants,8,SOLD,chrislin48213
+Jacksonville Jaguars,8,SOLD,grahamsgems
+Chicago Bears,8,SOLD,grahamsgems
+Cincinnati Bengals,7,SOLD,jason32998
+Philadelphia Eagles,6,SOLD,grahamsgems
+Denver Broncos,8,SOLD,grahamsgems
+Buffalo Bills,10,SOLD,grahamsgems
+New York Jets,6,SOLD,ricocha46065
+Pittsburgh Steelers,6,SOLD,ricocha46065

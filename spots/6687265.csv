@@ -1,7 +1,6 @@
 spot,price,state,buyer
 Arizona Cardinals,20,OPEN,
 Baltimore Ravens,6,OPEN,
-Carolina Panthers,4,OPEN,
 Chicago Bears,8,OPEN,
 Cincinnati Bengals,7,SOLD,bgpoppa
 Dallas Cowboys,14,OPEN,
@@ -22,3 +21,4 @@ Tennessee Titans,19,OPEN,
 "BILLS, COMMANDERS, STEELERS",20,SOLD,bgpoppa
 "GIANTS, BILLS",15,SOLD,williamyet
 "BROWNS, PATS, TEXANS, RAMS, FALCONS",26,SOLD,hotchubbtimemachine
+Carolina Panthers,4,SOLD,nickgideon

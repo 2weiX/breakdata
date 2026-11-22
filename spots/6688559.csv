@@ -1,34 +1,38 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-Miscellaneous,,OPEN,
+#1,110,SOLD,ctsmancavebreaks
+Atlanta Falcons,108,SOLD,dannydubcards
+Tennessee Titans,115,SOLD,kevcox
+Kansas City Chiefs,115,SOLD,brphil
+Green Bay Packers,102,SOLD,mjskradski
+Los Angeles Rams,134,SOLD,kevcox
+New York Jets,94,SOLD,brphil
+Seattle Seahawks,94,SOLD,brphil
+Cincinnati Bengals,92,SOLD,ctsmancavebreaks
+Baltimore Ravens,102,SOLD,ctsmancavebreaks
+Minnesota Vikings,100,SOLD,tyb1659
+New York Giants,129,SOLD,willriv43766
+Pittsburgh Steelers,99,SOLD,brphil
+Denver Broncos,86,SOLD,jaybonni
+Philadelphia Eagles,111,SOLD,amgsportsrips
+#16,117,SOLD,macdav64878
+Jacksonville Jaguars,150,SOLD,mvfh6b7kkq
+Buffalo Bills,130,SOLD,amgsportsrips
+San Francisco 49ers,116,SOLD,macdav64878
+Arizona Cardinals,108,SOLD,amgsportsrips
+#21,110,SOLD,werbee91
+#22,130,SOLD,bhall515
+Detroit Lions,140,SOLD,bhall515
+Los Angeles Chargers,130,SOLD,amgsportsrips
+Miscellaneous,135,SOLD,werbee91
+Indianapolis Colts,150,SOLD,mvfh6b7kkq
+Cleveland Browns,147,SOLD,yourbos
+Las Vegas Raiders,140,SOLD,yourbos
+Chicago Bears,135,SOLD,bhall515
+Washington Commanders,93,SOLD,mvfh6b7kkq
+Miami Dolphins,98,SOLD,yourbos
+New Orleans Saints,94,SOLD,brandonkurskiaz
+Carolina Panthers,98,SOLD,bhall515
+New England Patriots,126,SOLD,bhall515
+Tampa Bay Buccaneers,94,SOLD,werbee91
+Houston Texans,101,SOLD,jaybonni
+Dallas Cowboys,160,SOLD,jaybonni

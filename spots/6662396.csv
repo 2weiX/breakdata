@@ -1,12 +1,9 @@
 spot,price,state,buyer
 Fernando Mendoza (RR) (GG) (KAIJU) (IV) (ETCH) (UV) (91 AUTO) (AUTO x2) (DUAL),19999,OPEN,
 Patrick Mahomes II (IV) (GG) (ETCH) (UV),19999,OPEN,
-Caleb Williams (IV) (UV) (91 AUTO) (AUTO),14999,OPEN,
 Tom Brady (IV) (KAIJU) (UV) (AUTO x3),14999,OPEN,
 Jaxon Smith-Njigba (IV) (MADDEN) (ETCH) (SBAN) (UV) (AUTO) (DUAL) (GOLD SHIELD AUTO) (GOLD SHIELD) (PREM1ERE),11999,OPEN,
-Drake Maye (IV) (HELIX) (KAIJU) (ETCH) (SBAN) (TECMO),10799,OPEN,
 Joe Burrow (IV) (GG) (TECMO) (AUTO x2) (DUAL) (TECMO AUTO),9599,OPEN,
-Josh Allen (IV) (GG) (HELIX) (MADDEN) (ETCH) (UV) (AUTO),9599,OPEN,
 Bo Nix (KAIJU) (ETCH) (91 AUTO) (AUTO) (DUAL) (PREM1ERE),8999,OPEN,
 Jayden Daniels (91 AUTO) (AUTO) (PREM1ERE),8399,OPEN,
 CJ Stroud (IV) (GG) (PREM1ERE),7199,OPEN,
@@ -19,7 +16,6 @@ Bryce Young (IV) (GG) (HELIX) (91 AUTO) (AUTO) (DUAL) (PREM1ERE),5999,OPEN,
 Puka Nacua (AUTO) (PREM1ERE),5999,OPEN,
 Tetairoa McMillan (ETCH) (AUTO x2) (DUAL) (GOLD SHIELD AUTO) (GOLD SHIELD),5999,OPEN,
 Carnell Tate (RR) (GG) (HELIX) (KAIJU) (IV) (UV) (91 AUTO) (AUTO x2) (DUAL),5999,OPEN,
-Jeremiyah Love (RR) (GG) (HELIX) (KAIJU) (IV) (ETCH) (UV) (91 AUTO) (AUTO x2) (DUAL),5999,OPEN,
 Carson Beck (RR) (IV) (DUAL) (AUTO),4799,OPEN,
 Jaxson Dart (IV) (91 AUTO) (AUTO x2),4799,OPEN,
 Ty Simpson (RR) (GG) (HELIX) (IV) (UV) (91 AUTO) (AUTO x2) (DUAL),4799,OPEN,
@@ -30,7 +26,6 @@ Malik Nabers (AUTO),2399,OPEN,
 Drew Allar (RR) (IV) (AUTO),2399,OPEN,
 Jerry Rice (IV) (HELIX) (TECMO) (AUTO) (TECMO AUTO),2399,OPEN,
 Justin Jefferson (IV) (KAIJU) (TECMO) (AUTO) (TECMO AUTO),2000,SOLD,rippinthecity
-Lamar Jackson (IV) (KAIJU),2399,OPEN,
 Zay Flowers (AUTO) (PREM1ERE),1800,OPEN,
 Ja'Marr Chase (MADDEN) (ETCH) (91 AUTO) (DUAL),1799,OPEN,
 Jalen Hurts (IV) (AUTO) (DUAL),1799,OPEN,
@@ -45,36 +40,39 @@ Dak Prescott (IV) (GG) (HELIX) (KAIJU) (ETCH) (AUTO) (DUAL),1799,OPEN,
 Jared Goff (IV) (ETCH) (91 AUTO) (AUTO),1799,OPEN,
 Cade Klubnik (RR) (AUTO),1320,OPEN,
 Christian McCaffrey (UV) (91 AUTO) (AUTO),1199,OPEN,
-Denzel Boston (RR) (IV) (DUAL) (AUTO),1019,OPEN,
 Derrick Henry (TECMO) (UV) (AUTO) (TECMO AUTO),1019,OPEN,
-Jadarian Price (RR) (IV) (AUTO),1019,OPEN,
 Makai Lemon (RR) (GG) (HELIX) (IV) (UV) (AUTO x2),720,SOLD,203sportscollectibles
 Michael Penix Jr. (PREM1ERE),1019,OPEN,
-Peyton Manning (AUTO),1019,OPEN,
 Xavier Worthy (91 AUTO) (AUTO) (PREM1ERE),1019,OPEN,
 CeeDee Lamb (UV) (AUTO x2) ,500,SOLD,benyod60
-Cam Little (PREM1ERE),899,OPEN,
-Cam Ward (91 AUTO) (AUTO x2),870,OPEN,
 Aaron Rodgers (IV) (GG) (AUTO),690,SOLD,rippinthecity
-Brian Thomas Jr. (AUTO x2) (PREM1ERE),690,OPEN,
 Caleb Downs (RR) (IV) (DUAL) (AUTO),420,SOLD,203sportscollectibles
 Sam Darnold (GG) (HELIX) (SBAN) (91 AUTO) (DUAL),450,SOLD,travispic14051
-Jalen Coker (PREM1ERE),599,OPEN,
 Ladd McConkey (AUTO) (PREM1ERE),200,SOLD,benyod60
 Arvell Reese (RR) (IV) (DUAL) (AUTO),420,SOLD,njbourbonhunter
 Bo Jackson (AUTO),375,SOLD,dno369
 Christian Gonzalez (SBAN) (PREM1ERE),300,SOLD,hoooorob
 Drew Brees (AUTO) (DUAL),250,SOLD,cardzers
-Michael Wilson (AUTO) (PREM1ERE),599,OPEN,
 Randy Moss (AUTO),230,SOLD,shandonn
 Sonny Styles (RR) (IV) (AUTO),479.2,SOLD,203sportscollectibles
 George Kittle (IV) (UV) Dan Marino (IV) (AUTO),600,SOLD,hellfire33
-Blake Corum (PREM1ERE),599,OPEN,
-Dalton Kincaid (PREM1ERE),599,OPEN,
 Emeka Egbuka (91 AUTO) (AUTO x3),320,SOLD,thetjf7
-Rashee Rice (PREM1ERE),599,OPEN,
-Joe Milton III (PREM1ERE),599,OPEN,
-Parker Washington (PREM1ERE),599,OPEN,
 Saquon Barkley (AUTO) (DUAL),300,SOLD,gopackgo2025
 Sean Taylor (UV),350,SOLD,adamcc
 Bucky Irving (PREM1ERE) Tez Johnson (AUTO),1500,SOLD,joeyj222
+Caleb Williams (IV) (UV) (91 AUTO) (AUTO),7000,SOLD,robesp29
+Drake Maye (IV) (HELIX) (KAIJU) (ETCH) (SBAN) (TECMO),4500,SOLD,codysch53358
+Josh Allen (IV) (GG) (HELIX) (MADDEN) (ETCH) (UV) (AUTO),4600,SOLD,robesp29
+Jeremiyah Love (RR) (GG) (HELIX) (KAIJU) (IV) (ETCH) (UV) (91 AUTO) (AUTO x2) (DUAL) Cam Ward (91 AUTO) (AUTO x2),2500,SOLD,travispic14051
+Lamar Jackson (IV) (KAIJU),1450,SOLD,bounty1013
+Denzel Boston (RR) (IV) (DUAL) (AUTO) & Jadarian Price (RR) (IV) (AUTO),875,SOLD,jsr_trading
+Peyton Manning (AUTO),450,SOLD,chiarolanzio
+Cam Little (PREM1ERE),300,SOLD,daddyj3278
+Brian Thomas Jr. (AUTO x2) (PREM1ERE),200,SOLD,daddyj3278
+Jalen Coker (PREM1ERE),125,SOLD,kylenec
+Michael Wilson (AUTO) (PREM1ERE),150,SOLD,asherako88
+Blake Corum (PREM1ERE),200,SOLD,julietmike
+Dalton Kincaid (PREM1ERE),135,SOLD,julietmike
+Rashee Rice (PREM1ERE),210,SOLD,robesp29
+Joe Milton III (PREM1ERE),160,SOLD,cashar29449
+Parker Washington (PREM1ERE),300,SOLD,chiarolanzio

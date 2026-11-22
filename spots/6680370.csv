@@ -1,36 +1,23 @@
 spot,price,state,buyer
-Arizona Cardinals,60,OPEN,
 Atlanta Falcons,60,OPEN,
-Baltimore Ravens,55,OPEN,
-Buffalo Bills,55,OPEN,
 Carolina Panthers,55,OPEN,
-Chicago Bears,60,OPEN,
 Cincinnati Bengals,28,SOLD,dyltrill
 Cleveland Browns,40,OPEN,
-Dallas Cowboys,100,OPEN,
 Denver Broncos,100,OPEN,
 Detroit Lions,50,SOLD,lambright84
-Green Bay Packers,50,OPEN,
 Houston Texans,20,SOLD,doublet33
-Indianapolis Colts,50,OPEN,
 Jacksonville Jaguars,15,SOLD,oldintheway
-Kansas City Chiefs,60,OPEN,
 Las Vegas Raiders,75,OPEN,
 Los Angeles Chargers,50,OPEN,
 Los Angeles Rams,100,OPEN,
 Miami Dolphins,50,OPEN,
 Minnesota Vikings,75,OPEN,
 New England Patriots,80,SOLD,msilvia89
-New Orleans Saints,100,OPEN,
 New York Giants,50,OPEN,
 New York Jets,40,OPEN,
-Philadelphia Eagles,40,OPEN,
 Pittsburgh Steelers,75,OPEN,
 San Francisco 49ers,100,OPEN,
-Seattle Seahawks,35,OPEN,
-Tampa Bay Buccaneers,65,OPEN,
 Tennessee Titans,60,OPEN,
-Washington Commanders,40,OPEN,
 BYU/California,40,SOLD,ducksfan4life
 Clemson,15,SOLD,famoussheamus
 Florida State,13,SOLD,famoussheamus
@@ -40,7 +27,6 @@ Houston,8,SOLD,doublet33
 Illinois,8,SOLD,doublet33
 Indiana/Nebraska,40,SOLD,famoussheamus
 Kansas State/Michigan State/Kentucky,15,SOLD,famoussheamus
-LSU,50,OPEN,
 Miami ,60,OPEN,
 Michigan,45,SOLD,brandonbor13631
 Missouri/Montana State/Arkansas,25,OPEN,
@@ -49,14 +35,25 @@ Ohio State,70,SOLD,scott8gk
 Oklahoma,35,SOLD,donaldbowden333
 Oklahoma State/Texas,35,SOLD,jayyydawgvic
 Ole Miss,70,SOLD,brandonbor13631
-Oregon,75,OPEN,
 Penn State,50,OPEN,
 Rutgers/SMU/South Carolina,17,SOLD,kimbob7
 Stanford/Tenessee/Texas Tech,17,SOLD,famoussheamus
 Texas A&M,30,OPEN,
 USC,75,OPEN,
 Washington,8,SOLD,oldintheway
-Utah/Wisconsin/Virginia/North Carolina,20,OPEN,
-NC State/Kansas/Arizona State/West Virginia,20,OPEN,
 Duke/TCU/Colorado/Auburn,10,SOLD,famoussheamus
 Alabama,16,SOLD,kimbob7
+Arizona Cardinals,42,SOLD,scott8gk
+Baltimore Ravens,25,SOLD,doublet33
+Buffalo Bills/Kansas City Chiefs ,49,SOLD,bigferd101217
+Chicago Bears,35,SOLD,doublet33
+Dallas Cowboys/New Orleans Saints/LSU,120,SOLD,bigferd101217
+Green Bay Packers,33,SOLD,lambright84
+Indianapolis Colts,25,SOLD,jaycavs83
+Philadelphia Eagles,20,SOLD,jaycavs83
+Seattle Seahawks,20,SOLD,doublet33
+Tampa Bay Buccaneers,30,SOLD,doublet33
+Washington Commanders,25,SOLD,oldintheway
+Oregon,55,SOLD,brandonbor13631
+Utah/Wisconsin/Virginia/North Carolina,12,SOLD,famoussheamus
+NC State/Kansas/Arizona State/West Virginia,10,SOLD,famoussheamus

@@ -1,34 +1,19 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-Miscellaneous,,OPEN,
+Philadelphia Eagles,96,SOLD,jaybonni
+Tampa Bay Buccaneers,103,SOLD,kevcox
+Tennessee Titans,110,SOLD,rushcardden
+Dallas Cowboys,117,SOLD,tyb1659
+Miscellaneous,110,SOLD,tyb1659
+Washington Commanders,115,SOLD,faulk28
+Los Angeles Chargers,145,SOLD,ctsmancavebreaks
+Pittsburgh Steelers,110,SOLD,mjskradski
+New York Giants,99,SOLD,werbee91
+New Orleans Saints,83,SOLD,willriv43766
+Detroit Lions,101,SOLD,rushcardden
+Buffalo Bills,102,SOLD,steelheaddan
+Baltimore Ravens,99,SOLD,willriv43766
+#14,99,SOLD,jaybonni
+Carolina Panthers,97,SOLD,jaybonni
+Kansas City Chiefs,97,SOLD,case4dave
+Green Bay Packers,107,SOLD,ctsmancavebreaks
+#18,1,OPEN,

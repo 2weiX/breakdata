@@ -1,33 +1,21 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+Green Bay Packers,5,SOLD,chaveyj
+San Francisco 49ers,5,SOLD,chaveyj
+Minnesota Vikings,5,SOLD,treywes
+Chicago Bears,15,SOLD,jheat3
+Arizona Cardinals,9,SOLD,jheat3
+Las Vegas Raiders,21,SOLD,weshanner23
+Seattle Seahawks,14,SOLD,jheat3
+New Orleans Saints,14,SOLD,jheat3
+Houston Texans,14,SOLD,jheat3
+Denver Broncos,11,SOLD,jheat3
+New York Jets,11,SOLD,jheat3
+Cincinnati Bengals,13,SOLD,lucaskow97624
+New England Patriots,17,SOLD,jheat3
+Los Angeles Chargers,16,SOLD,sdsportsfam
+Jacksonville Jaguars,11,SOLD,sdsportsfam
+Atlanta Falcons,15,SOLD,sdsportsfam
+Carolina Panthers,12,SOLD,sdsportsfam
+Indianapolis Colts,15,SOLD,sdsportsfam
+Cleveland Browns,20,SOLD,sdsportsfam
+#20,1,OPEN,
