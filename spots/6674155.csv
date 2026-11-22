@@ -1,25 +1,24 @@
 spot,price,state,buyer
-Chaser 1🔥,10,SOLD,cpakman918
-Chaser 3🔥,6,SOLD,ahard1114
-Chaser 4🔥,9,SOLD,cpakman918
-Chaser 6🔥,10,SOLD,sicarios88
-Chaser 8🔥,12,SOLD,larsenhel
 Chaser 11🔥,8,SOLD,felixelcomelon
-Chaser 13🔥,6,SOLD,kaylaa0629
-BENGALS,15,SOLD,southpaw827
-BRONCOS,5,SOLD,yellowcabpittsburgh
-COLTS,9,SOLD,kaylaa0629
+Chaser 3🔥,6,SOLD,ahard1114
 PATRIOTS,2,SOLD,felixelcomelon
-BUCCANEERS,17,SOLD,southpaw827
-SEC,5,SOLD,yellowcabpittsburgh
 ACC,4,SOLD,felixelcomelon
-BIG 10,9,SOLD,bemdon
-INDEPENDENT,9,SOLD,fatmacks
-SANTA / SNOWMAN,10,SOLD,fatmacks
+BRONCOS,5,SOLD,yellowcabpittsburgh
+SEC,5,SOLD,yellowcabpittsburgh
+BENGALS,15,SOLD,southpaw827
+BUCCANEERS,17,SOLD,southpaw827
+Chaser 13🔥,6,SOLD,kaylaa0629
+#10,6,SOLD,kaylaa0629
 #11,19,SOLD,cpakman918
 #12,12,SOLD,cpakman918
-#10,6,SOLD,kaylaa0629
+Chaser 8🔥,12,SOLD,larsenhel
+Chaser 1🔥,10,SOLD,cpakman918
 #15,10,SOLD,cpakman918
+SANTA / SNOWMAN,10,SOLD,fatmacks
+Chaser 4🔥,9,SOLD,cpakman918
+COLTS,9,SOLD,kaylaa0629
+INDEPENDENT,9,SOLD,fatmacks
+Chaser 6🔥,10,SOLD,sicarios88
 Chaser 9🔥,8,SOLD,cpakman918
 Chaser 12🔥,7,SOLD,cpakman918
 EAGLES,9,SOLD,locdog1983
@@ -48,10 +47,17 @@ COWBOYS,13,SOLD,bemdon
 Chaser 7🔥,22,SOLD,cpakman918
 #47,13,SOLD,retrosour
 #48,13,SOLD,itscallediwin
+BIG 10,9,SOLD,bemdon
 #50,11,SOLD,itscallediwin
 #51,13,SOLD,itscallediwin
 Chaser 10🔥,10,SOLD,itscallediwin
 #53,9,SOLD,itscallediwin
-BIG SKY,8,SOLD,itscallediwin
-JETS,8,SOLD,itscallediwin
-COMMANDERS,8,SOLD,itscallediwin
+#54,8,SOLD,itscallediwin
+#55,8,SOLD,itscallediwin
+RAVENS,8,SOLD,itscallediwin
+COMMANDERS,2,SOLD,itscallediwin
+JETS,8,SOLD,lowerlevelbreaks
+TEXANS,9,SOLD,itscallediwin
+RAIDERS,9,SOLD,rippinnsippin21
+CHIEFS,8,SOLD,itscallediwin
+BIG SKY,34,SOLD,cpakman918

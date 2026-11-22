@@ -1,4 +1,6 @@
 spot,price,state,buyer
+New York Giants,19,SOLD,daviseas
+Miami Dolphins,19,SOLD,daviseas
 #3,19,OPEN,
 #4,19,OPEN,
 #5,19,OPEN,
@@ -6,18 +8,21 @@ spot,price,state,buyer
 #7,19,OPEN,
 #8,19,OPEN,
 #9,19,OPEN,
-#10,19,OPEN,
-#13,19,OPEN,
-#14,19,OPEN,
-#15,19,OPEN,
-#16,19,OPEN,
-#18,19,OPEN,
-#19,19,OPEN,
-#20,19,OPEN,
-#21,19,OPEN,
-#22,19,OPEN,
-#23,19,OPEN,
-#24,19,OPEN,
+Green Bay Packers,19,SOLD,daviseas
+Jacksonville Jaguars,19,SOLD,daviseas
+Washington Commanders,19,SOLD,daviseas
+Los Angeles Chargers,19,SOLD,daviseas
+Kansas City Chiefs,19,SOLD,daviseas
+Tennessee Titans,19,SOLD,daviseas
+Tampa Bay Buccaneers,19,SOLD,daviseas
+Dallas Cowboys,19,SOLD,daviseas
+Los Angeles Rams,19,SOLD,daviseas
+Cincinnati Bengals,19,SOLD,daviseas
+Pittsburgh Steelers,19,SOLD,daviseas
+San Francisco 49ers,19,SOLD,daviseas
+New England Patriots,19,SOLD,daviseas
+Chicago Bears,19,SOLD,daviseas
+Detroit Lions,19,SOLD,daviseas
 #25,19,OPEN,
 #26,19,OPEN,
 #27,19,OPEN,
@@ -26,8 +31,3 @@ spot,price,state,buyer
 #30,19,OPEN,
 #31,19,OPEN,
 #32,19,OPEN,
-New York Giants,19,SOLD,daviseas
-Miami Dolphins,19,SOLD,daviseas
-Jacksonville Jaguars,19,SOLD,daviseas
-Washington Commanders,19,SOLD,daviseas
-Dallas Cowboys,19,SOLD,daviseas

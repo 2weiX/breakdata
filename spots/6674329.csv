@@ -1,5 +1,6 @@
 spot,price,state,buyer
-#2,18,OPEN,
+Houston Texans,18,SOLD,tobigr19
+Washington Commanders,16,SOLD,tobigr19
 #3,18,OPEN,
 #4,18,OPEN,
 #5,18,OPEN,
@@ -14,9 +15,12 @@ Detroit Lions,18,SOLD,flogt
 #14,18,OPEN,
 #15,18,OPEN,
 San Francisco 49ers,18,SOLD,pxxxz4008
+Tennessee Titans,18,SOLD,tobigr19
 #18,18,OPEN,
 #19,18,OPEN,
+Cleveland Browns,18,SOLD,tobigr19
 #21,18,OPEN,
+Green Bay Packers,18,SOLD,tobigr19
 #23,18,OPEN,
 #24,18,OPEN,
 #25,18,OPEN,
@@ -27,7 +31,3 @@ Chicago Bears,18,SOLD,pxxxz4008
 #30,18,OPEN,
 #31,18,OPEN,
 #32,18,OPEN,
-Houston Texans,18,SOLD,tobigr19
-Tennessee Titans,18,SOLD,tobigr19
-Cleveland Browns,18,SOLD,tobigr19
-Green Bay Packers,18,SOLD,tobigr19
