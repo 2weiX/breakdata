@@ -1,14 +1,15 @@
 spot,price,state,buyer
-Atlanta Falcons,20,OPEN,
-Baltimore Ravens,25,OPEN,
+Atlanta Falcons,9,SOLD,readirox
+Baltimore Ravens,10,SOLD,ahorner922
+Buffalo Bills CARDINALS CHEIFS,85,SOLD,gobigblue2020
 Carolina Panthers,8,SOLD,grateful_cards77
 Chicago Bears,34,SOLD,pellino1979
 Cincinnati Bengals,24,SOLD,browtine
-Cleveland Browns,25,OPEN,
+Cleveland Browns,13,SOLD,keithm48
 Dallas Cowboys,21,SOLD,baylinecollectibles
 Denver Broncos,25,SOLD,readirox
-Detroit Lions,25,OPEN,
-Green Bay Packers,20,OPEN,
+Detroit Lions,14,SOLD,steelin_dealz
+Green Bay Packers,9,SOLD,keithm48
 Houston Texans,7,SOLD,ahorner922
 Indianapolis Colts,1,SOLD,heavyhitta03
 Jacksonville Jaguars,10,SOLD,steelin_dealz
@@ -26,6 +27,5 @@ Pittsburgh Steelers,12,SOLD,gemmint10_cards
 San Francisco 49ers,21,SOLD,nopersona
 Seattle Seahawks,17,SOLD,pellino1979
 Tampa Bay Buccaneers,14,SOLD,breakin_steele
-Tennessee Titans,25,OPEN,
+Tennessee Titans,14,SOLD,browtine
 Washington Commanders,20,SOLD,coldarrick
-Buffalo Bills CARDINALS CHEIFS,85,SOLD,gobigblue2020

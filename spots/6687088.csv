@@ -1,7 +1,7 @@
 spot,price,state,buyer
-Arizona Cardinals,12,OPEN,
-Atlanta Falcons,3,OPEN,
-Baltimore Ravens,5,OPEN,
+Arizona Cardinals,3,SOLD,chrisjones131313
+Atlanta Falcons,3,SOLD,sniper_11
+Baltimore Ravens,2,SOLD,bernet27
 Buffalo Bills,5.6,SOLD,bernet27
 Carolina Panthers,2.4,SOLD,chrisjones131313
 Chicago Bears,5,SOLD,meandeanween
@@ -11,23 +11,21 @@ Dallas Cowboys,5.6,SOLD,chrisjones131313
 Denver Broncos,2.8,SOLD,deekay24
 Detroit Lions,3.5,SOLD,robertdod73348
 Green Bay Packers,3,SOLD,chrisjones131313
-Houston Texans,3,OPEN,
-Indianapolis Colts,3,OPEN,
+Houston Texans,1,SOLD,sniper_11
+Indianapolis Colts,1,SOLD,sniper_11
 Jacksonville Jaguars,2.4,SOLD,chrisjones131313
 Kansas City Chiefs,6.3,SOLD,bernet27
 Las Vegas Raiders,12,SOLD,bernet27
-Los Angeles Chargers,3,OPEN,
-Los Angeles Rams,9,OPEN,
-Miami Dolphins,3,OPEN,
+Los Angeles Chargers,4,SOLD,meandeanween
+Los Angeles Rams,4,SOLD,chrisjones131313
 Minnesota Vikings,2,SOLD,chrisjones131313
 New England Patriots,5,SOLD,scallycapped_beantowner
-New Orleans Saints,9,OPEN,
+New Orleans Saints,5,SOLD,sniper_11
 New York Giants,4.8,SOLD,bernet27
-New York Jets,8,OPEN,
-Philadelphia Eagles,7,OPEN,
-Pittsburgh Steelers,9,OPEN,
+New York Jets,1,SOLD,bernet27
+Pittsburgh Steelers,1,SOLD,chrisjones131313
 San Francisco 49ers,3,SOLD,sniper_11
 Seattle Seahawks,3.5,SOLD,cashcards910
 Tampa Bay Buccaneers,2,SOLD,deekay24
-Tennessee Titans,11,OPEN,
-Washington Commanders,4,OPEN,
+Tennessee Titans,1,SOLD,bernet27
+Washington Commanders,2,SOLD,chrisjones131313

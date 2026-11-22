@@ -1,34 +1,20 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-misc,,OPEN,
+San Francisco 49ers,415,SOLD,casualcollect_
+Green Bay Packers,400,SOLD,kingcarcollects
+Los Angeles Chargers,445,SOLD,kingcarcollects
+Dallas Cowboys,440,SOLD,kingcarcollects
+#5,410,SOLD,kingcarcollects
+misc,430,SOLD,kingcarcollects
+#7,410,SOLD,kingcarcollects
+Denver Broncos,410,SOLD,chasingmonsters
+Detroit Lions,385,SOLD,chasingmonsters
+#10,385,SOLD,chasingmonsters
+#11,415,SOLD,chasingmonsters
+Los Angeles Rams,470,SOLD,boston8899
+#13,445,SOLD,chasingmonsters
+Tampa Bay Buccaneers,445,SOLD,chasingmonsters
+Pittsburgh Steelers,455,SOLD,chasingmonsters
+New England Patriots,430,SOLD,boston8899
+#17,415,SOLD,boston8899
+#18,2,SOLD,baseballcardkid28
+#19,1,OPEN,

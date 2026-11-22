@@ -1,40 +1,60 @@
 spot,price,state,buyer
-Buffalo Bills,55,SOLD,cmr_collects
-Carolina Panthers,48,SOLD,spazaletto
-Chicago Bears,87,SOLD,phildo22
-Cincinnati Bengals,63,SOLD,make_me_rich
-Cleveland Browns,90,SOLD,spazaletto
-Dallas Cowboys,80,SOLD,phildo22
-Denver Broncos,44,SOLD,cmr_collects
-Detroit Lions,6,SOLD,samsca71268
-Green Bay Packers,96,SOLD,zrb847
-Indianapolis Colts,66,SOLD,zrb847
-Kansas City Chiefs,73,SOLD,make_me_rich
-Minnesota Vikings,60,SOLD,zrb847
-New England Patriots,75,SOLD,make_me_rich
-New York Giants,86,SOLD,karimv2
-Pittsburgh Steelers,85,SOLD,karimv2
-San Francisco 49ers,88,SOLD,girardcards
-Seattle Seahawks,49,SOLD,girardcards
-Tennessee Titans,97,SOLD,pantayoyo13
-NIL,93,SOLD,spazaletto
 TRADED,75,SOLD,karimv2
 TRADED,79,SOLD,karimv2
+Chicago Bears,87,SOLD,phildo22
+Pittsburgh Steelers,85,SOLD,karimv2
+Dallas Cowboys,80,SOLD,phildo22
 TRADED,80,SOLD,make_me_rich
 TRADED,83,SOLD,karimv2
+New York Giants,86,SOLD,karimv2
+Cleveland Browns,90,SOLD,spazaletto
 TRADED,92,SOLD,make_me_rich
+NIL,93,SOLD,spazaletto
 TRADED,91,SOLD,pantayoyo13
+Tennessee Titans,97,SOLD,pantayoyo13
+New England Patriots,75,SOLD,make_me_rich
 TRADED,75,SOLD,make_me_rich
 TRADED,76,SOLD,pantayoyo13
+Kansas City Chiefs,73,SOLD,make_me_rich
+Detroit Lions,6,SOLD,samsca71268
 TRADED,56,SOLD,make_me_rich
+Buffalo Bills,55,SOLD,cmr_collects
 TRADED,57,SOLD,make_me_rich
+Cincinnati Bengals,63,SOLD,make_me_rich
 TRADED,55,SOLD,samsca71268
+Carolina Panthers,48,SOLD,spazaletto
+Denver Broncos,44,SOLD,cmr_collects
 TRADED,38,SOLD,spazaletto
 TRADED,56,SOLD,pantayoyo13
+Minnesota Vikings,60,SOLD,zrb847
 TRADED,51,SOLD,zrb847
 TRADED,75,SOLD,zrb847
 TRADED,99,SOLD,zrb847
+Jacksonville Jaguars,49,SOLD,girardcards
 TRADED,103,SOLD,girardcards
 TRADED,98,SOLD,zrb847
+San Francisco 49ers,88,SOLD,girardcards
 TRADED,86,SOLD,zrb847
+Green Bay Packers,96,SOLD,zrb847
 TRADED,75,SOLD,girardcards
+TRADED,66,SOLD,zrb847
+Baltimore Ravens,73,SOLD,zrb847
+TRADED,66,SOLD,girardcards
+TRADED,60,SOLD,girardcards
+Philadelphia Eagles,105,SOLD,girardcards
+Atlanta Falcons,90,SOLD,elizabethcab00121
+TRADED,84,SOLD,girardcards
+Los Angeles Chargers,92,SOLD,girardcards
+TRADED,75,SOLD,make_me_rich
+Las Vegas Raiders,70,SOLD,sf307
+traded,80,SOLD,sf307
+Arizona Cardinals,97,SOLD,jrausch17
+Los Angeles Rams,70,SOLD,jrausch17
+Washington Commanders,10,SOLD,elizabethcab00121
+Seattle Seahawks,15,SOLD,make_me_rich
+New Orleans Saints,16,SOLD,thicole
+Houston Texans,11,SOLD,spazaletto
+Tampa Bay Buccaneers,19,SOLD,jeepo0lllllll0
+Indianapolis Colts,9,SOLD,doginit69
+Miami Dolphins,8,SOLD,spazaletto
+New York Jets,1,SOLD,doginit69

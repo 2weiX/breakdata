@@ -1,31 +1,13 @@
 spot,price,state,buyer
-Atlanta Hawks,,OPEN,
-Boston Celtics,,OPEN,
-Brooklyn Nets,,OPEN,
-Charlotte Hornets,,OPEN,
-Chicago Bulls,,OPEN,
-Cleveland Cavaliers,,OPEN,
-Dallas Mavericks,,OPEN,
-Denver Nuggets,,OPEN,
-Detroit Pistons,,OPEN,
-Golden State Warriors,,OPEN,
-Houston Rockets,,OPEN,
-Indiana Pacers,,OPEN,
-LA Clippers,,OPEN,
-LA Lakers,,OPEN,
-Memphis Grizzlies,,OPEN,
-Miami Heat,,OPEN,
-Milwaukee Bucks,,OPEN,
-Minnesota Timberwolves,,OPEN,
-New Orleans Pelicans,,OPEN,
-New York Knicks,,OPEN,
-Oklahoma City Thunder,,OPEN,
-Orlando Magic,,OPEN,
-Philadelphia Sixers,,OPEN,
-Phoenix Suns,,OPEN,
-Portland Trail Blazers,,OPEN,
-Sacramento Kings,,OPEN,
-San Antonio Spurs,,OPEN,
-Toronto Raptors,,OPEN,
-Utah Jazz,,OPEN,
-Washington Wizards,,OPEN,
+Charlotte Hornets,1,SOLD,seansummers
+Dallas Mavericks,1,SOLD,seansummers
+San Antonio Spurs,7,SOLD,olas81
+Brooklyn Nets,4,SOLD,seansummers
+#5,6,SOLD,olas81
+New York Knicks,3,SOLD,seansummers
+Orlando Magic,5,SOLD,seansummers
+Memphis Grizzlies,3,SOLD,chasehitz1
+Philadelphia Sixers,4,SOLD,olas81
+Atlanta Hawks,3,SOLD,chasehitz1
+Denver Nuggets,9,SOLD,masonwe10397
+#12,1,OPEN,

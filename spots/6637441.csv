@@ -11,7 +11,7 @@ spot,price,state,buyer
 "113 - Micah Parsons, Green Bay Packers",300,OPEN,
 "115 - CJ Stroud, Houston Texans",600,OPEN,
 "117 - Woody Marks, Houston Texans",150,OPEN,
-"118 - Nico Collins, Houston Texans",100,OPEN,
+"118 - Nico Collins, Houston Texans",50,SOLD,kerverder
 "119 - Jayden Higgins & Andre Johnson, Houston Texans",275,OPEN,
 "12 - Bijan Robinson, Atlanta Falcons",625,OPEN,
 "121 - Will Anderson Jr., Houston Texans",150,OPEN,
@@ -20,8 +20,8 @@ spot,price,state,buyer
 "129 - Josh Downs, Indianapolis Colts",125,OPEN,
 "130 - Tyler Warren, Indianapolis Colts",150,OPEN,
 "135 - Trevor Lawrence, Jacksonville Jaguars",750,OPEN,
-"136 - Bhayshul Tuten, Jacksonville Jaguars",90,OPEN,
-"137 - Brian Thomas Jr., Jacksonville Jaguars",175,OPEN,
+"136 - Bhayshul Tuten, Jacksonville Jaguars",60,SOLD,sesc3771
+"137 - Brian Thomas Jr., Jacksonville Jaguars",122.5,SOLD,bigmike111
 "139 - Travis Hunter, Jacksonville Jaguars",175,OPEN,
 "14 - Drake London, Atlanta Falcons",375,OPEN,
 "140 - Brenton Strange, Jacksonville Jaguars",125,OPEN,
@@ -120,9 +120,9 @@ spot,price,state,buyer
 "320 - Cashius Howell (RC), Cincinnati Bengals",33,SOLD,jdenlinger06
 "321 - Tacario Davis (RC), Cincinnati Bengals",23,SOLD,jdenlinger06
 "322 - Taylen Green (RC), Cleveland Browns",175,OPEN,
-"323 - KC Concepcion (RC), Cleveland Browns",425,OPEN,
-"324 - Denzel Boston (RC), Cleveland Browns",450,OPEN,
-"325 - Emmanuel McNeil-Warren (RC), Cleveland Browns",100,OPEN,
+"323 - KC Concepcion (RC), Cleveland Browns",310,SOLD,idotter05
+"324 - Denzel Boston (RC), Cleveland Browns",320,SOLD,idotter05
+"325 - Emmanuel McNeil-Warren (RC), Cleveland Browns",60,SOLD,sethstoj64
 "326 - Malachi Lawrence (RC), Dallas Cowboys",21,SOLD,loose_sleevebreaks
 "327 - Jaishawn Barham (RC), Dallas Cowboys",100,OPEN,
 "328 - Caleb Downs (RC), Dallas Cowboys",750,OPEN,
@@ -135,7 +135,7 @@ spot,price,state,buyer
 "335 - Chris McClellan (RC), Green Bay Packers",75,OPEN,
 "336 - Dani Dennis-Sutton (RC), Green Bay Packers",75,OPEN,
 "337 - Brandon Cisse (RC), Green Bay Packers",60,SOLD,kerverder
-"338 - Marlin Klein (RC), Houston Texans",75,OPEN,
+"338 - Marlin Klein (RC), Houston Texans",16,SOLD,sesc3771
 "339 - Keylan Rutledge (RC), Houston Texans",75,OPEN,
 "340 - Kayden McDonald (RC), Houston Texans",75,OPEN,
 "341 - Deion Burks (RC), Indianapolis Colts",75,OPEN,
@@ -214,7 +214,7 @@ spot,price,state,buyer
 "61 - Andrei Iosivas, Cincinnati Bengals",52.5,SOLD,mwfan06
 "65 - Shedeur Sanders, Cleveland Browns",125,OPEN,
 "66 - Quinshon Judkins, Cleveland Browns",200,OPEN,
-"69 - Harold Fannin Jr., Cleveland Browns",100,OPEN,
+"69 - Harold Fannin Jr., Cleveland Browns",60,SOLD,sethstoj64
 "70 - Mason Graham & 73 - Denzel Ward & 74 - Grant Delpit, Cleveland Browns",200,OPEN,
 "71 - Myles Garrett, Los Angeles Rams/Cleveland Browns",750,OPEN,
 "72 - Carson Schwesinger, Cleveland Browns",300,OPEN,
@@ -251,7 +251,7 @@ Kurt Warner & Anquan Boldin & Larry Fitzgerald & Torry Holt,200,SOLD,mwfan06
 Las Vegas Raiders Others (9 Players),175,OPEN,
 Los Angeles Chargers Others (9 Players),150,OPEN,
 Los Angeles Rams Others (11 Players),250,OPEN,
-Miami Dolphins Others (6 Players),125,OPEN,
+Miami Dolphins Others (6 Players),65,SOLD,snydes80
 "Michael Irvin & Dez Bryant, Cowboys",275,OPEN,
 Minnesota Vikings Others (8 Players),175,OPEN,
 New England Patriots Others (8 Players),200,OPEN,

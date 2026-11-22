@@ -1,5 +1,5 @@
 spot,price,state,buyer
-#1,10,OPEN,
+#1,8,OPEN,
 #2,8,OPEN,
 #3,10,SOLD,pancaesar
 #4,10,SOLD,larryjac65693
@@ -10,11 +10,11 @@ spot,price,state,buyer
 #9,8,OPEN,
 #10,8,OPEN,
 #11,8,OPEN,
-#12,10,OPEN,
-#13,10,OPEN,
-#14,10,OPEN,
+#12,8,OPEN,
+#13,8,OPEN,
+#14,8,OPEN,
 #15,16,SOLD,zanmaverick
-#16,10,OPEN,
+#16,8,OPEN,
 #17,10,OPEN,
 #18,10,OPEN,
 #19,10,OPEN,

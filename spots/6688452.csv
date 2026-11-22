@@ -1,2 +1,17 @@
 spot,price,state,buyer
-#1,1,OPEN,
+Kansas City Chiefs,3,SOLD,statebreaks
+Cincinnati Bengals,4,SOLD,py420
+San Francisco 49ers,3,SOLD,py420
+Tennessee Titans,3,SOLD,py420
+Detroit Lions,4,SOLD,py420
+Washington Commanders,4,SOLD,forbetterorforbreaks
+Philadelphia Eagles,4,SOLD,py420
+Minnesota Vikings,4,SOLD,forbetterorforbreaks
+Arizona Cardinals,4,SOLD,forbetterorforbreaks
+Los Angeles Rams,4,SOLD,forbetterorforbreaks
+Buffalo Bills,5,SOLD,67jackc
+Seattle Seahawks,4,SOLD,forbetterorforbreaks
+Houston Texans,4,SOLD,py420
+New England Patriots,3,SOLD,forbetterorforbreaks
+Cleveland Browns,3,SOLD,forbetterorforbreaks
+#16,1,OPEN,
