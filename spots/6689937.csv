@@ -2,12 +2,10 @@ spot,price,state,buyer
 Buffalo Bills,11,SOLD,fireplug93
 Chicago Bears,13,SOLD,derrickforrealcards
 Tennessee Titans,20,SOLD,havoc247
-Los Angeles Chargers,22,SOLD,chickenhawkcards
 Washington Commanders,19,SOLD,stripperglitter666
 San Francisco 49ers,27,SOLD,chickenhawkcards
 New England Patriots,20,SOLD,mrtankman
 New York Jets,24,SOLD,nolanham34092
-Los Angeles Rams,20,SOLD,chickenhawkcards
 Seattle Seahawks,22,SOLD,derrickforrealcards
 Houston Texans,22,SOLD,mwitt342
 Cincinnati Bengals,30,SOLD,bashsbest
@@ -18,4 +16,18 @@ Cleveland Browns,24,SOLD,joshhob82007
 Denver Broncos,25,SOLD,joshhob82007
 Dallas Cowboys,25,SOLD,mwitt342
 Baltimore Ravens,20,SOLD,mwitt342
-Green Bay Packers,27,SOLD,chickenhawkcards
+Trade 1,22,SOLD,chickenhawkcards
+Jacksonville Jaguars,20,SOLD,chickenhawkcards
+Kansas City Chiefs,27,SOLD,chickenhawkcards
+New Orleans Saints,22,SOLD,mrtankman
+Atlanta Falcons,24,SOLD,campr65
+Minnesota Vikings,21,SOLD,mwitt342
+Los Angeles Chargers,19,SOLD,havoc247
+New York Giants,16,SOLD,mwitt342
+Pittsburgh Steelers,33,SOLD,joshhob82007
+Arizona Cardinals,27,SOLD,joshhob82007
+Indianapolis Colts,19,SOLD,fireplug93
+Detroit Lions,23,SOLD,bashsbest
+Los Angeles Rams,22,SOLD,joshtao11
+Tampa Bay Buccaneers,19,SOLD,joshtao11
+"Green Bay Packers, LV Raiders",50,SOLD,havoc247

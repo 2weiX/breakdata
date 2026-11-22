@@ -1,10 +1,6 @@
 spot,price,state,buyer
-Arizona Cardinals,25,OPEN,
 Atlanta Falcons,20,OPEN,
-Baltimore Ravens,25,OPEN,
-Buffalo Bills,30,OPEN,
 Carolina Panthers,20,OPEN,
-Chicago Bears,40,OPEN,
 Cincinnati Bengals,20,SOLD,jwoods1969
 Cleveland Browns,25,OPEN,
 Dallas Cowboys,30,SOLD,laser9431
@@ -12,22 +8,24 @@ Denver Broncos,30,OPEN,
 Detroit Lions,20,OPEN,
 Green Bay Packers,20,OPEN,
 Houston Texans,20,OPEN,
-Indianapolis Colts,20,OPEN,
 Jacksonville Jaguars,20,OPEN,
 Kansas City Chiefs,32,SOLD,browtine
 Las Vegas Raiders,60,OPEN,
 Los Angeles Chargers,20,OPEN,
-Los Angeles Rams,20,OPEN,
 Miami Dolphins,20,OPEN,
-Minnesota Vikings,20,OPEN,
 New England Patriots,30,OPEN,
 New Orleans Saints,20,OPEN,
 New York Giants,30,OPEN,
-New York Jets,20,OPEN,
-Philadelphia Eagles,20,OPEN,
 Pittsburgh Steelers,20,OPEN,
 San Francisco 49ers,30,OPEN,
-Seattle Seahawks,25,OPEN,
-Tampa Bay Buccaneers,20,OPEN,
 Tennessee Titans,25,OPEN,
-Washington Commanders,20,OPEN,
+Arizona Cardinals,17.5,SOLD,glea44
+Baltimore Ravens,15,SOLD,mando_joe_wanex
+Buffalo Bills,30,SOLD,straightcashhomie
+Chicago Bears,34,SOLD,meandeanween
+Indianapolis Colts,10,SOLD,glea44
+Los Angeles Rams,14,SOLD,bronxbomber77
+Minnesota Vikings,12,SOLD,glea44
+New York Jets,3,SOLD,wisemad
+"Seattle Seahawks, Bucaneers",32,SOLD,dopecardsinc
+"Washington Commanders, Eagles",20,SOLD,jasonmir

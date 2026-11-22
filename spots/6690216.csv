@@ -1,5 +1,4 @@
 spot,price,state,buyer
-#1,126,SOLD,davebrown56
 Detroit Lions,140,SOLD,davebrown56
 Pittsburgh Steelers,135,SOLD,faircatchsportscards
 MISC,130,SOLD,davebrown56
@@ -9,28 +8,38 @@ Houston Texans,145,SOLD,rumblinbumblincards
 San Francisco 49ers,150,SOLD,rumblinbumblincards
 Dallas Cowboys,142,SOLD,wildcats2686
 Philadelphia Eagles,116,SOLD,ryanhan41096
-#11,125,SOLD,ryanhan41096
 Chicago Bears,161,SOLD,cisners_onlysams
 Washington Commanders,87,SOLD,endzonechasers
 Indianapolis Colts,122,SOLD,joesal33333
-#15,110,SOLD,endzonechasers
 Las Vegas Raiders,130,SOLD,faircatchsportscards
 Cincinnati Bengals,137,SOLD,cisners_onlysams
-#18,138,SOLD,cisners_onlysams
-#19,144,SOLD,cisners_onlysams
 Denver Broncos,195,SOLD,cisners_onlysams
-#21,180,SOLD,cisners_onlysams
-#22,390,SOLD,cisners_onlysams
 Baltimore Ravens,134,SOLD,sitball
-#24,149,SOLD,faircatchsportscards
 Kansas City Chiefs,150,SOLD,faircatchsportscards
 "Buffalo Bills, Seattle Seahawks",148,SOLD,cisners_onlysams
-#27,145,SOLD,ryanhan41096
 Green Bay Packers,145,SOLD,ryanhan41096
-#29,148,SOLD,endzonechasers
-#30,165,SOLD,faircatchsportscards
 New England Patriots,168,SOLD,faircatchsportscards
-#32,138,SOLD,endzonechasers
 Tampa Bay Buccaneers,50,SOLD,cisners_onlysams
 Jacksonville Jaguars,163,SOLD,wildcats2686
-#35,1,OPEN,
+T,126,SOLD,davebrown56
+T,125,SOLD,ryanhan41096
+T,110,SOLD,endzonechasers
+T,138,SOLD,cisners_onlysams
+T,144,SOLD,cisners_onlysams
+T,180,SOLD,cisners_onlysams
+T,390,SOLD,cisners_onlysams
+T,149,SOLD,faircatchsportscards
+T,145,SOLD,ryanhan41096
+T,148,SOLD,endzonechasers
+T,165,SOLD,faircatchsportscards
+T,138,SOLD,endzonechasers
+New York Jets,163,SOLD,cisners_onlysams
+Los Angeles Rams,144.5,SOLD,initiativewon
+Carolina Panthers,120,SOLD,endzonechasers
+Arizona Cardinals,115,SOLD,aldog714
+Miami Dolphins,132,SOLD,aldog714
+Los Angeles Chargers,143,SOLD,drunkenfists
+New Orleans Saints,88,SOLD,endzonechasers
+Minnesota Vikings,60,SOLD,drunkenfists
+Atlanta Falcons,21,SOLD,ryanhan41096
+Tennessee Titans,3,SOLD,joesal33333

@@ -1,28 +1,10 @@
 spot,price,state,buyer
-Alabama ℠,60,OPEN,
-Arkansas,36,OPEN,
-Baylor ᴹ,30,OPEN,
-Clemson,39,OPEN,
-Combo (BIG10) - Minnesota & Penn State ℠,30,OPEN,
 Florida ℠,40,SOLD,chxmpstcg
-Florida State,27,OPEN,
-Georgia,60,OPEN,
-Indiana ᴹ,81,OPEN,
-Iowa State ᴹ,36,OPEN,
-Kansas State,36,OPEN,
-Kentucky,63,OPEN,
-Missouri ᴹ,39,OPEN,
-Ohio State ᴹ,69,OPEN,
-Purdue,27,OPEN,
 Rutgers & West Virginia,60,SOLD,charlo72
-TCU ᴹ,30,OPEN,
 Texas,96,SOLD,prawnbreakers_sean
-Texas Tech ᴹ,66,OPEN,
 Tulsa,15,SOLD,bxmb0
-UCLA ᴹ,30,OPEN,
 USC,70.2,SOLD,robjos91
 Utah ᴹ,42,SOLD,jasocarey95
-Washington,54,OPEN,
 Colorado,15,SOLD,robjos91
 Combo (ACC) - Boston College & NC State,8,SOLD,jamiebfc
 Combo (MAC) - Western Michigan & Akron,7,SOLD,the_hit_house
@@ -37,3 +19,19 @@ Maryland,17,SOLD,bluecheesecards
 Michigan State,31.2,SOLD,robjos91
 SMU ᴹ,27,SOLD,robjos91
 UConn,8,SOLD,bluecheesecards
+Arkansas,10,SOLD,smellysausagecards
+Baylor ᴹ,12,SOLD,the_hit_house
+Clemson,24,SOLD,davmol83
+Combo (BIG10) - Minnesota & Penn State ℠,9,SOLD,the_hit_house
+Florida State,12,SOLD,aidyd
+Indiana ᴹ,66,SOLD,folben
+Iowa State ᴹ,21,SOLD,robjos91
+Kansas State,18,SOLD,jamiebfc
+Kentucky,40.5,SOLD,the_hit_house
+Missouri ᴹ,24,SOLD,r1s3n
+Ohio State ᴹ,46,SOLD,bluecheesecards
+Purdue,15,SOLD,smellysausagecards
+TCU ᴹ,18,SOLD,bluecheesecards
+Texas Tech ᴹ,48,SOLD,davmol83
+UCLA ᴹ,15,SOLD,davmol83
+Washington,40.5,SOLD,folben

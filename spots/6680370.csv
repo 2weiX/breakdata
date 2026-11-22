@@ -1,23 +1,12 @@
 spot,price,state,buyer
-Atlanta Falcons,60,OPEN,
-Carolina Panthers,55,OPEN,
 Cincinnati Bengals,28,SOLD,dyltrill
-Cleveland Browns,40,OPEN,
-Denver Broncos,100,OPEN,
 Detroit Lions,50,SOLD,lambright84
 Houston Texans,20,SOLD,doublet33
 Jacksonville Jaguars,15,SOLD,oldintheway
-Las Vegas Raiders,75,OPEN,
-Los Angeles Chargers,50,OPEN,
 Los Angeles Rams,100,OPEN,
-Miami Dolphins,50,OPEN,
-Minnesota Vikings,75,OPEN,
 New England Patriots,80,SOLD,msilvia89
-New York Giants,50,OPEN,
-New York Jets,40,OPEN,
 Pittsburgh Steelers,75,OPEN,
 San Francisco 49ers,100,OPEN,
-Tennessee Titans,60,OPEN,
 BYU/California,40,SOLD,ducksfan4life
 Clemson,15,SOLD,famoussheamus
 Florida State,13,SOLD,famoussheamus
@@ -29,7 +18,6 @@ Indiana/Nebraska,40,SOLD,famoussheamus
 Kansas State/Michigan State/Kentucky,15,SOLD,famoussheamus
 Miami ,60,OPEN,
 Michigan,45,SOLD,brandonbor13631
-Missouri/Montana State/Arkansas,25,OPEN,
 Notre Dame,75,SOLD,dyltrill
 Ohio State,70,SOLD,scott8gk
 Oklahoma,35,SOLD,donaldbowden333
@@ -38,7 +26,6 @@ Ole Miss,70,SOLD,brandonbor13631
 Penn State,50,OPEN,
 Rutgers/SMU/South Carolina,17,SOLD,kimbob7
 Stanford/Tenessee/Texas Tech,17,SOLD,famoussheamus
-Texas A&M,30,OPEN,
 USC,75,OPEN,
 Washington,8,SOLD,oldintheway
 Duke/TCU/Colorado/Auburn,10,SOLD,famoussheamus
@@ -57,3 +44,14 @@ Washington Commanders,25,SOLD,oldintheway
 Oregon,55,SOLD,brandonbor13631
 Utah/Wisconsin/Virginia/North Carolina,12,SOLD,famoussheamus
 NC State/Kansas/Arizona State/West Virginia,10,SOLD,famoussheamus
+Atlanta Falcons,25,SOLD,lambright84
+Carolina Panthers,23,SOLD,famoussheamus
+Cleveland Browns,18,SOLD,doublet33
+Denver Broncos,40,SOLD,1justme
+Las Vegas Raiders,25,SOLD,doublet33
+Miami Dolphins,20,SOLD,doublet33
+New York Giants,15,SOLD,doublet33
+New York Jets/Minnesota Vikings/Los Angeles Chargers,70,SOLD,doublet33
+Tennessee Titans,22,SOLD,the_warden_1
+Missouri/Montana State/Arkansas,9,SOLD,famoussheamus
+Texas A&M,10,SOLD,famoussheamus

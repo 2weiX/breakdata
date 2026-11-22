@@ -1,34 +1,40 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-Miscellaneous,,OPEN,
+#1,115,SOLD,ellmat96981
+Denver Broncos,112,SOLD,rushcardden
+#3,120,SOLD,ellmat96981
+#4,121,SOLD,kuest
+Buffalo Bills,156,SOLD,kuest
+#6,137,SOLD,kuest
+Baltimore Ravens,142,SOLD,kuest
+Minnesota Vikings,137,SOLD,kuest
+#9,135,SOLD,kuest
+#10,132,SOLD,kevcox
+Carolina Panthers,132,SOLD,kevcox
+New York Giants,137,SOLD,kuest
+San Francisco 49ers,137,SOLD,kuest
+Atlanta Falcons,115,SOLD,joeyq22
+Miami Dolphins,120,SOLD,quentin6
+New York Jets,115,SOLD,ellmat96981
+Cincinnati Bengals,120,SOLD,quentin6
+New England Patriots,100,SOLD,rushcardden
+Las Vegas Raiders,112,SOLD,kevcox
+#20,102,SOLD,tyb1659
+#21,116,SOLD,brock24
+#22,155,SOLD,kuest
+Los Angeles Chargers,152,SOLD,kuest
+Detroit Lions,150,SOLD,ctsmancavebreaks
+#25,135,SOLD,kuest
+Dallas Cowboys,155,SOLD,kuest
+Kansas City Chiefs,145,SOLD,ctsmancavebreaks
+Pittsburgh Steelers,131,SOLD,jospla96361
+Philadelphia Eagles,133,SOLD,kuest
+Los Angeles Rams,131,SOLD,tyb1659
+#31,47,SOLD,kuest
+Cleveland Browns,92,SOLD,mrwatson14
+Green Bay Packers,83,SOLD,kuest
+Jacksonville Jaguars,92,SOLD,brock24
+Seattle Seahawks,89,SOLD,rockyasincity
+New Orleans Saints,86,SOLD,kuest
+#37,87,SOLD,kuest
+#38,125,SOLD,kuest
+Miscellaneous,115,SOLD,lookingtobuynow

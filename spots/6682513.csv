@@ -1,6 +1,5 @@
 spot,price,state,buyer
 Texas,550,OPEN,
-Notre Dame,380,OPEN,
 Miami/Duke,373,OPEN,
 Oklahoma State,225,SOLD,rustid
 Washington,169,OPEN,
@@ -36,7 +35,6 @@ Kansas,58,OPEN,
 Oklahoma,58,OPEN,
 Stanford,58,OPEN,
 TCU,58,OPEN,
-Tennessee,58,OPEN,
 UCF,58,OPEN,
 Arkansas,50,OPEN,
 Auburn,50,OPEN,
@@ -80,3 +78,5 @@ Penn State - Beaver Stadium,7,SOLD,rustid
 Clemson,35,SOLD,trinity_cards
 UNC,25,SOLD,trinity_cards
 "Wyoming - Samuel Harris,TULSA ",16,SOLD,gatorraid319
+Notre Dame,270,SOLD,jfelker16
+Tennessee,40.6,SOLD,tommygeo29351
