@@ -1,6 +1,6 @@
 spot,price,state,buyer
 OLE MISS,5,SOLD,katfor1206
-Kansas City Chiefs,3,SOLD,katfor1206
+#2,3,SOLD,katfor1206
 Atlanta Falcons,4,SOLD,katfor1206
 Baltimore Ravens,4,SOLD,katfor1206
 San Francisco 49ers,8,SOLD,johng92080
@@ -9,7 +9,7 @@ Los Angeles Chargers,7,SOLD,katfor1206
 Notre Dame ,9,SOLD,katfor1206
 Dallas Cowboys,7,SOLD,katfor1206
 Detroit Lions,8,SOLD,ryanbro04861
-#11,7,SOLD,katfor1206
+Kansas City Chiefs,7,SOLD,katfor1206
 Philadelphia Eagles,8,SOLD,ryanbro04861
 Los Angeles Rams,7,SOLD,katfor1206
 INDIANA,7,SOLD,ryanbro04861
@@ -24,6 +24,24 @@ New Orleans Saints,6,SOLD,johng92080
 #23,6,SOLD,katfor1206
 Seattle Seahawks,17,SOLD,katfor1206
 Arizona Cardinals,6,SOLD,katfor1206
-CALI,6,SOLD,katfor1206
+#26,6,SOLD,katfor1206
 Tennessee Titans,6,SOLD,katfor1206
-OREGON,5,SOLD,katfor1206
+#28,5,SOLD,katfor1206
+Houston Texans,6,SOLD,katfor1206
+MICHIGAN,6,SOLD,austinscardcornercoolectibles
+Pittsburgh Steelers,7,SOLD,katfor1206
+TEXAS,5,SOLD,jltrading
+OREGON,6,SOLD,ryanbro04861
+Washington Commanders,6,SOLD,katfor1206
+Denver Broncos,5,SOLD,jltrading
+Indianapolis Colts,6,SOLD,katfor1206
+BYU,10,SOLD,katfor1206
+#38,6,SOLD,schwartzmier
+ALABAMA,8,SOLD,schwartzmier
+New England Patriots,8,SOLD,austinscardcornercoolectibles
+Carolina Panthers,7,SOLD,katfor1206
+Chicago Bears,7,SOLD,katfor1206
+Jacksonville Jaguars,30,SOLD,katfor1206
+Green Bay Packers,7,SOLD,bigbill23
+CALI,6,SOLD,schwartzmier
+Miami Dolphins,6,SOLD,schwartzmier

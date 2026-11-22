@@ -1,9 +1,9 @@
 spot,price,state,buyer
 Arizona Cardinals,5,SOLD,calibreaker
-Cleveland Browns,5,SOLD,padres_fanatic_619
+Carolina Panthers,5,SOLD,padres_fanatic_619
 Tampa Bay Buccaneers,5,SOLD,padres_fanatic_619
 Cincinnati Bengals,5,SOLD,padres_fanatic_619
-Indianapolis Colts,6,SOLD,padres_fanatic_619
+#5,6,SOLD,padres_fanatic_619
 Tennessee Titans,6,SOLD,leelov20984
 Kansas City Chiefs,6,SOLD,calibreaker
 San Francisco 49ers,6,SOLD,calibreaker
@@ -18,4 +18,13 @@ New York Giants,11,SOLD,davidald69069
 New Orleans Saints,7,SOLD,davidald69069
 Los Angeles Rams,7,SOLD,calibreaker
 Miami Dolphins,7,SOLD,swishschoolnate
-#20,1,OPEN,
+Indianapolis Colts,7,SOLD,davidald69069
+Los Angeles Chargers,7,SOLD,davidald69069
+New York Jets,6,SOLD,thunderox4
+Green Bay Packers,6,SOLD,dr_ake94
+Seattle Seahawks,6,SOLD,thunderox4
+Houston Texans,7,SOLD,gottagotomos
+Atlanta Falcons,10,SOLD,gottagotomos
+Las Vegas Raiders,7,SOLD,thunderox4
+New England Patriots,7,SOLD,dr_ake94
+Baltimore Ravens,7,SOLD,dr_ake94

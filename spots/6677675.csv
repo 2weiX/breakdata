@@ -1,12 +1,13 @@
 spot,price,state,buyer
-Division 1,,OPEN,
-Division 2,,OPEN,
-Division 3,,OPEN,
-Division 4,,OPEN,
-Division 5,,OPEN,
-Division 6,,OPEN,
-Division 7,,OPEN,
-Division 8,,OPEN,
-Division 9,,OPEN,
-Division 10,,OPEN,
-Division 11,,OPEN,
+Division 7,14,SOLD,camcav
+Division 2,16,SOLD,garbage_collector21
+Division 3,16,SOLD,garbage_collector21
+#4,15,SOLD,garbage_collector21
+Division 6,13,SOLD,jfab1017
+Division 8,15,SOLD,ctelk374
+Division 4,19,SOLD,ctelk374
+Division 10,16,SOLD,schty78460
+Division 1,18,SOLD,ctelk374
+Division 11,17,SOLD,schty78460
+Division 9,16,SOLD,ctelk374
+Division 5,16,SOLD,schty78460

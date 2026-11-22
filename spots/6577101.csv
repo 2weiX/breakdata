@@ -1,27 +1,27 @@
 spot,price,state,buyer
-Arizona Cardinals,12,OPEN,
+Arizona Cardinals,8,SOLD,forest_city_pullz
 Atlanta Falcons,14,OPEN,
 Baltimore Ravens,15,OPEN,
 Buffalo Bills,20,OPEN,
-Carolina Panthers,11,OPEN,
-Chicago Bears,18,OPEN,
-Cincinnati Bengals,17,OPEN,
+Carolina Panthers,6,SOLD,coreyt19
+Chicago Bears,15,SOLD,forest_city_pullz
+Cincinnati Bengals,10,SOLD,forest_city_pullz
 Cleveland Browns,3,SOLD,riptide_reaper
-Dallas Cowboys,21,OPEN,
+Dallas Cowboys,13,OPEN,
 Denver Broncos,14,OPEN,
 Detroit Lions,20,OPEN,
 Green Bay Packers,15,OPEN,
 Houston Texans,14,OPEN,
 Indianapolis Colts,11,OPEN,
-Jacksonville Jaguars,14,OPEN,
+Jacksonville Jaguars,10,SOLD,forest_city_pullz
 Kansas City Chiefs,15,SOLD,forest_city_pullz
-Las Vegas Raiders,50,OPEN,
+Las Vegas Raiders,44,OPEN,
 Los Angeles Chargers,12,OPEN,
-Los Angeles Rams,14,OPEN,
-Miami Dolphins,12,OPEN,
+Los Angeles Rams,10,SOLD,forest_city_pullz
+Miami Dolphins,8,SOLD,forest_city_pullz
 "Minnesota Vikings , New York Giants , New York Jets",30,SOLD,tylersam90770
 New England Patriots,14,SOLD,t_bagger
-New Orleans Saints,9,OPEN,
+New Orleans Saints,5,SOLD,forest_city_pullz
 Philadelphia Eagles,18,OPEN,
 Pittsburgh Steelers,14,OPEN,
 San Francisco 49ers,20,SOLD,wjlyons4
@@ -30,7 +30,7 @@ Tampa Bay Buccaneers,9,SOLD,coreyt19
 Tennessee Titans,11,SOLD,coreyt19
 Washington Commanders,15,OPEN,
 Alabama,13,SOLD,riptide_reaper
-BYU,11,OPEN,
+BYU,8,SOLD,forest_city_pullz
 Clemson,10,SOLD,coreyt19
 Florida,14,OPEN,
 Georgia,13,SOLD,coreyt19
@@ -38,12 +38,12 @@ Indiana,12,OPEN,
 Miami,13,SOLD,coreyt19
 Michigan,15,OPEN,
 Notre Dame,24,SOLD,coreyt19
-Ohio State,20,OPEN,
+Ohio State,17,OPEN,
 Oklahoma,15,OPEN,
-Ole Miss,12,OPEN,
+Ole Miss,8,SOLD,forest_city_pullz
 Oregon,17,OPEN,
 Texas,28,SOLD,coreyt19
 Texas A&M,12,OPEN,
 USC,14,OPEN,
-Washington,11,OPEN,
+Washington,5,SOLD,coreyt19
 All Other Schools,60,SOLD,coreyt19

@@ -3,18 +3,18 @@ Arizona Cardinals,285,OPEN,
 Atlanta Falcons,160,OPEN,
 Baltimore Ravens,115,OPEN,
 Buffalo Bills,165,OPEN,
-Carolina Panthers,100,SOLD,mikeell87513
+#5,125,SOLD,mikeell87513
 Chicago Bears,295,OPEN,
-Cincinnati Bengals,120,SOLD,mikeell87513
-Cleveland Browns,100,SOLD,mikeell87513
-Dallas Cowboys,120,SOLD,dasiprips
+#7,150,SOLD,mikeell87513
+#8,125,SOLD,mikeell87513
+#9,150,SOLD,dasiprips
 Denver Broncos,200,OPEN,
 Detroit Lions,225,OPEN,
 Green Bay Packers,95,OPEN,
 Houston Texans,205,OPEN,
 Indianapolis Colts,120,OPEN,
-Jacksonville Jaguars,100,SOLD,jayammons11
-Kansas City Chiefs,200,SOLD,unclechuckscardskc
+#15,125,SOLD,jayammons11
+#16,225,SOLD,unclechuckscardskc
 Las Vegas Raiders,375,OPEN,
 Los Angeles Chargers,120,OPEN,
 Los Angeles Rams,335,OPEN,
@@ -22,12 +22,19 @@ Miami Dolphins,110,OPEN,
 Minnesota Vikings,145,OPEN,
 New England Patriots,315,OPEN,
 New Orleans Saints,145,OPEN,
-New York Giants,175,SOLD,mikeell87513
+#24,200,SOLD,mikeell87513
 New York Jets,100,OPEN,
 Philadelphia Eagles,185,OPEN,
 Pittsburgh Steelers,100,OPEN,
 San Francisco 49ers,130,OPEN,
 Seattle Seahawks,240,OPEN,
-Tampa Bay Buccaneers,115,SOLD,jacoblev64611
 Tennessee Titans,210,OPEN,
 Washington Commanders,260,OPEN,
+Tampa Bay Buccaneers,115,OPEN,
+Jacksonville Jaguars,125,OPEN,
+Cleveland Browns,125,OPEN,
+Kansas City Chiefs,225,OPEN,
+Cincinnati Bengals,150,OPEN,
+Dallas Cowboys,150,OPEN,
+New York Giants,200,OPEN,
+Carolina Panthers,125,OPEN,

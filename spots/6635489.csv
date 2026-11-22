@@ -4,12 +4,12 @@ spot,price,state,buyer
 #4,132,OPEN,
 #5,132,OPEN,
 #6,132,SOLD,bjwormuth
-#7,132,SOLD,dagorn91
 #9,132,OPEN,
 #10,132,SOLD,goldcreek_sportcards_by_linne
 #11,132,SOLD,deasycards
 #12,132,OPEN,
 #13,132,OPEN,
+#14,132,SOLD,k_a_z
 #15,132,SOLD,makrele2000
 #16,132,SOLD,pavleiro
 #17,132,OPEN,
@@ -19,7 +19,6 @@ spot,price,state,buyer
 #21,132,OPEN,
 #22,132,OPEN,
 #23,132,OPEN,
-#24,132,SOLD,justsomecardguy
 #25,132,OPEN,
 #26,132,OPEN,
 #27,132,OPEN,
@@ -28,4 +27,3 @@ spot,price,state,buyer
 #30,132,OPEN,
 #31,132,OPEN,
 #32,132,OPEN,
-#14,132,SOLD,k_a_z

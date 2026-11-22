@@ -5,16 +5,15 @@ Baltimore Ravens,95,OPEN,
 Buffalo Bills,160,OPEN,
 Carolina Panthers,60,OPEN,
 Chicago Bears,145,OPEN,
-Cincinnati Bengals,100,SOLD,my_breaking_point
+#7,125,SOLD,my_breaking_point
 Cleveland Browns,160,OPEN,
 Dallas Cowboys,170,OPEN,
-Denver Broncos,92,SOLD,my_breaking_point
-Detroit Lions,75,SOLD,ruddallas
+#10,115,SOLD,my_breaking_point
+#11,85,SOLD,ruddallas
 Green Bay Packers,95,OPEN,
 Houston Texans,55,OPEN,
 Indianapolis Colts,55,OPEN,
 Jacksonville Jaguars,55,OPEN,
-Kansas City Chiefs,190,SOLD,creekside_sports
 Las Vegas Raiders,340,OPEN,
 Los Angeles Chargers,60,OPEN,
 Los Angeles Rams,270,OPEN,
@@ -27,7 +26,13 @@ New York Jets,110,OPEN,
 Philadelphia Eagles,170,OPEN,
 Pittsburgh Steelers,150,OPEN,
 San Francisco 49ers,135,OPEN,
-Seattle Seahawks,93,SOLD,rcool21
-Tampa Bay Buccaneers,90,SOLD,rcool21
+#29,130,SOLD,rcool21
+#30,110,SOLD,rcool21
 Tennessee Titans,190,OPEN,
 Washington Commanders,105,OPEN,
+Denver Broncos,115,OPEN,
+Cincinnati Bengals,125,OPEN,
+Seattle Seahawks,130,OPEN,
+Tampa Bay Buccaneers,110,OPEN,
+Detroit Lions,85,OPEN,
+Kansas City Chiefs,190,OPEN,

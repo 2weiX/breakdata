@@ -1,33 +1,35 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+#1,76,SOLD,frostbite_cards
+#2,100,SOLD,presto6453
+Atlanta Falcons,97,SOLD,theripsyndicate
+Cleveland Browns,103,SOLD,presto6453
+Baltimore Ravens,101,SOLD,presto6453
+Chicago Bears,101,SOLD,testman79
+Buffalo Bills,94,SOLD,theripsyndicate
+Los Angeles Rams,98,SOLD,qccardcollective
+New Orleans Saints,94,SOLD,theripsyndicate
+New England Patriots,101,SOLD,theripsyndicate
+Detroit Lions,94,SOLD,zaing_cards
+Washington Commanders,101,SOLD,presto6453
+Cincinnati Bengals,88,SOLD,christopherd93
+Philadelphia Eagles,93,SOLD,theripsyndicate
+Tampa Bay Buccaneers,99,SOLD,presto6453
+Carolina Panthers,117,SOLD,theripsyndicate
+New York Jets,125,SOLD,hvacmatt
+Denver Broncos,143,SOLD,nicktay46811
+Pittsburgh Steelers,155,SOLD,nicktay46811
+New York Giants,99,SOLD,hvacmatt
+Dallas Cowboys,161,SOLD,colectorsal
+Arizona Cardinals,166,SOLD,nicktay46811
+Seattle Seahawks,137,SOLD,hvacmatt
+Green Bay Packers,160,SOLD,ppalmer77
+Minnesota Vikings,135,SOLD,metroboomn3
+Jacksonville Jaguars,155,SOLD,justonehittt
+Miami Dolphins,150,SOLD,ppalmer77
+Las Vegas Raiders,170,SOLD,rcool21
+Los Angeles Chargers,99,SOLD,metroboomn3
+San Francisco 49ers,155,SOLD,metroboomn3
+Kansas City Chiefs,180,SOLD,colectorsal
+Tennessee Titans,134,SOLD,jwham75
+Houston Texans,68,SOLD,worobel
+Indianapolis Colts,61,SOLD,ajdalton56

@@ -1,0 +1,45 @@
+spot,price,state,buyer
+Alabama,41.65,SOLD,frankbuc43102
+Clemson,53.5,SOLD,rkb_sports
+LSU,52,OPEN,
+Ohio State,22.5,SOLD,clevleo
+Florida,28,OPEN,
+Oklahoma,21,OPEN,
+North Dakota State,17,OPEN,
+BYU,16,OPEN,
+Penn State,18,OPEN,
+Texas Tech,28,OPEN,
+Cal,26,OPEN,
+Louisville,32,OPEN,
+Michigan,13,SOLD,livi1321
+Oklahoma State,13.5,SOLD,frankbuc43102
+Tennessee,14.5,SOLD,bferguson1180
+Texas,14,OPEN,
+Wisconsin,14,OPEN,
+Wyoming,32,OPEN,
+Wake Forest,11,OPEN,
+Florida State,12,OPEN,
+USC,12.74,SOLD,dlaaaaaaa
+Georgia,14,SOLD,rost1
+Notre Dame,7,SOLD,tokenfatkid54
+Texas A&M,10,OPEN,
+North Carolina,11,OPEN,
+Auburn,10,OPEN,
+Miami Hurricanes,10,OPEN,
+Ole Miss,9,SOLD,cquick90
+Oregon,10,SOLD,hdbiscuit1
+Pittsburgh,7,OPEN,
+Purdue,6.99,SOLD,dlaaaaaaa
+South Carolina,9,OPEN,
+"Rest of SEC: Mississippi St, Missouri, Kentucky, Arkansas, Vandy",16,OPEN,
+"Rest of Big Ten: Iowa, Illinois, Indiana, Maryland, Michigan St, Northwestern",7,OPEN,
+"Rest of ACC: BC, Duke, VT, NC St, GT, Syracuse, Virginia",21,OPEN,
+"Entire AAC: Houston, Cincinnati, UCF, Memphis, ECU, SMU, Tulane, Tulsa",21,OPEN,
+"Rest of Big 12: TCU, Kansas St, Baylor, Kansas, WVU",16,OPEN,
+"Rest of Pac-12: Oregon State, Stanford, Washington, Arizona State, Colorado, UCLA, Wash st.",18,OPEN,
+Minnesota,14,OPEN,
+"Entire Sun Belt: Arkansas St, Coastal Carolina, Louisiana, South Alabama, ULM",1,SOLD,dbtitletowncards
+"Entire MAC: Bowling Green, Buffalo, Kent St, Miami (OH), Toledo, W. Michigan",12,OPEN,
+"FCS, DII, JuCo: Central Arkansas, Central Missu st, Charleston, E. Illinois, E. Washington, Illinois st, Minnesota St, N. Iowa, SD St",17,OPEN,
+"Rest of MWC: Colorado St, Fresno St, San Diego St, Utah St",10,OPEN,
+"Entire C-USA: FAU, Marshall, North Texas, UAB, UTEP",2,SOLD,cquick90

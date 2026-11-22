@@ -1,10 +1,10 @@
 spot,price,state,buyer
-AFC North,,OPEN,
-AFC East,,OPEN,
-AFC West,,OPEN,
-AFC South,,OPEN,
-NFC North,,OPEN,
-NFC East,,OPEN,
-NFC West,,OPEN,
-NFC South,,OPEN,
-MISC,,OPEN,
+NFC North,7,SOLD,dondon2913
+NFC West,8,SOLD,gabegeezy
+AFC North,8,SOLD,dondon2913
+MISC,9,SOLD,gabegeezy
+NFC East,8,SOLD,dondon2913
+NFC South,9,SOLD,gabegeezy
+AFC South,9,SOLD,dondon2913
+AFC East,8,SOLD,mitchgedney
+AFC West,8,SOLD,dondon2913

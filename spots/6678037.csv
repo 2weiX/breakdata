@@ -6,20 +6,10 @@ JAX - Josh Hines-Allen
 WAS - Mike Sainristil (PP)
 GB - Christian Watson",5,SOLD,gavinhom
 DAL - Caleb Downs (AU) (CH),11,SOLD,gavinhom
-"LAR - Blake Corum (PP)
-PIT - Troy Polamalu (AU)
-LAC - Dan Fouts (AU)
-SF - Trent Williams
-LV - Jeremy Chinn
-CIN - Cashius Howell (AU)",11,SOLD,gavinhom
+BUF - Josh Allen (AU) (CH),11,SOLD,gavinhom
 "BAL/TEN - Derrick Henry (AU) (CH)
 LV - Marcus Allen",12,SOLD,arpdid
-"DET - Sam LaPorta (PP)
-CLE - Bernie Kosar (AU)
-DAL - DeMarco Murray (AU)
-SF - Jake Moody (PP)
-LAR - Trent McDuffie
-IND - Riley Leonard",11,SOLD,gavinhom
+Tradeback,11,SOLD,gavinhom
 "NYJ - Garrett Wilson (AU) (CH)
 CAR - Lee Hunter
 DAL - Kenny Clark",11,SOLD,gavinhom
@@ -66,12 +56,7 @@ PIT - Drew Allar (AU) (CH),11,SOLD,natebol86273
 "NO - Tyler Shough (AU)
 DAL - DaRon Bland
 CAR - Chuba Hubbard",9,SOLD,arpdid
-"ARI - Trey McBride (CH)
-LV - Tre Tucker (PP)
-WAS - DeAngelo Hall (AU)
-BUF - T.J. Parker (AU)
-LV - Michael Mayer (PP)
-CIN - Evan McPherson",7,SOLD,njcarnahan
+Tradeback,7,SOLD,njcarnahan
 Tradeback,5,SOLD,arpdid
 "MIA - Jacob Rodriguez (AU)
 DEN - Terrell Davis (AU)
@@ -179,12 +164,12 @@ PHI - Tank Bigsby (PP)
 NYJ - Demario Davis
 CLE - Grant Delpit
 BAL - Rashod Bateman",8,SOLD,hivoltagesportscards
-"IND - Tyler Warren (AU)
-JAX - Travis Hunter
-KC - Dante Hall (AU)
-SEA - Uchenna Nwosu (CH)
-LV - Kirk Cousins
-CIN - Dexter Lawrence II",7,SOLD,heavystocksports
+"CAR - Chris Brazzell II (AU) (CH)
+NO - Archie Manning (AU)
+SF - Romello Height (AU)
+JAX - Albert Regis (AU)
+PIT - Kaleb Johnson (AU)
+BUF - Dion Dawkins",7,SOLD,heavystocksports
 "BUF - Skyler Bell (AU)
 JAX - Cam Little (PP)
 CIN - Anthony Muñoz (AU)
@@ -245,18 +230,9 @@ BAL - Lamar Jackson (CH),14,SOLD,heavystocksports
 DAL - Tyler Guyton (PP)
 CAR - Trevor Etienne",8,SOLD,rokavelli8678
 KC - Garrett Nussmeier (AU) (CH),9,SOLD,moose_224
-"WAS - Art Monk (AU) (CH)
-NO - Alvin Kamara (AU)
-BUF - Thurman Thomas (AU)
-NYJ - T'Vondre Sweat (PP)
-PHI - Dallas Goedert
-HOU - Calen Bullock (PP)",8,SOLD,moose_224
-"MIN - Jordan Addison (AU) (PP)
-DAL - Marist Liufau (PP)
-DAL - Luke Schoonmaker (PP)",8,SOLD,moose_224
-"NYJ - Kenyon Sadiq (AU) (CH)
-TEN - Eddie George
-GB - Charles Woodson",9,SOLD,moose_224
+Tradeback,8,SOLD,moose_224
+Tradeback,8,SOLD,moose_224
+Tradeback,9,SOLD,moose_224
 CLE - Carson Schwesinger (AU) (CH),9,SOLD,rokavelli8678
 "BAL - Elijah Sarratt (AU)
 NE - Eli Raridon (AU)
@@ -264,8 +240,7 @@ LAC - Joe Alt (PP)
 SF - Mike Evans
 LV - Aidan O'Connell (PP)
 IND - Sauce Gardner",9,SOLD,dbaumer
-"JAX - Brian Thomas Jr. (AU) (PP)
-SEA - Jalen Milroe",11,SOLD,moose_224
+NYG - Jaxson Dart (AU) (CH),11,SOLD,moose_224
 SEA - Jaxon Smith-Njigba (AU) (CH) (PP),33,SOLD,heavystocksports
 "SF - George Kittle (CH)
 PIT - Jack Ham",9,SOLD,rokavelli8678
@@ -289,21 +264,14 @@ BUF - Davison Igbinosun (AU)",8,SOLD,heavystocksports
 "KC - Xavier Worthy (AU) (PP)
 CAR - Jaycee Horn
 DAL - Jake Ferguson",9,SOLD,moose_224
-"SF - Fred Warner (AU)
-CLE - Taylen Green (AU)
-DEN - Steve Atwater (AU)
-NYG - Tyrone Tracy Jr. (PP)
-LAR - Kobie Turner (PP)
-NO - Travis Etienne Jr.",7,SOLD,heavystocksports
+Tradeback,7,SOLD,heavystocksports
 "SF/KC - Joe Montana (AU)
 ARI - Reggie Virgil (AU)
 SF - Roger Craig (AU)
 MIA - Chop Robinson (AU)
 LAC - Cameron Dicker
 CIN - Tacario Davis (AU)",8,SOLD,jdenttttt
-"LAC - Ladd McConkey (AU) (PP)
-DEN - Champ Bailey
-BUF - Andre Reed",12,SOLD,moose_224
+Tradeback,12,SOLD,moose_224
 "LAR - Max Klare (AU)
 ARI/LAR - Kurt Warner (AU)
 SF - Steve Young (AU)
@@ -336,4 +304,262 @@ CIN - Jonathan Allen",8,SOLD,jdenttttt
 "PIT - Germie Bernard (AU)
 MIN - Adrian Peterson
 CHI - Brian Urlacher",7,SOLD,heavystocksports
-#97,1,OPEN,
+"DET - Amon-Ra St. Brown (AU) (CH)
+LAR - Torry Holt",9,SOLD,heavystocksports
+HOU - CJ Stroud (CH) (PP),9,SOLD,datdude52
+"TB - Emeka Egbuka (AU)
+KC - Tyreek Hill
+GB - Brandon Cisse (AU)
+CLE - Cedric Tillman (PP)
+DEN - Zach Allen",9,SOLD,kylezu
+"NYG - Cam Skattebo
+CHI - Jim McMahon (AU)
+IND - Edgerrin James (AU)
+MIA - Jaylen Wright
+LAC - Derwin James
+ATL - Olamide Zaccheaus",9,SOLD,jdenttttt
+"NYG - Malachi Fields (AU)
+CAR - Derrick Brown
+DAL - DeMarvion Overshown",9,SOLD,heavystocksports
+"TB - Bucky Irving (PP)
+DAL - Tony Romo (AU)
+SEA - Steve Largent (AU)
+DET - Derrick Moore (AU)
+PIT - Cameron Heyward
+CIN - Tee Higgins",8,SOLD,jdenttttt
+"NE - TreVeyon Henderson (AU) (CH)
+WAS - Terry McLaurin (AU)
+WAS - Kaytron Allen (AU)
+MIN - Jake Golday (AU)
+TB - Antoine Winfield Jr.
+GB - Tucker Kraft",8,SOLD,jdenttttt
+"WAS - Sean Taylor (CH)
+WAS - Deebo Samuel (AU)
+KC - Tyquan Thornton
+JAX - Nate Boerkircher (AU)
+LAC - Oronde Gadsden
+GB - Dontayvion Wicks (PP)",8,SOLD,jdenttttt
+"LV - Ashton Jeanty (AU)
+CHI - Mike Singletary (AU)
+SEA - George Holani (PP)
+ARI - Budda Baker
+DEN - Courtland Sutton",9,SOLD,moose_224
+"LAC - Omarion Hampton (AU)
+MIN - Aaron Jones Sr. (AU)
+WAS - John Riggins (AU)
+DET - Aidan Hutchinson
+LV - Quay Walker
+CIN - Kris Jenkins (PP)",8,SOLD,jdenttttt
+Tradeback,8,SOLD,njcarnahan
+"ARI - Pat Tillman (CH)
+NYG - Lawrence Taylor (AU)
+TEN - Tyjae Spears (PP)
+SF - Nick Bosa
+LV - Dont'e Thornton Jr. (AU)
+IND - Alec Pierce (AU)",9,SOLD,moose_224
+"MIA - Caleb Douglas (AU)
+LV - Howie Long (AU)
+SEA - Bud Clark
+MIN - T.J. Hockenson
+TB - Chris Braswell (PP)",10,SOLD,kylezu
+"JAX - Brian Thomas Jr. (AU) (PP)
+SEA - Jalen Milroe",9,SOLD,heavystocksports
+"NYJ - Braelon Allen (PP)
+KC - Christian Okoye (AU) (CH)
+GB - LeRoy Butler (AU)
+NYG - Colton Hood (AU)
+CHI - Joe Thuney
+NO - Christen Miller (AU)",9,SOLD,heavystocksports
+"CHI - Luther Burden III (AU)
+NYJ - Darrelle Revis (AU)
+NE - Behren Morton (AU)
+MIN - Kyler Murray
+TB - Cade Otton
+DAL - Brevyn Spann-Ford (PP)",8,SOLD,njcarnahan
+"MIN - Jordan Addison (AU) (PP)
+DAL - Marist Liufau (PP)
+DAL - Luke Schoonmaker (PP)",6,SOLD,wickeddawg_
+"CHI - Colston Loveland (AU)
+BAL - Joe Flacco (AU)
+TEN - Will Levis (PP)
+ATL - Harold Perkins Jr. (AU)
+PIT - Payton Wilson (PP)
+GB - Jayden Reed",8,SOLD,jdenttttt
+"CHI - Zavion Thomas (AU)
+ATL - Deion Sanders (AU)
+SF - Frank Gore (AU)
+NYG - Abdul Carter
+LAR - Davante Adams
+HOU - Reed Blankenship",8,SOLD,kevinrzo67853
+DAL - Dak Prescott (AU) (CH),22,SOLD,moose_224
+"ATL - Michael Penix Jr. (PP)
+ARI - Trey Benson (PP)
+TB - Jalen McMillan (PP)
+TEN - Kevin Winston Jr.
+TB - Tez Johnson (AU)",11,SOLD,kevinrzo67853
+"MIA - De'Von Achane (AU) (CH) (PP)
+TEN - Jevon Kearse",6,SOLD,kevinrzo67853
+"DET/LAR - Jared Goff (AU) (CH)
+MIA - Ricky Williams",8,SOLD,kevinrzo67853
+"SF - Fred Warner (AU)
+CLE - Taylen Green (AU)
+DEN - Steve Atwater (AU)
+NYG - Tyrone Tracy Jr. (PP)
+LAR - Kobie Turner (PP)
+NO - Travis Etienne Jr.",17,SOLD,moose_224
+"WAS - Art Monk (AU) (CH)
+NO - Alvin Kamara (AU)
+BUF - Thurman Thomas (AU)
+NYJ - T'Vondre Sweat (PP)
+PHI - Dallas Goedert
+HOU - Calen Bullock (PP)",8,SOLD,masonhuff20
+"MIA - Dan Marino (AU) (CH)
+KC - Chris Jones
+NE - Mack Hollins (CH)
+ARI - Will Johnson
+DEN - Justin Joly (AU)",8,SOLD,heavystocksports
+"DET - Sam LaPorta (PP)
+CLE - Bernie Kosar (AU)
+DAL - DeMarco Murray (AU)
+SF - Jake Moody (PP)
+LAR - Trent McDuffie
+IND - Riley Leonard",8,SOLD,footballman26
+"ARI - Michael Wilson (AU) (PP)
+TB - Warren Sapp (AU)
+NO - Chris Olave (AU)
+MIN - Demond Claiborne (AU)
+LAC - Tre Harris III
+GB - MarShawn Lloyd (PP)",9,SOLD,footballman26
+"BUF - Dalton Kincaid (PP)
+DAL - Michael Irvin (AU)
+IND - Anthony Richardson (PP)
+MIA - Kenneth Grant
+PIT - Jaylen Warren
+BUF - Cole Bishop (PP)",9,SOLD,footballman26
+"NYJ - Kenyon Sadiq (AU) (CH)
+TEN - Eddie George
+GB - Charles Woodson",14,SOLD,footballman26
+ATL - Bijan Robinson (CH) (PP),16,SOLD,justright024
+"PIT - Aaron Rodgers (AU) (CH)
+DAL - Tony Dorsett",17,SOLD,justright024
+"LAR - Blake Corum (PP)
+PIT - Troy Polamalu (AU)
+LAC - Dan Fouts (AU)
+SF - Trent Williams
+LV - Jeremy Chinn
+CIN - Cashius Howell (AU)",10,SOLD,justright024
+"MIA - Chris Bell (AU) (CH)
+SF - Kyle Juszczyk (AU)
+SF - Jacob Cowing (PP)
+MIN - Byron Murphy Jr.
+WAS - Rachaad White
+GB - Lukas Van Ness (PP)",13,SOLD,justright024
+"GB - Micah Parsons (CH)
+CAR - Jonathan Mingo (PP)
+CAR - Jimmy Horn Jr.",17,SOLD,justright024
+"GB - Jordan Love (CH)
+ATL - Tony Gonzalez (AU)
+KC - George Karlaftis
+JAX - Josh Cameron (AU)
+WAS - Laremy Tunsil
+GB - Chris McClellan",17,SOLD,footballman26
+"NYJ - Breece Hall (AU)
+LAR - Eric Dickerson (AU)
+NE - Ja'Lynn Polk (PP)
+ARI - Jacoby Brissett
+TB - Graham Barton (PP)",17,SOLD,justright024
+MIN - Justin Jefferson (AU) (CH),18,SOLD,justright024
+"BAL - Ja'Kobi Lane (AU)
+LAR - Aaron Donald
+CAR - Will Lee III (AU)",17,SOLD,footballman26
+CIN - Joe Burrow (AU) (CH),16,SOLD,footballman26
+LAR - Matthew Stafford (AU) (CH),16,SOLD,justright024
+"NE - Joe Milton III (PP)
+PHI - Cole Payton (AU)
+GB - James Lofton (AU)
+NYG - Brian Burns
+CHI - Jaylon Johnson
+NO - Bryan Bresee",16,SOLD,mlocher02
+"CHI - William Perry (AU) (CH)
+DEN - Jaylen Waddle (CH)
+LAC - Antonio Gates (AU)
+TEN - Elic Ayomanor (AU)
+PHI - DeVonta Smith
+HOU - Dalton Schultz",16,SOLD,justright024
+ARI - Carson Beck (AU) (CH),11,SOLD,mlocher02
+SEA - Jadarian Price (AU) (CH),39,SOLD,justright024
+"DEN - RJ Harvey (AU)
+KC - Peter Woods (AU)
+LV - Tim Brown (AU)
+WAS - Luke McCaffrey (PP)
+PHI - Jordan Mailata
+HOU - Henry To'oTo'o (PP)",23,SOLD,justright024
+"ARI - Trey McBride (CH)
+LV - Tre Tucker (PP)
+WAS - DeAngelo Hall (AU)
+BUF - T.J. Parker (AU)
+LV - Michael Mayer (PP)
+CIN - Evan McPherson",22,SOLD,justright024
+"TB - Ted Hurst (AU)
+SEA - Richard Sherman (AU)
+BUF - LeSean McCoy (AU)
+NYJ - Geno Smith
+CLE - Jerry Jeudy
+BAL - Roquan Smith (AU)",17,SOLD,justright024
+LAR - Ty Simpson (AU) (CH),19,SOLD,justright024
+"CHI - Dillon Thieneman (AU)
+NE - Kayshon Boutte (PP)
+JAX - Parker Washington (PP)
+DET - Jack Campbell
+PIT - Darnell Washington (PP)
+ATL - Jalon Walker (AU)",18,SOLD,justright024
+CHI - Caleb Williams (AU) (CH) (PP),19,SOLD,kevinrzo67853
+"LV - Bo Jackson (AU)
+CIN - Boomer Esiason (AU)
+CLE - Ozzie Newsome (AU)
+DET - Jameson Williams
+PIT - Daylen Everette (AU)
+ATL - Kyle Pitts Sr.",16,SOLD,justright024
+"SF - Jerry Rice (AU) (CH)
+NYJ - Wayne Chrebet",17,SOLD,justright024
+TB/NE - Tom Brady (AU) (CH),17,SOLD,justright024
+"LAC - Ladd McConkey (AU) (PP)
+DEN - Champ Bailey
+BUF - Andre Reed",17,SOLD,justright024
+"GB - Matthew Golden (AU)
+KC - Rashee Rice (PP)
+NE - Robert Spillane (CH)
+TEN - Jeffery Simmons
+DEN - Talanoa Hufanga",11,SOLD,justright024
+"GB - Josh Jacobs (AU)
+KC - Travis Kelce
+MIA - Malik Washington (PP)
+LAC - Brenen Thompson (AU)
+PHI - Jihaad Campbell (AU)
+HOU - Derek Stingley Jr.",10,SOLD,justright024
+"IND - Tyler Warren (AU)
+JAX - Travis Hunter
+KC - Dante Hall (AU)
+SEA - Uchenna Nwosu (CH)
+LV - Kirk Cousins
+CIN - Dexter Lawrence II",12,SOLD,mlocher02
+CAR - Tetairoa McMillan (AU) (CH),11,SOLD,justright024
+"ATL - Zachariah Branch (AU)
+BAL - Kyle Hamilton (AU)
+CAR - Jalen Coker (PP)
+DET - Isiah Pacheco
+PIT - DK Metcalf
+ATL - Chris Lindstrom",11,SOLD,justright024
+LV - Brock Bowers (AU) (CH) (PP),13,SOLD,justright024
+"NE - Christian Gonzalez (CH) (PP)
+DET - Brian Branch (PP)
+MIA - Malik Willis
+NYG - Darius Slayton
+LAR - Jordan Whittington
+NO - Juwan Johnson",50,SOLD,justright024
+"CHI - Rome Odunze (PP)
+LV - Jermod McCoy (AU)
+TEN - Keldric Faulk (AU)
+JAX - Travon Walker
+PIT - Pat Freiermuth
+GB - Javon Bullard (PP)",137,SOLD,russbtw

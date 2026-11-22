@@ -1,8 +1,8 @@
 spot,price,state,buyer
 Houston Texans,132,SOLD,sal_breaks
 Green Bay Packers,120,SOLD,gibraymond
-MISC,125,SOLD,bugnewma18
-Los Angeles Chargers,130,SOLD,bugnewma18
+#3,125,SOLD,bugnewma18
+#4,130,SOLD,bugnewma18
 #5,150,SOLD,sal_breaks
 Pittsburgh Steelers,160,SOLD,anthony082236
 Miami Dolphins,140,SOLD,drewgon14534
@@ -11,4 +11,31 @@ Dallas Cowboys,150,SOLD,grantdog16
 #10,152,SOLD,drewgon14534
 New York Giants,150,SOLD,drewgon14534
 Cleveland Browns,150,SOLD,botrosp1979
-#13,1,OPEN,
+Los Angeles Rams,150,SOLD,drewgon14534
+#14,145,SOLD,botrosp1979
+Kansas City Chiefs,160,SOLD,drewgon14534
+Tennessee Titans,164,SOLD,botrosp1979
+Tampa Bay Buccaneers,139,SOLD,bugnewma18
+Detroit Lions,96,SOLD,corndogg48
+Las Vegas Raiders,125,SOLD,bugnewma18
+Jacksonville Jaguars,105,SOLD,drewgon14534
+#21,98,SOLD,drewgon14534
+Minnesota Vikings,99,SOLD,xandersoncardz
+#23,95,SOLD,ceetee1410
+Cincinnati Bengals,111,SOLD,drewgon14534
+Philadelphia Eagles,155,SOLD,billybobtheclown
+Los Angeles Chargers,155,SOLD,ceetee1410
+Seattle Seahawks,140,SOLD,billybobtheclown
+Carolina Panthers,145,SOLD,lucky9871
+MISC,151,SOLD,drewgon14534
+Denver Broncos,145,SOLD,lucky9871
+Buffalo Bills,141,SOLD,lucky9871
+San Francisco 49ers,165,SOLD,botrosp1979
+Baltimore Ravens,120,SOLD,lucky9871
+Chicago Bears,105,SOLD,drewgon14534
+New Orleans Saints,114,SOLD,billybobtheclown
+Washington Commanders,115,SOLD,bugnewma18
+New York Jets,124,SOLD,drewgon14534
+Indianapolis Colts,137,SOLD,lucky9871
+Atlanta Falcons,195,SOLD,lucky9871
+Arizona Cardinals,49,SOLD,grantdog16

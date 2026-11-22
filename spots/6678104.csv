@@ -1,42 +1,43 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-MISC,,OPEN,
-CHASER,,OPEN,
-CHASER,,OPEN,
-CHASER,,OPEN,
-CHASER,,OPEN,
-CHASER,,OPEN,
-CHASER,,OPEN,
-CHASER,,OPEN,
-CHASER,,OPEN,
+Atlanta Falcons,10,SOLD,firetruckchuck
+#2,16,SOLD,sal_breaks
+Houston Texans,31,SOLD,tylerc0321
+Chicago Bears,32,SOLD,jrocks9
+Arizona Cardinals,25,SOLD,jrocks9
+Tennessee Titans,34,SOLD,rockyasincity
+Seattle Seahawks,42,SOLD,rockyasincity
+New York Jets,34,SOLD,jrocks9
+CHASER,42,SOLD,jamescle79342
+Cincinnati Bengals,42,SOLD,jrocks9
+Detroit Lions,48,SOLD,jrocks9
+CHASER,48,SOLD,jrocks9
+Dallas Cowboys,41,SOLD,grimestimes
+San Francisco 49ers,41,SOLD,grimestimes
+CHASER,43,SOLD,tylerc0321
+Los Angeles Rams,41,SOLD,jrocks9
+New England Patriots,41,SOLD,jrocks9
+Buffalo Bills,39,SOLD,grimestimes
+Indianapolis Colts,41,SOLD,jrocks9
+Baltimore Ravens,39,SOLD,grimestimes
+MISC,40,SOLD,jrocks9
+Las Vegas Raiders,40,SOLD,tylerc0321
+CHASER,41,SOLD,sportsxnet
+Denver Broncos,41,SOLD,dylanmit121926
+Washington Commanders,43,SOLD,sportsxnet
+New York Giants,44,SOLD,jrocks9
+CHASER,43,SOLD,jrocks9
+CHASER,36,SOLD,jrocks9
+CHASER,39,SOLD,tylerc0321
+Pittsburgh Steelers,38,SOLD,sportsxnet
+Philadelphia Eagles,33,SOLD,dylanmit121926
+New Orleans Saints,35,SOLD,tylerc0321
+Kansas City Chiefs,34,SOLD,sportsxnet
+CHASER,36,SOLD,sportsxnet
+Jacksonville Jaguars,38,SOLD,tylerc0321
+Los Angeles Chargers,37,SOLD,valtarbob
+Green Bay Packers,30,SOLD,letsgetthis23
+Cleveland Browns,33,SOLD,sportsxnet
+Carolina Panthers,27,SOLD,sportsxnet
+Tampa Bay Buccaneers,15,SOLD,sportsxnet
+Miami Dolphins,25,SOLD,tylerc0321
+Minnesota Vikings,25,SOLD,tylerc0321
