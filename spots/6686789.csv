@@ -1,33 +1,30 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+Atlanta Falcons,32,SOLD,upinsmoke
+Buffalo Bills,30,SOLD,marlon04
+Chicago Bears,28,SOLD,sdr1111
+Cincinnati Bengals,42,SOLD,bigdaddy6620
+Cleveland Browns,25,SOLD,tommyo420
+Dallas Cowboys,25,SOLD,1of1plz
+Detroit Lions,34,SOLD,bigdaddy6620
+Houston Texans,40,SOLD,jesster01538
+Jacksonville Jaguars,30,SOLD,1of1plz
+Las Vegas Raiders,38,SOLD,rozeycardz
+Los Angeles Rams,34,SOLD,bigdaddy6620
+Miami Dolphins,27,SOLD,ynotfrost
+New England Patriots,60,SOLD,shanec11
+New Orleans Saints,34,SOLD,bigdaddy6620
+New York Giants,30,SOLD,shanec11
+New York Jets,25,SOLD,shanec11
+Philadelphia Eagles,28,SOLD,sdr1111
+Pittsburgh Steelers,25,SOLD,1of1plz
+Seattle Seahawks,27,SOLD,matman05362
+Tampa Bay Buccaneers,68,SOLD,jesster01538
+Tennessee Titans,70,SOLD,shanec11
+Washington Commanders,23,SOLD,nevik
+"Arizona Cardinals, Indianapolis Colts",34,SOLD,jesster01538
+#8,34,SOLD,bigdaddy6620
+"Kansas City Chiefs, Los Angeles Chargers",66,SOLD,ynotfrost
+"Denver Broncos, Minnesota Vikings",59,SOLD,tommyo420
+#16,59,SOLD,bigdaddy6620
+"Baltimore Ravens, San Francisco 49ers",59,SOLD,bitewiththebark
+"Carolina Panthers, Green Bay Packers",44,SOLD,thecandyman007

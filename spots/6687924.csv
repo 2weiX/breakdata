@@ -1,0 +1,11 @@
+spot,price,state,buyer
+Minnesota Vikings,5,SOLD,mdaddygoblue
+MISC,6,SOLD,mdaddygoblue
+Denver Broncos,7,SOLD,krazam82
+Jacksonville Jaguars,8,SOLD,davepac
+Indianapolis Colts,9,SOLD,davepac
+San Francisco 49ers,9,SOLD,krazam82
+Atlanta Falcons,10,SOLD,camcav
+Buffalo Bills,12,SOLD,camcav
+Cincinnati Bengals,12,SOLD,camcav
+#10,1,OPEN,

@@ -1,31 +1,24 @@
 spot,price,state,buyer
 Arizona Cardinals,20,OPEN,
-Atlanta Falcons,4,OPEN,
 Baltimore Ravens,6,OPEN,
-Buffalo Bills,9,OPEN,
 Carolina Panthers,4,OPEN,
 Chicago Bears,8,OPEN,
 Cincinnati Bengals,7,SOLD,bgpoppa
-Cleveland Browns,5,OPEN,
 Dallas Cowboys,14,OPEN,
 Denver Broncos,6,OPEN,
-Houston Texans,7,OPEN,
 Indianapolis Colts,4,OPEN,
 Los Angeles Chargers,7,OPEN,
-Los Angeles Rams,11,OPEN,
 Miami Dolphins,5,OPEN,
 Minnesota Vikings,5,OPEN,
-New England Patriots,8,OPEN,
 New Orleans Saints,17,OPEN,
-New York Giants,10,OPEN,
 New York Jets,6,OPEN,
 Philadelphia Eagles,8,OPEN,
-Pittsburgh Steelers,8,OPEN,
 Seattle Seahawks,7,OPEN,
 Tampa Bay Buccaneers,6,OPEN,
 Tennessee Titans,19,OPEN,
-Washington Commanders,7,OPEN,
 "RAIDERS, 49'ERS",28,SOLD,bgpoppa
 "PACKERS, CHIEFS",14,SOLD,esteff53
 "LIONS, JAGUARS",11,SOLD,bgpoppa
 "BILLS, COMMANDERS, STEELERS",20,SOLD,bgpoppa
+"GIANTS, BILLS",15,SOLD,williamyet
+"BROWNS, PATS, TEXANS, RAMS, FALCONS",26,SOLD,hotchubbtimemachine

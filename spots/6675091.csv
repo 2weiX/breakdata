@@ -1,12 +1,12 @@
 spot,price,state,buyer
-#1,29,OPEN,
+#1,28,SOLD,tobigr19
 #2,29,OPEN,
 #3,29,SOLD,chris1505
-#4,29,OPEN,
+#4,29,SOLD,chris1505
 #5,29,OPEN,
 #6,29,OPEN,
 #7,29,SOLD,tobigr19
-#8,29,OPEN,
+#8,28,SOLD,totocards
 #9,29,OPEN,
 #10,29,OPEN,
 #11,29,OPEN,

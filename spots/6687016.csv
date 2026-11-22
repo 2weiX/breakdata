@@ -1,34 +1,17 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-MISC,,OPEN,
+Baltimore Ravens,50,SOLD,caseyask
+Buffalo Bills,75,SOLD,wildcats2686
+Cincinnati Bengals,82,SOLD,wildcats2686
+Detroit Lions,68,SOLD,ryanhan41096
+Green Bay Packers,73,SOLD,wildcats2686
+Los Angeles Rams,73,SOLD,caseyask
+New England Patriots,65,SOLD,generalfive1
+Pittsburgh Steelers,41,SOLD,beezythatguy515
+Seattle Seahawks,72,SOLD,ryanhan41096
+Tennessee Titans,61,SOLD,delidad3
+MISC,73,SOLD,delidad3
+#7,75,SOLD,wildcats2686
+#9,53,SOLD,beezythatguy515
+#10,68,SOLD,ryanhan41096
+#15,55,SOLD,ryanhan41096
+#16,63,SOLD,ryanhan41096

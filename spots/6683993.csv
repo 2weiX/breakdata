@@ -1,6 +1,6 @@
 spot,price,state,buyer
-Arizona Cardinals,65,OPEN,
-Atlanta Falcons,14,OPEN,
+Arizona Cardinals,53,SOLD,zacs_hidden_treasures
+Atlanta Falcons,4,SOLD,mitchell_boomin
 Baltimore Ravens,12,SOLD,waluigi_rips
 Buffalo Bills,32,SOLD,smokey2689
 Carolina Panthers,9,SOLD,smokey2689
@@ -16,15 +16,15 @@ Indianapolis Colts,7,SOLD,clevessportsnmore
 Jacksonville Jaguars,8.1,SOLD,717ripz
 Kansas City Chiefs,32,SOLD,browtine
 Las Vegas Raiders,80,SOLD,waluigi_rips
-Los Angeles Chargers,11,OPEN,
-Los Angeles Rams,45,OPEN,
+Los Angeles Chargers,5,SOLD,thilges90
+Los Angeles Rams,36,SOLD,zacs_hidden_treasures
 Miami Dolphins,12,SOLD,browtine
 Minnesota Vikings,9,SOLD,clevessportsnmore
-New England Patriots,49,OPEN,
-New Orleans Saints,25,OPEN,
-New York Giants,45,OPEN,
-New York Jets,25,OPEN,
-Philadelphia Eagles,26,OPEN,
+New England Patriots,42,SOLD,zacs_hidden_treasures
+New Orleans Saints,18,SOLD,zacs_hidden_treasures
+New York Giants,25,SOLD,thilges90
+New York Jets,18,SOLD,nccards92
+Philadelphia Eagles,15,SOLD,cashout_on_wax
 Pittsburgh Steelers,28,SOLD,browtine
 San Francisco 49ers,19.2,SOLD,cardcamp
 Seattle Seahawks,17,SOLD,mitchell_boomin

@@ -1,34 +1,36 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-MISC,,OPEN,
+Arizona Cardinals,8,SOLD,mdaddygoblue
+Atlanta Falcons,11,SOLD,seawitch540
+Baltimore Ravens,9,SOLD,pancaesar
+Buffalo Bills,8,SOLD,jwil1979
+Carolina Panthers,8,SOLD,ryanfra49600
+Chicago Bears,8,SOLD,jwil1979
+Cincinnati Bengals,7,SOLD,swiggynix615
+Cleveland Browns,8,SOLD,ryanfra49600
+Dallas Cowboys,12,SOLD,jwil1979
+Denver Broncos,9,SOLD,faulk28
+Detroit Lions,8,SOLD,seawitch540
+Green Bay Packers,9,SOLD,mdaddygoblue
+Houston Texans,8,SOLD,mdaddygoblue
+Indianapolis Colts,8,SOLD,jwil1979
+Jacksonville Jaguars,6,SOLD,seawitch540
+Kansas City Chiefs,11,SOLD,jakej1987
+Las Vegas Raiders,7,SOLD,ryanfra49600
+Los Angeles Chargers,8,SOLD,swiggynix615
+Los Angeles Rams,7,SOLD,swiggynix615
+Miami Dolphins,10,SOLD,nitcaleb
+Minnesota Vikings,8,SOLD,jwil1979
+New England Patriots,13,SOLD,troytravis7
+New Orleans Saints,9,SOLD,mdaddygoblue
+New York Giants,8,SOLD,jwil1979
+New York Jets,6,SOLD,seawitch540
+Philadelphia Eagles,8,SOLD,chasecubsdaddy
+Pittsburgh Steelers,7,SOLD,ryanfra49600
+San Francisco 49ers,7,SOLD,chasecubsdaddy
+Seattle Seahawks,9,SOLD,ryanfra49600
+Tampa Bay Buccaneers,8,SOLD,jwil1979
+Tennessee Titans,6,SOLD,mdaddygoblue
+Washington Commanders,5,SOLD,ryanfra49600
+MISC,9,SOLD,swiggynix615
+#7,1,SOLD,juddkai
+#8,1,SOLD,ryanfra49600
