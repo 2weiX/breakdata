@@ -1,7 +1,7 @@
 spot,price,state,buyer
 Arizona Cardinals,349,SOLD,hvacmatt
 Atlanta Falcons,109,SOLD,postglacial
-Baltimore Ravens,159,OPEN,
+Baltimore Ravens,159,SOLD,dougpen52999
 Buffalo Bills,369,SOLD,spearheadsports
 Carolina Panthers,129,SOLD,traderdough
 Chicago Bears,364,SOLD,brentsbreaks88
@@ -9,25 +9,26 @@ Cincinnati Bengals,229,SOLD,ctg_sports
 Cleveland Browns,219,SOLD,guillermosal50167
 Dallas Cowboys,189,SOLD,cardsjunkiemonkey
 Denver Broncos,249,SOLD,spearheadsports
-Detroit Lions,169,OPEN,
+Detroit Lions,169,SOLD,chargedcards
 Green Bay Packers,119,SOLD,saugywaffles
-Houston Texans,119,OPEN,
-Indianapolis Colts,99,OPEN,
+Houston Texans,114,SOLD,mcdaley11
+Indianapolis Colts,99,SOLD,guillermosal50167
 Jacksonville Jaguars,114,SOLD,ctg_sports
 Kansas City Chiefs,559,SOLD,callthebuyerasap
-Las Vegas Raiders,729,OPEN,
+Las Vegas Raiders,724,SOLD,callthebuyerasap
 Los Angeles Chargers,109,SOLD,chargedcards
 Los Angeles Rams,429,SOLD,guillermosal50167
-Miami Dolphins,119,OPEN,
+Miami Dolphins,115,SOLD,jt305
 Minnesota Vikings,129,SOLD,ma1t0u
 New England Patriots,599,SOLD,callthebuyerasap
-New Orleans Saints,219,OPEN,
-New York Giants,279,OPEN,
-New York Jets,179,OPEN,
-Philadelphia Eagles,219,OPEN,
+New Orleans Saints,219,SOLD,dougpen52999
+New York Giants,279,SOLD,drrouth67
+New York Jets,179,SOLD,millertime86
+Philadelphia Eagles,219,SOLD,jleo071986
 Pittsburgh Steelers,159,SOLD,cardsjunkiemonkey
 San Francisco 49ers,274,SOLD,doccomix
-Seattle Seahawks,279,OPEN,
+Seattle Seahawks,255,SOLD,jleo071986
 Tampa Bay Buccaneers,229,SOLD,joeyj222
 Tennessee Titans,214,SOLD,hvacmatt
 Washington Commanders,154,SOLD,roswell777
+Indianapolis Colts (Re-Added) ,83,SOLD,traderdough

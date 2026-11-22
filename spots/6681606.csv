@@ -1,33 +1,20 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+Arizona Cardinals,21,SOLD,thehobbydoctor
+Baltimore Ravens,21,SOLD,ethanjay94
+Buffalo Bills,17,SOLD,ethanjay94
+Dallas Cowboys,31,SOLD,premierblizzardbreaks
+Denver Broncos,18,SOLD,ethanjay94
+Green Bay Packers,22,SOLD,ethanjay94
+Houston Texans,20,SOLD,ethanjay94
+Minnesota Vikings,20,SOLD,jessthelesbean
+New England Patriots,22,SOLD,fast_break_chaos
+New York Giants,22,SOLD,ethanjay94
+New York Jets,26,SOLD,mjb_222
+"Chicago Bears, Cincinnati Bengals",16,SOLD,ethanjay94
+"Kansas City Chiefs, Tampa Bay Buccaneers",18,SOLD,ethanjay94
+"San Francisco 49ers, Seattle Seahawks",21,SOLD,thehobbydoctor
+"Detroit Lions, Las Vegas Raiders",22,SOLD,ethanjay94
+"Miami Dolphins, Washington Commanders",20,SOLD,thehobbydoctor
+"Jacksonville Jaguars, Philadelphia Eagles",20,SOLD,fast_break_chaos
+"Cleveland Browns, Pittsburgh Steelers",23,SOLD,fast_break_chaos
+"Atlanta Falcons, Carolina Panthers, Indianapolis Colts, Los Angeles Chargers, Los Angeles Rams, New Orleans Saints, Tennessee Titans",6,SOLD,premierblizzardbreaks

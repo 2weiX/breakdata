@@ -1,33 +1,21 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+Arizona Cardinals,14,SOLD,richardfet
+Baltimore Ravens,18,SOLD,jboybreaks
+Buffalo Bills,17,SOLD,canes469
+Carolina Panthers,18,SOLD,canes469
+Denver Broncos,8,SOLD,jbschilin
+Green Bay Packers,14,SOLD,canes469
+Indianapolis Colts,19,SOLD,canes469
+Kansas City Chiefs,17,SOLD,canes469
+Minnesota Vikings,16,SOLD,jboybreaks
+San Francisco 49ers,11,SOLD,jbschilin
+Washington Commanders,23,SOLD,mjb_222
+"Pittsburgh Steelers, Seattle Seahawks",19,SOLD,canes469
+"Houston Texans, New Orleans Saints",14,SOLD,fast_break_chaos
+"Cincinnati Bengals, Dallas Cowboys",18,SOLD,jwbm_rocketcity_breaks
+"Jacksonville Jaguars, New England Patriots",10,SOLD,premierblizzardbreaks
+"Atlanta Falcons, Las Vegas Raiders",10,SOLD,jbschilin
+"Chicago Bears, Tennessee Titans",10,SOLD,canes469
+"Detroit Lions, Miami Dolphins",10,SOLD,mjb_222
+"Los Angeles Rams, New York Giants",11,SOLD,jbschilin
+"Cleveland Browns, Los Angeles Chargers, New York Jets, Philadelphia Eagles, Tampa Bay Buccaneers, NIL SPOT ",11,SOLD,canes469

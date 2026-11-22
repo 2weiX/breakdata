@@ -1,6 +1,4 @@
 spot,price,state,buyer
-#1,19,OPEN,
-#2,19,OPEN,
 #3,19,OPEN,
 #4,19,OPEN,
 #5,19,OPEN,
@@ -9,13 +7,10 @@ spot,price,state,buyer
 #8,19,OPEN,
 #9,19,OPEN,
 #10,19,OPEN,
-#11,19,OPEN,
-#12,19,OPEN,
 #13,19,OPEN,
 #14,19,OPEN,
 #15,19,OPEN,
 #16,19,OPEN,
-#17,19,OPEN,
 #18,19,OPEN,
 #19,19,OPEN,
 #20,19,OPEN,
@@ -31,3 +26,8 @@ spot,price,state,buyer
 #30,19,OPEN,
 #31,19,OPEN,
 #32,19,OPEN,
+New York Giants,19,SOLD,daviseas
+Miami Dolphins,19,SOLD,daviseas
+Jacksonville Jaguars,19,SOLD,daviseas
+Washington Commanders,19,SOLD,daviseas
+Dallas Cowboys,19,SOLD,daviseas

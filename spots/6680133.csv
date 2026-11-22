@@ -1,34 +1,46 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-Miscellaneous,,OPEN,
+Arizona Cardinals,27,SOLD,brettsch44
+Atlanta Falcons,105,SOLD,q_210
+Baltimore Ravens,123,SOLD,botrosp1979
+Buffalo Bills,102,SOLD,cadenic3
+Carolina Panthers,28,SOLD,lanek22
+Chicago Bears,124,SOLD,thebinmaster87
+Cincinnati Bengals,100,SOLD,tyb1659
+Cleveland Browns,83,SOLD,initiativewon
+Dallas Cowboys,145,SOLD,botrosp1979
+Denver Broncos,120,SOLD,cadenic3
+Detroit Lions,145,SOLD,botrosp1979
+Green Bay Packers,130,SOLD,botrosp1979
+Houston Texans,120,SOLD,myohmy0012
+Indianapolis Colts,26,SOLD,lanek22
+Jacksonville Jaguars,121,SOLD,kennyharris11
+Kansas City Chiefs,95,SOLD,tyb1659
+Las Vegas Raiders,40,SOLD,firecitybreaks
+Los Angeles Chargers,87,SOLD,erekfen
+Los Angeles Rams,127,SOLD,thebinmaster87
+Miami Dolphins,140,SOLD,kickcollectibles
+Minnesota Vikings,129,SOLD,thebinmaster87
+New England Patriots,105,SOLD,dannydubcards
+New Orleans Saints,32,SOLD,myohmy0012
+New York Giants,120,SOLD,raymond14stone
+New York Jets,44,SOLD,q_210
+Philadelphia Eagles,140,SOLD,initiativewon
+Pittsburgh Steelers,99,SOLD,myohmy0012
+San Francisco 49ers,100,SOLD,brettsch44
+Seattle Seahawks,135,SOLD,kennyharris11
+Tampa Bay Buccaneers,130,SOLD,thebinmaster87
+Tennessee Titans,140,SOLD,botrosp1979
+Washington Commanders,84,SOLD,tyb1659
+Miscellaneous,130,SOLD,kennyharris11
+#7,109,SOLD,initiativewon
+#10,145,SOLD,botrosp1979
+#12,160,SOLD,botrosp1979
+#14,163,SOLD,botrosp1979
+#17,143,SOLD,botrosp1979
+#21,124,SOLD,kennyharris11
+#24,145,SOLD,botrosp1979
+#26,121,SOLD,cadenic3
+#33,79,SOLD,erekfen
+#36,95,SOLD,tyb1659
+#37,101,SOLD,tyb1659
+#41,44,SOLD,q_210

@@ -1,2 +1,12 @@
 spot,price,state,buyer
-#1,1,OPEN,
+Dallas Cowboys,6,SOLD,stronghammer
+New England Patriots,6,SOLD,stronghammer
+Cincinnati Bengals,6,SOLD,stronghammer
+Denver Broncos,6,SOLD,stronghammer
+New York Giants,6,SOLD,stronghammer
+Tampa Bay Buccaneers,6,SOLD,stronghammer
+Los Angeles Chargers,6,SOLD,stronghammer
+Cleveland Browns,6,SOLD,stronghammer
+Baltimore Ravens,6,SOLD,stronghammer
+Indianapolis Colts,6,SOLD,stronghammer
+#11,1,OPEN,
