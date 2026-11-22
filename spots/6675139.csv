@@ -12,12 +12,10 @@ spot,price,state,buyer
 Kansas City Chiefs,11,SOLD,craden1181
 #12,11,OPEN,
 #13,11,OPEN,
-#14,11,OPEN,
 #15,11,OPEN,
 #16,11,OPEN,
 #17,11,OPEN,
 #18,11,OPEN,
-#19,11,OPEN,
 #20,11,OPEN,
 #21,11,OPEN,
 #22,11,OPEN,
@@ -31,3 +29,5 @@ Kansas City Chiefs,11,SOLD,craden1181
 #30,11,OPEN,
 #31,11,OPEN,
 #32,11,OPEN,
+New Orleans Saints,8,SOLD,craden1181
+Cincinnati Bengals,11,SOLD,tobigr19

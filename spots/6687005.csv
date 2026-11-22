@@ -1,34 +1,37 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-MISC,,OPEN,
+Arizona Cardinals,96,SOLD,everythinginsurance
+Atlanta Falcons,45,SOLD,seawitch540
+Baltimore Ravens,148,SOLD,weijulia09976
+Buffalo Bills,106,SOLD,haydensch26219
+Carolina Panthers,90,SOLD,allen2626
+Chicago Bears,140,SOLD,haydensch26219
+Cincinnati Bengals,106,SOLD,mooseluce
+Cleveland Browns,73,SOLD,sweensween6
+Dallas Cowboys,98,SOLD,everythinginsurance
+Denver Broncos,127,SOLD,ryanhan41096
+Detroit Lions,96,SOLD,beezythatguy515
+Green Bay Packers,143,SOLD,wildcats2686
+Houston Texans,53,SOLD,420cardz
+Indianapolis Colts,60,SOLD,haydensch26219
+Jacksonville Jaguars,75,SOLD,skunkycardemporium315
+Kansas City Chiefs,149,SOLD,johnkho23
+Las Vegas Raiders,148,SOLD,davebrown56
+Los Angeles Chargers,122,SOLD,wildcats2686
+Los Angeles Rams,101,SOLD,ryanhan41096
+Miami Dolphins,24,SOLD,seawitch540
+Minnesota Vikings,63,SOLD,nickb2828
+New England Patriots,102,SOLD,davebrown56
+New Orleans Saints,30,SOLD,sweensween6
+New York Giants,2,SOLD,mooseluce
+New York Jets,93,SOLD,sweensween6
+Philadelphia Eagles,151,SOLD,wildcats2686
+Pittsburgh Steelers,83,SOLD,allen2626
+San Francisco 49ers,107,SOLD,sweensween6
+Seattle Seahawks,92,SOLD,nickb2828
+Tampa Bay Buccaneers,66,SOLD,sweensween6
+Tennessee Titans,61,SOLD,skarr1338
+Washington Commanders,94,SOLD,haydensch26219
+MISC,90,SOLD,allen2626
+T,92,SOLD,beezythatguy515
+T,93,SOLD,allen2626
+#33,105,SOLD,skunkycardemporium315

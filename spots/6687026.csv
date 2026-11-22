@@ -1,6 +1,5 @@
 spot,price,state,buyer
 San Francisco 49ers,18,SOLD,mayosbc
-#2,10,SOLD,butcher_tls
 Los Angeles Chargers,10,SOLD,jcscards1022
 Buffalo Bills,11,SOLD,mayosbc
 Tennessee Titans,15,SOLD,zeedeebreaker
@@ -9,7 +8,6 @@ Jacksonville Jaguars,10,SOLD,butcher_tls
 Green Bay Packers,10,SOLD,mayosbc
 Pittsburgh Steelers,15,SOLD,mayosbc
 New England Patriots,15,SOLD,mayosbc
-#11,15,SOLD,mayosbc
 Las Vegas Raiders,13,SOLD,red1325
 Denver Broncos,21,SOLD,mayosbc
 Seattle Seahawks,15,SOLD,red1325
@@ -20,10 +18,19 @@ Dallas Cowboys,15,SOLD,mayosbc
 Cincinnati Bengals,10,SOLD,stormsha36308
 Miami Dolphins,10,SOLD,red1325
 Arizona Cardinals,13,SOLD,stormsha36308
-#22,11,SOLD,red1325
 New York Giants,10,SOLD,mayosbc
 Philadelphia Eagles,10,SOLD,red1325
 Washington Commanders,15,SOLD,mayosbc
 New York Jets,11,SOLD,stormsha36308
-Carolina Panthers,10,SOLD,butcher_tls
-New Orleans Saints,12,SOLD,red1325
+Carolina Panthers,12,SOLD,red1325
+New Orleans Saints,10,SOLD,butcher_tls
+t,10,SOLD,butcher_tls
+t,15,SOLD,mayosbc
+t,11,SOLD,red1325
+MISC,10,SOLD,stormsha36308
+Cleveland Browns,3,SOLD,red1325
+Indianapolis Colts,2,SOLD,mayosbc
+Kansas City Chiefs,2,SOLD,bazpat
+Houston Texans,5,SOLD,stormsha36308
+Atlanta Falcons,5,SOLD,bazpat
+"Minnesota Vikings, Tampa Bay Buccaneers",13,SOLD,bazpat

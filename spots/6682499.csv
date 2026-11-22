@@ -1,33 +1,33 @@
 spot,price,state,buyer
-Arizona Cardinals,290,OPEN,
+Arizona Cardinals,336,OPEN,
 Atlanta Falcons,40,SOLD,clevelandcayce
 Baltimore Ravens,40,SOLD,clevelandcayce
-Buffalo Bills,290,OPEN,
+Buffalo Bills,336,OPEN,
 Carolina Panthers,75,SOLD,codyshin
-Chicago Bears,280,OPEN,
+Chicago Bears,328,OPEN,
 Cincinnati Bengals,60,SOLD,clevelandcayce
 Cleveland Browns,180,SOLD,clevelandcayce
-Dallas Cowboys,185,OPEN,
+Dallas Cowboys,180,OPEN,
 Denver Broncos,180,OPEN,
 Detroit Lions,100,SOLD,codyshin
 Green Bay Packers,40,SOLD,clevelandcayce
 Houston Texans,40,SOLD,clevelandcayce
-Indianapolis Colts,110,OPEN,
+Indianapolis Colts,105,OPEN,
 Jacksonville Jaguars,60,SOLD,iiishanks
-Kansas City Chiefs,439,OPEN,
+Kansas City Chiefs,360,OPEN,
 Las Vegas Raiders,665,SOLD,clevelandcayce
 Los Angeles Chargers,40,SOLD,clevelandcayce
-Los Angeles Rams,285,OPEN,
-Miami Dolphins,120,OPEN,
+Los Angeles Rams,328,OPEN,
+Miami Dolphins,139,OPEN,
 Minnesota Vikings,85,SOLD,clevelandcayce
-New England Patriots,465,OPEN,
-New Orleans Saints,185,OPEN,
-New York Giants,339,OPEN,
-New York Jets,205,OPEN,
-Philadelphia Eagles,159,OPEN,
+New England Patriots,445,OPEN,
+New Orleans Saints,228,OPEN,
+New York Giants,356,OPEN,
+New York Jets,228,OPEN,
+Philadelphia Eagles,190,OPEN,
 Pittsburgh Steelers,195,OPEN,
-San Francisco 49ers,235,OPEN,
-Seattle Seahawks,123,OPEN,
+San Francisco 49ers,188,OPEN,
+Seattle Seahawks,152,OPEN,
 Tampa Bay Buccaneers,99,OPEN,
 Tennessee Titans,150,SOLD,clevelandcayce
-Washington Commanders,169,OPEN,
+Washington Commanders,199,OPEN,

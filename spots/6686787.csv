@@ -1,33 +1,25 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+Arizona Cardinals,34,SOLD,1of1plz
+Cincinnati Bengals,30,SOLD,1of1plz
+Cleveland Browns,33,SOLD,notoriousbad
+Denver Broncos,27,SOLD,incardibles
+Green Bay Packers,30,SOLD,notoriousbad
+Jacksonville Jaguars,29,SOLD,k_ry_meyer
+Kansas City Chiefs,29,SOLD,k_ry_meyer
+Las Vegas Raiders,36,SOLD,swish__22
+Los Angeles Rams,42,SOLD,jacoblac89633
+New Orleans Saints,50,SOLD,jacobingb
+New York Giants,30,SOLD,1of1plz
+New York Jets,36,SOLD,rozeycardz
+Philadelphia Eagles,28,SOLD,1of1plz
+Pittsburgh Steelers,26,SOLD,ynotfrost
+San Francisco 49ers,27,SOLD,breakboyzcards
+Tampa Bay Buccaneers,26,SOLD,incardibles
+Tennessee Titans,30,SOLD,jacoblac89633
+Washington Commanders,25,SOLD,incardibles
+#4,25,SOLD,1of1plz
+"Chicago Bears, Detroit Lions",62,SOLD,ynotfrost
+"Baltimore Ravens, Seattle Seahawks",60,SOLD,k_ry_meyer
+"Indianapolis Colts, Miami Dolphins",23,SOLD,jacobingb
+"Atlanta Falcons, Buffalo Bills",54,SOLD,ercmerc1
+#24,1,OPEN,
