@@ -1,33 +1,33 @@
 spot,price,state,buyer
-#1,39,SOLD,jwhv1
-#2,35,SOLD,mjk_cardsss
-#3,27.9,SOLD,tcgbreakbro
-#4,35.1,SOLD,davidsobes44
-#5,27.9,SOLD,tcgbreakbro
-#6,30,SOLD,calvinnl07
-#7,29,SOLD,xbaito
-#8,35.1,SOLD,davidsobes44
-#9,29,SOLD,xbaito
-#10,35,SOLD,davidsobes44
-#11,26.97,SOLD,xbaito
-#12,39,SOLD,jwhv1
-#13,36.27,SOLD,joker13884
-#14,29,SOLD,fonta23
-#15,29,SOLD,dbzruurd
-#16,29,SOLD,nacas1990
-#17,39,SOLD,toppertjevannoord
-#18,29,SOLD,prump89
-#19,39,SOLD,toppertjevannoord
-#20,25,SOLD,xbaito
-#21,39,SOLD,jwhv1
-#22,30,SOLD,toppertjevannoord
-#23,25,SOLD,xbaito
-#24,39,SOLD,pekkaniska
-#25,39,OPEN,
-#26,39,OPEN,
-#27,39,OPEN,
-#28,39,OPEN,
-#29,39,OPEN,
-#30,39,OPEN,
-#31,39,OPEN,
-#32,39,OPEN,
+San Francisco 49ers,39,SOLD,jwhv1
+Los Angeles Rams,35,SOLD,mjk_cardsss
+Philadelphia Eagles,27.9,SOLD,tcgbreakbro
+New Orleans Saints,35.1,SOLD,davidsobes44
+Tennessee Titans,27.9,SOLD,tcgbreakbro
+New York Jets,30,SOLD,calvinnl07
+Buffalo Bills,29,SOLD,xbaito
+New York Giants,35.1,SOLD,davidsobes44
+Los Angeles Chargers,29,SOLD,xbaito
+Cleveland Browns,35,SOLD,davidsobes44
+Kansas City Chiefs,26.97,SOLD,xbaito
+Pittsburgh Steelers,39,SOLD,jwhv1
+Jacksonville Jaguars,36.27,SOLD,joker13884
+Atlanta Falcons,29,SOLD,fonta23
+Dallas Cowboys,29,SOLD,dbzruurd
+Tampa Bay Buccaneers,29,SOLD,nacas1990
+Indianapolis Colts,39,SOLD,toppertjevannoord
+Green Bay Packers,29,SOLD,prump89
+Chicago Bears,39,SOLD,toppertjevannoord
+New England Patriots,25,SOLD,xbaito
+Cincinnati Bengals,39,SOLD,jwhv1
+Houston Texans,30,SOLD,toppertjevannoord
+Las Vegas Raiders,25,SOLD,xbaito
+Baltimore Ravens,39,SOLD,pekkaniska
+Arizona Cardinals,25,SOLD,toppertjevannoord
+Washington Commanders,25,SOLD,willembee
+Denver Broncos,26,SOLD,carlos_braga
+Minnesota Vikings,39,SOLD,marijnvis
+Seattle Seahawks,23.75,SOLD,ronny_maccaroni
+Carolina Panthers,25,SOLD,jwhv1
+Miami Dolphins,25,SOLD,fonta23
+Detroit Lions,39,SOLD,marijnvis
