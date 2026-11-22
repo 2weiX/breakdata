@@ -18,7 +18,7 @@ Kansas City Chiefs,713,OPEN,
 Las Vegas Raiders,826,OPEN,
 Los Angeles Chargers,155,OPEN,
 Los Angeles Rams,475,OPEN,
-Miami Dolphins,123,SOLD,blairnau
+Miami Dolphins,123,OPEN,
 Minnesota Vikings,154,OPEN,
 New England Patriots,756,OPEN,
 New Orleans Saints,269,OPEN,
@@ -30,4 +30,5 @@ San Francisco 49ers,382,OPEN,
 Seattle Seahawks,361,OPEN,
 Tampa Bay Buccaneers,289,OPEN,
 Washington Commanders,237,OPEN,
-Tennessee Titans,250,SOLD,lvdsportscards
+Tennessee Titans,289,OPEN,
+#31,289,SOLD,lvdsportscards

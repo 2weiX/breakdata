@@ -1,44 +1,19 @@
 spot,price,state,buyer
-SHOVEL 1,,OPEN,
-SHOVEL 2,,OPEN,
-SHOVEL 3,,OPEN,
-SHOVEL 4,,OPEN,
-SHOVEL 5,,OPEN,
-SHOVEL 6,,OPEN,
-SHOVEL 7,,OPEN,
-SHOVEL 8,,OPEN,
-SHOVEL 9,,OPEN,
-SHOVEL 10,,OPEN,
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-NIL/MISC,,OPEN,
+SHOVEL 1,42,SOLD,pokinets
+SHOVEL 3,63,SOLD,pokinets
+SHOVEL 4,43,SOLD,pokinets
+SHOVEL 6,73,SOLD,pokinets
+SHOVEL 7,27,SOLD,pokinets
+SHOVEL 10,42,SOLD,pokinets
+Arizona Cardinals,42,SOLD,pokinets
+Houston Texans,40,SOLD,cardkinex
+Kansas City Chiefs,42,SOLD,jaybonni
+Pittsburgh Steelers,40,SOLD,jaybonni
+San Francisco 49ers,44,SOLD,jaybonni
+T,75,SOLD,pokinets
+T,73,SOLD,pokinets
+T,47,SOLD,jaybonni
+T,61,SOLD,pokinets
+T,65,SOLD,pokinets
+T,53,SOLD,pokinets
+#18,1,OPEN,

@@ -1,33 +1,12 @@
 spot,price,state,buyer
-Anaheim Ducks,,OPEN,
-Arizona Coyotes,,OPEN,
-Boston Bruins,,OPEN,
-Buffalo Sabres,,OPEN,
-Calgary Flames,,OPEN,
-Carolina Hurricanes,,OPEN,
-Chicago Blackhawks,,OPEN,
-Colorado Avalanche,,OPEN,
-Columbus Blue Jackets,,OPEN,
-Dallas Stars,,OPEN,
-Detroit Red Wings,,OPEN,
-Edmonton Oilers,,OPEN,
-Florida Panthers,,OPEN,
-Los Angeles Kings,,OPEN,
-Minnesota Wild,,OPEN,
-Montreal Canadiens,,OPEN,
-Nashville Predators,,OPEN,
-New Jersey Devils,,OPEN,
-New York Islanders,,OPEN,
-New York Rangers,,OPEN,
-Ottawa Senators,,OPEN,
-Philadelphia Flyers,,OPEN,
-Pittsburgh Penguins,,OPEN,
-San Jose Sharks,,OPEN,
-Seattle Kraken,,OPEN,
-St. Louis Blues,,OPEN,
-Tampa Bay Lightning,,OPEN,
-Toronto Maple Leafs,,OPEN,
-Vancouver Canucks,,OPEN,
-Vegas Golden Knights,,OPEN,
-Washington Capitals,,OPEN,
-Winnipeg Jets,,OPEN,
+Arizona Coyotes,10,SOLD,rwhinamante
+Buffalo Sabres,10,SOLD,jroddd101
+Columbus Blue Jackets,10,SOLD,primfox
+Dallas Stars,10,SOLD,primfox
+Detroit Red Wings,10,SOLD,jroddd101
+Edmonton Oilers,10,SOLD,jroddd101
+Montreal Canadiens,12,SOLD,rwhinamante
+Ottawa Senators,10,SOLD,rwhinamante
+Pittsburgh Penguins,10,SOLD,jroddd101
+San Jose Sharks,10,SOLD,jroddd101
+#11,1,OPEN,

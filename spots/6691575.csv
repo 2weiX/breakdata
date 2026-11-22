@@ -1,36 +1,43 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-GOLD HIT!,,OPEN,
-APOLLO!,,OPEN,
-GOLD HIT!,,OPEN,
+Arizona Cardinals,32,SOLD,ksm2
+Atlanta Falcons,38,SOLD,jerryhustle0102
+Baltimore Ravens,25,SOLD,urban56
+Buffalo Bills,16,SOLD,zainshe40714
+Carolina Panthers,36,SOLD,jerryhustle0102
+Chicago Bears,33,SOLD,cothernandson
+Cincinnati Bengals,20,SOLD,zainshe40714
+Cleveland Browns,38,SOLD,jerryhustle0102
+Dallas Cowboys,26,SOLD,zainshe40714
+Denver Broncos,27,SOLD,zainshe40714
+Detroit Lions,28,SOLD,michaeljoh00395
+Green Bay Packers,26,SOLD,michaeljoh00395
+Houston Texans,36,SOLD,jerryhustle0102
+Indianapolis Colts,20,SOLD,faulk28
+Jacksonville Jaguars,19,SOLD,keelanjon
+Kansas City Chiefs,14,SOLD,lawthe
+Las Vegas Raiders,21,SOLD,jackpack_dre
+Los Angeles Chargers,18,SOLD,kennethmui
+Los Angeles Rams,26,SOLD,zainshe40714
+Miami Dolphins,13,SOLD,michaeljoh00395
+Minnesota Vikings,11,SOLD,travis_pontes
+New England Patriots,28,SOLD,michaeljoh00395
+New Orleans Saints,23,SOLD,fundchasin
+New York Giants,34,SOLD,michaeljoh00395
+New York Jets,27,SOLD,jerryhustle0102
+Philadelphia Eagles,29,SOLD,urban56
+Pittsburgh Steelers,21,SOLD,zainshe40714
+San Francisco 49ers,25,SOLD,zainshe40714
+Seattle Seahawks,34,SOLD,jerryhustle0102
+Tampa Bay Buccaneers,27,SOLD,michaeljoh00395
+Tennessee Titans,30,SOLD,cothernandson
+Washington Commanders,23,SOLD,jackpack_dre
+GOLD HIT!,43,SOLD,jerryhustle0102
+APOLLO!,35,SOLD,urban56
+GOLD HIT!,32,SOLD,michaeljoh00395
+#10,22,SOLD,zainshe40714
+#12,23,SOLD,zainshe40714
+#17,29,SOLD,urban56
+#24,23.4,SOLD,zainshe40714
+#25,27,SOLD,zainshe40714
+#29,26,SOLD,michaeljoh00395
+MISC,37.84,SOLD,keelanjon

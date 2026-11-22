@@ -10,10 +10,10 @@ spot,price,state,buyer
 "118 - Nico Collins, Houston Texans",50,SOLD,kerverder
 "119 - Jayden Higgins & Andre Johnson, Houston Texans",275,OPEN,
 "12 - Bijan Robinson, Atlanta Falcons",625,OPEN,
-"121 - Will Anderson Jr., Houston Texans",150,OPEN,
+"121 - Will Anderson Jr., Houston Texans",50,SOLD,card_cave_vending
 "125 - Daniel Jones, Indianapolis Colts",49,SOLD,miguelrey59298
 "127 - Jonathan Taylor, Indianapolis Colts",300,OPEN,
-"129 - Josh Downs, Indianapolis Colts",125,OPEN,
+"129 - Josh Downs, Indianapolis Colts",40,SOLD,breens9
 "130 - Tyler Warren, Indianapolis Colts",80,SOLD,m1kehawkk
 "135 - Trevor Lawrence, Jacksonville Jaguars",750,OPEN,
 "136 - Bhayshul Tuten, Jacksonville Jaguars",60,SOLD,sesc3771
@@ -21,14 +21,14 @@ spot,price,state,buyer
 "139 - Travis Hunter, Jacksonville Jaguars",175,OPEN,
 "14 - Drake London, Atlanta Falcons",375,OPEN,
 "140 - Brenton Strange, Jacksonville Jaguars",25,SOLD,mwfan06
-"143 - Cam Little, Jacksonville Jaguars",150,OPEN,
+"143 - Cam Little, Jacksonville Jaguars",76,SOLD,samhnovak
 "144 - Patrick Mahomes II, Kansas City Chiefs",2500,SOLD,trustmydust
-"145 - Kenneth Walker III, Kansas City Chiefs",300,OPEN,
+"145 - Kenneth Walker III, Kansas City Chiefs",150,SOLD,uncletaco916
 "146 - Xavier Worthy, Kansas City Chiefs",91,SOLD,elgallochalino
 "147 - Rashee Rice, Kansas City Chiefs",48,SOLD,elgallochalino
 "149 - Travis Kelce & Tyreek Hill, Kansas City Chiefs",500,OPEN,
-"155 - Ashton Jeanty, Las Vegas Raiders",200,OPEN,
-"157 - Tre Tucker, Las Vegas Raiders",125,OPEN,
+"155 - Ashton Jeanty, Las Vegas Raiders",100,SOLD,calebden24009
+"157 - Tre Tucker, Las Vegas Raiders",21,SOLD,card_cave_vending
 "159 - Brock Bowers, Las Vegas Raiders, 176 - Blake Corum, Los Angeles Rams",325,SOLD,uptruebreed
 "16 - Kyle Pitts Sr. & Tony Gonzalez, Atlanta Falcons",300,OPEN,
 "160 - Maxx Crosby & Howie Long, Las Vegas Raiders",200,SOLD,emersond23
@@ -46,7 +46,7 @@ spot,price,state,buyer
 "194 - Justin Jefferson, Minnesota Vikings",560,SOLD,sesc3771
 "20 - Derrick Henry, Baltimore Ravens",262.5,SOLD,panther89
 "200 - Drake Maye, New England Patriots",1500,OPEN,
-"202 - TreVeyon Henderson, New England Patriots",150,OPEN,
+"202 - TreVeyon Henderson, New England Patriots",70,SOLD,gatorpk321
 "203 - Kayshon Boutte, New England Patriots",22,SOLD,m1kehawkk
 "206 - Hunter Henry & Rob Gronkoski, New England Patriots",275,OPEN,
 "208 - Christian Gonzalez, New England Patriots",75,SOLD,blissiverse
@@ -57,11 +57,11 @@ spot,price,state,buyer
 "219 - Cam Skattebo, New York Giants",200,OPEN,
 "221 - Malik Nabers, New York Giants",130,SOLD,loose_sleevebreaks
 "228 - Breece Hall, New York Jets",200,OPEN,
-"229 - Braelon Allen, New York Jets",125,OPEN,
+"229 - Braelon Allen, New York Jets",60,SOLD,breens9
 "23 - Zay Flowers, Baltimore Ravens",200,OPEN,
 "231 - Garrett Wilson, New York Jets",250,OPEN,
 "236 - Jalen Hurts, Philadelphia Eagles",375,OPEN,
-"237 - Saquon Barkley, Philadelphia Eagles",400,OPEN,
+"237 - Saquon Barkley, Philadelphia Eagles",225,SOLD,jayhar36651
 "238 - Tank Bigsby, Philadelphia Eagles",15,SOLD,blissiverse
 "242 - Jalen Carter, Philadelphia Eagles",30,SOLD,m1kehawkk
 "243 - Jihaad Campbell, Philadelphia Eagles",24,SOLD,m1kehawkk
@@ -78,7 +78,7 @@ spot,price,state,buyer
 "265 - Zach Charbonnet, Seattle Seahawks",42,SOLD,trevorgeo
 "266 - Jaxon Smith-Njigba, Seattle Seahawks",2000,OPEN,
 "267 - Rashid Shaheed, Seattle Seahawks",18,SOLD,kerverder
-"268 - Cooper Kupp, Seattle Seahawks",125,OPEN,
+"268 - Cooper Kupp, Seattle Seahawks",37,SOLD,miguelrey59298
 "27 - Nate Wiggins, Baltimore Ravens",8,SOLD,sesc3771
 "270 - Byron Murphy II, Seattle Seahawks",125,OPEN,
 "271 - Devon Witherspoon, Seattle Seahawks",85,SOLD,uncletaco916
@@ -98,7 +98,7 @@ spot,price,state,buyer
 "305 - Avieon Terrell (RC), Atlanta Falcons",17,SOLD,kerverder
 "306 - Harold Perkins Jr. (RC), Atlanta Falcons",15,SOLD,saugywaffles
 "307 - Ja'Kobi Lane (RC), Baltimore Ravens",150,SOLD,blissiverse
-"308 - Elijah Sarratt (RC), Baltimore Ravens",100,OPEN,
+"308 - Elijah Sarratt (RC), Baltimore Ravens",35,SOLD,bexleytaylor
 "309 - Zion Young (RC), Baltimore Ravens",18,SOLD,curated_cardboard_chicago
 "310 - Skyler Bell (RC), Buffalo Bills",150,OPEN,
 "311 - T.J. Parker (RC), Buffalo Bills",10,SOLD,kerverder
@@ -143,12 +143,12 @@ spot,price,state,buyer
 "351 - Fernando Mendoza (RC), Las Vegas Raiders, 302 - Jeremiyah Love (RC), Arizona Cardinals",3500,SOLD,mushman789
 "352 - Mike Washington Jr. (RC), Las Vegas Raiders",200,OPEN,
 "353 - Jermod McCoy (RC), Las Vegas Raiders",6,SOLD,gatorpk321
-"354 - Brenen Thompson (RC), Los Angeles Chargers",100,OPEN,
+"354 - Brenen Thompson (RC), Los Angeles Chargers",25,SOLD,calebden24009
 "355 - Akheem Mesidor (RC), Los Angeles Chargers",38,SOLD,theulaw
 "356 - Genesis Smith (RC), Los Angeles Chargers",15,SOLD,saugywaffles
 "357 - Ty Simpson (RC), Los Angeles Rams",1125,OPEN,
 "358 - CJ Daniels (RC), Los Angeles Rams",19,SOLD,trevorgeo
-"359 - Max Klare (RC), Los Angeles Rams",125,OPEN,
+"359 - Max Klare (RC), Los Angeles Rams",23,SOLD,homerunpulls
 "360 - Caleb Douglas (RC), Miami Dolphins",145,SOLD,brew291
 "361 - Jacob Rodriguez (RC), Miami Dolphins",350,OPEN,
 "362 - Chris Bell (RC), Miami Dolphins",150,OPEN,
@@ -200,7 +200,7 @@ spot,price,state,buyer
 "57 - Joe Burrow, Cincinnati Bengals",1750,OPEN,
 "58 - Chase Brown, Cincinnati Bengals",95,SOLD,mwfan06
 "59 - Ja'Marr Chase, Cincinnati Bengals",875,OPEN,
-"6 - Trey McBride, Arizona Cardinals",175,OPEN,
+"6 - Trey McBride, Arizona Cardinals",80,SOLD,cambreaksmidwest
 "60 - Tee Higgins, Cincinnati Bengals",87.5,SOLD,mwfan06
 "61 - Andrei Iosivas, Cincinnati Bengals",52.5,SOLD,mwfan06
 "65 - Shedeur Sanders, Cleveland Browns",125,OPEN,
@@ -211,11 +211,11 @@ spot,price,state,buyer
 "75 - Dak Prescott & Tony Romo, Dallas Cowboys",400,SOLD,gatorpk321
 "76 - Javonte Williams, Dallas Cowboys",44,SOLD,miguelrey59298
 "77 - George Pickens, Dallas Cowboys",50,SOLD,miguelrey59298
-"78 - CeeDee Lamb, Dallas Cowboys",425,OPEN,
+"78 - CeeDee Lamb, Dallas Cowboys",295,SOLD,loose_sleevebreaks
 "84 - Brandon Aubrey, Dallas Cowboys",175,OPEN,
 "85 - Bo Nix & John Elway, Denver Broncos",1000,OPEN,
 "87 - RJ Harvey, Denver Broncos",150,OPEN,
-"89 - Jaylen Waddle, Denver Broncos",100,OPEN,
+"89 - Jaylen Waddle, Denver Broncos",50,SOLD,jayhar36651
 "90 - Marvin Mims Jr., Denver Broncos",29,SOLD,bigmike111
 "94 - Pat Surtain II, Denver Broncos",120,SOLD,loose_sleevebreaks
 "95 - Jared Goff, Detroit Lions",400,OPEN,
@@ -250,7 +250,7 @@ New York Jets Others (7 Players),125,OPEN,
 "Peyton Manning & Eli Manning, Colts, Broncos, Giants",275,OPEN,
 Philadelphia Eagles Others (9 Players),250,OPEN,
 San Francisco 49ers Others (8 Players),140,SOLD,smartchurro
-Seattle Seahawks Others (Lombardi & 8 Players),450,OPEN,
+Seattle Seahawks Others (Lombardi & 8 Players),225,SOLD,uncletaco916
 Tampa Bay Buccaneers Others (11 Players),250,OPEN,
 Tenessee Titans Others (13 Players,150,SOLD,bexleytaylor
 Washington Commanders Others (12 Players),210,SOLD,theulaw

@@ -1,6 +1,5 @@
 spot,price,state,buyer
 Audric Estime,8,SOLD,konradkarsch
-#2,9,OPEN,
 Shedeur Sanders,9,SOLD,kaypi84
 Arch Manning / Air Noland,7,SOLD,tpsbmp93821
 Nico Iamaleava,7.2,SOLD,alex889cards
@@ -8,18 +7,12 @@ Brett Favre,8,SOLD,breaksunchained
 Ricky Pearsall,9,SOLD,jobar77
 Jaylen Wright,9,SOLD,jhl83
 Drew Brees,9,SOLD,ecki91
-#10,9,OPEN,
 Xavier Weaver,9,SOLD,craden1181
 Drake Maye ,9,SOLD,kaypi84
 Cameron Ward,9,SOLD,craden1181
-#14,9,OPEN,
 Cooper Beebe,8,SOLD,miguellissabon
 Jared Wiley,8,SOLD,tpsbmp93821
 Bucky Irving,9,SOLD,jobar77
-#18,9,OPEN,
-Caleb Williams,8,SOLD,jobar77
-#20,9,OPEN,
-#21,9,OPEN,
 Ladd McConkey,9,SOLD,ecki91
 Puka Nacua,9,SOLD,sticky261
 Malik Nabers,8,SOLD,breaksunchained
@@ -28,14 +21,21 @@ Bo Nix,8,SOLD,miguellissabon
 Ruke Orhorhoro,9,SOLD,craden1181
 Travis Hunter,8,SOLD,jobar77
 D.J. Lagway,8.1,SOLD,rayleigh_j_b
-#30,9,OPEN,
 Calen Bullock,8,SOLD,matzelinho_90
 Quinyon Mitchell,9,SOLD,tomek2407
 Laiatu Latu,7.2,SOLD,alex889cards
 Josh Allen,9,SOLD,der98er2
-#35,9,OPEN,
 Jer'Zhan Newton,9,SOLD,tomek2407
 Jalen Milroe,8,SOLD,koeter88
-#38,9,OPEN,
-#39,9,OPEN,
-#40,9,OPEN,
+Chase Brown,7.2,SOLD,rayleigh_j_b
+Dan Marino,7.2,SOLD,rayleigh_j_b
+Brock Bowers,8,SOLD,jaekelinho
+Keon Coleman,7.2,SOLD,andy_rip_it
+Caleb Williams ,8,SOLD,jobar77
+Carson Beck,8,SOLD,bokeeh
+Colston Loveland,7.65,SOLD,breaksunchained
+J.J. McCarthy,7.2,SOLD,andy_rip_it
+Omarion Hampton,9,SOLD,berto0407
+Malachi Corley,8.55,SOLD,berto0407
+Blake Corum,7.65,SOLD,1pepe
+Xavier Legette,7.2,SOLD,miguellissabon
