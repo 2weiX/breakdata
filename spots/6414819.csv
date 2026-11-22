@@ -1,8 +1,6 @@
 spot,price,state,buyer
 Alabama / Miami / Oklahoma,55,SOLD,diangho
-Arizona State,19,OPEN,
-BYU,25,OPEN,
-Clemson,19,OPEN,
+Clemson,13,SOLD,sergethi
 Florida,15.2,SOLD,sergethi
 Florida State,8,SOLD,nicopelo06
 Georgia,18.05,SOLD,synip_hypelinebreaks
@@ -12,9 +10,6 @@ Kansas State,9,SOLD,sergethi
 Kentucky,7,SOLD,peeairr
 LSU,19,SOLD,anaisea74
 Michigan ,22.5,SOLD,anaisea74
-Michigan State,19,OPEN,
-Mississippi State,25,OPEN,
-Nebraska,19,OPEN,
 Ohio,16,SOLD,nicopelo06
 Oklahoma State,17,SOLD,basangoku
 Ole Miss,12.75,SOLD,peeairr
@@ -30,5 +25,4 @@ High School,15,SOLD,anaisea74
 SEC (autre),13,SOLD,diangho
 ACC (autre) / South Carolina,44,SOLD,sergethi
 BIG10 (autre),22.5,SOLD,nicopelo06
-BIG12 (autre),25,OPEN,
 G6 (autre) + Uconn,13.5,SOLD,peeairr

@@ -1,11 +1,11 @@
 spot,price,state,buyer
-#1,10,OPEN,
+#1,10,SOLD,thegreatest899
 #2,10,OPEN,
 #3,10,OPEN,
 #4,10,SOLD,johnkiriakou
 #5,10,OPEN,
 #6,10,SOLD,thegreatest899
-#7,10,OPEN,
+#7,10,SOLD,big_coolie
 #8,10,SOLD,johnkiriakou
 #9,10,OPEN,
 #10,10,OPEN,
@@ -13,7 +13,7 @@ spot,price,state,buyer
 #12,10,OPEN,
 #13,10,OPEN,
 #14,10,OPEN,
-#15,10,OPEN,
+#15,10,SOLD,big_coolie
 #16,10,OPEN,
 #17,10,OPEN,
 #18,10,OPEN,

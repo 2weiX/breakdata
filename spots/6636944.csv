@@ -1,31 +1,29 @@
 spot,price,state,buyer
-Arizona Cardinals,45,OPEN,
 Atlanta Falcons,30,OPEN,
-Baltimore Ravens,35,OPEN,
+Baltimore Ravens,30,OPEN,
 Buffalo Bills,45,SOLD,clifton_hall_cards
-Carolina Panthers,30,OPEN,
+Carolina Panthers,28,OPEN,
 Chicago Bears,55,SOLD,cardswithtc
 Cincinnati Bengals,45,SOLD,cashout_on_wax
 Cleveland Browns & New Orleans Saints,100,SOLD,clifton_hall_cards
 Dallas Cowboys,45,SOLD,pewouchbangpow
 Denver Broncos,40,OPEN,
 Detroit Lions,33,SOLD,cardswithtc
-Green Bay Packers,35,OPEN,
+Green Bay Packers,30,OPEN,
 Houston Texans,28,OPEN,
-Indianapolis Colts,33,OPEN,
-Jacksonville Jaguars,40,OPEN,
+Indianapolis Colts,28,SOLD,wattsappening
+Jacksonville Jaguars,35,OPEN,
 Kansas City Chiefs,50,SOLD,storm__breaker
-Las Vegas Raiders,110,OPEN,
 Los Angeles Chargers,28,OPEN,
 Los Angeles Rams,45,OPEN,
-Miami Dolphins,30,OPEN,
+Miami Dolphins,28,OPEN,
 Minnesota Vikings,30,OPEN,
-New England Patriots,55,OPEN,
+New England Patriots,50,OPEN,
 New York Giants,40,OPEN,
 New York Jets,35,OPEN,
 Philadelphia Eagles,30,OPEN,
-Pittsburgh Steelers,35,OPEN,
 San Francisco 49ers,50,OPEN,
 Seattle Seahawks,35,OPEN,
-Tennessee Titans,40,OPEN,
-Washington Commanders,30,OPEN,
+Tennessee Titans,37,OPEN,
+Washington Commanders,28,OPEN,
+"Las Vegas Raiders, Pittsburgh Steelers, Arizona Cardinals",190,SOLD,queesh44

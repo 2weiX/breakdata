@@ -48,7 +48,7 @@ spot,price,state,buyer
 "19 - Lamar Jackson, Baltimore Ravens",1000,OPEN,
 "192 - J.J. McCarthy, Minnesota Vikings",125,OPEN,
 "193 - Aaron Jones Sr., Minnesota Vikings",100,OPEN,
-"194 - Justin Jefferson, Minnesota Vikings",750,OPEN,
+"194 - Justin Jefferson, Minnesota Vikings",560,SOLD,sesc3771
 "195 - Jordan Addison, Minnesota Vikings",175,OPEN,
 "198 - Dallas Turner, Minnesota Vikings",100,OPEN,
 "20 - Derrick Henry, Baltimore Ravens",262.5,SOLD,panther89
@@ -97,7 +97,6 @@ spot,price,state,buyer
 "283 - Cam Ward, Tennessee Titans",500,OPEN,
 "285 - Tyjae Spears, Tennessee Titans",75,OPEN,
 "29 - Josh Allen, Buffalo Bills",2250,OPEN,
-"292 - Jayden Daniels, Washington Commanders",750,OPEN,
 "295 - Terry McLaurin, Washington Commanders",150,OPEN,
 "30 - James Cook, Buffalo Bills",125,SOLD,joey1582
 "301 - Carson Beck (RC), Arizona Cardinals",600,OPEN,
@@ -178,7 +177,7 @@ spot,price,state,buyer
 "377 - Omar Cooper Jr. (RC), New York Jets",275,OPEN,
 "378 - Kenyon Sadiq (RC), New York Jets",300,OPEN,
 "379 - David Bailey (RC), New York Jets",625,OPEN,
-"38 - Bryce Young, Carolina Panthers",550,OPEN,
+"38 - Bryce Young, Carolina Panthers",420,SOLD,theulaw
 "380 - Cole Payton (RC), Philadelphia Eagles",125,OPEN,
 "381 - Makai Lemon (RC), Philadelphia Eagles",400,OPEN,
 "382 - Eli Stowers (RC), Philadelphia Eagles",100,OPEN,
@@ -189,10 +188,10 @@ spot,price,state,buyer
 "387 - De'Zhaun Stribling (RC), San Francisco 49ers",110,SOLD,bruhimagamerr
 "388 - Romello Height (RC), San Francisco 49ers",75,OPEN,
 "389 - Jadarian Price (RC), Seattle Seahawks",400,OPEN,
-"390 - Julian Neal (RC), Seattle Seahawks",75,OPEN,
-"391 - Bud Clark (RC), Seattle Seahawks",75,OPEN,
+"390 - Julian Neal (RC), Seattle Seahawks",17,SOLD,kerverder
+"391 - Bud Clark (RC), Seattle Seahawks",11,SOLD,saugywaffles
 "392 - Ted Hurst (RC), Tampa Bay Buccaneers",100,OPEN,
-"393 - Rueben Bain Jr. (RC), Tampa Bay Buccaneers",150,OPEN,
+"393 - Rueben Bain Jr. (RC), Tampa Bay Buccaneers",110,SOLD,bexleytaylor
 "394 - Josiah Trotter (RC), Tampa Bay Buccaneers",100,OPEN,
 "395 - Nick Singleton (RC), Tennessee Titans",125,OPEN,
 "396 - Carnell Tate (RC), Tennessee Titans",1125,OPEN,
@@ -202,7 +201,6 @@ spot,price,state,buyer
 "400 - Sonny Styles (RC), Washington Commanders",875,OPEN,
 402 - Brett Favre & Troy Aikman & Joe Montana,600,OPEN,
 "403 - Dan Marino & 183 - Malik Willis & 184 - Quinn Ewers & Bob Griese, Miami Dolphins",450,OPEN,
-"405 - Tom Brady, Tampa Bay Buccaneers, New England Patriots",2000,OPEN,
 "41 - Tetairoa McMillan, Carolina Panthers",500,OPEN,
 "42 - Xavier Legette, Carolina Panthers",85,OPEN,
 "5 - Michael Wilson, Arizona Cardinals",125,OPEN,
@@ -226,14 +224,14 @@ spot,price,state,buyer
 "85 - Bo Nix & John Elway, Denver Broncos",1000,OPEN,
 "87 - RJ Harvey, Denver Broncos",150,OPEN,
 "89 - Jaylen Waddle, Denver Broncos",100,OPEN,
-"90 - Marvin Mims Jr., Denver Broncos",75,OPEN,
+"90 - Marvin Mims Jr., Denver Broncos",29,SOLD,bigmike111
 "94 - Pat Surtain II, Denver Broncos",120,SOLD,loose_sleevebreaks
 "95 - Jared Goff, Detroit Lions",400,OPEN,
 "96 - Jahmyr Gibbs, Detroit Lions",625,OPEN,
 Arizona Cardinals Others (8 Players),180,SOLD,funt
 Atlanta Flacons Others (8 Players),250,OPEN,
 Baltimore Ravens Others (7 Players),200,OPEN,
-Bo Jackson & Barry Sanders & Marcus Allen,450,OPEN,
+Bo Jackson & Barry Sanders & Marcus Allen,250,SOLD,dno369
 Buffalo Bills Others (11 Players),220,SOLD,rywilcox33
 Carolina Panthers Others (10 Players),200,OPEN,
 ALL Chicago Bears,3100,SOLD,bexleytaylor
@@ -264,5 +262,6 @@ Pittsburgh Steelers Others (13 Players),250,OPEN,
 San Francisco 49ers Others (8 Players),200,OPEN,
 Seattle Seahawks Others (Lombardi & 8 Players),450,OPEN,
 Tampa Bay Buccaneers Others (11 Players),250,OPEN,
-Tenessee Titans Others (13 Players,300,OPEN,
-Washington Commanders Others (12 Players),300,OPEN,
+Tenessee Titans Others (13 Players,150,SOLD,bexleytaylor
+Washington Commanders Others (12 Players),210,SOLD,theulaw
+"405 - Tom Brady, Tampa Bay Buccaneers, New England Patriots, 292 - Jayden Daniels, Washington Commanders",2100,SOLD,mlally3

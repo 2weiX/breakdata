@@ -1,56 +1,22 @@
 spot,price,state,buyer
-"ARIZONA CARDINALS | TEAM REST | PREM1ERE: Michael Wilson, Trey Benson | EXCLUS: Jeremiyah Love",,OPEN,
-"ATLANTA FALCONS | TEAM REST | PREM1ERE: Bijan Robinson, Michael Penix Jr. | EXCLUS: Aucun",,OPEN,
-"BALTIMORE RAVENS | TEAM REST | PREM1ERE: Zay Flowers, Nate Wiggins | EXCLUS: Aucun",,OPEN,
-"BUFFALO BILLS | TEAM REST | PREM1ERE: Dalton Kincaid, Cole Bishop, Keon Coleman | EXCLUS: Josh Allen",,OPEN,
-"CAROLINA PANTHERS | TEAM REST | PREM1ERE: Jonathan Mingo, Bryce Young, Jalen Coker, Xavier Legette, Ja'Tavion Sanders | EXCLUS: Tetairoa McMillan",,OPEN,
-"CHICAGO BEARS | TEAM REST | PREM1ERE: Tyson Bagent, Roschon Johnson, Rome Odunze | EXCLUS: Caleb Williams",,OPEN,
-"CINCINNATI BENGALS | TEAM REST | PREM1ERE: Chase Brown, Andrei Iosivas, Kris Jenkins, Amarius Mims | EXCLUS: Joe Burrow",,OPEN,
-CLEVELAND BROWNS | TEAM REST | PREM1ERE: Cedric Tillman | EXCLUS: Carson Schwesinger,,OPEN,
-"DALLAS COWBOYS | TEAM REST | PREM1ERE: Brandon Aubrey, Luke Schoonmaker, Cooper Beebe, Tyler Guyton, Marist Liufau, Brevyn Spann-Ford | EXCLUS: Caleb Downs",,OPEN,
-"DENVER BRONCOS | TEAM REST | PREM1ERE: Marvin Mims Jr., Audric Estime | EXCLUS: Bo Nix",,OPEN,
-"DETROIT LIONS | TEAM REST | PREM1ERE: Brian Branch, Jahmyr Gibbs, Sam LaPorta | EXCLUS: Aucun",,OPEN,
-"GREEN BAY PACKERS | TEAM REST | PREM1ERE: Luke Musgrave, Lukas Van Ness, Dontayvion Wicks, Javon Bullard, Edgerrin Cooper, MarShawn Lloyd | EXCLUS: Aucun",,OPEN,
-"HOUSTON TEXANS | TEAM REST | PREM1ERE: Will Anderson Jr., C.J. Stroud, Henry To'oTo'o, Calen Bullock, Cade Stover | EXCLUS: Aucun",,OPEN,
-"INDIANAPOLIS COLTS | TEAM REST | PREM1ERE: Josh Downs, Anthony Richardson, Anthony Gould | EXCLUS: Aucun",,OPEN,
-"JACKSONVILLE JAGUARS | TEAM REST | PREM1ERE: Tank Bigsby, Brenton Strange, Parker Washington, Cam Little, Brian Thomas Jr. | EXCLUS: Aucun",,OPEN,
-"KANSAS CITY CHIEFS | TEAM REST | PREM1ERE: Rashee Rice, Xavier Worthy | EXCLUS: Patrick Mahomes II",,OPEN,
-"LAS VEGAS RAIDERS | TEAM REST | PREM1ERE: Michael Mayer, Aidan O'Connell, Tre Tucker, Brock Bowers | EXCLUS: Fernando Mendoza",,OPEN,
-"LOS ANGELES CHARGERS | TEAM REST | PREM1ERE: Quentin Johnston, Joe Alt, Junior Colson, Ladd McConkey | EXCLUS: Aucun",,OPEN,
-"LOS ANGELES RAMS | TEAM REST | PREM1ERE: Puka Nacua, Kobie Turner, Blake Corum, Joshua Karty, Kamren Kinchens, Jared Verse | EXCLUS: Ty Simpson, Matthew Stafford, Myles Garrett",,OPEN,
-"MIAMI DOLPHINS | TEAM REST | PREM1ERE: De'Von Achane, Malik Washington | EXCLUS: Aucun",,OPEN,
-"MINNESOTA VIKINGS | TEAM REST | PREM1ERE: Jordan Addison, Will Reichard, Dallas Turner | EXCLUS: Aucun",,OPEN,
-"NEW ENGLAND PATRIOTS | TEAM REST | PREM1ERE: Kayshon Boutte, Christian Gonzalez, Joe Milton III, Ja'Lynn Polk | EXCLUS: Tom Brady, Drake Maye",,OPEN,
-NEW ORLEANS SAINTS | TEAM REST | PREM1ERE: Spencer Rattler | EXCLUS: Jordyn Tyson,,OPEN,
-"NEW YORK GIANTS | TEAM REST | PREM1ERE: Theo Johnson, Tyrone Tracy Jr. | EXCLUS: Arvell Reese, Jaxson Dart",,OPEN,
-NEW YORK JETS | TEAM REST | PREM1ERE: Braelon Allen | EXCLUS: Aucun,,OPEN,
-"PHILADELPHIA EAGLES | TEAM REST | PREM1ERE: Jalen Carter, Will Shipley, Jeremiah Trotter | EXCLUS: Makai Lemon",,OPEN,
-"PITTSBURGH STEELERS | TEAM REST | PREM1ERE: Darnell Washington, Payton Wilson | EXCLUS: Aucun",,OPEN,
-"SAN FRANCISCO 49ERS | TEAM REST | PREM1ERE: Jake Moody, Jacob Cowing | EXCLUS: Aucun",,OPEN,
-"SEATTLE SEAHAWKS | TEAM REST | PREM1ERE: Zach Charbonnet, Devon Witherspoon, George Holani, Byron Murphy II | EXCLUS: Jaxon Smith-Njigba",,OPEN,
-"TAMPA BAY BUCCANEERS | TEAM REST | PREM1ERE: Graham Barton, Chris Braswell, Bucky Irving, Jalen McMillan | EXCLUS: Tom Brady",,OPEN,
-"TENNESSEE TITANS | TEAM REST | PREM1ERE: Will Levis, Tyjae Spears, T'Vondre Sweat | EXCLUS: Carnell Tate",,OPEN,
-"WASHINGTON COMMANDERS | TEAM REST | PREM1ERE: Luke McCaffrey, Mike Sainristil | EXCLUS: Jayden Daniels",,OPEN,
-JEREMIYAH LOVE | PLAYER SOLO | TOUTES CARTES,,OPEN,
-FERNANDO MENDOZA | PLAYER SOLO | TOUTES CARTES,,OPEN,
-CARNELL TATE | PLAYER SOLO | TOUTES CARTES,,OPEN,
-JORDYN TYSON | PLAYER SOLO | TOUTES CARTES,,OPEN,
-TY SIMPSON | PLAYER SOLO | TOUTES CARTES,,OPEN,
-MAKAI LEMON | PLAYER SOLO | TOUTES CARTES,,OPEN,
-CALEB DOWNS | PLAYER SOLO | TOUTES CARTES,,OPEN,
-ARVELL REESE | PLAYER SOLO | TOUTES CARTES,,OPEN,
-JOSH ALLEN | PLAYER SOLO | TOUTES CARTES | HORS DUAL SHIELD #55,,OPEN,
-PATRICK MAHOMES II | PLAYER SOLO | TOUTES CARTES,,OPEN,
-TOM BRADY | PLAYER SOLO | TOUTES CARTES,,OPEN,
-DRAKE MAYE | PLAYER SOLO | TOUTES CARTES + PREM1ERE PATCH 1/1,,OPEN,
-JAYDEN DANIELS | PLAYER SOLO | TOUTES CARTES + PREM1ERE PATCH 1/1,,OPEN,
-CALEB WILLIAMS | PLAYER SOLO | TOUTES CARTES + PREM1ERE PATCH 1/1,,OPEN,
-JOE BURROW | PLAYER SOLO | TOUTES CARTES,,OPEN,
-JAXSON DART | PLAYER SOLO | TOUTES CARTES,,OPEN,
-BO NIX | PLAYER SOLO | TOUTES CARTES + PREM1ERE PATCH 1/1,,OPEN,
-MATTHEW STAFFORD | PLAYER SOLO | TOUTES CARTES + GOLD SHIELD GS /3 + AUTO GSA 1/1 INCLUS | HORS DUAL SHIELD #55,,OPEN,
-JAXON SMITH-NJIGBA | PLAYER SOLO | TOUTES CARTES + PREM1ERE PATCH 1/1 + GOLD SHIELD GS /3 + AUTO GSA 1/1 INCLUS,,OPEN,
-MYLES GARRETT | PLAYER SOLO | TOUTES CARTES + GOLD SHIELD GS /3 + AUTO GSA 1/1 INCLUS,,OPEN,
-TETAIROA MCMILLAN | PLAYER SOLO | TOUTES CARTES + GOLD SHIELD GS /3 + AUTO GSA 1/1 INCLUS,,OPEN,
-CARSON SCHWESINGER | PLAYER SOLO | TOUTES CARTES + GOLD SHIELD GS /3 + AUTO GSA 1/1 INCLUS,,OPEN,
-GOLD SHIELD DUAL ONLY | MATTHEW STAFFORD + JOSH ALLEN | GSDA-AS 1/1,,OPEN,
+"ATLANTA FALCONS | TEAM REST | PREM1ERE: Bijan Robinson, Michael Penix Jr. | EXCLUS: Aucun",5,SOLD,winthorpe13
+"BALTIMORE RAVENS | TEAM REST | PREM1ERE: Zay Flowers, Nate Wiggins | EXCLUS: Aucun",6,SOLD,winthorpe13
+"CAROLINA PANTHERS | TEAM REST | PREM1ERE: Jonathan Mingo, Bryce Young, Jalen Coker, Xavier Legette, Ja'Tavion Sanders | EXCLUS: Tetairoa McMillan",5,SOLD,winthorpe13
+"DALLAS COWBOYS | TEAM REST | PREM1ERE: Brandon Aubrey, Luke Schoonmaker, Cooper Beebe, Tyler Guyton, Marist Liufau, Brevyn Spann-Ford | EXCLUS: Caleb Downs",5,SOLD,winthorpe13
+"HOUSTON TEXANS | TEAM REST | PREM1ERE: Will Anderson Jr., C.J. Stroud, Henry To'oTo'o, Calen Bullock, Cade Stover | EXCLUS: Aucun",5,SOLD,winthorpe13
+"JACKSONVILLE JAGUARS | TEAM REST | PREM1ERE: Tank Bigsby, Brenton Strange, Parker Washington, Cam Little, Brian Thomas Jr. | EXCLUS: Aucun",8,SOLD,watchshowcards
+"MIAMI DOLPHINS | TEAM REST | PREM1ERE: De'Von Achane, Malik Washington | EXCLUS: Aucun",6,SOLD,winthorpe13
+"NEW ENGLAND PATRIOTS | TEAM REST | PREM1ERE: Kayshon Boutte, Christian Gonzalez, Joe Milton III, Ja'Lynn Polk | EXCLUS: Tom Brady, Drake Maye",5,SOLD,peeairr
+"TAMPA BAY BUCCANEERS | TEAM REST | PREM1ERE: Graham Barton, Chris Braswell, Bucky Irving, Jalen McMillan | EXCLUS: Tom Brady",4,SOLD,winthorpe13
+"WASHINGTON COMMANDERS | TEAM REST | PREM1ERE: Luke McCaffrey, Mike Sainristil | EXCLUS: Jayden Daniels",4,SOLD,winthorpe13
+JORDYN TYSON | PLAYER SOLO | TOUTES CARTES,7,SOLD,thomasnnz
+CALEB DOWNS | PLAYER SOLO | TOUTES CARTES,8,SOLD,winthorpe13
+PATRICK MAHOMES II | PLAYER SOLO | TOUTES CARTES,3,SOLD,thomasnnz
+DRAKE MAYE | PLAYER SOLO | TOUTES CARTES + PREM1ERE PATCH 1/1,5,SOLD,winthorpe13
+JAYDEN DANIELS | PLAYER SOLO | TOUTES CARTES + PREM1ERE PATCH 1/1,6,SOLD,thomasnnz
+CALEB WILLIAMS | PLAYER SOLO | TOUTES CARTES + PREM1ERE PATCH 1/1,7,SOLD,sergethi
+JOE BURROW | PLAYER SOLO | TOUTES CARTES,7,SOLD,winthorpe13
+BO NIX | PLAYER SOLO | TOUTES CARTES + PREM1ERE PATCH 1/1,6,SOLD,user_30210
+TETAIROA MCMILLAN | PLAYER SOLO | TOUTES CARTES + GOLD SHIELD GS /3 + AUTO GSA 1/1 INCLUS,6,SOLD,watchshowcards
+CARSON SCHWESINGER | PLAYER SOLO | TOUTES CARTES + GOLD SHIELD GS /3 + AUTO GSA 1/1 INCLUS,8,SOLD,sergethi
+#21,1,OPEN,

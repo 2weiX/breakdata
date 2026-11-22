@@ -1,36 +1,42 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-NUKE,,OPEN,
-GOLD /10,,OPEN,
-NUKE,,OPEN,
+Arizona Cardinals,30,SOLD,mallard22
+Atlanta Falcons,27,SOLD,ultimatesportsvault
+Baltimore Ravens,30,SOLD,torino83
+Buffalo Bills,32,SOLD,ttran1044
+Carolina Panthers,30,SOLD,torino83
+Chicago Bears,32,SOLD,torino83
+Cincinnati Bengals,32,SOLD,torino83
+Cleveland Browns,34,SOLD,torino83
+Dallas Cowboys,30,SOLD,smwdna
+Denver Broncos,32,SOLD,torino83
+Detroit Lions,29,SOLD,torino83
+Green Bay Packers,32,SOLD,warrewj
+Houston Texans,25.65,SOLD,jme_collection
+Indianapolis Colts,32,SOLD,steveirwin82
+Jacksonville Jaguars,30,SOLD,steveirwin82
+Kansas City Chiefs,34,SOLD,ttran1044
+Las Vegas Raiders,30,SOLD,torino83
+Los Angeles Chargers,30,SOLD,torino83
+Los Angeles Rams,30,SOLD,torino83
+Miami Dolphins,34,SOLD,torino83
+Minnesota Vikings,30,SOLD,torino83
+New England Patriots,32,SOLD,bowerspower78
+New Orleans Saints,32,SOLD,ttran1044
+New York Giants,28,SOLD,torino83
+New York Jets,32,SOLD,ttran1044
+Philadelphia Eagles,30,SOLD,drod1321
+Pittsburgh Steelers,34,SOLD,torino83
+San Francisco 49ers,30,SOLD,torino83
+Seattle Seahawks,30,SOLD,mallard22
+Tampa Bay Buccaneers,32,SOLD,ttran1044
+Tennessee Titans,33,SOLD,torino83
+Washington Commanders,30,SOLD,ritchito89
+NUKE,30,SOLD,ritchito89
+GOLD /10,30,SOLD,torino83
+NUKE,34,SOLD,torino83
+#5,30,SOLD,steveirwin82
+#11,30,SOLD,torino83
+#17,32,SOLD,torino83
+#26,29,SOLD,torino83
+#30,28,SOLD,torino83
+MISC,50,SOLD,torino83

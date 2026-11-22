@@ -1,101 +1,100 @@
 spot,price,state,buyer
-Tom Brady,,OPEN,
-Patrick Mahomes II,,OPEN,
-Josh Allen,,OPEN,
-Lamar Jackson,,OPEN,
-Joe Burrow,,OPEN,
-Jayden Daniels,,OPEN,
-Drake Maye,,OPEN,
-Caleb Williams,,OPEN,
-Jaxson Dart,,OPEN,
-Cam Ward,,OPEN,
-Shedeur Sanders,,OPEN,
-Bo Nix,,OPEN,
-CJ Stroud,,OPEN,
-Justin Herbert,,OPEN,
-Jalen Hurts,,OPEN,
-Brock Purdy,,OPEN,
-Jordan Love,,OPEN,
-Dak Prescott,,OPEN,
-Baker Mayfield,,OPEN,
-Matthew Stafford,,OPEN,
-Jared Goff,,OPEN,
-Trevor Lawrence,,OPEN,
-Bryce Young,,OPEN,
-Michael Penix Jr.,,OPEN,
-J.J. McCarthy,,OPEN,
-Fernando Mendoza,,OPEN,
-Jeremiyah Love,,OPEN,
-Carnell Tate,,OPEN,
-Jordyn Tyson,,OPEN,
-Ty Simpson,,OPEN,
-Carson Beck,,OPEN,
-Drew Allar,,OPEN,
-Garrett Nussmeier,,OPEN,
-Cade Klubnik,,OPEN,
-Caleb Downs,,OPEN,
-Arvell Reese,,OPEN,
-David Bailey,,OPEN,
-Rueben Bain Jr.,,OPEN,
-Makai Lemon,,OPEN,
-KC Concepcion,,OPEN,
-Jahmyr Gibbs ,,OPEN,
-Nick Singleton,,OPEN,
-Trey McBride,,OPEN,
-Ashton Jeanty,,OPEN,
-Tyler Shough ,,OPEN,
-Peyton Manning ,,OPEN,
-Quinshon Judkins,,OPEN,
-Cam Skattebo,,OPEN,
-Amon-Ra St. Brown ,,OPEN,
-Brock Bowers,,OPEN,
-Colston Loveland,,OPEN,
-Luther Burden III,,OPEN,
-Brian Thomas Jr.,,OPEN,
-Malik Nabers,,OPEN,
-Justin Jefferson,,OPEN,
-Ja'Marr Chase,,OPEN,
-CeeDee Lamb,,OPEN,
-Puka Nacua,,OPEN,
-Jaxon Smith-Njigba,,OPEN,
-Barry Sanders / Jadarian Price / Will Howard / Chris Olave / Josh Downs / Jonathan Ogden / Budda Baker,,OPEN,
-Drake London / Randy Moss / Emmett Johnson / Spencer Rattler / Terry McLaurin / Terrell Davis / Mike Alstott / Byron Murphy II,,OPEN,
-Nico Collins / Deion Sanders / Jonah Coleman / DK Metcalf / Jerome Bettis / Maurice Jones-Drew / Byron Murphy Jr.,,OPEN,
-George Pickens / Michael Vick / Demond Claiborne / Tua Tagovailoa / Jameson Williams / Tony Romo / Roger Craig / Byron Young,,OPEN,
-Omarion Hampton/ Rashee Rice / Dan Marino / Taylen Green / Kyler Murray / Keon Coleman / Jim Kelly / Thurman Thomas / Cade Otton,,OPEN,
-Xavier Worthy / John Elway / Dillon Thieneman / Sam Darnold / Jayden Reed / Warren Moon / Tim Brown / Caden Curry,,OPEN,
-Ladd McConkey / Steve Young / Peter Woods / Daniel Jones / Matthew Golden / Troy Polamalu / Andre Reed / Caleb Banks,,OPEN,
-Rome Odunze / Brett Favre / Mansoor Delane / Geno Smith / Ricky Pearsall / Champ Bailey / James Lofton / Caleb Douglas,,OPEN,
-Jaylen Waddle / Drew Brees / Jermod McCoy / Kirk Cousins / Jauan Jennings / Darrelle Revis / Art Monk / Caleb Lomu,,OPEN,
-Davante Adams / Eli Manning / Francis Mauigoa / Malik Willis / Courtland Sutton / Richard Sherman / Anthony Muñoz / Caleb Tiernan,,OPEN,
-Mike Evans / Aaron Rodgers / Harold Perkins Jr. / Riley Leonard / Rashid Shaheed / Luke Kuechly / Tony Dorsett / Cam Little,,OPEN,
-Cooper Kupp / Bo Jackson / Avieon Terrell / Quinn Ewers / Khalil Shakir / Brian Urlacher / John Riggins / Cameron Dicker,,OPEN,
-Derrick Henry / Adrian Peterson / Sonny Styles / Alvin Kamara / Christian Watson / Dez Bryant / Archie Manning / Carson Schwesinger,,OPEN,
-Saquon Barkley / Rob Gronkowski / Keldric Faulk / Kyren Williams / DJ Moore / Michael Irvin / A.J. Haulcy / Chase Bisontis,,OPEN,
-Christian McCaffrey / Larry Fitzgerald / Cashius Howell / Chuba Hubbard / Chris Godwin / Cris Carter / Aaron Anderson / Chig Okonkwo,,OPEN,
-Bijan Robinson / Calvin Ridley / T.J. Parker / Chase Brown / Jakobi Meyers / Antonio Gates / Aaron Donald,,OPEN,
-Kenyon Sadiq/ Tyreek Hill / Dani Dennis-Sutton / RJ Harvey / Jerry Jeudy / Frank Gore / Adam Randall,,OPEN,
-De'Von Achane / Tony Gonzalez / Akheem Mesidor / Kenneth Walker III / Darius Slayton / Marcus Allen / Adam Vinatieri,,OPEN,
-Jonathan Taylor / Troy Aikman / Denzel Ward / Tony Pollard / Rashod Bateman / Eddie George / Adonai Mitchell,,OPEN,
-Bucky Irving / Kurt Warner / Christian Gonzalez / Isiah Pacheco / Xavier Legette / Jamaal Charles / AJ Barner,,OPEN,
-Josh Jacobs / Ray Lewis / Cooper DeJean / D'Andre Swift / Jayden Higgins / LeSean McCoy / Albert Regis,,OPEN,
-James Cook / Lawrence Taylor / Kyle Hamilton / Rhamondre Stevenson / Isaac TeSlaa / Deebo Samuel / Andrei Iosivas,,OPEN,
-Marvin Harrison Jr./Breece Hall / Sean Taylor / Derwin James / Kaleb Johnson / Tre Harris III / Andre Johnson / Anthony Hill Jr.,,OPEN,
-Emeka Egbuka / Charles Woodson / Fred Warner / Bhayshul Tuten / Jack Bech / Anquan Boldin / Anthony Smith,,OPEN,
-Travis Hunter / Brian Dawkins / Pat Surtain II / Ollie Gordon II / Tez Johnson / Steve Largent / Antoine Winfield Jr.,,OPEN,
-George Kittle / Edgerrin James / Maxx Crosby / Jacory Croskey-Merritt / Oronde Gadsden / Terrell Suggs / Athan Kaliakmanis,,OPEN,
-Travis Kelce / Eric Dickerson / Chris Jones / David Montgomery / Dalton Kincaid / Howie Long / Behren Morton,,OPEN,
-Sam LaPorta / Zachariah Branch / Jalen Carter / James Conner / Mark Andrews / Warren Sapp / Bernie Kosar,,OPEN,
-Tyler Warren / Denzel Boston / Will Anderson Jr. / Trey Benson / T.J. Hockenson / Rod Woodson / Blake Miller,,OPEN,
-Harold Fannin Jr. / Chris Brazzell II / Quinnen Williams / Blake Corum / Kyle Pitts Sr. / Kam Chancellor / Braelon Allen,,OPEN,
-Myles Garrett / Ja'Kobi Lane / Trent McDuffie / Aaron Jones Sr. / Tucker Kraft / Pat Tillman / Brandon Aubrey,,OPEN,
-Micah Parsons / Elijah Sarratt / Derek Stingley Jr. / Rachaad White / Dallas Goedert / Jim McMahon / Brandon Cisse,,OPEN,
-T.J. Watt / Skyler Bell / Devon Witherspoon / Tank Bigsby / Pat Freiermuth / Bob Griese / Brenen Thompson,,OPEN,
-Nick Bosa / Colbie Young / Quay Walker / Javonte Williams / Hunter Henry / Boomer Esiason / Brian Branch,,OPEN,
-Aidan Hutchinson / Malachi Fields / Khalil Mack / Zach Charbonnet / Jake Ferguson / Ricky Williams / Brian Robinson Jr.,,OPEN,
-Abdul Carter / Omar Cooper Jr. / Roquan Smith / Jordan Addison / Brenton Strange / Torry Holt / Brian Westbrook,,OPEN,
-Sauce Gardner / Germie Bernard / Trey Hendrickson / DeVonta Smith / Mason Taylor / Dante Hall / Bruce Matthews,,OPEN,
- TreVeyon Henderson/Ted Hurst / Brian Burns / Tee Higgins / Quentin Johnston / Sterling Sharpe / Bryan Bresee,,OPEN,
-Joe Montana / Antonio Williams / Cameron Heyward / Garrett Wilson / Tyquan Thornton / Ozzie Newsome / Bryce Lance,,OPEN,
-Kaytron Allen / Jalen Milroe / Zay Flowers / Alec Pierce / Joe Thomas / Bud Clark,,OPEN,
-Jerry Rice,,OPEN,
+Tom Brady,17,SOLD,stacymurph2323
+Patrick Mahomes II,16,SOLD,masonhuff20
+Josh Allen,24,SOLD,norcalsonger
+Lamar Jackson,18,SOLD,deeboand
+Joe Burrow,10,SOLD,stacymurph2323
+Jayden Daniels,16,SOLD,munjua37990
+Drake Maye,18,SOLD,deeboand
+Caleb Williams,23,SOLD,suzcharles
+Jaxson Dart,16,SOLD,jaydubs91
+Cam Ward,12,SOLD,norcalsonger
+Shedeur Sanders,16,SOLD,thefourthhenry
+Bo Nix,20,SOLD,gmen2121
+CJ Stroud,16,SOLD,puc99029
+Justin Herbert,15,SOLD,roccomyboy5
+Jalen Hurts,14,SOLD,bigshot1288
+Brock Purdy,15,SOLD,bigshot1288
+Jordan Love,13,SOLD,bigshot1288
+Dak Prescott,16,SOLD,shanebabb23
+Baker Mayfield,1,SOLD,jcarson410
+Matthew Stafford,19,SOLD,munjua37990
+Jared Goff,5,SOLD,norcalsonger
+Trevor Lawrence,14,SOLD,puc99029
+Michael Penix Jr.,13,SOLD,jcarson410
+J.J. McCarthy,14,SOLD,coykyle
+Fernando Mendoza,22,SOLD,thefourthhenry
+Jeremiyah Love,19,SOLD,munjua37990
+Carnell Tate,17,SOLD,suzcharles
+Jordyn Tyson,26,SOLD,shanebabb23
+Ty Simpson,17,SOLD,tbigser
+Carson Beck,15,SOLD,stacymurph2323
+Drew Allar,11,SOLD,stacymurph2323
+Garrett Nussmeier,18,SOLD,suzcharles
+Cade Klubnik,15,SOLD,puc99029
+Caleb Downs,11,SOLD,jcarson410
+Arvell Reese,13,SOLD,shanebabb23
+David Bailey,17,SOLD,shanebabb23
+Rueben Bain Jr.,13,SOLD,bigshot1288
+Makai Lemon,10,SOLD,coykyle
+KC Concepcion,3,SOLD,jcarson410
+Jahmyr Gibbs ,17,SOLD,alexander29565
+Nick Singleton,15,SOLD,suzcharles
+Trey McBride,17,SOLD,jcarson410
+Ashton Jeanty,18,SOLD,munjua37990
+Tyler Shough ,15,SOLD,suzcharles
+Peyton Manning ,15,SOLD,puc99029
+Quinshon Judkins,17,SOLD,deeboand
+Cam Skattebo,14,SOLD,deeboand
+Amon-Ra St. Brown ,23,SOLD,puc99029
+Brock Bowers,11,SOLD,roccomyboy5
+Colston Loveland,14,SOLD,norcalsonger
+Luther Burden III,21,SOLD,suzcharles
+Brian Thomas Jr.,17,SOLD,suzcharles
+Malik Nabers,19,SOLD,alexander29565
+Justin Jefferson,2,SOLD,jcarson410
+Ja'Marr Chase,19,SOLD,suzcharles
+CeeDee Lamb,14,SOLD,puc99029
+Puka Nacua,21,SOLD,suzcharles
+Jaxon Smith-Njigba,31,SOLD,suzcharles
+Barry Sanders / Jadarian Price / Will Howard / Chris Olave / Josh Downs / Jonathan Ogden / Budda Baker,14,SOLD,jcarson410
+Drake London / Randy Moss / Emmett Johnson / Spencer Rattler / Terry McLaurin / Terrell Davis / Mike Alstott / Byron Murphy II,17,SOLD,munjua37990
+Nico Collins / Deion Sanders / Jonah Coleman / DK Metcalf / Jerome Bettis / Maurice Jones-Drew / Byron Murphy Jr.,16,SOLD,norcalsonger
+George Pickens / Michael Vick / Demond Claiborne / Tua Tagovailoa / Jameson Williams / Tony Romo / Roger Craig / Byron Young,11,SOLD,norcalsonger
+Omarion Hampton/ Rashee Rice / Dan Marino / Taylen Green / Kyler Murray / Keon Coleman / Jim Kelly / Thurman Thomas / Cade Otton,15,SOLD,puc99029
+Xavier Worthy / John Elway / Dillon Thieneman / Sam Darnold / Jayden Reed / Warren Moon / Tim Brown / Caden Curry,11,SOLD,roccomyboy5
+Ladd McConkey / Steve Young / Peter Woods / Daniel Jones / Matthew Golden / Troy Polamalu / Andre Reed / Caleb Banks,18,SOLD,suzcharles
+Rome Odunze / Brett Favre / Mansoor Delane / Geno Smith / Ricky Pearsall / Champ Bailey / James Lofton / Caleb Douglas,13,SOLD,bigshot1288
+Jaylen Waddle / Drew Brees / Jermod McCoy / Kirk Cousins / Jauan Jennings / Darrelle Revis / Art Monk / Caleb Lomu,21,SOLD,deeboand
+Davante Adams / Eli Manning / Francis Mauigoa / Malik Willis / Courtland Sutton / Richard Sherman / Anthony Muñoz / Caleb Tiernan,21,SOLD,munjua37990
+Mike Evans / Aaron Rodgers / Harold Perkins Jr. / Riley Leonard / Rashid Shaheed / Luke Kuechly / Tony Dorsett / Cam Little,16,SOLD,roccomyboy5
+Cooper Kupp / Bo Jackson / Avieon Terrell / Quinn Ewers / Khalil Shakir / Brian Urlacher / John Riggins / Cameron Dicker,14,SOLD,bigshot1288
+Derrick Henry / Adrian Peterson / Sonny Styles / Alvin Kamara / Christian Watson / Dez Bryant / Archie Manning / Carson Schwesinger,26,SOLD,suzcharles
+Saquon Barkley / Rob Gronkowski / Keldric Faulk / Kyren Williams / DJ Moore / Michael Irvin / A.J. Haulcy / Chase Bisontis,19,SOLD,puc99029
+Christian McCaffrey / Larry Fitzgerald / Cashius Howell / Chuba Hubbard / Chris Godwin / Cris Carter / Aaron Anderson / Chig Okonkwo,14,SOLD,thefourthhenry
+Bijan Robinson / Calvin Ridley / T.J. Parker / Chase Brown / Jakobi Meyers / Antonio Gates / Aaron Donald,16,SOLD,munjua37990
+Kenyon Sadiq/ Tyreek Hill / Dani Dennis-Sutton / RJ Harvey / Jerry Jeudy / Frank Gore / Adam Randall,13,SOLD,jcarson410
+De'Von Achane / Tony Gonzalez / Akheem Mesidor / Kenneth Walker III / Darius Slayton / Marcus Allen / Adam Vinatieri,6,SOLD,norcalsonger
+Jonathan Taylor / Troy Aikman / Denzel Ward / Tony Pollard / Rashod Bateman / Eddie George / Adonai Mitchell,15,SOLD,deeboand
+Bucky Irving / Kurt Warner / Christian Gonzalez / Isiah Pacheco / Xavier Legette / Jamaal Charles / AJ Barner,6,SOLD,norcalsonger
+Josh Jacobs / Ray Lewis / Cooper DeJean / D'Andre Swift / Jayden Higgins / LeSean McCoy / Albert Regis,15,SOLD,thefourthhenry
+James Cook / Lawrence Taylor / Kyle Hamilton / Rhamondre Stevenson / Isaac TeSlaa / Deebo Samuel / Andrei Iosivas,18,SOLD,munjua37990
+Marvin Harrison Jr./Breece Hall / Sean Taylor / Derwin James / Kaleb Johnson / Tre Harris III / Andre Johnson / Anthony Hill Jr.,18,SOLD,munjua37990
+Emeka Egbuka / Charles Woodson / Fred Warner / Bhayshul Tuten / Jack Bech / Anquan Boldin / Anthony Smith,13,SOLD,ryantn22
+Travis Hunter / Brian Dawkins / Pat Surtain II / Ollie Gordon II / Tez Johnson / Steve Largent / Antoine Winfield Jr.,15,SOLD,shanebabb23
+George Kittle / Edgerrin James / Maxx Crosby / Jacory Croskey-Merritt / Oronde Gadsden / Terrell Suggs / Athan Kaliakmanis,15,SOLD,deeboand
+Travis Kelce / Eric Dickerson / Chris Jones / David Montgomery / Dalton Kincaid / Howie Long / Behren Morton,15,SOLD,thefourthhenry
+Tyler Warren / Denzel Boston / Will Anderson Jr. / Trey Benson / T.J. Hockenson / Rod Woodson / Blake Miller,16,SOLD,roccomyboy5
+Harold Fannin Jr. / Chris Brazzell II / Quinnen Williams / Blake Corum / Kyle Pitts Sr. / Kam Chancellor / Braelon Allen,14,SOLD,ryantn22
+Myles Garrett / Ja'Kobi Lane / Trent McDuffie / Aaron Jones Sr. / Tucker Kraft / Pat Tillman / Brandon Aubrey,14,SOLD,deeboand
+Micah Parsons / Elijah Sarratt / Derek Stingley Jr. / Rachaad White / Dallas Goedert / Jim McMahon / Brandon Cisse,21,SOLD,deeboand
+T.J. Watt / Skyler Bell / Devon Witherspoon / Tank Bigsby / Pat Freiermuth / Bob Griese / Brenen Thompson,14,SOLD,gmen2121
+Nick Bosa / Colbie Young / Quay Walker / Javonte Williams / Hunter Henry / Boomer Esiason / Brian Branch,13,SOLD,gridironsingles
+Aidan Hutchinson / Malachi Fields / Khalil Mack / Zach Charbonnet / Jake Ferguson / Ricky Williams / Brian Robinson Jr.,16,SOLD,puc99029
+Abdul Carter / Omar Cooper Jr. / Roquan Smith / Jordan Addison / Brenton Strange / Torry Holt / Brian Westbrook,16,SOLD,puc99029
+Sauce Gardner / Germie Bernard / Trey Hendrickson / DeVonta Smith / Mason Taylor / Dante Hall / Bruce Matthews,20,SOLD,deeboand
+ TreVeyon Henderson/Ted Hurst / Brian Burns / Tee Higgins / Quentin Johnston / Sterling Sharpe / Bryan Bresee,9,SOLD,ohbigtone
+Joe Montana / Antonio Williams / Cameron Heyward / Garrett Wilson / Tyquan Thornton / Ozzie Newsome / Bryce Lance,19,SOLD,munjua37990
+Kaytron Allen / Jalen Milroe / Zay Flowers / Alec Pierce / Joe Thomas / Bud Clark,22,SOLD,shanebabb23
+Jerry Rice,21,SOLD,lockuout
+#99,1,OPEN,

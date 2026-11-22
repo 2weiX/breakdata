@@ -1,33 +1,34 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+Arizona Cardinals,81,SOLD,stockytrader
+Atlanta Falcons,65,SOLD,thebigbelewski
+Baltimore Ravens,120,SOLD,the_warden_1
+Buffalo Bills,77,SOLD,indy_chip79
+Carolina Panthers,94,SOLD,gabagool_collectables
+Chicago Bears,84,SOLD,stockytrader
+Cincinnati Bengals,93,SOLD,edulmv
+Cleveland Browns,98,SOLD,gabagool_collectables
+Dallas Cowboys,79,SOLD,cainercards
+Denver Broncos,105,SOLD,cainercards
+Detroit Lions,143,SOLD,hoosier2488
+Green Bay Packers,112,SOLD,jrector1123
+Houston Texans,93,SOLD,beejee_collectables
+Indianapolis Colts,83,SOLD,edulmv
+Jacksonville Jaguars,69,SOLD,ctg1996
+Kansas City Chiefs,93,SOLD,the_warden_1
+Las Vegas Raiders,145,SOLD,gabagool_collectables
+Los Angeles Chargers,131,SOLD,gabagool_collectables
+Los Angeles Rams,100,SOLD,the_warden_1
+Miami Dolphins,105,SOLD,gabagool_collectables
+Minnesota Vikings,84,SOLD,indy_chip79
+New England Patriots,94,SOLD,navyhardin
+New Orleans Saints,98,SOLD,steez0
+New York Giants,95,SOLD,jksportkc
+New York Jets,94,SOLD,the_warden_1
+Philadelphia Eagles,96,SOLD,jman503
+Pittsburgh Steelers,101,SOLD,rcool21
+San Francisco 49ers,114,SOLD,cainercards
+Seattle Seahawks,88,SOLD,the_warden_1
+Tampa Bay Buccaneers,100,SOLD,beejee_collectables
+Tennessee Titans,80,SOLD,the_warden_1
+Washington Commanders,79,SOLD,rcool21
+#4,88,SOLD,edulmv

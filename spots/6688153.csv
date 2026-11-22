@@ -1,33 +1,36 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+Arizona Cardinals,6,SOLD,stephenss1275
+Atlanta Falcons,7,SOLD,ahunz
+Baltimore Ravens,9,SOLD,kevinjan50095
+Buffalo Bills,5,SOLD,stephenss1275
+Carolina Panthers,4,SOLD,_no_regerts_
+Chicago Bears,6,SOLD,bigskycards2824
+Cincinnati Bengals,2,SOLD,herbwil72508
+Cleveland Browns,1,SOLD,jkeen57
+Dallas Cowboys,2,SOLD,gleesh91
+Denver Broncos,7,SOLD,_no_regerts_
+Detroit Lions,3,SOLD,herbwil72508
+Green Bay Packers,6,SOLD,razz3210
+Houston Texans,7,SOLD,_no_regerts_
+Indianapolis Colts,2,SOLD,herbwil72508
+Jacksonville Jaguars,6,SOLD,bigskycards2824
+Kansas City Chiefs,1,SOLD,jkeen57
+Las Vegas Raiders,6,SOLD,stephenss1275
+Los Angeles Chargers,7,SOLD,_no_regerts_
+Los Angeles Rams,6,SOLD,stephenss1275
+Miami Dolphins,2,SOLD,stephenss1275
+Minnesota Vikings,5,SOLD,stephenss1275
+New England Patriots,5,SOLD,bigskycards2824
+New Orleans Saints,7,SOLD,razz3210
+New York Giants,1,SOLD,herbwil72508
+New York Jets,6,SOLD,_no_regerts_
+Philadelphia Eagles,7,SOLD,bigskycards2824
+Pittsburgh Steelers,8,SOLD,_no_regerts_
+San Francisco 49ers,7,SOLD,ahunz
+Seattle Seahawks,4,SOLD,bigskycards2824
+Tampa Bay Buccaneers,8,SOLD,herbwil72508
+Tennessee Titans,6,SOLD,ahunz
+Washington Commanders,7,SOLD,razz3210
+#4,3,SOLD,jkeen57
+#10,10,SOLD,herbwil72508
+#24,7,SOLD,razz3210

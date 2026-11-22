@@ -1,42 +1,36 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-MISC,,OPEN,
-WHOEY #1,,OPEN,
-WHOEY #2,,OPEN,
-WHOEY #3,,OPEN,
-WHOEY #4,,OPEN,
-WHOEY #5,,OPEN,
-WHOEY #6,,OPEN,
-WHOEY #7,,OPEN,
-WHOEY #8,,OPEN,
+Atlanta Falcons,70,SOLD,mnsportsguys23
+Buffalo Bills,77,SOLD,mnsportsguys23
+Carolina Panthers,75,SOLD,generalfive1
+Chicago Bears,104,SOLD,bhall515
+Cincinnati Bengals,59,SOLD,ryanhan41096
+Dallas Cowboys,85,SOLD,endzonechasers
+Green Bay Packers,50,SOLD,bigjohn1204
+Jacksonville Jaguars,69,SOLD,bigjohn1204
+Kansas City Chiefs,110,SOLD,bhall515
+Los Angeles Chargers,64,SOLD,ja_hova_3p
+Los Angeles Rams,68,SOLD,ryanhan41096
+Minnesota Vikings,74,SOLD,endzonechasers
+New York Giants,112,SOLD,bhall515
+Philadelphia Eagles,76,SOLD,endzonechasers
+Pittsburgh Steelers,105,SOLD,bhall515
+San Francisco 49ers,73,SOLD,bhall515
+Tampa Bay Buccaneers,86,SOLD,endzonechasers
+MISC,53,SOLD,ryanhan41096
+WHOEY #1,83,SOLD,endzonechasers
+WHOEY #2,130,SOLD,jcarroll57
+WHOEY #3,76,SOLD,endzonechasers
+WHOEY #4,133,SOLD,ryanhan41096
+WHOEY #6,105,SOLD,bhall515
+WHOEY #7,104,SOLD,bhall515
+WHOEY #8,129,SOLD,ryanhan41096
+#1,129,SOLD,ryanhan41096
+#3,129,SOLD,ryanhan41096
+#4,124,SOLD,bhall515
+#14,105,SOLD,bhall515
+#24,46,SOLD,ryanhan41096
+#27,53,SOLD,ja_hova_3p
+#28,53,SOLD,ja_hova_3p
+#30,64,SOLD,ryanhan41096
+#32,50,SOLD,bigjohn1204
+#35,1,OPEN,

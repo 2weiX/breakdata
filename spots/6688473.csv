@@ -2,13 +2,11 @@ spot,price,state,buyer
 Arizona Cardinals,95,OPEN,
 "Carolina Panthers, Houston Texans",30,SOLD,double_g_21
 Denver Broncos,13,SOLD,b_frails_sales
-Indianapolis Colts,15,OPEN,
-Los Angeles Chargers,20,OPEN,
 Los Angeles Rams,60,OPEN,
 Miami Dolphins,15,SOLD,heathrogers
 New England Patriots,75,OPEN,
 New York Jets,35,OPEN,
 "Philadelphia Eagles, Minnesota Vikings",28,SOLD,ryandav00113
-Pittsburgh Steelers,25,OPEN,
 Tennessee Titans,60,OPEN,
-Washington Commanders,30,OPEN,
+Washington Commanders,24,SOLD,double_g_21
+"Indianapolis Colts, Pittsburgh Steelers, Los Angeles Chargers",36,SOLD,ryandav00113
