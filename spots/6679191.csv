@@ -1,34 +1,40 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-Misc,,OPEN,
+Arizona Cardinals,20,SOLD,nartwehttam
+Atlanta Falcons,100,SOLD,jp22777
+Baltimore Ravens,59,SOLD,youbetta
+Buffalo Bills,99,SOLD,youbetta
+Carolina Panthers,29,SOLD,ocabaseball21
+Chicago Bears,150,SOLD,schett_bag
+Cincinnati Bengals,102,SOLD,youbetta
+Cleveland Browns,131,SOLD,schett_bag
+Dallas Cowboys,126,SOLD,mattman07783
+Denver Broncos,105,SOLD,haluchahobbies
+Detroit Lions,146,SOLD,schett_bag
+Green Bay Packers,125,SOLD,ocabaseball21
+Houston Texans,25,SOLD,youbetta
+Indianapolis Colts,73,SOLD,bwoodonetre
+Jacksonville Jaguars,141,SOLD,jp22777
+Kansas City Chiefs,145,SOLD,schett_bag
+Las Vegas Raiders,111,SOLD,bwoodonetre
+Los Angeles Chargers,139,SOLD,goody_rips
+Los Angeles Rams,141,SOLD,haluchahobbies
+Miami Dolphins,16,SOLD,nartwehttam
+Minnesota Vikings,141,SOLD,youbetta
+New England Patriots,155,SOLD,themmashark
+New Orleans Saints,13,SOLD,nartwehttam
+New York Giants,126,SOLD,bwoodonetre
+New York Jets,17,SOLD,nartwehttam
+Philadelphia Eagles,143,SOLD,youbetta
+Pittsburgh Steelers,116,SOLD,bwoodonetre
+San Francisco 49ers,240,SOLD,mattman07783
+Seattle Seahawks,102,SOLD,youbetta
+Tampa Bay Buccaneers,37,SOLD,haluchahobbies
+Tennessee Titans,11,SOLD,kvkasser
+Washington Commanders,138,SOLD,schett_bag
+Misc,145,SOLD,schett_bag
+#4,141,SOLD,bwoodonetre
+#5,137,SOLD,schett_bag
+#6,136,SOLD,schett_bag
+#14,150,SOLD,bwoodonetre
+#21,78,SOLD,youbetta
+#26,93,SOLD,mattman07783

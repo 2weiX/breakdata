@@ -1,33 +1,37 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-Miscellaneous,,OPEN,
+Arizona Cardinals,19,SOLD,rayell15625
+Atlanta Falcons,21,SOLD,myohmy0012
+Baltimore Ravens,19,SOLD,zputt64
+Buffalo Bills,50,SOLD,lickhitty
+Carolina Panthers,17,SOLD,robertsmi52693
+Cincinnati Bengals,15,SOLD,jakey023
+Cleveland Browns,21,SOLD,jarev107
+Dallas Cowboys,25,SOLD,christopherspe98304
+Denver Broncos,18,SOLD,jarev107
+Green Bay Packers,22,SOLD,emsguy
+Houston Texans,21,SOLD,lickhitty
+Indianapolis Colts,21,SOLD,emsguy
+Jacksonville Jaguars,20,SOLD,myohmy0012
+Kansas City Chiefs,21,SOLD,domechad
+Las Vegas Raiders,23,SOLD,christopherspe98304
+Los Angeles Chargers,18,SOLD,jakey023
+Los Angeles Rams,18,SOLD,emsguy
+Miami Dolphins,28,SOLD,lickhitty
+Minnesota Vikings,18,SOLD,robertsmi52693
+New England Patriots,23,SOLD,dclapper26
+New Orleans Saints,20,SOLD,christopherspe98304
+New York Giants,23,SOLD,myohmy0012
+New York Jets,26,SOLD,lickhitty
+Philadelphia Eagles,25,SOLD,emsguy
+Pittsburgh Steelers,24,SOLD,emsguy
+San Francisco 49ers,21,SOLD,myohmy0012
+Seattle Seahawks,24,SOLD,domechad
+Tampa Bay Buccaneers,21,SOLD,emsguy
+Tennessee Titans,21,SOLD,emsguy
+Washington Commanders,20,SOLD,rayell15625
+Miscellaneous,22,SOLD,christopherspe98304
+#3,50,SOLD,lickhitty
+#7,21,SOLD,emsguy
+#19,19,SOLD,rayell15625
+#28,16,SOLD,christopherspe98304
+#36,1,OPEN,

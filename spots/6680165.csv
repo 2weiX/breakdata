@@ -8,7 +8,6 @@ Atlanta Falcons,6,SOLD,chrishar71527
 Arizona Cardinals,7,SOLD,donloyal90
 Philadelphia Eagles,7,SOLD,donloyal90
 New Orleans Saints,9,SOLD,chrishar71527
-New York Jets,6,SOLD,toddf1492
 New York Giants,5,SOLD,donloyal90
 San Francisco 49ers,6,SOLD,toddf1492
 Las Vegas Raiders,8,SOLD,sev3n2_ripz
@@ -27,5 +26,8 @@ Houston Texans,6,SOLD,toddf1492
 Pittsburgh Steelers,5,SOLD,chrishar71527
 Miami Dolphins,5,SOLD,mlowry833225
 Tampa Bay Buccaneers,4,SOLD,mlowry833225
-#29,1,SOLD,marsalesaf
-#30,1,OPEN,
+"Indianapolis Colts, New York Jets",6,SOLD,toddf1492
+Washington Commanders,1,SOLD,marsalesaf
+Jacksonville Jaguars,7,SOLD,marsalesaf
+Kansas City Chiefs,9,SOLD,marsalesaf
+#32,1,OPEN,

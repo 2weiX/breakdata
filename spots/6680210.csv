@@ -1,36 +1,30 @@
 spot,price,state,buyer
-Ridley Jersey,,OPEN,
-Philadelphia Eagles,,OPEN,
-Jacksonville Jaguars,,OPEN,
-San Francisco 49ers,,OPEN,
-Green Bay Packers,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Carolina Panthers,,OPEN,
-Washington Commanders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Cleveland Browns,,OPEN,
-Tennessee Titans,,OPEN,
-New England Patriots,,OPEN,
-Los Angeles Rams,,OPEN,
-New York Giants,,OPEN,
-New Orleans Saints,,OPEN,
-Pittsburgh Steelers,,OPEN,
-Chicago Bears,,OPEN,
-Detroit Lions,,OPEN,
-Denver Broncos,,OPEN,
-Coates Jersey,,OPEN,
-Cincinnati Bengals,,OPEN,
-New York Jets,,OPEN,
-Buffalo Bills,,OPEN,
-Roaf Jersey,,OPEN,
-Indianapolis Colts,,OPEN,
-Kansas City Chiefs,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Miami Dolphins,,OPEN,
-Las Vegas Raiders,,OPEN,
-Minnesota Vikings,,OPEN,
-Houston Texans,,OPEN,
-Arizona Cardinals,,OPEN,
-Seattle Seahawks,,OPEN,
-Dallas Cowboys,,OPEN,
+Ridley Jersey,10,SOLD,boxingkangaroo26
+Philadelphia Eagles,7,SOLD,beikurt
+Jacksonville Jaguars,30,SOLD,severson
+San Francisco 49ers,17,SOLD,beikurt
+Atlanta Falcons,16,SOLD,beikurt
+Baltimore Ravens,20,SOLD,beikurt
+Washington Commanders,13,SOLD,rlud28
+Los Angeles Chargers,9,SOLD,jimgro73964
+Cleveland Browns,15,SOLD,rippingforgrails
+Los Angeles Rams,11,SOLD,rlud28
+New York Giants,20,SOLD,rippingforgrails
+Chicago Bears,45,SOLD,severson
+Coates Jersey,13,SOLD,aikman16
+Buffalo Bills,13,SOLD,aikman16
+Roaf Jersey,20,SOLD,severson
+Kansas City Chiefs,9,SOLD,jimgro73964
+Tampa Bay Buccaneers,11,SOLD,rlud28
+Las Vegas Raiders,18,SOLD,rlud28
+Houston Texans,20,SOLD,beikurt
+Arizona Cardinals,13,SOLD,aikman16
+Dallas Cowboys,17,SOLD,rippingforgrails
+"Green Bay Packers, Seattle Seahawks",13,SOLD,rlud28
+"Pittsburgh Steelers, Minnesota Vikings",34,SOLD,aikman16
+"Carolina Panthers, Indianapolis Colts",17,SOLD,rippingforgrails
+"New York Jets, Miami Dolphins",18,SOLD,rlud28
+"Detroit Lions, Cincinnati Bengals",18,SOLD,rippingforgrails
+"New England Patriots, Denver Broncos",19,SOLD,rippingforgrails
+"Tennessee Titans, New Orleans Saints",42,SOLD,severson
+#28,22,SOLD,severson

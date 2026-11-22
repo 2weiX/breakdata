@@ -1,12 +1,10 @@
 spot,price,state,buyer
 Arizona Cardinals ,69,SOLD,rndstarstorm
 Atlanta Falcons ,49,SOLD,alohabats
-Baltimore Ravens ,39,OPEN,
 Buffalo Bills ,59,SOLD,alohabats
 Chicago Bears ,79,SOLD,crazychiefscollectables
 Cincinnati Bengals ,59,SOLD,davidcha09424
 Cleveland Browns ,59,SOLD,crazychiefscollectables
-Detroit Lions ,59,OPEN,
 Green Bay Packers ,59,SOLD,davidcha09424
 Houston Texans,39,SOLD,alohabats
 Indianapolis Colts ,49,SOLD,davidcha09424
@@ -21,7 +19,7 @@ New York Giants ,50,SOLD,jonesmccoy
 New York Jets ,39,SOLD,leomac32
 Philadelphia Eagles ,45,SOLD,jonesmccoy
 Pittsburgh Steelers ,52,SOLD,jonesmccoy
-San Francisco 49ers ,79,OPEN,
+San Francisco 49ers ,69,SOLD,jonesmccoy
 Tampa Bay Buccaneers,69,SOLD,rndstarstorm
-Tennessee Titans ,79,OPEN,
+Tennessee Titans ,110,SOLD,rndstarstorm
 Washington Commanders ,49,SOLD,crazychiefscollectables

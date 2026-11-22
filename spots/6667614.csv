@@ -1,151 +1,291 @@
 spot,price,state,buyer
-💥Aaron Rodgers(AUTO)(GG)💥/ Isaiah Likely,,OPEN,
-💥Amon-Ra St. Brown(AUTO)(GG)(HELIX)(UV)💥/ D'Andre Swift,,OPEN,
-💥Arvell Reese(Rookie)(AUTO)(RR)(D1)💥/ DK Metcalf,,OPEN,
-💥Baker Mayfield(GG)(HELIX)💥/ Harold Fannin Jr.,,OPEN,
-💥Bijan Robinson(23PPA)💥/ Jameson Williams,,OPEN,
-💥Bo Nix(AUTO)(KAIJU)(SHADOW)(24PPA)💥/ Byron Young,,OPEN,
-💥Brett Farve(HELIX)💥/ Jerry Jeudy,,OPEN,
-💥Brock Bowers(AUTO)(24PPA)💥/ Christian Kirk,,OPEN,
-💥Brock Purdy(AUTO)(GG)(SHADOW)💥/ DeMarvion Overshown,,OPEN,
-💥Bryce Young(AUTO)(GG)(HELIX)(23PPA)💥/ DeForest Buckner,,OPEN,
-💥Cade Klubnik(Rookie)(AUTO)(RR)💥/ Dion Dawkins,,OPEN,
-💥Caleb Downs(Rookie)(AUTO)(RR)(D1)💥/ Dallas Goedert,,OPEN,
-💥Caleb Williams(AUTO)(UV)(24PPA)💥/ Chimere Dike,,OPEN,
-💥Carnell Tate(Rookie)(AUTO)(RR)(D1)(GG)(HELIX)(KAIJU)(UV)💥/ Adonai Mitchell,,OPEN,
-💥Carson Beck(Rookie)(AUTO)(RR)💥/ Denzel Burke,,OPEN,
-💥CeeDee Lamb(AUTO)(UV)💥/ Christian Watson,,OPEN,
-💥Chris Bell(Rookie)(AUTO)(RR)💥/ Dylan Sampson,,OPEN,
-💥Chris Brazzell II(Rookie)(AUTO)(RR)💥/ Evan McPherson,,OPEN,
-💥Christian McCaffrey(AUTO)(UV)💥/ Chuba Hubbard,,OPEN,
-💥CJ Stroud(GG)(23PPA)💥/ Jauan Jennings,,OPEN,
-💥Dak Prescott(AUTO)(GG)(HELIX)(KAIJU)(SHADOW)💥/ Chris Godwin,,OPEN,
-💥David Bailey(Rookie)(AUTO)(RR)(D1)💥/ Denzel Ward,,OPEN,
-💥De'Von Achane(AUTO)(GG)(23PPA)💥/ Devontez Walker,,OPEN,
-💥Denzel Boston(Rookie)(AUTO)(RR)💥/ Geno Smith,,OPEN,
-💥Derrick Henry(AUTO)(TECMO)(UV)💥/ Demario Davis,,OPEN,
-💥Drake London(AUTO)💥/ Dalton Schultz,,OPEN,
-💥Drake Maye(AUTO)(HELIX)(KAIJU)(SHADOW)(SBN)(TECMO)(24PPA)💥/ Brian Robinson Jr.,,OPEN,
-💥Drew Allar(Rookie)(AUTO)(RR)💥/ George Karlaftis,,OPEN,
-💥Drew Brees(AUTO)💥/ Jimmy Horn Jr.,,OPEN,
-💥Eli Manning(AUTO)💥/ Joe Thuney,,OPEN,
-💥Fernando Mendoza(Rookie)(AUTO)(RR)(D1)(GG)(KAIJU)(SHADOW)(UV)💥/ Aidan Hutchinson,,OPEN,
-💥Garrett Nussmeier(Rookie)(AUTO)💥/ Jaylon Johnson,,OPEN,
-💥Garrett Wilson(AUTO)(GG)💥/ Derwin James,,OPEN,
-💥George Kittle(UV)💥/ Jaycee Horn,,OPEN,
-💥Ja'Marr Chase(AUTO)(M99)(SHADOW)💥/ Cam Skattebo,,OPEN,
-💥Jadarian Price(Rookie)(AUTO)(RR)💥/ George Pickens,,OPEN,
-💥Jahmyr Gibbs(AUTO)(23PPA)💥/ Cooper DeJean,,OPEN,
-💥Jalen Hurts(AUTO)💥/ Jack Bech,,OPEN,
-💥Jared Goff(AUTO)(SHADOW)💥/ Jayden Reed,,OPEN,
-💥Jaxon Smith-Njigba(AUTO)(M99)(SHADOW)(SBN)(UV)(GSA)(23PPA)💥/ Antoine Winfield Jr.,,OPEN,
-💥Jayden Daniels(AUTO)(24PPA)💥/ Courtland Sutton,,OPEN,
-💥Jeremiyah Love(Rookie)(AUTO)(RR)(D1)(GG)(HELIX)(KAIJU)(SHADOW)(UV)💥/ Abdul Carter,,OPEN,
-💥Jerry Rice(HELIX)(TECMO)💥/ Dexter Lawrence II,,OPEN,
-💥Joe Burrow(AUTO)(GG)(TECMO)💥/ Chris Jones,,OPEN,
-💥Jordan Love(GG)💥/ Jack Campbell,,OPEN,
-💥Jordyn Tyson(Rookie)(AUTO)(RR)(D1)(GG)(HELIX)(SHADOW)💥/ Budda Baker,,OPEN,
-💥Josh Allen(AUTO)(GG)(HELIX)(M99)(SHADOW)(UV)💥/ Bryan Bresee,,OPEN,
-💥Justin Herbert(AUTO)(GG)(UV)💥/ Cameron Heyward,,OPEN,
-💥Justin Jefferson(AUTO)(KAIJU)(TECMO)💥/ Chris Lindstrom,,OPEN,
-💥Kaelon Black(Rookie)(AUTO)(RR)💥/ Grant Delpit,,OPEN,
-💥KC Concepcion(Rookie)(AUTO)(RR)(D1)💥/ Derek Stingley Jr.,,OPEN,
-💥Kenneth Walker III(AUTO)(SBN)💥/ Jeremy Chinn,,OPEN,
-💥Kenyon Sadiq(Rookie)(AUTO)(RR)💥/ Gunnar Helm,,OPEN,
-💥Lamar Jackson(KAIJU)💥/ Darius Slayton,,OPEN,
-💥Makai Lemon(Rookie)(AUTO)(RR)(D1)(GG)(HELIX)(UV)💥/ Byron Murphy Jr.,,OPEN,
-💥Matthew Stafford(AUTO)(HELIX)(M99)(SHADOW)(UV)(GSA)💥/ Brian Burns,,OPEN,
-💥Micah Parsons(UV)💥/ Jaylen Warren,,OPEN,
-💥Myles Garrett(KAIJU)(M99)(TECMO)(UV)(GSA)💥/ Christian Benford,,OPEN,
-💥Patrick Mahomes II(AUTO)(GG)(SHADOW)(UV)💥/ Cade Otton,,OPEN,
-💥Peyton Manning(AUTO)💥/ James Conner,,OPEN,
-💥Puka Nacua(AUTO)(23PPA)💥/ Creed Humphrey,,OPEN,
-💥Rueben Bain Jr.(Rookie)(AUTO)💥/ Jeffery Simmons,,OPEN,
-💥Sam Darnold(AUTO)(GG)(HELIX)(SBN)💥/ DJ Moore,,OPEN,
-💥Saquon Barkley(AUTO)💥/ Darnell Wright,,OPEN,
-💥Sean Taylor(UV)💥/ Jaylen Wright,,OPEN,
-💥Sonny Styles(Rookie)(AUTO)(RR)(D1)💥/ Davante Adams,,OPEN,
-💥Tetairoa McMillan(AUTO)(SHADOW)(GSA)💥/ David Montgomery,,OPEN,
-💥Tom Brady(AUTO)(KAIJU)(UV)💥/ Chig Okonkwo,,OPEN,
-💥Trevor Lawrence(AUTO)(GG)(SHADOW)💥/ DeVonta Smith,,OPEN,
-💥Trey McBride(M99)💥/ Isaac TeSlaa,,OPEN,
-💥Ty Simpson(Rookie)(AUTO)(RR)(GG)(HELIX)(UV)💥/ Cameron Dicker,,OPEN,
-💥Uptown or Explosive💥,,OPEN,
-💥Stained Glass or Micro Mosaic💥,,OPEN,
-💥Gem Mint💥,,OPEN,
-A.J. Haulcy(Rookie)(AUTO) / Vita Vea,,OPEN,
-Aaron Anderson(AUTO) / Roger Craig(AUTO),,OPEN,
-Aaron Jones Sr.(AUTO) / Roman Hemby(AUTO),,OPEN,
-Adam Randall(AUTO) / Roquan Smith(AUTO),,OPEN,
-Adam Vinatieri(AUTO) / Seth McGowan(AUTO),,OPEN,
-Akheem Mesidor(Rookie)(AUTO) / Will Johnson,,OPEN,
-Albert Regis(Rookie)(AUTO) / Xavier McKinney,,OPEN,
-Alec Pierce(AUTO) / Spencer Fano(AUTO),,OPEN,
-Alvin Kamara(AUTO) / Steve Atwater(AUTO),,OPEN,
-Andre Johnson(AUTO) / Steve Largent(AUTO),,OPEN,
-Anquan Boldin(AUTO) / Steve Young(AUTO),,OPEN,
-Anthony Hill Jr.(AUTO) / T.J. Watt(AUTO),,OPEN,
-Anthony Muñoz(AUTO) / Tanner Koziol(AUTO),,OPEN,
-Anthony Smith(AUTO) / Taurean York(AUTO),,OPEN,
-Antonio Gates(AUTO) / Taysom Hill(AUTO),,OPEN,
-Antonio Williams(Rookie)(AUTO) / Zach Allen,,OPEN,
-Archie Manning(AUTO) / Terrell Davis(AUTO),,OPEN,
-Art Monk(AUTO)(TECMO) / Cornelius Bennett(TECMO),,OPEN,
-Ashton Jeanty(AUTO) / DaRon Bland,,OPEN,
-Athan Kaliakmanis(AUTO) / Terrell Suggs(AUTO),,OPEN,
-Avieon Terrell(Rookie)(AUTO) / Eli Stowers(Rookie),,OPEN,
-Barry Sanders(AUTO) / Isiah Pacheco,,OPEN,
-Behren Morton(Rookie)(AUTO) / Jonah Coleman(Rookie),,OPEN,
-Bernie Kosar(AUTO) / Terry McLaurin(AUTO),,OPEN,
-Bhayshul Tuten(AUTO) / Tez Johnson(AUTO),,OPEN,
-Blake Miller(AUTO) / Thurman Thomas(AUTO),,OPEN,
-Bo Jackson(AUTO) / Tim Brown(AUTO),,OPEN,
-Bob Griese(AUTO) / Tim Keenan III(AUTO),,OPEN,
-Boomer Esiason(AUTO) / Tony Boselli(AUTO),,OPEN,
-Brandon Cisse(Rookie)(AUTO) / Josiah Trotter(Rookie),,OPEN,
-Breece Hall(AUTO) / Tony Gonzalez(AUTO),,OPEN,
-Brenen Thompson(Rookie)(AUTO) / Julian Neal(Rookie),,OPEN,
-Brian Dawkins(AUTO) / Tony Romo(AUTO),,OPEN,
-Brian Thomas Jr.(AUTO)(24PPA) / Jordan Mailata,,OPEN,
-Brian Westbrook(AUTO) / Troy Polamalu(AUTO),,OPEN,
-Bruce Matthews(AUTO) / Tua Tagovailoa(AUTO),,OPEN,
-Bryce Lance(Rookie)(AUTO) / Lee Hunter(Rookie),,OPEN,
-Caden Curry(AUTO) / Ty Law(AUTO),,OPEN,
-Caleb Banks(Rookie)(AUTO) / Uchenna Nwosu(SBN),,OPEN,
-Caleb Douglas(Rookie)(AUTO) / AJ Barner(SBN),,OPEN,
-Caleb Lomu(Rookie)(AUTO) / Cooper Kupp(SBN),,OPEN,
-Caleb Tiernan(AUTO) / Tyler Shough(AUTO),,OPEN,
-Calvin Ridley(AUTO) / Tyler Warren(AUTO),,OPEN,
-Cam Ward(AUTO) / Von Miller(AUTO),,OPEN,
-Carson Schwesinger(AUTO)(GSA) / Joey Porter Jr.,,OPEN,
-Cashius Howell(Rookie)(AUTO) / Hunter Henry(SBN),,OPEN,
-Chase Bisontis(AUTO) / Warren Sapp(AUTO),,OPEN,
-Chase Brown(AUTO)(23PPA) / Kenneth Gainwell,,OPEN,
-Chop Robinson(AUTO) / Will Howard(AUTO),,OPEN,
-Chris Olave(AUTO) / Woody Marks(AUTO),,OPEN,
-Christen Miller(Rookie)(AUTO) / Mack Hollins(SBN),,OPEN,
-Christian Gonzalez(SBN)(23PPA) / Bud Clark(Rookie),,OPEN,
-CJ Allen(Rookie)(AUTO) / Marlin Klein(Rookie),,OPEN,
-CJ Daniels(Rookie)(AUTO) / Omar Cooper Jr.(Rookie),,OPEN,
-Colbie Young(Rookie)(AUTO) / Nick Emmanwori(SBN),,OPEN,
-Cole Payton(Rookie)(AUTO) / Rhamondre Stevenson(SBN),,OPEN,
-Colston Loveland(AUTO) / Anthony Richardson(23PPA),,OPEN,
-Colton Hood(Rookie)(AUTO) / Robert Spillane(SBN),,OPEN,
-Cris Carter(AUTO) / Richard Sherman(AUTO),,OPEN,
-Cyrus Allen(AUTO) / Rob Gronkowski(AUTO),,OPEN,
-D'Angelo Ponds(AUTO) / Robert Henry Jr.(AUTO),,OPEN,
-Dallen Bentley(Rookie)(AUTO) / Khalil Mack,,OPEN,
-Dan Fouts(AUTO) / Zakee Wheatley(AUTO),,OPEN,
-Dan Marino(AUTO) / Audric Estime(24PPA),,OPEN,
-Dani Dennis-Sutton(Rookie)(AUTO) / Khalil Shakir,,OPEN,
-Daniel Jones(AUTO)(GG) / Jonathan Allen,,OPEN,
-Dante Hall(AUTO) / Blake Corum(24PPA),,OPEN,
-Darrelle Revis(AUTO) / Braelon Allen(24PPA),,OPEN,
-Davison Igbinosun(Rookie)(AUTO) / Kirk Cousins,,OPEN,
-Dawson Knox(AUTO) / Brandon Aubrey(23PPA),,OPEN,
-Daylen Everette(Rookie)(AUTO) / Kool-Aid McKinstry,,OPEN,
-De'Zhaun Stribling(Rookie)(AUTO) / Kyle Monangai,,OPEN,
-DeAngelo Hall(AUTO) / Brenton Strange(23PPA),,OPEN,
-Deebo Samuel(AUTO) / Aidan O'Connell(23PPA),,OPEN,
-Deion Burks(Rookie)(AUTO) / Kyle Pitts Sr.,,OPEN,
-Deion Sanders(AUTO) / J.J. McCarthy,,OPEN,
+💥Aaron Rodgers(AUTO)(GG)💥/ Isaiah Likely,9,SOLD,dmoneyyy18
+💥Amon-Ra St. Brown(AUTO)(GG)(HELIX)(UV)💥/ D'Andre Swift,9,SOLD,captaingabe
+💥Arvell Reese(Rookie)(AUTO)(RR)(D1)💥/ DK Metcalf,28,SOLD,cardiackid15
+💥Baker Mayfield(GG)(HELIX)💥/ Harold Fannin Jr.,12,SOLD,mattw12345
+💥Bijan Robinson(23PPA)💥/ Jameson Williams,20,SOLD,bf87
+💥Bo Nix(AUTO)(KAIJU)(SHADOW)(24PPA)💥/ Byron Young,5,SOLD,captaingabe
+💥Brett Farve(HELIX)💥/ Jerry Jeudy,8,SOLD,captaingabe
+💥Brock Bowers(AUTO)(24PPA)💥/ Christian Kirk,9,SOLD,waskyl59192
+💥Brock Purdy(AUTO)(GG)(SHADOW)💥/ DeMarvion Overshown,25,SOLD,cardiackid15
+💥Bryce Young(AUTO)(GG)(HELIX)(23PPA)💥/ DeForest Buckner,13,SOLD,dmoneyyy18
+💥Cade Klubnik(Rookie)(AUTO)(RR)💥/ Dion Dawkins,7,SOLD,slabsonly1218
+💥Caleb Downs(Rookie)(AUTO)(RR)(D1)💥/ Dallas Goedert,14,SOLD,jdiv10887
+💥Caleb Williams(AUTO)(UV)(24PPA)💥/ Chimere Dike,11,SOLD,captaingabe
+💥Carnell Tate(Rookie)(AUTO)(RR)(D1)(GG)(HELIX)(KAIJU)(UV)💥/ Adonai Mitchell,10,SOLD,tortillaoflove
+💥Carson Beck(Rookie)(AUTO)(RR)💥/ Denzel Burke,13,SOLD,mattw12345
+💥CeeDee Lamb(AUTO)(UV)💥/ Christian Watson,18,SOLD,kyl3ward
+💥Chris Bell(Rookie)(AUTO)(RR)💥/ Dylan Sampson,11,SOLD,jester_x_99
+💥Chris Brazzell II(Rookie)(AUTO)(RR)💥/ Evan McPherson,30,SOLD,jeremyfun53937
+💥Christian McCaffrey(AUTO)(UV)💥/ Chuba Hubbard,14,SOLD,jasonwhi48753
+💥CJ Stroud(GG)(23PPA)💥/ Jauan Jennings,16,SOLD,dmoneyyy18
+💥Dak Prescott(AUTO)(GG)(HELIX)(KAIJU)(SHADOW)💥/ Chris Godwin,29,SOLD,cardiackid15
+💥David Bailey(Rookie)(AUTO)(RR)(D1)💥/ Denzel Ward,16,SOLD,bigbawler78
+💥De'Von Achane(AUTO)(GG)(23PPA)💥/ Devontez Walker,15,SOLD,jdiv10887
+💥Denzel Boston(Rookie)(AUTO)(RR)💥/ Geno Smith,13,SOLD,dmoneyyy18
+💥Derrick Henry(AUTO)(TECMO)(UV)💥/ Demario Davis,26,SOLD,cardiackid15
+💥Drake London(AUTO)💥/ Dalton Schultz,13,SOLD,dmoneyyy18
+💥Drake Maye(AUTO)(HELIX)(KAIJU)(SHADOW)(SBN)(TECMO)(24PPA)💥/ Brian Robinson Jr.,17,SOLD,lanek22
+💥Drew Allar(Rookie)(AUTO)(RR)💥/ George Karlaftis,13,SOLD,mattw12345
+💥Drew Brees(AUTO)💥/ Jimmy Horn Jr.,12,SOLD,jdiv10887
+💥Eli Manning(AUTO)💥/ Joe Thuney,24,SOLD,cardiackid15
+💥Fernando Mendoza(Rookie)(AUTO)(RR)(D1)(GG)(KAIJU)(SHADOW)(UV)💥/ Aidan Hutchinson,10,SOLD,tonycubzfan2
+💥Garrett Nussmeier(Rookie)(AUTO)💥/ Jaylon Johnson,10,SOLD,slabsonly1218
+💥Garrett Wilson(AUTO)(GG)💥/ Derwin James,17,SOLD,bf87
+💥George Kittle(UV)💥/ Jaycee Horn,14,SOLD,bigbawler78
+💥Ja'Marr Chase(AUTO)(M99)(SHADOW)💥/ Cam Skattebo,13,SOLD,travisroe15659
+💥Jadarian Price(Rookie)(AUTO)(RR)💥/ George Pickens,6,SOLD,dmoneyyy18
+💥Jahmyr Gibbs(AUTO)(23PPA)💥/ Cooper DeJean,25,SOLD,lanek22
+💥Jalen Hurts(AUTO)💥/ Jack Bech,11,SOLD,mattw12345
+💥Jared Goff(AUTO)(SHADOW)💥/ Jayden Reed,16,SOLD,bf87
+💥Jaxon Smith-Njigba(AUTO)(M99)(SHADOW)(SBN)(UV)(GSA)(23PPA)💥/ Antoine Winfield Jr.,14,SOLD,jasonwhi48753
+💥Jayden Daniels(AUTO)(24PPA)💥/ Courtland Sutton,8,SOLD,jasonwhi48753
+💥Jeremiyah Love(Rookie)(AUTO)(RR)(D1)(GG)(HELIX)(KAIJU)(SHADOW)(UV)💥/ Abdul Carter,15,SOLD,tonycubzfan2
+💥Jerry Rice(HELIX)(TECMO)💥/ Dexter Lawrence II,9,SOLD,captaingabe
+💥Joe Burrow(AUTO)(GG)(TECMO)💥/ Chris Jones,18,SOLD,jester_x_99
+💥Jordan Love(GG)💥/ Jack Campbell,27,SOLD,cardiackid15
+💥Jordyn Tyson(Rookie)(AUTO)(RR)(D1)(GG)(HELIX)(SHADOW)💥/ Budda Baker,15,SOLD,dmoneyyy18
+💥Josh Allen(AUTO)(GG)(HELIX)(M99)(SHADOW)(UV)💥/ Bryan Bresee,16,SOLD,dmoneyyy18
+💥Justin Herbert(AUTO)(GG)(UV)💥/ Cameron Heyward,13,SOLD,dmoneyyy18
+💥Justin Jefferson(AUTO)(KAIJU)(TECMO)💥/ Chris Lindstrom,15,SOLD,bigbawler78
+💥Kaelon Black(Rookie)(AUTO)(RR)💥/ Grant Delpit,16,SOLD,cigsss
+💥KC Concepcion(Rookie)(AUTO)(RR)(D1)💥/ Derek Stingley Jr.,8,SOLD,captaingabe
+💥Kenneth Walker III(AUTO)(SBN)💥/ Jeremy Chinn,18,SOLD,6bigsexy9
+💥Kenyon Sadiq(Rookie)(AUTO)(RR)💥/ Gunnar Helm,13,SOLD,lanek22
+💥Lamar Jackson(KAIJU)💥/ Darius Slayton,8,SOLD,lanek22
+💥Makai Lemon(Rookie)(AUTO)(RR)(D1)(GG)(HELIX)(UV)💥/ Byron Murphy Jr.,16,SOLD,jasonwhi48753
+💥Matthew Stafford(AUTO)(HELIX)(M99)(SHADOW)(UV)(GSA)💥/ Brian Burns,17,SOLD,dmoneyyy18
+💥Micah Parsons(UV)💥/ Jaylen Warren,8,SOLD,cbruce72
+💥Myles Garrett(KAIJU)(M99)(TECMO)(UV)(GSA)💥/ Christian Benford,14,SOLD,mattw12345
+💥Patrick Mahomes II(AUTO)(GG)(SHADOW)(UV)💥/ Cade Otton,19,SOLD,travisroe15659
+💥Peyton Manning(AUTO)💥/ James Conner,15,SOLD,tonycubzfan2
+💥Puka Nacua(AUTO)(23PPA)💥/ Creed Humphrey,23,SOLD,bf87
+💥Rueben Bain Jr.(Rookie)(AUTO)💥/ Jeffery Simmons,10,SOLD,bdrassr13
+💥Sam Darnold(AUTO)(GG)(HELIX)(SBN)💥/ DJ Moore,11,SOLD,mattw12345
+💥Saquon Barkley(AUTO)💥/ Darnell Wright,23,SOLD,bigbawler78
+💥Sean Taylor(UV)💥/ Jaylen Wright,13,SOLD,colewis33
+💥Sonny Styles(Rookie)(AUTO)(RR)(D1)💥/ Davante Adams,14,SOLD,dmoneyyy18
+💥Tetairoa McMillan(AUTO)(SHADOW)(GSA)💥/ David Montgomery,12,SOLD,mattw12345
+💥Tom Brady(AUTO)(KAIJU)(UV)💥/ Chig Okonkwo,13,SOLD,dmoneyyy18
+💥Trevor Lawrence(AUTO)(GG)(SHADOW)💥/ DeVonta Smith,28,SOLD,cardiackid15
+💥Trey McBride(M99)💥/ Isaac TeSlaa,19,SOLD,bf87
+💥Ty Simpson(Rookie)(AUTO)(RR)(GG)(HELIX)(UV)💥/ Cameron Dicker,10,SOLD,kyl3ward
+💥Uptown or Explosive💥,17,SOLD,jasonwhi48753
+💥Stained Glass or Micro Mosaic💥,24,SOLD,tonycubzfan2
+💥Gem Mint💥,13,SOLD,jgood23
+A.J. Haulcy(Rookie)(AUTO) / Vita Vea,6,SOLD,jester_x_99
+Aaron Anderson(AUTO) / Roger Craig(AUTO),14,SOLD,slabsonly1218
+Aaron Jones Sr.(AUTO) / Roman Hemby(AUTO),13,SOLD,jasonwhi48753
+Adam Randall(AUTO) / Roquan Smith(AUTO),13,SOLD,jasonwhi48753
+Adam Vinatieri(AUTO) / Seth McGowan(AUTO),9,SOLD,dmoneyyy18
+Akheem Mesidor(Rookie)(AUTO) / Will Johnson,16,SOLD,makaaani
+Alec Pierce(AUTO) / Spencer Fano(AUTO),8,SOLD,makaaani
+Alvin Kamara(AUTO) / Steve Atwater(AUTO),16,SOLD,jasonwhi48753
+Andre Johnson(AUTO) / Steve Largent(AUTO),6,SOLD,jeremyfun53937
+Anquan Boldin(AUTO) / Steve Young(AUTO),26,SOLD,slabsonly1218
+Anthony Hill Jr.(AUTO) / T.J. Watt(AUTO),28,SOLD,cardiackid15
+Anthony Muñoz(AUTO) / Tanner Koziol(AUTO),23,SOLD,lanek22
+Anthony Smith(AUTO) / Taurean York(AUTO),15,SOLD,sleep_881400
+Antonio Gates(AUTO) / Taysom Hill(AUTO),11,SOLD,jasonwhi48753
+Antonio Williams(Rookie)(AUTO) / Zach Allen,12,SOLD,slabsonly1218
+Archie Manning(AUTO) / Terrell Davis(AUTO),26,SOLD,cardiackid15
+Art Monk(AUTO)(TECMO) / Cornelius Bennett(TECMO),14,SOLD,slabsonly1218
+Ashton Jeanty(AUTO) / DaRon Bland,20,SOLD,mattw12345
+Avieon Terrell(Rookie)(AUTO) / Eli Stowers(Rookie),38,SOLD,cardiackid15
+Barry Sanders(AUTO) / Isiah Pacheco,8,SOLD,slabsonly1218
+Behren Morton(Rookie)(AUTO) / Jonah Coleman(Rookie),11,SOLD,beezer3714
+Bernie Kosar(AUTO) / Terry McLaurin(AUTO),9,SOLD,waskyl59192
+Bhayshul Tuten(AUTO) / Tez Johnson(AUTO),15,SOLD,bf87
+Blake Miller(AUTO) / Thurman Thomas(AUTO),16,SOLD,ratana1344
+Bo Jackson(AUTO) / Tim Brown(AUTO),4,SOLD,makaaani
+Bob Griese(AUTO) / Tim Keenan III(AUTO),25,SOLD,sleep_881400
+Boomer Esiason(AUTO) / Tony Boselli(AUTO),17,SOLD,mattw12345
+Brandon Cisse(Rookie)(AUTO) / Josiah Trotter(Rookie),13,SOLD,bigbawler78
+Breece Hall(AUTO) / Tony Gonzalez(AUTO),11,SOLD,waskyl59192
+Brenen Thompson(Rookie)(AUTO) / Julian Neal(Rookie),13,SOLD,mattapalooza
+Brian Dawkins(AUTO) / Tony Romo(AUTO),14,SOLD,dmoneyyy18
+Brian Thomas Jr.(AUTO)(24PPA) / Jordan Mailata,10,SOLD,kgdoesitall505
+Brian Westbrook(AUTO) / Troy Polamalu(AUTO),9,SOLD,jasonwhi48753
+Bruce Matthews(AUTO) / Tua Tagovailoa(AUTO),8,SOLD,jgood23
+Bryce Lance(Rookie)(AUTO) / Lee Hunter(Rookie),20,SOLD,jeremyfun53937
+Caden Curry(AUTO) / Ty Law(AUTO),26,SOLD,sleep_881400
+Caleb Banks(Rookie)(AUTO) / Uchenna Nwosu(SBN),15,SOLD,cardiackid15
+Caleb Douglas(Rookie)(AUTO) / AJ Barner(SBN),9,SOLD,jgood23
+Caleb Lomu(Rookie)(AUTO) / Cooper Kupp(SBN),4,SOLD,colewis33
+Caleb Tiernan(AUTO) / Tyler Shough(AUTO),6,SOLD,jdiv10887
+Calvin Ridley(AUTO) / Tyler Warren(AUTO),12,SOLD,tonycubzfan2
+Cam Ward(AUTO) / Von Miller(AUTO),17,SOLD,bf87
+Carson Schwesinger(AUTO)(GSA) / Joey Porter Jr.,22,SOLD,sleep_881400
+Cashius Howell(Rookie)(AUTO) / Hunter Henry(SBN),7,SOLD,makaaani
+Chase Bisontis(AUTO) / Warren Sapp(AUTO),11,SOLD,dmoneyyy18
+Chase Brown(AUTO)(23PPA) / Kenneth Gainwell,9,SOLD,captaingabe
+Chop Robinson(AUTO) / Will Howard(AUTO),8,SOLD,makaaani
+Chris Olave(AUTO) / Woody Marks(AUTO),16,SOLD,makaaani
+Christen Miller(Rookie)(AUTO) / Mack Hollins(SBN),12,SOLD,jdiv10887
+Christian Gonzalez(SBN)(23PPA) / Bud Clark(Rookie),11,SOLD,captaingabe
+CJ Allen(Rookie)(AUTO) / Marlin Klein(Rookie),9,SOLD,jasonwhi48753
+CJ Daniels(Rookie)(AUTO) / Omar Cooper Jr.(Rookie),14,SOLD,jasonwhi48753
+Colbie Young(Rookie)(AUTO) / Nick Emmanwori(SBN),16,SOLD,mattw12345
+Cole Payton(Rookie)(AUTO) / Rhamondre Stevenson(SBN),15,SOLD,jasonwhi48753
+Colston Loveland(AUTO) / Anthony Richardson(23PPA),8,SOLD,dmoneyyy18
+Colton Hood(Rookie)(AUTO) / Robert Spillane(SBN),17,SOLD,makaaani
+Cris Carter(AUTO) / Richard Sherman(AUTO),23,SOLD,cardiackid15
+Cyrus Allen(AUTO) / Rob Gronkowski(AUTO),9,SOLD,jgood23
+D'Angelo Ponds(AUTO) / Robert Henry Jr.(AUTO),11,SOLD,travisroe15659
+Dallen Bentley(Rookie)(AUTO) / Khalil Mack,24,SOLD,slabsonly1218
+Dan Fouts(AUTO) / Zakee Wheatley(AUTO),13,SOLD,beezer3714
+Dan Marino(AUTO) / Audric Estime(24PPA),25,SOLD,cardiackid15
+Dani Dennis-Sutton(Rookie)(AUTO) / Khalil Shakir,15,SOLD,captaingabe
+Daniel Jones(AUTO)(GG) / Jonathan Allen,15,SOLD,beezer3714
+Dante Hall(AUTO) / Blake Corum(24PPA),5,SOLD,makaaani
+Darrelle Revis(AUTO) / Braelon Allen(24PPA),8,SOLD,waskyl59192
+Davison Igbinosun(Rookie)(AUTO) / Kirk Cousins,17,SOLD,bigbawler78
+Dawson Knox(AUTO) / Brandon Aubrey(23PPA),16,SOLD,condev
+Daylen Everette(Rookie)(AUTO) / Kool-Aid McKinstry,1,SOLD,slabsonly1218
+De'Zhaun Stribling(Rookie)(AUTO) / Kyle Monangai,18,SOLD,bf87
+DeAngelo Hall(AUTO) / Brenton Strange(23PPA),30,SOLD,makaaani
+Deion Burks(Rookie)(AUTO) / Kyle Pitts Sr.,15,SOLD,tortillaoflove
+Deion Sanders(AUTO) / J.J. McCarthy,15,SOLD,lwp22
+Jalon Kilgore(AUTO) / Ja'lynn Polk(24PPA),11,SOLD,dmoneyyy18
+Jerome Bettis(AUTO) / Javon Bullard(24PPA),10,SOLD,beezer3714
+James Lofton(AUTO) / Jalen Carter(23PPA),11,SOLD,dmoneyyy18
+Howie Long(AUTO) / Dalton Kincaid(23PPA),13,SOLD,dmoneyyy18
+Eric Dickerson(AUTO) / Cole Bishop(24PPA),18,SOLD,dmoneyyy18
+J'Mari Taylor(AUTO) / Dontayvion Wicks(23PPA),8,SOLD,dmoneyyy18
+Kevin Coleman Jr.(AUTO) / Malik Washington(24PPA),11,SOLD,travisroe15659
+Ted Hurst(Rookie)(AUTO) / Tre Harris III,11,SOLD,dmoneyyy18
+William Perry(TECMO)(AUTO) / Trent Williams,10,SOLD,dmoneyyy18
+Skyler Bell(Rookie)(AUTO) / Tommy Tremble,10,SOLD,dmoneyyy18
+Michael Vick(AUTO) / Tyjae Spears(23PPA),17,SOLD,bf87
+Frank Gore(AUTO) / Cooper Beebe(24PPA),18,SOLD,dmoneyyy18
+Sterling Sharpe(TECMO)(AUTO) / Tony Pollard,17,SOLD,bf87
+Matthew Golden(AUTO) / Tank Bigsby(23PPA),17,SOLD,bf87
+Ozzie Newsome(AUTO) / Andrei Iosivas(23PPA),16,SOLD,dmoneyyy18
+Malik Nabers(AUTO) / Jake Ferguson,16,SOLD,beezer3714
+Nick Singleton(Rookie)(AUTO) / Sauce Gardner,7,SOLD,bf87
+Lake McRee(AUTO) / Mike Sainristil(24PPA),15,SOLD,tonycubzfan2
+Jake Slaughter(AUTO) / Henry To'oTo'o(23PPA),16,SOLD,dmoneyyy18
+Jayden Higgins(AUTO) / Jared Verse(24PPA),15,SOLD,tonycubzfan2
+Jaxson Dart(AUTO) / Jalen McMillan(24PPA),14,SOLD,dmoneyyy18
+Lawrence Taylor(AUTO) / Parker Washington(23PPA),21,SOLD,tonycubzfan2
+Tacario Davis(Rookie)(AUTO) / Travis Kelce,11,SOLD,dmoneyyy18
+Keith Abney II(Rookie)(AUTO) / Quay Walker,11,SOLD,travisroe15659
+Jaishawn Barham(Rookie)(AUTO) / Nick Bolton,15,SOLD,lanek22
+Luke Kuechly(AUTO) / Roschon Johnson(23PPA),11,SOLD,dmoneyyy18
+#63,16,SOLD,dmoneyyy18
+Romello Height(Rookie)(AUTO) / Tee Higgins,22,SOLD,jeremyfun53937
+Edgerrin Cooper(AUTO)(24PPA) / Kenneth Grant,26,SOLD,jeremyfun53937
+Xavier Worthy(AUTO)(24PPA) / Juwan Johnson,15,SOLD,kylelem207
+Maurice Jones-Drew(AUTO) / Theo Johnson(24PPA),11,SOLD,kylelem207
+Ray Lewis(AUTO) / Christian Okoye(TECMO),13,SOLD,slabsonly1218
+Malik Muhammad(AUTO) / T'Vondre Sweat(24PPA),26,SOLD,jeremyfun53937
+John Riggins(AUTO) / Kayshon Boutte(23PPA),2,SOLD,moisheric
+LeRoy Butler(AUTO) / Payton Wilson(24PPA),8,SOLD,slabsonly1218
+Will Lee III(Rookie)(AUTO) / Trey Hendrickson,30,SOLD,noahh1018
+Derrick Moore(Rookie)(AUTO) / Kyler Murray,30,SOLD,smalltowngifts
+Harold Perkins Jr.(Rookie)(AUTO) / Minkah Fitzpatrick,34,SOLD,smalltowngifts
+Ladd McConkey(AUTO)(24PPA) / Jordan Whittington,28,SOLD,stankyleg94
+#83,30,SOLD,samwal50
+Fred Warner(AUTO) / Dallas Turner(24PPA),12,SOLD,cigsss
+Kyle Hamilton(AUTO) / Marist Liufau(24PPA),14,SOLD,cigsss
+Joe Thomas(AUTO) / Junior Colson(24PPA),17,SOLD,cigsss
+Kendrick Law(Rookie)(AUTO) / Quinn Ewers,12,SOLD,cigsss
+TreVeyon Henderson(AUTO)(SBN) / Troy Aikman(TECMO),16,SOLD,cigsss
+Miller Moss(AUTO) / Tyson Bagent(23PPA),11,SOLD,cigsss
+T.J. Parker(Rookie)(AUTO) / Travis Etienne Jr.,15,SOLD,cigsss
+Genesis Smith(Rookie)(AUTO) / Mason Taylor,15,SOLD,cigsss
+Jalon Walker(AUTO) / Jacob Cowing(24PPA),15,SOLD,cigsss
+Eli Raridon(Rookie)(AUTO) / Laremy Tunsil,14,SOLD,cigsss
+Eric Allen(AUTO) / Chris Braswell(24PPA),26,SOLD,bf87
+Randy Moss(AUTO) / Jaylen Waddle(GG),18,SOLD,slabsonly1218
+Jonathan Taylor(AUTO) / Kris Jenkins(24PPA),11,SOLD,slabsonly1218
+LeSean McCoy(AUTO) / Quentin Johnston(23PPA),10,SOLD,captaingabe
+Mike Alstott(AUTO) / Tyler Guyton(24PPA),14,SOLD,cardiackid15
+LT Overton(AUTO) / Michael Penix Jr.(24PPA),26,SOLD,cardiackid15
+Kyren Williams(AUTO) / Michael Mayer(23PPA),25,SOLD,cardiackid15
+Jim McMahon(AUTO) / Joe Milton III(24PPA),24,SOLD,slabsonly1218
+Isaiah World(AUTO) / Darnell Washington(23PPA),25,SOLD,slabsonly1218
+Keon Coleman(AUTO)(24PPA) / Kevin Winston Jr.,33,SOLD,cardiackid15
+John Elway(AUTO) / Kamren Jenkins(24PPA),26,SOLD,lanek22
+Francis Mauigoa(Rookie)(AUTO) / Mason Graham,25,SOLD,cardiackid15
+Zion Young(Rookie)(AUTO) / Tucker Kraft,20,SOLD,stankyleg94
+Dez Bryant(AUTO) / Brian Branch(23PPA),26,SOLD,cardiackid15
+Kam Chancellor(AUTO) / Luke Musgrave(23PPA),13,SOLD,slabsonly1218
+Jihaad Campbell(AUTO) / Jeremiah Trotter(24PPA),24,SOLD,cardiackid15
+💥JUICED BOX💥,25,SOLD,kyl3ward
+Kyle Juszczyk(AUTO) / Marvin Mims Jr.(23PPA),7,SOLD,sportscards_4eric
+Jacob Rodriguez(Rookie)(AUTO) / Nakobe Dean,7,SOLD,kyl3ward
+Josh Cuevas(AUTO) / Lukas Van Ness(23PPA),15,SOLD,jester_x_99
+Zavion Thomas(Rookie)(AUTO) / Tyquan Thornton,16,SOLD,stankyleg94
+Jonathan Ogden(AUTO) / Kobie Turner(23PPA),14,SOLD,kyl3ward
+Josh Jacobs(AUTO) / Jacoby Brissett,8,SOLD,sportscards_4eric
+James Cook(AUTO) / Jake Moody(23PPA),7,SOLD,waskyl59192
+Emeka Egbuka(AUTO) / J.K. Dobbins,14,SOLD,captaingabe
+Ephesians Prysock(AUTO) / Cedric Tillman(23PPA),9,SOLD,captaingabe
+Elijah Sarratt(Rookie)(AUTO) / Malik Willis,10,SOLD,ratana1344
+RJ Harvey(AUTO) / Shedeur Sanders(GG),9,SOLD,jgood23
+Domani Jackson(AUTO) / Bucky Irving(24PPA),8,SOLD,waskyl59192
+Quinshon Judkins(AUTO) / Anthony Gould(24PPA),9,SOLD,ratana1344
+Nate Boerkircher(Rookie)(AUTO) / Riley Leonard,9,SOLD,jasonwhi48753
+Joe Royer(AUTO) / Joshua Karty(24PPA),11,SOLD,jasonwhi48753
+Joe Flacco(AUTO) / Jonathan Mingo(23PPA),13,SOLD,jasonwhi48753
+Edgerrin James(AUTO) / Cade Stover(24PPA),9,SOLD,kgdoesitall505
+Nico Collins(AUTO) / Will Levis(23PPA),8,SOLD,jasonwhi48753
+Zay Flowers(AUTO)(23PPA) / K'Lavon Chaisson,7,SOLD,jasonwhi48753
+Sam Roush(Rookie)(AUTO) / Terrance Ferguson,10,SOLD,jasonwhi48753
+Jake Golday(Rookie)(AUTO) / Nick Bosa,11,SOLD,mattw12345
+Jalon Daniels(AUTO) / Ja'Tavion Sanders(24PPA),20,SOLD,makaaani
+DeMarco Murray(AUTO) / Zach Charbonnet(23PPA),13,SOLD,mattw12345
+Michael Trigg(AUTO) / Trey Benson(24PPA),16,SOLD,jasonwhi48753
+Emmett Johnson(Rookie)(AUTO) / Marvin Harrison Jr.,14,SOLD,jasonwhi48753
+Monroe Freeling(AUTO) / Will Anderson Jr.(23PPA),16,SOLD,jasonwhi48753
+Josh Cameron(Rookie)(AUTO) / Olamide Zaccheaus,11,SOLD,tortillaoflove
+Emmanuel McNeil-Warren(Rookie)(AUTO) / Mark Andrews,11,SOLD,tortillaoflove
+Elic Ayomanor(AUTO) / Calen Bullock(24PPA),12,SOLD,jdiv10887
+Kurt Warner(AUTO) / MarShawn Lloyd(24PPA),12,SOLD,jdiv10887
+Demond Claiborne(Rookie)(AUTO) / Kyle Williams,16,SOLD,makaaani
+Kayden McDonald(Rookie)(AUTO) / Oronde Gadsden,12,SOLD,jdiv10887
+Lewis Bond(AUTO) / Rashee Rice(23PPA),13,SOLD,jdiv10887
+Malachi Lawrence(Rookie)(AUTO) / Rashid Shaheed,11,SOLD,jdiv10887
+Max Klare(Rookie)(AUTO) / Reed Blankenship,14,SOLD,makaaani
+Jermod McCoy(Rookie)(AUTO) / Nik Bonitto,12,SOLD,jasonwhi48753
+Rod Woodson(TECMO)(AUTO) / Talanoa Hufanga,12,SOLD,jdiv10887
+Germie Bernard(Rookie)(AUTO) / Mike Evans,12,SOLD,jasonwhi48753
+Dont'e Thornton Jr.(AUTO) / Byron Murphy II(24PPA),12,SOLD,jasonwhi48753
+Luke Altmyer(AUTO) / Rome Odunze(24PPA),22,SOLD,mattw12345
+Travis Hunter / Derrick Brown,20,SOLD,jasonwhi48753
+Michael Wilson(AUTO)(23PPA) / Josh Hines-Allen,21,SOLD,bigbawler78
+Malachi Fields(Rookie)(AUTO) / Rachaad White,17,SOLD,bigbawler78
+Ja'Kobi Lane(Rookie)(AUTO) / Montez Sweat,3,SOLD,jdiv10887
+Jim Kelly(AUTO) / Joe Alt(24PPA),16,SOLD,jasonwhi48753
+Deontae Lawson(AUTO) / Brevyn Spann-Ford(24PPA),17,SOLD,jasonwhi48753
+Peter Woods(Rookie)(AUTO) / Savion Williams,13,SOLD,jasonwhi48753
+Oscar Delp(AUTO) / Xavier Legette(24PPA),5,SOLD,jdiv10887
+Jack Endries(AUTO) / George Holani(24PPA),9,SOLD,bigbawler78
+Dillon Thieneman(Rookie)(AUTO) / Laiatu Latu,8,SOLD,makaaani
+Warren Moon(TECMO)(AUTO) / Trent McDuffie,11,SOLD,mattw12345
+Keldric Faulk(Rookie)(AUTO) / Quenton Nelson,10,SOLD,jdiv10887
+Kamari Lassiter(AUTO) / Luke Schoonmaker(23PPA),10,SOLD,bigbawler78
+Larry Fitzgerald(AUTO) / Nate Wiggins(24PPA),6,SOLD,jasonwhi48753
+Justin Joly(Rookie)(AUTO) / Ollie Gordon II,7,SOLD,slabsonly1218
+Jacory Croskey-Merritt(AUTO) / Graham Barton(24PPA),6,SOLD,jasonwhi48753
+Omarion Hampton(AUTO) / Will Shipley(24PPA),7,SOLD,sportscards_4eric
+Malcom Smith(AUTO) / Spencer Rattler(24PPA),8,SOLD,makaaani
+Noah Whittington(AUTO) / Will Reichard(24PPA),17,SOLD,bigbawler78
+Kaytron Allen(Rookie)(AUTO) / Pat Freiermuth,11,SOLD,jasonwhi48753
+Keylan Rutledge(Rookie)(AUTO) / Quinnen Williams,15,SOLD,ratana1344
+Joe Montana(AUTO) / Josh Downs(23PPA),10,SOLD,jasonwhi48753
+Javonte Williams(AUTO) / Jalen Coker(24PPA),7,SOLD,bigbawler78
+Jordan Addison(AUTO)(23PPA) / Kenny Clark,4,SOLD,mattw12345
+Emmanuel Henderson Jr.(AUTO) / Cam Little(24PPA),5,SOLD,jester_x_99
+Mike Singletary(AUTO) / Tyrone Tracy Jr.(24PPA),5,SOLD,bigbawler78
+Kaleb Johnson(AUTO) / Luke McCaffrey(24PPA),4,SOLD,sportscards_4eric
+Devon Witherspoon(SBN)(23PPA) / Chris McClellan(Rookie),4,SOLD,colewis33
+Mansoor Delane(Rookie)(AUTO) / Rashod Bateman,4,SOLD,bigbawler78
+Maxx Crosby(AUTO) / Jakobi Meyers,6,SOLD,makaaani
+Taylen Green(Rookie)(AUTO) / Travon Walker,6,SOLD,makaaani
+Luther Burden III(AUTO) / Sam LaPorta(23PPA),9,SOLD,makaaani
+Mike Washington Jr.(Rookie)(AUTO) / Ricky Pearsall,9,SOLD,makaaani
+Reggie Virgil(Rookie)(AUTO) / T.J. Hockenson,9,SOLD,colewis33
+Pat Surtain II(AUTO) / Amarius Mims(24PPA),13,SOLD,bigbawler78
+"Albert Regis(Rookie)(AUTO) / Xavier McKinney, Athan Kaliakmanis(AUTO) / Terrell Suggs(AUTO), Deebo Samuel(AUTO) / Aidan O'Connell(23PPA), Michael Irvin(AUTO) / Tre Tucker(23PPA), Zachariah Branch(Rookie)(AUTO) / Trevor Etienne",6,SOLD,jasonwhi48753

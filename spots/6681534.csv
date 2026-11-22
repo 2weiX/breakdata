@@ -1,0 +1,35 @@
+spot,price,state,buyer
+Arizona Cardinals,55,OPEN,
+Atlanta Falcons,25,OPEN,
+Baltimore Ravens,35,OPEN,
+Buffalo Bills,48,OPEN,
+Carolina Panthers,30,OPEN,
+Chicago Bears,50,OPEN,
+Cleveland Browns,38,OPEN,
+Dallas Cowboys,44,OPEN,
+Denver Broncos,38,OPEN,
+Detroit Lions,32,OPEN,
+Green Bay Packers,28,OPEN,
+Houston Texans,24,OPEN,
+Indianapolis Colts,24,OPEN,
+Jacksonville Jaguars,30,OPEN,
+Kansas City Chiefs,55,OPEN,
+Las Vegas Raiders,105,OPEN,
+Los Angeles Rams,48,OPEN,
+Miami Dolphins,20,OPEN,
+Minnesota Vikings,40,OPEN,
+New England Patriots,28,SOLD,highsteaks
+New Orleans Saints,44,OPEN,
+New York Giants,38,OPEN,
+New York Jets,32,OPEN,
+Philadelphia Eagles,36,OPEN,
+Pittsburgh Steelers,32,OPEN,
+Seattle Seahawks,32,OPEN,
+Tampa Bay Buccaneers,36,OPEN,
+Tennessee Titans,46,OPEN,
+Washington Commanders,32,OPEN,
+ACC,22,SOLD,chiefwahooo
+BIG10,22,SOLD,chiefwahooo
+BIG12,22,SOLD,chiefwahooo
+SEC,25,SOLD,chiefwahooo
+OTHERS NIL,16,SOLD,chiefwahooo

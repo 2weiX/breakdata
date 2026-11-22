@@ -1,49 +1,47 @@
 spot,price,state,buyer
 Arizona Cardinals,8,SOLD,forest_city_pullz
-Atlanta Falcons,14,OPEN,
-Baltimore Ravens,15,OPEN,
-Buffalo Bills,20,OPEN,
+Atlanta Falcons,9,SOLD,xxheyitzzmeexx
+Baltimore Ravens,8,SOLD,forest_city_pullz
+Buffalo Bills,14,SOLD,coreyt19
 Carolina Panthers,6,SOLD,coreyt19
 Chicago Bears,15,SOLD,forest_city_pullz
 Cincinnati Bengals,10,SOLD,forest_city_pullz
 Cleveland Browns,3,SOLD,riptide_reaper
-Dallas Cowboys,13,OPEN,
-Denver Broncos,14,OPEN,
-Detroit Lions,20,OPEN,
-Green Bay Packers,15,OPEN,
-Houston Texans,14,OPEN,
-Indianapolis Colts,11,OPEN,
+Dallas Cowboys,7,SOLD,gsil84
+Denver Broncos,8,SOLD,gsil84
+Detroit Lions,12,SOLD,forest_city_pullz
+Green Bay Packers,5,SOLD,gsil84
+Houston Texans,7,SOLD,gsil84
+Indianapolis Colts,5,SOLD,coreyt19
 Jacksonville Jaguars,10,SOLD,forest_city_pullz
 Kansas City Chiefs,15,SOLD,forest_city_pullz
-Las Vegas Raiders,44,OPEN,
-Los Angeles Chargers,12,OPEN,
+Las Vegas Raiders,33,SOLD,forest_city_pullz
+Los Angeles Chargers,5,SOLD,gsil84
 Los Angeles Rams,10,SOLD,forest_city_pullz
 Miami Dolphins,8,SOLD,forest_city_pullz
 "Minnesota Vikings , New York Giants , New York Jets",30,SOLD,tylersam90770
 New England Patriots,14,SOLD,t_bagger
 New Orleans Saints,5,SOLD,forest_city_pullz
-Philadelphia Eagles,18,OPEN,
-Pittsburgh Steelers,14,OPEN,
+Pittsburgh Steelers,7,SOLD,gsil84
 San Francisco 49ers,20,SOLD,wjlyons4
-Seattle Seahawks,12,OPEN,
+Seattle Seahawks,5,SOLD,jeffoli4205
 Tampa Bay Buccaneers,9,SOLD,coreyt19
 Tennessee Titans,11,SOLD,coreyt19
-Washington Commanders,15,OPEN,
 Alabama,13,SOLD,riptide_reaper
 BYU,8,SOLD,forest_city_pullz
 Clemson,10,SOLD,coreyt19
-Florida,14,OPEN,
+Florida,8,SOLD,jeffoli4205
 Georgia,13,SOLD,coreyt19
-Indiana,12,OPEN,
+Indiana,7,SOLD,coreyt19
 Miami,13,SOLD,coreyt19
-Michigan,15,OPEN,
+Michigan,8,SOLD,coreyt19
 Notre Dame,24,SOLD,coreyt19
-Ohio State,17,OPEN,
-Oklahoma,15,OPEN,
+Ohio State,10,SOLD,coreyt19
 Ole Miss,8,SOLD,forest_city_pullz
-Oregon,17,OPEN,
+Oregon,9,SOLD,jeffoli4205
 Texas,28,SOLD,coreyt19
-Texas A&M,12,OPEN,
-USC,14,OPEN,
+Texas A&M,5,SOLD,jeffoli4205
+USC,8,SOLD,coreyt19
 Washington,5,SOLD,coreyt19
 All Other Schools,60,SOLD,coreyt19
+"Washington Commanders , Oklahoma , Philadelphia Eagles",18,SOLD,gsil84

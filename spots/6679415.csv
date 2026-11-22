@@ -1,0 +1,34 @@
+spot,price,state,buyer
+Kansas City Chiefs,564,SOLD,oyvey82
+Los Angeles Rams,646,SOLD,oyvey82
+Seattle Seahawks,565,SOLD,oyvey82
+Jacksonville Jaguars,506,SOLD,chambergs
+Los Angeles Chargers,675,SOLD,kruboy9
+Pittsburgh Steelers,570,SOLD,oyvey82
+Philadelphia Eagles,720,SOLD,richecko
+Green Bay Packers,659,SOLD,richecko
+Houston Texans,775,SOLD,richecko
+Chicago Bears,755,SOLD,oyvey82
+Tampa Bay Buccaneers,610,SOLD,chambergs
+Minnesota Vikings,796,SOLD,richecko
+Cincinnati Bengals,765,SOLD,richecko
+New York Giants,775,SOLD,richecko
+Denver Broncos,780,SOLD,richecko
+Indianapolis Colts,780,SOLD,richecko
+Atlanta Falcons,785,SOLD,richecko
+Cleveland Browns,820,SOLD,richecko
+Buffalo Bills,790,SOLD,richecko
+New York Jets,790,SOLD,richecko
+Detroit Lions,800,SOLD,richecko
+New England Patriots,760,SOLD,richecko
+Dallas Cowboys,740,SOLD,richecko
+Washington Commanders,615,SOLD,richecko
+"Carolina Panthers, Tennessee Titans",680,SOLD,richecko
+Arizona Cardinals,297,SOLD,oyvey82
+Miami Dolphins,520,SOLD,richecko
+Baltimore Ravens,470,SOLD,oyvey82
+MISC,510,SOLD,oyvey82
+New Orleans Saints,530,SOLD,richecko
+San Francisco 49ers,630,SOLD,oyvey82
+Las Vegas Raiders,165,SOLD,kruboy9
+#33,400,SOLD,oyvey82

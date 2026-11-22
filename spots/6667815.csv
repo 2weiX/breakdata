@@ -1,8 +1,5 @@
 spot,price,state,buyer
-Cleveland Browns,10,SOLD,masontotuff
-New York Jets,10,SOLD,kollousion
 Detroit Lions,10,SOLD,kollousion
-"Cincinnati Bengals, Kansas City Chiefs",10,SOLD,saturnsports
 Tampa Bay Buccaneers,10,SOLD,saturnsports
 "Philadelphia Eagles, Seattle Seahawks",10,SOLD,marshall48
 Baltimore Ravens,10,SOLD,marshall48
@@ -15,7 +12,10 @@ Miami Dolphins,10,SOLD,ryankel63941
 Pittsburgh Steelers,10,SOLD,ryankel63941
 Jacksonville Jaguars,10,SOLD,ryankel63941
 Washington Commanders,10,SOLD,ryankel63941
-Buffalo Bills,10,SOLD,ryankel63941
 Minnesota Vikings,10,SOLD,collinsfow
-Green Bay Packers,10,SOLD,kollousion
-#20,1,OPEN,
+Green Bay Packers,10,SOLD,saturnsports
+"Cincinnati Bengals, Cleveland Browns",10,SOLD,masontotuff
+GAVE JETS AWAY,10,SOLD,kollousion
+"Kansas City Chiefs, GAVE BENGALS AWAY",10,SOLD,saturnsports
+"Buffalo Bills, New York Jets",10,SOLD,ryankel63941
+Houston Texans,10,SOLD,kollousion

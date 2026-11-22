@@ -1,9 +1,9 @@
 spot,price,state,buyer
 Arizona Cardinals,8,SOLD,88playmaker
-Atlanta Falcons,6,OPEN,
+Atlanta Falcons,6,SOLD,88playmaker
 Baltimore Ravens,6,SOLD,carolina_blue_cards
-Buffalo Bills,7,OPEN,
-Carolina Panthers,6,OPEN,
+Buffalo Bills,7,SOLD,thecardcruiser
+Carolina Panthers,6,SOLD,88playmaker
 Chicago Bears,6,SOLD,choochlv
 Cincinnati Bengals,6,SOLD,scottlaf58093
 Cleveland Browns,6,OPEN,
@@ -11,23 +11,24 @@ Dallas Cowboys,7,SOLD,88playmaker
 Denver Broncos,4,SOLD,aidenbilodeau12
 Detroit Lions,4,SOLD,toxt605
 Green Bay Packers,6,SOLD,toxt605
-Houston Texans,6,OPEN,
+Houston Texans,4.5,SOLD,aidenbilodeau12
 Indianapolis Colts,6,OPEN,
-Jacksonville Jaguars,6,OPEN,
+Jacksonville Jaguars,4.2,SOLD,aidenbilodeau12
 Kansas City Chiefs,6,SOLD,carolina_blue_cards
 Las Vegas Raiders,9,SOLD,88playmaker
-Los Angeles Chargers,6,OPEN,
-Los Angeles Rams,6,OPEN,
+Los Angeles Chargers,3,SOLD,88playmaker
+Los Angeles Rams,6,SOLD,88playmaker
 Miami Dolphins,6,OPEN,
-Minnesota Vikings,6,OPEN,
-New England Patriots,7,OPEN,
+Minnesota Vikings,6,SOLD,thecardcruiser
+New England Patriots,6,SOLD,creeks_sports_breaks
 New Orleans Saints,7,OPEN,
 New York Giants,7,SOLD,kgriff80
 New York Jets,6,OPEN,
 Philadelphia Eagles,7,OPEN,
 Pittsburgh Steelers,6,SOLD,kgriff80
 San Francisco 49ers,6,SOLD,carolina_blue_cards
-Seattle Seahawks,6,OPEN,
-Tampa Bay Buccaneers,6,OPEN,
+Seattle Seahawks,5,SOLD,creeks_sports_breaks
+Tampa Bay Buccaneers,5,SOLD,kgriff80
 Tennessee Titans,7,SOLD,kgriff80
 Washington Commanders,5,SOLD,kgriff80
+"Browns, saints, jets, eagles, colts, fins ",35,SOLD,thecardcruiser
