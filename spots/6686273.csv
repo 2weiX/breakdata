@@ -1,33 +1,34 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+New England Patriots,16,SOLD,kevcox
+Jacksonville Jaguars,21,SOLD,kevcox
+Minnesota Vikings,16,SOLD,johnhous76
+Chicago Bears,15,SOLD,csme8
+Kansas City Chiefs,17,SOLD,ivanwri87932
+Dallas Cowboys,15,SOLD,ivanwri87932
+Las Vegas Raiders,16,SOLD,johnhous76
+Green Bay Packers,15,SOLD,ivanwri87932
+Miami Dolphins,13,SOLD,gillski03
+Tennessee Titans,14,SOLD,johnhous76
+Philadelphia Eagles,15,SOLD,kevcox
+Houston Texans,14,SOLD,hippie3674
+New Orleans Saints,16,SOLD,norwayp21
+New York Giants,16,SOLD,klinezac
+Pittsburgh Steelers,13,SOLD,norwayp21
+San Francisco 49ers,14,SOLD,johnhous76
+Los Angeles Rams,14,SOLD,hampy11
+Tampa Bay Buccaneers,15,SOLD,hampy11
+Cleveland Browns,17,SOLD,hampy11
+Los Angeles Chargers,17,SOLD,hampy11
+Atlanta Falcons,18,SOLD,hampy11
+Buffalo Bills,19,SOLD,hampy11
+Detroit Lions,19,SOLD,hampy11
+Arizona Cardinals,16,SOLD,luvkd
+Cincinnati Bengals,19,SOLD,hampy11
+Seattle Seahawks,17,SOLD,luvkd
+Denver Broncos,18,SOLD,turtle_breaks
+New York Jets,18,SOLD,turtle_breaks
+Washington Commanders,16,SOLD,hampy11
+Baltimore Ravens,18,SOLD,hampy11
+Carolina Panthers,16,SOLD,turtle_breaks
+Indianapolis Colts,6,SOLD,luvkd
+misc,21,SOLD,hampy11

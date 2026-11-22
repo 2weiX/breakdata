@@ -1,9 +1,7 @@
 spot,price,state,buyer
 Chaser 6🔥,7,SOLD,cpakman918
-BENGALS,8,SOLD,gonzofire21
-Chaser 4🔥,10,SOLD,cpakman918
-BUCCANEERS,4,SOLD,chunk365
 #2,7,SOLD,cpakman918
+Chaser 4🔥,10,SOLD,cpakman918
 #4,1,SOLD,cpakman918
 #5,5,SOLD,cpakman918
 Chaser 13🔥,7,SOLD,cpakman918
@@ -18,6 +16,7 @@ VIKINGS,7,SOLD,cpakman918
 #15,7,SOLD,gonzofire21
 DOLPHINS,8,SOLD,cpakman918
 COWBOYS,9,SOLD,gonzofire21
+BENGALS,8,SOLD,gonzofire21
 SANTA / SNOWMAN,2,SOLD,joemar15170
 RAVENS,1,SOLD,joemar15170
 Chaser 7🔥,8,SOLD,mommaj22
@@ -36,6 +35,7 @@ Chaser 11🔥,5,SOLD,bowwdown
 #34,5,SOLD,chunk365
 #35,6,SOLD,chunk365
 Chaser 1🔥,5,SOLD,chunk365
+BUCCANEERS,4,SOLD,chunk365
 JETS,6,SOLD,darrinwel420
 Chaser 9🔥,6,SOLD,darrinwel420
 HIGH SCHOOL,5,SOLD,darrinwel420
@@ -43,4 +43,9 @@ SEC,6,SOLD,gonzofire21
 PATRIOTS,7,SOLD,shawnbh73
 EAGLES,8.1,SOLD,darrinwel420
 CARDINALS,8,SOLD,natemor29955
-#45,1,OPEN,
+LIONS,8,SOLD,stevewoo30358
+TEXANS,9,SOLD,waltd05
+CHIEFS,8,SOLD,waltd05
+BRONCOS,7,SOLD,natemor29955
+COLTS,5,SOLD,waltd05
+COMMANDERS,59,SOLD,maxgla31750
