@@ -1,6 +1,5 @@
 spot,price,state,buyer
 #1,25,OPEN,
-#2,25,OPEN,
 #3,25,OPEN,
 #4,25,OPEN,
 #5,25,OPEN,
@@ -13,7 +12,6 @@ spot,price,state,buyer
 #12,25,OPEN,
 #13,25,OPEN,
 #14,25,OPEN,
-#15,25,OPEN,
 #16,25,OPEN,
 #17,25,OPEN,
 #18,25,OPEN,
@@ -31,3 +29,5 @@ spot,price,state,buyer
 #30,25,OPEN,
 #31,25,OPEN,
 #32,25,OPEN,
+Baltimore Ravens,20,SOLD,bnlsascha
+Denver Broncos,21.25,SOLD,bnlsascha

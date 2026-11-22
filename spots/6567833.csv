@@ -1,8 +1,8 @@
 spot,price,state,buyer
 Arizona Cardinals,199,OPEN,
 Atlanta Falcons,59,OPEN,
-Baltimore Ravens,74,OPEN,
-Buffalo Bills,149,OPEN,
+Baltimore Ravens,59,SOLD,michfrei
+Buffalo Bills,149,SOLD,clx_13
 Carolina Panthers,79,OPEN,
 Chicago Bears,179,OPEN,
 Cincinnati Bengals,84,OPEN,
@@ -14,7 +14,7 @@ Green Bay Packers,74,OPEN,
 Houston Texans,74,OPEN,
 Indianapolis Colts,74,OPEN,
 Jacksonville Jaguars,79,OPEN,
-Kansas City Chiefs,214,OPEN,
+Kansas City Chiefs,185,SOLD,attax21
 Las Vegas Raiders,289,OPEN,
 Los Angeles Chargers,77,OPEN,
 Los Angeles Rams,189,OPEN,
