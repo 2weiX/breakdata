@@ -1,34 +1,22 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-MISC,,OPEN,
+Baltimore Ravens,190,SOLD,slimmpickinz
+Carolina Panthers,180,SOLD,chranch1437
+Chicago Bears,209,SOLD,chranch1437
+Cincinnati Bengals,209,SOLD,slimmpickinz
+Cleveland Browns,215,SOLD,chranch1437
+Dallas Cowboys,214,SOLD,slimmpickinz
+Detroit Lions,274,SOLD,slimmpickinz
+Green Bay Packers,260,SOLD,slimmpickinz
+Indianapolis Colts,160,SOLD,chranch1437
+Los Angeles Chargers,264,SOLD,slimmpickinz
+Los Angeles Rams,200,SOLD,patoc15119
+Minnesota Vikings,259,SOLD,slimmpickinz
+New England Patriots,160,SOLD,chranch1437
+New Orleans Saints,145,SOLD,chranch1437
+Philadelphia Eagles,230,SOLD,slimmpickinz
+Pittsburgh Steelers,175,SOLD,chranch1437
+Tampa Bay Buccaneers,245,SOLD,slimmpickinz
+MISC,204,SOLD,slimmpickinz
+#3,199,SOLD,chranch1437
+#10,175,SOLD,slimmpickinz
+#21,1,OPEN,

@@ -1,34 +1,39 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-Miscellaneous,,OPEN,
+Arizona Cardinals,69,SOLD,jaybonni
+Atlanta Falcons,82,SOLD,ellmat96981
+Baltimore Ravens,142,SOLD,kuest
+Buffalo Bills,103,SOLD,ellmat96981
+Carolina Panthers,80,SOLD,joeyq22
+Chicago Bears,94,SOLD,kuest
+Cincinnati Bengals,112,SOLD,kuest
+Cleveland Browns,122,SOLD,kuest
+Dallas Cowboys,150,SOLD,kuest
+Denver Broncos,115,SOLD,kuest
+Detroit Lions,76,SOLD,kuest
+Green Bay Packers,110,SOLD,josheva50547
+Houston Texans,71,SOLD,mjskradski
+Indianapolis Colts,132,SOLD,nickcat7373
+Jacksonville Jaguars,115,SOLD,josheva50547
+Kansas City Chiefs,125,SOLD,kuest
+Las Vegas Raiders,81,SOLD,jaybonni
+Los Angeles Chargers,86,SOLD,jaybonni
+Los Angeles Rams,117,SOLD,kuest
+Miami Dolphins,75,SOLD,kuest
+Minnesota Vikings,130,SOLD,kuest
+New England Patriots,117,SOLD,kuest
+New Orleans Saints,71,SOLD,kuest
+New York Giants,115,SOLD,ellmat96981
+New York Jets,66,SOLD,masch
+Philadelphia Eagles,1,SOLD,mjskradski
+Pittsburgh Steelers,89,SOLD,kuest
+San Francisco 49ers,87,SOLD,jaybonni
+Seattle Seahawks,84,SOLD,kuest
+Tampa Bay Buccaneers,59,SOLD,faulk28
+Tennessee Titans,80,SOLD,masch
+Washington Commanders,115,SOLD,kevcox
+Miscellaneous,122,SOLD,kuest
+#1,109,SOLD,ellmat96981
+#3,117,SOLD,kuest
+#11,116,SOLD,ellmat96981
+#22,85,SOLD,mjskradski
+#26,77,SOLD,jaybonni

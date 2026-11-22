@@ -1,7 +1,7 @@
 spot,price,state,buyer
 Cincinnati Bengals,8,SOLD,zacjl71
 Kansas City Chiefs,10,SOLD,zacjl71
-Arizona Cardinals,8,SOLD,peted86
+Arizona Cardinals,9,SOLD,uksammo
 Baltimore Ravens,8,SOLD,chellep73
 Chicago Bears,9,SOLD,69jonno69
 San Francisco 49ers,9,SOLD,streetfighterii
@@ -16,4 +16,11 @@ Denver Broncos,10,SOLD,laurayou34797
 Indianapolis Colts,8,SOLD,chellep73
 Detroit Lions,8,SOLD,caseycarlow
 "Atlanta Falcons, Jacksonville Jaguars, New York Giants",27,SOLD,toasterkettle
-#18,1,OPEN,
+Green Bay Packers,8,SOLD,peted86
+Philadelphia Eagles,8,SOLD,caseycarlow
+Miami Dolphins,9,SOLD,philrowly88
+"Carolina Panthers, New York Jets, Tampa Bay Buccaneers",27,SOLD,chozenhuman
+Washington Commanders,9,SOLD,uksammo
+Cleveland Browns,11,SOLD,ethanw2604
+"Houston Texans, Las Vegas Raiders",18,SOLD,toasterkettle
+Los Angeles Chargers,2,SOLD,chellep73
