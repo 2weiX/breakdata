@@ -1,7 +1,16 @@
 spot,price,state,buyer
 Indianapolis Colts,12,SOLD,tankazoid
-Los Angeles Rams,11,SOLD,beatle1103
-New York Giants,11,SOLD,michaelb92456
-New York Jets,11,SOLD,beatle1103
 Tampa Bay Buccaneers,12,SOLD,jacobkas2007
-#6,1,OPEN,
+Los Angeles Rams,11,SOLD,beatle1103
+New York Jets,11,SOLD,beatle1103
+New York Giants,11,SOLD,michaelb92456
+Detroit Lions,12,SOLD,rangercustomcards
+"Dallas Cowboys, San Francisco 49ers",18,SOLD,tankazoid
+"Green Bay Packers, Miami Dolphins",18,SOLD,thegigmysta
+Washington Commanders,11,SOLD,kayscollectivee
+Carolina Panthers,11,SOLD,kayscollectivee
+"Philadelphia Eagles, Pittsburgh Steelers",19,SOLD,kayscollectivee
+"Buffalo Bills, Seattle Seahawks",19,SOLD,drappy47
+"Arizona Cardinals, Kansas City Chiefs",19,SOLD,nicsnacsoz
+"Cincinnati Bengals, Los Angeles Chargers",18,SOLD,drappy47
+#15,1,OPEN,

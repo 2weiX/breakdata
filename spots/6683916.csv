@@ -1,6 +1,6 @@
 spot,price,state,buyer
 BTB,39,SOLD,jpendo13
-Pittsburgh Steelers B4,59,SOLD,mrmediz
+CTB,39,SOLD,hurricanehayes_
 TB ,40,SOLD,jpendo13
 Tennessee Titans B4,39,SOLD,mclovinit4777
 B1 WASHINGTON COMMANDERS,44,SOLD,jpendo13
@@ -33,13 +33,10 @@ B1 NEW YORK GIANTS,38,SOLD,johnspa26815
 Seattle Seahawks B4,36,SOLD,johnspa26815
 B2 DENVER BRONCOS,41,SOLD,hurricanehayes_
 B1 JACKSONVILLE JAGUARS,35,SOLD,alo_jmnz
-B1 INDIANAPOLIS COLTS,50,SOLD,mrmediz
+ETB,44,SOLD,hurricanehayes_
 B2 PITTSBURGH STEELERS,42,SOLD,hurricanehayes_
 B2 NEW YORK JETS,40,SOLD,nadesico
 B3 BUFFALO BILLS,29,SOLD,mattl86
-B2 INDIANAPOLIS COLTS,45,SOLD,honesthank
-CTB,39,SOLD,hurricanehayes_
-ETB,44,SOLD,hurricanehayes_
  B2 KANSAS CITY CHIEFS,42,SOLD,hurricanehayes_
 B3 LOS ANGELES RAMS,36,SOLD,hurricanehayes_
 B3 MISC,30,SOLD,mattl86
@@ -100,6 +97,7 @@ Cleveland Browns B4,46,SOLD,bamadenwin
 B2 SEATTLE SEAHAWKS,38,SOLD,mrmediz
 B3 NEW ORLEANS SAINTS,69,SOLD,bamadenwin
 B3 CLEVELAND BROWNS,50,SOLD,mrmediz
+Pittsburgh Steelers B4,59,SOLD,mrmediz
 B3 PITTSBURGH STEELERS,57,SOLD,mrmediz
 B3 CHICACO BEARS,61,SOLD,mrmediz
 B2 DETROIT LIONS,55,SOLD,mrmediz
@@ -120,6 +118,8 @@ B1 TENNESSEE TITANS,59,SOLD,bamadenwin
 B3 LAS VEGAS RAIDERS,55,SOLD,mrmediz
 B3 JACKSONVILLE JAGUARS,1,SOLD,honesthank
 Green Bay Packers B4,65,SOLD,mrmediz
+B1 INDIANAPOLIS COLTS,50,SOLD,mrmediz
+B2 INDIANAPOLIS COLTS,45,SOLD,honesthank
 Cincinnati Bengals B4,50,SOLD,mrmediz
 B2 JACKSONVILLE JAGUARS,62,SOLD,mrmediz
 MISC B4,50,SOLD,mrmediz
@@ -137,5 +137,8 @@ New Orleans Saints B4,28,SOLD,honesthank
 B3 DETROIT LIONS,34,SOLD,obeythegiant
 Buffalo Bills B4,38,SOLD,obeythegiant
 Houston Texans B4,23,SOLD,marlinbrando0972
-#139,22,SOLD,gary401981
-#140,1,OPEN,
+B3 ARIZONA CARDINALS,22,SOLD,gary401981
+Atlanta Falcons B4,17,SOLD,_dmsii_
+Arizona Cardinals B4,14,SOLD,marlinbrando0972
+Indianapolis Colts B4,11,SOLD,torino83
+New York Jets B4,13,SOLD,honesthank

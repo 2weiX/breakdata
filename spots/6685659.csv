@@ -1,33 +1,36 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+Detroit Lions,23,SOLD,kevcox
+Seattle Seahawks,19,SOLD,cashnchow
+Los Angeles Chargers,21,SOLD,cashnchow
+Atlanta Falcons,25,SOLD,cashnchow
+TRADE,21,SOLD,kevcox
+Philadelphia Eagles,25,SOLD,torino83
+Cleveland Browns,21,SOLD,kevcox
+Los Angeles Rams,20,SOLD,benryther
+Dallas Cowboys,21,SOLD,benryther
+Cincinnati Bengals,25,SOLD,kevinros90565
+Buffalo Bills,25,SOLD,kevcox
+Baltimore Ravens,30,SOLD,cgorzo
+Carolina Panthers,27,SOLD,kevcox
+Tennessee Titans,26,SOLD,benryther
+TRADE,23,SOLD,cgorzo
+New Orleans Saints,26,SOLD,kevcox
+New England Patriots,24,SOLD,bushman22
+Arizona Cardinals,24,SOLD,benryther
+Green Bay Packers,20,SOLD,cgorzo
+Pittsburgh Steelers,18,SOLD,andbra18553
+Las Vegas Raiders,22,SOLD,cgorzo
+Kansas City Chiefs,21,SOLD,kevcox
+Denver Broncos,19,SOLD,andbra18553
+San Francisco 49ers,24,SOLD,reggaejoe
+Houston Texans,23,SOLD,cgorzo
+Tampa Bay Buccaneers,20,SOLD,northernskiessc
+Washington Commanders,23,SOLD,northernskiessc
+Minnesota Vikings,20,SOLD,torino83
+Jacksonville Jaguars,32,SOLD,reggaejoe
+New York Jets,32,SOLD,reynolds1981au
+New York Giants,38,SOLD,reynolds1981au
+Chicago Bears,40,SOLD,reynolds1981au
+Miami Dolphins,19,SOLD,jsek22
+Indianapolis Colts,22,SOLD,reggaejoe
+MISC,23,SOLD,jsek22

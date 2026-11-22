@@ -11,21 +11,21 @@ Buffalo Bills,48,SOLD,theplowergarden
 BOX 8,57,SOLD,bobbyandtheboysbreaks
 CHASER 8,67,SOLD,bobbyandtheboysbreaks
 BOX 3,37,SOLD,theplowergarden
-#13,47,SOLD,ricardomontez1
+TRADE SPOT,47,SOLD,ricardomontez1
 Tampa Bay Buccaneers,50,SOLD,ricardomontez1
 Seattle Seahawks,42,SOLD,seabasschin929
 CHASER 6,46,SOLD,ricardomontez1
 CHASER 11,40,SOLD,rippen4you
 BOX 11,37,SOLD,tmcnevin15
 BOX 4,32,SOLD,neeleyjl
-#20,23,SOLD,theplowergarden
+TRADE SPOT,23,SOLD,theplowergarden
 Pittsburgh Steelers,65,SOLD,peytonhog
 Indianapolis Colts,40,SOLD,ricardomontez1
 CHASER 9,39,SOLD,ricardomontez1
 BOX 9,51,SOLD,tmcnevin15
 New England Patriots,44,SOLD,gmbrunelle
 BOX 5,49,SOLD,gmbrunelle
-#27,38,SOLD,gmbrunelle
+TRADE SPOT,38,SOLD,gmbrunelle
 Chicago Bears,1,SOLD,wowitsbink
 BOX 7,65,SOLD,neatplans3385
 CHASER 5,65,SOLD,neatplans3385
@@ -37,7 +37,7 @@ Washington Commanders,38,SOLD,gmbrunelle
 CHASER 4,40,SOLD,twilliford1010
 CHASER 7,35,SOLD,eagles0712
 CHASER 1,34,SOLD,benryther
-#40,23,SOLD,twilliford1010
+TRADE SPOT,23,SOLD,twilliford1010
 #41,60,SOLD,built2chill
 Cincinnati Bengals,60,SOLD,chiefs311982
 CHASER 12,60,SOLD,nmazur354
@@ -45,4 +45,7 @@ Denver Broncos,60,SOLD,nmazur354
 New Orleans Saints,60,SOLD,nmazur354
 Cleveland Browns,60,SOLD,nmazur354
 BOX 10,60,SOLD,nmazur354
-#48,1,OPEN,
+Baltimore Ravens,36,SOLD,gmbrunelle
+Tennessee Titans,27,SOLD,nmazur354
+New York Jets,27,SOLD,nmazur354
+Carolina Panthers,27,SOLD,nmazur354
