@@ -1,0 +1,33 @@
+spot,price,state,buyer
+#1,2,SOLD,darcwag
+#2,4,SOLD,hazardous427
+#3,1,SOLD,darcwag
+Chicago Bears,2,SOLD,darcwag
+Kansas City Chiefs,9,SOLD,gregj35198
+#6,5,SOLD,gregj35198
+#7,4,SOLD,darcwag
+#8,3,SOLD,gregj35198
+C5,11,SOLD,hazardous427
+#10,8,SOLD,gregj35198
+#11,10,SOLD,gregj35198
+Atlanta Falcons,8.1,SOLD,hazardous427
+C3,7,SOLD,gregj35198
+#14,6,SOLD,gregj35198
+NIL,4,SOLD,gregj35198
+#16,4,SOLD,gregj35198
+C2,3,SOLD,bucsjojo
+#18,3,SOLD,gregj35198
+#19,3,SOLD,gregj35198
+#20,4,SOLD,gregj35198
+San Francisco 49ers,3,SOLD,darcwag
+#22,4,SOLD,gregj35198
+#23,4,SOLD,gregj35198
+#24,4,SOLD,gregj35198
+C4,5,SOLD,gregj35198
+#26,4,SOLD,gregj35198
+#27,4,SOLD,gregj35198
+Jacksonville Jaguars,4,SOLD,gregj35198
+C7,4,SOLD,gregj35198
+C8,4,SOLD,bucsjojo
+New England Patriots,4,SOLD,gregj35198
+Detroit Lions,4,SOLD,alldayhitz

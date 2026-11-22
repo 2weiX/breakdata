@@ -1,33 +1,14 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+Carolina Panthers,35,SOLD,cp96343
+Dallas Cowboys,35,SOLD,p_and_r_cards
+Buffalo Bills,28,SOLD,gingerbreadcards
+Philadelphia Eagles,30,SOLD,irishpatrick03
+Detroit Lions,31,SOLD,rozeycardz
+Los Angeles Rams,26,SOLD,p_and_r_cards
+Green Bay Packers,26,SOLD,irishpatrick03
+New York Giants,26,SOLD,p_and_r_cards
+Houston Texans,30,SOLD,panamajack10
+Cleveland Browns,30,SOLD,relrod512
+Tennessee Titans,32,SOLD,relrod512
+Las Vegas Raiders,29,SOLD,mandalas6
+#13,1,OPEN,

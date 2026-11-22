@@ -1,11 +1,11 @@
 spot,price,state,buyer
 Texas,550,OPEN,
-Miami/Duke,373,OPEN,
+Notre Dame,270,SOLD,jfelker16
+Miami/Duke,295,SOLD,tommygeo29351
 Oklahoma State,225,SOLD,rustid
-Washington,169,OPEN,
+"Washington,indiana ,texas tech ,akron",350,SOLD,anteri74391
 Mississippi State,185,SOLD,johng90277
 BYU - Bear Bachmeier,219,OPEN,
-Indiana,211,OPEN,
 Michigan,169,OPEN,
 Oregon,169,OPEN,
 South Carolina,211,OPEN,
@@ -21,7 +21,6 @@ Firebaugh High School - Josh Allen,119,OPEN,
 Isidore Newman School - Peyton Manning,110,OPEN,
 Vanderbilt - Jared Curtis,110,OPEN,
 Arizona State,109,OPEN,
-Texas Tech,109,OPEN,
 Alabama,92,OPEN,
 Pittsburgh,92,OPEN,
 Utah,84,OPEN,
@@ -35,14 +34,16 @@ Kansas,58,OPEN,
 Oklahoma,58,OPEN,
 Stanford,58,OPEN,
 TCU,58,OPEN,
+Tennessee,40.6,SOLD,tommygeo29351
 UCF,58,OPEN,
 Arkansas,50,OPEN,
 Auburn,50,OPEN,
+Clemson,35,SOLD,trinity_cards
 Kansas State,50,OPEN,
 LSU,50,OPEN,
 SMU,50,OPEN,
 UCLA,50,OPEN,
-Florida State,41,OPEN,
+Florida State,30,SOLD,estest28010
 Houston,41,OPEN,
 Illinois,41,OPEN,
 Michigan State,25,SOLD,thecarddboardlocker
@@ -53,29 +54,25 @@ UCONN,41,OPEN,
 West Virginia,41,OPEN,
 Western Kentucky,41,OPEN,
 Syracuse,37,OPEN,
+UNC,25,SOLD,trinity_cards
 Colorado,33,OPEN,
 Iowa State,33,OPEN,
-Boston College - Kaelan Chudzinski,21,OPEN,
+Boston College - Kaelan Chudzinski,7,SOLD,peterose80
 Delaware - Nick Minicucci,21,SOLD,ju1ior
 Fresno State - Bryson Donelson,21,OPEN,
 Iowa - DJ Vonnahme,21,SOLD,qobby24
+"Louisiana - Lunch Winfield,WISCONSIN",20,SOLD,grimsby_rips
 Louisville - Keyjuan Brown,21,OPEN,
 New Mexico - Jack Layne,21,OPEN,
 Texas State - Brad Jackson,21,SOLD,gatorraid319
 Virginia - Cavman,21,OPEN,
-Western Michigan - Broc Lowry,21,OPEN,
+Western Michigan - Broc Lowry,10,SOLD,estest28010
 WSU - Butch T. Cougar,21,OPEN,
-Boise State - Sire Gaines,19,OPEN,
-Maryland - Zahir Mathis,19,OPEN,
-Minnesota - Jalen Smith,19,OPEN,
-NC State - Victor Snow,19,OPEN,
+Boise State - Sire Gaines,7,SOLD,kwright4479
+Maryland - Zahir Mathis,5,SOLD,peterose80
+Minnesota - Jalen Smith,1,SOLD,peterose80
+NC State - Victor Snow,5,SOLD,kwright4479
 UNLV - Jai'Den Thomas,19,OPEN,
-Akron - Jordan Gant,16,OPEN,
+"Wyoming - Samuel Harris,TULSA ",16,SOLD,gatorraid319
 Arizona - Tre Spivey,10,SOLD,qobby24
 Penn State - Beaver Stadium,7,SOLD,rustid
-Clemson,35,SOLD,trinity_cards
-UNC,25,SOLD,trinity_cards
-"Wyoming - Samuel Harris,TULSA ",16,SOLD,gatorraid319
-Notre Dame,270,SOLD,jfelker16
-Tennessee,40.6,SOLD,tommygeo29351
-"Louisiana - Lunch Winfield,WISCONSIN",20,SOLD,grimsby_rips

@@ -3,9 +3,10 @@ spot,price,state,buyer
 "ARI- Jeremiyah Love (RC)(A), dual w/ Beck",383,OPEN,
 "ARI- Larry Fitzgerald (A), CO26",7.2,SOLD,cth43
 "ARI- Michael Wilson (A), Prem1er Patch Auto",29,OPEN,
-"ARI- Arizona Cardinals Others (Boldin, Warner, T Benson, Virgil, Baker, Bisontis, Burke, Brissett, Conner, Harrison Jr, Johnson)",48,OPEN,
+"ARI- Arizona Cardinals Others (Boldin, Warner, T Benson, Virgil, Baker, Bisontis, Burke, Brissett, Conner, Harrison Jr, Johnson)",30,OPEN,
 "ARI- Pat Tillman, IV",38,SOLD,dynodaxxxcards
 "ARI- Trey McBride, M99",29,OPEN,
+"ATL- Bijan Robinson (A), IV, CEV, Prem1er Patch Auto",144,SOLD,micyau
 ATL- Deion Sanders (A),11,SOLD,micyau
 ATL- Drake London (A),54,OPEN,
 "ATL- Michael Penix Jr (A), Prem1er Patch Auto",48,OPEN,
@@ -21,7 +22,7 @@ BAL- Elijah Sarratt (RC)(A),29,OPEN,
 BAL- Ray Lewis (A),19,SOLD,dynodaxxxcards
 "BAL- Zay Flowers (A), Prem1er Patch Auto",67,OPEN,
 "BUF- Cole Bishop (A), Prem1er Patch Auto",9,SOLD,cackalackycards
-"BUF- Cornelius Bennett, Tecmo, Tecmo Auto",38,OPEN,
+"BUF- Cornelius Bennett, Tecmo, Tecmo Auto",20,SOLD,cth43
 "BUF- Dalton Kincaid (A), Prem1er Patch Auto",12.8,SOLD,rez_ripz
 BUF- James Cook (A),57,OPEN,
 "BUF- Josh Allen (A), IV, CEV, GG, HX, M99, SE, Tecmo, UV",400,SOLD,micyau
@@ -31,10 +32,11 @@ BUF- Skyler Bell (RC)(A),22,OPEN,
 "CAR- Bryce Young (A), IV, CEV, GG, HX, dual w/ Tetairoa, Prem1er Patch Auto",220,OPEN,
 "CAR- Chris Brazzell II (RC)(A), IV, CEV, RR",43,OPEN,
 "CAR- Coker (A) & Sanders (A) & Mingo (A), Prem1er Patch Autos",29,OPEN,
-"CAR- Luke Kuechly (A), CO26",16,OPEN,
-"CAR- Carolina Panthers Others (W Lee, Hubbard, Brown, Jaycee Horn, Jimmy Horn Jr, Freeling, Hunter, Tremble, Etienne, Wheatley)",57,OPEN,
+"CAR- Luke Kuechly (A), CO26",7,SOLD,dipsrips
+"CAR- Carolina Panthers Others (W Lee, Hubbard, Brown, Jaycee Horn, Jimmy Horn Jr, Freeling, Hunter, Tremble, Etienne, Wheatley)",40,OPEN,
 "CAR- Tetairoa McMillan (A), AWV, SE, Gold Shield and Auto, dual w/ Bryce",182,OPEN,
-"CAR- Xavier Legette (A), Prem1er Patch Auto",13,OPEN,
+"CAR- Xavier Legette (A), Prem1er Patch Auto",7,SOLD,cth43
+"CHI- Caleb Williams (A), IV, UV, 1991 Auto, Prem1er Patch Auto",300,SOLD,micyau
 CHI- Colston Loveland (A),38.4,SOLD,shewby
 CHI- Dillon Thieneman (RC)(A),38.4,SOLD,shewby
 CHI- Luther Burden III (A) & Rome Odunze,53.6,SOLD,shewby
@@ -42,16 +44,16 @@ CHI- Luther Burden III (A) & Rome Odunze,53.6,SOLD,shewby
 "CHI- Roschon Johnson (A) & Tyson Bagent (A), Prem1er Patch Autos",15,OPEN,
 "CHI- William Perry (A), Tecmo, Tecmo Auto",12,SOLD,shewby
 CHI- Zavion Thomas (RC)(A),29,OPEN,
-"CIN- Amarius Mims (A) & Andrei Iosivas (A), Prem1er Patch Autos",13,OPEN,
+"CIN- Amarius Mims (A) & Andrei Iosivas (A), Prem1er Patch Autos",6,SOLD,cth43
 "CIN- Chase Brown (A), Prem1er Patch Auto",34,OPEN,
 "CIN- Ja'Marr Chase (A), M99, SE, dual w/ Burrow",134,OPEN,
-"CIN- Joe Burrow (A), IV, CEV, GG, Tecmo, dual w/ Chase, Tecmo Auto",500,OPEN,
+"CIN- Joe Burrow (A), IV, CEV, GG, Tecmo, dual w/ Chase, Tecmo Auto",300,OPEN,
 "CIN- Kris Jenkins (A), Prem1er Patch Auto",5,SOLD,dynodaxxxcards
 "CIN- Cincinnati Bengals Others (C Young, Howell, Esiason, Munoz, T Davis, D Lawrence II, McPherson, Endries, Allen, Higgins)",54,OPEN,
 "CLE- Carson Schwesinger (A), Gold Shield, Gold Shield Auto",115,OPEN,
-"CLE- Denzel Boston (RC)(A), IV, CEV, RR, dual w/ KC",96,OPEN,
+"CLE- Denzel Boston (RC)(A), IV, CEV, RR, dual w/ KC",50,SOLD,centralhitstation
 CLE- Emmanuel McNeil-Warren (RC)(A),24,OPEN,
-"CLE- KC Concepcion (RC)(A), IV, CEV, DAY1, RR, dual w/ Boston",113,OPEN,
+"CLE- KC Concepcion (RC)(A), IV, CEV, DAY1, RR, dual w/ Boston",79.1,SOLD,centralhitstation
 "CLE- Cleveland Browns Others (Judkins, J Thomas, Newsome, Tillman, Kosar, T Green, Anderson, Ward, Sampson, Delpit, Fannin, Jeudy, Royer, Graham, Fano)",96,OPEN,
 "CLE- Shedeur Sanders, GG",7,SOLD,cackalackycards
 "DAL- Brandon Aubrey (A), Prem1er Patch Auto",10.5,SOLD,chrisunderwood175
@@ -59,17 +61,18 @@ CLE- Emmanuel McNeil-Warren (RC)(A),24,OPEN,
 "DAL- Caleb Downs (RC)(A), IV, CEV, DAY1, RR, dual w/ Arvell Reese",60,SOLD,chrisunderwood175
 "DAL- CeeDee Lamb (A), CEV, UV",60,SOLD,chrisunderwood175
 "DAL- Cooper Beebe (A), Tyler Guyton (A) & Marist Liufau (A), Prem1er Patch Autos",19,OPEN,
-"DAL- Dak Prescott (A) & Tony Romo (A), IV, GG, HX, Kaiju, SE, dual",100,OPEN,
-DAL- Dez Bryant (A),16,OPEN,
+"DAL- Dak Prescott (A) & Tony Romo (A), IV, GG, HX, Kaiju, SE, dual",80,SOLD,bhaze0515
+DAL- Dez Bryant (A),8,SOLD,cth43
 DAL- Javonte Williams (A),8,SOLD,jojoyeetcards
-"DAL- Dallas Cowboys Others (Lawrence, Barham, Irvin, Murray, A Smith, Bland, Overshown, Ferguson, Clark, Overton, Trigg, Williams, George Pickens)",57,OPEN,
+"DAL- Dallas Cowboys Others (Lawrence, Barham, Irvin, Murray, A Smith, Bland, Overshown, Ferguson, Clark, Overton, Trigg, Williams, George Pickens)",40,OPEN,
 "DAL- Troy Aikman, Tecmo, Tecmo Auto",6.3,SOLD,cth43
-"DEN- Bo Nix (A) & John Elway (A), Kaiju, SE, dual w/ Elway, Prem1er Patch Auto",417,OPEN,
+"DEN- Bo Nix (A) & John Elway (A), Kaiju, SE, dual w/ Elway, Prem1er Patch Auto",250,OPEN,
 DEN- Jonah Coleman (RC),16.15,SOLD,royale747
 "DEN- Marvin Mims Jr. (A) & Audric Estime (A), Prem1er Patch Autos",11,OPEN,
 "DEN- Denver Broncos Others (Waddle, Harvey, V Miller, Atwater, Joly, Betley, Sutton, Dobbins, Bonitto, Meinerz, Hufanga, York, Allen)",47,SOLD,royale747
 "DEN- Pat Surtain II (A), IV",49,OPEN,
 "DEN- Terrell Davis (A), HOC",11,OPEN,
+DEN/IND- Peyton Manning (A),40,SOLD,micyau
 "DET- Amon-Ra St. Brown, CEV, GG, HX, UV, dual auto w/ Gibbs",84,SOLD,toshiocards
 DET- Barry Sanders (A),23.2,SOLD,lisabruhd
 "DET- Brian Branch (A), Prem1er Patch Auto",6.5,SOLD,snewlands12
@@ -79,7 +82,7 @@ DET- Barry Sanders (A),23.2,SOLD,lisabruhd
 "DET- Sam LaPorta (A), Prem1er Patch Auto",29,OPEN,
 GB- Brandon Cisse (RC)(A),5,SOLD,maxnar
 "GB- Brett Favre, IV, HX",12.8,SOLD,dipsrips
-"GB- Edgerrin Cooper (A) & Javon Bullard (A), Prem1er Patch Autos",11,OPEN,
+"GB- Edgerrin Cooper (A) & Javon Bullard (A), Prem1er Patch Autos",5,SOLD,cth43
 "GB- Jordan Love, GG",77,OPEN,
 GB- Josh Jacobs (A),67,OPEN,
 "GB- Lukas Van Ness (A), Prem1er Patch Auto",9,OPEN,
@@ -94,7 +97,7 @@ GB- Josh Jacobs (A),67,OPEN,
 "HOU- Henry To'oto'o (A), Prem1er Patch Auto",5,SOLD,onlyfeetripz
 HOU- Nico Collins (A),48,OPEN,
 "HOU- Houston Texans Others (Stover, Higgins, Rutledge, McDonald, Lassiter, A Johnson, Schultz, Montgomery, Stingley, Bond, Klein, Whittington, Blankenship)",57,OPEN,
-"HOU- Will Anderson Jr. (A), Prem1er Patch Auto",29,OPEN,
+"HOU- Will Anderson Jr. (A), Prem1er Patch Auto",15,SOLD,cth43
 HOU- Woody Marks (A),19,OPEN,
 IND- A.J. Haulcy (RC)(A),9,OPEN,
 "IND- Anthony Richardson (A), Prem1er Patch Auto",16,OPEN,
@@ -113,7 +116,7 @@ JAX- Bhayshul Tuten (A),35,SOLD,toshiocards
 "JAX- Parker Washington (A), Prem1er Patch Auto",29,OPEN,
 JAX- Travis Hunter,9,SOLD,swahili_samuria
 "JAX- Trevor Lawrence (A), IV, GG, SE",100,SOLD,dynodaxxxcards
-"KC- Christian Okoye, Tecmo, Tecmo Auto",19,OPEN,
+"KC- Christian Okoye, Tecmo, Tecmo Auto",10,SOLD,cth43
 KC- Emmett Johnson (RC)(A),23.2,SOLD,sheppcards
 "KC- Garrett Nussmeier (RC)(A), IV, CEV",67,OPEN,
 "KC- Mansoor Delane (RC)(A), CEV",38,OPEN,
@@ -123,7 +126,7 @@ KC- Peter Woods (RC)(A),19,OPEN,
 "KC- Rashee Rice (A), Prem1er Patch Auto",29,OPEN,
 "KC- Xavier Worthy (A), Prem1er Patch Auto",24,OPEN,
 "KC/SEA- Kenneth Walker III (A), SBAN",77,OPEN,
-LAC- Antonio Gates (A),9,OPEN,
+LAC- Antonio Gates (A),7,SOLD,cth43
 "LAC- Joe Alt (A), Prem1er Patch Auto",9,OPEN,
 "LAC- Justin Herbert (A), GG, UV",96,OPEN,
 "LAC- Ladd McConkey (A) & (name cut off), Prem1er Patch Auto",54,OPEN,
@@ -144,7 +147,7 @@ LAR- Kyren Williams (A),48,OPEN,
 "LV- Ashton Jeanty (A), CEV",45,SOLD,dynodaxxxcards
 LV- Bo Jackson (A),16,SOLD,micyau
 "LV- Brock Bowers (A), IV, Prem1er Patch Auto",125,OPEN,
-"LV- Fernando Mendoza (RC)(A), IV, CEV, DAY1, GG, Kaiju, RR, SE, UV, dual auto w/ Simpson",500,OPEN,
+"LV- Fernando Mendoza (RC)(A), IV, CEV, DAY1, GG, Kaiju, RR, SE, UV, dual auto w/ Simpson",500,SOLD,micyau
 LV- Maxx Crosby (A),57,OPEN,
 LV- Mike Washington Jr. (RC)(A),38,OPEN,
 "LV- Las Vegas Raiders Others (J McCoy, Thornton, Hemby, H Long, Tim Brown, Bech, Chinn, Cousins, N Dean, Q Walker)",57,OPEN,
@@ -153,7 +156,7 @@ MIA- Caleb Douglas (RC)(A),45,OPEN,
 "MIA- Chris Bell (RC)(A), IV, CEV, RR",35,OPEN,
 "MIA- Dan Marino (A), IV, HOC",29,OPEN,
 "MIA- De'Von Achane (A), GG, Prem1er Patch Auto",115,OPEN,
-MIA- Jacob Rodriguez (RC)(A),38,OPEN,
+MIA- Jacob Rodriguez (RC)(A),26.6,SOLD,rebecca_bienski
 "MIA- Malik Washington (A), Prem1er Patch Auto",9,OPEN,
 "MIA- Miami Dolphins Others (Griese, C Robinson, J Wright, K Grant, K Coleman, M Willis, O Gordon II, Q Ewers)",38,OPEN,
 MIN- Caleb Banks (RC)(A),24,OPEN,
@@ -173,7 +176,7 @@ NE- Rob Gronkowski (A),13.3,SOLD,cth43
 "NE/PHI- Joe Milton III (A), Prem1er Patch Auto",38,OPEN,
 NO- Bryce Lance (RC)(A),19,OPEN,
 NO- Chris Olave (A),67,OPEN,
-"NO- Jordyn Tyson (RC)(A), IV, CEV, DAY1, GG, HX, RR, SE, dual w/ Tyson",115,OPEN,
+"NO- Jordyn Tyson (RC)(A), IV, CEV, DAY1, GG, HX, RR, SE, dual w/ Tyson",65,SOLD,rebecca_bienski
 "NO- New Orleans Saints Others (Kamara, Rattler, A Manning, T Hill, Bresee, C Miller, J Johnson, McKinstry, Etienne, Delp)",77,OPEN,
 "NO- Tyler Shough (A) & Drew Brees (A), CEV, dual auto",173,OPEN,
 "NYG- Arvell Reese (RC)(A), IV, CEV, DAY1, RR, dual w/ Downs",105,OPEN,
@@ -246,6 +249,3 @@ WAS- Kaytron Allen (RC)(A),19,OPEN,
 "WAS- Sean Taylor, UV",6.3,SOLD,cth43
 "WAS- Sonny Styles (RC)(A), IV, CEV, DAY1",125,OPEN,
 WAS- Terry McLaurin (A),57,OPEN,
-"ATL- Bijan Robinson (A), IV, CEV, Prem1er Patch Auto",144,SOLD,micyau
-"CHI- Caleb Williams (A), IV, UV, 1991 Auto, Prem1er Patch Auto",300,SOLD,micyau
-DEN/IND- Peyton Manning (A),40,SOLD,micyau

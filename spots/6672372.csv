@@ -1,88 +1,113 @@
 spot,price,state,buyer
+ARI Anquan Boldin,2,SOLD,amberstr50818
 ARI Carson Beck,299,OPEN,
 ARI Jeremiyah Love,399,OPEN,
-ARI Michael Wilson,19,OPEN,
+ARI Kurt Warner,1,SOLD,kevinsmi32124
+ARI Larry Fitzgerald,3,SOLD,glea44
+ARI Marvin Harrison Jr.,1,SOLD,edoublee40
+ARI Michael Wilson,1,SOLD,nchristncoach2020
+ARI Pat Tillman,4,SOLD,zekeboski
 ARI Reggie Virgil,1,SOLD,kevinsmi32124
 ARI Trey McBride,45,OPEN,
 ARI Other Cardinals,1,SOLD,blango
-ATL Avieon Terrell,15,OPEN,
+ATL Avieon Terrell,1,SOLD,loudchevy
 ATL Bijan Robinson,55,OPEN,
 ATL Deion Sanders,1,SOLD,hammatime17
 ATL Drake London,55,OPEN,
 ATL Harold Perkins Jr.,1,SOLD,kevinsmi32124
-ATL Jalon Walker,19,OPEN,
+ATL Jalon Walker,1,SOLD,loudchevy
 ATL Kyle Pitts Sr.,1,SOLD,kevinsmi32124
-ATL Michael Vick,25,OPEN,
+ATL Michael Penix Jr.,1,SOLD,lankford610
+ATL Michael Vick,10,SOLD,yuhhuhmikey
+ATL Tony Gonzalez,1,SOLD,kpkv
 ATL Tua Tagovailoa,1,SOLD,haphead_tv
+ATL Xavier Watts,7,SOLD,glea44
+ATL Zachariah Branch,19,SOLD,thehitstick
 ATL Other Falcons,2,SOLD,haphead_tv
-BAL Elijah Sarratt,25,OPEN,
+BAL Derrick Henry,32,SOLD,jaredfisk7
+BAL Elijah Sarratt,1,SOLD,loudchevy
 BAL Ja'Kobi Lane,35,OPEN,
+BAL Joe Flacco,1,SOLD,edoublee40
+BAL Kyle Hamilton,11,SOLD,glea44
 BAL Lamar Jackson,199,OPEN,
+BAL Mark Andrews,1,SOLD,haphead_tv
+BAL Ray Lewis,3,SOLD,haphead_tv
 BAL Roquan Smith,1,SOLD,haphead_tv
-BAL Zay Flowers,29,OPEN,
+BAL Terrell Suggs,1,SOLD,edoublee40
+BAL Trey Hendrickson,1,SOLD,kevinsmi32124
+BAL Zay Flowers,3,SOLD,yuhhuhmikey
 BAL Zion Young,2,SOLD,tvermote
 BAL Other Ravens,1,SOLD,tvermote
+BUF Andre Reed,1,SOLD,kpkv
 BUF Cornelius Bennett,2,SOLD,hammatime17
-BUF Dalton Kincaid,10,OPEN,
+BUF Dalton Kincaid,3,SOLD,nchristncoach2020
+"BUF Davison Igbinosun, Malachi Fields, Nate Boehkirker",30,SOLD,cadeoc
 BUF Dawson Knox,2,SOLD,hammatime17
-BUF James Cook,35,OPEN,
+BUF James Cook,8,SOLD,hammatime17
 BUF Jim Kelly,1,SOLD,haphead_tv
 BUF Josh Allen,399,OPEN,
-BUF Keon Coleman,19,OPEN,
+BUF Keon Coleman,2,SOLD,loudchevy
 BUF LeSean McCoy,1,SOLD,hammatime17
-BUF Skyler Bell,29,OPEN,
+BUF Skyler Bell,1,SOLD,gabesch20304
 BUF T.J. Parker,1,SOLD,kpkv
 BUF Thurman Thomas,1,SOLD,haphead_tv
-BUF Other Bills,29,OPEN,
+BUF Other Bills,3,SOLD,haphead_tv
 CAR Bryce Young,99,OPEN,
 CAR Chris Brazzell II,125,OPEN,
+CAR Luke Kuechly,5,SOLD,glea44
 CAR Tetairoa McMillan,199,OPEN,
 CAR Will Lee III,5,SOLD,gabesch20304
-CAR Other Panthers,29,OPEN,
+CAR Other Panthers,5,SOLD,gabesch20304
+CHI Brian Urlacher,1,SOLD,haphead_tv
 CHI Caleb Williams,199,OPEN,
 CHI Colston Loveland,69,OPEN,
+CHI Dillon Thieneman,24,SOLD,haphead_tv
+CHI Jim McMahon,1,SOLD,haphead_tv
 CHI Luther Burden III,49,OPEN,
+CHI Mike Singletary,1,SOLD,haphead_tv
 CHI Noah Sewell,1,SOLD,haphead_tv
+CHI Sam Roush,12,SOLD,haphead_tv
 CHI William Perry,29,OPEN,
-CHI Other Bears,39,OPEN,
-CIN Anthony Muñoz,15,OPEN,
-CIN Boomer Esiason,15,OPEN,
-CIN Cashius Howell,15,OPEN,
-CIN Colbie Young,15,OPEN,
+CHI Zavion Thomas,12,SOLD,haphead_tv
+CHI Other Bears,3,SOLD,haphead_tv
+CIN Boomer Esiason AND Anthony Munoz,15,SOLD,rogjacob
+CIN Cashius Howell,1,SOLD,loudchevy
+CIN Chase Brown,5,SOLD,nikolasdup
+CIN Colbie Young,1,SOLD,xlcollectibles
 CIN Ja'Marr Chase,199,OPEN,
 CIN Joe Burrow,299,OPEN,
-CIN Tacario Davis,15,OPEN,
-CIN Tee Higgins,15,OPEN,
-CIN Other Bengals,29,OPEN,
-CLE Bernie Kosar,15,OPEN,
+CIN Tacario Davis,2,SOLD,blango
+CIN Tee Higgins,5,SOLD,gabesch20304
+CIN Other Bengals,1,SOLD,loudchevy
+CLE Bernie Kosar,1,SOLD,jonny_todd53
 CLE Carson Schwesinger,39,OPEN,
 CLE Denzel Boston,149,OPEN,
-CLE Emmanuel McNeil-Warren,15,OPEN,
-CLE Harold Fannin Jr.,19,OPEN,
-CLE Joe Thomas,10,OPEN,
+CLE Emmanuel McNeil-Warren,1,SOLD,loudchevy
+CLE Harold Fannin Jr.,1,SOLD,gabesch20304
+CLE Joe Thomas,1,SOLD,wirndine
 CLE KC Concepcion,149,OPEN,
 CLE Ozzie Newsome,15,OPEN,
 CLE QB Browns,7,SOLD,marvinator216
 CLE Quinshon Judkins,49,OPEN,
-CLE Shedeur Sanders,25,OPEN,
-CLE Other Browns,39,OPEN,
+CLE Shedeur Sanders,4,SOLD,sheppcards
+CLE Taylen Green,5,SOLD,jaredfisk7
+CLE Other Browns,1,SOLD,naterigs
 DAL Brandon Aubrey,1,SOLD,codyh30
 DAL Caleb Downs,99,OPEN,
 DAL CeeDee Lamb,149,OPEN,
 DAL Dak Prescott,75,OPEN,
-DAL DeMarco Murray,15,OPEN,
-DAL Dez Bryant,15,OPEN,
+DAL DeMarco Murray AND Dez Bryant,1,SOLD,codyh30
 DAL George Pickens,25,OPEN,
 DAL Jaishawn Barham,15,OPEN,
-DAL Javonte Williams,19,OPEN,
+DAL Javonte Williams,1,SOLD,bashbrothers23
 DAL Malachi Lawrence,19,OPEN,
-DAL Michael Irvin,25,OPEN,
+DAL Michael Irvin,3,SOLD,kpkv
 DAL Quinnen Williams,10,OPEN,
 DAL Tony Dorsett,10,OPEN,
-DAL Tony Romo,15,OPEN,
+DAL Tony Romo,3,SOLD,haphead_tv
 DAL Troy Aikman,25,OPEN,
-DAL Other Cowboys,39,OPEN,
-DEN Bo Nix,149,OPEN,
+DAL Other Cowboys,3,SOLD,codyh30
+DEN Bo Nix,85,SOLD,garmennwon
 DEN Champ Bailey,10,OPEN,
 DEN Dallen Bentley,15,OPEN,
 DEN Jaylen Waddle,25,OPEN,
@@ -91,8 +116,9 @@ DEN Jonah Coleman,13.3,SOLD,blango
 DEN Justin Joly,15,OPEN,
 DEN Quinn Meinerz,10,OPEN,
 DEN RJ Harvey,25,OPEN,
+DEN Steve Atwater,1,SOLD,kpkv
 DEN Terrell Davis,25,OPEN,
-DEN Von Miller,25,OPEN,
+DEN Von Miller,2,SOLD,kpkv
 DEN Other Broncos,39,OPEN,
 DET Aidan Hutchinson,15,OPEN,
 DET Amon-Ra St. Brown,149,OPEN,
@@ -101,33 +127,38 @@ DET Derrick Moore,15,OPEN,
 DET Isaac TeSlaa,1,SOLD,hammatime17
 DET Jack Campbell,15,OPEN,
 DET Jahmyr Gibbs,149,OPEN,
+DET Jared Goff,28,SOLD,cadeoc
 DET Keith Abney II,15,OPEN,
 DET Kendrick Law,15,OPEN,
 DET Other Lions,29,OPEN,
 GB Brandon Cisse,15,SOLD,nickmah55040
 GB Brett Favre,25,OPEN,
-GB Dani Dennis-Sutton,19,OPEN,
+GB Charles Woodson,3,SOLD,glea44
+GB Dani Dennis-Sutton,9,SOLD,tvermote
 GB Edgerrin Cooper,12,SOLD,heathgaed
-GB James Lofton,15,OPEN,
-GB Jayden Reed,10,OPEN,
+GB James Lofton,1,SOLD,wirndine
+GB Jayden Reed,1,SOLD,wirndine
 GB Jordan Love,35,SOLD,tvermote
-GB Josh Jacobs,15,OPEN,
-GB LeRoy Butler,15,OPEN,
+GB Josh Jacobs,2,SOLD,gabesch20304
+GB LeRoy Butler,1,SOLD,wirndine
 GB Matthew Golden,89,OPEN,
 GB Micah Parsons,15,SOLD,kevinsmi32124
 GB Sterling Sharpe,29,OPEN,
 GB Tucker Kraft,8,SOLD,tvermote
-GB Other Packers,39,OPEN,
+GB Other Packers,5,SOLD,wirndine
 HOU Andre Johnson,19,OPEN,
+HOU CJ Stroud,40,SOLD,bradleysaw
 HOU Jayden Higgins,45,OPEN,
 HOU Kamari Lassiter,1,SOLD,bradleysaw
 HOU Kayden McDonald,5,SOLD,bradleysaw
 HOU Keylan Rutledge,5,SOLD,bradleysaw
 HOU Marlin Klein,1,SOLD,bradleysaw
 HOU Nico Collins,49,OPEN,
+HOU Will Anderson Jr.,5,SOLD,kevinsmi32124
 HOU Woody Marks,35,OPEN,
 HOU Other Texans,39,OPEN,
 HOUO Warren Moon,20,SOLD,bradleysaw
+"IND A.J. Haulcy, CJ Allen, Deoin Burks ",35,SOLD,abey99
 IND Alec Pierce,10,SOLD,abey99
 IND Daniel Jones,45,OPEN,
 IND Edgerrin James,1,SOLD,abey99
@@ -145,16 +176,17 @@ JAX Tony Boselli,15,OPEN,
 JAX Travis Hunter,35,SOLD,pricelesscardboard
 JAX Trevor Lawrence,149,SOLD,pricelesscardboard
 JAX Other Jaguars,39,OPEN,
-KC Chris Jones,10,OPEN,
+KC Chris Jones,1,SOLD,naterigs
 KC Christian Okoye,15,OPEN,
-KC Creed Humphrey,10,OPEN,
+KC Creed Humphrey,1,SOLD,naterigs
 KC Dante Hall,15,OPEN,
-KC Jamaal Charles,10,OPEN,
+KC Garrett Nussmeier AND Emmett Johnson,70,SOLD,connorkcmo
+KC Jamaal Charles,1,SOLD,naterigs
 KC Joe Montana,10,OPEN,
 KC Kenneth Walker III,75,OPEN,
 "KC Mansoor Delane, Peter Woods, Xavier Worthy",35,SOLD,connorkcmo
 KC Patrick Mahomes II,399,OPEN,
-KC Tyreek Hill,10,OPEN,
+KC Tyreek Hill,1,SOLD,naterigs
 KC Other Chiefs,29,OPEN,
 LAC Akheem Mesidor,15,OPEN,
 LAC Brenen Thompson,20,SOLD,andrewslater67
@@ -165,6 +197,8 @@ LAC Oronde Gadsden,10,OPEN,
 LAC Other Chargers,29,OPEN,
 LAR Aaron Donald,10,OPEN,
 LAR CJ Daniels,15,OPEN,
+LAR Eric Dickerson,3,SOLD,glea44
+LAR Kyren Williams,20,SOLD,glea44
 LAR Matthew Stafford,149,OPEN,
 LAR Max Klare,15,OPEN,
 LAR Myles Garrett,69,OPEN,
@@ -189,29 +223,34 @@ MIA Dan Marino,99,OPEN,
 MIA De'Von Achane,69,OPEN,
 MIA Jacob Rodriguez,25,SOLD,chrispy821
 MIA Malik Willis,19,OPEN,
+MIA Ricky Williams,2,SOLD,kpkv
 MIA Other Dolphins,39,OPEN,
 MIN Aaron Jones Sr.,35,OPEN,
 MIN Adrian Peterson,10,OPEN,
 MIN Caleb Banks,15,OPEN,
 MIN Cris Carter,25,OPEN,
 MIN Demond Claiborne,15,OPEN,
+MIN Jordan Addison,15,SOLD,nikolasdup
 MIN Justin Jefferson,199,OPEN,
 MIN Kyler Murray,15,OPEN,
 MIN Randy Moss,45,OPEN,
-NE Adam Vinatieri,10,OPEN,
-NE Behren Morton,15,OPEN,
-NE Caleb Lomu,15,OPEN,
-NE Christian Gonzalez,10,OPEN,
+MIN Other Vikings AND Jake Golday,25,SOLD,dmc_87
+NE Adam Vinatieri,2,SOLD,yuhhuhmikey
+NE Behren Morton,1,SOLD,tvermote
+NE Caleb Lomu,1,SOLD,yuhhuhmikey
+NE Christian Gonzalez,4,SOLD,yuhhuhmikey
 NE Drake Maye,199,OPEN,
+NE Eli Raridon,15,SOLD,glea44
+"NE Hunter Henry, Pat Surtain, Travis Kelce ",40,SOLD,hammatime17
 NE Kayshon Boutte,15,OPEN,
-NE Mack Hollins,15,OPEN,
-NE Rhamondre Stevenson,15,OPEN,
-NE Rob Gronkowski,45,OPEN,
+NE Mack Hollins,2,SOLD,hammatime17
+NE Rhamondre Stevenson,1,SOLD,yuhhuhmikey
+NE Rob Gronkowski,22,SOLD,hammatime17
 NE Robert Spillane,15,OPEN,
 NE Tom Brady,399,OPEN,
 NE TreVeyon Henderson,45,OPEN,
-NE Ty Law,15,OPEN,
-NE Other Patriots,10,OPEN,
+NE Ty Law,3,SOLD,yuhhuhmikey
+NE Other Patriots,1,SOLD,yuhhuhmikey
 NO Alvin Kamara,25,OPEN,
 NO Archie Manning,19,OPEN,
 NO Bryce Lance,25,OPEN,
@@ -242,10 +281,12 @@ NYJ Kenyon Sadiq,99,OPEN,
 NYJ Omar Cooper Jr.,5,SOLD,csit3002
 NYJ Wayne Chrebet,10,OPEN,
 NYJ Other Jets,39,OPEN,
+OAK Tim Brown,1,SOLD,glea44
 PHI Brian Dawkins,19,OPEN,
 PHI Brian Westbrook,10,OPEN,
 PHI Cole Payton,19,OPEN,
 PHI Cooper DeJean,10,OPEN,
+PHI DeVonta Smith,3,SOLD,glea44
 PHI Eli Stowers,19,OPEN,
 PHI Eric Allen,10,OPEN,
 PHI Jalen Hurts,99,OPEN,
@@ -253,13 +294,13 @@ PHI Jihaad Campbell,25,OPEN,
 PHI Makai Lemon,199,OPEN,
 PHI QB Eagles,10,SOLD,pricelesscardboard
 PHI Saquon Barkley,99,OPEN,
-PHI Other Eagles,39,OPEN,
+PHI Other Eagles,1,SOLD,codyh30
 PIT DK Metcalf,1,SOLD,tvermote
 PIT Daylen Everette,19,OPEN,
 PIT Drew Allar AND Aaron Rodgers ,100,SOLD,culessen
 PIT Germie Bernard,25,SOLD,culessen
 PIT Jack Ham,1,SOLD,haphead_tv
-PIT Jaylen Warren,10,OPEN,
+PIT Jaylen Warren,1,SOLD,haphead_tv
 PIT Jerome Bettis,3,SOLD,hammatime17
 PIT Kaleb Johnson,29,OPEN,
 PIT Rod Woodson,25,OPEN,
@@ -267,111 +308,67 @@ PIT T.J. Watt,35,OPEN,
 PIT Troy Polamalu,1,SOLD,codyh30
 PIT Will Howard,3,SOLD,haphead_tv
 PIT Other Steelers,29,OPEN,
-SD Antonio Gates,15,OPEN,
+SD Antonio Gates,2,SOLD,nchristncoach2020
 SD Dan Fouts,1,SOLD,csit3002
 SEA AJ Barner,4,SOLD,codyh30
 SEA Cooper Kupp,5,SOLD,codyh30
 SEA Devon Witherspoon,6,SOLD,blango
+SEA Jadarian Price,70,SOLD,glea44
 SEA Jalen Milroe,2,SOLD,haphead_tv
-SEA Jaxon Smith-Njigba,199,OPEN,
+SEA Jaxon Smith-Njigba,140,SOLD,kendalcrpz24
 SEA Kam Chancellor,3,SOLD,codyh30
 SEA Malcolm Smith,2,SOLD,clwadd
-SEA Nick Emmanwori,25,OPEN,
+SEA Nick Emmanwori,7,SOLD,blango
 SEA Rashid Shaheed,6,SOLD,blango
-SEA Sam Darnold,59,OPEN,
+SEA Sam Darnold,16,SOLD,blango
+SEA Steve Largent AND Richard Sherman ,18,SOLD,rogjacob
 SEA Uchenna Nwosu,1,SOLD,blango
-SEA Other Seahawks,29,OPEN,
-SF Anquan Boldin,10,OPEN,
+SEA Other Seahawks,5,SOLD,blango
+SF Anquan Boldin,1,SOLD,fsucollector
 SF Brock Purdy,249,OPEN,
 SF Christian McCaffrey,149,OPEN,
-SF De'Zhaun Stribling,45,OPEN,
+SF De'Zhaun Stribling,3,SOLD,bashbrothers23
 SF Frank Gore,1,SOLD,csit3002
 SF Fred Warner,1,SOLD,csit3002
 SF George Kittle,49,OPEN,
 SF Jerry Rice,69,OPEN,
-SF Joe Montana,25,OPEN,
+SF Joe Montana,9,SOLD,xlcollectibles
 SF Kyle Juszczyk,1,SOLD,csit3002
 SF Roger Craig,2,SOLD,blango
-SF Romello Height,15,OPEN,
-SF Steve Young,25,OPEN,
+SF Romello Height,1,SOLD,loudchevy
+SF Steve Young,1,SOLD,haphead_tv
 SF Trent Williams,1,SOLD,csit3002
-SF Other 49ers,29,OPEN,
-STL Kurt Warner,25,OPEN,
+SF Other 49ers,6,SOLD,csit3002
+STL Kurt Warner,1,SOLD,naterigs
+STL Torry Holt,1,SOLD,edoublee40
 TB Baker Mayfield,49,OPEN,
 TB Bucky Irving,1,SOLD,maxlew23
 TB Emeka Egbuka,99,OPEN,
+TB Mike Alstott,2,SOLD,kpkv
 TB Rueben Bain Jr.,25,OPEN,
 TB Ted Hurst,25,OPEN,
-TB Tez Johnson,15,OPEN,
-TB Warren Sapp,15,OPEN,
+TB Tez Johnson,3,SOLD,xlcollectibles
+TB Warren Sapp,1,SOLD,kpkv
 TB Other Buccaneers,39,OPEN,
 TEN Bruce Matthews,15,OPEN,
 TEN Calvin Ridley,15,OPEN,
 TEN Cam Ward,99,OPEN,
 TEN Carnell Tate,249,OPEN,
-TEN Eddie George,10,OPEN,
 TEN Elic Ayomanor,25,OPEN,
-TEN Jevon Kearse,10,OPEN,
+TEN Jevon Kearse AND Eddie George,1,SOLD,haphead_tv
 TEN Keldric Faulk,1,SOLD,kevinsmi32124
 TEN Nick Singleton,29,OPEN,
 TEN Tony Pollard,1,SOLD,tvermote
-TEN Other Titans,29,OPEN,
+TEN Other Titans,1,SOLD,naterigs
 WAS Antonio Williams,45,OPEN,
 WAS Art Monk,25,OPEN,
-WAS DeAngelo Hall,10,OPEN,
-WAS Deebo Samuel,25,OPEN,
+WAS DeAngelo Hall,1,SOLD,xlcollectibles
+WAS Deebo Samuel,1,SOLD,xlcollectibles
 WAS Jayden Daniels,85,SOLD,hals2026
-WAS Kaytron Allen,15,OPEN,
-WAS Sean Taylor,15,SOLD,jt305
-WAS Sonny Styles,99,OPEN,
-WAS Terry McLaurin,4,SOLD,penguinsfan123pen
-WAS Other Commanders,39,OPEN,
-ARI Anquan Boldin,2,SOLD,amberstr50818
-ARI Kurt Warner,1,SOLD,kevinsmi32124
-ARI Larry Fitzgerald,3,SOLD,glea44
-ARI Marvin Harrison Jr.,1,SOLD,edoublee40
-ARI Pat Tillman,4,SOLD,zekeboski
-ATL Michael Penix Jr.,1,SOLD,lankford610
-ATL Tony Gonzalez,1,SOLD,kpkv
-ATL Xavier Watts,7,SOLD,glea44
-ATL Zachariah Branch,19,SOLD,thehitstick
-BAL Derrick Henry,32,SOLD,jaredfisk7
-BAL Joe Flacco,1,SOLD,edoublee40
-BAL Kyle Hamilton,11,SOLD,glea44
-BAL Mark Andrews,1,SOLD,haphead_tv
-BAL Ray Lewis,3,SOLD,haphead_tv
-BAL Terrell Suggs,1,SOLD,edoublee40
-BAL Trey Hendrickson,1,SOLD,kevinsmi32124
-BUF Andre Reed,1,SOLD,kpkv
-CAR Luke Kuechly,5,SOLD,glea44
-CHI Brian Urlacher,1,SOLD,haphead_tv
-CHI Dillon Thieneman,24,SOLD,haphead_tv
-CHI Jim McMahon,1,SOLD,haphead_tv
-CHI Mike Singletary,1,SOLD,haphead_tv
-CHI Sam Roush,12,SOLD,haphead_tv
-CHI Zavion Thomas,12,SOLD,haphead_tv
-CIN Chase Brown,5,SOLD,nikolasdup
-CLE Taylen Green,5,SOLD,jaredfisk7
-DEN Steve Atwater,1,SOLD,kpkv
-DET Jared Goff,28,SOLD,cadeoc
-GB Charles Woodson,3,SOLD,glea44
-HOU CJ Stroud,40,SOLD,bradleysaw
-HOU Will Anderson Jr.,5,SOLD,kevinsmi32124
-"IND A.J. Haulcy, CJ Allen, Deoin Burks ",35,SOLD,abey99
-KC Garrett Nussmeier AND Emmett Johnson,70,SOLD,connorkcmo
-LAR Eric Dickerson,3,SOLD,glea44
-LAR Kyren Williams,20,SOLD,glea44
-MIA Ricky Williams,2,SOLD,kpkv
-MIN Jordan Addison,15,SOLD,nikolasdup
-NE Eli Raridon,15,SOLD,glea44
-OAK Tim Brown,1,SOLD,glea44
-PHI DeVonta Smith,3,SOLD,glea44
-SEA Jadarian Price,70,SOLD,glea44
-SEA Steve Largent AND Richard Sherman ,18,SOLD,rogjacob
-STL Torry Holt,1,SOLD,edoublee40
-TB Mike Alstott,2,SOLD,kpkv
 WAS John Riggins,1,SOLD,glea44
+WAS Kaytron Allen,5,SOLD,loudchevy
+WAS Sean Taylor,15,SOLD,jt305
+WAS Sonny Styles,65,SOLD,coldarrick
+WAS Terry McLaurin,4,SOLD,penguinsfan123pen
+WAS Other Commanders,5,SOLD,codyh30
 "Josh Cameron, Genesis Smith, Kaelon Black ",40,SOLD,cadeoc
-"BUF Davison Igbinosun, Malachi Fields, Nate Boehkirker",30,SOLD,cadeoc
-MIN Other Vikings AND Jake Golday,25,SOLD,dmc_87
-"NE Hunter Henry, Pat Surtain, Travis Kelce ",40,SOLD,hammatime17

@@ -5,16 +5,18 @@ spot,price,state,buyer
 Cincinnati Bengals,11,SOLD,dudewheresmycards2025
 Dallas Cowboys,9,SOLD,dudewheresmycards2025
 "Cleveland Browns, Miami Dolphins, New York Jets",28,SOLD,queesh44
-Baltimore Ravens,9,SOLD,lafmike
-New York Giants,9,SOLD,breadzybones88
 New Orleans Saints,9,SOLD,grantgri58041
+New York Giants,9,SOLD,breadzybones88
 Indianapolis Colts,9,SOLD,lafmike
+Baltimore Ravens,9,SOLD,lafmike
 Minnesota Vikings,9,SOLD,bricecog
 Houston Texans,9,SOLD,bricecog
 Atlanta Falcons,9,SOLD,bricecog
 Philadelphia Eagles,9,SOLD,bricecog
-Washington Commanders,9,SOLD,storms23
+Green Bay Packers,9,SOLD,storms23
 Pittsburgh Steelers,7,SOLD,chazzvader
 Los Angeles Chargers,7,SOLD,chazzvader
 Detroit Lions,9,SOLD,bricecog
-#19,1,OPEN,
+Seattle Seahawks,10,SOLD,chazzvader
+Washington Commanders,9,SOLD,bricecog
+"Carolina Panthers, Jacksonville Jaguars, San Francisco 49ers, Tampa Bay Buccaneers",23,SOLD,chazzvader

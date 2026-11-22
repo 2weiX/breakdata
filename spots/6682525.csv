@@ -1,33 +1,33 @@
 spot,price,state,buyer
 Arizona Cardinals,5,SOLD,jwoods1969
+Atlanta Falcons,5,SOLD,travmo131906
 Baltimore Ravens,6,OPEN,
 Buffalo Bills,10,SOLD,jgj1111
+Carolina Panthers,5,SOLD,travmo131906
 Chicago Bears,12,SOLD,rileyfar79538
 Cincinnati Bengals,8,SOLD,jwoods1969
-Dallas Cowboys,12,OPEN,
+Cleveland Browns,5,SOLD,deekay24
+Dallas Cowboys,8,SOLD,squatterfurball
 Denver Broncos,8,OPEN,
 Detroit Lions,7,OPEN,
 Green Bay Packers,8,OPEN,
 Houston Texans,7,OPEN,
-Indianapolis Colts,5,OPEN,
+Indianapolis Colts,5,SOLD,emanbraves5150
 Jacksonville Jaguars,6,OPEN,
 Kansas City Chiefs,10,SOLD,jgj1111
 Las Vegas Raiders,10,SOLD,jgj1111
 Los Angeles Chargers,8,OPEN,
 Los Angeles Rams,5,SOLD,jwoods1969
 Miami Dolphins,5,OPEN,
-Minnesota Vikings,7,OPEN,
+Minnesota Vikings,5,SOLD,emanbraves5150
 New England Patriots,12,OPEN,
-New Orleans Saints,5,OPEN,
+New Orleans Saints,5,SOLD,squatterfurball
 New York Giants,8,OPEN,
 New York Jets,5,OPEN,
-Philadelphia Eagles,9,OPEN,
+Philadelphia Eagles,8,SOLD,squatterfurball
 Pittsburgh Steelers,7,OPEN,
+San Francisco 49ers,5,SOLD,deekay24
 Seattle Seahawks,6,OPEN,
 Tampa Bay Buccaneers,6,OPEN,
 Tennessee Titans,7,OPEN,
 Washington Commanders,10,OPEN,
-Atlanta Falcons,5,SOLD,travmo131906
-Carolina Panthers,5,SOLD,travmo131906
-Cleveland Browns,5,SOLD,deekay24
-San Francisco 49ers,5,SOLD,deekay24

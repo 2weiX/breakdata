@@ -1,34 +1,40 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-Miscellaneous,,OPEN,
+Los Angeles Rams,93,SOLD,fargav
+Seattle Seahawks,112,SOLD,joeyq22
+Cleveland Browns,102,SOLD,tomscuz00
+#4,110,SOLD,tomscuz00
+Chicago Bears,125,SOLD,tomscuz00
+Jacksonville Jaguars,110,SOLD,mjskradski
+Las Vegas Raiders,98,SOLD,kevcox
+Kansas City Chiefs,128,SOLD,mjskradski
+Dallas Cowboys,84,SOLD,ellmat96981
+Tampa Bay Buccaneers,97,SOLD,inkstainllc
+#11,107,SOLD,jospla96361
+Washington Commanders,108,SOLD,jospla96361
+Los Angeles Chargers,156,SOLD,jospla96361
+#14,131,SOLD,kuest
+New Orleans Saints,136,SOLD,kuest
+Denver Broncos,131,SOLD,jospla96361
+Baltimore Ravens,141,SOLD,kuest
+Green Bay Packers,125,SOLD,jospla96361
+San Francisco 49ers,131,SOLD,jospla96361
+Miscellaneous,131,SOLD,jospla96361
+Pittsburgh Steelers,131,SOLD,jospla96361
+#22,126,SOLD,kuest
+Philadelphia Eagles,121,SOLD,jospla96361
+New York Giants,131,SOLD,kuest
+#25,182,SOLD,thebinmaster87
+New England Patriots,151,SOLD,thebinmaster87
+Carolina Panthers,166,SOLD,kuest
+Cincinnati Bengals,121,SOLD,jospla96361
+Indianapolis Colts,116,SOLD,inkstainllc
+#30,101,SOLD,jospla96361
+Detroit Lions,107,SOLD,kuest
+New York Jets,136,SOLD,tigersdencc
+Buffalo Bills,133,SOLD,kuest
+Tennessee Titans,82,SOLD,inkstainllc
+Houston Texans,89,SOLD,inkstainllc
+Minnesota Vikings,102,SOLD,inkstainllc
+Atlanta Falcons,101,SOLD,inkstainllc
+Miami Dolphins,58,SOLD,inkstainllc
+Arizona Cardinals,59,SOLD,inkstainllc

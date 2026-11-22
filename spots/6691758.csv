@@ -1,0 +1,27 @@
+spot,price,state,buyer
+Green Bay Packers,28,SOLD,pokinets
+T,47,SOLD,pokinets
+Dallas Cowboys,62,SOLD,pokinets
+T,60,SOLD,pokinets
+T,61,SOLD,pocket_protector
+Minnesota Vikings,62,SOLD,pocket_protector
+T,63,SOLD,pokinets
+Los Angeles Rams,65,SOLD,pokinets
+Kansas City Chiefs,65,SOLD,pokinets
+T,64,SOLD,pokinets
+T,60,SOLD,pokinets
+Cincinnati Bengals,65,SOLD,pokinets
+T,64,SOLD,pokinets
+Philadelphia Eagles,71,SOLD,pokinets
+NIL/MISC,65,SOLD,zrb847
+T,67,SOLD,pocket_protector
+New England Patriots,75,SOLD,pokinets
+Buffalo Bills,60,SOLD,zrb847
+T,64,SOLD,zrb847
+Pittsburgh Steelers,63,SOLD,zrb847
+Atlanta Falcons,67,SOLD,zrb847
+T,61,SOLD,pocket_protector
+T,75,SOLD,zrb847
+San Francisco 49ers,65,SOLD,pocket_protector
+Los Angeles Chargers,47,SOLD,pocket_protector
+#26,1,OPEN,

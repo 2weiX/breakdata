@@ -1,5 +1,5 @@
 spot,price,state,buyer
-Arizona Cardinals,10,OPEN,
+Arizona Cardinals,10,SOLD,calebnic14340
 Atlanta Falcons,10,OPEN,
 Baltimore Ravens,10,OPEN,
 "Buffalo Bills, Colts, Big 10, Other for Brandon",35,OPEN,
@@ -23,10 +23,9 @@ New York Giants,10,OPEN,
 New York Jets,10,OPEN,
 Philadelphia Eagles,10,OPEN,
 Pittsburgh Steelers,10,OPEN,
-San Francisco 49ers,10,OPEN,
+"San Francisco 49ers, Big 12",16,SOLD,wiggiesmalls78
 Seattle Seahawks,10,OPEN,
 Tampa Bay Buccaneers,10,OPEN,
 Tennessee Titans,10,OPEN,
 Washington Commanders,10,OPEN,
 ACC,10,OPEN,
-Big 12,10,OPEN,

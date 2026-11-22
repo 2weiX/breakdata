@@ -1,48 +1,56 @@
 spot,price,state,buyer
 New York Giants,131,SOLD,wildcats2686
-#2,156,SOLD,wildcats2686
-#3,145,SOLD,wildcats2686
-#4,175,SOLD,caseyask
+T,156,SOLD,wildcats2686
+T,145,SOLD,wildcats2686
+T,175,SOLD,caseyask
 MISC,171,SOLD,wildcats2686
 Kansas City Chiefs,170,SOLD,caseyask
 Green Bay Packers,150,SOLD,caseyask
-#8,151,SOLD,caseyask
+T,151,SOLD,caseyask
 Dallas Cowboys,150,SOLD,sweensween6
-#10,167,SOLD,caseyask
+T,167,SOLD,caseyask
 Las Vegas Raiders,175,SOLD,wildcats2686
 Cincinnati Bengals,185,SOLD,dustymaysugggggaaaaa
-#13,175,SOLD,dustymaysugggggaaaaa
+T,175,SOLD,dustymaysugggggaaaaa
 DOWNTOWN,160,SOLD,troymarcyes
 Cleveland Browns,150,SOLD,caseyask
 Buffalo Bills,152,SOLD,bigjohn1204
 San Francisco 49ers,155,SOLD,caseyask
-#18,156,SOLD,bigjohn1204
+T,156,SOLD,bigjohn1204
 Seattle Seahawks,167,SOLD,caseyask
 Chicago Bears,160,SOLD,bigjohn1204
 New England Patriots,160,SOLD,bigjohn1204
-#22,146,SOLD,bigjohn1204
-#23,159,SOLD,caseyask
-#24,130,SOLD,rumblinbumblincards
-#25,131,SOLD,rumblinbumblincards
+T,146,SOLD,bigjohn1204
+T,159,SOLD,caseyask
+T,130,SOLD,rumblinbumblincards
+T,131,SOLD,rumblinbumblincards
 Pittsburgh Steelers,156,SOLD,bigjohn1204
 Los Angeles Rams,165,SOLD,bigjohn1204
-#28,152,SOLD,rumblinbumblincards
-#29,151,SOLD,bigjohn1204
+T,152,SOLD,rumblinbumblincards
+T,151,SOLD,bigjohn1204
 Minnesota Vikings,136,SOLD,rumblinbumblincards
 Atlanta Falcons,155,SOLD,rumblinbumblincards
 Tampa Bay Buccaneers,163,SOLD,bigjohn1204
-#33,161,SOLD,bigjohn1204
+T,161,SOLD,bigjohn1204
 Houston Texans,154,SOLD,aldog714
 Denver Broncos,175,SOLD,bigjohn1204
-#36,184,SOLD,aldog714
+T,184,SOLD,aldog714
 DOWNTOIWN,195,SOLD,ryanhan41096
 DOWNTOWN,195,SOLD,ryanhan41096
-#39,155,SOLD,ryanhan41096
-#40,87,SOLD,initiativewon
+T,155,SOLD,ryanhan41096
+T,87,SOLD,initiativewon
 Indianapolis Colts,106,SOLD,ryanhan41096
-#42,135,SOLD,ryanhan41096
+T,135,SOLD,ryanhan41096
 Philadelphia Eagles,76,SOLD,initiativewon
 New Orleans Saints,58,SOLD,bigjohn1204
 Jacksonville Jaguars,74,SOLD,bigjohn1204
 Carolina Panthers,49,SOLD,calmer_than_you_are
-#47,1,OPEN,
+DOWNTOWN,99,SOLD,calmer_than_you_are
+Miami Dolphins,50,SOLD,bigjohn1204
+Tennessee Titans,52,SOLD,jacobz2736
+New York Jets,51,SOLD,rumblinbumblincards
+Baltimore Ravens,61,SOLD,jawnstars
+Arizona Cardinals,61,SOLD,westbest713
+Washington Commanders,77,SOLD,bigjohn1204
+Detroit Lions,88,SOLD,bigjohn1204
+Los Angeles Chargers,145,SOLD,bigjohn1204

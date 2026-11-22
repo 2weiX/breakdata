@@ -1,2 +1,7 @@
 spot,price,state,buyer
-#1,1,OPEN,
+CHEIFS,2,SOLD,bigmike106
+JETS,8,SOLD,bigmike106
+HAWKS,7,SOLD,itsjilljones
+Houston Texans,8,SOLD,joe557
+#5,1,SOLD,itsjilljones
+#6,1,OPEN,
