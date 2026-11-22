@@ -1,37 +1,35 @@
 spot,price,state,buyer
-Arizona Cardinals,19,SOLD,rayell15625
-Atlanta Falcons,21,SOLD,myohmy0012
-Baltimore Ravens,19,SOLD,zputt64
-Buffalo Bills,50,SOLD,lickhitty
-Carolina Panthers,17,SOLD,robertsmi52693
 Cincinnati Bengals,15,SOLD,jakey023
-Cleveland Browns,21,SOLD,jarev107
-Dallas Cowboys,25,SOLD,christopherspe98304
-Denver Broncos,18,SOLD,jarev107
-Green Bay Packers,22,SOLD,emsguy
-Houston Texans,21,SOLD,lickhitty
-Indianapolis Colts,21,SOLD,emsguy
-Jacksonville Jaguars,20,SOLD,myohmy0012
-Kansas City Chiefs,21,SOLD,domechad
-Las Vegas Raiders,23,SOLD,christopherspe98304
-Los Angeles Chargers,18,SOLD,jakey023
+Buffalo Bills,50,SOLD,lickhitty
+#3,50,SOLD,lickhitty
 Los Angeles Rams,18,SOLD,emsguy
-Miami Dolphins,28,SOLD,lickhitty
-Minnesota Vikings,18,SOLD,robertsmi52693
-New England Patriots,23,SOLD,dclapper26
-New Orleans Saints,20,SOLD,christopherspe98304
-New York Giants,23,SOLD,myohmy0012
-New York Jets,26,SOLD,lickhitty
 Philadelphia Eagles,25,SOLD,emsguy
-Pittsburgh Steelers,24,SOLD,emsguy
-San Francisco 49ers,21,SOLD,myohmy0012
 Seattle Seahawks,24,SOLD,domechad
+#7,21,SOLD,emsguy
 Tampa Bay Buccaneers,21,SOLD,emsguy
 Tennessee Titans,21,SOLD,emsguy
+Green Bay Packers,22,SOLD,emsguy
+Jacksonville Jaguars,20,SOLD,myohmy0012
+Indianapolis Colts,21,SOLD,emsguy
+Pittsburgh Steelers,24,SOLD,emsguy
+Atlanta Falcons,21,SOLD,myohmy0012
+Cleveland Browns,21,SOLD,jarev107
+San Francisco 49ers,21,SOLD,myohmy0012
+Kansas City Chiefs,21,SOLD,domechad
 Washington Commanders,20,SOLD,rayell15625
-Miscellaneous,22,SOLD,christopherspe98304
-#3,50,SOLD,lickhitty
-#7,21,SOLD,emsguy
 #19,19,SOLD,rayell15625
+New England Patriots,23,SOLD,dclapper26
+Dallas Cowboys,25,SOLD,christopherspe98304
+Miscellaneous,22,SOLD,christopherspe98304
+Denver Broncos,18,SOLD,jarev107
+Arizona Cardinals,19,SOLD,rayell15625
+New Orleans Saints,20,SOLD,christopherspe98304
+Las Vegas Raiders,23,SOLD,christopherspe98304
+Los Angeles Chargers,18,SOLD,jakey023
 #28,16,SOLD,christopherspe98304
-#36,1,OPEN,
+Minnesota Vikings,18,SOLD,robertsmi52693
+Carolina Panthers,17,SOLD,robertsmi52693
+Houston Texans,21,SOLD,lickhitty
+Baltimore Ravens,19,SOLD,zputt64
+New York Jets,26,SOLD,lickhitty
+#34,28,SOLD,lickhitty

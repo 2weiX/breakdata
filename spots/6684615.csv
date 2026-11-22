@@ -1,5 +1,5 @@
 spot,price,state,buyer
-#1,65,SOLD,phillywilly1972
+givvy,65,SOLD,phillywilly1972
 Baltimore Ravens,42,SOLD,tcg_dude
 Cleveland Browns,40,SOLD,phillywilly1972
 Seattle Seahawks,39,SOLD,phillywilly1972
@@ -16,3 +16,4 @@ Atlanta Falcons,44,SOLD,atb92
 Las Vegas Raiders,45,SOLD,mikeyford
 New England Patriots,31,SOLD,tcg_dude
 San Francisco 49ers,38,SOLD,tcg_dude
+#18,1,OPEN,
