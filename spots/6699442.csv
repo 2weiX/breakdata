@@ -1,33 +1,34 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+Arizona Cardinals,14,SOLD,admwilson20
+Atlanta Falcons,10,SOLD,howdybo1
+Baltimore Ravens,2,SOLD,bandeh
+Buffalo Bills,13,SOLD,bandeh
+Carolina Panthers,11,SOLD,jtyson03
+Chicago Bears,10,SOLD,bandeh
+Cincinnati Bengals,10,SOLD,izzy_144
+Cleveland Browns,13,SOLD,howdybo1
+Dallas Cowboys,6,SOLD,bandeh
+Denver Broncos,14,SOLD,cvojack
+Detroit Lions,11,SOLD,hippie3674
+Green Bay Packers,16,SOLD,izzy_144
+Houston Texans,11,SOLD,jtyson03
+Indianapolis Colts,13,SOLD,admwilson20
+Jacksonville Jaguars,10,SOLD,jtyson03
+Kansas City Chiefs,9,SOLD,bandeh
+Las Vegas Raiders,10,SOLD,izzy_144
+Los Angeles Chargers,10,SOLD,bandeh
+Los Angeles Rams,4,SOLD,bandeh
+Miami Dolphins,10,SOLD,hippie3674
+Minnesota Vikings,11,SOLD,hippie3674
+New England Patriots,15,SOLD,bandeh
+New Orleans Saints,11,SOLD,domjulio11
+New York Giants,14,SOLD,alpha_ripz
+New York Jets,10,SOLD,bandeh
+Philadelphia Eagles,13,SOLD,cvojack
+Pittsburgh Steelers,12,SOLD,jtyson03
+San Francisco 49ers,8,SOLD,bandeh
+Seattle Seahawks,11,SOLD,howdybo1
+Tampa Bay Buccaneers,11,SOLD,howdybo1
+Tennessee Titans,11,SOLD,bandeh
+Washington Commanders,1,SOLD,bandeh
+misc,30,SOLD,bandeh
