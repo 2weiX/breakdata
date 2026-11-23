@@ -1,33 +1,38 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+Chicago Bears,75,SOLD,rolldiggittydogg
+San Francisco 49ers,73,SOLD,rolldiggittydogg
+#3,73,SOLD,tannertat
+#4,73,SOLD,tannertat
+Buffalo Bills,73,SOLD,tannertat
+Seattle Seahawks,76,SOLD,antscala1205
+Tennessee Titans,73,SOLD,tannertat
+Cincinnati Bengals,63,SOLD,atb92
+#9,73,SOLD,tannertat
+Cleveland Browns,76,SOLD,cwsnow96
+Arizona Cardinals,89,SOLD,hoosier2488
+Las Vegas Raiders,88,SOLD,tannertat
+Dallas Cowboys,79,SOLD,tannertat
+New England Patriots,76,SOLD,cwsnow96
+Houston Texans,74,SOLD,grail87
+Atlanta Falcons,78,SOLD,rolldiggittydogg
+Los Angeles Chargers,71,SOLD,grail87
+Kansas City Chiefs,77,SOLD,tannertat
+#19,65,SOLD,atb92
+Carolina Panthers,65,SOLD,atb92
+#21,68,SOLD,ryan8
+New York Jets,70,SOLD,ryan8
+Denver Broncos,69,SOLD,grail87
+New York Giants,64,SOLD,ryan8
+Jacksonville Jaguars,64,SOLD,atb92
+Washington Commanders,64,SOLD,atb92
+Baltimore Ravens,61,SOLD,johchi18747
+Detroit Lions,54,SOLD,rolldiggittydogg
+Miami Dolphins,53,SOLD,costheking
+Philadelphia Eagles,65,SOLD,ramshouse55
+Indianapolis Colts,56,SOLD,kenrippeyjr
+New Orleans Saints,60,SOLD,kenrippeyjr
+Green Bay Packers,65,SOLD,ramshouse55
+Minnesota Vikings,64,SOLD,packripper2233
+Los Angeles Rams,61,SOLD,kenrippeyjr
+Tampa Bay Buccaneers,56,SOLD,papacas
+Pittsburgh Steelers,56,SOLD,papacas

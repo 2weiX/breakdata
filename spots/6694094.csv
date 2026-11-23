@@ -1,33 +1,40 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+#1,71,SOLD,thepenskefile
+Detroit Lions,72,SOLD,thepenskefile
+Green Bay Packers,70,SOLD,ryan8
+San Francisco 49ers,70,SOLD,ryan8
+Las Vegas Raiders,96,SOLD,salvadorzub
+Minnesota Vikings,76,SOLD,tannertat
+Buffalo Bills,111,SOLD,salvadorzub
+#8,74,SOLD,tannertat
+Denver Broncos,81,SOLD,tannertat
+#10,84,SOLD,thepenskefile
+#11,83,SOLD,tannertat
+Kansas City Chiefs,80,SOLD,tannertat
+Indianapolis Colts,72,SOLD,thepenskefile
+Chicago Bears,74,SOLD,justcallme0
+#15,77,SOLD,tannertat
+Carolina Panthers,83,SOLD,onlysportfanz
+#17,85,SOLD,onlysportfanz
+#18,87,SOLD,tannertat
+Cincinnati Bengals,84,SOLD,isthisweird
+Philadelphia Eagles,78,SOLD,onlysportfanz
+New York Giants,84,SOLD,tannertat
+New York Jets,73,SOLD,edulmv
+Los Angeles Rams,86,SOLD,johnnysiegel06
+New England Patriots,78,SOLD,thepenskefile
+Dallas Cowboys,77,SOLD,tannertat
+Seattle Seahawks,74,SOLD,justcallme0
+Atlanta Falcons,60,SOLD,onlysportfanz
+Jacksonville Jaguars,60.3,SOLD,fatsoluble
+Tennessee Titans,65,SOLD,edulmv
+Los Angeles Chargers,57,SOLD,finsfan4life
+Tampa Bay Buccaneers,55,SOLD,edulmv
+Cleveland Browns,51,SOLD,jimmyhughes133
+Pittsburgh Steelers,51,SOLD,finsfan4life
+Arizona Cardinals,51,SOLD,packripper2233
+Houston Texans,46,SOLD,costheking
+Washington Commanders,44,SOLD,travishan96152
+Baltimore Ravens,47,SOLD,travishan96152
+Miami Dolphins,47,SOLD,stan913
+New Orleans Saints,60,SOLD,jamessoldier

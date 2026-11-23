@@ -1,34 +1,40 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-Miscellaneous,,OPEN,
+Los Angeles Rams,130,SOLD,jp1807
+#2,121,SOLD,teagmo13
+Detroit Lions,136,SOLD,teagmo13
+Buffalo Bills,98,SOLD,ayers53
+San Francisco 49ers,14,SOLD,raymond14stone
+#6,140,SOLD,jp1807
+Minnesota Vikings,109,SOLD,tgriff3695
+Tampa Bay Buccaneers,117,SOLD,chase_theory
+Cleveland Browns,137,SOLD,teagmo13
+Denver Broncos,136,SOLD,chase_theory
+Pittsburgh Steelers,145,SOLD,thisisaburner2026
+Houston Texans,151,SOLD,chase_theory
+Atlanta Falcons,155,SOLD,jp1807
+Cincinnati Bengals,156,SOLD,chase_theory
+Arizona Cardinals,151,SOLD,jospla96361
+Dallas Cowboys,156,SOLD,jospla96361
+#17,151,SOLD,thisisaburner2026
+Kansas City Chiefs,141,SOLD,larrybird15626
+New York Giants,146,SOLD,chase_theory
+Green Bay Packers,141,SOLD,chase_theory
+Washington Commanders,136,SOLD,jospla96361
+Los Angeles Chargers,136,SOLD,jospla96361
+#23,143,SOLD,case4dave
+Las Vegas Raiders,152,SOLD,teagmo13
+Chicago Bears,146,SOLD,case4dave
+Miscellaneous,136,SOLD,teagmo13
+#27,140,SOLD,teagmo13
+Indianapolis Colts,1,SOLD,jospla96361
+New Orleans Saints,104,SOLD,teagmo13
+Philadelphia Eagles,126,SOLD,jp1807
+#31,127,SOLD,teagmo13
+Jacksonville Jaguars,124,SOLD,funkyripper
+Baltimore Ravens,115,SOLD,teagmo13
+Carolina Panthers,93,SOLD,chase_theory
+Seattle Seahawks,95,SOLD,funkyripper
+New York Jets,130,SOLD,tgriff3695
+Miami Dolphins,131,SOLD,chase_theory
+Tennessee Titans,203,SOLD,teagmo13
+New England Patriots,301,SOLD,chase_theory

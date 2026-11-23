@@ -1,42 +1,14 @@
 spot,price,state,buyer
-Texas,550,OPEN,
 Notre Dame,270,SOLD,jfelker16
 Miami/Duke,295,SOLD,tommygeo29351
 Oklahoma State,225,SOLD,rustid
 Mississippi State,185,SOLD,johng90277
-BYU - Bear Bachmeier,219,OPEN,
-Michigan,169,OPEN,
-Oregon,169,OPEN,
-South Carolina,211,OPEN,
-USC,211,OPEN,
-California - Jaron-Keawe Sagapolutele,195,OPEN,
-Texas A&M,194,OPEN,
-Ohio State,169,OPEN,
-Ole Miss - Kewan Lacy,152,OPEN,
-Rutgers,143,OPEN,
-Nebraska,135,OPEN,
 Wake Forest,90,SOLD,johng90277
-Vanderbilt - Jared Curtis,110,OPEN,
-Arizona State,109,OPEN,
-Alabama,92,OPEN,
-Pittsburgh,92,OPEN,
-Utah,84,OPEN,
-Purdue - Ryan Browne,76,OPEN,
 Florida,53,SOLD,parkieuf
-Georgia,75,OPEN,
-Cincinnati - JC French IV,68,OPEN,
-Kentucky - Kenny Minchey,92,OPEN,
-Baylor,58,OPEN,
 Oklahoma,40.6,SOLD,tommygeo29351
-Stanford,58,OPEN,
 Tennessee,40.6,SOLD,tommygeo29351
-UCF,58,OPEN,
-Arkansas,50,OPEN,
-Auburn,50,OPEN,
 Clemson,35,SOLD,trinity_cards
-Kansas State,50,OPEN,
 LSU,20,SOLD,kwright4479
-SMU,50,OPEN,
 UCLA,20,SOLD,trinity_cards
 Florida State,30,SOLD,estest28010
 Houston,30,SOLD,bricktamland415
@@ -74,3 +46,31 @@ Penn State - Beaver Stadium,7,SOLD,rustid
 "Washington,indiana ,texas tech ,akron ",350,SOLD,anteri74391
 "Firebaugh High School - Josh Allen,ISIDORE NEWMAN SCHOOL ",100,SOLD,patty9
 "Kansas,TCU",35,SOLD,grimsby_rips
+Texas,350,SOLD,hard_cards
+BYU - Bear Bachmeier,150,SOLD,rustid
+Michigan,85,SOLD,keepelevated
+Oregon,70,SOLD,deejay64846
+South Carolina,109.69,SOLD,sports_videos69
+"USC,CALIFORNIA ",200,SOLD,hard_cards
+Texas A&M,65,SOLD,kjk184psu
+Ohio State,90,SOLD,hard_cards
+Ole Miss - Kewan Lacy,80,SOLD,hard_cards
+Rutgers,51,SOLD,robertalb96202
+Nebraska,68,SOLD,grimsby_rips
+Vanderbilt - Jared Curtis,49,SOLD,amg1204
+Arizona State,48,SOLD,grimsby_rips
+Alabama,30,SOLD,rustid
+Pittsburgh,73,SOLD,amg1204
+Utah,60,SOLD,bricktamland415
+Purdue - Ryan Browne,17,SOLD,thebyrdman
+Georgia,25,SOLD,snakefistdynamo
+Cincinnati - JC French IV,8,SOLD,avs315
+Kentucky - Kenny Minchey,43,SOLD,kwright4479
+Baylor,10,SOLD,thebyrdman
+Stanford,10,SOLD,grimsby_rips
+UCF,15,SOLD,estest28010
+Arkansas,35,SOLD,bricktamland415
+Auburn,8,SOLD,kwright4479
+Kansas State,8,SOLD,estest28010
+SMU,9,SOLD,estest28010
+BYU,140,SOLD,keepelevated

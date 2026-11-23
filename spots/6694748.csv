@@ -1,0 +1,40 @@
+spot,price,state,buyer
+#1,20,SOLD,wes_714
+Chicago Bears,21,SOLD,wes_714
+Philadelphia Eagles,31,SOLD,papatrex
+Los Angeles Rams,36,SOLD,papatrex
+Buffalo Bills,19,SOLD,wes_714
+#6,20,SOLD,wes_714
+Carolina Panthers,26,SOLD,wes_714
+Detroit Lions,34,SOLD,wes_714
+Los Angeles Chargers,29,SOLD,dakinepulls808
+Green Bay Packers,27,SOLD,caseyrob2204
+Denver Broncos,26,SOLD,caseyrob2204
+New England Patriots,26,SOLD,caseyrob2204
+Atlanta Falcons,26,SOLD,caseyrob2204
+#14,26,SOLD,caseyrob2204
+Baltimore Ravens,26,SOLD,caseyrob2204
+#16,28,SOLD,caseyrob2204
+New York Giants,27,SOLD,dakinepulls808
+#18,28,SOLD,caseyrob2204
+#19,32,SOLD,jesgar29487
+Dallas Cowboys,34,SOLD,jesgar29487
+Indianapolis Colts,28,SOLD,robcroteau924
+Cleveland Browns,32,SOLD,ronniedebartolo
+Miami Dolphins,29,SOLD,batmanfos
+New York Jets,34,SOLD,batmanfos
+Kansas City Chiefs,34,SOLD,chipwei
+Minnesota Vikings,34,SOLD,chipwei
+Seattle Seahawks,30,SOLD,chipwei
+MISC,32,SOLD,chipwei
+Arizona Cardinals,39,SOLD,denisegal26329
+Tennessee Titans,32,SOLD,batmanfos
+Jacksonville Jaguars,20,SOLD,caseyrob2204
+San Francisco 49ers,17,SOLD,chipwei
+Tampa Bay Buccaneers,16,SOLD,chipwei
+Washington Commanders,22,SOLD,chipwei
+New Orleans Saints,21,SOLD,chipwei
+Houston Texans,20,SOLD,caseyrob2204
+Las Vegas Raiders,25,SOLD,michaelvan79643
+Cincinnati Bengals,26,SOLD,bravo86
+Pittsburgh Steelers,17,SOLD,michaelvan79643

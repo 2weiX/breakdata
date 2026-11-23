@@ -1,33 +1,33 @@
 spot,price,state,buyer
-Arizona Cardinals,300,OPEN,
 Atlanta Falcons,40,SOLD,clevelandcayce
 Baltimore Ravens,40,SOLD,clevelandcayce
-Buffalo Bills,300,OPEN,
 Carolina Panthers,75,SOLD,codyshin
-Chicago Bears,295,OPEN,
 Cincinnati Bengals,60,SOLD,clevelandcayce
 Cleveland Browns,180,SOLD,clevelandcayce
-Dallas Cowboys,160,OPEN,
-Denver Broncos,160,OPEN,
 Detroit Lions,100,SOLD,codyshin
 Green Bay Packers,40,SOLD,clevelandcayce
 Houston Texans,40,SOLD,clevelandcayce
 Indianapolis Colts,40,SOLD,ccote817
 Jacksonville Jaguars,60,SOLD,iiishanks
-Kansas City Chiefs,325,OPEN,
 Las Vegas Raiders,665,SOLD,clevelandcayce
 Los Angeles Chargers,40,SOLD,clevelandcayce
-Los Angeles Rams,295,OPEN,
 Miami Dolphins,90,SOLD,harcan12470
 Minnesota Vikings,85,SOLD,clevelandcayce
-New England Patriots,395,OPEN,
-New Orleans Saints,210,OPEN,
-New York Giants,320,OPEN,
-New York Jets,210,OPEN,
 Philadelphia Eagles,190,SOLD,ccote817
 Pittsburgh Steelers,150,SOLD,ccote817
 San Francisco 49ers,151,SOLD,harcan12470
 Seattle Seahawks,109,SOLD,codyshin
 Tampa Bay Buccaneers,99,SOLD,harcan12470
 Tennessee Titans,150,SOLD,clevelandcayce
-Washington Commanders,180,OPEN,
+Arizona Cardinals,280,OPEN,
+Buffalo Bills,280,OPEN,
+Chicago Bears,275,OPEN,
+Dallas Cowboys,145,OPEN,
+Denver Broncos,145,SOLD,wrinkledeggroll
+Kansas City Chiefs,295,OPEN,
+Los Angeles Rams,275,OPEN,
+New England Patriots,369,OPEN,
+New Orleans Saints,190,OPEN,
+New York Giants,290,OPEN,
+New York Jets,180,OPEN,
+Washington Commanders,160,OPEN,

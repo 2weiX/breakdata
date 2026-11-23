@@ -1,7 +1,5 @@
 spot,price,state,buyer
 ARI Anquan Boldin,2,SOLD,amberstr50818
-ARI Carson Beck,299,OPEN,
-ARI Jeremiyah Love,399,OPEN,
 ARI Kurt Warner,1,SOLD,kevinsmi32124
 ARI Larry Fitzgerald,3,SOLD,glea44
 ARI Marvin Harrison Jr.,1,SOLD,edoublee40
@@ -29,7 +27,6 @@ BAL Elijah Sarratt,1,SOLD,loudchevy
 BAL Ja'Kobi Lane,15,SOLD,chiich_
 BAL Joe Flacco,1,SOLD,edoublee40
 BAL Kyle Hamilton,11,SOLD,glea44
-BAL Lamar Jackson,199,OPEN,
 BAL Mark Andrews,1,SOLD,haphead_tv
 BAL Ray Lewis,3,SOLD,haphead_tv
 BAL Roquan Smith,1,SOLD,haphead_tv
@@ -45,17 +42,13 @@ BUF Dalton Kincaid,3,SOLD,nchristncoach2020
 BUF Dawson Knox,2,SOLD,hammatime17
 BUF James Cook,8,SOLD,hammatime17
 BUF Jim Kelly,1,SOLD,haphead_tv
-BUF Josh Allen,275,OPEN,
 BUF Keon Coleman,2,SOLD,loudchevy
 BUF LeSean McCoy,1,SOLD,hammatime17
 BUF Skyler Bell,1,SOLD,gabesch20304
 BUF T.J. Parker,1,SOLD,kpkv
 BUF Thurman Thomas,1,SOLD,haphead_tv
 BUF Other Bills,3,SOLD,haphead_tv
-CAR Bryce Young,99,OPEN,
-CAR Chris Brazzell II,125,OPEN,
 CAR Luke Kuechly,5,SOLD,glea44
-CAR Tetairoa McMillan,199,OPEN,
 CAR Will Lee III,5,SOLD,gabesch20304
 CAR Other Panthers,5,SOLD,gabesch20304
 CHI Brian Urlacher,1,SOLD,haphead_tv
@@ -73,7 +66,6 @@ CHI Other Bears,3,SOLD,haphead_tv
 CIN Cashius Howell,1,SOLD,loudchevy
 CIN Chase Brown,5,SOLD,nikolasdup
 CIN Colbie Young,1,SOLD,xlcollectibles
-CIN Ja'Marr Chase,199,OPEN,
 CIN Joe Burrow,180,SOLD,jdjesse
 CIN Tacario Davis,2,SOLD,blango
 CIN Tee Higgins,5,SOLD,gabesch20304
@@ -153,8 +145,6 @@ HOUO Warren Moon,20,SOLD,bradleysaw
 IND Alec Pierce,10,SOLD,abey99
 IND Daniel Jones,1,SOLD,loudchevy
 IND Edgerrin James,1,SOLD,abey99
-IND Jonathan Taylor,99,OPEN,
-IND Peyton Manning,99,OPEN,
 IND Riley Leonard,1,SOLD,loudchevy
 IND Sauce Gardner,1,SOLD,loudchevy
 IND Tyler Warren,30,SOLD,abey99
@@ -170,7 +160,6 @@ KC Creed Humphrey,1,SOLD,naterigs
 KC Dante Hall,3,SOLD,naterigs
 KC Garrett Nussmeier AND Emmett Johnson,70,SOLD,connorkcmo
 KC Jamaal Charles,1,SOLD,naterigs
-KC Kenneth Walker III,75,OPEN,
 "KC Mansoor Delane, Peter Woods, Xavier Worthy",35,SOLD,connorkcmo
 KC Patrick Mahomes II,260,SOLD,fishingcards
 KC Tyreek Hill,1,SOLD,naterigs
@@ -179,20 +168,16 @@ LAC Akheem Mesidor,2,SOLD,johnhil22024
 LAC Brenen Thompson,20,SOLD,andrewslater67
 LAC Justin Herbert,25,SOLD,thecardbullpen13
 LAC Ladd McConkey,1,SOLD,loudchevy
-LAC Omarion Hampton,59,OPEN,
 LAC Oronde Gadsden,1,SOLD,jackstar
 LAC Other Chargers,1,SOLD,nchristncoach2020
 LAR CJ Daniels,2,SOLD,nchristncoach2020
 LAR Eric Dickerson,3,SOLD,glea44
 LAR Kyren Williams,20,SOLD,glea44
 LAR Max Klare,1,SOLD,gabesch20304
-LAR Puka Nacua,149,OPEN,
-LAR Ty Simpson,249,OPEN,
 LAR Other Rams,5,SOLD,nchristncoach2020
 LARa Bo Jackson,20,SOLD,dno369
 LARa Howie Long,4,SOLD,nchristncoach2020
 LV Ashton Jeanty,40,SOLD,pierzel
-LV Brock Bowers,99,OPEN,
 LV Dont'e Thornton Jr.,1,SOLD,jdjesse
 LV Jermod McCoy,1,SOLD,johnhil22024
 LV Maxx Crosby,9,SOLD,nchristncoach2020
@@ -203,19 +188,16 @@ MIA Caleb Douglas,40.5,SOLD,blairnau
 MIA Chop Robinson,2,SOLD,pricelesscardboard
 MIA Chris Bell,15,SOLD,bashbrothers23
 MIA Dan Marino,55,SOLD,adama2424
-MIA De'Von Achane,69,OPEN,
 MIA Jacob Rodriguez,25,SOLD,chrispy821
 MIA Malik Willis,3,SOLD,jdjesse
 MIA Ricky Williams,2,SOLD,kpkv
 MIA Other Dolphins,3,SOLD,nchristncoach2020
-MIN Aaron Jones Sr.,35,OPEN,
 MIN Caleb Banks,1,SOLD,pricelesscardboard
 MIN Cris Carter,1,SOLD,adama2424
 MIN Demond Claiborne,1,SOLD,johnhil22024
 MIN Jordan Addison,15,SOLD,nikolasdup
 MIN Justin Jefferson,90,SOLD,kendalcrpz24
 MIN Kyler Murray,2,SOLD,nchristncoach2020
-MIN Randy Moss,45,OPEN,
 MIN Other Vikings AND Jake Golday,25,SOLD,dmc_87
 NE Adam Vinatieri,2,SOLD,yuhhuhmikey
 NE Behren Morton,1,SOLD,tvermote
@@ -224,13 +206,11 @@ NE Christian Gonzalez,4,SOLD,yuhhuhmikey
 NE Drake Maye,99,SOLD,douglasbro1211
 NE Eli Raridon,15,SOLD,glea44
 "NE Hunter Henry, Pat Surtain, Travis Kelce ",40,SOLD,hammatime17
-NE Kayshon Boutte,15,OPEN,
 NE Mack Hollins,2,SOLD,hammatime17
 NE Rhamondre Stevenson,1,SOLD,yuhhuhmikey
 NE Rob Gronkowski,22,SOLD,hammatime17
 NE Robert Spillane,1,SOLD,loudchevy
 NE Tom Brady,250,SOLD,pierzel
-NE TreVeyon Henderson,45,OPEN,
 NE Ty Law,3,SOLD,yuhhuhmikey
 NE Other Patriots,1,SOLD,yuhhuhmikey
 NO Alvin Kamara,3,SOLD,jdjesse
@@ -238,13 +218,10 @@ NO Archie Manning,4,SOLD,pricelesscardboard
 NO Bryce Lance,1,SOLD,pricelesscardboard
 NO Chris Olave,28,SOLD,andrewslater67
 NO Christen Miller,1,SOLD,pricelesscardboard
-NO Drew Brees,49,OPEN,
-NO Jordyn Tyson,249,OPEN,
 NO Taysom Hill,1,SOLD,tadzielinski
 NO Tyler Shough,70,SOLD,andrewslater67
 NO Other Saints,3,SOLD,jdjesse
 NYG Abdul Carter,3,SOLD,abey99
-NYG Arvell Reese,125,OPEN,
 NYG Cam Skattebo,15,SOLD,jdjesse
 NYG Colton Hood,5,SOLD,abey99
 NYG Eli Manning,7,SOLD,db_hippo
@@ -254,11 +231,8 @@ NYG Lawrence Taylor,4,SOLD,tadzielinski
 NYG Other Giants,2,SOLD,jdjesse
 NYJ Braelon Allen,3,SOLD,tadzielinski
 NYJ Breece Hall,3,SOLD,johnhil22024
-NYJ Cade Klubnik,99,OPEN,
 NYJ Darrelle Revis,2,SOLD,nchristncoach2020
-NYJ David Bailey,115,OPEN,
 NYJ Garrett Wilson,35,SOLD,andrewslater67
-NYJ Kenyon Sadiq,99,OPEN,
 NYJ Omar Cooper Jr.,5,SOLD,csit3002
 NYJ Other Jets,4,SOLD,nchristncoach2020
 OAK Tim Brown,1,SOLD,glea44
@@ -271,9 +245,7 @@ PHI Eli Stowers,1,SOLD,nchristncoach2020
 PHI Eric Allen,2,SOLD,pricelesscardboard
 PHI Jalen Hurts,55,SOLD,db_hippo
 PHI Jihaad Campbell,5,SOLD,pricelesscardboard
-PHI Makai Lemon,199,OPEN,
 PHI QB Eagles,10,SOLD,pricelesscardboard
-PHI Saquon Barkley,99,OPEN,
 PHI Other Eagles,1,SOLD,codyh30
 PIT DK Metcalf,1,SOLD,tvermote
 PIT Daylen Everette,1,SOLD,thehitstick
@@ -305,12 +277,9 @@ SEA Steve Largent AND Richard Sherman ,18,SOLD,rogjacob
 SEA Uchenna Nwosu,1,SOLD,blango
 SEA Other Seahawks,5,SOLD,blango
 SF Anquan Boldin,1,SOLD,fsucollector
-SF Brock Purdy,249,OPEN,
-SF Christian McCaffrey,149,OPEN,
 SF De'Zhaun Stribling,3,SOLD,bashbrothers23
 SF Frank Gore,1,SOLD,csit3002
 SF Fred Warner,1,SOLD,csit3002
-SF Jerry Rice,69,OPEN,
 SF Joe Montana,9,SOLD,xlcollectibles
 SF Kyle Juszczyk,1,SOLD,csit3002
 SF Roger Craig,2,SOLD,blango
@@ -322,7 +291,6 @@ STL Kurt Warner,1,SOLD,naterigs
 STL Torry Holt,1,SOLD,edoublee40
 TB Baker Mayfield,11,SOLD,chiich_
 TB Bucky Irving,1,SOLD,maxlew23
-TB Emeka Egbuka,99,OPEN,
 TB Mike Alstott,2,SOLD,kpkv
 TB Rueben Bain Jr.,7,SOLD,johnhil22024
 TB Ted Hurst,5,SOLD,tdchasecards
@@ -330,7 +298,6 @@ TB Tez Johnson,3,SOLD,xlcollectibles
 TB Warren Sapp,1,SOLD,kpkv
 TB Other Buccaneers,1,SOLD,codyh30
 TEN Bruce Matthews,1,SOLD,dadandthekiddosrippacks
-TEN Carnell Tate,249,OPEN,
 TEN Elic Ayomanor,1,SOLD,gabesch20304
 TEN Keldric Faulk,1,SOLD,kevinsmi32124
 TEN Nick Singleton,3,SOLD,sheppcards
@@ -358,3 +325,35 @@ JAX Albert Regis AND Calvin Ridley,4,SOLD,pricelesscardboard
 JAX Tony Boselli AND MJD,1,SOLD,jdjesse
 "LAR Matthew Stafford, Myles Garret, Cam Ward ",200,SOLD,hankjohnson3
 NYG Malik Nabers AND George Kittle ,50,SOLD,tadzielinski
+ARI Carson Beck,50,SOLD,sheppcards
+ARI Jeremiyah Love,100,SOLD,johnhil22024
+BAL Lamar Jackson,50,SOLD,dadandthekiddosrippacks
+BUF Josh Allen,175,SOLD,fishingcards
+CAR Bryce Young,23,SOLD,bradleysaw
+CAR Chris Brazzell II,17,SOLD,eroberts39
+CAR Tetairoa McMillan,27,SOLD,gabesch20304
+CIN Ja'Marr Chase,50,SOLD,pricelesscardboard
+IND Jonathan Taylor,11,SOLD,eroberts39
+IND Peyton Manning,20,SOLD,yuhhuhmikey
+KC Kenneth Walker III,25,SOLD,eroberts39
+LAR Puka Nacua,25,SOLD,johnhil22024
+LAR Ty Simpson,149,SOLD,ryansul14188
+LV Brock Bowers,35,SOLD,rsnl012
+MIA De'Von Achane,23,SOLD,teddyballgame23
+MIN Aaron Jones Sr.,9,SOLD,teddyballgame23
+MIN Randy Moss,7,SOLD,teddyballgame23
+NE Kayshon Boutte,3,SOLD,teddyballgame23
+NE TreVeyon Henderson AND Omarion HAMPTON ,35,SOLD,eroberts39
+NO Drew Brees,10,SOLD,eroberts39
+NO Jordyn Tyson,40,SOLD,dadandthekiddosrippacks
+NYG Arvell Reese,45,SOLD,chiich_
+NYJ Cade Klubnik,29,SOLD,eroberts39
+NYJ David Bailey,25,SOLD,hankjohnson3
+NYJ Kenyon Sadiq,20,SOLD,loudchevy
+PHI Makai Lemon,80,SOLD,johnhil22024
+PHI Saquon Barkley,40,SOLD,db_hippo
+SF Brock Purdy,60,SOLD,maxlew23
+SF Christian McCaffrey,45,SOLD,dadandthekiddosrippacks
+SF Jerry Rice,25,SOLD,teddyballgame23
+TB Emeka Egbuka,30,SOLD,maxlew23
+TEN Carnell Tate,85,SOLD,johnhil22024

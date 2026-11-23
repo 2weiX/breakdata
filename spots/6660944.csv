@@ -1,0 +1,51 @@
+spot,price,state,buyer
+#1,360,SOLD,vegasmann
+#2,375,SOLD,vegasmann
+New York Giants,490,SOLD,vegasmann
+#4,32,SOLD,danmitchell6
+Kansas City Chiefs,330,SOLD,danmitchell6
+Chicago Bears,335,SOLD,danmitchell6
+BOX #1,305,SOLD,danmitchell6
+#8,325,SOLD,flycolumbus15
+BOX #3,335,SOLD,danmitchell6
+MISC,230,SOLD,danmitchell6
+Cincinnati Bengals,255,SOLD,danmitchell6
+San Francisco 49ers,275,SOLD,flycolumbus15
+#13,235,SOLD,danmitchell6
+#14,230,SOLD,danmitchell6
+New England Patriots,255,SOLD,danmitchell6
+Cleveland Browns,260,SOLD,andrewf85
+Philadelphia Eagles,245,SOLD,danmitchell6
+Green Bay Packers,271,SOLD,flycolumbus15
+Denver Broncos,260,SOLD,andrewf85
+#20,259,SOLD,andrewf85
+Dallas Cowboys,266,SOLD,andrewf85
+#22,255,SOLD,danmitchell6
+#23,239,SOLD,andrewf85
+BOX #2,235,SOLD,danmitchell6
+#25,235,SOLD,danmitchell6
+Buffalo Bills,195,SOLD,danmitchell6
+Baltimore Ravens,175,SOLD,danmitchell6
+#28,180,SOLD,danmitchell6
+#29,145,SOLD,rhodyhouseofhits
+#30,145,SOLD,rhodyhouseofhits
+Los Angeles Rams,150,SOLD,rhodyhouseofhits
+#32,160,SOLD,big_timber
+Los Angeles Chargers,145,SOLD,big_timber
+Detroit Lions,127,SOLD,big_timber
+Houston Texans,130,SOLD,big_timber
+Pittsburgh Steelers,130,SOLD,big_timber
+BOX #4,62,SOLD,rhodyhouseofhits
+Arizona Cardinals,48,SOLD,bobmak20480
+Minnesota Vikings,42,SOLD,bobmak20480
+Washington Commanders,62,SOLD,bobmak20480
+Atlanta Falcons,62,SOLD,rhodyhouseofhits
+Carolina Panthers,44,SOLD,rhodyhouseofhits
+Tampa Bay Buccaneers,40,SOLD,rhodyhouseofhits
+Seattle Seahawks,34,SOLD,rhodyhouseofhits
+Las Vegas Raiders,37,SOLD,rhodyhouseofhits
+Jacksonville Jaguars,27,SOLD,big_timber
+New Orleans Saints,23,SOLD,danmitchell6
+"Miami Dolphins, Tennessee Titans",17,SOLD,kazy001
+Indianapolis Colts,22,SOLD,kazy001
+New York Jets,33,SOLD,kazy001

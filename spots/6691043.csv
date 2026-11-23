@@ -1,0 +1,69 @@
+spot,price,state,buyer
+Akron,8,OPEN,
+Alabama,75,OPEN,
+Arizona,6,SOLD,robertalb96202
+Arizona State,32,SOLD,robertalb96202
+Arkansas,21,SOLD,franklinpope
+Auburn,16,SOLD,beej_15
+Boston College,8,OPEN,
+BYU,125,OPEN,
+California,60,SOLD,keepelevated
+Cincinnati,25,OPEN,
+Clemson,25,SOLD,shawnstr82558
+Colorado,12,SOLD,shawnstr82558
+Delaware,15,SOLD,ju1ior
+Florida,40,SOLD,chef_nate
+Florida State,20,OPEN,
+Fresno State,8,OPEN,
+Georgia,35,SOLD,brewercardauctions
+Houston,6,SOLD,gatorraid319
+Illinois,15,SOLD,brewercardauctions
+Iowa State,11,SOLD,robertalb96202
+Kansas,14,SOLD,labfam5
+Kansas State,15,SOLD,brewercardauctions
+Kentucky,65,OPEN,
+Louisiana,9.6,SOLD,blawke
+Louisville,8,OPEN,
+LSU,35,OPEN,
+Maryland,8,OPEN,
+Michigan,80,OPEN,
+Minnesota,8,OPEN,
+Mississippi State,115,SOLD,filly86
+NC State,8,OPEN,
+Nebraska,45,SOLD,robertalb96202
+New Mexico,8,OPEN,
+Northwestern,15,OPEN,
+Ohio State,80,OPEN,
+Ole Miss,22,SOLD,shawnstr82558
+Oregon,50,OPEN,
+Penn State,10,SOLD,dukman
+Pittsburgh,28,SOLD,amg1204
+Purdue,11,SOLD,rmlinn
+Rutgers,40,SOLD,robertalb96202
+SMU,20,OPEN,
+South Carolina,36,SOLD,amg1204
+Syracuse,8,SOLD,bceagle515
+TCU,15,SOLD,dukman
+Tennessee,48,SOLD,wbb21
+Texas A&M,60,OPEN,
+Texas State,10,SOLD,gatorraid319
+UCF,16,SOLD,dham8238
+UCLA,11,SOLD,labfam5
+UConn,10,OPEN,
+UNC,12,SOLD,trinity_cards
+UNLV,8,OPEN,
+USC,56,SOLD,hawk2424
+Vanderbilt,50,OPEN,
+Virginia,7,SOLD,brainbomber
+Wake Forest,40,SOLD,blawke
+West Virginia,20,OPEN,
+Western Kentucky,11,SOLD,keepelevated
+Western Michigan,8,OPEN,
+Wisconsin,20,SOLD,brainbomber
+WSU,7,SOLD,brainbomber
+Wyoming,30,OPEN,
+BUNDLE @wbb21 = Oklahoma + Utah,62,SOLD,wbb21
+BUNDLE @irishfan1122 = Michigan State + Notre Dame,170,SOLD,irishfan1122
+BUNDLE @keepelevated = Indiana + Washington,100,SOLD,keepelevated
+BUNDLE @keepelevated = Stanford + Texas Tech,60,SOLD,keepelevated
+BUNDLE @brainbomber = Baylor + Missouri,33,SOLD,brainbomber

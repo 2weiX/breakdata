@@ -1,0 +1,38 @@
+spot,price,state,buyer
+Arizona Cardinals,75,OPEN,
+Atlanta Falcons,30,OPEN,
+Baltimore Ravens,30,OPEN,
+Buffalo Bills,29,SOLD,dmartinez_singles
+Carolina Panthers,30,OPEN,
+Chicago Bears,60,OPEN,
+Cincinnati Bengals,28,SOLD,bradzballerz
+Cleveland Browns,35,OPEN,
+Dallas Cowboys,40,SOLD,dakotah13
+Denver Broncos,40,OPEN,
+Detroit Lions,40,OPEN,
+Green Bay Packers,40,OPEN,
+Houston Texans,25,OPEN,
+Indianapolis Colts,30,OPEN,
+Jacksonville Jaguars,45,OPEN,
+Kansas City Chiefs,65,OPEN,
+Las Vegas Raiders,150,OPEN,
+Los Angeles Chargers,30,OPEN,
+Los Angeles Rams,85,OPEN,
+Miami Dolphins,30,OPEN,
+Minnesota Vikings,30,OPEN,
+New England Patriots,65,OPEN,
+New Orleans Saints,70,OPEN,
+New York Giants,55,OPEN,
+New York Jets,30,OPEN,
+Philadelphia Eagles,38.25,SOLD,graysonrips
+Pittsburgh Steelers,45,OPEN,
+San Francisco 49ers,40,OPEN,
+Seattle Seahawks,35,OPEN,
+Tampa Bay Buccaneers,65,OPEN,
+Tennessee Titans,75,OPEN,
+Washington Commanders,30,OPEN,
+SEC,46,SOLD,dakotah13
+BIG 10,60,OPEN,
+BIG 12,55,OPEN,
+ACC,50,OPEN,
+NOTRE DAME & ALL NON POWER 4 TEAMS,55,OPEN,

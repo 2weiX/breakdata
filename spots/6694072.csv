@@ -1,33 +1,24 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+Chicago Bears,11,SOLD,atc_breaks
+Los Angeles Rams,7,SOLD,atc_breaks
+Green Bay Packers,8,SOLD,atc_breaks
+Baltimore Ravens,9,SOLD,atc_breaks
+Dallas Cowboys,11,SOLD,atc_breaks
+San Francisco 49ers,17,SOLD,billyr77
+New Orleans Saints,14,SOLD,atc_breaks
+Philadelphia Eagles,12,SOLD,gracerob90051
+Buffalo Bills,15,SOLD,kingedwardstreasures
+Tampa Bay Buccaneers,12,SOLD,atc_breaks
+Minnesota Vikings,11,SOLD,kingedwardstreasures
+Atlanta Falcons,11,SOLD,josh24307
+Carolina Panthers,23,SOLD,atc_breaks
+"Denver Broncos, Detroit Lions, New England Patriots",24,SOLD,everytime818
+"Indianapolis Colts, Washington Commanders",40,SOLD,lineman72
+"Arizona Cardinals, Las Vegas Raiders",38,SOLD,lineman72
+"Los Angeles Chargers, New York Giants",24,SOLD,atc_breaks
+Pittsburgh Steelers,22,SOLD,everytime818
+Cincinnati Bengals,9,SOLD,everytime818
+"Houston Texans, Jacksonville Jaguars",21,SOLD,atc_breaks
+"Cleveland Browns, New York Jets",20,SOLD,kingedwardstreasures
+"Miami Dolphins, Seattle Seahawks",27,SOLD,bigteescards1987
+"Kansas City Chiefs, Tennessee Titans",21,SOLD,oldintheway

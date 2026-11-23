@@ -1,0 +1,33 @@
+spot,price,state,buyer
+Miami Dolphins,5,SOLD,moneymahan
+Buffalo Bills,5,SOLD,moneymahan
+New York Giants,5,SOLD,moneymahan
+Los Angeles Rams,5,SOLD,moneymahan
+Atlanta Falcons,4,SOLD,moneymahan
+New England Patriots,5,SOLD,moneymahan
+New Orleans Saints,4,SOLD,moneymahan
+Chicago Bears,4,SOLD,jeff_klem
+Indianapolis Colts,4,SOLD,moneymahan
+Cincinnati Bengals,4,SOLD,moneymahan
+Dallas Cowboys,6,SOLD,jeff_klem
+Green Bay Packers,6,SOLD,moneymahan
+Denver Broncos,5,SOLD,jeff_klem
+Houston Texans,5,SOLD,moneymahan
+San Francisco 49ers,6,SOLD,hobbylab
+Baltimore Ravens,5,SOLD,texansfan1
+Las Vegas Raiders,5,SOLD,texansfan1
+Tennessee Titans,5,SOLD,heavy_breaks
+Jacksonville Jaguars,6,SOLD,heavy_breaks
+Tampa Bay Buccaneers,4,SOLD,moneymahan
+Minnesota Vikings,1,SOLD,moneymahan
+Los Angeles Chargers,4,SOLD,heavy_breaks
+Carolina Panthers,5,SOLD,gameonshow
+Detroit Lions,5,SOLD,gameonshow
+Kansas City Chiefs,8,SOLD,jeff_klem
+Arizona Cardinals,9,SOLD,gameonshow
+Seattle Seahawks,8,SOLD,gameonshow
+Cleveland Browns,7,SOLD,moneymahan
+New York Jets,3,SOLD,texansfan1
+Philadelphia Eagles,3,SOLD,heavy_breaks
+Washington Commanders,3,SOLD,jaegs32
+Pittsburgh Steelers,2,SOLD,jaegs32

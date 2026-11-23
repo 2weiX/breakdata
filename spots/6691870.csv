@@ -1,151 +1,403 @@
 spot,price,state,buyer
-Fernando Mendoza,,OPEN,
-Carnell Tate,,OPEN,
-Jeremiyah Love,,OPEN,
-Ty Simpson,,OPEN,
-Jordyn Tyson,,OPEN,
-Josh Allen,,OPEN,
-Drake Maye,,OPEN,
-Jaxon Smith-Njigba,,OPEN,
-Joe Burrow,,OPEN,
-Matthew Stafford,,OPEN,
-Makai Lemon,,OPEN,
-Jaxson Dart,,OPEN,
-Carson Beck,,OPEN,
-Bryce Young,,OPEN,
-Caleb Williams,,OPEN,
-KC Concepcion,,OPEN,
-Bo Nix,,OPEN,
-CJ Carr,,OPEN,
-Arvell Reese,,OPEN,
-Caleb Downs,,OPEN,
-Patrick Mahomes II,,OPEN,
-Jayden Daniels,,OPEN,
-Dak Prescott,,OPEN,
-Brock Purdy,,OPEN,
-Christian McCaffrey,,OPEN,
-CJ Stroud,,OPEN,
-Jadarian Price,,OPEN,
-Tyler Shough,,OPEN,
-Jordan Love,,OPEN,
-Jahmyr Gibbs,,OPEN,
-Tetairoa McMillan,,OPEN,
-Denzel Boston,,OPEN,
-Aaron Rodgers,,OPEN,
-Amon-Ra St. Brown,,OPEN,
-Brock Bowers,,OPEN,
-Justin Jefferson,,OPEN,
-Ja'Marr Chase,,OPEN,
-Darian Mensah,,OPEN,
-Omar Cooper Jr.,,OPEN,
-Malik Nabers,,OPEN,
-Jonah Coleman,,OPEN,
-Bijan Robinson,,OPEN,
-Trey McBride,,OPEN,
-Jonathan Taylor,,OPEN,
-Trevor Lawrence,,OPEN,
-Drew Mestemaker,,OPEN,
-Puka Nacua,,OPEN,
-Kenneth Walker III,,OPEN,
-Tom Brady,,OPEN,
-Arch Manning,,OPEN,
-Kamario Taylor / Zakee Wheatley,,OPEN,
-Kewan Lacy / Will Shipley,,OPEN,
-Myles Garrett / Will Reichard,,OPEN,
-Cade Klubnik / Will Dissly,,OPEN,
-De'Von Achane / Walter Nolen,,OPEN,
-Garrett Wilson / Von Miller,,OPEN,
-Luther Burden III / Vince Young,,OPEN,
-Quinshon Judkins / Tyrod Taylor,,OPEN,
-De'Zhaun Stribling / Tyrique Tucker,,OPEN,
-Cam Ward / Tyler Guyton,,OPEN,
-Germie Bernard / Ty Law,,OPEN,
-LaNorris Sellers / Ty Clark III,,OPEN,
-Justin Herbert / Troy Polamalu,,OPEN,
-Breece Hall / Trey Amos,,OPEN,
-TreVeyon Henderson / Tory Horton,,OPEN,
-Jared Goff / Tony Romo,,OPEN,
-David Bailey / Tony Gonzalez,,OPEN,
-Kenny Minchey / Tony Boselli,,OPEN,
-Xavier Worthy / Tim Keenan III,,OPEN,
-Tyler Warren / Thurman Thomas,,OPEN,
-Parker Livingstone / Terrell Suggs,,OPEN,
-Jaron-Keawe Sagapolutele / Terrell Davis,,OPEN,
-Drew Allar / Taylor Wein,,OPEN,
-Saquon Barkley / Taurean York,,OPEN,
-George Kittle / Tanner Koziol,,OPEN,
-Lamar Jackson / Steve Largent,,OPEN,
-Ashton Jeanty / Steve Atwater,,OPEN,
-Nick Singleton / Smael Mondon Jr.,,OPEN,
-Bear Bachmeier / Shemar Stewart,,OPEN,
-Chris Bell / Shavon Revel Jr.,,OPEN,
-Emeka Egbuka / Seth Henigan,,OPEN,
-CeeDee Lamb / Sebastian Castro,,OPEN,
-Jayden Maiava / Samuel Harris,,OPEN,
-Josh Hoover / Roschon Johnson,,OPEN,
-Fluff Bothwell / Romeo Doubs,,OPEN,
-Drake London / Roman Hemby,,OPEN,
-Derrick Henry / Roger Craig,,OPEN,
-Antonio Williams / Robert Henry Jr.,,OPEN,
-Caleb Douglas / Wayne Knight,,OPEN,
-Ja'Kobi Lane / Rico Dowdle,,OPEN,
-Kaelon Black / Ricky White,,OPEN,
-Mansoor Delane / Richard Sherman,,OPEN,
-Pat Surtain II / Raiden Vines-Bright,,OPEN,
-Chase Jenkins / Quincy Williams,,OPEN,
-Bryce Underwood / Quincy Riley,,OPEN,
-Cam Coleman / Payton Wilson,,OPEN,
-Demond Williams Jr. / Paul Skenes,,OPEN,
-Chase Brown / Victor Snow,,OPEN,
-Ladd McConkey / Ozzie Newsome,,OPEN,
-RJ Harvey / Oscar Delp,,OPEN,
-Emmett Johnson / Noah Whittington,,OPEN,
-James Cook / Nnamdi Madubuike,,OPEN,
-Malachi Fields / Nick Chubb,,OPEN,
-Mike Washington Jr. / Nic Scourton,,OPEN,
-Rueben Bain Jr. / Mykel Williams,,OPEN,
-Skyler Bell / Mitchell Trubisky,,OPEN,
-T.J. Watt / Miller Moss,,OPEN,
-Zachariah Branch / Mike Singletary,,OPEN,
-Cutter Boley / Michael Trigg,,OPEN,
-Sonny Styles / Michael Mayer,,OPEN,
-Matthew Golden / Michael Irvin,,OPEN,
-JC French IV / Maxwell Hairston,,OPEN,
-Chris Brazzell II / Maurice Jones-Drew,,OPEN,
-Keon Coleman / Matt Fuller,,OPEN,
-Max Klare / Marist Liufau,,OPEN,
-Michael Wilson / MarShawn Lloyd,,OPEN,
-Nick Marsh / Malik Muhammad,,OPEN,
-Waymond Jordan / Malcolm Smith,,OPEN,
-Cole Payton / Malaki Starks,,OPEN,
-Taylen Green / Luke Schoonmaker,,OPEN,
-Carson Schwesinger / Luke Musgrave,,OPEN,
-T.J. Moore / Luke Altmyer,,OPEN,
-Garrett Nussmeier / Lukas Van Ness,,OPEN,
-Marcel Reed / London Montgomery,,OPEN,
-Cam Skattebo / Lewis Bond,,OPEN,
-Sam Darnold / LeSean McCoy,,OPEN,
-Baker Mayfield / LeRoy Butler,,OPEN,
-Jackson Harris / Lawrence Taylor,,OPEN,
-Tory Blaylock / Lawayne McCoy,,OPEN,
-Brenen Thompson / Lathan Ransom,,OPEN,
-DeVonta Smith / Larry Fitzgerald,,OPEN,
-Elijah Sarratt / Landon Jackson,,OPEN,
-Ted Hurst / Lake McRee,,OPEN,
-Zavion Thomas / Kyle McCord,,OPEN,
-Dylan Lonergan / Kurtis Rourke,,OPEN,
-Micah Ford / Kris Jenkins,,OPEN,
-Daniel Jones / Kobie Turner,,OPEN,
-Eli Stowers / Kevin Durant,,OPEN,
-George Pickens / Kevin Coleman Jr.,,OPEN,
-Jaylen Waddle / Kendrick Bourne,,OPEN,
-Anthony Colandrea / Kelvin Banks Jr.,,OPEN,
-Jaden Craig / Keaton Mitchell,,OPEN,
-Bo Jackson (Ohio State) / Kamren Kinchens,,OPEN,
-Jared Curtis / Kam Chancellor,,OPEN,
-Micah Parsons / Kalel Mullings,,OPEN,
-Akheem Mesidor / Junior Colson,,OPEN,
-Avieon Terrell / Joshua Karty,,OPEN,
-Behren Morton / Josh Cuevas,,OPEN,
-Bryce Lance / Joseph Williams,,OPEN,
-CJ Allen / Joseph Himon II,,OPEN,
+Justin Joly / Jalon Daniels,6,SOLD,mikeyford
+Francis Mauigoa / Jeffrey Bassa,8,SOLD,mikeyford
+Carlos Del Rio-Wilson / Aaron Anderson / Adonai Mitchell / Reed Blankenship,5,SOLD,sunshine1230
+Jonah Coleman,4,SOLD,sunshine1230
+Jaylen Raynor / Derrick Moore / Jeremy Chinn,5,SOLD,sunshine1230
+Ashton Jeanty / Steve Atwater,3,SOLD,sunshine1230
+Colbie Young / John Riggins,8,SOLD,mikeyford
+Barry Sanders / Carlos Hernandez / Zane Durant,6,SOLD,mikeyford
+Baker Mayfield / LeRoy Butler,6,SOLD,theshopwithprinceandpops
+Mikey Matthews / Xavier Legette,7,SOLD,waykid2382
+Michael Wilson / MarShawn Lloyd,5,SOLD,sunshine1230
+Caleb Hawkins / Adam Vinatieri / Tucker Kraft,8,SOLD,packripnation
+Blake Miller / Ephesians Prysock / T.J. Hockenson,7,SOLD,mikeyford
+Chase Jenkins / Quincy Williams,7,SOLD,bigc53184
+King Miller / Tre Harris III / Kyle Monangai,6,SOLD,mikeyford
+Jaden Barnes / Kendrick Law / Jack Bech,5,SOLD,dometopper
+Chauncey Bowens / Yhonzae Pierre / Chris McClellan,6,SOLD,sunshine1230
+Jordan Gant / Byron Murphy II / Josh Hines-Allen,6,SOLD,waykid2382
+Braden Pegan / Audric Estime / Jaylen Warren,6,SOLD,mikeyford
+Daniel Hill Jr. / Tyrone Tracy Jr. / Dallas Goedert,5,SOLD,dometopper
+Amon-Ra St. Brown,7,SOLD,cimseb
+Terrance Carter Jr. / Duane Thomas Jr.,5,SOLD,theshopwithprinceandpops
+Anthony Smith / Eric Dickerson / Russell Wilson,6,SOLD,cimseb
+Sonny Styles / Michael Mayer,7,SOLD,sunshine1230
+Romello Height / Jabbar Muhammad,7,SOLD,packripnation
+Peyton Manning / AJ Surace,7,SOLD,packripnation
+Ryan Niblett / Katin Houser,9,SOLD,packripnation
+Bhayshul Tuten / Warren Sapp / Pat Freiermuth,7,SOLD,packripnation
+Jaron-Keawe Sagapolutele / Terrell Davis,10,SOLD,packripnation
+Jared Curtis / Kam Chancellor,13,SOLD,schmidty16843
+Bryson Washington / Andrew Van Ginkel / Oronde Gadsden,13,SOLD,rsnl012
+Jared Goff / Tony Romo,11,SOLD,packripnation
+Byrd Ficklin / Amarius Mims / Quinnen Williams,11,SOLD,packripnation
+Davante Adams / Dameon Pierce / Brian Robinson Jr.,11,SOLD,packripnation
+Jamal Roberts / Jalen Carter / Jamaal Charles,14,SOLD,passitmyway707
+Malik Willis / Michael Turner,13,SOLD,theshopwithprinceandpops
+Demond Williams Jr. / Paul Skenes,10,SOLD,slipperygoat
+Blake Corum / Kurt Warner / Pat Tillman,6,SOLD,rsnl012
+Kamario Taylor / Zakee Wheatley,13,SOLD,jakefis
+Rome Odunze / Jack Layne,10,SOLD,slipperygoat
+Jayshon Platt / Daylen Everette / Jerry Jeudy,10,SOLD,rsnl012
+Jayden Maiava / Samuel Harris,11,SOLD,jakefis
+Jalen Hurts / Darien Porter,9,SOLD,slipperygoat
+Caden Knighten / Aidan O'Connell / Robert Spillane,10,SOLD,slipperygoat
+Jayden Daniels,9,SOLD,jakefis
+Sammy Brown / Jordan Shipp,7,SOLD,cimseb
+Parker Washington / Chop Robinson,8,SOLD,jakefis
+Keldric Faulk / Jake Slaughter,7,SOLD,cimseb
+Lotzeir Brooks / Jaylen Wright / Mason Taylor,8,SOLD,rsnl012
+Bryce Fitzgerald / Anthony Gould / Mack Hollins,7,SOLD,rsnl012
+Andrei Iosivas / Chase Bisontis / Olamide Zaccheaus,8,SOLD,crownscleatschaos
+James Simon / Jacory Croskey-Merritt / Tez Johnson,8,SOLD,rsnl012
+Zion Young / J'Mari Taylor,8,SOLD,jakefis
+Drew Brees / Tyson Bagent / Quenton Nelson,7,SOLD,robbiebuckets
+Kyle Pitts Sr. / Michael Vick,8,SOLD,dakcard93
+Jamarion Morrow / Jaishawn Barham / James Conner,6,SOLD,robbiebuckets
+Nick Marsh / Malik Muhammad,7,SOLD,robbiebuckets
+Waymond Jordan / Malcolm Smith,8,SOLD,waykid2382
+Kewan Lacy / Will Shipley,7,SOLD,robbiebuckets
+Breece Hall / Trey Amos,7,SOLD,slipperygoat
+Bryce Underwood / Quincy Riley,8,SOLD,slipperygoat
+Kaden Wetjen / Albert Regis / Kevin Winston Jr.,7,SOLD,slipperygoat
+Cade Klubnik / Will Dissly,7,SOLD,waykid2382
+T.J. Moore / Luke Altmyer,4,SOLD,dakcard93
+#65,7,SOLD,jonlukeare
+Myles Garrett / Will Reichard,7,SOLD,robbiebuckets
+Arch Manning,5,SOLD,dakcard93
+Travis Kelce / Javonte Williams,9,SOLD,jakefis
+Max Iheanachor / Tony Pollard,3,SOLD,waykid2382
+Olaivavega Ioane / Terry McLaurin,8,SOLD,rsnl012
+Josh Hoover / Roschon Johnson,6,SOLD,jakefis
+Mansoor Delane / Richard Sherman,5,SOLD,rsnl012
+Marlin Klein / Jake Moody,3,SOLD,rsnl012
+Jalen Dupree / Joe Alt / Jake Ferguson,3,SOLD,waykid2382
+Colston Loveland / George Holani,10,SOLD,joseph880
+Brett Norfleet / Antwaun Powell-Ryland / Keenan Allen,4,SOLD,matthewphi39467
+Rodney Fields Jr. / Kyle Hamilton,6,SOLD,waykid2382
+Caleb Komolafe / Adam Thielen / Aaron Donald / Rashod Bateman,6,SOLD,sunshine1230
+Adam Randall / Evan Engram / Ricky Pearsall,7,SOLD,sunshine1230
+John Elway / Joe Anoa'i,7,SOLD,sunshine1230
+Cam Skattebo / Lewis Bond,7,SOLD,passitmyway707
+Jordyn Tyson,6,SOLD,joseph880
+Ryan Browne / Kayshon Boutte,7,SOLD,passitmyway707
+Drake Maye,7,SOLD,passitmyway707
+Emeka Egbuka / Seth Henigan,7,SOLD,passitmyway707
+Jacob Rodriguez / Javin Gordon,7,SOLD,passitmyway707
+Aidan Laughery / Bruce Matthews / Abdul Carter,7,SOLD,sunshine1230
+Malik Nabers,7,SOLD,passitmyway707
+Tyler Warren / Thurman Thomas,6,SOLD,joseph880
+Joe Jackson / Cornelius Bennett / Jonathan Allen,7,SOLD,passitmyway707
+Nick Emmanwori / Chase Hendricks / Chris Lindstrom,7,SOLD,sunshine1230
+Dezmen Roebuck / Dillon Gabriel / Uchenna Nwosu,8,SOLD,joseph880
+Jahmyr Gibbs,7,SOLD,sunshine1230
+Braelon Allen / Cameron Williams / Zion Elee,5,SOLD,joseph880
+Emmanuel McNeil-Warren / Jeremiah Trotter,5,SOLD,sunshine1230
+Joe Burrow,7,SOLD,mikeyford
+Zachariah Branch / Mike Singletary,6,SOLD,passitmyway707
+Kenny Minchey / Tony Boselli,7,SOLD,braylenbull
+Que'Sean Brown / Michael Pittman Jr.,5,SOLD,sunshine1230
+Caleb Williams,7,SOLD,jamoscardshop
+Aaron Rodgers,8,SOLD,passitmyway707
+Brian Thomas Jr. / Ezavier Crowell,8,SOLD,goingfullautumn
+Bucky Irving / Anthonie Knapp,6,SOLD,joseph880
+Khobie Martin / Tyquan Thornton / Kool-Aid McKinstry,7,SOLD,goingfullautumn
+Joe Montana / Caden High / Christian Kirk,10,SOLD,goingfullautumn
+Jayden Higgins / Emmitt Smith / Jaycee Horn,8,SOLD,joseph880
+Ja'Marr Chase,10,SOLD,passitmyway707
+Trey McBride,10,SOLD,goingfullautumn
+Evan Dickens / Quentin Johnston / Dion Dawkins,9,SOLD,goingfullautumn
+Broc Lowry / Anthony Muñoz / Kyler Murray,5,SOLD,joseph880
+Demon June / Tim Brown / David Montgomery,6,SOLD,mikeyford
+Aneyas Williams / Brandon Tullis / Chris Jones,7,SOLD,goingfullautumn
+Dak Prescott,6,SOLD,sunshine1230
+Keith Abney II / Jalen Coker,6,SOLD,cimseb
+Sire Gaines / Jamari Johnson,5,SOLD,joseph880
+Jake Merklinger / Josh Downs / Jacoby Brissett,6,SOLD,cimseb
+Leonard Moore / Kenneth Grant / Marcus Allen,7,SOLD,goingfullautumn
+Juelz Goff / Bernie Kosar / Julian Neal,6,SOLD,cimseb
+Emmett Johnson / Noah Whittington,7,SOLD,mrbababwak
+Benjamin Brahmer / Bo Jackson / Jack Campbell,11,SOLD,mrbababwak
+Malachi Hosley / Denzel Burke / Montez Sweat,10,SOLD,mrbababwak
+Skyler Bell / Mitchell Trubisky,11,SOLD,goingfullautumn
+Lawson Luckie / Deontae Lawson / Xavier Watts,6,SOLD,mrbababwak
+RJ Harvey / Oscar Delp,8,SOLD,mrbababwak
+Fernando Mendoza,7,SOLD,mrbababwak
+Fame Ijeboi / Nate Wiggins / Dylan Sampson,5,SOLD,joseph880
+Nolan James Jr. / Tre Spivey,3,SOLD,joseph880
+Alonza Barnett III / Donovan Ezeiruaku / Trevor Etienne,6,SOLD,waykid2382
+Cameron Dickey / Domani Jackson / Tyreek Hill,3,SOLD,joseph880
+Cataurus Hicks / Kamari Lassiter / Chris Godwin,6,SOLD,waykid2382
+Yannick Smith / Brett Eskildsen,7,SOLD,waykid2382
+Cam Ward / Tyler Guyton,9,SOLD,kg009
+Caleb Lomu / Jonathan Ogden,8,SOLD,waykid2382
+Zay Flowers / Ashton Bethel-Roman,8,SOLD,waykid2382
+Jeremiyah Love,6,SOLD,cj2000x
+Steve Young / Dante Moore / Andre Reed,6,SOLD,john_axle_intertube
+Collin Dixon / Jakobi Meyers / Wyatt Young,6,SOLD,chasecubsdaddy
+Drew Mestemaker,8,SOLD,chasecubsdaddy
+Sean Taylor / Athan Kaliakmanis / Eric Allen,7,SOLD,bradykay
+Deion Burks / Joe Flacco,7,SOLD,waykid2382
+CJ Stroud,7,SOLD,waykid2382
+Dan Marino / DeAngelo Hall,7,SOLD,waykid2382
+Tory Blaylock / Lawayne McCoy,6,SOLD,waykid2382
+Daniel Jones / Kobie Turner,7,SOLD,theo18744
+Cashius Howell / Dante Hall / Antoine Winfield Jr.,8,SOLD,theo18744
+Brad Jackson / Benjamin Morrison / Jayden Reed,7,SOLD,waykid2382
+Germie Bernard / Ty Law,7,SOLD,waykid2382
+Arvell Reese,7,SOLD,waykid2382
+Jadarian Price,7,SOLD,waykid2382
+Lamar Jackson / Steve Largent,7,SOLD,waykid2382
+Xavier Worthy / Tim Keenan III,8,SOLD,waykid2382
+Kendrick Raphael / Xavier McKinney / Khalil Shakir,7,SOLD,waykid2382
+Emmett Mosley V / Dez Bryant / Vita Vea,8,SOLD,waykid2382
+Jerry Rice / Henry To'oTo'o,7,SOLD,waykid2382
+Brock Bowers,7,SOLD,waykid2382
+Dallen Bentley / Joe Royer,6,SOLD,joseph880
+George Kittle / Tanner Koziol,6,SOLD,joseph880
+T.J. Parker / JT Tuimoloau,13,SOLD,waykid2382
+Bryson Donelson / Anthony Edwards / Mark Andrews,12,SOLD,ecollects1
+DeVonta Smith / Larry Fitzgerald,11,SOLD,mrbababwak
+Re'Shaun Sanford / Lucky Sutton,8,SOLD,natebuck54
+Josh Cameron / Jalon Kilgore,8,SOLD,natebuck54
+CJ Allen / Joseph Himon II,9,SOLD,roojo
+Cam Cook / Cooper Beebe / Budda Baker,9,SOLD,roojo
+Kenneth Walker III,11,SOLD,darrylkeys7
+#166,8,SOLD,thejuuglucky
+Carson Beck,8,SOLD,waykid2382
+Alessio Milivojevic / Brian Westbrook / Aidan Hutchinson,8,SOLD,waykid2382
+Caden Durham / Cooper Rush / Bud Clark,9,SOLD,dadgangcards
+DJ Vonnahme / Will Lee III / DaRon Bland,9,SOLD,dadgangcards
+James Cook / Nnamdi Madubuike,10,SOLD,dadgangcards
+CJ Carr,11,SOLD,hellothere18
+CeeDee Lamb / Sebastian Castro,7,SOLD,dadgangcards
+Malachi Lawrence / DJ Giddens / Brian Urlacher,8,SOLD,dadgangcards
+D'Andre Swift / Cam Pickett,8,SOLD,dadgangcards
+Ollie Gordon II / Kyri Shoels / Laremy Tunsil,9,SOLD,dadgangcards
+Bryce Young,7,SOLD,mark7tx
+Nate Boerkircher / Jake Elliott,7,SOLD,dadgangcards
+Dani Dennis-Sutton / Joe Milton III,8,SOLD,dadgangcards
+Keon Coleman / Matt Fuller,9,SOLD,dadgangcards
+Sutton Smith / Chris Marshall / Cameron Heyward,7,SOLD,carp301
+Akheem Mesidor / Junior Colson,7,SOLD,dadgangcards
+TreVeyon Henderson / Tory Horton,16,SOLD,carp301
+Amare Thomas / Brevyn Spann-Ford / Cam Vaughn,7,SOLD,natebuck54
+Will Howard / Sterling Sharpe,6,SOLD,joseph880
+Caleb Goodie / Ahmed Hassanein / Tre Richardson,7,SOLD,natebuck54
+Fred Warner / Calen Bullock / Quinn Meinerz,7,SOLD,waykid2382
+Quinshon Judkins / Tyrod Taylor,7,SOLD,waykid2382
+Cooper Kupp / Aaron Flowers,7,SOLD,waykid2382
+Sidney Stewart / Jayden Scott,6,SOLD,joseph880
+Caleb Douglas / Wayne Knight,8,SOLD,waykid2382
+Antwann Hill Jr. / Boomer Esiason / Creed Humphrey,7,SOLD,waykid2382
+Harold Fannin Jr. / Brandon Aubrey,7,SOLD,natebuck54
+Will Anderson Jr. / Cedric Tillman / Chig Okonkwo,6,SOLD,waykid2382
+Anthony Colandrea / Kelvin Banks Jr.,7,SOLD,carp301
+Sam LaPorta / Elijah Brown / Derwin James,7,SOLD,jfan04
+Colton Joseph / Howie Long,7,SOLD,jfan04
+Terrell Anderson / Dawson Knox,7,SOLD,jfan04
+Kyren Williams / Riley Leonard,7,SOLD,waykid2382
+Jaxon Smith-Njigba,6,SOLD,carp301
+Kaden Shields-Dutton / Andre Johnson / Kenny Clark,6,SOLD,waykid2382
+Micah Parsons / Kalel Mullings,6,SOLD,waykid2382
+Ethan Hampton / T'Vondre Sweat / Dexter Lawrence II,6,SOLD,waykid2382
+Gio Lopez / Mike Alstott / Evan McPherson,6,SOLD,waykid2382
+Colton Hood / Joe Thomas,7,SOLD,waykid2382
+Rodney Tisdale Jr. / Keyjuan Brown,5,SOLD,joseph880
+CJ Daniels / Jordan Napier,6,SOLD,waykid2382
+Eli Heidenreich / Spencer Rattler / Derrick Brown,6,SOLD,waykid2382
+Zavion Thomas / Kyle McCord,6,SOLD,mikeyford
+Antonio Williams / Robert Henry Jr.,7,SOLD,davidkli58853
+Kenyon Sadiq / Frank Gore,6,SOLD,waykid2382
+Antwan Raymond / Brady Cook / Cooper DeJean,7,SOLD,moxydave
+Randy Moss / Brandon Cisse,6,SOLD,waykid2382
+Caleb Banks / Jordan James,7,SOLD,johncon74219
+Chris Olave / DeMarco Murray,7,SOLD,johncon74219
+Cole Payton / Malaki Starks,7,SOLD,johncon74219
+KK Smith / Anquan Boldin / Kenneth Gainwell,7,SOLD,waykid2382
+Mike Evans / Darnell Washington,7,SOLD,cimseb
+Kirk Cousins / Kevin Riley / Will Johnson,7,SOLD,waykid2382
+Pat Surtain II / Raiden Vines-Bright,6,SOLD,joseph880
+Rueben Bain Jr. / Mykel Williams,6,SOLD,cimseb
+Christian Gonzalez / Alvin Kamara,7,SOLD,johncon74219
+Sam Darnold / LeSean McCoy,7,SOLD,cj2000x
+Eric Winters / Reggie Virgil / Devontez Walker,8,SOLD,cimseb
+DeJuan Williams / Tre Tucker / Darnell Wright,8,SOLD,cimseb
+Carnell Tate,7,SOLD,moxydave
+Alex Perry / Brian Dawkins / Brett Favre,9,SOLD,waykid2382
+Ty Simpson,8,SOLD,njschiller
+Jaylen Waddle / Kendrick Bourne,7,SOLD,cimseb
+Demond Claiborne / Jim McMahon,8,SOLD,dadgangcards
+Garrett Nussmeier / Lukas Van Ness,7,SOLD,cj2000x
+Aaron Philo / Graham Barton,8,SOLD,cimseb
+Mike Washington Jr. / Nic Scourton,8,SOLD,waykid2382
+D'Angelo Ponds / Emmanuel Henderson Jr. / Talanoa Hufanga,10,SOLD,waykid2382
+Adrian Peterson / Jihaad Campbell / Caleb Tiernan,10,SOLD,seanmcl73043
+Kaelon Black / Ricky White,8,SOLD,waykid2382
+John Henry Daley / Christian Okoye / Jordan Mailata,7,SOLD,cj2000x
+Deion Sanders / Mandrell Desir / Nakobe Dean,7,SOLD,cimseb
+Adam Mohammed / Caden Curry / Travis Etienne Jr.,6,SOLD,cimseb
+Chris Johnson / Braylon Staley / Christian Benford,6,SOLD,waykid2382
+Eli Manning / Ja'Tavion Sanders / Quinn Ewers,7,SOLD,cj2000x
+Dwight Phillips Jr. / Taysom Hill / Demario Davis,9,SOLD,waykid2382
+CJ Brown / Amari Odom / Rashid Shaheed,7,SOLD,cj2000x
+Scotty Fox Jr. / Jekail Middlebrook,5,SOLD,cimseb
+Brian Branch / Will Levis / Quay Walker,1,SOLD,njschiller
+Bear Bachmeier / Shemar Stewart,7,SOLD,cimseb
+Isaiah Bond / Luke McCaffrey / Grant Delpit,6,SOLD,njschiller
+David Bailey / Tony Gonzalez,8,SOLD,smooth__operator
+Makai Lemon,7,SOLD,cappscardbreaks
+Nik McMillan / Vicari Swain,6,SOLD,njschiller
+Jordan Love,8,SOLD,stautzy10
+Baylor Hayes / Bob Griese / Hunter Henry,8,SOLD,nico1288
+Brenen Thompson / Lathan Ransom,8,SOLD,dadgangcards
+Eli Stowers / Kevin Durant,10,SOLD,stautzy10
+Jack Endries / Edgerrin James / Terrance Ferguson,8,SOLD,dadgangcards
+LT Overton / Dylan Wade / Tommy Tremble,10,SOLD,stautzy10
+Cutter Boley / Michael Trigg,11,SOLD,packripnation
+Jai'Den Thomas / Kaleb Johnson / Jack Ham,9,SOLD,stautzy10
+Adam Schobel / Cade Stover / AJ Barner,10,SOLD,packripnation
+De'Zhaun Stribling / Tyrique Tucker,8,SOLD,dadgangcards
+KJ Jackson / Antonio Gates / K'Lavon Chaisson,9,SOLD,stautzy10
+Marco Jones / DeMarvion Overshown / Nick Bolton,9,SOLD,nico1288
+London Humphreys / Jimmy Horn Jr. / Mason Graham,2,SOLD,stautzy10
+Michael Penix Jr. / Darrelle Revis,3,SOLD,stautzy10
+Josh Allen,6,SOLD,cimseb
+Marvis Parrish / Chimere Dike / Nick Bosa,5,SOLD,packripnation
+Derrick Henry / Roger Craig,6,SOLD,packripnation
+Marcel Reed / London Montgomery,4,SOLD,h2oworth4
+Woody Marks / Chris Braswell / Champ Bailey,7,SOLD,packripnation
+Mason Heintschel / Deone Walker / Zach Allen,8,SOLD,packripnation
+Parker Livingstone / Terrell Suggs,8,SOLD,packripnation
+Darian Mensah,8,SOLD,jakefis
+Christian McCaffrey,3,SOLD,jamoscardshop
+Cooper Barkate / Zach Charbonnet / Will Hammond,5,SOLD,jakefis
+Ted Hurst / Lake McRee,4,SOLD,jakefis
+Nick Singleton / Smael Mondon Jr.,3,SOLD,kg009
+De'Von Achane / Walter Nolen,5,SOLD,fatboycardco
+KC Concepcion,5,SOLD,joseph880
+Jerome Myles / Derrick Harmon / Wayne Chrebet,5,SOLD,natsfan2019
+Elijah Sarratt / Landon Jackson,6,SOLD,bigboyz_breakz
+Bijan Robinson,6,SOLD,bigboyz_breakz
+Bo Jackson (Ohio State) / Kamren Kinchens,6,SOLD,jheath34
+Rashee Rice / Marvin Harrison Jr.,6,SOLD,haleysea
+Kayden McDonald / Jalen Tolbert,7,SOLD,johncon74219
+Lunch Winfield / Cole Bishop / Byron Young,6,SOLD,johncon74219
+Tiger Bachmeier / Dalton Kincaid,8,SOLD,bigboyz_breakz
+J'Koby Williams / Kyle Juszczyk / Isaiah Likely,7,SOLD,johncon74219
+Micahi Danzy / Tyjae Spears,9,SOLD,thecardfather01
+Jaron Tibbs / Genesis Smith / Jauan Jennings,8,SOLD,natsfan2019
+Gavin Freeman / Mike Sainristil / Eddie George,8,SOLD,natsfan2019
+Walter Payton / Devon Witherspoon,8,SOLD,mikeyford
+LaNorris Sellers / Ty Clark III,8,SOLD,jheath34
+Ja'Kobi Lane / Rico Dowdle,10,SOLD,natsfan2019
+Nick Minicucci / Cobee Bryant / Cameron Dicker,7,SOLD,bigboyz_breakz
+Kirby Vorhees / Travon Walker / Kyle Williams,9,SOLD,bigboyz_breakz
+Jeremiah Hasley / Dallas Turner / Joe Thuney,10,SOLD,natsfan2019
+Na'eem Abdul-Rahim Gladding / Yamir Knight,8,SOLD,thecardfather01
+Travis Hunter / J.J. McCarthy,8,SOLD,bigboyz_breakz
+Rob Gronkowski / Cederian Morgan,8,SOLD,natsfan2019
+Monroe Freeling / Drew Lock / Tony Dorsett,6,SOLD,joseph880
+Luther Burden III / Vince Young,7,SOLD,bigboyz_breakz
+Bo Nix,6,SOLD,joseph880
+CharMar Brown / Isaiah World,6,SOLD,michaeltho34242
+Chuba Hubbard / Bryson Kuzdzal,9,SOLD,michaeltho34242
+Carson Schwesinger / Luke Musgrave,10,SOLD,johncon74219
+Jalen Smith / Jalon Walker / Jalen Milroe,10,SOLD,michaeltho34242
+Ladd McConkey / Ozzie Newsome,10,SOLD,theshopwithprinceandpops
+TJ Abrams / Isaiah West,11,SOLD,johncon74219
+Donte Lee Jr. / Theo Johnson / DeForest Buckner,10,SOLD,michaeltho34242
+Fluff Bothwell / Romeo Doubs,11,SOLD,stautzy10
+Bryce Lance / Joseph Williams,10,SOLD,michaeltho34242
+Makhi Hughes / Isiah Pacheco / Minkah Fitzpatrick,11,SOLD,michaeltho34242
+Dylan Riley / Tacario Davis / Derek Stingley Jr.,9,SOLD,michaeltho34242
+Matthew Stafford,10,SOLD,stautzy10
+Chris Brazzell II / Maurice Jones-Drew,11,SOLD,michaeltho34242
+Jeremiah Cobb / Davison Igbinosun / Jevon Kearse,8,SOLD,michaeltho34242
+Jayden Limar / Dont'e Thornton Jr. / Jeffery Simmons,10,SOLD,stautzy10
+Cam Coleman / Payton Wilson,11,SOLD,nhorvath08
+Max Klare / Marist Liufau,11,SOLD,michaeltho34242
+Jameson Williams / William Perry,13,SOLD,nhorvath08
+Jermod McCoy / James Lofton,15,SOLD,michaeltho34242
+Jake Golday / Jared Verse,15,SOLD,michaeltho34242
+Omarion Hampton / Garrett Oakley,13,SOLD,nhorvath08
+Micah Ford / Kris Jenkins,17,SOLD,michaeltho34242
+Justin Herbert / Troy Polamalu,13,SOLD,nhorvath08
+Nico Collins / Graham Mertz,15,SOLD,michaeltho34242
+Ja'Kyrian Turner / Keylan Rutledge / J.K. Dobbins,15,SOLD,michaeltho34242
+Mason Mini / Cade Otton / Nik Bonitto,15,SOLD,kylek4
+Shedeur Sanders / Chris Barnes / Charles Woodson,13,SOLD,michaeltho34242
+Jeremiah McClellan / Cris Carter / Joey Porter Jr.,11,SOLD,robert88379
+Anthony Hill Jr. / Ethan Davis / Ricky Williams,14,SOLD,michaeltho34242
+Jaxson Dart,15,SOLD,michaeltho34242
+Isiah Canion / Luke Kuechly / Gunnar Helm,18,SOLD,michaeltho34242
+Jalen McMillan / Anthony Richardson / Rachaad White,15,SOLD,nhorvath08
+Brock Purdy,17,SOLD,nhorvath08
+Tom Brady,15,SOLD,michaeltho34242
+Roquan Smith / Calvin Ridley,14,SOLD,robert88379
+Turbo Richard / Deebo Samuel,15,SOLD,nhorvath08
+Matthew Golden / Michael Irvin,15,SOLD,michaeltho34242
+Dylan Lonergan / Kurtis Rourke,14,SOLD,michaeltho34242
+Danny Scudero / Trey Benson / Darius Slayton,14,SOLD,robert88379
+Drew Allar / Taylor Wein,14,SOLD,michaeltho34242
+Puka Nacua,16,SOLD,nhorvath08
+Behren Morton / Josh Cuevas,15,SOLD,michaeltho34242
+Aaron Jones Sr. / Cyrus Allen / Bryan Bresee,15,SOLD,michaeltho34242
+Joshua Moore / Brenton Strange / Josiah Trotter,13,SOLD,robert88379
+Jonathan Taylor,15,SOLD,michaeltho34242
+Kaelan Chudzinski / A.J. Haulcy / Khalil Mack,13,SOLD,robert88379
+Jackson Harris / Lawrence Taylor,15,SOLD,theshopwithprinceandpops
+Tre Brown III / Cyncir Bowers,15,SOLD,robert88379
+Patrick Mahomes II,14,SOLD,nhorvath08
+Spencer Fano / Donovan Jackson / Trent McDuffie,9,SOLD,theshopwithprinceandpops
+Tee Higgins / Warren Moon,7,SOLD,robert88379
+Sam Roush / Ja'Lynn Polk,10,SOLD,robert88379
+Kwazi Gilmer / Savion Williams / Laiatu Latu,10,SOLD,michaeltho34242
+Cole Tabb / Lee Hunter / Zahir Mathis,10,SOLD,robert88379
+Jayden Jackson / Elic Ayomanor / Jaylon Johnson,7,SOLD,robert88379
+Josh Jacobs / Trent Williams,9,SOLD,robert88379
+Dillon Thieneman / Jim Kelly,8,SOLD,robert88379
+Trevor Lawrence,9,SOLD,michaeltho34242
+Omar Cooper Jr.,7,SOLD,robert88379
+Eli Raridon / Jerome Bettis,8,SOLD,thecardfather01
+Christian Watson / Bill Davis,8,SOLD,stautzy10
+Tua Tagovailoa / JJ Buchanan,7,SOLD,robert88379
+DK Metcalf / Rod Woodson,8,SOLD,robert88379
+KJ Duff / Archie Manning / Juwan Johnson,9,SOLD,michaeltho34242
+T.J. Watt / Miller Moss,7,SOLD,robert88379
+Chase Brown / Victor Snow,7,SOLD,michaeltho34242
+JC French IV / Maxwell Hairston,8,SOLD,robert88379
+DJ Moore / Edgerrin Cooper,7,SOLD,batwad
+Cam Little / Jonathan Mingo,7,SOLD,robert88379
+Justin Jefferson,7,SOLD,nchristncoach2020
+Hollywood Smothers / Malik Washington / George Karlaftis,5,SOLD,batwad
+Garrett Wilson / Von Miller,5,SOLD,blue_973
+Harold Perkins Jr. / Javon Bullard,6,SOLD,waykid2382
+Alec Pierce / Isaac TeSlaa / Noah Sewell,5,SOLD,batwad
+Chris Bell / Shavon Revel Jr.,5,SOLD,wilpau57537
+Drake London / Roman Hemby,6,SOLD,laurhoms86
+Taylen Green / Luke Schoonmaker,5,SOLD,ecollects1
+Courtland Sutton / Dan Fouts / Brian Burns,6,SOLD,alaskanbullworrm
+Tetairoa McMillan,5,SOLD,nchristncoach2020
+Teitum Tuioti / Griffin Wilde,6,SOLD,cameronwhi78358
+Graceson Littleton / Marvin Mims Jr. / Geno Smith,7,SOLD,cameronwhi78358
+Tyler Shough,7,SOLD,cameronwhi78358
+Dylan Lee / Tank Bigsby / Denzel Ward,7,SOLD,ecollects1
+Peter Woods / Jacob Cowing,7,SOLD,in_the_hyphen
+Avieon Terrell / Joshua Karty,6,SOLD,batwad
+Kaytron Allen / Jalen Royals,7,SOLD,2wayyjay
+Seth McGowan / Dontayvion Wicks / Torry Holt,7,SOLD,batwad
+Ca'Lil Valentine / Allen Lazard / Rhamondre Stevenson,7,SOLD,olliescardvault
+Daniel Kaelin / Troy Aikman / Dalton Schultz,7,SOLD,olliescardvault
+Caleb Downs,7,SOLD,jamoscardshop
+Ray Lewis / Art Monk,7,SOLD,nhorvath08
+George Pickens / Kevin Coleman Jr.,6,SOLD,ecollects1
+Saquon Barkley / Taurean York,6,SOLD,nchristncoach2020
+Omarion Miller / Tae Meadows,7,SOLD,bigboyz_breakz
+Jaden Craig / Keaton Mitchell,7,SOLD,bigboyz_breakz
+Malachi Fields / Nick Chubb,7,SOLD,bigboyz_breakz
+Jordan Addison / Christen Miller / Jordan Whittington,5,SOLD,ecollects1
+Maxx Crosby / Darren Waller,7,SOLD,robbiebuckets
+Denzel Boston,9,SOLD,bigboyz_breakz
+Sauce Gardner / Trey Hendrickson,3,SOLD,michaeltho34242

@@ -1,0 +1,44 @@
+spot,price,state,buyer
+Philadelphia Eagles,255,SOLD,vegasmann
+Detroit Lions,280,SOLD,vegasmann
+Los Angeles Rams,275,SOLD,vegasmann
+New England Patriots,274,SOLD,vegasmann
+Cincinnati Bengals,270,SOLD,vegasmann
+Chicago Bears,254,SOLD,vegasmann
+Buffalo Bills,265,SOLD,meykel67
+Kansas City Chiefs,270,SOLD,vegasmann
+Green Bay Packers,265,SOLD,meykel67
+#10,256,SOLD,vegasmann
+#11,237,SOLD,meykel67
+Cleveland Browns,250,SOLD,meykel67
+Los Angeles Chargers,235,SOLD,ccline301
+#14,246,SOLD,meykel67
+MISC,235,SOLD,vegasmann
+Denver Broncos,227,SOLD,ccline301
+Minnesota Vikings,227,SOLD,ccline301
+#18,128,SOLD,meykel67
+Dallas Cowboys,180,SOLD,meykel67
+#20,145,SOLD,ccline301
+#21,115,SOLD,jksportkc
+San Francisco 49ers,128,SOLD,ccline301
+#23,130,SOLD,ccline301
+#24,145,SOLD,ryanbeck19637
+Washington Commanders,150,SOLD,meykel67
+New York Giants,120,SOLD,phill_mianis
+#27,61,SOLD,justinhal51722
+Atlanta Falcons,94,SOLD,justinhal51722
+Miami Dolphins,60,SOLD,codered57
+Baltimore Ravens,76,SOLD,ryanbeck19637
+#31,75,SOLD,ccline301
+Tampa Bay Buccaneers,83,SOLD,doghouse_breaks
+#33,84,SOLD,jksportkc
+Pittsburgh Steelers,84,SOLD,jksportkc
+Houston Texans,65,SOLD,jay2141
+Las Vegas Raiders,1,SOLD,derdel78099
+Jacksonville Jaguars,4,SOLD,jameshung
+Seattle Seahawks,8,SOLD,jameshung
+Carolina Panthers,11,SOLD,jameshung
+Tennessee Titans,10,SOLD,doghouse_breaks
+Indianapolis Colts,5,SOLD,jameshung
+Arizona Cardinals,6,SOLD,cothernandson
+"New Orleans Saints, New York Jets",10,SOLD,jameshung

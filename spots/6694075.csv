@@ -1,33 +1,37 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+Los Angeles Rams,3,SOLD,atc_breaks
+Atlanta Falcons,6,SOLD,atc_breaks
+Carolina Panthers,8,SOLD,atc_breaks
+Tradeback,10,SOLD,atc_breaks
+Green Bay Packers,8,SOLD,trohal
+Minnesota Vikings,9,SOLD,hbpb4life
+Denver Broncos,10,SOLD,atc_breaks
+Detroit Lions,10,SOLD,rosco614
+Tennessee Titans,11,SOLD,atc_breaks
+Cincinnati Bengals,10,SOLD,hbpb4life
+Las Vegas Raiders,11,SOLD,atc_breaks
+Tradeback,10,SOLD,hbpb4life
+Dallas Cowboys,11,SOLD,freddiecru74329
+New York Giants,11,SOLD,jeffbaker10
+Miami Dolphins,10,SOLD,atc_breaks
+San Francisco 49ers,12,SOLD,josh24307
+Washington Commanders,8,SOLD,josh24307
+Baltimore Ravens,14,SOLD,freddiecru74329
+Tradeback,12,SOLD,josh24307
+Kansas City Chiefs,14,SOLD,josh24307
+Indianapolis Colts,12,SOLD,josh24307
+Arizona Cardinals,11,SOLD,acoraptor
+New York Jets,11,SOLD,josh24307
+Jacksonville Jaguars,10,SOLD,acoraptor
+#25,10,SOLD,atc_breaks
+New Orleans Saints,11,SOLD,meansilverback
+Tampa Bay Buccaneers,11,SOLD,josh24307
+Buffalo Bills,10,SOLD,acoraptor
+New England Patriots,13,SOLD,dbradley86
+Chicago Bears,9,SOLD,josh24307
+Pittsburgh Steelers,13,SOLD,dbradley86
+Los Angeles Chargers,6,SOLD,dbradley86
+Houston Texans,8,SOLD,jeffbaker10
+Seattle Seahawks,13,SOLD,jaydenruiz39
+Cleveland Browns,17,SOLD,hbpb4life
+#36,14,SOLD,hbpb4life

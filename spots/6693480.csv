@@ -1,0 +1,20 @@
+spot,price,state,buyer
+Green Bay Packers,34,SOLD,saymike
+New York Giants,35,SOLD,saymike
+Kansas City Chiefs,33,SOLD,saymike
+Arizona Cardinals,38,SOLD,saymike
+Carolina Panthers,32,SOLD,saymike
+Cleveland Browns,40,SOLD,richhomiecod
+Los Angeles Rams,37,SOLD,parkward7
+Houston Texans,37,SOLD,zaidnasty
+Las Vegas Raiders,84,SOLD,richhomiecod
+"Jacksonville Jaguars, Minnesota Vikings",85,SOLD,jakemel36232
+"Dallas Cowboys, Pittsburgh Steelers",68,SOLD,jakemel36232
+Denver Broncos,35,SOLD,richhomiecod
+San Francisco 49ers,35,SOLD,zaidnasty
+Indianapolis Colts,32,SOLD,davidspa93822
+Detroit Lions,39,SOLD,davidspa93822
+Miami Dolphins,35,SOLD,richhomiecod
+Philadelphia Eagles,36,SOLD,richhomiecod
+Buffalo Bills,42,SOLD,dfrm630
+#19,1,OPEN,

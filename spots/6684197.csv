@@ -2,17 +2,12 @@ spot,price,state,buyer
 Washington State,7,SOLD,poedaniel
 Ole Miss,7,SOLD,poedaniel
 Michigan,7,SOLD,serpal
-#4,8,SOLD,cmac617
 Arizona,7,SOLD,cmac617
 Pittsburgh,7,SOLD,poedaniel
-#7,7,SOLD,poedaniel
-#8,7,SOLD,cforr32
 Marshall,7,SOLD,71mm71
 TCU,7,SOLD,cforr32
-Missouri,7,SOLD,cforr32
 "California, Miami",18,SOLD,71mm71
 Iowa State,7,SOLD,poedaniel
-UConn,8,SOLD,cforr32
 "High School - Caleb Williams, High School - Peyton Manning",18,SOLD,ianatt70797
 Baylor,10,SOLD,poedaniel
 Miami (OH),18,SOLD,ianatt70797
@@ -32,7 +27,54 @@ Texas,7,SOLD,71mm71
 Penn State,7,SOLD,71mm71
 Tennessee,7,SOLD,cmac617
 BYU,7,SOLD,cmac617
-#36,7,SOLD,cmac617
 Georgia,7,SOLD,qobby24
-#38,7,SOLD,qobby24
-#39,1,OPEN,
+(Trade-In),8,SOLD,cmac617
+(Trade-In),7,SOLD,poedaniel
+Stanford,7,SOLD,cforr32
+(Trade-In),7,SOLD,cforr32
+(Trade-In),8,SOLD,cforr32
+(Trade-In),7,SOLD,cmac617
+(Trade-In),7,SOLD,qobby24
+High School - Josh Allen,7,SOLD,sportscollectorsyndicate
+LSU,7,SOLD,sportscollectorsyndicate
+Maryland,7,SOLD,sportscollectorsyndicate
+Rutgers,7,SOLD,sportscollectorsyndicate
+Western Kentucky,7,SOLD,sportscollectorsyndicate
+Mississippi State,7,SOLD,sportscollectorsyndicate
+Cincinnati,7,SOLD,sportscollectorsyndicate
+Syracuse,7,SOLD,cjlink1925
+Kentucky,7,SOLD,sportscollectorsyndicate
+Georgia Tech,10,SOLD,icollectcards619
+West Virginia,10,SOLD,icollectcards619
+San Diego State,7,SOLD,sportscollectorsyndicate
+(Trade-In),7,SOLD,cforr32
+Toledo,7,SOLD,dwdiego
+Western Michigan,7,SOLD,sportscollectorsyndicate
+North Carolina,7,SOLD,sportscollectorsyndicate
+Duke,7,SOLD,sportscollectorsyndicate
+Tulane,7,SOLD,sportscollectorsyndicate
+South Carolina,7,SOLD,sportscollectorsyndicate
+Akron,8,SOLD,sportscollectorsyndicate
+UCLA,8,SOLD,sportscollectorsyndicate
+Wisconsin,7,SOLD,sportscollectorsyndicate
+"Auburn, USC",18,SOLD,ianatt70797
+Middle Tennessee,7,SOLD,sportscollectorsyndicate
+Utah State,7,SOLD,sportscollectorsyndicate
+Indiana,7,SOLD,sportscollectorsyndicate
+Colorado,7,SOLD,dkz1314
+Virginia Tech,7,SOLD,dkz1314
+"Houston, Louisiana",18,SOLD,dkz1314
+Minnesota,7,SOLD,dkz1314
+"Arizona State, Florida State",18,SOLD,dkz1314
+(Trade-In),8,SOLD,dwdiego
+"UConn, Colorado State",19,SOLD,bennypeppers
+Boston College,10,SOLD,dwdiego
+James Madison,8,SOLD,cforr32
+"Michigan State, Illinois",18,SOLD,ianatt70797
+USF,7,SOLD,dtruitt
+"Delaware, Louisville",19,SOLD,dtruitt
+"Wyoming, Iowa",19,SOLD,soonerlater
+"Purdue, Texas A&M",19,SOLD,soonerlater
+"Missouri, Tulsa",23,SOLD,soonerlater
+"Notre Dame, Oregon",26,SOLD,cardsdepottexas
+"Kansas, NC State, Hawaii, NIU, UAB",19,SOLD,soonerlater
