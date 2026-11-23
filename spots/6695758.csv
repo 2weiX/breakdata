@@ -1,33 +1,34 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+Kansas City Chiefs,5,SOLD,ibsports
+Los Angeles Rams,5,SOLD,grimm50
+Pittsburgh Steelers,5,SOLD,grimm50
+Cincinnati Bengals,5,SOLD,grimm50
+Chicago Bears,5,SOLD,grimm50
+New Orleans Saints,5,SOLD,thestufstore
+Tampa Bay Buccaneers,5,SOLD,thestufstore
+Dallas Cowboys,5,SOLD,mikeash1971
+Atlanta Falcons,5,SOLD,mikeash1971
+Carolina Panthers,5,SOLD,bigsexymn007
+Las Vegas Raiders,5,SOLD,bigsexymn007
+Cleveland Browns,5,SOLD,bigsexymn007
+Arizona Cardinals,6,SOLD,blessedthrills
+San Francisco 49ers,5,SOLD,bigsexymn007
+Baltimore Ravens,6,SOLD,blessedthrills
+Minnesota Vikings,5,SOLD,bigsexymn007
+Seattle Seahawks,5,SOLD,bigsexymn007
+New York Giants,5,SOLD,blakeingram
+Detroit Lions,5,SOLD,blakeingram
+Indianapolis Colts,5,SOLD,flxbreaks
+#21,5,SOLD,blessedthrills
+Green Bay Packers,5,SOLD,flxbreaks
+Houston Texans,5,SOLD,bigsexymn007
+New York Jets,5,SOLD,leothetrader
+Buffalo Bills,5,SOLD,bigsexymn007
+Miami Dolphins,5,SOLD,brunoboys3
+Jacksonville Jaguars,5,SOLD,brunoboys3
+Philadelphia Eagles,5,SOLD,brunoboys3
+New England Patriots,5,SOLD,brunoboys3
+Washington Commanders,5,SOLD,brunoboys3
+Tennessee Titans,5,SOLD,brunoboys3
+Denver Broncos,5,SOLD,brunoboys3
+#33,1,OPEN,

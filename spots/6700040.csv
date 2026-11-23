@@ -1,0 +1,26 @@
+spot,price,state,buyer
+Kansas City Chiefs,81,SOLD,jvm021
+Jacksonville Jaguars,84,SOLD,jvm021
+#3,90,SOLD,jvm021
+Los Angeles Chargers,90,SOLD,jvm021
+Buffalo Bills,88,SOLD,jvm021
+Las Vegas Raiders,86,SOLD,jvm021
+Seattle Seahawks,93,SOLD,mnsportsguys23
+Chicago Bears,100,SOLD,mnsportsguys23
+San Francisco 49ers,89,SOLD,jvm021
+Denver Broncos,107.8,SOLD,mnsportsguys23
+Tampa Bay Buccaneers,116,SOLD,mnsportsguys23
+Washington Commanders,105,SOLD,mnsportsguys23
+Minnesota Vikings,127,SOLD,jvm021
+Tennessee Titans,110,SOLD,mnsportsguys23
+Carolina Panthers,120,SOLD,mnsportsguys23
+New York Giants,138,SOLD,mnsportsguys23
+Los Angeles Rams,122.5,SOLD,mnsportsguys23
+Dallas Cowboys,115,SOLD,jvm021
+New Orleans Saints,112,SOLD,jvm021
+#20,106,SOLD,4petesake44
+Detroit Lions,118,SOLD,jvm021
+Philadelphia Eagles,91,SOLD,4petesake44
+#23,87,SOLD,jvm021
+Atlanta Falcons,94,SOLD,jvm021
+#25,1,OPEN,
