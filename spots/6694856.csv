@@ -1,33 +1,23 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+Seattle Seahawks,14,SOLD,jaekelinho
+Baltimore Ravens,14,SOLD,aleteu
+Cincinnati Bengals,18,SOLD,tobigr19
+Detroit Lions,14,SOLD,aquaorangecollector_1
+Miami Dolphins,14,SOLD,aquaorangecollector_1
+Los Angeles Rams,11,SOLD,aquaorangecollector_1
+Dallas Cowboys,14,SOLD,flex157
+Kansas City Chiefs,14,SOLD,craden1181
+New England Patriots,18,SOLD,tobigr19
+Los Angeles Chargers,12,SOLD,aquaorangecollector_1
+Minnesota Vikings,14,SOLD,flex157
+New York Jets,14,SOLD,niners46
+Green Bay Packers,14,SOLD,annashaa
+New Orleans Saints,14,SOLD,craden1181
+Buffalo Bills,14,SOLD,sir_muche888
+Arizona Cardinals,14,SOLD,totocards
+Denver Broncos,13,SOLD,aquaorangecollector_1
+San Francisco 49ers,14,SOLD,niners46
+Atlanta Falcons,18,SOLD,koeter88
+"Las Vegas Raiders, New York Giants",18,SOLD,totocards
+Washington Commanders,14,SOLD,aquaorangecollector_1
+#22,1,OPEN,

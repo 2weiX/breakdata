@@ -1,12 +1,12 @@
 spot,price,state,buyer
 Division 1,16,SOLD,atc_breaks
-Division 2,15,SOLD,jasonscottmcfarland
-Division 3,17,SOLD,cojo_collects
-Division 4,15,SOLD,froggyfly1981
-Division 5,22,SOLD,cojo_collects
-Division 6,19,SOLD,froggyfly1981
 Division 7,15,SOLD,atc_breaks
+Division 4,15,SOLD,froggyfly1981
 Division 8,15,SOLD,atc_breaks
+Division 11,14,SOLD,froggyfly1981
 Division 9,22,SOLD,jasonscottmcfarland
 Division 10,31,SOLD,jasonscottmcfarland
-Division 11,14,SOLD,froggyfly1981
+Division 6,19,SOLD,froggyfly1981
+Division 5,22,SOLD,cojo_collects
+Division 3,17,SOLD,cojo_collects
+Division 2,15,SOLD,jasonscottmcfarland

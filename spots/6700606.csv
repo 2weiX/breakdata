@@ -1,31 +1,29 @@
 spot,price,state,buyer
-Arizona Cardinals,35,OPEN,
+Arizona Cardinals,24,OPEN,
 Atlanta Falcons,10,OPEN,
-Baltimore Ravens,20,OPEN,
-Buffalo Bills,35,OPEN,
-Carolina Panthers,25,OPEN,
+Baltimore Ravens,20,SOLD,yumz
+Buffalo Bills AND JAGS AND SEAHAWKS,40,SOLD,joedelano
+Carolina Panthers,15,OPEN,
 Chicago Bears,10.5,SOLD,henrys4x4
 Cincinnati Bengals,20,SOLD,lionsallday269714
 Cleveland Browns,15,OPEN,
-Dallas Cowboys,30,OPEN,
+Dallas Cowboys,19,OPEN,
 Denver Broncos,20,SOLD,rileymil27376
-Detroit Lions,20,OPEN,
+Detroit Lions,15,OPEN,
 Houston Texans,10,OPEN,
 Indianapolis Colts,10,OPEN,
-Jacksonville Jaguars,10,OPEN,
-Kansas City Chiefs,40,OPEN,
+Kansas City Chiefs,25,OPEN,
 Las Vegas Raiders,55.25,SOLD,nhawk91
 Los Angeles Chargers AND JETS,13,SOLD,stratosberg
-Los Angeles Rams,40,OPEN,
-Miami Dolphins,15,OPEN,
+Los Angeles Rams,15,OPEN,
+Miami Dolphins,10,OPEN,
 Minnesota Vikings,15,SOLD,stratosberg
-New England Patriots,40,OPEN,
-New Orleans Saints,25,OPEN,
+New England Patriots,40,SOLD,sullsmky
+New Orleans Saints,20,OPEN,
 New York Giants,15,OPEN,
 Philadelphia Eagles,15,OPEN,
 Pittsburgh Steelers,20,OPEN,
 San Francisco 49ersAND PACKERS,40,SOLD,snedds03
-Seattle Seahawks,20,OPEN,
-Tampa Bay Buccaneers,30,OPEN,
-Tennessee Titans,30,OPEN,
-Washington Commanders,20,OPEN,
+Tampa Bay Buccaneers,30,SOLD,sullsmky
+Tennessee Titans,20,SOLD,cmattson99
+Washington Commanders,15,OPEN,

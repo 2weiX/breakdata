@@ -1,9 +1,13 @@
 spot,price,state,buyer
-Atlanta Falcons,9,SOLD,lookingfortets
 Dallas Cowboys,12,SOLD,lookingfortets
-Miami Dolphins,9,SOLD,animemixedcards
-New Orleans Saints,9,SOLD,animemixedcards
 "Cincinnati Bengals, Kansas City Chiefs, San Francisco 49ers",35,SOLD,kielman616
 "Baltimore Ravens, Buffalo Bills, Las Vegas Raiders, Philadelphia Eagles",47,SOLD,tw3129
 "Cleveland Browns, Tennessee Titans, Washington Commanders",30,SOLD,tw3129
-#8,1,OPEN,
+Atlanta Falcons,9,SOLD,lookingfortets
+Miami Dolphins,9,SOLD,animemixedcards
+New Orleans Saints,9,SOLD,animemixedcards
+Arizona Cardinals,9,SOLD,animemixedcards
+Indianapolis Colts,9,SOLD,animemixedcards
+Detroit Lions,9,SOLD,bayoubangerbreaks
+"New England Patriots, Tampa Bay Buccaneers",20,SOLD,tw3129
+#12,1,OPEN,

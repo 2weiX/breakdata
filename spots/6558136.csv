@@ -2,10 +2,10 @@ spot,price,state,buyer
 A.J. Haulcy (AUTO),50,OPEN,
 Aaron Jones Sr. (AUTO x2),50,OPEN,
 Aaron Rodgers (IV) (GG) (AUTO),600,OPEN,
-Abdul Carter,40,OPEN,
+Abdul Carter,32,SOLD,johnnyred1
 Adam Vinatieri (AUTO),75,OPEN,
-Adonai Mitchell,40,OPEN,
-Aidan Hutchinson,50,OPEN,
+Adonai Mitchell,14,SOLD,sitball
+Aidan Hutchinson,43,SOLD,chasecam39343
 Aidan O'Connell (PREM1ERE),60,OPEN,
 AJ Barner (SBAN),50,OPEN,
 Akheem Mesidor (AUTO),60,OPEN,
@@ -20,7 +20,7 @@ Anquan Boldin (AUTO),50,OPEN,
 Anthony Gould (PREM1ERE),60,OPEN,
 Anthony Muñoz (AUTO),60,OPEN,
 Anthony Richardson (PREM1ERE),125,OPEN,
-Antoine Winfield Jr.,40,OPEN,
+Antoine Winfield Jr.,10,SOLD,sitball
 Antonio Gates (AUTO),75,OPEN,
 Antonio Williams (AUTO),125,SOLD,moosey
 Archie Manning (AUTO),75,OPEN,
@@ -31,7 +31,7 @@ Audric Estime (PREM1ERE),50,OPEN,
 Avieon Terrell (AUTO),75,OPEN,
 Baker Mayfield (GG) (HELIX),200,OPEN,
 Barry Sanders (AUTO),400,OPEN,
-Behren Morton (AUTO),75,OPEN,
+Behren Morton (AUTO),55,SOLD,martin_bj85
 Bernie Kosar (AUTO),75,OPEN,
 Bhayshul Tuten (AUTO),100,OPEN,
 Bijan Robinson (IV) (PREM1ERE),1750,OPEN,
@@ -49,25 +49,25 @@ Brenton Strange (PREM1ERE),60,OPEN,
 Brett Favre (IV) (HELIX),200,OPEN,
 Brevyn Spann-Ford (PREM1ERE),60,OPEN,
 Brian Branch (PREM1ERE),75,OPEN,
-Brian Burns,40,OPEN,
+Brian Burns,18,SOLD,sitball
 Brian Dawkins (AUTO),75,OPEN,
-Brian Robinson Jr.,40,OPEN,
+Brian Robinson Jr.,16,SOLD,rossiranch
 Brian Thomas Jr. (AUTO x2) (PREM1ERE),500,OPEN,
 Brian Westbrook (AUTO),60,OPEN,
 Brock Bowers (IV) (91 AUTO) (AUTO) (PREM1ERE),1500,OPEN,
 Brock Purdy (IV) (GG) (ETCH) (AUTO x2) (DUAL),1500,OPEN,
 Bruce Matthews (AUTO),60,OPEN,
-Bryan Bresee,40,OPEN,
+Bryan Bresee,12,SOLD,sitball
 Bryce Lance (AUTO),90,OPEN,
 Bryce Young (IV) (GG) (HELIX) (91 AUTO) (AUTO) (DUAL) (PREM1ERE),3250,OPEN,
-Bucky Irving (PREM1ERE),180,OPEN,
-Bud Clark,40,OPEN,
+Bucky Irving (PREM1ERE),126,SOLD,johnnyred1
+Bud Clark,8,SOLD,berknation14
 Budda Baker,40,OPEN,
 Byron Murphy II (PREM1ERE),75,OPEN,
 Byron Murphy Jr.,40,OPEN,
 Byron Young,40,OPEN,
 Cade Klubnik (RR) (AUTO),1000,OPEN,
-Cade Otton,40,OPEN,
+Cade Otton,11,SOLD,lyoncardco
 Cade Stover (PREM1ERE),60,OPEN,
 Caleb Banks (AUTO),35,SOLD,dkrip25
 Caleb Douglas (AUTO),175,SOLD,moosey
@@ -77,7 +77,7 @@ Caleb Williams (IV) (UV) (91 AUTO) (AUTO) (PREM1ERE),10000,OPEN,
 Calen Bullock (PREM1ERE),60,OPEN,
 Calvin Ridley (AUTO),60,OPEN,
 Cam Little (PREM1ERE),200,SOLD,strikecollects
-Cam Skattebo,75,OPEN,
+Cam Skattebo,52.5,SOLD,johnnyred1
 Cam Ward (91 AUTO) (AUTO x2),400,OPEN,
 Cameron Dicker,40,OPEN,
 Cameron Heyward,40,OPEN,
@@ -107,6 +107,7 @@ Christian McCaffrey (UV) (91 AUTO) (AUTO),900,OPEN,
 Christian Okoye (TECMO) (TECMO AUTO),125,OPEN,
 Christian Watson,60,OPEN,
 Chuba Hubbard,40,OPEN,
+#109,50,SOLD,lessingscollectibles
 CJ Daniels (AUTO),75,OPEN,
 CJ Stroud (IV) (GG) (PREM1ERE),1350,OPEN,
 Colbie Young (AUTO),60,OPEN,
@@ -150,7 +151,7 @@ DeAngelo Hall (AUTO),50,OPEN,
 Deebo Samuel (AUTO),75,OPEN,
 DeForest Buckner,40,OPEN,
 Deion Burks (AUTO),50,OPEN,
-Deion Sanders (AUTO),225,OPEN,
+Deion Sanders (AUTO),157.5,SOLD,theripsyndicate
 DeMarco Murray (AUTO),50,OPEN,
 Demario Davis,40,OPEN,
 DeMarvion Overshown,40,OPEN,
@@ -186,7 +187,7 @@ Eli Raridon (AUTO),125,OPEN,
 Eli Stowers,40,OPEN,
 Elic Ayomanor (AUTO),60,OPEN,
 Elijah Sarratt (AUTO),100,OPEN,
-Emeka Egbuka (91 AUTO) (AUTO x3),400,OPEN,
+Emeka Egbuka (91 AUTO) (AUTO x3),275,SOLD,heightscardco
 Emmanuel McNeil-Warren (AUTO),60,OPEN,
 Emmett Johnson (AUTO),400,SOLD,forsurenotalexbro3443
 Eric Allen (AUTO),75,OPEN,
@@ -195,14 +196,14 @@ Evan McPherson,40,OPEN,
 Fernando Mendoza (RR) (GG) (KAIJU) (IV) (ETCH) (UV) (91 AUTO) (AUTO x2) (DUAL),13500,OPEN,
 Francis Mauigoa (AUTO),50,OPEN,
 Frank Gore (AUTO),75,OPEN,
-Fred Warner (AUTO),100,OPEN,
+Fred Warner (AUTO),70,SOLD,joepack
 Garrett Nussmeier (IV) (AUTO),300,OPEN,
 Garrett Wilson (GG) (91 AUTO) (DUAL),250,OPEN,
 Genesis Smith (AUTO),50,OPEN,
 Geno Smith,40,OPEN,
 George Holani (PREM1ERE),60,OPEN,
 George Karlaftis,40,OPEN,
-George Kittle (IV) (UV),600,OPEN,
+George Kittle (IV) (UV),450,SOLD,nokones78
 George Pickens,75,OPEN,
 Germie Bernard (AUTO),250,OPEN,
 Graham Barton (PREM1ERE),60,OPEN,
@@ -216,7 +217,7 @@ Hunter Henry (SBAN),50,OPEN,
 Isaac TeSlaa,50,OPEN,
 Isaiah Likely,50,OPEN,
 Isiah Pacheco,40,OPEN,
-J.J. McCarthy,50,OPEN,
+J.J. McCarthy,40,SOLD,valenti_33
 J.K. Dobbins,40,OPEN,
 Ja'Kobi Lane (AUTO),80,SOLD,juicywags
 Ja'Lynn Polk (PREM1ERE),60,OPEN,
@@ -279,9 +280,9 @@ Joe Montana (AUTO),275,OPEN,
 Joe Thomas (AUTO),75,OPEN,
 Joe Thuney,40,OPEN,
 Joey Porter Jr.,40,OPEN,
-John Elway (AUTO) (DUAL),350,OPEN,
+John Elway (AUTO) (DUAL),245,SOLD,weijulia09976
 John Riggins (AUTO),75,OPEN,
-Jonah Coleman,250,OPEN,
+Jonah Coleman,210,SOLD,tron_collects
 Jonathan Allen,40,OPEN,
 Jonathan Mingo (PREM1ERE),60,OPEN,
 Jonathan Ogden (AUTO),60,OPEN,
@@ -294,7 +295,7 @@ Jordyn Tyson (RR) (GG) (HELIX) (IV) (ETCH) (91 AUTO) (DUAL) (AUTO),900,OPEN,
 Josh Allen (IV) (GG) (HELIX) (MADDEN) (ETCH) (UV) (AUTO),5000,OPEN,
 Josh Downs (PREM1ERE),120,OPEN,
 Josh Hines-Allen,40,OPEN,
-Josh Jacobs (AUTO),60,OPEN,
+Josh Jacobs (AUTO),42,SOLD,sitball
 Joshua Karty (PREM1ERE),60,OPEN,
 Josiah Trotter,28,SOLD,heightscardco
 Julian Neal,40,OPEN,
@@ -303,4 +304,3 @@ Justin Herbert (GG) (UV) (AUTO),600,OPEN,
 Justin Jefferson (IV) (KAIJU) (TECMO) (AUTO) (TECMO AUTO),1200,OPEN,
 Justin Joly (AUTO),75,OPEN,
 Juwan Johnson,40,OPEN,
-#109,50,SOLD,lessingscollectibles
