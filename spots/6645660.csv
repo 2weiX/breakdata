@@ -2,9 +2,7 @@ spot,price,state,buyer
 Indianapolis Colts,5,SOLD,codered1111
 Atlanta Falcons,4.9,SOLD,codered1111
 Houston Texans,7,OPEN,
-New York Jets,7,OPEN,
 Jacksonville Jaguars,7,SOLD,codered1111
-Los Angeles Chargers,10,OPEN,
 Miami Dolphins,11,OPEN,
 Pittsburgh Steelers,12,OPEN,
 Minnesota Vikings,10,SOLD,codered1111
@@ -31,3 +29,5 @@ Arizona Cardinals,46,OPEN,
 New England Patriots,50,OPEN,
 Los Angeles Rams,55,OPEN,
 Las Vegas Raiders,75,OPEN,
+New York Jets,7,SOLD,thos13
+Los Angeles Chargers,10,SOLD,thos13

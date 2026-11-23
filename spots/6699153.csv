@@ -2,7 +2,6 @@ spot,price,state,buyer
 Buffalo Bills,14,SOLD,sergioman75424
 Green Bay Packers,13,SOLD,chrisfai01387
 Philadelphia Eagles,15,SOLD,sergioman75424
-#4,16,SOLD,chrisfai01387
 Denver Broncos,15,SOLD,masonsmi19
 Chicago Bears,17,SOLD,masonsmi19
 New England Patriots,11,SOLD,nygiants071188
@@ -16,5 +15,21 @@ New Orleans Saints,12,SOLD,howie129
 Washington Commanders,13,SOLD,howie129
 San Francisco 49ers,15,SOLD,cody92five
 Los Angeles Rams,18,SOLD,howie129
-Jacksonville Jaguars,10,SOLD,sergioman75424
-#19,1,OPEN,
+TRADE,16,SOLD,chrisfai01387
+Detroit Lions,10,SOLD,sergioman75424
+Las Vegas Raiders,11,SOLD,sergioman75424
+Tampa Bay Buccaneers,10,SOLD,nygiants071188
+TRADE,11,SOLD,sergioman75424
+Cleveland Browns,17,SOLD,swiitchcards
+Kansas City Chiefs,13,SOLD,swiitchcards
+Houston Texans,14,SOLD,swiitchcards
+Tennessee Titans,10,SOLD,jakeloui
+New York Giants,10,SOLD,nygiants071188
+Pittsburgh Steelers,9,SOLD,chrisfai01387
+Miami Dolphins,7,SOLD,smon20
+Cincinnati Bengals,6,SOLD,jakeloui
+Atlanta Falcons,8,SOLD,swiitchcards
+Jacksonville Jaguars,13,SOLD,stanlee69
+Los Angeles Chargers,18,SOLD,stanlee69
+Minnesota Vikings,17,SOLD,stanlee69
+Baltimore Ravens,18,SOLD,stanlee69
