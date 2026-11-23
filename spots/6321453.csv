@@ -9,7 +9,6 @@ Cleveland Browns,30,OPEN,
 Dallas Cowboys,18,OPEN,
 Denver Broncos,14.4,SOLD,datboijon2
 Detroit Lions,17,OPEN,
-Green Bay Packers,11,OPEN,
 Houston Texans,18,OPEN,
 Indianapolis Colts,11,OPEN,
 Jacksonville Jaguars,24,OPEN,
@@ -18,8 +17,6 @@ Las Vegas Raiders,24,OPEN,
 Los Angeles Chargers,24,OPEN,
 Los Angeles Rams,13,OPEN,
 Miami Dolphins,12,OPEN,
-Minnesota Vikings,18,OPEN,
-New England Patriots,19,OPEN,
 New Orleans Saints,20,OPEN,
 New York Giants,34,OPEN,
 New York Jets,11,OPEN,
@@ -27,5 +24,8 @@ Philadelphia Eagles,16,OPEN,
 Pittsburgh Steelers,21,OPEN,
 San Francisco 49ers,17,OPEN,
 Seattle Seahawks,10,OPEN,
-Tennessee Titans,22,OPEN,
 Washington Commanders,21,OPEN,
+Green Bay Packers,11,SOLD,rndstarstorm
+Minnesota Vikings,17,SOLD,tyhill84058
+New England Patriots,19,SOLD,rndstarstorm
+Tennessee Titans,22,SOLD,rndstarstorm

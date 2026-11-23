@@ -1,2 +1,33 @@
 spot,price,state,buyer
-#1,1,OPEN,
+Denver Broncos,1,SOLD,jakml
+Miami Dolphins,1,SOLD,jakml
+San Francisco 49ers,1,SOLD,jakml
+Cincinnati Bengals,3,SOLD,jakml
+Pittsburgh Steelers,3,SOLD,dannyt27
+Carolina Panthers,3,SOLD,dannyt27
+Los Angeles Rams,2,SOLD,dannyt27
+Minnesota Vikings,2,SOLD,eltacco
+Las Vegas Raiders,1,SOLD,eltacco
+Tampa Bay Buccaneers,1,SOLD,eltacco
+Baltimore Ravens,2,SOLD,eltacco
+Buffalo Bills,3,SOLD,jakml
+Seattle Seahawks,3,SOLD,jakml
+Philadelphia Eagles,3,SOLD,jakml
+Houston Texans,3,SOLD,jakml
+Kansas City Chiefs,3,SOLD,alex030991
+Chicago Bears,3,SOLD,martinste87516
+Jacksonville Jaguars,3,SOLD,tomek2407
+Arizona Cardinals,4,SOLD,alex030991
+Dallas Cowboys,2,SOLD,tomek2407
+New Orleans Saints,2,SOLD,martinste87516
+Green Bay Packers,2,SOLD,jakml
+Tennessee Titans,2,SOLD,tomek2407
+Los Angeles Chargers,2,SOLD,tomek2407
+Indianapolis Colts,2,SOLD,dannyt27
+New York Giants,2,SOLD,tomek2407
+New England Patriots,3,SOLD,eltacco
+Cleveland Browns,2,SOLD,eltacco
+Washington Commanders,1,SOLD,tomek2407
+New York Jets,1,SOLD,tomek2407
+Detroit Lions,1,SOLD,damir1919
+Atlanta Falcons,1,SOLD,damir1919

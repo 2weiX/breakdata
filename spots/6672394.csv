@@ -1,9 +1,7 @@
 spot,price,state,buyer
 ATL - Bijan Robinson,349,OPEN,
 ATL - Drake London + Kyle Pitts,99,OPEN,
-ATL - Michael Penix Jr.,45,OPEN,
 "ATL Others - T. Gonzalez, C. Lindstrom, H. Perkins Jr., B. Robinson Jr., D. Sanders, T. Tagovailoa, A. Terrell, J. Walker, X. Watts, O. Zaccheaus",49,OPEN,
-ATL/PHI - Michael Vick,45,OPEN,
 ATL - Zachariah Branch,89,OPEN,
 AZ - Carson Beck,749,OPEN,
 AZ - Jeremiah Love,999,OPEN,
@@ -19,11 +17,9 @@ BAL - Lamar Jackson,449,OPEN,
 "BAL Others - M. Andrews, R. Bateman, J. Cuevas, J. Flacco, K. Hamilton, T. Hendrickson, R. Lewis, J. Ogden, A. Randall, R. Smith, T. Suggs, D. Walker, N. Wiggins, Z. Young",42,SOLD,benito1313
 BAL/TEN - Derrick Henry,299,OPEN,
 BAL - Zay Flowers,69,OPEN,
-BUF - Cornelius Bennett,45,OPEN,
 BUF - Dalton Kincaid,59,OPEN,
 BUF - James Cook,99,OPEN,
 BUF - Josh Allen,2499,OPEN,
-BUF - Keon Coleman,45,OPEN,
 BUF - Skyler Bell,65,SOLD,topher10889
 CAR - Bryce Young,299,OPEN,
 CAR - Chris Brazzell II,99,OPEN,
@@ -35,7 +31,6 @@ CHI - Colston Loveland,175,OPEN,
 CHI - Dillon Thieneman,55,SOLD,csminix46
 CHI - Luther Burden III,199,OPEN,
 "CHI Others - J. Johnson, J. McMahon, K. Monangai, M. Moss, M. Muhammad, S. Roush, N. Sewell, M. Singletary, M. Sweat, D. Swift, J. Thuney, B. Urlacher, D. Wright",50,SOLD,benito1313
-CHI - Rome Odunze,85,OPEN,
 CHI - William Perry,65,SOLD,creekside_sports
 CHI - Zavion Thomas,59,OPEN,
 CIN - Chase Brown,65,OPEN,
@@ -163,7 +158,6 @@ PIT - Germie Bernard,115,SOLD,culessen
 "PIT Others - J. Bettis, D. Everette, P. Freiermuth, J. Ham, C. Heyward, W. Howard, K. Johnson, L. McRee, D. Metcalf, T. Polamalu, J. Porter Jr., J. Warren, R. Woodson",45,SOLD,benito1313
 PIT - T.J. Watt,110,OPEN,
 SEA - Jadarian Price,299,OPEN,
-SEA - Jaxon Smith-Njigba,999,OPEN,
 SEA - Nick Emmanwori,49,OPEN,
 SEA/NYJ - Sam Darnold,249,OPEN,
 "SEA Others + Lombardi Trophy SF - A. Barner, K. Chancellor, Z. Charbonnet, B. Clark, E. Henderson Jr., C. Kupp, S. Largent, J. Milroe, B. Murphy II, J. Neal, U. Nwosu, R. Shaheed, R. Sherman, M. Smith, D. Witherspoon",179,OPEN,
@@ -183,3 +177,9 @@ WAS - Art Monk,55,OPEN,
 WAS - Jayden Daniels,875,OPEN,
 "WAS Others - K. Allen, K. Chaisson, J. Croskey-Merritt, D. Hall, R. Henry Jr., A. Kaliakmanis, L. McCaffrey, T. McLaurin, C. Okonkwo, J. Riggins, M. Sainristil, D. Samuel, S. Taylor, L. Tunsil, R. White",47.2,SOLD,nextlevel__breaks
 WAS - Sonny Styles,299,OPEN,
+ATL - Michael Penix Jr.,18,SOLD,rocharbour5d
+ATL/PHI - Michael Vick,3,SOLD,crocks2222
+BUF - Cornelius Bennett,1,SOLD,topherhenson
+BUF - Keon Coleman,1,SOLD,topherhenson
+CHI - Rome Odunze,60,SOLD,jwolms
+SEA - Jaxon Smith-Njigba,500,SOLD,the_card_hunter

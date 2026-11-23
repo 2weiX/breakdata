@@ -2,22 +2,48 @@ spot,price,state,buyer
 New England Patriots,84,SOLD,fredhoov0808
 DOWNTOWN,30,SOLD,luxecardemporium_
 Los Angeles Rams,78,SOLD,icecoldbruschi
-#4,75,SOLD,icecoldbruschi
 DOWNTOWN,78,SOLD,327cards
 Denver Broncos,85,SOLD,bglenn1522
 Cincinnati Bengals,90,SOLD,327cards
 DOWNTOWN,93,SOLD,fredhoov0808
-#9,54,SOLD,luxecardemporium_
-Detroit Lions,81,SOLD,luxecardemporium_
 Baltimore Ravens,77,SOLD,bglenn1522
 Minnesota Vikings,72,SOLD,fredhoov0808
-#13,72,SOLD,bglenn1522
 Green Bay Packers,85,SOLD,sweensween6
-#15,78,SOLD,ninernation999
 #16,78,SOLD,327cards
 Buffalo Bills,79,SOLD,icecoldbruschi
 Kansas City Chiefs,74,SOLD,ninernation999
 New York Giants,77,SOLD,johnyou79662
-Indianapolis Colts,74,SOLD,ninernation999
-Washington Commanders,79,SOLD,sweensween6
-#22,1,OPEN,
+T,75,SOLD,icecoldbruschi
+T,54,SOLD,luxecardemporium_
+T,81,SOLD,luxecardemporium_
+T,72,SOLD,bglenn1522
+T,78,SOLD,ninernation999
+Tampa Bay Buccaneers,74,SOLD,ninernation999
+T,79,SOLD,sweensween6
+Cleveland Browns,83,SOLD,sweensween6
+T,79,SOLD,ninernation999
+DOWNTOWN,74,SOLD,icecoldbruschi
+T,59,SOLD,travis1742
+Philadelphia Eagles,67,SOLD,travis1742
+San Francisco 49ers,79,SOLD,sweensween6
+T,64,SOLD,travis1742
+Las Vegas Raiders,68,SOLD,sweensween6
+MISC,60,SOLD,travis1742
+Seattle Seahawks,59,SOLD,newbie2121
+T,67,SOLD,sweensween6
+Chicago Bears,63,SOLD,newbie2121
+New Orleans Saints,55,SOLD,ninernation999
+Pittsburgh Steelers,61,SOLD,fredhoov0808
+Atlanta Falcons,45,SOLD,icecoldbruschi
+Houston Texans,46,SOLD,travis1742
+Dallas Cowboys,46,SOLD,luxecardemporium_
+Detroit Lions,29,SOLD,icecoldbruschi
+Los Angeles Chargers,33,SOLD,fredhoov0808
+Jacksonville Jaguars,11,SOLD,icecoldbruschi
+Washington Commanders,11,SOLD,icecoldbruschi
+New York Jets,10,SOLD,fredhoov0808
+Miami Dolphins,11,SOLD,peterrab53119
+Arizona Cardinals,11,SOLD,peterrab53119
+Indianapolis Colts,9,SOLD,travis1742
+Carolina Panthers,10,SOLD,fredhoov0808
+Tennessee Titans,10,SOLD,peterrab53119
