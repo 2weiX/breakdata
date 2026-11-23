@@ -1,33 +1,31 @@
 spot,price,state,buyer
-Arizona Cardinals,159,OPEN,
+Arizona Cardinals,139,SOLD,kjk184psu
 Atlanta Falcons,49,SOLD,mazdawg
-Baltimore Ravens,69,OPEN,
+Baltimore Ravens,50,SOLD,theo18744
 Buffalo Bills,125.1,SOLD,chargedcards
-Carolina Panthers,79,OPEN,
+Carolina Panthers,59,SOLD,mazdawg
 Chicago Bears,110,SOLD,valhallawaits88
-Cincinnati Bengals,119,OPEN,
+Cincinnati Bengals,96.03,SOLD,mazdawg
 Cleveland Browns,109,OPEN,
 Dallas Cowboys,99,OPEN,
-Denver Broncos,99,OPEN,
-Detroit Lions,89,OPEN,
-Green Bay Packers,59,OPEN,
+Denver Broncos,75,SOLD,iowahawks12
+Detroit Lions,89,SOLD,tonyc22222
+Green Bay Packers,59,SOLD,eaglevillecollectibles
 Houston Texans,39,SOLD,mazdawg
-Indianapolis Colts,39,OPEN,
+Indianapolis Colts,24,SOLD,kjk184psu
 Jacksonville Jaguars,60,SOLD,mazdawg
-Kansas City Chiefs,199,OPEN,
+Kansas City Chiefs,140,SOLD,tonyc22222
 Las Vegas Raiders,349,OPEN,
 Los Angeles Chargers,49,SOLD,chargedcards
 Los Angeles Rams,120,SOLD,mazdawg
 Miami Dolphins,39,SOLD,brodybur52059
 Minnesota Vikings,50.15,SOLD,chargedcards
-New England Patriots,249,OPEN,
 New Orleans Saints,99,OPEN,
 New York Giants,100,SOLD,bmartz
-New York Jets,59,OPEN,
-Philadelphia Eagles,99,OPEN,
+New York Jets,40,SOLD,brodybur52059
 Pittsburgh Steelers,79,OPEN,
-San Francisco 49ers,119,OPEN,
-Seattle Seahawks,139,OPEN,
+Seattle Seahawks,109,SOLD,valhallawaits88
 Tampa Bay Buccaneers,109,OPEN,
-Tennessee Titans,109,OPEN,
-Washington Commanders,79,OPEN,
+Washington Commanders,47.53,SOLD,kjk184psu
+New England Patriots + Tennessee Titans ,275,SOLD,mazdawg
+Philadelphia Eagles + San Francisco 49ers ,175,SOLD,markm0517

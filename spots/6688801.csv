@@ -1,5 +1,5 @@
 spot,price,state,buyer
-Arizona Cardinals,12,OPEN,
+Arizona Cardinals,9,SOLD,boyscoutbailey
 Chicago Bears,13.5,SOLD,betternamelater
 Cleveland Browns,6,SOLD,jeremytho60175
 Dallas Cowboys,10,SOLD,jeremytho60175
@@ -12,11 +12,11 @@ Los Angeles Chargers,8,SOLD,jeremytho60175
 New Orleans Saints,10,SOLD,jeremytho60175
 New York Giants,15,SOLD,damionandrade619
 New York Jets,6,SOLD,boyscoutbailey
-Philadelphia Eagles,12,OPEN,
+Philadelphia Eagles,8,SOLD,boyscoutbailey
 Pittsburgh Steelers,8,SOLD,boyscoutbailey
 San Francisco 49ers,9,SOLD,ballscivic
 Tampa Bay Buccaneers,12,SOLD,jklonesandlefarms
-Tennessee Titans,15,OPEN,
+Tennessee Titans,11,SOLD,ballscivic
 Washington Commanders,12,SOLD,pc_nashville
 Los Angeles Rams,7.2,SOLD,pc_nashville
 Miami Dolphins,6,SOLD,jeremytho60175

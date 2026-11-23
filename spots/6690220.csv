@@ -1,7 +1,7 @@
 spot,price,state,buyer
 Buffalo Bills,35,OPEN,
 Carolina Panthers,20,OPEN,
-Cleveland Browns ,20,OPEN,
+Cleveland Browns ,20,SOLD,rndstarstorm
 Houston Texans ,20,OPEN,
 Jacksonville Jaguars ,20,OPEN,
 Las Vegas Raiders,44,SOLD,dw2835
@@ -9,12 +9,12 @@ Los Angeles Chargers ,25,OPEN,
 Los Angeles Rams,48,OPEN,
 Miami Dolphins ,20,OPEN,
 New England Patriots,30,OPEN,
-New Orlean Saints ,30,OPEN,
-New York Giants ,35,OPEN,
+New Orlean Saints ,30,SOLD,rndstarstorm
+New York Giants ,30,SOLD,rndstarstorm
 New York Jets,20,OPEN,
 Philadelphia Eagles ,25,OPEN,
 PittsBurgh Steelers ,32,OPEN,
-San Francisco 49ers,32,OPEN,
+San Francisco 49ers,27,SOLD,rndstarstorm
 Seattle Seahawks,15,OPEN,
 Tennessee Titian's ,55,OPEN,
 Commanders,20,OPEN,

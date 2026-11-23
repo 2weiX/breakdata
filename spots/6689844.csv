@@ -1,27 +1,24 @@
 spot,price,state,buyer
-Arizona Cardinals,55,OPEN,
+Arizona Cardinals,20,SOLD,mbf12342000
 Atlanta Falcons,20,SOLD,chalkboard_cards
-Baltimore Ravens,20,OPEN,
 Chicago Bears,28,SOLD,rileyfar79538
 Cincinnati Bengals,28,SOLD,chalkboard_cards
-Denver Broncos,25,OPEN,
 Detroit Lions,14,SOLD,cstewart24
-Jacksonville Jaguars,35,OPEN,
-Las Vegas Raiders,70,OPEN,
-Los Angeles Chargers,15,OPEN,
+Las Vegas Raiders,50,SOLD,weshart7994
+Los Angeles Chargers,12,SOLD,sqirly1998
 Los Angeles Rams,21,SOLD,jameshig90316
 Miami Dolphins,9.6,SOLD,sqirly1998
 Minnesota Vikings,10.5,SOLD,natescardshopinv
-New England Patriots,70,OPEN,
-New York Jets,36,OPEN,
-Philadelphia Eagles,26,OPEN,
-Pittsburgh Steelers,30,OPEN,
+New York Jets,17,SOLD,sqirly1998
+Philadelphia Eagles,11,SOLD,jerad814
+Pittsburgh Steelers,10,SOLD,jerad814
 Seattle Seahawks,12,SOLD,a_treecards
-Tennessee Titans,45,OPEN,
-Washington Commanders,23,OPEN,
+Tennessee Titans,16,SOLD,mbf12342000
 Carolina Panthers,12,SOLD,jilliandaw
 Green Bay Packers,14.4,SOLD,jilliandaw
 Buffalo Bills and Saints,55,SOLD,chalkboard_cards
 "Cleveland Browns, Colts, Giants, Cowboys",79,SOLD,mbf12342000
 Kansas City Chiefs and Texans,45,SOLD,sqirly1998
 San Francisco 49ers Buccaneers,35,SOLD,sqirly1998
+Baltimore Ravens and commanders,20,SOLD,jerad814
+"Denver Broncos, Pats , jags",100,SOLD,weshart7994

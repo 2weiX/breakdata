@@ -1,7 +1,7 @@
 spot,price,state,buyer
 Arizona Cardinals,23,SOLD,chetche19554
 Atlanta Falcons,25,OPEN,
-Baltimore Ravens,25,OPEN,
+Baltimore Ravens,2,SOLD,poke_cc_
 Buffalo Bills,25,SOLD,87leopardette
 Carolina Panthers,35,OPEN,
 Chicago Bears,25,SOLD,moo1two
@@ -11,13 +11,13 @@ Dallas Cowboys,25,SOLD,mahchristian76532
 Denver Broncos,25,SOLD,chetche19554
 Detroit Lions,15,SOLD,chetche19554
 Green Bay Packers,30,SOLD,fatboi56
-Houston Texans,25,OPEN,
+Houston Texans,2,SOLD,poke_cc_
 Indianapolis Colts,2,SOLD,poke_cc_
 Jacksonville Jaguars,26,SOLD,chetche19554
 Kansas City Chiefs,20,SOLD,chetche19554
 Las Vegas Raiders,36,SOLD,leftymcgee83
 Los Angeles Chargers,15,SOLD,tylerpeh
-Los Angeles Rams,30,OPEN,
+Los Angeles Rams,10,SOLD,chetche19554
 Miami Dolphins,10,SOLD,chetche19554
 Minnesota Vikings,25,OPEN,
 New England Patriots,24,SOLD,chetche19554
@@ -27,7 +27,7 @@ New York Jets,1,SOLD,chetche19554
 Philadelphia Eagles,15,SOLD,naucam
 Pittsburgh Steelers,10,SOLD,chetche19554
 San Francisco 49ers,20,SOLD,nikolasdup
-Seattle Seahawks,25,OPEN,
+Seattle Seahawks,5,SOLD,chetche19554
 Tampa Bay Buccaneers,20,SOLD,bigmurph816
 Tennessee Titans,24,SOLD,sportscollectorsyndicate
 Washington Commanders,28,SOLD,chetche19554

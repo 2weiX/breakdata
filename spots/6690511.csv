@@ -1,34 +1,57 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-CHASER 8,,OPEN,
-Atlanta Falcons,,OPEN,
-CHASER 4,,OPEN,
-Carolina Panthers,,OPEN,
-CHASER 6,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-CHASER 2,,OPEN,
-Detroit Lions,,OPEN,
-Houston Texans,,OPEN,
-CHASER 9,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-CHASER 3,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-CHASER 5,,OPEN,
-New Orleans Saints,,OPEN,
-CHASER 1,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-CHASER 7,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Pittsburgh Steelers,,OPEN,
-Tennessee Titans,,OPEN,
-CHASER 10,,OPEN,
+Arizona Cardinals,1,SOLD,in_the_hyphen
+CHASER 8,24,SOLD,giajos46
+Atlanta Falcons,19,SOLD,giajos46
+CHASER 4,13,SOLD,giajos46
+Carolina Panthers,15,SOLD,giajos46
+CHASER 6,18,SOLD,whens_the_giveaway
+Cincinnati Bengals,13,SOLD,giajos46
+Cleveland Browns,16,SOLD,whens_the_giveaway
+Dallas Cowboys,12,SOLD,rodjoulson
+CHASER 2,28,SOLD,giajos46
+Detroit Lions,19,SOLD,giajos46
+Houston Texans,13,SOLD,giajos46
+CHASER 9,17,SOLD,giajos46
+Indianapolis Colts,5,SOLD,jwbm_rocketcity_breaks
+Jacksonville Jaguars,16,SOLD,pantayoyo13
+Kansas City Chiefs,11,SOLD,ramzilla34
+CHASER 3,13,SOLD,jwbm_rocketcity_breaks
+Los Angeles Chargers,26,SOLD,giajos46
+Los Angeles Rams,22,SOLD,jwbm_rocketcity_breaks
+Miami Dolphins,20,SOLD,giajos46
+Minnesota Vikings,7,SOLD,jwbm_rocketcity_breaks
+CHASER 5,11,SOLD,jwbm_rocketcity_breaks
+New Orleans Saints,6,SOLD,jwbm_rocketcity_breaks
+CHASER 1,19,SOLD,whens_the_giveaway
+New York Jets,46,SOLD,giajos46
+Philadelphia Eagles,11,SOLD,jwbm_rocketcity_breaks
+CHASER 7,13,SOLD,giajos46
+San Francisco 49ers,10,SOLD,giajos46
+Seattle Seahawks,13,SOLD,himathy2025
+Tampa Bay Buccaneers,8,SOLD,jwbm_rocketcity_breaks
+Pittsburgh Steelers,13,SOLD,icemullen007
+Tennessee Titans,13,SOLD,giajos46
+CHASER 10,70,SOLD,giajos46
+#3,30,SOLD,whens_the_giveaway
+#4,35,SOLD,aarrem
+#5,21.6,SOLD,giajos46
+#7,22,SOLD,jwbm_rocketcity_breaks
+#8,19,SOLD,whens_the_giveaway
+#10,18,SOLD,giajos46
+#12,24,SOLD,jwbm_rocketcity_breaks
+#13,26,SOLD,giajos46
+#14,23,SOLD,whens_the_giveaway
+#15,32,SOLD,giajos46
+#16,27,SOLD,jwbm_rocketcity_breaks
+#18,23,SOLD,giajos46
+#19,21,SOLD,whens_the_giveaway
+#20,18,SOLD,giajos46
+#22,20,SOLD,jwbm_rocketcity_breaks
+#23,20,SOLD,jwbm_rocketcity_breaks
+#24,20,SOLD,giajos46
+#26,11,SOLD,jwbm_rocketcity_breaks
+#27,16,SOLD,giajos46
+#28,14,SOLD,jwbm_rocketcity_breaks
+#29,14,SOLD,giajos46
+#32,19,SOLD,giajos46
+#33,11,SOLD,jwbm_rocketcity_breaks

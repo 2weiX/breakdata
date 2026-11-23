@@ -1,33 +1,33 @@
 spot,price,state,buyer
-Arizona Cardinals,399,OPEN,
-Atlanta Falcons,139,OPEN,
+Arizona Cardinals,369,SOLD,rcraider
+Atlanta Falcons,125,SOLD,dbk6991
 Baltimore Ravens,189,OPEN,
-Buffalo Bills,399,OPEN,
+Buffalo Bills,399,SOLD,pluto1157
 Carolina Panthers,159,OPEN,
-Chicago Bears,399,OPEN,
-Cincinnati Bengals,269,OPEN,
+Chicago Bears,369,SOLD,rcraider
+Cincinnati Bengals,255,SOLD,dbk6991
 Cleveland Browns,269,OPEN,
 Dallas Cowboys,209,OPEN,
-Denver Broncos,229,OPEN,
+Denver Broncos,209,SOLD,dbk6991
 Detroit Lions,199,OPEN,
-Green Bay Packers,139,OPEN,
+Green Bay Packers,139,SOLD,amberr46
 Houston Texans,89,SOLD,conceptsportscards
-Indianapolis Colts,109,OPEN,
-Jacksonville Jaguars,149,OPEN,
+Indianapolis Colts,109,SOLD,jq0108
+Jacksonville Jaguars,135,SOLD,dbk6991
 Kansas City Chiefs,689,OPEN,
 Las Vegas Raiders,869,OPEN,
-Los Angeles Chargers,129,OPEN,
-Los Angeles Rams,469,OPEN,
-Miami Dolphins,119,OPEN,
-Minnesota Vikings,149,OPEN,
+Los Angeles Chargers,115,SOLD,grinchypoo
+Los Angeles Rams,439,SOLD,rcraider
 New England Patriots,599,OPEN,
-New Orleans Saints,249,OPEN,
+New Orleans Saints,235,SOLD,rcraider
 New York Giants,329,OPEN,
-New York Jets,219,OPEN,
+New York Jets,219,SOLD,rcraider
 Philadelphia Eagles,219,SOLD,ryandav00113
 Pittsburgh Steelers,199,OPEN,
-San Francisco 49ers,299,OPEN,
+San Francisco 49ers,279,SOLD,rcraider
 Seattle Seahawks,319,OPEN,
 Tampa Bay Buccaneers,259,OPEN,
 Tennessee Titans,249,OPEN,
 Washington Commanders,179,OPEN,
+Miami Dolphins ,119,SOLD,rcraider
+Minnesota Vikings (FOR BOTH),275,SOLD,mason_valek21
