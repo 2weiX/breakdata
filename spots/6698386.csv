@@ -1,33 +1,35 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+Seattle Seahawks,25,SOLD,joncro17240
+Indianapolis Colts,28,SOLD,ap_rips
+New York Jets,30,SOLD,ap_rips
+Baltimore Ravens,33,SOLD,ap_rips
+Los Angeles Rams,27,SOLD,ap_rips
+Tennessee Titans,26,SOLD,kapgabe82843
+Pittsburgh Steelers,26,SOLD,zainshe40714
+Kansas City Chiefs,32,SOLD,zainshe40714
+Detroit Lions,28,SOLD,joncro17240
+#10,26,SOLD,zainshe40714
+Los Angeles Chargers,30,SOLD,ap_rips
+Buffalo Bills,28,SOLD,ap_rips
+Arizona Cardinals,29,SOLD,ap_rips
+San Francisco 49ers,26,SOLD,zainshe40714
+Jacksonville Jaguars,26,SOLD,kapgabe82843
+Green Bay Packers,25,SOLD,zainshe40714
+Dallas Cowboys,25,SOLD,zainshe40714
+Cleveland Browns,29,SOLD,ap_rips
+New York Giants,27,SOLD,zainshe40714
+Cincinnati Bengals,26,SOLD,joncro17240
+Philadelphia Eagles,25,SOLD,kapgabe82843
+Las Vegas Raiders,25,SOLD,zainshe40714
+Houston Texans,24,SOLD,joncro17240
+Miami Dolphins,24,SOLD,eastcoastcoolexx
+Carolina Panthers,24,SOLD,eastcoastcoolexx
+New Orleans Saints,26,SOLD,eastcoastcoolexx
+Denver Broncos,27,SOLD,eastcoastcoolexx
+Chicago Bears,32,SOLD,eastcoastcoolexx
+Minnesota Vikings,44,SOLD,eastcoastcoolexx
+Washington Commanders,38,SOLD,eastcoastcoolexx
+Tampa Bay Buccaneers,62,SOLD,eastcoastcoolexx
+Atlanta Falcons,48,SOLD,eastcoastcoolexx
+New England Patriots,66,SOLD,eastcoastcoolexx
+misc,59,SOLD,tacteam1
