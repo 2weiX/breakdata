@@ -1,34 +1,44 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-MISC,,OPEN,
+#1,113,SOLD,jksportkc
+Cleveland Browns,116,SOLD,jksportkc
+Minnesota Vikings,105,SOLD,meykel67
+Cincinnati Bengals,110,SOLD,meykel67
+Washington Commanders,98,SOLD,ryanbeck19637
+MISC,106,SOLD,ryanbeck19637
+Dallas Cowboys,101,SOLD,meykel67
+Green Bay Packers,115,SOLD,sandman4459
+Chicago Bears,113,SOLD,meykel67
+Los Angeles Chargers,110,SOLD,sandman4459
+Detroit Lions,115,SOLD,likepasta97
+#12,108,SOLD,ryanbeck19637
+#13,102,SOLD,ccline301
+Pittsburgh Steelers,110,SOLD,ccline301
+#15,105,SOLD,ryanbeck19637
+San Francisco 49ers,110,SOLD,ccline301
+#17,120,SOLD,jkcards35
+Los Angeles Rams,115,SOLD,jkcards35
+New England Patriots,105,SOLD,ryanbeck19637
+#20,79,SOLD,sandman4459
+Denver Broncos,95.95,SOLD,2016cubs
+Kansas City Chiefs,93,SOLD,sandman4459
+#23,69,SOLD,ryanbeck19637
+#24,2,SOLD,ccline301
+Carolina Panthers,83,SOLD,ryanbeck19637
+#26,54,SOLD,ccline301
+Philadelphia Eagles,62,SOLD,sandman4459
+Baltimore Ravens,58,SOLD,dealbreaker71
+Miami Dolphins,63,SOLD,sandman4459
+Houston Texans,80,SOLD,ccline301
+Buffalo Bills,76,SOLD,sandman4459
+#32,67,SOLD,sp0rtscardsplus
+Tampa Bay Buccaneers,79,SOLD,ccline301
+New York Giants,80,SOLD,ccline301
+Atlanta Falcons,50,SOLD,sp0rtscardsplus
+Seattle Seahawks,8,SOLD,phill_mianis
+Jacksonville Jaguars,15,SOLD,ryanfra49600
+New Orleans Saints,14,SOLD,cash112011
+Las Vegas Raiders,14,SOLD,dealbreaker71
+Indianapolis Colts,13,SOLD,ryanfra49600
+New York Jets,15,SOLD,butchys_bounce_house
+Arizona Cardinals,14,SOLD,ryanfra49600
+Tennessee Titans,13,SOLD,phill_mianis

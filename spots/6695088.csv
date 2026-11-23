@@ -1,7 +1,8 @@
 spot,price,state,buyer
-#1,55,SOLD,jrfloat
-#2,55,SOLD,vdotto
-#3,55,SOLD,beardensports
-#4,55,SOLD,vdotto
-#5,55,SOLD,outlawcnc
-#6,49.5,SOLD,kevinrzo67853
+Pick 1,55,SOLD,jrfloat
+Pick 6,55,SOLD,vdotto
+Pick 5,55,SOLD,beardensports
+Pick 2,55,SOLD,vdotto
+Pick 4,55,SOLD,outlawcnc
+Pick 7,49.5,SOLD,kevinrzo67853
+Pick 3,53,SOLD,vdotto

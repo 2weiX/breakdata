@@ -1,5 +1,4 @@
 spot,price,state,buyer
-Arizona Cardinals,35,OPEN,
 Baltimore Ravens,12,SOLD,scarletfire04
 Buffalo Bills,32,SOLD,billsmafia93_1
 Chicago Bears,25,SOLD,jtsballin
@@ -8,10 +7,6 @@ Cleveland Browns,20,SOLD,wilbur06648
 Dallas Cowboys,17.5,SOLD,johnk86
 Denver Broncos,15,SOLD,cnc671
 Detroit Lions,16,SOLD,kyyoalien
-Houston Texans,15,OPEN,
-Jacksonville Jaguars,25,OPEN,
-New York Jets,25,OPEN,
-Tampa Bay Buccaneers,35,OPEN,
 Seattle Seahawks,16,SOLD,snedds03
 Las Vegas Raiders,50,SOLD,fambam505_sportscards
 New Orleans Saints,16,SOLD,fambam505_sportscards
@@ -30,3 +25,4 @@ New York Giants,20,SOLD,casehitmebaby1moretime
 San Francisco 49ers,32,SOLD,breens9
 Washington Commanders,10,SOLD,idothis247
 STEELERS AND RAMS,50,SOLD,austin8797
+CARDINALS TEXANS JAGUARS JETS BUCS,75,SOLD,bkessler812

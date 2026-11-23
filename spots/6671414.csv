@@ -1,7 +1,6 @@
 spot,price,state,buyer
 Arizona Cardinals,59,OPEN,
 Atlanta Falcons,19,OPEN,
-Baltimore Ravens,29,OPEN,
 Buffalo Bills,55,OPEN,
 Carolina Panthers,29,OPEN,
 Chicago Bears,55,OPEN,
@@ -31,3 +30,4 @@ Seattle Seahawks,45,OPEN,
 Tampa Bay Buccaneers,49,OPEN,
 Tennessee Titans,49,OPEN,
 Washington Commanders,29,OPEN,
+Baltimore Ravens,23.2,SOLD,michfrei
