@@ -1,32 +1,34 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+Arizona Cardinals,8,SOLD,bplev
+Atlanta Falcons,13,SOLD,deerkiller1970
+Baltimore Ravens,8,SOLD,redteam812
+Buffalo Bills,11,SOLD,grey_fin_cardz
+Carolina Panthers,5,SOLD,bplev
+Chicago Bears,10,SOLD,ejasso209
+Cincinnati Bengals,10,SOLD,brosky724
+Cleveland Browns,6,SOLD,bplev
+Dallas Cowboys,10,SOLD,billydice
+Denver Broncos,11,SOLD,02ohta
+Detroit Lions,9,SOLD,brosky724
+Green Bay Packers,6,SOLD,billydice
+Houston Texans,6,SOLD,redteam812
+Indianapolis Colts,7,SOLD,brosky724
+Jacksonville Jaguars,8,SOLD,redteam812
+Kansas City Chiefs,10,SOLD,cardshark602
+Los Angeles Chargers,11,SOLD,aikman16
+Los Angeles Rams,6,SOLD,bplev
+Miami Dolphins,5,SOLD,bplev
+Minnesota Vikings,6,SOLD,bplev
+New England Patriots,8,SOLD,cardshark602
+New Orleans Saints,6,SOLD,redteam812
+New York Giants,8,SOLD,ejasso209
+New York Jets,8,SOLD,brosky724
+Philadelphia Eagles,11,SOLD,ejasso209
+Pittsburgh Steelers,15,SOLD,bplev
+San Francisco 49ers,30,SOLD,kmxr78
+Seattle Seahawks,6,SOLD,redteam812
+Tampa Bay Buccaneers,14,SOLD,kmxr78
+Tennessee Titans,10,SOLD,deerkiller1970
+Washington Commanders,10,SOLD,ejasso209
+#25,11,SOLD,ejasso209
+#30,7,SOLD,02ohta

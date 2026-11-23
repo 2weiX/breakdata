@@ -1,34 +1,35 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-MISC,,OPEN,
+Buffalo Bills,541,SOLD,saintjay
+Carolina Panthers,460,SOLD,jbethree_805
+Chicago Bears,529,SOLD,bigtsprad
+Cleveland Browns,555,SOLD,boston8899
+Dallas Cowboys,430,SOLD,boston8899
+Kansas City Chiefs,628,SOLD,mhrenchir1
+Los Angeles Chargers,405,SOLD,ratedrelics
+Minnesota Vikings,615,SOLD,mhrenchir1
+New England Patriots,575,SOLD,mhrenchir1
+New Orleans Saints,310,SOLD,zimaruskie
+New York Giants,446.25,SOLD,saintjay
+Pittsburgh Steelers,610,SOLD,boston8899
+San Francisco 49ers,556,SOLD,boston8899
+Tennessee Titans,405,SOLD,dk_sportsbreaks
+MISC,495,SOLD,boston8899
+#1,329,SOLD,boston8899
+#6,381.75,SOLD,saintjay
+#10,579,SOLD,boston8899
+#11,605,SOLD,saintjay
+#12,605,SOLD,boston8899
+#13,595,SOLD,mhrenchir1
+#14,565,SOLD,mhrenchir1
+#16,649,SOLD,boston8899
+#18,520,SOLD,kingcarcollects
+#19,548,SOLD,saintjay
+#20,485,SOLD,boston8899
+#22,430,SOLD,boston8899
+#23,508,SOLD,bigtsprad
+#25,425,SOLD,mhrenchir1
+#26,445,SOLD,boston8899
+#27,440,SOLD,saintjay
+#31,405,SOLD,dk_sportsbreaks
+#32,424,SOLD,jbethree_805
+#34,1,OPEN,
