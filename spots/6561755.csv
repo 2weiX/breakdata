@@ -4,7 +4,6 @@ Arizona State,22,OPEN,
 Auburn,12.8,SOLD,beej_15
 Boston College,12,OPEN,
 Cincinnati,14,OPEN,
-Clemson,32,OPEN,
 Florida,44,OPEN,
 Florida State,18,OPEN,
 Georgia,28,SOLD,ianatt70797
@@ -16,8 +15,6 @@ Maryland,12,OPEN,
 Michigan,70,OPEN,
 Mississippi State,32,SOLD,andrewsla08510
 Notre Dame,82,SOLD,irishfan1122
-Ohio State,90,OPEN,
-Oklahoma,39,OPEN,
 Oklahoma State,30,SOLD,cropduster77
 Ole Miss,30,SOLD,cola_bombsquad
 Oregon,30,SOLD,andrewsla08510
@@ -27,14 +24,11 @@ South Carolina,24,SOLD,jbm33
 Stanford,8,SOLD,cropduster77
 Tennessee,26,OPEN,
 Texas,145,OPEN,
-UCLA,12,OPEN,
-UNC,32,OPEN,
 USC,125,OPEN,
 Utah,10,SOLD,jonpeay
 Vanderbilt,17.6,SOLD,andrewsla08510
 Virginia,11,OPEN,
 Washington State,18,OPEN,
-West Virginia,14,OPEN,
 Wisconsin,16,OPEN,
 BYU,35,SOLD,andrewsla08510
 Minnesota,14,OPEN,
@@ -48,7 +42,6 @@ Boise State,65,OPEN,
 California,25,OPEN,
 Colorado,22,OPEN,
 Duke,28,OPEN,
-Illinois,14,OPEN,
 Iowa,10,OPEN,
 Kansas,10,SOLD,va_wildman
 Kansas State,10,OPEN,
@@ -79,3 +72,10 @@ UNLV / Fresno State,11,OPEN,
 Texas State / Western Kentucky,14,OPEN,
 High School,35,SOLD,coreyt19
 Miami,90,SOLD,georgeaja44605
+Clemson,21,SOLD,coreyt19
+Ohio State,70,SOLD,bmack312
+Oklahoma,22,SOLD,camron51
+UCLA,12,SOLD,mwsportsco
+UNC,19,SOLD,coreyt19
+West Virginia,9,SOLD,camron51
+Illinois,9,SOLD,atl_052271

@@ -1,34 +1,23 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-Miscellaneous,,OPEN,
+#1,77,SOLD,dwood7714
+#2,83,SOLD,mjskradski
+New York Giants,91,SOLD,dwood7714
+#4,69,SOLD,hutch801
+Minnesota Vikings,34,SOLD,dwood7714
+#6,71,SOLD,masch
+Green Bay Packers,81,SOLD,masch
+Philadelphia Eagles,75,SOLD,masch
+#9,74,SOLD,letmehavethat
+Los Angeles Rams,92,SOLD,masch
+Cleveland Browns,77,SOLD,tyb1659
+#12,79,SOLD,tyb1659
+#13,94,SOLD,steelheaddan
+#14,112,SOLD,dwood7714
+Dallas Cowboys,89,SOLD,steelheaddan
+Detroit Lions,73,SOLD,tyb1659
+San Francisco 49ers,60,SOLD,mjskradski
+Las Vegas Raiders,62,SOLD,angelus_satani
+Atlanta Falcons,68,SOLD,celebritysports
+Denver Broncos,74,SOLD,steelheaddan
+Kansas City Chiefs,100,SOLD,billybobtheclown
+#22,1,OPEN,

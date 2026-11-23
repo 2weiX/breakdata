@@ -1,0 +1,11 @@
+spot,price,state,buyer
+Chicago Bears,8,SOLD,stevenjxmenez
+"Indianapolis Colts, Pittsburgh Steelers",15,SOLD,iamkindofabigdeal
+New York Giants,8,SOLD,iamkindofabigdeal
+"Houston Texans, Washington Commanders",15,SOLD,iamkindofabigdeal
+"Arizona Cardinals, Green Bay Packers",15,SOLD,iamkindofabigdeal
+Tampa Bay Buccaneers,8,SOLD,jokercards8
+New Orleans Saints,8,SOLD,thecardbandito
+"Las Vegas Raiders, Miami Dolphins",15,SOLD,thecardbandito
+"Cincinnati Bengals, Kansas City Chiefs",15,SOLD,thecardbandito
+#10,1,OPEN,

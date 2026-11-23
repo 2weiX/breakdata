@@ -1,34 +1,44 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-MISC,,OPEN,
+Cincinnati Bengals,135,SOLD,peterupinyou85
+Seattle Seahawks,135,SOLD,etarmst423
+New York Giants,136,SOLD,flandersnj32
+Dallas Cowboys,109,SOLD,flandersnj32
+T,112,SOLD,flandersnj32
+Cleveland Browns,102,SOLD,peterupinyou85
+New England Patriots,89,SOLD,flandersnj32
+Chicago Bears,89,SOLD,lanbri46107
+T,88,SOLD,lanbri46107
+Denver Broncos,77,SOLD,lanbri46107
+Washington Commanders,92,SOLD,endzonechasers
+Indianapolis Colts,88,SOLD,lanbri46107
+Los Angeles Chargers,97,SOLD,everythinginsurance
+San Francisco 49ers,98,SOLD,lanbri46107
+T,89,SOLD,lanbri46107
+Las Vegas Raiders,99,SOLD,everythinginsurance
+Jacksonville Jaguars,98,SOLD,endzonechasers
+Baltimore Ravens,99,SOLD,everythinginsurance
+T,96,SOLD,lanbri46107
+Minnesota Vikings,99,SOLD,everythinginsurance
+Tampa Bay Buccaneers,98,SOLD,endzonechasers
+Los Angeles Rams,87,SOLD,lanbri46107
+Tennessee Titans,76,SOLD,kbiggins79
+T,77,SOLD,endzonechasers
+T,81,SOLD,kbiggins79
+R,68,SOLD,endzonechasers
+Philadelphia Eagles,71,SOLD,kbiggins79
+T,78,SOLD,endzonechasers
+Atlanta Falcons,74,SOLD,initiativewon
+Green Bay Packers,71,SOLD,endzonechasers
+Pittsburgh Steelers,86,SOLD,kbiggins79
+T,78,SOLD,endzonechasers
+Kansas City Chiefs,66,SOLD,flandersnj32
+T,78,SOLD,flandersnj32
+Buffalo Bills,44,SOLD,johnkho23
+Detroit Lions,44,SOLD,generalfive1
+New Orleans Saints,41,SOLD,hardcorehobby
+Carolina Panthers,40,SOLD,malu12
+MISC,42,SOLD,malu12
+Arizona Cardinals,31,SOLD,hardcorehobby
+Houston Texans,15,SOLD,malu12
+New York Jets,11,SOLD,dylintur
+Miami Dolphins,34,SOLD,davide24

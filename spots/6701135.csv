@@ -1,3 +1,19 @@
 spot,price,state,buyer
 Miami Dolphins,8,SOLD,paulie716
-New England Patriots,17,SOLD,paulie716
+"New England Patriots, Tampa Bay Buccaneers",17,SOLD,paulie716
+"Houston Texans, New York Giants",17,SOLD,paulie716
+"Green Bay Packers, New York Jets",17,SOLD,paulie716
+"Denver Broncos, Bengals, Bills",9,SOLD,ashymoss
+Detroit Lions,8,SOLD,hv__breakers
+Seattle Seahawks,7,SOLD,hv__breakers
+Indianapolis Colts,7,SOLD,abdilla
+"Dallas Cowboys, Los Angeles Chargers",17,SOLD,abdilla
+Jacksonville Jaguars,9,SOLD,abdilla
+Arizona Cardinals,8,SOLD,hv__breakers
+"San Francisco 49ers, Washington Commanders",17,SOLD,abdilla
+"Chicago Bears, Tennessee Titans",17,SOLD,rvanderkleed
+"Atlanta Falcons, Baltimore Ravens",17,SOLD,abdilla
+"Cleveland Browns, Kansas City Chiefs",18,SOLD,rvanderkleed
+"Los Angeles Rams, New Orleans Saints",17,SOLD,abdilla
+"Las Vegas Raiders, Minnesota Vikings",19,SOLD,rvanderkleed
+Carolina Panthers,7,SOLD,abdilla

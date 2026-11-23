@@ -1,22 +1,13 @@
 spot,price,state,buyer
-Arizona Cardinals,38,OPEN,
 Atlanta Falcons,22.4,SOLD,dutchie1983
-Baltimore Ravens,41,OPEN,
 Buffalo Bills,37.6,SOLD,spengler362
-Carolina Panthers,62,OPEN,
 Chicago Bears,50,SOLD,franchiz
 Cincinnati Bengals,34.4,SOLD,dutchie1983
-Cleveland Browns,53,OPEN,
-Dallas Cowboys,27,OPEN,
-Denver Broncos,54,OPEN,
 Detroit Lions,35.2,SOLD,ftesports
 Green Bay Packers,27,SOLD,pocompton8
 Houston Texans,19.2,SOLD,uncleb94
-Indianapolis Colts,50,OPEN,
 Jacksonville Jaguars,55.25,SOLD,rorman69
-Kansas City Chiefs,46,OPEN,
 Las Vegas Raiders,52.8,SOLD,uncleb94
-Los Angeles Chargers,52,OPEN,
 Los Angeles Rams,28.8,SOLD,ftesports
 Miami Dolphins,17.6,SOLD,dutchie1983
 Minnesota Vikings,26.4,SOLD,big27dog
@@ -24,10 +15,19 @@ New England Patriots,51.3,SOLD,rorman69
 New Orleans Saints,56.7,SOLD,rorman69
 New York Giants,56.95,SOLD,rorman69
 New York Jets,20,SOLD,simrob76600
-Philadelphia Eagles,40,OPEN,
-Pittsburgh Steelers,37,OPEN,
 San Francisco 49ers,27.2,SOLD,dutchie1983
 Seattle Seahawks,24.8,SOLD,dutchie1983
 Tampa Bay Buccaneers,48,SOLD,dutchie1983
 Tennessee Titans,47.2,SOLD,lannon322632
-Washington Commanders,49,OPEN,
+Arizona Cardinals,20,SOLD,dutchie1983
+Baltimore Ravens,22,SOLD,farmer004
+Carolina Panthers,52.7,SOLD,rorman69
+Cleveland Browns,45.05,SOLD,rorman69
+Dallas Cowboys,17,SOLD,dutchie1983
+Denver Broncos,48.6,SOLD,rorman69
+Indianapolis Colts,42.5,SOLD,rorman69
+Kansas City Chiefs,41.4,SOLD,rorman69
+Los Angeles Chargers,44.2,SOLD,rorman69
+Philadelphia Eagles,20,SOLD,ftesports
+Pittsburgh Steelers,33.3,SOLD,rorman69
+Washington Commanders,26,SOLD,farmer004

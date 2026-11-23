@@ -1,33 +1,34 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+New Orleans Saints,44,SOLD,uptickmiami
+Chicago Bears,59,SOLD,tannertat
+Los Angeles Rams,80,SOLD,tannertat
+Seattle Seahawks,82,SOLD,traderdough
+Denver Broncos,83,SOLD,tannertat
+Green Bay Packers,115,SOLD,ripshawaii
+Houston Texans,113,SOLD,traderdough
+Baltimore Ravens,85,SOLD,traderdough
+Tennessee Titans,95,SOLD,traderdough
+Philadelphia Eagles,89,SOLD,traderdough
+Dallas Cowboys,131,SOLD,traderdough
+Indianapolis Colts,126,SOLD,ripshawaii
+Detroit Lions,94,SOLD,traderdough
+Minnesota Vikings,88,SOLD,ripshawaii
+Washington Commanders,129,SOLD,traderdough
+#16,107,SOLD,tannertat
+New York Giants,145,SOLD,myeager4
+New England Patriots,92,SOLD,brianfrom1968
+San Francisco 49ers,116,SOLD,jman503
+Las Vegas Raiders,97,SOLD,tannertat
+Arizona Cardinals,130,SOLD,jman503
+New York Jets,83,SOLD,ripshawaii
+Los Angeles Chargers,94,SOLD,tannertat
+Kansas City Chiefs,94,SOLD,ripshawaii
+Tampa Bay Buccaneers,96,SOLD,traderdough
+Pittsburgh Steelers,85,SOLD,oopsbid
+Atlanta Falcons,90,SOLD,traderdough
+Jacksonville Jaguars,84,SOLD,oopsbid
+Buffalo Bills,83,SOLD,jbreit9
+Carolina Panthers,70,SOLD,slicknuss
+Cincinnati Bengals,78,SOLD,traderdough
+Cleveland Browns,48,SOLD,traderdough
+Miami Dolphins,32,SOLD,uptickmiami

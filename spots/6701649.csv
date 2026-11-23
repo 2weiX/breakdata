@@ -1,6 +1,5 @@
 spot,price,state,buyer
 Arizona Cardinals,424,OPEN,
-Atlanta Falcons,171,OPEN,
 Baltimore Ravens,248,OPEN,
 Buffalo Bills,375,SOLD,chrisjohnson232323
 Carolina Panthers,307,OPEN,
@@ -18,7 +17,6 @@ Kansas City Chiefs,396,OPEN,
 Las Vegas Raiders,659,SOLD,chrisjohnson232323
 Los Angeles Chargers,219,OPEN,
 Los Angeles Rams,375,OPEN,
-Minnesota Vikings,238,OPEN,
 New England Patriots,470,SOLD,sgray93
 New Orleans Saints,370,OPEN,
 New York Giants,408,OPEN,
@@ -31,3 +29,5 @@ Tampa Bay Buccaneers,318,OPEN,
 Tennessee Titans,250,SOLD,lvdsportscards
 Washington Commanders,325,OPEN,
 miami dolphins,123,SOLD,mcgdustin
+Atlanta Falcons,171,SOLD,mcgdustin
+Minnesota Vikings,190.4,SOLD,mcgdustin
