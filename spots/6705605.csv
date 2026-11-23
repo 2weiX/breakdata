@@ -1,34 +1,40 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-MISC,,OPEN,
+Los Angeles Chargers,270,SOLD,flandersnj32
+Detroit Lions,193,SOLD,johnkho23
+Cleveland Browns,186,SOLD,johnkho23
+Dallas Cowboys,182,SOLD,johnkho23
+Los Angeles Rams,165,SOLD,johnkho23
+New England Patriots,155,SOLD,bigjohn1204
+New York Giants,160,SOLD,buzzy_sports
+Baltimore Ravens,136,SOLD,bigjohn1204
+Buffalo Bills,155,SOLD,wildcats2686
+T,161,SOLD,wildcats2686
+T,170,SOLD,wildcats2686
+Kansas City Chiefs,160,SOLD,wildcats2686
+T,156,SOLD,wildcats2686
+San Francisco 49ers,130,SOLD,wildcats2686
+"Chicago Bears, Las Vegas Raiders, Washington Commanders",116,SOLD,bigjohn1204
+Denver Broncos,145,SOLD,wildcats2686
+T,136,SOLD,wildcats2686
+Green Bay Packers,151,SOLD,wildcats2686
+Miami Dolphins,145,SOLD,duff_n_stuff
+MISC,150,SOLD,endzonechasers
+Tampa Bay Buccaneers,150,SOLD,wildcats2686
+Pittsburgh Steelers,160,SOLD,duff_n_stuff
+T,148,SOLD,endzonechasers
+T,150,SOLD,bigjohn1204
+T,445,SOLD,bigjohn1204
+Carolina Panthers,115,SOLD,endzonechasers
+T,120,SOLD,flandersnj32
+Cincinnati Bengals,127,SOLD,flandersnj32
+Minnesota Vikings,72,SOLD,endzonechasers
+Philadelphia Eagles,43,SOLD,endzonechasers
+Jacksonville Jaguars,34,SOLD,badlandscards
+Houston Texans,32,SOLD,drunkenfists
+Atlanta Falcons,34,SOLD,loganh1733
+New York Jets,48,SOLD,endzonechasers
+Arizona Cardinals,39,SOLD,loganh1733
+New Orleans Saints,34,SOLD,jacobz2736
+Seattle Seahawks,35,SOLD,buzzy_sports
+Tennessee Titans,23,SOLD,badlandscards
+Indianapolis Colts,25,SOLD,buzzy_sports

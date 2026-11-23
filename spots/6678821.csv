@@ -3,7 +3,7 @@ spot,price,state,buyer
 #2,20,OPEN,
 #3,20,OPEN,
 #4,20,SOLD,berto0407
-#5,20,OPEN,
+#5,20,SOLD,js5cards
 #6,20,OPEN,
 #7,20,SOLD,bigg_steve
 #8,20,OPEN,
@@ -18,7 +18,7 @@ spot,price,state,buyer
 #17,20,SOLD,berto0407
 #18,20,OPEN,
 #19,20,OPEN,
-#20,20,OPEN,
+#20,20,SOLD,vinylmazzias
 #21,20,OPEN,
 #22,18,SOLD,js5cards
 #23,20,SOLD,bigg_steve

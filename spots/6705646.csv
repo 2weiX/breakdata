@@ -1,34 +1,40 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-MISC,,OPEN,
+T,135,SOLD,flandersnj32
+San Francisco 49ers,145,SOLD,flandersnj32
+Las Vegas Raiders,145,SOLD,bigjohn1204
+#4,110.4,SOLD,jasonwhi48753
+Dallas Cowboys,140,SOLD,flandersnj32
+Cincinnati Bengals,145,SOLD,jasonwhi48753
+Seattle Seahawks,137,SOLD,bigjohn1204
+Baltimore Ravens,116,SOLD,bigjohn1204
+Denver Broncos,132,SOLD,flandersnj32
+Chicago Bears,100,SOLD,tylerwing33346
+New Orleans Saints,130,SOLD,tylerwing33346
+T,138,SOLD,flandersnj32
+Philadelphia Eagles,140,SOLD,flandersnj32
+MISC,138,SOLD,jasonwhi48753
+Carolina Panthers,123,SOLD,bigjohn1204
+#16,125,SOLD,bigjohn1204
+Atlanta Falcons,125,SOLD,flandersnj32
+#18,115,SOLD,flandersnj32
+Kansas City Chiefs,115,SOLD,bigjohn1204
+#20,102,SOLD,whicord
+Detroit Lions,110,SOLD,whicord
+#22,103,SOLD,flandersnj32
+Green Bay Packers,101,SOLD,whicord
+#24,94,SOLD,tylerwing33346
+#25,102,SOLD,tylerwing33346
+#26,117,SOLD,asassen
+Los Angeles Rams,125,SOLD,asassen
+#28,97,SOLD,whicord
+Los Angeles Chargers,111,SOLD,jasonwhi48753
+#30,126,SOLD,tylerwing33346
+Buffalo Bills,125,SOLD,bigjohn1204
+#32,22,SOLD,whicord
+#33,59,SOLD,whicord
+#34,53,SOLD,jasonwhi48753
+#35,49,SOLD,everythinginsurance
+Houston Texans,72,SOLD,everythinginsurance
+#37,63,SOLD,bigjohn1204
+Pittsburgh Steelers,32,SOLD,flandersnj32
+#39,1,OPEN,

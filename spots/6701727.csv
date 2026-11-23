@@ -1,34 +1,35 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-Miscellaneous,,OPEN,
+Dallas Cowboys,14,SOLD,brenda12438229
+Washington Commanders,17,SOLD,blueyes723
+New York Giants,15,SOLD,brenda12438229
+Philadelphia Eagles,17,SOLD,blueyes723
+Minnesota Vikings,16,SOLD,brenda12438229
+New England Patriots,16,SOLD,blueyes723
+New York Jets,16,SOLD,stolly24
+Cleveland Browns,16,SOLD,stolly24
+Miscellaneous,15,SOLD,blueyes723
+Atlanta Falcons,14,SOLD,brenda12438229
+Baltimore Ravens,18,SOLD,bos168
+Houston Texans,16,SOLD,blueyes723
+Kansas City Chiefs,15,SOLD,bos168
+Las Vegas Raiders,15,SOLD,brenda12438229
+San Francisco 49ers,17,SOLD,bos168
+Buffalo Bills,18,SOLD,blueyes723
+Miami Dolphins,14,SOLD,instagone
+Chicago Bears,16,SOLD,brenda12438229
+Los Angeles Rams,16,SOLD,blueyes723
+Jacksonville Jaguars,15,SOLD,instagone
+Tennessee Titans,16,SOLD,blueyes723
+Pittsburgh Steelers,3,SOLD,brenda12438229
+Denver Broncos,13,SOLD,bos168
+#24,1,SOLD,brenda12438229
+Seattle Seahawks,9,SOLD,blueyes723
+Detroit Lions,14,SOLD,blueyes723
+Green Bay Packers,9,SOLD,blueyes723
+Carolina Panthers,9,SOLD,tfizzy14
+Indianapolis Colts,11,SOLD,tfizzy14
+Tampa Bay Buccaneers,16,SOLD,blueyes723
+Arizona Cardinals,14,SOLD,tfizzy14
+Cincinnati Bengals,1,SOLD,tfizzy14
+New Orleans Saints,5,SOLD,tfizzy14
+Los Angeles Chargers,4,SOLD,blueyes723

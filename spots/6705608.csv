@@ -1,34 +1,41 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-MISC,,OPEN,
+Pittsburgh Steelers,301,SOLD,baseballcardkid28
+Chicago Bears,281,SOLD,pinnacle307
+Green Bay Packers,302,SOLD,pinnacle307
+Minnesota Vikings,362,SOLD,jfo18041
+San Francisco 49ers,332,SOLD,pinnacle307
+Detroit Lions,305,SOLD,pinnacle307
+Los Angeles Rams,426,SOLD,pinnacle307
+Cincinnati Bengals,305,SOLD,pinnacle307
+New York Giants,310,SOLD,pinnacle307
+#10,345,SOLD,jfo18041
+#11,250,SOLD,pinnacle307
+#12,270,SOLD,pinnacle307
+Kansas City Chiefs,355,SOLD,pinnacle307
+New England Patriots,202,SOLD,pinnacle307
+Arizona Cardinals,260,SOLD,jfo18041
+Buffalo Bills,305,SOLD,pinnacle307
+#17,230,SOLD,miketigs54
+Baltimore Ravens,250,SOLD,miketigs54
+Houston Texans,365,SOLD,miketigs54
+Carolina Panthers,355,SOLD,hoooorob
+#21,202,SOLD,hoooorob
+#22,275,SOLD,kingcarcollects
+#23,256,SOLD,pinnacle307
+Jacksonville Jaguars,285,SOLD,jfo18041
+Dallas Cowboys,201,SOLD,pinnacle307
+#26,150,SOLD,pinnacle307
+Los Angeles Chargers,147,SOLD,pinnacle307
+Cleveland Browns,140,SOLD,pinnacle307
+#29,105,SOLD,pinnacle307
+#30,1,SOLD,dubman1738
+Denver Broncos,88,SOLD,pinnacle307
+Philadelphia Eagles,94,SOLD,hoooorob
+MISC,58,SOLD,hoooorob
+Tampa Bay Buccaneers,80,SOLD,mahomesfan1
+Washington Commanders,21,SOLD,pinnacle307
+Seattle Seahawks,41,SOLD,sethder
+Las Vegas Raiders,26,SOLD,hoooorob
+Atlanta Falcons,30,SOLD,sethder
+Miami Dolphins,27,SOLD,sethder
+"Indianapolis Colts, New Orleans Saints, New York Jets, Tennessee Titans",81,SOLD,pinnacle307

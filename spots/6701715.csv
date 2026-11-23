@@ -1,34 +1,28 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-Miscellaneous,,OPEN,
+Baltimore Ravens,16,SOLD,mrittmer
+Las Vegas Raiders,15,SOLD,hernanpalacio
+Jacksonville Jaguars,18,SOLD,mrittmer
+Cleveland Browns,20,SOLD,mrittmer
+Tennessee Titans,19,SOLD,hernanpalacio
+Philadelphia Eagles,19,SOLD,mrittmer
+Tampa Bay Buccaneers,20,SOLD,brseiz
+Kansas City Chiefs,18,SOLD,brenda12438229
+Chicago Bears,21,SOLD,mrittmer
+Seattle Seahawks,32,SOLD,mrittmer
+Atlanta Falcons,18,SOLD,brenda12438229
+Miami Dolphins,17,SOLD,hernanpalacio
+Houston Texans,9,SOLD,brenda12438229
+#14,10,SOLD,brenda12438229
+Arizona Cardinals,4,SOLD,jd_6
+New York Giants,15,SOLD,mrittmer
+Los Angeles Chargers,10,SOLD,mrittmer
+San Francisco 49ers,11,SOLD,jd_6
+Pittsburgh Steelers,13,SOLD,coljerome
+New Orleans Saints,11,SOLD,tshroll
+Miscellaneous,23,SOLD,mrittmer
+New York Jets,16,SOLD,mrittmer
+Detroit Lions,16,SOLD,mrittmer
+Dallas Cowboys,15,SOLD,dk_28
+Los Angeles Rams,12,SOLD,mrittmer
+Green Bay Packers,12,SOLD,mrittmer
+Minnesota Vikings,17,SOLD,mrittmer

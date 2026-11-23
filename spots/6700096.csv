@@ -18,8 +18,8 @@ spot,price,state,buyer
 #17,34,SOLD,etarmst423
 #18,40,SOLD,cgallo1011
 🧑‍🔬 Philadelphia Eagles 👩‍🔬,41,SOLD,cgallo1011
-🩻 Tennessee Titans 💊,40,SOLD,corndogg48
-🛰️ Baltimore Ravens 🧲,27,SOLD,etarmst423
+#20,40,SOLD,corndogg48
+#21,27,SOLD,etarmst423
 🥼 MISC ⚛️,35,SOLD,etarmst423
 🧬 Atlanta Falcons 🔬,30,SOLD,redneckbreakz
 🔭 New York Giants 🚀,34,SOLD,colombia92
@@ -27,8 +27,15 @@ spot,price,state,buyer
 🦷 Cleveland Browns 🦴,34,SOLD,transparent_cards
 🚀 Cincinnati Bengals 🔭,50,SOLD,cgallo1011
 #28,46,SOLD,cgallo1011
-🧫 Detroit Lions ☢️,38,SOLD,gibraymond
+#29,38,SOLD,gibraymond
 🧪 Arizona Cardinals ⚗️,32,SOLD,gibraymond
 👩‍🔬 Tampa Bay Buccaneers 👨‍🔬,24,SOLD,redneckbreakz
 ☢️ New England Patriots 🦠,27,SOLD,cgallo1011
-#33,1,OPEN,
+#33,38,SOLD,etarmst423
+#34,33,SOLD,cgallo1011
+#35,1,SOLD,cgallo1011
+🧪 New Orleans Saints 🧬,38,SOLD,ryanfol07277
+🤖 Las Vegas Raiders 💡,38,SOLD,ryanfol07277
+🩺 Buffalo Bills 💉,7,SOLD,corndogg48
+💡 San Francisco 49ers 🤖,32,SOLD,etarmst423
+🧲 Green Bay Packers 🔋,68,SOLD,colombia92

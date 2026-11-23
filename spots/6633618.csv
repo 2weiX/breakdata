@@ -1,5 +1,5 @@
 spot,price,state,buyer
-Arizona Cardinals,68,OPEN,
+Arizona Cardinals,65,OPEN,
 Atlanta Falcons,40,OPEN,
 Baltimore Ravens,45,OPEN,
 Buffalo Bills,45.5,SOLD,yarny
@@ -24,8 +24,8 @@ New Orleans Saints,45,OPEN,
 New York Giants,40,SOLD,emerton_76
 Philadelphia Eagles,45,OPEN,
 Pittsburgh Steelers,45,OPEN,
-San Francisco 49ers,58,OPEN,
-Seattle Seahawks,58,OPEN,
+San Francisco 49ers,55,OPEN,
+Seattle Seahawks,55,OPEN,
 BUCS/RAMS (FOR DONNY),75,SOLD,donnybrascocards
 Tennessee Titans,65,SOLD,rndstarstorm
 Washington Commanders,45,OPEN,

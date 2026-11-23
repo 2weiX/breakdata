@@ -1,34 +1,46 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-Miscellaneous,,OPEN,
+#1,86,SOLD,mjskradski
+Detroit Lions,88,SOLD,mjskradski
+Arizona Cardinals,81,SOLD,austheboss22
+Washington Commanders,90,SOLD,scottrob99
+New England Patriots,117,SOLD,austheboss22
+Cleveland Browns,104,SOLD,jamcollectibleshq
+Pittsburgh Steelers,101,SOLD,josephwal82958
+Philadelphia Eagles,98,SOLD,josephwal82958
+#9,96,SOLD,steelheaddan
+Dallas Cowboys,105,SOLD,steelheaddan
+Atlanta Falcons,104,SOLD,jamcollectibleshq
+New Orleans Saints,96,SOLD,mjskradski
+#13,105,SOLD,heep359
+New York Giants,115,SOLD,heep359
+Kansas City Chiefs,112,SOLD,thisisaburner2026
+Miscellaneous,117,SOLD,heep359
+#17,117,SOLD,thisisaburner2026
+#18,125,SOLD,thisisaburner2026
+Las Vegas Raiders,127,SOLD,thebinmaster87
+#20,138,SOLD,thebinmaster87
+Minnesota Vikings,140,SOLD,thebinmaster87
+#22,143,SOLD,thebinmaster87
+Buffalo Bills,155,SOLD,thebinmaster87
+Cincinnati Bengals,160,SOLD,thebinmaster87
+#25,172,SOLD,thebinmaster87
+#26,170,SOLD,thebinmaster87
+Los Angeles Rams,170,SOLD,thebinmaster87
+Chicago Bears,130,SOLD,thisisaburner2026
+Houston Texans,102,SOLD,thebinmaster87
+San Francisco 49ers,118,SOLD,thebinmaster87
+Seattle Seahawks,66,SOLD,billybobtheclown
+#32,99,SOLD,thisisaburner2026
+Green Bay Packers,110,SOLD,billybobtheclown
+#34,88,SOLD,joelnel35973
+Miami Dolphins,101,SOLD,joelnel35973
+Carolina Panthers,111,SOLD,thisisaburner2026
+#37,115,SOLD,thebinmaster87
+Denver Broncos,105,SOLD,billybobtheclown
+Baltimore Ravens,130,SOLD,thebinmaster87
+New York Jets,78,SOLD,jamcollectibleshq
+Jacksonville Jaguars,75,SOLD,billybobtheclown
+Los Angeles Chargers,98,SOLD,austheboss22
+Indianapolis Colts,47,SOLD,jamcollectibleshq
+Tennessee Titans,37,SOLD,jamcollectibleshq
+Tampa Bay Buccaneers,44,SOLD,billybobtheclown

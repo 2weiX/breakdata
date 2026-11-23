@@ -1,30 +1,45 @@
 spot,price,state,buyer
 Detroit Lions,141,SOLD,everythinginsurance
-#2,145,SOLD,skunkycardemporium315
 Seattle Seahawks,155,SOLD,amgsportsrips
-#4,112,SOLD,buzzy_sports
+T,112,SOLD,buzzy_sports
 Dallas Cowboys,165,SOLD,ryanbeck19637
 Philadelphia Eagles,180,SOLD,flandersnj32
-#7,185,SOLD,ryanbeck19637
+T,185,SOLD,ryanbeck19637
 Buffalo Bills,175,SOLD,ryanbeck19637
 Los Angeles Chargers,180,SOLD,flandersnj32
 New England Patriots,190,SOLD,everythinginsurance
-#11,160,SOLD,ryanbeck19637
+T,160,SOLD,ryanbeck19637
 Chicago Bears,128.8,SOLD,jdharris23
 Los Angeles Rams,158,SOLD,endzonechasers
 MISC,135,SOLD,buzzy_sports
 Cleveland Browns,130,SOLD,endzonechasers
-#16,130,SOLD,endzonechasers
+T,130,SOLD,endzonechasers
 Minnesota Vikings,20,SOLD,dylintur
 Atlanta Falcons,144,SOLD,endzonechasers
 Kansas City Chiefs,130,SOLD,ccline301
 New York Jets,130,SOLD,ccline301
-#21,106,SOLD,travis1742
+T,106,SOLD,travis1742
 Las Vegas Raiders,116,SOLD,travis1742
-#23,136,SOLD,ccline301
-#24,135,SOLD,ccline301
-#25,125,SOLD,flandersnj32
+T,136,SOLD,ccline301
+T,125,SOLD,flandersnj32
 San Francisco 49ers,115,SOLD,ryanbeck19637
 New York Giants,135,SOLD,everythinginsurance
-#28,130,SOLD,ryanbeck19637
-#29,1,OPEN,
+T,130,SOLD,ryanbeck19637
+T,115,SOLD,endzonechasers
+Pittsburgh Steelers,84,SOLD,travis1742
+Baltimore Ravens,61,SOLD,endzonechasers
+T,42,SOLD,travis1742
+Green Bay Packers,42,SOLD,travis1742
+Cincinnati Bengals,48,SOLD,drunkenfists
+T,50,SOLD,endzonechasers
+Denver Broncos,36,SOLD,btierney
+New Orleans Saints,26,SOLD,johnkho23
+Jacksonville Jaguars,30,SOLD,lanbri46107
+Washington Commanders,28,SOLD,lanbri46107
+Arizona Cardinals,1,SOLD,dylintur
+Miami Dolphins,22,SOLD,lanbri46107
+Houston Texans,24,SOLD,johnkho23
+Tennessee Titans,26,SOLD,drunkenfists
+Indianapolis Colts,19,SOLD,travis1742
+Carolina Panthers,29,SOLD,johnkho23
+Tampa Bay Buccaneers,20,SOLD,drunkenfists

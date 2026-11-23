@@ -1,8 +1,8 @@
 spot,price,state,buyer
 Arizona Cardinals,9,OPEN,
-Atlanta Falcons,6,OPEN,
-Baltimore Ravens,5,OPEN,
-Buffalo Bills,8,OPEN,
+Atlanta Falcons,3,SOLD,dustemall41
+Baltimore Ravens,4,SOLD,alexrac76230
+Buffalo Bills,8,SOLD,tuckercards76
 Carolina Panthers,8,OPEN,
 Cincinnati Bengals,4.8,SOLD,koberesells
 Cleveland Browns,14,OPEN,
@@ -11,21 +11,21 @@ Detroit Lions,7,OPEN,
 Green Bay Packers,7,OPEN,
 Indianapolis Colts,6,OPEN,
 Jacksonville Jaguars,12,OPEN,
-Kansas City Chiefs,7,OPEN,
-Las Vegas Raiders,17,OPEN,
+Las Vegas Raiders,12,SOLD,_thatoneguy_
 Los Angeles Chargers,3,SOLD,jazzyjones222
-Los Angeles Rams,6,OPEN,
+Los Angeles Rams,5,SOLD,ctsvjuan89
 Miami Dolphins,4,SOLD,carterdif
 Minnesota Vikings,8,OPEN,
 New England Patriots,5.55,SOLD,ctsvjuan89
 New Orleans Saints,8,SOLD,peytensturges
 New York Giants,15,OPEN,
 New York Jets,3.2,SOLD,koberesells
-Philadelphia Eagles,6,OPEN,
+Philadelphia Eagles,5,SOLD,bleedgreen131
 Pittsburgh Steelers Texans ,11,SOLD,jazzyjones222
 San Francisco 49ers,8,OPEN,
-Seattle Seahawks,6,OPEN,
-Tampa Bay Buccaneers,6,OPEN,
-Tennessee Titans,9,OPEN,
+Seattle Seahawks,5,SOLD,uwfan1
+Tampa Bay Buccaneers,6,SOLD,jazzyjones222
+Tennessee Titans,7,OPEN,
 Washington Commanders,4.8,SOLD,jazzyjones222
 Chicago Bears,7.2,SOLD,koberesells
+CHIEFS,5,SOLD,alexrac76230

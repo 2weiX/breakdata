@@ -1,34 +1,41 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-MISC,,OPEN,
+Dallas Cowboys,135,SOLD,flandizzle
+#2,135,SOLD,jaxon2012
+Green Bay Packers,160,SOLD,slimmpickinz
+San Francisco 49ers,190,SOLD,slimmpickinz
+Minnesota Vikings,155,SOLD,jaxon2012
+#6,201,SOLD,ezmonkee012
+Chicago Bears,177,SOLD,ezmonkee012
+#8,180,SOLD,slimmpickinz
+New York Giants,125,SOLD,eddie_b123
+#10,145,SOLD,eddie_b123
+Kansas City Chiefs,100,SOLD,jordanwong_20
+#12,140,SOLD,rudycardshopog
+Los Angeles Rams,170,SOLD,charlesdri007
+#14,135,SOLD,bnel555
+MISC,136,SOLD,bnel555
+Seattle Seahawks,126,SOLD,rudycardshopog
+#17,130,SOLD,bnel555
+"Cincinnati Bengals, New England Patriots",128,SOLD,flandizzle
+Denver Broncos,1,SOLD,eddie_b123
+Los Angeles Chargers,169,SOLD,buzzy_sports
+#21,91,SOLD,flandizzle
+Cleveland Browns,79,SOLD,ezmonkee012
+Las Vegas Raiders,84,SOLD,ezmonkee012
+#24,81,SOLD,flandizzle
+New York Jets,78,SOLD,ezmonkee012
+Tennessee Titans,70,SOLD,eddie_b123
+Houston Texans,75,SOLD,eddie_b123
+Washington Commanders,99,SOLD,buddhagello
+Baltimore Ravens,86,SOLD,aldog714
+Pittsburgh Steelers,85,SOLD,bnel555
+Buffalo Bills,56,SOLD,flandizzle
+New Orleans Saints,59,SOLD,aldog714
+Carolina Panthers,48,SOLD,quea1609
+Tampa Bay Buccaneers,53,SOLD,twebb1313
+Philadelphia Eagles,56,SOLD,buddhagello
+Detroit Lions,48,SOLD,batmanfos
+Miami Dolphins,36,SOLD,batmanfos
+"Atlanta Falcons, Indianapolis Colts",41,SOLD,clutch93
+#39,51,SOLD,clutch93
+"Arizona Cardinals, Jacksonville Jaguars",44,SOLD,ohaeth09113

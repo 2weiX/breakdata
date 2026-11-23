@@ -1,5 +1,5 @@
 spot,price,state,buyer
-Arizona Cardinals,42,OPEN,
+Arizona Cardinals,42,SOLD,cjduell
 Atlanta Falcons,20,SOLD,ljsufc
 Baltimore Ravens,30,OPEN,
 Buffalo Bills,64,OPEN,
@@ -24,10 +24,10 @@ New York Jets,40,OPEN,
 Philadelphia Eagles,40,OPEN,
 Pittsburgh Steelers,36,OPEN,
 San Francisco 49ers,46,OPEN,
+Seattle Seahawks,38.4,SOLD,alexnevans
 Tampa Bay Buccaneers,52,OPEN,
 Tennessee Titans,56,OPEN,
-Washington Commanders,26,OPEN,
+Washington Commanders,19,SOLD,lewisw1889
 Jacksonville Jaguars,25.5,SOLD,wearegoingdown
 Miami Dolphins,26,SOLD,jamesnev14725
 New york Giants,66,OPEN,
-Seattle Seahawks,38.4,SOLD,alexnevans

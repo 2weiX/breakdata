@@ -1,55 +1,49 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-Alabama,,OPEN,
-BYU,,OPEN,
-CAL,,OPEN,
-Florida Gators,,OPEN,
-Georgia,,OPEN,
-Indiana,,OPEN,
-Kentucky,,OPEN,
-LSU,,OPEN,
-Miami,,OPEN,
-Michigan,,OPEN,
-Miss State,,OPEN,
-Notre Dame,,OPEN,
-Oklahoma,,OPEN,
-Oklahoma State,,OPEN,
-Ole Miss,,OPEN,
-Oregon,,OPEN,
-Texas,,OPEN,
-Texas A&M,,OPEN,
-USC,,OPEN,
-Vanderbilt,,OPEN,
-Washington,,OPEN,
-All Other Colleges,,OPEN,
+San Francisco 49ers,1,SOLD,johnmel2145
+USC,5,SOLD,hunterutley
+Tennessee Titans,5,SOLD,hunterutley
+Buffalo Bills,7,SOLD,hunterutley
+Texas,9,SOLD,hunterutley
+New York Giants,3,SOLD,kylej415
+Notre Dame,6,SOLD,kylej415
+"Tampa Bay Buccaneers, Oregon",15,SOLD,hunterutley
+Florida Gators,6,SOLD,ronniebur75840
+Carolina Panthers,6,SOLD,ronniebur75840
+Arizona Cardinals,6,SOLD,kylej415
+CAL,7,SOLD,kylej415
+BYU,5,SOLD,nickstu
+Pittsburgh Steelers,6,SOLD,luckygordon7
+"Baltimore Ravens, Chicago Bears",17,SOLD,kylej415
+"Los Angeles Rams, Michigan",17,SOLD,kylej415
+Los Angeles Chargers,2,SOLD,markgri36266
+Miami Dolphins,5,SOLD,markgri36266
+Dallas Cowboys,5,SOLD,kylej415
+Tradeback,6,SOLD,kylej415
+New England Patriots,7,SOLD,kylej415
+Georgia,8,SOLD,kylej415
+"Detroit Lions, LSU",9,SOLD,kylej415
+New Orleans Saints,5,SOLD,vossvault96
+Denver Broncos,5,SOLD,luckygordon7
+Atlanta Falcons,5,SOLD,vossvault96
+Kansas City Chiefs,5,SOLD,kylej415
+Oklahoma State,5,SOLD,hunterutley
+Seattle Seahawks,8,SOLD,kylej415
+Miss State,6,SOLD,vossvault96
+Texas A&M,7,SOLD,kylej415
+All Other Colleges,5,SOLD,vossvault96
+Kentucky,5,SOLD,kylej415
+Cincinnati Bengals,4,SOLD,hunterutley
+Vanderbilt,5,SOLD,ronniebur75840
+"Minnesota Vikings, Ole Miss",11,SOLD,kylej415
+Las Vegas Raiders,4,SOLD,kylej415
+Philadelphia Eagles,5,SOLD,ronniebur75840
+Indianapolis Colts,5,SOLD,vossvault96
+"Cleveland Browns, New York Jets",10,SOLD,ronniebur75840
+"Alabama, Miami",4,SOLD,vossvault96
+Washington Commanders,2,SOLD,ronniebur75840
+Jacksonville Jaguars,3,SOLD,luckygordon7
+Indiana,4,SOLD,luckygordon7
+Houston Texans,3,SOLD,luckygordon7
+Green Bay Packers,3,SOLD,vossvault96
+Washington,2,SOLD,luckygordon7
+Oklahoma,2,SOLD,luckygordon7

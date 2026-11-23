@@ -1,40 +1,31 @@
 spot,price,state,buyer
-Chaser 1🔥,,OPEN,
-Chaser 2🔥,,OPEN,
-Chaser 3🔥,,OPEN,
-Chaser 4🔥,,OPEN,
-Chaser 5🔥,,OPEN,
-Chaser 6🔥,,OPEN,
-Chaser 7🔥,,OPEN,
-Chaser 8🔥,,OPEN,
-Chaser 9🔥,,OPEN,
-Chaser 10🔥,,OPEN,
-Chaser 11🔥,,OPEN,
-Chaser 12🔥,,OPEN,
-Chaser 13🔥,,OPEN,
-CARDINALS,,OPEN,
-RAVENS,,OPEN,
-BENGALS,,OPEN,
-COWBOYS,,OPEN,
-BRONCOS,,OPEN,
-LIONS,,OPEN,
-TEXANS,,OPEN,
-COLTS,,OPEN,
-CHIEFS,,OPEN,
-RAIDERS,,OPEN,
-DOLPHINS,,OPEN,
-VIKINGS,,OPEN,
-PATRIOTS,,OPEN,
-JETS,,OPEN,
-EAGLES,,OPEN,
-49ERS,,OPEN,
-BUCCANEERS,,OPEN,
-COMMANDERS,,OPEN,
-SEC,,OPEN,
-BIG 12,,OPEN,
-ACC,,OPEN,
-BIG 10,,OPEN,
-INDEPENDENT,,OPEN,
-BIG SKY,,OPEN,
-HIGH SCHOOL,,OPEN,
-SANTA / SNOWMAN,,OPEN,
+#1,9,SOLD,luke012814
+#2,23,SOLD,luke012814
+Chaser 1🔥,17,SOLD,luke012814
+#4,41,SOLD,coolbreese55
+#5,22,SOLD,luke012814
+Chaser 7🔥,53,SOLD,luke012814
+Chaser 6🔥,65,SOLD,coolbreese55
+INDEPENDENT,13,SOLD,stickyalvin
+Chaser 11🔥,9,SOLD,garretwilson
+#10,34,SOLD,luke012814
+Chaser 5🔥,46,SOLD,luke012814
+Chaser 9🔥,50,SOLD,luke012814
+Chaser 4🔥,52,SOLD,luke012814
+#14,45,SOLD,coolbreese55
+#15,51,SOLD,coolbreese55
+ACC,32,SOLD,luke012814
+#17,15,SOLD,coolbreese55
+#18,14,SOLD,coolbreese55
+#19,15,SOLD,coolbreese55
+#20,14,SOLD,coolbreese55
+#21,14,SOLD,coolbreese55
+Chaser 12🔥,14,SOLD,coolbreese55
+Chaser 2🔥,14,SOLD,coolbreese55
+RAVENS,9,SOLD,garretwilson
+#25,9,SOLD,coolbreese55
+#26,11,SOLD,coolbreese55
+JETS,15,SOLD,coolbreese55
+PATRIOTS,9,SOLD,skygod65
+COWBOYS,11,SOLD,skygod65
+#30,1,OPEN,

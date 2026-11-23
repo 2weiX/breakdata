@@ -2,7 +2,7 @@ spot,price,state,buyer
 Arizona Cardinals,30,OPEN,
 Atlanta Falcons,10,OPEN,
 Baltimore Ravens,15,OPEN,
-Buffalo Bills,20,OPEN,
+"Buffalo Bills, rams, and jaguars break 1",40,SOLD,jordanvero15
 Carolina Panthers,10,OPEN,
 Chicago Bears,16,SOLD,ttom1195
 Cincinnati Bengals,15,OPEN,
@@ -13,12 +13,10 @@ Detroit Lions,10,OPEN,
 Green Bay Packers,10,OPEN,
 Houston Texans,10,OPEN,
 Indianapolis Colts,10,OPEN,
-Jacksonville Jaguars,10,OPEN,
 Kansas City Chiefs,20,OPEN,
 Las Vegas Raiders,40,OPEN,
 Los Angeles Chargers,10,OPEN,
-Los Angeles Rams,25,OPEN,
-Miami Dolphins,5,OPEN,
+Miami Dolphins,4,SOLD,jeremy26323
 Minnesota Vikings,10,OPEN,
 New England Patriots,20,OPEN,
 New Orleans Saints,20,OPEN,

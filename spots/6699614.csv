@@ -1,21 +1,17 @@
 spot,price,state,buyer
-Atlanta Falcons/Georgia tech/OleMiss/VTech,10,OPEN,
-Baltimore Ravens/Iowa/Maryland/Virginia,12,OPEN,
-"Buffalo Bills/Arkansas,Purdue/Wyoming",20,OPEN,
-Carolina Panthers/Clemson/NC State,10,OPEN,
+Atlanta Falcons/Georgia tech/OleMiss/VTech,8,OPEN,
+Baltimore Ravens/Iowa/Maryland/Virginia,10,OPEN,
+Carolina Panthers/Clemson/NC State,8,OPEN,
 Chicago Bears/Boise St/Ilinois/Northwestern,12,SOLD,stevenporfin
-Cincinnati Bengals/Akron/Cincinatti/UConn,12,OPEN,
-Denver Broncos/Colorado/Kansas St,15,OPEN,
-Detroit Lions/Louisville/Michigan/Michigan St,15,OPEN,
+Denver Broncos/Colorado/Kansas St,10,OPEN,
+Detroit Lions/Louisville/Michigan/Michigan St,10,OPEN,
 Green Bay Packers/Azizona/Nebraska/Wisconsin,9.6,SOLD,stevenporfin
-Jacksonville Jaguars/Fau/Texas A&M/WashingtonSt,10,OPEN,
-Las Vegas Raiders/Delaware/New Mexico/UNLV,30,OPEN,
-Los Angeles Chargers/Iowa St/SD State,10,OPEN,
-Los Angeles Rams/Fresno St/Stanford/Ucla,15,OPEN,
-Minnesota Vikings/Marshall/Minnesota/Washington,15,OPEN,
-New England Patriots/Duke/UNC,18,OPEN,
-New Orleans Saints/Lsu/Arizona St,12,OPEN,
+Jacksonville Jaguars/Fau/Texas A&M/WashingtonSt,8,OPEN,
+Los Angeles Chargers/Iowa St/SD State,8,OPEN,
+Los Angeles Rams/Fresno St/Stanford/Ucla,10,OPEN,
+Minnesota Vikings/Marshall/Minnesota/Washington,10,OPEN,
+New Orleans Saints/Lsu/Arizona St,10,OPEN,
 New York Giants/Boston College/Rutgers/Western Michigan,15,SOLD,stevenporfin
-Philadelphia Eagles/Georgia/Texas St,16,OPEN,
+Philadelphia Eagles/Georgia/Texas St,10,OPEN,
 Pittsburgh Steelers/Penn St/Pitt/Indiana/Seattle/Cal/Southern Miss,16,SOLD,tunanocrust89
 Washington Commanders/BYU/USC/buc/Florida/UCF/Ohio u,12,SOLD,tunanocrust89
