@@ -1,7 +1,6 @@
 spot,price,state,buyer
 Pittsburgh Steelers,161,SOLD,zrb847
 New England Patriots,275,SOLD,skittlespitz19
-REFUND,1,SOLD,zrb847
 Green Bay Packers,190,SOLD,zrb847
 T,235,SOLD,zrb847
 T,240,SOLD,zrb847
@@ -24,5 +23,32 @@ T,280,SOLD,509mytime
 Tampa Bay Buccaneers,280,SOLD,509mytime
 T,310,SOLD,509mytime
 Atlanta Falcons,245,SOLD,girardcards
-Carolina Panthers,220,SOLD,shlahtty
-#27,1,OPEN,
+Los Angeles Rams,220,SOLD,shlahtty
+T,235,SOLD,shlahtty
+T,237,SOLD,shlahtty
+Chicago Bears,145,SOLD,briesh81437
+T,244,SOLD,shlahtty
+Denver Broncos,150,SOLD,mbark22
+Dallas Cowboys,65,SOLD,mbark22
+T,295,SOLD,mbark22
+T,280,SOLD,mbark22
+T,239,SOLD,shlahtty
+Minnesota Vikings,80,SOLD,shlahtty
+Carolina Panthers,80,SOLD,drewgon14534
+T,85,SOLD,shlahtty
+Jacksonville Jaguars,73,SOLD,make_me_rich
+Washington Commanders,70,SOLD,shlahtty
+T,32,SOLD,make_me_rich
+T,92,SOLD,drewgon14534
+Detroit Lions,83,SOLD,dabearsstillsuck
+Miami Dolphins,83,SOLD,joelnel35973
+T,84,SOLD,shlahtty
+T,94,SOLD,drewgon14534
+Philadelphia Eagles,92,SOLD,drewgon14534
+Seattle Seahawks,53,SOLD,make_me_rich
+T,73,SOLD,make_me_rich
+New Orleans Saints,79,SOLD,drewgon14534
+Buffalo Bills,90,SOLD,shlahtty
+Las Vegas Raiders,25,SOLD,make_me_rich
+Houston Texans,25,SOLD,make_me_rich
+"Arizona Cardinals, Indianapolis Colts, New York Jets, Tennessee Titans",109,SOLD,dabearsstillsuck

@@ -15,7 +15,7 @@ Houston Texans,40,OPEN,
 Indianapolis Colts,15,OPEN,
 Jacksonville Jaguars,24,OPEN,
 Kansas City Chiefs,40,OPEN,
-Las Vegas Raiders,88,SOLD,flexxdaripper
+#17,110,SOLD,flexxdaripper
 Los Angeles Chargers,24,OPEN,
 Los Angeles Rams,75,OPEN,
 Miami Dolphins,24,OPEN,
@@ -31,3 +31,4 @@ Seattle Seahawks,55,OPEN,
 Tampa Bay Buccaneers,17,SOLD,cms346
 Tennessee Titans,60,OPEN,
 Washington Commanders,50,OPEN,
+Las Vegas Raiders,110,OPEN,

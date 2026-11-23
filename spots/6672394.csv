@@ -30,12 +30,14 @@ CAR - Chris Brazzell II,99,OPEN,
 CAR - Luke Kuechly,1,SOLD,whattobewhat
 "CAR Others - D. Brown, T. Etienne, M. Freeling, J. Horn, J. Horn Jr., C. Hubbard, L. Hunter, W. Lee III, X. Legette, T. Tremble, Z. Wheatley",28,SOLD,benito1313
 CAR - Tetairoa McMillan,349,OPEN,
+CHI - Caleb Williams + Colston Loveland + Luther Burden,1799,SOLD,graciehobbies
 CHI - Dillon Thieneman,55,SOLD,csminix46
 "CHI Others - J. Johnson, J. McMahon, K. Monangai, M. Moss, M. Muhammad, S. Roush, N. Sewell, M. Singletary, M. Sweat, D. Swift, J. Thuney, B. Urlacher, D. Wright",50,SOLD,benito1313
 CHI - Rome Odunze,60,SOLD,jwolms
 CHI - William Perry,65,SOLD,creekside_sports
 CHI - Zavion Thomas,45,SOLD,spurg3
 CIN - Chase Brown,65,OPEN,
+CIN - Ja'Marr Chase,245,SOLD,cakbo35
 CIN - Joe Burrow,1499,OPEN,
 "CIN Others - J. Allen, T. Davis, J. Endries, B. Esiason, T. Higgins, C. Howell, A. Iosivas, D. Lawrence II, E. McPherson, A. MuÃ±oz, C. Young",35,SOLD,benito1313
 CLE - Carson Schwesinger,375,OPEN,
@@ -46,8 +48,8 @@ CLE - Quinshon Judkins,275,OPEN,
 CLE - Shedeur Sanders,75,OPEN,
 CLE - Taylen Green,40,SOLD,nicholasall
 DAL - Caleb Downs,349,OPEN,
-DAL - CeeDee Lamb,275,OPEN,
-DAL - George Pickens,59,OPEN,
+DAL - CeeDee Lamb + George Pickens,335,OPEN,
+DAL - Dak Prescott + Tony Romo + Brandon Aubrey,489,OPEN,
 DAL - Malachi Lawrence,1,SOLD,gerardoooq
 "DAL Others - J. Barham, D. Bland, D. Bryant, K. Clark, T. Dorsett, J. Ferguson, M. Irvin, D. Murray, D. Overshown, L. Overton, A. Smith, M. Trigg, J. Williams, Q. Williams",52,SOLD,chrisford29windycityalways
 DAL - Troy Aikman,55,SOLD,creekside_sports
@@ -57,7 +59,7 @@ DEN - John Elway,65,OPEN,
 DEN - Jonah Coleman,49,SOLD,6ix0h5ive
 "DEN Others - Z. Allen, S. Atwater, C. Bailey, D. Bentley, N. Bonitto, T. Davis, J. Dobbins, T. Hufanga, J. Joly, Q. Meinerz, V. Miller, M. Mims Jr., C. Sutton, T. York",46.75,SOLD,tsig_collects
 DEN - Pat Surtain II,149,OPEN,
-DEN - RJ Harvey,49,OPEN,
+DEN - RJ Harvey,7,SOLD,airbudd92
 DET - Amon-Ra St. Brown,325,OPEN,
 DET - Barry Sanders,125,OPEN,
 DET - Jahmyr Gibbs,499,OPEN,
@@ -66,12 +68,12 @@ DET - Sam LaPorta,49,SOLD,pennozmond25
 GB - Brett Favre,38.5,SOLD,jayvazzo
 GB - Jordan Love,199,OPEN,
 GB - Josh Jacobs,125,OPEN,
+GB - Matthew Golden + Brock Bowers + KC Concepion + Jordyn Tyson,1000,SOLD,jamesp2121
 GB - Micah Parsons,169,OPEN,
 "GB Others - L. Butler, B. Cisse, E. Cooper, D. Dennis-Sutton, D. Jackson, T. Kraft, J. Lofton, C. McClellan, X. McKinney, J. Reed, S. Sharpe, C. Watson, S. Williams, C. Woodson",59,SOLD,fishman77
 HOU - CJ Stroud,225,OPEN,
-HOU - Nico Collins,55,OPEN,
+HOU - Nico Collins + Woody Marks,115,OPEN,
 HOU - Will Anderson Jr.,55,OPEN,
-HOU - Woody Marks,55,OPEN,
 IND - Daniel Jones,75,OPEN,
 IND - Jonathon Taylor,99,OPEN,
 IND/DEN - Peyton Manning,175,OPEN,
@@ -88,7 +90,6 @@ KC - Garrett Nussmeier,199,OPEN,
 KC - Mansoor Delane,125,OPEN,
 "KC Others - C. Allen, N. Bolton, J. Charles, D. Hall, T. Hill, C. Humphrey, C. Jones, G. Karlaftis, R. Rice, T. Thornton",35,SOLD,naterigs
 KC - Patrick Mahomes II,2100,SOLD,cgdall
-KC - Peter Woods,49,OPEN,
 KC/SEA - Kenneth Walker III,225,OPEN,
 KC - Travis Kelce,60,SOLD,pauliewallnuts62
 KC - Xavier Worthy,55,OPEN,
@@ -110,13 +111,12 @@ LV - Mike Washington,99,OPEN,
 "LV Others - M. Allen, J. Bech, T. Brown, J. Chinn, K. Cousins, N. Dean, R. Hemby, H. Long, J. McCoy, D. Thornton Jr., T. Tucker, Q. Walker",49,SOLD,josh3517
 MIA - Caleb Douglas,79.2,SOLD,backyardjordy
 MIA - Chris Bell,149,OPEN,
-MIA - Dan Marino,99,OPEN,
+MIA - Dan Marino,60,SOLD,hitharbor
 MIA - De'Von Achane,299,OPEN,
 MIA - Jacob Rodriguez,100,SOLD,ks29bald
 "MIA Others - K. Coleman Jr., Q. Ewers, O. Gordon II, K. Grant, B. Griese, C. Robinson, M. Washington, R. Williams, M. Willis, J. Wright",36,SOLD,ks29bald
 MIN - Aaron Jones Sr.,1,SOLD,gerardoooq
-MIN - Jordan Addison,65,OPEN,
-MIN - Justin Jefferson,649,OPEN,
+MIN - Justin Jefferson + Jordan Addison,699,OPEN,
 "MIN Others + RAMS OTHERS - C. Banks, C. Carter, D. Claibo Murphy Jr., K. Murray, A. Peterson, C. Tiernan, D. Turner",90,SOLD,benito1313
 MIN - Randy Moss,89,OPEN,
 NE - Drake Maye,1199,OPEN,
@@ -141,8 +141,7 @@ NYJ - Garrett Wilson,199,OPEN,
 NYJ - Kenyon Sadiq,225,OPEN,
 NYJ - Omar Cooper Jr.,60,SOLD,chrisford29windycityalways
 "NYJ Others - B. Allen, W. Chrebet, D. Davis, M. Fitzpatrick, A. Mitchell, D. Ponds, D. Revis, G. Smith, T. Sweat, M. Taylor",41.65,SOLD,tsig_collects
-PHI - Cole Payton,65,OPEN,
-PHI - Jalen Hurts,225,OPEN,
+PHI - Jalen Hurts + Cole Payton QB,200,SOLD,philly_fanatic
 PHI - Makai Lemon,525,OPEN,
 PHI/NYG - Saquon Barkley,325,OPEN,
 PIT - Aaron Rodgers,275,OPEN,
@@ -171,7 +170,3 @@ WAS - Art Monk,55,OPEN,
 WAS - Jayden Daniels,875,OPEN,
 "WAS Others - K. Allen, K. Chaisson, J. Croskey-Merritt, D. Hall, R. Henry Jr., A. Kaliakmanis, L. McCaffrey, T. McLaurin, C. Okonkwo, J. Riggins, M. Sainristil, D. Samuel, S. Taylor, L. Tunsil, R. White",47.2,SOLD,nextlevel__breaks
 WAS - Sonny Styles,299,OPEN,
-CHI - Caleb Williams + Colston Loveland + Luther Burden,1799,SOLD,graciehobbies
-GB - Matthew Golden + Brock Bowers + KC Concepion + Jordyn Tyson,1000,SOLD,jamesp2121
-CIN - Ja'Marr Chase,245,SOLD,cakbo35
-DAL - Dak Prescott + Tony Romo + Brandon Aubrey,489,OPEN,

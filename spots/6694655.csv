@@ -1,5 +1,5 @@
 spot,price,state,buyer
-Arizona Cardinals,14,OPEN,
+Arizona Cardinals,10,SOLD,stephanheb
 Atlanta Falcons,14,SOLD,pxxxz4008
 Baltimore Ravens,14,OPEN,
 Buffalo Bills,14,SOLD,nokturas
@@ -8,19 +8,21 @@ Chicago Bears,14,SOLD,latradingcards82
 Cincinnati Bengals,11.2,SOLD,nokturas
 Cleveland Browns,14,OPEN,
 Dallas Cowboys,14,SOLD,tobigr19
+Denver Broncos,14,SOLD,fritte97
 Detroit Lions,14,SOLD,pxxxz4008
 Green Bay Packers,14,SOLD,nokturas
-Houston Texans,14,OPEN,
+Houston Texans,9,SOLD,stephanheb
 Indianapolis Colts,11,SOLD,hawkandi0609
 Jacksonville Jaguars,14,OPEN,
 Kansas City Chiefs,14,SOLD,pxxxz4008
-Las Vegas Raiders,14,OPEN,
-Los Angeles Chargers,14,OPEN,
-Los Angeles Rams,14,OPEN,
-Miami Dolphins,14,OPEN,
-Minnesota Vikings,14,OPEN,
+Las Vegas Raiders,10,SOLD,jaekelinho
+Los Angeles Chargers,10,SOLD,stephanheb
+Los Angeles Rams,10,SOLD,flo84
+Miami Dolphins,11,SOLD,b_baseballcards
+Minnesota Vikings,10,SOLD,flo84
 New England Patriots,14,SOLD,87hollywood87
-New York Giants,14,OPEN,
+New Orleans Saints,11.2,SOLD,craden1181
+New York Giants,14,SOLD,fritte97
 New York Jets,14,SOLD,tobigr19
 Philadelphia Eagles,14,SOLD,tobigr19
 Pittsburgh Steelers,14,SOLD,latradingcards82
@@ -29,5 +31,3 @@ Seattle Seahawks,14,SOLD,flogt
 Tampa Bay Buccaneers,12,SOLD,martinste87516
 Tennessee Titans,14,OPEN,
 Washington Commanders,14,OPEN,
-Denver Broncos,14,SOLD,fritte97
-New Orleans Saints,11.2,SOLD,craden1181

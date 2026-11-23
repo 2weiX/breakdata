@@ -1,20 +1,24 @@
 spot,price,state,buyer
 Alabama,59,SOLD,cropduster77
-Arizona State,22,OPEN,
+Arizona State,15.5,SOLD,dano1292
 Auburn,12.8,SOLD,beej_15
 Boston College,12,OPEN,
 Cincinnati,14,OPEN,
-Florida,44,OPEN,
-Florida State,18,OPEN,
+Clemson,21,SOLD,coreyt19
+Florida,20,SOLD,marshalld07
+Florida State,12,SOLD,jamieprowse
 Georgia,28,SOLD,ianatt70797
 Houston,10,OPEN,
 Iowa State,14,SOLD,coreyt19
 Kentucky,20,SOLD,andrewsla08510
 LSU,28,SOLD,beej_15
 Maryland,12,OPEN,
-Michigan,70,OPEN,
+Miami,90,SOLD,georgeaja44605
+Michigan,42,SOLD,dukebd31
 Mississippi State,32,SOLD,andrewsla08510
 Notre Dame,82,SOLD,irishfan1122
+Ohio State,70,SOLD,bmack312
+Oklahoma,22,SOLD,camron51
 Oklahoma State,30,SOLD,cropduster77
 Ole Miss,30,SOLD,cola_bombsquad
 Oregon,30,SOLD,andrewsla08510
@@ -22,13 +26,16 @@ Penn State,17.5,SOLD,vjrcards
 Purdue,11,OPEN,
 South Carolina,24,SOLD,jbm33
 Stanford,8,SOLD,cropduster77
-Tennessee,26,OPEN,
+Tennessee,15,SOLD,jamieprowse
 Texas,145,OPEN,
+UCLA,12,SOLD,mwsportsco
+UNC,19,SOLD,coreyt19
 USC,125,OPEN,
 Utah,10,SOLD,jonpeay
 Vanderbilt,17.6,SOLD,andrewsla08510
 Virginia,11,OPEN,
 Washington State,18,OPEN,
+West Virginia,9,SOLD,camron51
 Wisconsin,16,OPEN,
 BYU,35,SOLD,andrewsla08510
 Minnesota,14,OPEN,
@@ -39,43 +46,35 @@ Arizona,18,OPEN,
 Arkansas,20,OPEN,
 Baylor,14,OPEN,
 Boise State,65,OPEN,
-California,25,OPEN,
+California,20,SOLD,2esea
 Colorado,22,OPEN,
-Duke,28,OPEN,
-Iowa,10,OPEN,
+Duke,18,SOLD,dano1292
+Illinois,9,SOLD,atl_052271
+Iowa,6,SOLD,dslanders009
 Kansas,10,SOLD,va_wildman
 Kansas State,10,OPEN,
-Louisville,10,OPEN,
-Michigan State,20,OPEN,
-Missouri,47,OPEN,
+Louisville,8,SOLD,georgeaja44605
+Michigan State & The MAC,14,SOLD,dslanders009
+Missouri,20,SOLD,2esea
 Syracuse,8,SOLD,andrewsla08510
 TCU,20,OPEN,
 Texas A&M,20,SOLD,beej_15
 Texas Tech,15,SOLD,mspencertonks
-UCF,11,OPEN,
+UCF,5.4,SOLD,mwsportsco
 Washington,55,OPEN,
-Indiana / UAB,50,OPEN,
+Indiana / UAB,20,SOLD,dukebd31
 Nebraska / Colorado State,18,OPEN,
-Rutgers / UConn,16,OPEN,
+Rutgers / UConn,12.8,SOLD,georgeaja44605
 SMU / Memphis,14,OPEN,
 NC State / Virginia Tech,15,OPEN,
-Georgia Tech / Appalachian State,9,OPEN,
+Georgia Tech / Appalachian State,7,SOLD,degeneraterips2
 San Diego State / Hawaii,9,OPEN,
-Wyoming / Utah State,8,OPEN,
-New Mexico / Middle Tennessee,7,OPEN,
-Louisiana / Tulane,14,OPEN,
+Wyoming / Utah State,7,SOLD,degeneraterips2
+New Mexico / Middle Tennessee,5,SOLD,atl_052271
+Louisiana / Tulane,9.8,SOLD,dano1292
 Delaware / James Madison,7,SOLD,va_wildman
 Tulsa / South Florida,14,OPEN,
-Liberty / Marshall,7,OPEN,
-The MAC,11,OPEN,
-UNLV / Fresno State,11,OPEN,
-Texas State / Western Kentucky,14,OPEN,
+Liberty / Marshall,5,SOLD,jamieprowse
+UNLV / Fresno State,7,SOLD,atl_052271
+Texas State / Western Kentucky,8,SOLD,jamieprowse
 High School,35,SOLD,coreyt19
-Miami,90,SOLD,georgeaja44605
-Clemson,21,SOLD,coreyt19
-Ohio State,70,SOLD,bmack312
-Oklahoma,22,SOLD,camron51
-UCLA,12,SOLD,mwsportsco
-UNC,19,SOLD,coreyt19
-West Virginia,9,SOLD,camron51
-Illinois,9,SOLD,atl_052271
