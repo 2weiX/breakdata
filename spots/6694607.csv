@@ -1,17 +1,11 @@
 spot,price,state,buyer
-#1,11,OPEN,
-#2,11,OPEN,
-#3,11,OPEN,
-#4,11,OPEN,
 #5,11,OPEN,
 #6,11,OPEN,
-#7,11,OPEN,
 #8,11,OPEN,
 #9,11,OPEN,
 #10,11,OPEN,
 #11,11,OPEN,
 #12,11,OPEN,
-#13,11,OPEN,
 #14,11,OPEN,
 #15,11,OPEN,
 #16,11,OPEN,
@@ -20,10 +14,16 @@ spot,price,state,buyer
 #19,11,OPEN,
 #20,11,OPEN,
 #21,11,OPEN,
-#22,11,OPEN,
 #24,11,OPEN,
 #25,11,OPEN,
 #26,11,OPEN,
 #27,11,OPEN,
-#28,11,OPEN,
 New York Jets,11,SOLD,florianper05379
+San Francisco 49ers,8,SOLD,mosquitotito
+Cleveland Browns,9,SOLD,mosquitotito
+New England Patriots,9,SOLD,mosquitotito
+Washington Commanders,9,SOLD,mosquitotito
+Los Angeles Rams,11,SOLD,martinste87516
+Chicago Bears,9,SOLD,martinste87516
+Dallas Cowboys,10,SOLD,1pepe
+Indianapolis Colts,11,SOLD,1pepe

@@ -8,7 +8,6 @@ spot,price,state,buyer
 Cleveland Browns,7,SOLD,mightytim84
 #8,7,OPEN,
 #9,7,OPEN,
-#10,7,OPEN,
 Indianapolis Colts,7,SOLD,murmel74
 #12,7,OPEN,
 #13,7,OPEN,
@@ -16,7 +15,6 @@ Indianapolis Colts,7,SOLD,murmel74
 #15,7,OPEN,
 #16,7,OPEN,
 Denver Broncos,7,SOLD,murmel74
-#18,7,OPEN,
 #19,7,OPEN,
 #20,7,OPEN,
 Kansas City Chiefs,7,SOLD,mightytim84
@@ -26,8 +24,10 @@ New England Patriots,7,SOLD,bighoffes80
 Tennessee Titans,7,SOLD,mightytim84
 #26,7,OPEN,
 #27,7,OPEN,
-#28,7,OPEN,
 Miami Dolphins,7,SOLD,bighoffes80
 #30,7,OPEN,
-#31,7,OPEN,
 #32,7,OPEN,
+Green Bay Packers,7,SOLD,jensrh
+New Orleans Saints,7,SOLD,frank_yankee
+Las Vegas Raiders,7,SOLD,jensrh
+Atlanta Falcons,7,SOLD,frank_yankee

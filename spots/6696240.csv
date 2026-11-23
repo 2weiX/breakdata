@@ -1,12 +1,12 @@
 spot,price,state,buyer
-Division 1,,OPEN,
-Division 2,,OPEN,
-Division 3,,OPEN,
-Division 4,,OPEN,
-Division 5,,OPEN,
-Division 6,,OPEN,
-Division 7,,OPEN,
-Division 8,,OPEN,
-Division 9,,OPEN,
-Division 10,,OPEN,
-Division 11,,OPEN,
+Division 1,16,SOLD,atc_breaks
+Division 2,15,SOLD,jasonscottmcfarland
+Division 3,17,SOLD,cojo_collects
+Division 4,15,SOLD,froggyfly1981
+Division 5,22,SOLD,cojo_collects
+Division 6,19,SOLD,froggyfly1981
+Division 7,15,SOLD,atc_breaks
+Division 8,15,SOLD,atc_breaks
+Division 9,22,SOLD,jasonscottmcfarland
+Division 10,31,SOLD,jasonscottmcfarland
+Division 11,14,SOLD,froggyfly1981

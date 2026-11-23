@@ -1,18 +1,10 @@
 spot,price,state,buyer
-Carolina Panthers,7,OPEN,
-Cincinnati Bengals,10,OPEN,
-Cleveland Browns,8,OPEN,
-Green Bay Packers,10,OPEN,
-Houston Texans,7,OPEN,
-Jacksonville Jaguars,10,OPEN,
-Kansas City Chiefs,10,OPEN,
-Las Vegas Raiders,8,OPEN,
-Los Angeles Chargers,8,OPEN,
-Miami Dolphins,7,OPEN,
-New England Patriots,10,OPEN,
-New York Giants,10,OPEN,
-New York Jets,7,OPEN,
-Seattle Seahawks,8,OPEN,
-Tampa Bay Buccaneers,8,OPEN,
-ACC,35,OPEN,
+Cincinnati Bengals,1,SOLD,gmatt1122
 BIG 12,35,OPEN,
+Carolina Panthers / browns,10,OPEN,
+Green Bay Packers / texans,14,SOLD,mgarmy123
+Jacksonville Jaguars / chiefs,15,OPEN,
+Las Vegas Raiders / chargers,15,OPEN,
+New England Patriots / dolphins,14,SOLD,jaycavs83
+New York Giants/ jets,12,OPEN,
+Seattle Seahawks / buccaneers / bucs,39,SOLD,hazepup

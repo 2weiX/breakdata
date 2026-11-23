@@ -1,33 +1,9 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+Atlanta Falcons,9,SOLD,lookingfortets
+Dallas Cowboys,12,SOLD,lookingfortets
+Miami Dolphins,9,SOLD,animemixedcards
+New Orleans Saints,9,SOLD,animemixedcards
+"Cincinnati Bengals, Kansas City Chiefs, San Francisco 49ers",35,SOLD,kielman616
+"Baltimore Ravens, Buffalo Bills, Las Vegas Raiders, Philadelphia Eagles",47,SOLD,tw3129
+"Cleveland Browns, Tennessee Titans, Washington Commanders",30,SOLD,tw3129
+#8,1,OPEN,

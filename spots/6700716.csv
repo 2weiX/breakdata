@@ -1,10 +1,29 @@
 spot,price,state,buyer
 "Houston Texans, New Orleans Saints, New York Jets, Washington Commanders",35,SOLD,kd8arz
-"Chicago Bears, Dallas Cowboys",18,SOLD,dammitdave561
 Tampa Bay Buccaneers,8,SOLD,jccch
 Arizona Cardinals,8,SOLD,spoonrad
 Kansas City Chiefs,8,SOLD,spoonrad
 Las Vegas Raiders,6,SOLD,kd8arz
 Indianapolis Colts,4,SOLD,r3con3d
 Seattle Seahawks,4,SOLD,r3con3d
-#9,1,OPEN,
+"Chicago Bears, Denver Broncos",18,SOLD,dammitdave561
+San Francisco 49ers,6,SOLD,jccch
+Buffalo Bills,6,SOLD,dammitdave561
+New York Giants,6,SOLD,dammitdave561
+Los Angeles Rams,6,SOLD,jfkradio
+Cincinnati Bengals,6,SOLD,jfkradio
+Detroit Lions,6,SOLD,dammitdave561
+New England Patriots,6,SOLD,mindog44
+Dallas Cowboys,6,SOLD,jccch
+Pittsburgh Steelers,6,SOLD,jupiter_joe
+Green Bay Packers,6,SOLD,2dabrim
+Miami Dolphins,6,SOLD,2dabrim
+Cleveland Browns,6,SOLD,2dabrim
+Philadelphia Eagles,6,SOLD,2dabrim
+Minnesota Vikings,6,SOLD,2dabrim
+Carolina Panthers,6,SOLD,2dabrim
+Baltimore Ravens,6,SOLD,2dabrim
+Los Angeles Chargers,3,SOLD,jupiter_joe
+Tennessee Titans,3,SOLD,2dabrim
+Jacksonville Jaguars,4,SOLD,r3con3d
+Atlanta Falcons,2,SOLD,r3con3d

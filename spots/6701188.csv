@@ -1,0 +1,11 @@
+spot,price,state,buyer
+"Los Angeles Rams, Tampa Bay Buccaneers",30,SOLD,813collections
+"Pittsburgh Steelers, Washington Commanders",30,SOLD,813collections
+"San Francisco 49ers, Box 1",30,SOLD,813collections
+"Kansas City Chiefs, Las Vegas Raiders",30,SOLD,813collections
+"Cleveland Browns, Dallas Cowboys",30,SOLD,813collections
+New Orleans Saints,10,SOLD,rikkrokk
+Detroit Lions,10,SOLD,rikkrokk
+Chicago Bears,10,SOLD,rikkrokk
+Tennessee Titans,10,SOLD,rikkrokk
+#10,1,OPEN,
