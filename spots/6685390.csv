@@ -1,5 +1,4 @@
 spot,price,state,buyer
-Arizona Cardinals,500,OPEN,
 Buffalo Bills,65,SOLD,mfswish
 Detroit Lions,25,SOLD,mfswish
 Houston Texans,15,SOLD,mfic69
@@ -21,3 +20,4 @@ New York Jets,31.5,SOLD,torres_sportscards
 San Francisco 49ers,28,SOLD,torres_sportscards
 Seattle Seahawks,40,SOLD,mfswish
 Washington Commanders,32,SOLD,mfic69
+Arizona Cardinals,500,SOLD,goldendill
