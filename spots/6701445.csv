@@ -1,33 +1,37 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+Arizona Cardinals,96,SOLD,youknowyouwannasaymyname
+Atlanta Falcons,82,SOLD,youknowyouwannasaymyname
+Baltimore Ravens,79,SOLD,tannertat
+Buffalo Bills,80,SOLD,tannertat
+Carolina Panthers,46,SOLD,matt_allegro
+Chicago Bears,43,SOLD,cojo_collects
+Cincinnati Bengals,53,SOLD,ripshawaii
+Cleveland Browns,41,SOLD,cojo_collects
+Dallas Cowboys,46,SOLD,matt_allegro
+Denver Broncos,60,SOLD,ripshawaii
+Detroit Lions,64,SOLD,tannertat
+Green Bay Packers,83,SOLD,brianfrom1968
+Houston Texans,38,SOLD,youknowyouwannasaymyname
+Indianapolis Colts,77,SOLD,tannertat
+Jacksonville Jaguars,93,SOLD,bastian15
+Kansas City Chiefs,71,SOLD,traderdough
+Las Vegas Raiders,120,SOLD,matt_allegro
+Los Angeles Chargers,98,SOLD,bastian15
+Los Angeles Rams,51,SOLD,vegasmichael702
+Miami Dolphins,45,SOLD,goose104
+Minnesota Vikings,42,SOLD,ronnyb805
+New England Patriots,64,SOLD,goose104
+New Orleans Saints,44,SOLD,matt_allegro
+New York Giants,47,SOLD,jessejes94799
+New York Jets,86,SOLD,youknowyouwannasaymyname
+Philadelphia Eagles,89,SOLD,ripshawaii
+Pittsburgh Steelers,71,SOLD,youknowyouwannasaymyname
+San Francisco 49ers,81,SOLD,traderdough
+Seattle Seahawks,53,SOLD,uptickmiami
+Tampa Bay Buccaneers,107,SOLD,tannertat
+Tennessee Titans,75,SOLD,traderdough
+Washington Commanders,49,SOLD,matt_allegro
+#18,80,SOLD,tannertat
+#22,75,SOLD,ripshawaii
+#24,100,SOLD,matt_allegro
+#26,88,SOLD,tannertat

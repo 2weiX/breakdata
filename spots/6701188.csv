@@ -3,7 +3,6 @@ spot,price,state,buyer
 "Pittsburgh Steelers, Washington Commanders",30,SOLD,813collections
 "San Francisco 49ers, Box 1",30,SOLD,813collections
 "Kansas City Chiefs, Las Vegas Raiders",30,SOLD,813collections
-"Cleveland Browns, Dallas Cowboys",30,SOLD,813collections
 New Orleans Saints,10,SOLD,rikkrokk
 Detroit Lions,10,SOLD,rikkrokk
 Chicago Bears,10,SOLD,rikkrokk
@@ -17,4 +16,15 @@ New York Jets,8,SOLD,sportscollectorsyndicate
 "Arizona Cardinals, Cincinnati Bengals",28,SOLD,813collections
 Houston Texans,8,SOLD,rikkrokk
 Denver Broncos,8,SOLD,rikkrokk
-#19,1,OPEN,
+"Cleveland Browns, Green Bay Packers",30,SOLD,813collections
+Minnesota Vikings,8,SOLD,rikkrokk
+Seattle Seahawks,14,SOLD,rikkrokk
+New England Patriots,8,SOLD,sportscollectorsyndicate
+Box 2,10,SOLD,sportscollectorsyndicate
+Box 3,2,SOLD,cleggde1960
+Los Angeles Chargers,2,SOLD,cleggde1960
+Miami Dolphins,2,SOLD,cleggde1960
+Baltimore Ravens,1,SOLD,cleggde1960
+Atlanta Falcons,7,SOLD,himmysquadbreaks
+Dallas Cowboys,7,SOLD,jrpuropinchecowboys
+Indianapolis Colts,6,SOLD,jrpuropinchecowboys

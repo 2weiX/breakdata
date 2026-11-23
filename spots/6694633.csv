@@ -1,9 +1,6 @@
 spot,price,state,buyer
 #1,17,OPEN,
-#2,17,OPEN,
 #3,17,OPEN,
-#4,17,OPEN,
-#5,17,OPEN,
 #6,17,OPEN,
 #7,17,OPEN,
 #8,17,OPEN,
@@ -25,3 +22,6 @@ Buffalo Bills,12,SOLD,pxxxz4008
 #24,17,OPEN,
 #25,17,OPEN,
 #26,17,OPEN,
+New Orleans Saints,17,SOLD,craden1181
+Kansas City Chiefs,16,SOLD,pxxxz4008
+Atlanta Falcons,16,SOLD,flowoh82

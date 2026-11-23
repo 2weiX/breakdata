@@ -9,7 +9,7 @@ spot,price,state,buyer
 "ATL- Bijan Robinson (A), IV, CEV, Prem1er Patch Auto",144,SOLD,micyau
 ATL- Deion Sanders (A),11,SOLD,micyau
 ATL- Drake London (A),54,OPEN,
-"ATL- Michael Penix Jr (A), Prem1er Patch Auto",48,OPEN,
+"ATL- Michael Penix Jr (A), Prem1er Patch Auto",25,SOLD,glynp
 ATL- Michael Vick (A),8.8,SOLD,cth43
 "ATL- Atlanta Falcons Others (Gonzalez, Terrell, Walker, Perkins, Tagovailoa, Br Robinson Jr, Lindstrom, Pitts Jr, Watts, Zaccheaus)",67,OPEN,
 ATL- Zachariah Branch (RC)(A),38,OPEN,
@@ -70,7 +70,7 @@ DAL- Javonte Williams (A),8,SOLD,jojoyeetcards
 DEN- Jonah Coleman (RC),16.15,SOLD,royale747
 "DEN- Marvin Mims Jr. (A) & Audric Estime (A), Prem1er Patch Autos",7,SOLD,cth43
 "DEN- Denver Broncos Others (Waddle, Harvey, V Miller, Atwater, Joly, Betley, Sutton, Dobbins, Bonitto, Meinerz, Hufanga, York, Allen)",47,SOLD,royale747
-"DEN- Pat Surtain II (A), IV",49,OPEN,
+"DEN- Pat Surtain II (A), IV",29,SOLD,duodeckbreaks
 "DEN- Terrell Davis (A), HOC",5,SOLD,milehigh_magic
 DEN/IND- Peyton Manning (A),40,SOLD,micyau
 "DET- Amon-Ra St. Brown, CEV, GG, HX, UV, dual auto w/ Gibbs",84,SOLD,toshiocards
@@ -225,7 +225,7 @@ SF- De'Zhaun Stribling (RC)(A),48,OPEN,
 "SF- Jacob Cowing (A) & Jake Moody (A), Prem1er Patch Autos",3,SOLD,sheppcards
 "SF- Jerry Rice (A), IV, HX, Tecmo, Tecmo Auto",38,SOLD,micyau
 "SF- Joe Montana (A), HOC",9,SOLD,micyau
-"SF- Kaelon Black (RC)(A), IV, RR",40,OPEN,
+"SF- Kaelon Black (RC)(A), IV, RR",35,SOLD,glynp
 "SF- San Francisco 49ers Others (F Gore, F Warner, Juszczyk, R Craig, R Height, C Kirk, Prysock, M Evans, N Bosa, R Pearsall, T Williams)",115,OPEN,
 "TB- Bucky Irving (A), Prem1er Patch Auto",29,SOLD,micyau
 TB- Emeka Egbuka (A),144,OPEN,
@@ -233,7 +233,7 @@ TB- Emeka Egbuka (A),144,OPEN,
 "TB- Tampa Bay Buccaneers Others (W Sapp, J Daniels, J Trotter, M Alstott, T Hurst, A Winfield, T Johnson, C Otton, C Godwin, K Gainwell, V Vea)",77,OPEN,
 "TB- Rueben Bain Jr. (RC)(A), CEV",48,OPEN,
 "TB/CLE- Baker Mayfield, GG, HX",115,OPEN,
-"TB/NE- Tom Brady (A), ROH, IV, Kaiju, UV",500,OPEN,
+"TB/NE- Tom Brady (A), ROH, IV, Kaiju, UV",375,SOLD,theripsyndicate
 "TEN- Cam Ward (A), CEV",153,OPEN,
 "TEN- Carnell Tate (RC)(A), IV, CEV, DAY1, GG, HX, Kaiju, RR, UV, dual w/ Tyson",270,OPEN,
 "TEN- Nick Singleton (RC)(A), CEV",38,OPEN,

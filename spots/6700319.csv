@@ -1,33 +1,28 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+Arizona Cardinals,26,SOLD,p_and_r_cards
+Baltimore Ravens,25,SOLD,sdr1111
+Carolina Panthers,28,SOLD,clowden24
+Chicago Bears,25,SOLD,rgar22
+Cincinnati Bengals,40,SOLD,nomar3311
+Cleveland Browns,39,SOLD,nomar3311
+Dallas Cowboys,37,SOLD,jakehea10668
+Denver Broncos,27,SOLD,punkyyy_
+Green Bay Packers,30,SOLD,tlk100
+Indianapolis Colts,37,SOLD,mikemcg80117
+Kansas City Chiefs,36,SOLD,nitepsych
+Las Vegas Raiders,32,SOLD,dozieodonnel
+Los Angeles Chargers,39,SOLD,jakehea10668
+Los Angeles Rams,29,SOLD,tommyo420
+Minnesota Vikings,38,SOLD,jakjay
+New England Patriots,26,SOLD,p_and_r_cards
+New Orleans Saints,29,SOLD,clowden24
+New York Giants,28,SOLD,sdr1111
+San Francisco 49ers,43,SOLD,nomar3311
+Seattle Seahawks,26,SOLD,dozieodonnel
+Tampa Bay Buccaneers,37,SOLD,dozieodonnel
+Tennessee Titans,40,SOLD,nomar3311
+Washington Commanders,1,SOLD,clowden24
+Tradeback,37,SOLD,dozieodonnel
+Tradeback,37,SOLD,dozieodonnel
+Tradeback,37,SOLD,dozieodonnel
+#27,1,OPEN,

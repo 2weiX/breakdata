@@ -10,7 +10,7 @@ spot,price,state,buyer
 #9,20,OPEN,
 #10,20,OPEN,
 #11,20,OPEN,
-#12,20,OPEN,
+#12,20,SOLD,s3_xin
 #13,20,OPEN,
 #14,20,OPEN,
 #15,19,SOLD,cardozo_cards
@@ -27,7 +27,7 @@ spot,price,state,buyer
 #26,20,OPEN,
 #27,20,OPEN,
 #28,20,OPEN,
-#29,20,OPEN,
+#29,20,SOLD,s3_xin
 #30,20,OPEN,
 #31,20,OPEN,
 #32,20,OPEN,

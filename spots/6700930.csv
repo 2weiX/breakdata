@@ -1,14 +1,14 @@
 spot,price,state,buyer
-AFC North,,OPEN,
-AFC East,,OPEN,
-AFC West,,OPEN,
-AFC South,,OPEN,
-NFC East,,OPEN,
-NFC West,,OPEN,
-NFC South,,OPEN,
-NFC North,,OPEN,
-KABOOM,,OPEN,
-Black Pandora,,OPEN,
-NFL Autos,,OPEN,
-MISC,,OPEN,
-NBA,,OPEN,
+AFC North,26,SOLD,_valdes_
+AFC East,30,SOLD,_valdes_
+AFC West,25,SOLD,bradleyhol50580
+AFC South,32,SOLD,scully2013
+NFC East,24,SOLD,jamiejam1001
+NFC West,30,SOLD,scully2013
+NFC South,32,SOLD,steveirwin82
+NFC North,27,SOLD,jamiejam1001
+KABOOM,23,SOLD,sallard20
+Black Pandora,25,SOLD,jamiejam1001
+NFL Autos,28,SOLD,steveirwin82
+MISC,29,SOLD,steveirwin82
+NBA,29,SOLD,steveirwin82
