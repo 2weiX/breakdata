@@ -1,33 +1,34 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+Buffalo Bills,1,SOLD,routemanra
+Indianapolis Colts,6,SOLD,routemanra
+Cincinnati Bengals,4,SOLD,routemanra
+Arizona Cardinals,13,SOLD,liehr1
+Detroit Lions,18,SOLD,liehr1
+Los Angeles Rams,23,SOLD,ccremin1
+Green Bay Packers,16,SOLD,cardkillacorey
+Kansas City Chiefs,26,SOLD,liehr1
+Washington Commanders,25,SOLD,cardkillacorey
+Baltimore Ravens,25,SOLD,ccremin1
+Philadelphia Eagles,25,SOLD,cardkillacorey
+#12,24,SOLD,cardkillacorey
+Minnesota Vikings,1,SOLD,routemanra
+New York Giants,13,SOLD,bprice610
+Atlanta Falcons,15,SOLD,bprice610
+Tennessee Titans,16,SOLD,jbayless23
+Los Angeles Chargers,16,SOLD,bprice610
+New England Patriots,15,SOLD,bprice610
+Chicago Bears,17,SOLD,bprice610
+Denver Broncos,19,SOLD,bprice610
+Pittsburgh Steelers,23,SOLD,mikeell87513
+Las Vegas Raiders,28,SOLD,mikeell87513
+Dallas Cowboys,16,SOLD,bprice610
+San Francisco 49ers,18,SOLD,bprice610
+Cleveland Browns,1,SOLD,jbayless23
+New Orleans Saints,10,SOLD,bprice610
+New York Jets,11,SOLD,jbayless23
+Carolina Panthers,8,SOLD,bprice610
+Seattle Seahawks,13,SOLD,francislum53510
+Tampa Bay Buccaneers,9,SOLD,bprice610
+Jacksonville Jaguars,9,SOLD,jbayless23
+Houston Texans,5,SOLD,jbayless23
+Miami Dolphins,7,SOLD,liehr1

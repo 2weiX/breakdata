@@ -2,7 +2,6 @@ spot,price,state,buyer
 Las Vegas Raiders,125,OPEN,
 Los Angeles Rams,118,OPEN,
 Tennessee Titans,113,OPEN,
-Arizona Cardinals,99,SOLD,victordin84469
 Dallas Cowboys,95,OPEN,
 New England Patriots,105,OPEN,
 Cleveland Browns,94,OPEN,
@@ -10,17 +9,15 @@ Philadelphia Eagles,90,OPEN,
 San Francisco 49ers,89,OPEN,
 Seattle Seahawks,87,OPEN,
 New Orleans Saints,84,OPEN,
-Chicago Bears,80,SOLD,rrooney6704
 Washington Commanders,70,OPEN,
-Denver Broncos,84,SOLD,rrooney6704
 Green Bay Packers,75,OPEN,
+#16,228,SOLD,tamkim
 Baltimore Ravens,70,OPEN,
 Carolina Panthers,70,OPEN,
 New York Jets,72,OPEN,
 Detroit Lions,68,OPEN,
 Tampa Bay Buccaneers,68,OPEN,
 New York Giants,68,OPEN,
-Pittsburgh Steelers,55,SOLD,victordin84469
 Los Angeles Chargers,60,OPEN,
 Minnesota Vikings,60,OPEN,
 Houston Texans,55,OPEN,
@@ -28,4 +25,4 @@ Indianapolis Colts,55,OPEN,
 Jacksonville Jaguars,55,OPEN,
 Miami Dolphins,48,OPEN,
 Atlanta Falcons,45,OPEN,
-"Tamkim - Cincinnati Bengals, Bills, Chiefs ",228,SOLD,tamkim
+"Tamkim - Cincinnati Bengals, Bills, Chiefs ",228,OPEN,

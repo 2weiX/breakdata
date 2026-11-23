@@ -1,7 +1,6 @@
 spot,price,state,buyer
 ATL - Bijan Robinson,349,OPEN,
-ATL - Drake London,99,OPEN,
-ATL - Kyle Pitts Sr.,39,OPEN,
+ATL - Drake London + Kyle Pitts,99,OPEN,
 ATL - Michael Penix Jr.,45,OPEN,
 "ATL Others - T. Gonzalez, C. Lindstrom, H. Perkins Jr., B. Robinson Jr., D. Sanders, T. Tagovailoa, A. Terrell, J. Walker, X. Watts, O. Zaccheaus",49,OPEN,
 ATL/PHI - Michael Vick,45,OPEN,
@@ -10,8 +9,7 @@ AZ - Carson Beck,749,OPEN,
 AZ - Jeremiah Love,999,OPEN,
 AZ/LAR - Kurt Warner,32,SOLD,benito1313
 AZ - Larry Fitzgerald,35,SOLD,benito1313
-AZ - Marvin Harrison Jr.,49,OPEN,
-AZ - Michael Wilson,69,OPEN,
+AZ - Michael Wilson + Marvin Harrison,79,OPEN,
 "AZ OTHERS + BUF OTHERS + PHI OTHERS- B. Baker, T. Benson, C. Bisontis, A. Boldin, J. Brissett, D. Burke, J. Conner, W. Johnson, R. Virgil",115,SOLD,michaelvc20
 AZ - Pat Tillman,79,SOLD,shcheng
 AZ - Trey McBride,125,OPEN,
@@ -29,7 +27,7 @@ BUF - Keon Coleman,45,OPEN,
 BUF - Skyler Bell,65,SOLD,topher10889
 CAR - Bryce Young,299,OPEN,
 CAR - Chris Brazzell II,99,OPEN,
-CAR - Luke Kuechly,45,OPEN,
+CAR - Luke Kuechly,1,SOLD,whattobewhat
 "CAR Others - D. Brown, T. Etienne, M. Freeling, J. Horn, J. Horn Jr., C. Hubbard, L. Hunter, W. Lee III, X. Legette, T. Tremble, Z. Wheatley",28,SOLD,benito1313
 CAR - Tetairoa McMillan,349,OPEN,
 CHI - Caleb Williams,1999,OPEN,
