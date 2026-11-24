@@ -1,33 +1,25 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+Los Angeles Rams,12,SOLD,georgeste
+New England Patriots,1,SOLD,carolinacollex
+Jacksonville Jaguars,12,SOLD,georgeste
+Baltimore Ravens,12,SOLD,georgeste
+Philadelphia Eagles,13,SOLD,siklest
+Dallas Cowboys,12,SOLD,treehigh
+"Seattle Seahawks, Tennessee Titans",21,SOLD,jeffwil14838
+"New Orleans Saints, San Francisco 49ers",26,SOLD,otg_kilo
+"Kansas City Chiefs, New York Giants",25,SOLD,itsmekim
+Atlanta Falcons,12,SOLD,michaeldeg
+"Chicago Bears, Cleveland Browns",12,SOLD,krispykrebbles
+Tampa Bay Buccaneers,12,SOLD,michaeldeg
+Miami Dolphins,13,SOLD,skolvikesfromak
+Las Vegas Raiders,13,SOLD,itsmekim
+Los Angeles Chargers,12,SOLD,jeffwil14838
+"Carolina Panthers, Green Bay Packers",25,SOLD,lucky_yellow_rips
+"New York Jets, Washington Commanders",26,SOLD,lucky_yellow_rips
+"Houston Texans, Indianapolis Colts",27,SOLD,vet_club
+Cincinnati Bengals,14,SOLD,michaeldeg
+Denver Broncos,14,SOLD,skolvikesfromak
+Detroit Lions,15,SOLD,vet_club
+Minnesota Vikings,13,SOLD,jeffwil14838
+"Buffalo Bills, Pittsburgh Steelers",30,SOLD,jackmeix22
+Arizona Cardinals,21,SOLD,krispykrebbles

@@ -1,34 +1,49 @@
 spot,price,state,buyer
-LA Rams + LA Lakers + LA Angels,,OPEN,
-CHI Bears + CHI Bulls + CHI Cubs,,OPEN,
-NE Patriots + BOS Celtics + BOS Red Sox,,OPEN,
-LA Chargers + LA Clippers + LA Dodgers,,OPEN,
-DAL Cowboys + DAL Mavericks + TX Rangers,,OPEN,
-KC Chiefs + OKC Thunder + KC Royals,,OPEN,
-BUF Bills + TOR Raptors + TOR Blue Jays,,OPEN,
-PIT Steelers + SA Spurs + PIT Pirates,,OPEN,
-SF 49ers + GS Warriors + SF Giants,,OPEN,
-CLE Browns + CLE Cavaliers + CLE Guardians,,OPEN,
-MISC,,OPEN,
-BAL Ravens + SAC Kings + BAL Orioles,,OPEN,
-CIN Bengals + CIN Reds,,OPEN,
-MIN Vikings + MIN Timberwolves + MIN Twins,,OPEN,
-TB Buccaneers + ORL Magic + TB Rays,,OPEN,
-DEN Broncos + DEN Nuggets + CO Rockies,,OPEN,
-NY Giants + NY Knicks + NY Yankees,,OPEN,
-AZ Cardinals + PHX Suns + AZ Diamondbacks,,OPEN,
-IND Colts + IND Pacers + CHI White Sox,,OPEN,
-WAS Commanders + WAS Wizards + WAS Nationals,,OPEN,
-MIA Dolphins + MIA Heat + MIA Marlins,,OPEN,
-PHI Eagles + PHI 76ers + PHI Phillies,,OPEN,
-ATL Falcons + ATL Hawks + ATL Braves,,OPEN,
-JAX Jaguars + SD Padres,,OPEN,
-NY Jets + BK Nets + NY Mets,,OPEN,
-DET Lions + DET Pistons + DET Tigers,,OPEN,
-GB Packers + MIL Bucks + MIL Brewers,,OPEN,
-CAR Panthers + CHA Hornets,,OPEN,
-LV Raiders + UTA Jazz + OK Athletics,,OPEN,
-NO Saints + NO Pelicans,,OPEN,
-SEA Seahawks + POR Trail Blazers + SEA Mariners,,OPEN,
-HOU Texans + HOU Rockets + HOU Astros,,OPEN,
-TEN Titans + MEM Grizzlies + STL Cardinals,,OPEN,
+#1,66,SOLD,bigglezworth
+NY Giants + NY Knicks + NY Yankees,68,SOLD,bigglezworth
+BUF Bills + TOR Raptors + TOR Blue Jays,75,SOLD,bigglezworth
+#4,77,SOLD,steelheaddan
+DEN Broncos + DEN Nuggets + CO Rockies,73,SOLD,bigglezworth
+#6,68,SOLD,steelheaddan
+#7,69,SOLD,bigglezworth
+#8,71,SOLD,steelheaddan
+#9,70,SOLD,apeezyopc
+CHI Bears + CHI Bulls + CHI Cubs,70,SOLD,apeezyopc
+NE Patriots + BOS Celtics + BOS Red Sox,65,SOLD,steelheaddan
+#12,65,SOLD,steelheaddan
+#13,71,SOLD,steelheaddan
+#14,66,SOLD,steelheaddan
+CLE Browns + CLE Cavaliers + CLE Guardians,66,SOLD,steelheaddan
+#16,64,SOLD,steelheaddan
+HOU Texans + HOU Rockets + HOU Astros,77,SOLD,weijulia09976
+DAL Cowboys + DAL Mavericks + TX Rangers,70,SOLD,bigglezworth
+#19,65,SOLD,steelheaddan
+#20,65,SOLD,weijulia09976
+PIT Steelers + SA Spurs + PIT Pirates,75,SOLD,weijulia09976
+LA Rams + LA Lakers + LA Angels,79,SOLD,weijulia09976
+MIN Vikings + MIN Timberwolves + MIN Twins,62,SOLD,bigglezworth
+KC Chiefs + OKC Thunder + KC Royals,66,SOLD,steelheaddan
+#25,61,SOLD,ryangil64462
+LV Raiders + UTA Jazz + OK Athletics,67,SOLD,ryangil64462
+TEN Titans + MEM Grizzlies + STL Cardinals,59,SOLD,njycards
+WAS Commanders + WAS Wizards + WAS Nationals,64,SOLD,327cards
+#29,77,SOLD,327cards
+#30,60,SOLD,njycards
+#31,62,SOLD,weijulia09976
+SF 49ers + GS Warriors + SF Giants,70,SOLD,bryangia
+CIN Bengals + CIN Reds,37,SOLD,njycards
+DET Lions + DET Pistons + DET Tigers,38,SOLD,njycards
+#35,38,SOLD,njycards
+LA Chargers + LA Clippers + LA Dodgers,35,SOLD,njycards
+MISC,36,SOLD,bryangia
+TB Buccaneers + ORL Magic + TB Rays,36,SOLD,bryangia
+ATL Falcons + ATL Hawks + ATL Braves,16,SOLD,thenewstandard23
+"AZ Cardinals + PHX Suns + AZ Diamondbacks, CAR Panthers + CHA Hornets",38,SOLD,kylecollectss
+BAL Ravens + SAC Kings + BAL Orioles,17,SOLD,thenewstandard23
+"NY Jets + BK Nets + NY Mets, GB Packers + MIL Bucks + MIL Brewers",48,SOLD,bryangia
+MIA Dolphins + MIA Heat + MIA Marlins,17,SOLD,kylecollectss
+IND Colts + IND Pacers + CHI White Sox,15,SOLD,tancol1984
+PHI Eagles + PHI 76ers + PHI Phillies,33,SOLD,tancol1984
+JAX Jaguars + SD Padres,16,SOLD,tancol1984
+SEA Seahawks + POR Trail Blazers + SEA Mariners,16,SOLD,kylecollectss
+NO Saints + NO Pelicans,10,SOLD,thenewstandard23

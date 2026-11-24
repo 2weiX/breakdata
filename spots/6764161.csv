@@ -1,0 +1,36 @@
+spot,price,state,buyer
+#1,307,SOLD,localcarddealer
+Kansas City Chiefs,340,SOLD,jtvnyc
+Chicago Bears,329,SOLD,localcarddealer
+New England Patriots,260,SOLD,orangecat313
+Los Angeles Rams,290,SOLD,orangecat313
+MISC,300,SOLD,localcarddealer
+Green Bay Packers,255,SOLD,orangecat313
+Pittsburgh Steelers,295,SOLD,localcarddealer
+New York Giants,271,SOLD,orangecat313
+Philadelphia Eagles,295,SOLD,localcarddealer
+#11,253,SOLD,orangecat313
+#12,272,SOLD,orangecat313
+#13,236,SOLD,localcarddealer
+#14,310,SOLD,pinnacle307
+#15,302,SOLD,pinnacle307
+Cincinnati Bengals,453,SOLD,pinnacle307
+Atlanta Falcons,433,SOLD,pinnacle307
+Cleveland Browns,306,SOLD,orangecat313
+Los Angeles Chargers,296,SOLD,joekosina
+#20,239,SOLD,orangecat313
+Tampa Bay Buccaneers,115,SOLD,joekosina
+#22,299,SOLD,localcarddealer
+Dallas Cowboys,280,SOLD,localcarddealer
+Baltimore Ravens,163,SOLD,localcarddealer
+New York Jets,221,SOLD,jfo18041
+New Orleans Saints,280,SOLD,ricksanchez06
+San Francisco 49ers,222,SOLD,jfo18041
+Buffalo Bills,205,SOLD,stevemiz07092
+Minnesota Vikings,220,SOLD,orangecat313
+Denver Broncos,225,SOLD,orangecat313
+Detroit Lions,171,SOLD,pinnacle307
+Las Vegas Raiders,105,SOLD,stevemiz07092
+"Carolina Panthers, Houston Texans",113,SOLD,joekosina
+"Jacksonville Jaguars, Washington Commanders",53,SOLD,stevemiz07092
+"Arizona Cardinals, Indianapolis Colts, Miami Dolphins, Seattle Seahawks, Tennessee Titans",175,SOLD,joekosina

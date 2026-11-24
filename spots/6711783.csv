@@ -1,34 +1,47 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-NIL,,OPEN,
+Dallas Cowboys,550,SOLD,muleyfreak
+Cincinnati Bengals,330,SOLD,pokinets
+New England Patriots,571,SOLD,muleyfreak
+Chicago Bears,620,SOLD,muleyfreak
+T,640,SOLD,muleyfreak
+Los Angeles Chargers,690,SOLD,briesh81437
+Cleveland Browns,640,SOLD,muleyfreak
+T,635,SOLD,muleyfreak
+T,670,SOLD,muleyfreak
+T,485,SOLD,briesh81437
+T,360,SOLD,pokinets
+New York Giants,415,SOLD,briesh81437
+Tampa Bay Buccaneers,410,SOLD,pokinets
+T,270,SOLD,girardcards
+T,445,SOLD,briesh81437
+T,440,SOLD,briesh81437
+T,460,SOLD,briesh81437
+San Francisco 49ers,455,SOLD,pokinets
+Baltimore Ravens,340,SOLD,jbreit9
+Pittsburgh Steelers,410,SOLD,briesh81437
+Denver Broncos,155,SOLD,girardcards
+T,641,SOLD,drewgon14534
+T,210,SOLD,muleyfreak
+Los Angeles Rams,535,SOLD,muleyfreak
+Buffalo Bills,320,SOLD,muleyfreak
+Minnesota Vikings,310,SOLD,drewgon14534
+T,75,SOLD,pokinets
+Kansas City Chiefs,210,SOLD,drewgon14534
+T,53,SOLD,selling777
+Atlanta Falcons,96,SOLD,timothy13160
+Jacksonville Jaguars,69,SOLD,selling777
+Miami Dolphins,96,SOLD,ccremin1
+Las Vegas Raiders,112,SOLD,timothy13160
+#34,132,SOLD,ccremin1
+T,85,SOLD,selling777
+Tennessee Titans,81,SOLD,timothy13160
+Detroit Lions,76,SOLD,selling777
+T,78,SOLD,timothy13160
+T,75,SOLD,teapot1978
+NIL,78,SOLD,jbreit9
+Seattle Seahawks,75,SOLD,teapot1978
+Philadelphia Eagles,62,SOLD,timothy13160
+Washington Commanders,61,SOLD,selling777
+Indianapolis Colts,51,SOLD,teapot1978
+Green Bay Packers,206,SOLD,muleyfreak
+"Arizona Cardinals, Carolina Panthers, Houston Texans, New Orleans Saints, New York Jets",200,SOLD,jbreit9

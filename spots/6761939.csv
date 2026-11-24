@@ -1,34 +1,39 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-MISC,,OPEN,
+Kansas City Chiefs,142,SOLD,bnel555
+Buffalo Bills,341,SOLD,flandersnj32
+#3,175,SOLD,boston8899
+Chicago Bears,370,SOLD,mooresmoke
+Tennessee Titans,205,SOLD,boston8899
+New Orleans Saints,186,SOLD,calmer_than_you_are
+Dallas Cowboys,320,SOLD,incognit0
+Los Angeles Rams,376,SOLD,flandersnj32
+#9,265,SOLD,incognit0
+#10,255,SOLD,bnel555
+San Francisco 49ers,264,SOLD,calmer_than_you_are
+Baltimore Ravens,225,SOLD,eyelaser
+Cincinnati Bengals,286,SOLD,eyelaser
+Green Bay Packers,270,SOLD,eyelaser
+Philadelphia Eagles,320,SOLD,eyelaser
+Denver Broncos,351,SOLD,eyelaser
+Cleveland Browns,371,SOLD,eyelaser
+Pittsburgh Steelers,441,SOLD,boston8899
+#19,356,SOLD,eyelaser
+New England Patriots,205,SOLD,incognit0
+#21,255,SOLD,eyelaser
+Minnesota Vikings,180,SOLD,ccline301
+New York Jets,175,SOLD,kdckid
+MISC,190,SOLD,ccline301
+Washington Commanders,195,SOLD,ccline301
+Tampa Bay Buccaneers,185,SOLD,kdckid
+Detroit Lions,175,SOLD,flandersnj32
+Seattle Seahawks,175,SOLD,ccline301
+Los Angeles Chargers,285,SOLD,calmer_than_you_are
+Atlanta Falcons,155,SOLD,ccline301
+Las Vegas Raiders,125,SOLD,bfeld
+New York Giants,150,SOLD,flandersnj32
+Jacksonville Jaguars,172,SOLD,boston8899
+Indianapolis Colts,185,SOLD,incognit0
+#35,220,SOLD,boston8899
+#36,240,SOLD,flandersnj32
+"Houston Texans, Miami Dolphins",17,SOLD,kdckid
+"Arizona Cardinals, Carolina Panthers",9,SOLD,goody_rips

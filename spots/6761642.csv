@@ -1,7 +1,5 @@
 spot,price,state,buyer
 Chicago Bears,2,SOLD,harryroe1
-#2,2,OPEN,
-#3,2,OPEN,
 #4,2,OPEN,
 #5,2,OPEN,
 #6,2,OPEN,
@@ -31,3 +29,5 @@ Washington Commanders,2,SOLD,jasperbhamra
 #31,2,OPEN,
 #32,2,OPEN,
 Baltimore Ravens,2,SOLD,harryroe1
+New York Jets,2,SOLD,reggie68174
+Pittsburgh Steelers,2,SOLD,reggie68174

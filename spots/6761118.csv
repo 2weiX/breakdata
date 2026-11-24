@@ -1,34 +1,44 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-Miscellaneous,,OPEN,
+#1,121,SOLD,hutch801
+#2,116,SOLD,tgriff3695
+#3,120,SOLD,hutch801
+San Francisco 49ers,120,SOLD,hutch801
+Baltimore Ravens,108,SOLD,quea1609
+Pittsburgh Steelers,107,SOLD,mjskradski
+Cleveland Browns,105,SOLD,williamlance77
+Green Bay Packers,114,SOLD,unclbeny
+Denver Broncos,111,SOLD,unclbeny
+Chicago Bears,156,SOLD,hutch801
+Detroit Lions,96,SOLD,tgriff3695
+Buffalo Bills,101,SOLD,tgriff3695
+Dallas Cowboys,102,SOLD,williamlance77
+#14,109,SOLD,meykel67
+#15,109,SOLD,meykel67
+Los Angeles Rams,109,SOLD,meykel67
+Washington Commanders,104,SOLD,unclbeny
+Jacksonville Jaguars,96,SOLD,tyb1659
+New York Giants,94,SOLD,tyb1659
+Seattle Seahawks,115,SOLD,kingdsal
+#21,102,SOLD,tgriff3695
+Kansas City Chiefs,92,SOLD,instagone
+Minnesota Vikings,116,SOLD,bhall515
+Indianapolis Colts,93,SOLD,jameshung
+Los Angeles Chargers,96,SOLD,bhall515
+#26,100,SOLD,bhall515
+Las Vegas Raiders,73,SOLD,jameshung
+New England Patriots,89,SOLD,tyb1659
+Carolina Panthers,95,SOLD,jameshung
+Miscellaneous,78,SOLD,heyjoesportscards
+Atlanta Falcons,79,SOLD,heyjoesportscards
+#32,71,SOLD,heyjoesportscards
+#33,75,SOLD,heep359
+#34,82,SOLD,heep359
+Cincinnati Bengals,78,SOLD,heep359
+New Orleans Saints,51,SOLD,nahvi
+Houston Texans,64,SOLD,josheva50547
+Arizona Cardinals,65,SOLD,unclbeny
+Tampa Bay Buccaneers,67,SOLD,kingofcards1131
+Tennessee Titans,70,SOLD,heyjoesportscards
+New York Jets,73,SOLD,williamlance77
+Philadelphia Eagles,91,SOLD,heep359
+Miami Dolphins,51,SOLD,celebritysports

@@ -1,6 +1,6 @@
 spot,price,state,buyer
-BIG 10,,OPEN,
-BIG 12,,OPEN,
-SEC,,OPEN,
-ACC,,OPEN,
-REST OF NIL,,OPEN,
+ACC,15,SOLD,shaneimb
+BIG 12,17,SOLD,shaneimb
+BIG 10,14,SOLD,kickskards
+SEC,10,SOLD,shaneimb
+REST OF NIL,11,SOLD,shaneimb

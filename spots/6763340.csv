@@ -1,33 +1,31 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+Cleveland Browns,9,SOLD,bliefs_cards
+Seattle Seahawks,12,SOLD,bliefs_cards
+Green Bay Packers,1,SOLD,coarse_record
+Chicago Bears,7,SOLD,scodon94694
+Tennessee Titans,10,SOLD,coarse_record
+Indianapolis Colts,12,SOLD,mdkyle
+Washington Commanders,13,SOLD,mdkyle
+Arizona Cardinals,14,SOLD,bestgivvys33
+Minnesota Vikings,14,SOLD,bestgivvys33
+Cincinnati Bengals,12,SOLD,bestgivvys33
+Los Angeles Rams,11,SOLD,bliefs_cards
+"Jacksonville Jaguars, Philadelphia Eagles",22,SOLD,bestgivvys33
+Las Vegas Raiders,11,SOLD,scruggsmc
+New York Jets,8,SOLD,bestgivvys33
+Baltimore Ravens,12,SOLD,scruggsmc
+New England Patriots,11,SOLD,bestgivvys33
+Denver Broncos,10,SOLD,jrf0730
+"Carolina Panthers, Tampa Bay Buccaneers",12,SOLD,georgeste
+Buffalo Bills,11,SOLD,georgeste
+Kansas City Chiefs,13,SOLD,gmuns96
+New Orleans Saints,15,SOLD,stiii
+Dallas Cowboys,15,SOLD,georgeste
+Atlanta Falcons,15,SOLD,krispykrebbles
+Pittsburgh Steelers,16,SOLD,krispykrebbles
+Miami Dolphins,15,SOLD,georgeste
+Detroit Lions,15,SOLD,georgeste
+New York Giants,12,SOLD,krispykrebbles
+Houston Texans,11,SOLD,krispykrebbles
+San Francisco 49ers,14,SOLD,georgeste
+Los Angeles Chargers,21,SOLD,georgeste

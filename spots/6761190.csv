@@ -1,25 +1,20 @@
 spot,price,state,buyer
 Alabama,99,OPEN,
 Duke,40,OPEN,
-LSU,65,OPEN,
 Maryland,25,OPEN,
-Michigan,115,OPEN,
 Michigan State,75,OPEN,
 NC State/New Mexico,20,OPEN,
 Nebraska,75,OPEN,
-Northwestern,20,OPEN,
 Oklahoma,99,OPEN,
 Ole Miss,80,OPEN,
 Purdue,25,OPEN,
 Rutgers,65,OPEN,
 Tennessee,60,OPEN,
-Texas,350,OPEN,
 Tulsa,20,OPEN,
 UCF,35,OPEN,
 Vanderbilt,125,OPEN,
 Washington,115,OPEN,
 Wisconsin,40,OPEN,
-Wyoming,15,OPEN,
 Akron/Arizona/Boise State/Boston College/Fresno State/Iowa/Minnesota/Penn State/UNLV/Western Michigan,115,OPEN,
 Arizona State,90,OPEN,
 Arkansas,55,OPEN,
@@ -40,11 +35,8 @@ Kansas,50,OPEN,
 Kansas State,75,OPEN,
 Kentucky,99,OPEN,
 Louisiana,20,OPEN,
-Louisville,15,OPEN,
 Miami,350,OPEN,
-Mississippi State,199,OPEN,
 Missouri,45,OPEN,
-North Carolina,40,OPEN,
 Notre Dame,399,OPEN,
 Ohio State,85,OPEN,
 Oklahoma State,275,OPEN,
@@ -56,12 +48,10 @@ Stanford,60,OPEN,
 TCU,45,OPEN,
 Texas A&M,85,OPEN,
 Texas State,28,SOLD,amg1204
-Texas Tech,70,OPEN,
 UCLA,45,OPEN,
 UConn,20,OPEN,
 USC,199,OPEN,
 Utah,90,OPEN,
-Virginia/Washington State (WSU),20,OPEN,
 Wake Forest,125,OPEN,
 Western Kentucky,30,OPEN,
 Delaware,16,SOLD,va_wildman
@@ -69,3 +59,12 @@ West Virginia,30,SOLD,mikemcgin1979
 Clemson,16,SOLD,dw2835
 Florida State,24,SOLD,dw2835
 Syracuse,15,SOLD,mikemcgin1979
+LSU,50,OPEN,
+Michigan & Texas Tech,145,SOLD,dw2835
+Northwestern,15,SOLD,dw2835
+Texas,275,SOLD,stephenang30023
+Wyoming,12,SOLD,dw2835
+Louisville,1,SOLD,trinity_cards
+Mississippi State,159.2,SOLD,handcuffs
+North Carolina,25,SOLD,trinity_cards
+Virginia/Washington State (WSU),16,SOLD,dw2835

@@ -1,34 +1,34 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-Miscellaneous,,OPEN,
+Cleveland Browns,19,SOLD,hanks_card_co
+Arizona Cardinals,20,SOLD,hanks_card_co
+Green Bay Packers,27,SOLD,hanks_card_co
+Carolina Panthers,24,SOLD,bos168
+Tampa Bay Buccaneers,26,SOLD,bogdank
+New York Giants,32,SOLD,hanks_card_co
+Baltimore Ravens,26,SOLD,bogdank
+Pittsburgh Steelers,24,SOLD,tshroll
+New England Patriots,24,SOLD,bogdank
+Los Angeles Chargers,25,SOLD,tshroll
+Dallas Cowboys,23,SOLD,mrittmer
+Miami Dolphins,22,SOLD,bogdank
+Chicago Bears,24,SOLD,loganjeffries
+Denver Broncos,30,SOLD,mrittmer
+Tennessee Titans,31,SOLD,hanks_card_co
+Washington Commanders,27,SOLD,loganjeffries
+Indianapolis Colts,21,SOLD,bogdank
+Miscellaneous,22,SOLD,bogdank
+New York Jets,22,SOLD,hanks_card_co
+Buffalo Bills,22,SOLD,bogdank
+Atlanta Falcons,21,SOLD,bogdank
+Jacksonville Jaguars,26,SOLD,bogdank
+Minnesota Vikings,27,SOLD,bogdank
+Las Vegas Raiders,15,SOLD,trashbagbilly
+Philadelphia Eagles,16,SOLD,dk_28
+Houston Texans,20,SOLD,mrittmer
+Kansas City Chiefs,23,SOLD,trashbagbilly
+Los Angeles Rams,18,SOLD,dk_28
+San Francisco 49ers,21,SOLD,dk_28
+Detroit Lions,21,SOLD,dk_28
+Cincinnati Bengals,15,SOLD,trashbagbilly
+Seattle Seahawks,22,SOLD,mrittmer
+New Orleans Saints,36,SOLD,mrittmer

@@ -1,151 +1,62 @@
 spot,price,state,buyer
-Tom Brady,,OPEN,
-Fernando Mendoza,,OPEN,
-Joe Burrow,,OPEN,
-Josh Allen,,OPEN,
-Drew Mestemaker,,OPEN,
-Caleb Williams,,OPEN,
-Bear Bachmeier,,OPEN,
-Cam Ward,,OPEN,
-Lamar Jackson,,OPEN,
-Carson Beck,,OPEN,
-Bo Nix,,OPEN,
-CJ Stroud,,OPEN,
-Jared Goff,,OPEN,
-Jaxson Dart,,OPEN,
-Jayden Maiava,,OPEN,
-Josh Hoover,,OPEN,
-Kenny Minchey,,OPEN,
-Matthew Stafford,,OPEN,
-Peyton Manning,,OPEN,
-Cade Klubnik,,OPEN,
-Caleb Downs,,OPEN,
-Carnell Tate,,OPEN,
-Christian McCaffrey,,OPEN,
-Jadarian Price,,OPEN,
-Jaxon Smith-Njigba,,OPEN,
-Jordyn Tyson,,OPEN,
-KC Concepcion,,OPEN,
-Makai Lemon,,OPEN,
-Puka Nacua,,OPEN,
-Tetairoa McMillan,,OPEN,
-A.J. Haulcy,,OPEN,
-Aaron Flowers,,OPEN,
-Aaron Jones Sr.,,OPEN,
-Aaron Philo / Adam Mohammed,,OPEN,
-Aaron Rodgers,,OPEN,
-Abdul Carter,,OPEN,
-Adam Randall / Adam Schobel,,OPEN,
-Adam Vinatieri,,OPEN,
-Adonai Mitchell / Aidan Laughery,,OPEN,
-Adrian Peterson,,OPEN,
-Aidan Hutchinson,,OPEN,
-Aidan O'Connell / AJ Barner,,OPEN,
-AJ Surace / Albert Regis,,OPEN,
-Akheem Mesidor,,OPEN,
-Alec Pierce,,OPEN,
-Alessio Milivojevic / Alex Perry,,OPEN,
-Alonza Barnett III / Amare Thomas,,OPEN,
-Alvin Kamara,,OPEN,
-Amarius Mims / Andrei Iosivas,,OPEN,
-Amon-Ra St. Brown,,OPEN,
-Andre Johnson,,OPEN,
-Andre Reed,,OPEN,
-Aneyas Williams,,OPEN,
-Anquan Boldin,,OPEN,
-Anthonie Knapp / Anthony Colandrea,,OPEN,
-Anthony Gould / Anthony Hill Jr.,,OPEN,
-Anthony Muñoz,,OPEN,
-Anthony Richardson,,OPEN,
-Anthony Smith / Antoine Winfield Jr.,,OPEN,
-Antonio Gates,,OPEN,
-Antonio Williams,,OPEN,
-Antwann Hill Jr. / Antwan Raymond,,OPEN,
-Archie Manning,,OPEN,
-Art Monk / Ashton Bethel-Roman,,OPEN,
-Arvell Reese,,OPEN,
-Ashton Jeanty,,OPEN,
-Athan Kaliakmanis,,OPEN,
-Audric Estime / Baylor Hayes,,OPEN,
-Avieon Terrell,,OPEN,
-Baker Mayfield,,OPEN,
-Behren Morton,,OPEN,
-Benjamin Brahmer / Bernie Kosar,,OPEN,
-Bhayshul Tuten / Bill Davis,,OPEN,
-Bijan Robinson,,OPEN,
-Blake Corum / Blake Miller,,OPEN,
-Bo Jackson,,OPEN,
-Bob Griese / Boomer Esiason,,OPEN,
-Braden Pegan / Brad Jackson,,OPEN,
-Braelon Allen / Brandon Aubrey,,OPEN,
-Brandon Cisse,,OPEN,
-Braylon Staley / Brenton Strange,,OPEN,
-Breece Hall,,OPEN,
-Brenen Thompson,,OPEN,
-Brett Eskildsen / Brett Norfleet,,OPEN,
-Brett Favre,,OPEN,
-Brevyn Spann-Ford / Brian Burns,,OPEN,
-Brian Branch,,OPEN,
-Brian Dawkins,,OPEN,
-Brian Robinson Jr. / Brian Westbrook,,OPEN,
-Brian Thomas Jr.,,OPEN,
-Broc Lowry / Bruce Matthews,,OPEN,
-Bryan Bresee / Bryce Fitzgerald,,OPEN,
-Bryce Lance,,OPEN,
-Bryson Donelson / Bryson Kuzdzal,,OPEN,
-Bryson Washington / Bud Clark,,OPEN,
-Bucky Irving,,OPEN,
-Budda Baker,,OPEN,
-Byrd Ficklin / Byron Murphy II,,OPEN,
-Byron Murphy Jr. / Byron Young,,OPEN,
-Ca'Lil Valentine / Cam Cook,,OPEN,
-Cade Otton / Cade Stover,,OPEN,
-Caden Durham / Caden Knighten,,OPEN,
-Caleb Banks,,OPEN,
-Caleb Douglas,,OPEN,
-Caleb Goodie / Caleb Hawkins,,OPEN,
-Caleb Komolafe / Calen Bullock,,OPEN,
-Caleb Lomu,,OPEN,
-Calvin Ridley,,OPEN,
-Cam Little,,OPEN,
-Cam Skattebo,,OPEN,
-Cam Vaughn / Carlos Del Rio-Wilson,,OPEN,
-Cameron Dicker / Cameron Dickey,,OPEN,
-Cameron Heyward / Cam Pickett,,OPEN,
-Carson Schwesinger,,OPEN,
-Cashius Howell,,OPEN,
-Cataurus Hicks / Cederian Morgan,,OPEN,
-Cedric Tillman / CharMar Brown,,OPEN,
-Chad Johnson,,OPEN,
-Chase Bisontis / Chase Hendricks,,OPEN,
-Chase Brown,,OPEN,
-Chase Jenkins / Chauncey Bowens,,OPEN,
-Chig Okonkwo / Chimere Dike,,OPEN,
-Chop Robinson,,OPEN,
-Chris Bell,,OPEN,
-Chris Braswell / Chris Johnson,,OPEN,
-Chris Brazzell II,,OPEN,
-Chris Godwin,,OPEN,
-Chris Jones,,OPEN,
-Chris Lindstrom / Chris McClellan,,OPEN,
-Chris Olave,,OPEN,
-Christen Miller / Christian Benford,,OPEN,
-Christian Gonzalez,,OPEN,
-Christian Kirk,,OPEN,
-Christian Okoye / CJ Brown,,OPEN,
-Christian Watson,,OPEN,
-Chuba Hubbard,,OPEN,
-CJ Allen / Cole Bishop,,OPEN,
-CJ Daniels,,OPEN,
-Colbie Young,,OPEN,
-Cole Payton,,OPEN,
-Cole Tabb / Collin Dixon,,OPEN,
-Colston Loveland,,OPEN,
-Colton Hood,,OPEN,
-Colton Joseph / Cooper Barkate,,OPEN,
-Cooper Beebe / Cornelius Bennett,,OPEN,
-Cooper DeJean,,OPEN,
-Cooper Kupp,,OPEN,
-Courtland Sutton,,OPEN,
-Creed Humphrey / Cutter Boley,,OPEN,
-Cris Carter,,OPEN,
+A.J. Haulcy,11,SOLD,gohabsgo54
+Christian Kirk,13,SOLD,johnnyart88
+Brian Thomas Jr.,10,SOLD,j_street_83
+Frank Gore,9,SOLD,pipiswolk
+Braden Pegan / Brad Jackson,9,SOLD,j_street_83
+Dallas Goedert,10,SOLD,beastmode1408
+Daniel Hill Jr. / Daniel Kaelin,11,SOLD,zlarraza93zla
+Benjamin Brahmer / Bernie Kosar,11,SOLD,zlarraza93zla
+Chris Lindstrom / Chris McClellan,10,SOLD,j_street_83
+Jacoby Brissett / Jacory Croskey-Merritt,9,SOLD,j_street_83
+Cole Payton,8,SOLD,daytont
+DeMarco Murray / Demario Davis,9,SOLD,casehitplz
+KC Concepcion,9,SOLD,j_street_83
+Demon June / Denzel Burke,9,SOLD,zlarraza93zla
+Anquan Boldin,10,SOLD,zlarraza93zla
+Danny Amendola,9,SOLD,j_street_83
+Courtland Sutton,9,SOLD,zlarraza93zla
+Deebo Samuel,10,SOLD,j_street_83
+Emeka Egbuka,11,SOLD,j_street_83
+Adonai Mitchell / Aidan Laughery,11,SOLD,j_street_83
+Derwin James,11,SOLD,j_street_83
+CJ Allen / Cole Bishop,9,SOLD,casehitplz
+George Pickens,9,SOLD,j_street_83
+Caleb Williams,8,SOLD,user_53599
+Demond Claiborne,8,SOLD,j_street_83
+Jaxson Dart,8,SOLD,j_street_83
+Audric Estime / Baylor Hayes,8,SOLD,j_street_83
+Emmett Mosley V / Eric Allen,8,SOLD,casehitplz
+Andre Johnson,9,SOLD,casehitplz
+DK Metcalf,7,SOLD,casehitplz
+Eric Winters / Ethan Hampton,7,SOLD,campljustin
+Jalen Carter,7,SOLD,casehitplz
+Jadarian Price,7,SOLD,noblerips
+Dexter Lawrence II,7,SOLD,lvdsportscards
+Dalton Kincaid,7,SOLD,zlarraza93zla
+Daylen Everette / DeAngelo Hall,7,SOLD,noblerips
+Deion Burks,7,SOLD,casehitplz
+Cedric Tillman / CharMar Brown,7,SOLD,vancardworks
+Breece Hall,7,SOLD,noblerips
+Carson Beck,7,SOLD,vancardworks
+Hollywood Smothers,7,SOLD,pipiswolk
+Adam Randall / Adam Schobel,8,SOLD,noblerips
+Emmett Johnson,6,SOLD,daytont
+Edgerrin James / Elijah Brown,8,SOLD,noblerips
+Dan Marino,7,SOLD,pipiswolk
+Chase Bisontis / Chase Hendricks,6,SOLD,noblerips
+Jeremiah Hasley / Jeremiah McClellan,11,SOLD,noblerips
+Caleb Komolafe / Calen Bullock,7,SOLD,jcc9691
+Jacob Rodriguez,7,SOLD,pipiswolk
+Gunnar Helm,7,SOLD,jcc9691
+Bhayshul Tuten / Bill Davis,7,SOLD,king_jimbo
+Ca'Lil Valentine / Cam Cook,8,SOLD,noblerips
+Bryce Lance,8,SOLD,noblerips
+Jack Bech,9,SOLD,noblerips
+Derek Stingley Jr.,8,SOLD,jcc9691
+Dan Fouts / D'Angelo Ponds,7,SOLD,noblerips
+Jeremiah Trotter / Jeremy Chinn,8,SOLD,noblerips
+Brett Favre,8,SOLD,noblerips
+Bryson Washington / Bud Clark,7,SOLD,jcc9691
+Ja'Kobi Lane,8,SOLD,noblerips
+#61,1,OPEN,

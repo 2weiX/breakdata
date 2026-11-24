@@ -1,5 +1,4 @@
 spot,price,state,buyer
-#1,28,OPEN,
 #2,28,OPEN,
 #3,28,OPEN,
 #4,26,SOLD,alphelsinki
@@ -8,7 +7,6 @@ spot,price,state,buyer
 #7,28,OPEN,
 #8,28,SOLD,bet6767
 #9,28,OPEN,
-#10,28,OPEN,
 #11,28,OPEN,
 #12,28,OPEN,
 #13,28,SOLD,bet6767
@@ -31,3 +29,5 @@ spot,price,state,buyer
 #30,28,OPEN,
 #31,26,SOLD,alphelsinki
 #32,28,OPEN,
+#1,28,SOLD,bet6767
+#10,28,SOLD,bet6767

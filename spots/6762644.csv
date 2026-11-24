@@ -1,6 +1,6 @@
 spot,price,state,buyer
-BIG 10,,OPEN,
-BIG 12,,OPEN,
-SEC,,OPEN,
-ACC,,OPEN,
-REST OF NIL,,OPEN,
+BIG 10,21,SOLD,taterhead4569
+ACC,18,SOLD,acoraptor
+REST OF NIL,11,SOLD,acoraptor
+BIG 12,19,SOLD,taterhead4569
+SEC,16,SOLD,acoraptor
