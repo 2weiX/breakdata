@@ -1,33 +1,39 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+Arizona Cardinals,25,SOLD,spoll2121
+Atlanta Falcons,30,SOLD,dozieodonnel
+Baltimore Ravens,30,SOLD,tyroz04
+Buffalo Bills,31,SOLD,pinchmedisney
+Carolina Panthers,32,SOLD,spoll2121
+Chicago Bears,32,SOLD,cruzah5
+Cincinnati Bengals,34,SOLD,spoll2121
+Cleveland Browns,27,SOLD,tyroz04
+Dallas Cowboys,32,SOLD,maschke
+Denver Broncos,18,SOLD,tyroz04
+Detroit Lions,17,SOLD,mikeowe35544
+Green Bay Packers,26,SOLD,simonsau11543
+Houston Texans,20,SOLD,pinchmedisney
+Indianapolis Colts,24,SOLD,spoll2121
+Jacksonville Jaguars,16,SOLD,mikeowe35544
+Kansas City Chiefs,30,SOLD,tyroz04
+Las Vegas Raiders,26,SOLD,simonsau11543
+Los Angeles Chargers,20,SOLD,simonsau11543
+Los Angeles Rams,31,SOLD,pinchmedisney
+Miami Dolphins,28,SOLD,cruzah5
+Minnesota Vikings,34,SOLD,tyroz04
+New England Patriots,33,SOLD,dozieodonnel
+New Orleans Saints,21,SOLD,spoll2121
+New York Giants,27,SOLD,simonsau11543
+New York Jets,26,SOLD,pinchmedisney
+Philadelphia Eagles,30,SOLD,scully2013
+Pittsburgh Steelers,34,SOLD,cruzah5
+San Francisco 49ers,40,SOLD,tyroz04
+Seattle Seahawks,26,SOLD,tyroz04
+Tampa Bay Buccaneers,26,SOLD,maschke
+Tennessee Titans,23,SOLD,spoll2121
+Washington Commanders,20,SOLD,davidrey94
+#8,21,SOLD,maschke
+#12,31,SOLD,tyroz04
+#20,19,SOLD,simonsau11543
+#26,22,SOLD,tyroz04
+#27,27,SOLD,tyroz04
+MISC,27,SOLD,tyroz04

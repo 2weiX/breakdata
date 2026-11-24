@@ -1,5 +1,5 @@
 spot,price,state,buyer
-Victor Wembanyama (AUTO x6) (AUTO RELIC),19999,OPEN,
+Victor Wembanyama (AUTO x6) (AUTO RELIC),12000,SOLD,eazy727
 Dylan Harper (AUTO x7) (DUAL) (AUTO RELIC),17499,OPEN,
 LeBron James (AUTO x4) (DUAL) (AUTO RELIC),14999,OPEN,
 Stephen Curry (AUTO x6) (AUTO RELIC),12499,OPEN,
@@ -22,7 +22,6 @@ Paolo Banchero (AUTO x5) (AUTO RELIC),1149,OPEN,
 Magic Johnson (DUAL x2),999,OPEN,
 Russell Westbrook (DUAL x7),999,OPEN,
 Shaquille O'Neal (AUTO x2),999,OPEN,
-Tyrese Maxey (AUTO x3),999,OPEN,
 James Harden (AUTO x7) (AUTO RELIC),999,OPEN,
 Joan Beringer (AUTO x6) (AUTO RELIC),899,OPEN,
 John Stockton (DUAL x2),899,OPEN,
@@ -49,7 +48,8 @@ Larry Bird (AUTO x2),599,OPEN,
 Tyrese Proctor (AUTO x3) (AUTO RELIC),599,OPEN,
 Will Riley (AUTO x4) (AUTO RELIC),599,OPEN,
 Asa Newell (AUTO x4) (AUTO RELIC),499,OPEN,
-Brandon Miller (AUTO x2),499,OPEN,
+Brandon Miller (AUTO x2),350,SOLD,tjcardskc
 Kevin Garnett (AUTO),499,OPEN,
 Noa Essengue (AUTO x7) (DUAL) (AUTO RELIC),499,OPEN,
 Cooper Flagg (AUTO x7) (DUAL) (AUTO RELIC),19000,SOLD,jofer
+RESERVED - Tyrese Maxey (AUTO x3),700,OPEN,

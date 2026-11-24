@@ -12,7 +12,6 @@ Green Bay Packers-Texas Rangers,15,SOLD,robpoh
 Houston Texans-Washington Nationals,15,SOLD,robpoh
 Indianapolis Colts-Toronto Blue Jays,10,SOLD,heathbar2323
 Jacksonville Jaguars-Miami Marlins,15,OPEN,
-Kansas City Chiefs,22,OPEN,
 Las Vegas Raiders,20,SOLD,robpoh
 Los Angeles Chargers-Los Angeles Angels,10,SOLD,charlesmar2333
 Los Angeles Rams-Detroit Tigers,15,OPEN,
@@ -22,7 +21,7 @@ New England Patriots-Cincinnati Reds,10,SOLD,heathbar2323
 New York Giants-Athletics,15,SOLD,charlesmar2333
 New York Jets-New York Mets,10,SOLD,charlesmar2333
 Philadelphia Eagles-Atlanta Braves,15,OPEN,
-Pittsburgh Steelers-Kansas City Royals,15,OPEN,
+Pittsburgh Steelers-Kansas City Royals,10,SOLD,charlesmar2333
 San Francisco 49ers-SF Giants ,11,SOLD,robpoh
 Seattle Seahawks-St. Louis Cardinals,15,SOLD,charlesmar2333
 Tampa Bay Buccaneers-Pittsburgh Pirates,15,SOLD,charlesmar2333
@@ -32,5 +31,6 @@ New York Yankees,22,SOLD,eddie_the_freaking_yeti
 Los Angeles Dodgers,22,OPEN,
 Milwaukee Brewers,22,OPEN,
 Chicago Cubs,22,OPEN,
-Houston Astros,22,OPEN,
+Houston Astros,14,SOLD,ricwoh
 "arizona diamondbacks, saints, bears, browns ",57,SOLD,stripperglitter666
+astros,14,OPEN,

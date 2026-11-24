@@ -4,7 +4,7 @@ Arkansas/Colorado/Duke/FL ST/ASU/WVU,50,OPEN,
 Atlanta Falcons,65,OPEN,
 Baltimore Ravens,30,OPEN,
 Carolina Panthers,50,OPEN,
-Chicago Bears,54,SOLD,briank11
+Chicago Bears,60,OPEN,
 Cincinnati Bengals,55,OPEN,
 Clemson Tigers,30,OPEN,
 Dallas Cowboys,160,OPEN,
@@ -50,13 +50,15 @@ Georgia Bulldogs,125,OPEN,
 High School,15,OPEN,
 Indianapolis Colts,85,OPEN,
 Missouri Tigers,50,OPEN,
-New York Jets,10,SOLD,seansummers
+New York Jets,10,OPEN,
 Notre Dame Fighting Irish,250,OPEN,
 Ohio State Buckeyes,225,OPEN,
-Ole Miss Rebels,110,SOLD,rippinautos
+Ole Miss Rebels,125,OPEN,
 Oregon Ducks,80,OPEN,
 Philadelphia Eagles,40,OPEN,
 South Carolina Gamecocks,60,OPEN,
 Tennessee Titans,15,OPEN,
 Texas Tech Red Raiders,30,OPEN,
 USC Trojans,125,OPEN,
+#6,60,SOLD,briank11
+#55,125,SOLD,rippinautos

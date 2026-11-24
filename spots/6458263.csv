@@ -1,31 +1,27 @@
 spot,price,state,buyer
 Arizona Cardinals,499,OPEN,
-Atlanta Falcons,129,OPEN,
-Baltimore Ravens,219,OPEN,
+Atlanta Falcons,89,SOLD,deusmaximus
+Baltimore Ravens,147,SOLD,mortimort
 Carolina Panthers,149,SOLD,tatze_cards
-Chicago Bears,499,OPEN,
-Cincinnati Bengals,299,OPEN,
-Cleveland Browns,249,OPEN,
+Chicago Bears,350,SOLD,bjwormuth
 Dallas Cowboys,399,OPEN,
 Denver Broncos,183.2,SOLD,1pepe
-Detroit Lions,299,OPEN,
 Green Bay Packers,85,SOLD,flo84
-Indianapolis Colts,119,OPEN,
-Jacksonville Jaguars,149,OPEN,
+Indianapolis Colts,89,SOLD,deusmaximus
+Jacksonville Jaguars,99,SOLD,deusmaximus
 Las Vegas Raiders,899,OPEN,
-Los Angeles Chargers,119,OPEN,
+Los Angeles Chargers,85,SOLD,deusmaximus
 Los Angeles Rams,699,OPEN,
 Miami Dolphins,80,SOLD,13cardz
-Minnesota Vikings,199,OPEN,
-New England Patriots,599,OPEN,
 New York Giants,499,OPEN,
-New York Jets,199,OPEN,
+New York Jets,139,SOLD,benjaminhinz
 Philadelphia Eagles,249,OPEN,
-Pittsburgh Steelers,199,OPEN,
-San Francisco 49ers,399,OPEN,
-Seattle Seahawks,399,OPEN,
-Tampa Bay Buccaneers ,399,OPEN,
-Tennessee Titans,299,OPEN,
+Pittsburgh Steelers,139,SOLD,benjaminhinz
+San Francisco 49ers,280,SOLD,deusmaximus
+Seattle Seahawks,280,SOLD,derdomi
+Tennessee Titans,178,SOLD,benjaminhinz
 Washington Commanders,119,SOLD,rinesx3
 Kansas City Chiefs,525,SOLD,1pepe
 "Bills, Texans, Saints",600,SOLD,deusmaximus
+"New England Patriots, Bangels, Browns",800,SOLD,deusmaximus
+"Buccs, Lions, Vikings",450,SOLD,deusmaximus

@@ -1,42 +1,57 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-MISC,,OPEN,
-WHOEY 1,,OPEN,
-WHOEY 2,,OPEN,
-WHOEY 4,,OPEN,
-WHOEY 6,,OPEN,
-WHOEY 7,,OPEN,
-WHOEY 8 ,,OPEN,
-WHOEY 3,,OPEN,
-WHOEY 5,,OPEN,
+Arizona Cardinals,9,SOLD,ryanfra49600
+Atlanta Falcons,17,SOLD,dinodan12
+Baltimore Ravens,59,SOLD,johnkho23
+Buffalo Bills,21,SOLD,snowbum18
+Carolina Panthers,28,SOLD,tylertra46013
+Chicago Bears,59,SOLD,bigjohn1204
+Cincinnati Bengals,240,SOLD,flandersnj32
+Cleveland Browns,250,SOLD,higherlander
+Dallas Cowboys,38,SOLD,creeves20
+Denver Broncos,100,SOLD,bigjohn1204
+Detroit Lions,78,SOLD,flandersnj32
+Green Bay Packers,23,SOLD,ryanfra49600
+Houston Texans,12,SOLD,jsbrown7
+Indianapolis Colts,14,SOLD,jsbrown7
+Jacksonville Jaguars,205,SOLD,flandersnj32
+Kansas City Chiefs,240,SOLD,sweensween6
+Las Vegas Raiders,85,SOLD,generalfive1
+Los Angeles Chargers,75,SOLD,dwood7714
+Los Angeles Rams,89,SOLD,generalfive1
+Miami Dolphins,14.45,SOLD,dinodan12
+Minnesota Vikings,78,SOLD,flandersnj32
+New England Patriots,87,SOLD,bigjohn1204
+New Orleans Saints,76,SOLD,dwood7714
+New York Giants,245,SOLD,higherlander
+New York Jets,11,SOLD,creeves20
+Philadelphia Eagles,64,SOLD,bigjohn1204
+Pittsburgh Steelers,215,SOLD,sweensween6
+San Francisco 49ers,235,SOLD,sweensween6
+Seattle Seahawks,19,SOLD,jsbrown7
+Tampa Bay Buccaneers,7,SOLD,jsbrown7
+Tennessee Titans,23,SOLD,ryanfra49600
+Washington Commanders,19,SOLD,creeves20
+MISC,80,SOLD,flandersnj32
+WHOEY 1,225,SOLD,bigjohn1204
+WHOEY 2,230,SOLD,bigjohn1204
+WHOEY 4,210,SOLD,flandersnj32
+WHOEY 6,228,SOLD,sweensween6
+WHOEY 7,215,SOLD,sweensween6
+WHOEY 8 ,73,SOLD,kbiggins79
+WHOEY 3,205,SOLD,bigjohn1204
+WHOEY 5,225,SOLD,bigjohn1204
+T,200,SOLD,sweensween6
+Y,240,SOLD,bigjohn1204
+T,183,SOLD,bigjohn1204
+T,210,SOLD,sweensween6
+T,121,SOLD,bigjohn1204
+R,166,SOLD,higherlander
+T,23,SOLD,tylertra46013
+T,78,SOLD,flandersnj32
+T,78,SOLD,flandersnj32
+T,80,SOLD,flandersnj32
+T,78,SOLD,flandersnj32
+T,78,SOLD,flandersnj32
+T,78,SOLD,flandersnj32
+#44,39,SOLD,gdione
+T,32,SOLD,johnkho23

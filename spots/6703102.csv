@@ -1,23 +1,17 @@
 spot,price,state,buyer
 Arizona Cardinals,59,OPEN,
-Baltimore Ravens,23,OPEN,
-Buffalo Bills,52,OPEN,
-Cincinnati Bengals,45,OPEN,
-Cleveland Browns,30,OPEN,
+Buffalo Bills,45,SOLD,jmeenyy
+Cleveland Browns,30,SOLD,joshuapee86969
 Dallas Cowboys,30,OPEN,
-Houston Texans,8,OPEN,
+Houston Texans,8,SOLD,bretrob072280
 Jacksonville Jaguars,15,SOLD,bangarangandrew
-Kansas City Chiefs,67,OPEN,
 Los Angeles Rams,52,OPEN,
-Minnesota Vikings,15,OPEN,
-New England Patriots,59,OPEN,
-New Orleans Saints,30,OPEN,
-New York Giants,45,OPEN,
-Pittsburgh Steelers,23,OPEN,
+Minnesota Vikings,15,SOLD,matthewregorrah
+New York Giants,36,SOLD,birdland_breaker
 San Francisco 49ers,37,SOLD,bangarangandrew
 Seattle Seahawks,45,OPEN,
 Tampa Bay Buccaneers,37,OPEN,
-Tennessee Titans,30,OPEN,
+Tennessee Titans,25,SOLD,calebwilliamsenjoyer
 Washington Commanders,23,SOLD,dcmatt218
 rstreete4444: Broncos and Jets,38,SOLD,rstreete4444
 "bretrob072280: Colts, Chargers and Dolphins",21,SOLD,bretrob072280
@@ -26,3 +20,6 @@ Chicago Bears,33.3,SOLD,starrland
 Green Bay Packers,20,SOLD,tee_why22
 Philadelphia Eagles,24,SOLD,branson91
 bretrob072280: Falcons and Panthers,25,SOLD,bretrob072280
+birdland_breaker: Ravens and Chiefs,75,SOLD,birdland_breaker
+birdland_breaker: Patriots and Saints,70,SOLD,birdland_breaker
+grantdog16: Bengals and Steelers,55,SOLD,grantdog16

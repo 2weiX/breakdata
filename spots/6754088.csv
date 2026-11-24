@@ -1,44 +1,60 @@
 spot,price,state,buyer
-SHOVEL 1,,OPEN,
-SHOVEL 2,,OPEN,
-SHOVEL 3,,OPEN,
-SHOVEL 4,,OPEN,
-SHOVEL 5,,OPEN,
-SHOVEL 6,,OPEN,
-SHOVEL 7,,OPEN,
-SHOVEL 8,,OPEN,
-SHOVEL 9,,OPEN,
-SHOVEL 10,,OPEN,
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-NIL,,OPEN,
+SHOVEL 1,68,SOLD,karimv2
+SHOVEL 2,56,SOLD,goody_rips
+SHOVEL 3,66,SOLD,zrb847
+SHOVEL 4,35,SOLD,jkozak88
+SHOVEL 5,69,SOLD,amonrawdawgin
+SHOVEL 6,68,SOLD,joelikecards
+SHOVEL 7,53,SOLD,btcards2026
+SHOVEL 8,42,SOLD,joelikecards
+SHOVEL 9,42,SOLD,pokinets
+SHOVEL 10,42,SOLD,ovcee
+Arizona Cardinals,12,SOLD,theopalmarketplace
+Atlanta Falcons,12,SOLD,wvhoope
+Baltimore Ravens,46,SOLD,kbiggins79
+Buffalo Bills,32,SOLD,wvhoope
+Chicago Bears,78,SOLD,pokinets
+Cincinnati Bengals,59,SOLD,amonrawdawgin
+Cleveland Browns,42,SOLD,ovcee
+Dallas Cowboys,59,SOLD,apocalips
+Denver Broncos,13,SOLD,jkozak88
+Detroit Lions,22,SOLD,wvhoope
+Green Bay Packers,32,SOLD,wvhoope
+Jacksonville Jaguars,13,SOLD,wvhoope
+Kansas City Chiefs,53,SOLD,goody_rips
+Las Vegas Raiders,40,SOLD,mjb_222
+Los Angeles Chargers,46,SOLD,jfo18041
+Los Angeles Rams,79,SOLD,pokinets
+Minnesota Vikings,75,SOLD,jfo18041
+New England Patriots,30,SOLD,platinumtrue
+New York Giants,36,SOLD,apocalips
+New York Jets,32,SOLD,wvhoope
+Philadelphia Eagles,50,SOLD,joelikecards
+Pittsburgh Steelers,39,SOLD,wvhoope
+San Francisco 49ers,45,SOLD,johnpet88
+Seattle Seahawks,9,SOLD,amonrawdawgin
+Tampa Bay Buccaneers,32,SOLD,ovcee
+Washington Commanders,13,SOLD,emj1989
+NIL,34,SOLD,apocalips
+Traded,54,SOLD,joelikecards
+Traded,48,SOLD,platinumtrue
+Traded,48,SOLD,pokinets
+Traded,59,SOLD,pokinets
+Traded,60,SOLD,pokinets
+Traded,73,SOLD,pokinets
+Traded,50,SOLD,zrb847
+Traded,50,SOLD,zrb847
+Traded,60,SOLD,zrb847
+Traded,64,SOLD,zrb847
+Traded,64,SOLD,zrb847
+Traded,58,SOLD,zrb847
+Traded,61,SOLD,jfo18041
+Traded,66,SOLD,jfo18041
+Traded,72,SOLD,jfo18041
+Traded,44,SOLD,ovcee
+Traded,42,SOLD,johnpet88
+#41,44,SOLD,jameslew00584
+Traded,36,SOLD,jfo18041
+"Carolina Panthers, Indianapolis Colts",28,SOLD,wvhoope
+"Houston Texans, Miami Dolphins",34,SOLD,frebrent00
+"New Orleans Saints, Tennessee Titans",20,SOLD,amonrawdawgin

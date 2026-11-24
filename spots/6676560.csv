@@ -1,34 +1,48 @@
 spot,price,state,buyer
-Arizona Cardinals - HEAT ,,OPEN,
-Atlanta Falcons -  HEAT ,,OPEN,
-Baltimore Ravens -  HEAT ,,OPEN,
-Buffalo Bills -  HEAT ,,OPEN,
-Carolina Panthers -  HEAT ,,OPEN,
-Chicago Bears -  HEAT ,,OPEN,
-Cincinnati Bengals -  HEAT ,,OPEN,
-Cleveland Browns -  HEAT ,,OPEN,
-Dallas Cowboys -  HEAT ,,OPEN,
-Denver Broncos -  HEAT ,,OPEN,
-Detroit Lions - HEAT ,,OPEN,
-Green Bay Packers -  HEAT ,,OPEN,
-Houston Texans -  HEAT ,,OPEN,
-Indianapolis Colts -  HEAT ,,OPEN,
-Jacksonville Jaguars -  HEAT ,,OPEN,
-Kansas City Chiefs -  HEAT ,,OPEN,
-Las Vegas Raiders -  HEAT ,,OPEN,
-Los Angeles Chargers -  HEAT ,,OPEN,
-Los Angeles Rams -  HEAT ,,OPEN,
-Miami Dolphins -  HEAT ,,OPEN,
-Minnesota Vikings -  HEAT ,,OPEN,
-New England Patriots -  HEAT ,,OPEN,
-New Orleans Saints -  HEAT ,,OPEN,
-New York Giants -  HEAT ,,OPEN,
-New York Jets -  HEAT ,,OPEN,
-Philadelphia Eagles -  HEAT ,,OPEN,
-Pittsburgh Steelers -  HEAT ,,OPEN,
-San Francisco 49ers -  HEAT ,,OPEN,
-Seattle Seahawks -  HEAT ,,OPEN,
-Tampa Bay Buccaneers - HEAT ,,OPEN,
-Tennessee Titans -  HEAT ,,OPEN,
-Washington Commanders -  HEAT ,,OPEN,
-MISC -  HEAT ,,OPEN,
+Atlanta Falcons -  HEAT ,98,SOLD,christopherwor27054
+Buffalo Bills -  HEAT ,111,SOLD,christopherwor27054
+Chicago Bears -  HEAT ,180,SOLD,bobbysend33
+Cincinnati Bengals -  HEAT ,160,SOLD,bobbysend33
+Cleveland Browns -  HEAT ,154,SOLD,dj_jay_keez
+Dallas Cowboys -  HEAT ,110,SOLD,christopherwor27054
+Denver Broncos -  HEAT ,135,SOLD,bobbysend33
+Detroit Lions - HEAT ,120,SOLD,sirnicholasthegreat
+Green Bay Packers -  HEAT ,135,SOLD,christopherwor27054
+Houston Texans -  HEAT ,136,SOLD,christopherwor27054
+Kansas City Chiefs -  HEAT ,136,SOLD,509mytime
+Las Vegas Raiders -  HEAT ,170,SOLD,kuest
+Los Angeles Rams -  HEAT ,159,SOLD,dj_jay_keez
+Minnesota Vikings -  HEAT ,137,SOLD,stiii
+New England Patriots -  HEAT ,120,SOLD,quad_jokers
+New York Giants -  HEAT ,97.5,SOLD,jkirish1
+New York Jets -  HEAT ,130,SOLD,dennispas1997
+Philadelphia Eagles -  HEAT ,138,SOLD,jkirish1
+Pittsburgh Steelers -  HEAT ,200,SOLD,kuest
+San Francisco 49ers -  HEAT ,145,SOLD,quad_jokers
+Tampa Bay Buccaneers - HEAT ,110,SOLD,martyy00
+Tennessee Titans -  HEAT ,130,SOLD,texasfeelion
+Washington Commanders -  HEAT ,151,SOLD,farheezy
+MISC -  HEAT ,140,SOLD,jkirish1
+#1,78,SOLD,sirnicholasthegreat
+#4,150,SOLD,dj_jay_keez
+#8,125,SOLD,dj_jay_keez
+#9,150,SOLD,dj_jay_keez
+#10,126,SOLD,jkirish1
+#12,179,SOLD,jkirish1
+#13,138,SOLD,jkirish1
+#16,135,SOLD,christopherwor27054
+#21,145,SOLD,jkirish1
+#26,225,SOLD,bobbysend33
+#29,130,SOLD,dennispas1997
+#30,140,SOLD,dennispas1997
+#31,160,SOLD,bobbysend33
+#32,140,SOLD,509mytime
+#34,66,SOLD,christopherwor27054
+#35,101,SOLD,christopherwor27054
+#38,145,SOLD,farheezy
+#40,162,SOLD,farheezy
+#41,170,SOLD,christopherwor27054
+#42,160,SOLD,christopherwor27054
+#45,200,SOLD,christopherwor27054
+#46,202,SOLD,christopherwor27054
+#47,1,OPEN,

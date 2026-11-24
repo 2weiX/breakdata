@@ -1,34 +1,42 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-MISC,,OPEN,
+Arizona Cardinals,81,SOLD,higherlander
+Atlanta Falcons,102,SOLD,higherlander
+Baltimore Ravens,211,SOLD,higherlander
+Buffalo Bills,47,SOLD,buzzy_sports
+Carolina Panthers,48,SOLD,wildcats2686
+Chicago Bears,206,SOLD,wildcats2686
+Cincinnati Bengals,171,SOLD,wildcats2686
+Cleveland Browns,125,SOLD,flandersnj32
+Dallas Cowboys,209,SOLD,wildcats2686
+Denver Broncos,150,SOLD,wildcats2686
+Detroit Lions,210,SOLD,wildcats2686
+Green Bay Packers,164,SOLD,travis1742
+Houston Texans,81,SOLD,caseyask
+Indianapolis Colts,26,SOLD,buzzy_sports
+Jacksonville Jaguars,136,SOLD,higherlander
+Kansas City Chiefs,185,SOLD,wildcats2686
+Las Vegas Raiders,1,SOLD,travis1742
+Los Angeles Chargers,201,SOLD,higherlander
+Los Angeles Rams,175,SOLD,wildcats2686
+Miami Dolphins,27,SOLD,wildcats2686
+Minnesota Vikings,205,SOLD,jaxpav
+New England Patriots,130,SOLD,caseyask
+New Orleans Saints,195,SOLD,wildcats2686
+New York Giants,180,SOLD,jaxpav
+New York Jets,27,SOLD,johnkho23
+Philadelphia Eagles,101,SOLD,flandersnj32
+Pittsburgh Steelers,224,SOLD,johnkho23
+San Francisco 49ers,215,SOLD,flandersnj32
+Seattle Seahawks,201,SOLD,higherlander
+Tampa Bay Buccaneers,200,SOLD,flandersnj32
+Tennessee Titans,26,SOLD,willriv43766
+Washington Commanders,156,SOLD,higherlander
+MISC,155,SOLD,caseyask
+T,201,SOLD,wildcats2686
+T,195,SOLD,higherlander
+T,150,SOLD,travis1742
+T,128,SOLD,caseyask
+T,159,SOLD,higherlander
+T,156,SOLD,higherlander
+T,67,SOLD,travis1742
+T,101,SOLD,caseyask
