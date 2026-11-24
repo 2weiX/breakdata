@@ -1,19 +1,15 @@
 spot,price,state,buyer
 Washington Commanders,74,SOLD,jerseyshorecards1
-#2,79,SOLD,ryanbeck19637
 Los Angeles Chargers,84,SOLD,ryanbeck19637
 Pittsburgh Steelers,86,SOLD,ryanbeck19637
-#5,77,SOLD,ryanbeck19637
 Green Bay Packers,76,SOLD,ruebinlon
 Buffalo Bills,78,SOLD,sheehan45
 Los Angeles Rams,78,SOLD,sheehan45
 Kansas City Chiefs,79,SOLD,sheehan45
 Dallas Cowboys,84,SOLD,sheehan45
-#11,88,SOLD,clutch93
 Cleveland Browns,91,SOLD,ccline301
 New York Giants,93,SOLD,ccline301
 Chicago Bears,88,SOLD,clutch93
-#15,82,SOLD,chriskre83351
 Tampa Bay Buccaneers,100,SOLD,clutch93
 New England Patriots,105,SOLD,chriskre83351
 #18,106,SOLD,chriskre83351
@@ -24,7 +20,6 @@ Minnesota Vikings,85,SOLD,sheehan45
 #24,67,SOLD,chriskre83351
 Seattle Seahawks,67,SOLD,sheehan45
 New Orleans Saints,42,SOLD,antalian77
-#27,69,SOLD,sheehan45
 #28,66,SOLD,sheehan45
 #29,59,SOLD,tigersfan2031
 #30,53,SOLD,tigersfan2031
@@ -32,5 +27,19 @@ Baltimore Ravens,71,SOLD,tigersfan2031
 Houston Texans,91,SOLD,tigersfan2031
 #33,77,SOLD,ccline301
 Philadelphia Eagles,50,SOLD,maximumgirth
-Arizona Cardinals,65,SOLD,ccline301
-#36,53,SOLD,ccline301
+New York Jets,79,SOLD,ryanbeck19637
+Miami Dolphins,77,SOLD,ryanbeck19637
+Las Vegas Raiders,88,SOLD,clutch93
+Jacksonville Jaguars,82,SOLD,chriskre83351
+MISC,69,SOLD,sheehan45
+#35,65,SOLD,ccline301
+Carolina Panthers,53,SOLD,ccline301
+#37,41.8,SOLD,antalian77
+Denver Broncos,47,SOLD,antalian77
+#39,51,SOLD,chriskre83351
+#40,72,SOLD,ryanbeck19637
+Atlanta Falcons,23,SOLD,chriskre83351
+Detroit Lions,24,SOLD,chriskre83351
+Cincinnati Bengals,66,SOLD,maximumgirth
+San Francisco 49ers,62,SOLD,scw2step
+"Arizona Cardinals, Indianapolis Colts, Tennessee Titans",7,SOLD,clutch93

@@ -1,33 +1,31 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+Arizona Cardinals,2,SOLD,csminix46
+Baltimore Ravens,2,SOLD,cmart14
+Buffalo Bills,2,SOLD,jaketay71043
+Carolina Panthers,2,SOLD,gridd09
+Chicago Bears,3,SOLD,card_breaks
+Cincinnati Bengals,2,SOLD,trippie_paul_og
+Cleveland Browns,2,SOLD,cmart14
+Dallas Cowboys,3,SOLD,gridd09
+Denver Broncos,2,SOLD,trippie_paul_og
+Detroit Lions,2,SOLD,jaketay71043
+Green Bay Packers,3,SOLD,csminix46
+Indianapolis Colts,1,SOLD,jaketay71043
+Jacksonville Jaguars,2,SOLD,trippie_paul_og
+Kansas City Chiefs,3,SOLD,trippie_paul_og
+Las Vegas Raiders,2,SOLD,jaketay71043
+Los Angeles Chargers,2,SOLD,jaketay71043
+Los Angeles Rams,1,SOLD,trippie_paul_og
+Minnesota Vikings,3,SOLD,crazy_cards2
+New England Patriots,3,SOLD,epiville
+New Orleans Saints,2,SOLD,trippie_paul_og
+New York Giants,3,SOLD,jaketay71043
+New York Jets,3,SOLD,cmart14
+Philadelphia Eagles,1,SOLD,cmart14
+Pittsburgh Steelers,3,SOLD,crazy_cards2
+San Francisco 49ers,3,SOLD,csminix46
+Seattle Seahawks,2,SOLD,trippie_paul_og
+Tampa Bay Buccaneers,2,SOLD,jaketay71043
+Tennessee Titans,3,SOLD,trippie_paul_og
+Washington Commanders,3,SOLD,cmart14
+#30,1,OPEN,

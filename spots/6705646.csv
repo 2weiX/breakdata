@@ -1,8 +1,23 @@
 spot,price,state,buyer
 T,135,SOLD,flandersnj32
+T,110.4,SOLD,jasonwhi48753
+T,138,SOLD,flandersnj32
+T,125,SOLD,bigjohn1204
+T,115,SOLD,flandersnj32
+T,102,SOLD,whicord
+T,103,SOLD,flandersnj32
+T,94,SOLD,tylerwing33346
+T,102,SOLD,tylerwing33346
+T,117,SOLD,asassen
+T,97,SOLD,whicord
+T,126,SOLD,tylerwing33346
+T,22,SOLD,whicord
+T,59,SOLD,whicord
+T,53,SOLD,jasonwhi48753
+T,49,SOLD,everythinginsurance
+T,63,SOLD,bigjohn1204
 San Francisco 49ers,145,SOLD,flandersnj32
 Las Vegas Raiders,145,SOLD,bigjohn1204
-#4,110.4,SOLD,jasonwhi48753
 Dallas Cowboys,140,SOLD,flandersnj32
 Cincinnati Bengals,145,SOLD,jasonwhi48753
 Seattle Seahawks,137,SOLD,bigjohn1204
@@ -10,31 +25,27 @@ Baltimore Ravens,116,SOLD,bigjohn1204
 Denver Broncos,132,SOLD,flandersnj32
 Chicago Bears,100,SOLD,tylerwing33346
 New Orleans Saints,130,SOLD,tylerwing33346
-T,138,SOLD,flandersnj32
 Philadelphia Eagles,140,SOLD,flandersnj32
 MISC,138,SOLD,jasonwhi48753
 Carolina Panthers,123,SOLD,bigjohn1204
-#16,125,SOLD,bigjohn1204
 Atlanta Falcons,125,SOLD,flandersnj32
-#18,115,SOLD,flandersnj32
 Kansas City Chiefs,115,SOLD,bigjohn1204
-#20,102,SOLD,whicord
 Detroit Lions,110,SOLD,whicord
-#22,103,SOLD,flandersnj32
 Green Bay Packers,101,SOLD,whicord
-#24,94,SOLD,tylerwing33346
-#25,102,SOLD,tylerwing33346
-#26,117,SOLD,asassen
 Los Angeles Rams,125,SOLD,asassen
-#28,97,SOLD,whicord
 Los Angeles Chargers,111,SOLD,jasonwhi48753
-#30,126,SOLD,tylerwing33346
 Buffalo Bills,125,SOLD,bigjohn1204
-#32,22,SOLD,whicord
-#33,59,SOLD,whicord
-#34,53,SOLD,jasonwhi48753
-#35,49,SOLD,everythinginsurance
 Houston Texans,72,SOLD,everythinginsurance
-#37,63,SOLD,bigjohn1204
 Pittsburgh Steelers,32,SOLD,flandersnj32
-#39,1,OPEN,
+Minnesota Vikings,25,SOLD,flandersnj32
+Indianapolis Colts,31,SOLD,flandersnj32
+Cleveland Browns,32,SOLD,flandersnj32
+Miami Dolphins,42,SOLD,undisclosedinformation
+Arizona Cardinals,35,SOLD,flandersnj32
+Jacksonville Jaguars,47,SOLD,flandersnj32
+New York Jets,8,SOLD,skunkycardemporium315
+New England Patriots,10,SOLD,skunkycardemporium315
+Tampa Bay Buccaneers,10,SOLD,jasonwhi48753
+Washington Commanders,11,SOLD,jasonwhi48753
+Tennessee Titans,12,SOLD,kwama27
+New York Giants,12,SOLD,johnkho23

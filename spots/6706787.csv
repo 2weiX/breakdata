@@ -1,67 +1,67 @@
 spot,price,state,buyer
-"Antonio Gates, Anthony Hill Jr, Anthony Muñoz, Anthony Smith, Antoine Winfield Jr.",1,OPEN,
-"Amarius Mims - PREM1ERE, Jonah Coleman, Jeffery Simmons, Jaylen Wright",1,OPEN,
-"Aidan O'Connell - PREM1ERE, Aidan Hutchinson, Aaron Jones Sr, Aaron Anderson, A.J. Haulcy, Adam Randall",1,OPEN,
-"Will Shipley - PREM1ERE, Akheem Mesidor, Albert Regis, Jake Ferguson, Jaishawn Barham, Athan Kaliakmanis",1,OPEN,
-"Byron Murphy Jr. - PREM1ERE, Byron Young, Bryce Lance, Bud Clark, Budda Baker",1,OPEN,
-"Brian Urlacher, Brian Westbrook, Bruce Matthews, Boomer Esiason, Brandon Cisse",1,OPEN,
-"Brandon Aubrey - PREM1ERE, Avieon Terrell, Adam Vinatieri, Elijah Sarratt, Travis Etienne Jr, Trevor Etienne",1,OPEN,
-"Brian Branch - PREM1ERE, Bhayshul Tuten, Bernie Kosar, Blake Miller, Behren Morton",1,OPEN,
-"Antonio Williams, Bryan Bresee, Brian Robinson Jr, Brian Burns, Brenen Thompson",1,OPEN,
-"Davante Adams, Brian Dawkins, Bob Griese, Chop Robinson, Chris Lindstrom, Derrick Brown",1,OPEN,
-"Derrick Moore, Emmanuel McNeil-Warren, Ephesians Prysock, Archie Manning, AJ Barner, Adonai Mitchell",1,OPEN,
-"Devon Witherspoon - PREM1ERE, Derwin James, Eric Allen, Gunnar Helm, Malik Willis, Kool-Aid McKinstry, Devontez Walker",1,OPEN,
-"Derek Stingley Jr, Denzel Burke, Denzel Ward, Demond Claiborne, Demario Davis, Deontae Lawson",1,OPEN,
-"Cade Stover - PREM1ERE, Caleb Banks, Caden Curry, Cade Otton, Caleb Lomu, Chris McClellan",1,OPEN,
-"Cooper Beebe - PREM1ERE, Cooper DeJean, Colton Hood, Courtland Sutton, Cris Carter, Creed Humphrey",1,OPEN,
-"Andre Johnson, Andre Reed, Alec Pierce, Cyrus Allen, Chris Bell, Chris Godwin, Cole Bishop - PREM1ERE, Cooper Kupp",1,OPEN,
-"CJ Daniels, Colbie Young, Cole Payton, Christian Benford, Christen Miller, Graham Barton - PREM1ERE, Grant Delpit",1,OPEN,
-"Germie Bernard, Chimere Dike, Chig Okonkwo, Chase Bisontis, Cashius Howell, Caleb Tiernan",1,OPEN,
-"Charles Woodson, Champ Bailey, Calen Bullock - PREM1ERE, Cameron Heyward, Calvin Ridley, Cameron Dicker",1,OPEN,
-"Alvin Kamara, Anthony Gould - PREM1ERE, Anquan Boldin, Warren Sapp, Wayne Chrebet",1,OPEN,
-"Chuba Hubbard, Christian Watson, Christian Kirk, CJ Allen, Emmanuel Henderson Jr, Eric Dickerson, Evan McPherson",1,OPEN,
-"Frank Gore, Fred Warner, Francis Mauigoa, D'Andre Swift, Darrelle Revis, Dallas Goedert, D'Angelo Ponds, Dallen Bentley",1,OPEN,
-"David Montgomery, Dez Bryant, DK Metcalf, DaRon Bland, Darnell Wright, Darius Slayton, Davison Igbinosun",1,OPEN,
-"Daniel Jones, Dan Fouts, Dalton Schultz, Dante Hall, Dani Dennis-Sutton, Dion Dawkins, Dexter Lawrence II, Elic Ayomanor",1,OPEN,
-"Deion Sanders, Dawson Knox, DeAngelo Hall, DeForest Buckner, Deion Burks, Daylen Everette",1,OPEN,
-"Dylan Sampson, Dont'e Thornton Jr, DJ Moore, Domani Jackson, Dillon Thieneman, Jack Bech, Jacory Croskey-Merritt",1,OPEN,
+"Antonio Gates, Anthony Hill Jr, Anthony Muñoz, Anthony Smith, Antoine Winfield Jr.",5,SOLD,jaxpullz
+"Amarius Mims - PREM1ERE, Jonah Coleman, Jeffery Simmons, Jaylen Wright",15,SOLD,parallelpros
+"Aidan O'Connell - PREM1ERE, Aidan Hutchinson, Aaron Jones Sr, Aaron Anderson, A.J. Haulcy, Adam Randall",7,SOLD,westcoastsports
+"Will Shipley - PREM1ERE, Akheem Mesidor, Albert Regis, Jake Ferguson, Jaishawn Barham, Athan Kaliakmanis",10,SOLD,ashleyrose17
+"Byron Murphy Jr. - PREM1ERE, Byron Young, Bryce Lance, Bud Clark, Budda Baker",15,SOLD,kdockter19
+"Brian Urlacher, Brian Westbrook, Bruce Matthews, Boomer Esiason, Brandon Cisse",16,SOLD,danmou
+"Brandon Aubrey - PREM1ERE, Avieon Terrell, Adam Vinatieri, Elijah Sarratt, Travis Etienne Jr, Trevor Etienne",15,SOLD,trevorgeo
+"Brian Branch - PREM1ERE, Bhayshul Tuten, Bernie Kosar, Blake Miller, Behren Morton",9,SOLD,westcoastsports
+"Antonio Williams, Bryan Bresee, Brian Robinson Jr, Brian Burns, Brenen Thompson",9,SOLD,kgcards32
+"Davante Adams, Brian Dawkins, Bob Griese, Chop Robinson, Chris Lindstrom, Derrick Brown",12,SOLD,cameronr1324
+"Derrick Moore, Emmanuel McNeil-Warren, Ephesians Prysock, Archie Manning, AJ Barner, Adonai Mitchell",11,SOLD,clevelandinthevalley
+"Devon Witherspoon - PREM1ERE, Derwin James, Eric Allen, Gunnar Helm, Malik Willis, Kool-Aid McKinstry, Devontez Walker",16,SOLD,lebdon48797
+"Derek Stingley Jr, Denzel Burke, Denzel Ward, Demond Claiborne, Demario Davis, Deontae Lawson",9,SOLD,lebdon48797
+"Cade Stover - PREM1ERE, Caleb Banks, Caden Curry, Cade Otton, Caleb Lomu, Chris McClellan",11,SOLD,prestonbrk
+"Cooper Beebe - PREM1ERE, Cooper DeJean, Colton Hood, Courtland Sutton, Cris Carter, Creed Humphrey",16,SOLD,slimone88
+"Andre Johnson, Andre Reed, Alec Pierce, Cyrus Allen, Chris Bell, Chris Godwin, Cole Bishop - PREM1ERE, Cooper Kupp",30,SOLD,briangar04481
+"CJ Daniels, Colbie Young, Cole Payton, Christian Benford, Christen Miller, Graham Barton - PREM1ERE, Grant Delpit",13,SOLD,billle261
+"Germie Bernard, Chimere Dike, Chig Okonkwo, Chase Bisontis, Cashius Howell, Caleb Tiernan",32,SOLD,kgcards32
+"Charles Woodson, Champ Bailey, Calen Bullock - PREM1ERE, Cameron Heyward, Calvin Ridley, Cameron Dicker",8,SOLD,westcoastsports
+"Alvin Kamara, Anthony Gould - PREM1ERE, Anquan Boldin, Warren Sapp, Wayne Chrebet",8,SOLD,mikie29
+"Chuba Hubbard, Christian Watson, Christian Kirk, CJ Allen, Emmanuel Henderson Jr, Eric Dickerson, Evan McPherson",14,SOLD,kdockter19
+"Frank Gore, Fred Warner, Francis Mauigoa, D'Andre Swift, Darrelle Revis, Dallas Goedert, D'Angelo Ponds, Dallen Bentley",40,SOLD,westcoastsports
+"David Montgomery, Dez Bryant, DK Metcalf, DaRon Bland, Darnell Wright, Darius Slayton, Davison Igbinosun",16,SOLD,lebdon48797
+"Daniel Jones, Dan Fouts, Dalton Schultz, Dante Hall, Dani Dennis-Sutton, Dion Dawkins, Dexter Lawrence II, Elic Ayomanor",7,SOLD,kdockter19
+"Deion Sanders, Dawson Knox, DeAngelo Hall, DeForest Buckner, Deion Burks, Daylen Everette",8,SOLD,chadcaldwell21
+"Dylan Sampson, Dont'e Thornton Jr, DJ Moore, Domani Jackson, Dillon Thieneman, Jack Bech, Jacory Croskey-Merritt",36,SOLD,igriefedu
 "Edgerrin Cooper - PREM1ERE, Eddie George, Eli Stowers, Edgerrin James, Eli Raridon, Jacoby Brissett",80,SOLD,kimmat86167
-"George Holani - PREM1ERE, Geno Smith, Genesis Smith, George Karlaftis, Ja'Tavion Sanders - PREM1ERE",1,OPEN,
-"Harold Fannin Jr, Henry To'oTo'o - PREM1ERE, Harold Perkins Jr, Joe Royer, Joe Thomas, Joe Thuney, Joey Porter Jr, John Riggins",1,OPEN,
-"Ja'Lynn Polk - PREM1ERE, J.K. Dobbins, Jack Ham, Jack Campbell, J'Mari Taylor, Jack Endries",1,OPEN,
-"Isiah Pacheco, Jevon Kearse, Isaiah World, Jonathan Allen, Jakobi Meyers, Jake Golday, Jake Slaughter",1,OPEN,
-"Jim Kelly, Joe Flacco, Jihaad Campbell, Jim McMahon, Jimmy Horn Jr.",1,OPEN,
-"Jayden Higgins, Jaylen Waddle, Joshua Karty - PREM1ERE, Jayden Reed, Jaycee Horn",1,OPEN,
-"Isaac TeSlaa, Isaiah Likely, Josh Jacobs, Jonathan Ogden, Josh Hines-Allen, Josh Cuevas",1,OPEN,
-"Nick Bosa, Nico Collins, Nick Emmanwori, Nick Singleton, Howie Long, Hunter Henry",1,OPEN,
-"Jaylen Warren, Jaylon Johnson, Jeremy Chinn, Jerome Bettis, Jerry Jeudy, Jermod McCoy",1,OPEN,
-"James Cook, Jameson Williams, Javon Bullard - PREM1ERE, Jauan Jennings, James Conner, James Lofton",1,OPEN,
-"Tyson Bagent - PREM1ERE, Travis Kelce, Tyquan Thornton, Tony Boselli, Jordan Mailata, Jordan Whittington",1,OPEN,
-"Jalen Milroe, Jamaal Charles, Jalon Walker, Jalon Daniels, Jalon Kilgore, Kirk Cousins, Kyle Hamilton",1,OPEN,
-"Junior Colson - PREM1ERE, Josiah Trotter, Juwan Johnson, Julian Neal, Justin Joly",1,OPEN,
-"Khalil Shakir, Khalil Mack, Kevin Coleman Jr, Kevin Winston Jr, Keylan Rutledge",1,OPEN,
+"George Holani - PREM1ERE, Geno Smith, Genesis Smith, George Karlaftis, Ja'Tavion Sanders - PREM1ERE",6,SOLD,erspence
+"Harold Fannin Jr, Henry To'oTo'o - PREM1ERE, Harold Perkins Jr, Joe Royer, Joe Thomas, Joe Thuney, Joey Porter Jr, John Riggins",10,SOLD,lebdon48797
+"Ja'Lynn Polk - PREM1ERE, J.K. Dobbins, Jack Ham, Jack Campbell, J'Mari Taylor, Jack Endries",4,SOLD,dbunting1972
+"Isiah Pacheco, Jevon Kearse, Isaiah World, Jonathan Allen, Jakobi Meyers, Jake Golday, Jake Slaughter",6,SOLD,erspence
+"Jim Kelly, Joe Flacco, Jihaad Campbell, Jim McMahon, Jimmy Horn Jr.",5,SOLD,kdockter19
+"Jayden Higgins, Jaylen Waddle, Joshua Karty - PREM1ERE, Jayden Reed, Jaycee Horn",32,SOLD,jaxpullz
+"Isaac TeSlaa, Isaiah Likely, Josh Jacobs, Jonathan Ogden, Josh Hines-Allen, Josh Cuevas",11,SOLD,biggwill88
+"Nick Bosa, Nico Collins, Nick Emmanwori, Nick Singleton, Howie Long, Hunter Henry",25,SOLD,george_skittle_85
+"Jaylen Warren, Jaylon Johnson, Jeremy Chinn, Jerome Bettis, Jerry Jeudy, Jermod McCoy",8,SOLD,theamericanbombshell
+"James Cook, Jameson Williams, Javon Bullard - PREM1ERE, Jauan Jennings, James Conner, James Lofton",16,SOLD,jaxpullz
+"Tyson Bagent - PREM1ERE, Travis Kelce, Tyquan Thornton, Tony Boselli, Jordan Mailata, Jordan Whittington",27,SOLD,gonzo0823
+"Jalen Milroe, Jamaal Charles, Jalon Walker, Jalon Daniels, Jalon Kilgore, Kirk Cousins, Kyle Hamilton",18,SOLD,jabronijoeburr
+"Junior Colson - PREM1ERE, Josiah Trotter, Juwan Johnson, Julian Neal, Justin Joly",11,SOLD,biggwill88
+"Khalil Shakir, Khalil Mack, Kevin Coleman Jr, Kevin Winston Jr, Keylan Rutledge",7,SOLD,kdockter19
 "Kam Chancellor, Kaelon Black, Kaleb Johnson, K'Lavon Chaisson, Kamari Lassiter",80,SOLD,ryansul14188
-"Kenneth Grant, Kenneth Gainwell, Kendrick Law, Kenny Clark, Kobie Turner - PREM1ERE, Kris Jenkins - PREM1ERE",1,OPEN,
-"Kayshon Boutte - PREM1ERE, Keldric Faulk. Kaytron Allen, Keith Abney II, Kayden McDonald",1,OPEN,
-"Kyler Murray, Kyren Williams, Kyle Williams, Kyle Juszczyk, Kyle Pitts Sr, Laiatu Latu, Laremy Tunsil, Lake McRee",1,OPEN,
-"Lukas Van Ness - PREM1ERE, LeSean McCoy, LeRoy Butler, LT Overton, Lewis Bond, Lee Hunter",1,OPEN,
-"Maurice Jones-Drew, Mason Graham, Mason Taylor, Max Klare, Marist Liufau - PREM1ERE, Mark Andrews, Marlin Klein, Monroe Freeling",1,OPEN,
-"Malik Washington - PREM1ERE, Malik Muhammad, Malcolm Smith, Malachi Lawrence, Mack Hollins",1,OPEN,
-"Nate Wiggins - PREM1ERE, Nakobe Dean, Nick Bolton, Nate Boerkircher, Mike Singletary, Mike Washington Jr, Miller Moss",1,OPEN,
-"Luke Schoonmaker - PREM1ERE, Luke Musgrave - PREM1ERE, Luke Kuechly, Luke Altmyer",1,OPEN,
-"Roquan Smith, Romello Height, Rueben Bain Jr, Von Miller, Vita Vea, Uchenna Nwosu, Noah Sewell, Noah Whittington, Nik Bonitto",1,OPEN,
-"Michael Mayer - PREM1ERE, Michael Vick, Minkah Fitzpatrick, Montez Sweat, Michael Trigg",1,OPEN,
-"Omarion Hampton, Ollie Gordon II, Olamide Zaccheaus, Oronde Gadsden, Ozzie Newsome, Oscar Delp",1,OPEN,
-"Pat Surtain II, Peter Woods, Pat Freiermuth, Payton Wilson - PREM1ERE, Robert Spillane, Roman Hemby",1,OPEN,
-"Rashod Bateman, Rachaad White, Rashid Shaheed, Reed Blankenship, Reggie Virgil",1,OPEN,
-"Richard Sherman, Ricky Williams, Ricky Pearsall, Rhamondre Stevenson, Roger Craig, Robert Henry Jr",1,OPEN,
-"Will Reichard - PREM1ERE, Will Howard, Will Johnson, Will Lee III, Taurean York",1,OPEN,
-"Taylen Green, Quenton Nelson, Quinnen Williams, Quay Walker, Quinn Meinerz, T.J. Hockenson, Taysom Hill, T.J. Parker",1,OPEN,
-"Steve Largent, Steve Atwater, Skyler Bell, Spencer Fano, Kyle Monangai, Tim Keenan III",1,OPEN,
-"Seth McGowan, Savion Williams, Sauce Gardner, Sam Roush, Tim Brown, Terrance Ferguson, Ted Hurst, Tommy Tremble",1,OPEN,
-"Tre Tucker - PREM1ERE, Tre Harris III, Travon Walker, Trent McDuffie, Tua Tagovailoa, Tucker Kraft",1,OPEN,
-"Terrell Davis, Terrell Suggs, Thurman Thomas, Tez Johnson, Terry McLaurin, Trent Williams",1,OPEN,
-"T'Vondre Sweat - PREM1ERE, Tank Bigsby - PREM1ERE, Tacario Davis, Talanoa Hufanga, Tanner Koziol",1,OPEN,
-"Tyjae Spears - PREM1ERE, Tony Dorsett, Tony Gonzalez, Tony Pollard, Ty Law",1,OPEN,
-"Tyler Guyton - PREM1ERE, TreVeyon Henderson, Torry Holt, Troy Polamalu, Trey Hendrickson",1,OPEN,
-"Woody Marks, Xavier McKinney, Xavier Watts, Zion Young, Zach Allen, Zakee Wheatley, Zane Durant",1,OPEN,
+"Kenneth Grant, Kenneth Gainwell, Kendrick Law, Kenny Clark, Kobie Turner - PREM1ERE, Kris Jenkins - PREM1ERE",7,SOLD,george_skittle_85
+"Kayshon Boutte - PREM1ERE, Keldric Faulk. Kaytron Allen, Keith Abney II, Kayden McDonald",12,SOLD,erspence
+"Kyler Murray, Kyren Williams, Kyle Williams, Kyle Juszczyk, Kyle Pitts Sr, Laiatu Latu, Laremy Tunsil, Lake McRee",20,SOLD,lebdon48797
+"Lukas Van Ness - PREM1ERE, LeSean McCoy, LeRoy Butler, LT Overton, Lewis Bond, Lee Hunter",5,SOLD,kdockter19
+"Maurice Jones-Drew, Mason Graham, Mason Taylor, Max Klare, Marist Liufau - PREM1ERE, Mark Andrews, Marlin Klein, Monroe Freeling",26,SOLD,mwd843
+"Malik Washington - PREM1ERE, Malik Muhammad, Malcolm Smith, Malachi Lawrence, Mack Hollins",7,SOLD,erspence
+"Nate Wiggins - PREM1ERE, Nakobe Dean, Nick Bolton, Nate Boerkircher, Mike Singletary, Mike Washington Jr, Miller Moss",11,SOLD,isoucy
+"Luke Schoonmaker - PREM1ERE, Luke Musgrave - PREM1ERE, Luke Kuechly, Luke Altmyer",5,SOLD,jonny1971
+"Roquan Smith, Romello Height, Rueben Bain Jr, Von Miller, Vita Vea, Uchenna Nwosu, Noah Sewell, Noah Whittington, Nik Bonitto",11,SOLD,westcoastsports
+"Michael Mayer - PREM1ERE, Michael Vick, Minkah Fitzpatrick, Montez Sweat, Michael Trigg",10,SOLD,jonny1971
+"Omarion Hampton, Ollie Gordon II, Olamide Zaccheaus, Oronde Gadsden, Ozzie Newsome, Oscar Delp",16,SOLD,goldenarmygeneral
+"Pat Surtain II, Peter Woods, Pat Freiermuth, Payton Wilson - PREM1ERE, Robert Spillane, Roman Hemby",10,SOLD,gonzo0823
+"Rashod Bateman, Rachaad White, Rashid Shaheed, Reed Blankenship, Reggie Virgil",7,SOLD,lebdon48797
+"Richard Sherman, Ricky Williams, Ricky Pearsall, Rhamondre Stevenson, Roger Craig, Robert Henry Jr",19,SOLD,george_skittle_85
+"Will Reichard - PREM1ERE, Will Howard, Will Johnson, Will Lee III, Taurean York",7,SOLD,biggwill88
+"Taylen Green, Quenton Nelson, Quinnen Williams, Quay Walker, Quinn Meinerz, T.J. Hockenson, Taysom Hill, T.J. Parker",11,SOLD,kgcards32
+"Steve Largent, Steve Atwater, Skyler Bell, Spencer Fano, Kyle Monangai, Tim Keenan III",17,SOLD,kdockter19
+"Seth McGowan, Savion Williams, Sauce Gardner, Sam Roush, Tim Brown, Terrance Ferguson, Ted Hurst, Tommy Tremble",14,SOLD,ripthatshhh
+"Tre Tucker - PREM1ERE, Tre Harris III, Travon Walker, Trent McDuffie, Tua Tagovailoa, Tucker Kraft",14,SOLD,jonny1971
+"Terrell Davis, Terrell Suggs, Thurman Thomas, Tez Johnson, Terry McLaurin, Trent Williams",9,SOLD,westcoastsports
+"T'Vondre Sweat - PREM1ERE, Tank Bigsby - PREM1ERE, Tacario Davis, Talanoa Hufanga, Tanner Koziol",17,SOLD,capiam2006
+"Tyjae Spears - PREM1ERE, Tony Dorsett, Tony Gonzalez, Tony Pollard, Ty Law",10,SOLD,jonny1971
+"Tyler Guyton - PREM1ERE, TreVeyon Henderson, Torry Holt, Troy Polamalu, Trey Hendrickson",13,SOLD,capiam2006
+"Woody Marks, Xavier McKinney, Xavier Watts, Zion Young, Zach Allen, Zakee Wheatley, Zane Durant",13,SOLD,westcoastsports

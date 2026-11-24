@@ -1,0 +1,7 @@
+spot,price,state,buyer
+"Chicago Bears, Seattle Seahawks",19,SOLD,snook_boyz_breaks
+Detroit Lions,7,SOLD,snook_boyz_breaks
+New England Patriots,9,SOLD,snook_boyz_breaks
+"Dallas Cowboys, New York Giants",19,SOLD,bricecog
+"Baltimore Ravens, Minnesota Vikings",19,SOLD,bricecog
+#6,1,OPEN,

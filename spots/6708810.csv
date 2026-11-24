@@ -1,0 +1,34 @@
+spot,price,state,buyer
+Seattle Seahawks,13,SOLD,bigs123
+Baltimore Ravens,15,SOLD,bradleyann
+Houston Texans,16,SOLD,bigs123
+New York Giants,16,SOLD,bigs123
+Indianapolis Colts,16,SOLD,bradleyann
+Chicago Bears,17,SOLD,zacwil50
+New York Jets,17,SOLD,twebb1313
+Philadelphia Eagles,15,SOLD,zacwil50
+Detroit Lions,16,SOLD,zacwil50
+Arizona Cardinals,14,SOLD,bradleyann
+Jacksonville Jaguars,18,SOLD,esteff53
+Kansas City Chiefs,18,SOLD,esteff53
+Los Angeles Chargers,18,SOLD,esteff53
+New Orleans Saints,17,SOLD,esteff53
+Minnesota Vikings,17,SOLD,esteff53
+Tennessee Titans,20,SOLD,esteff53
+Las Vegas Raiders,19,SOLD,nate32367
+Tampa Bay Buccaneers,17,SOLD,nate32367
+Carolina Panthers,17,SOLD,nate32367
+Buffalo Bills,20,SOLD,bigs123
+Pittsburgh Steelers,13,SOLD,nate32367
+Miami Dolphins,15,SOLD,esteff53
+Cincinnati Bengals,20,SOLD,esteff53
+Green Bay Packers,19,SOLD,npull427
+San Francisco 49ers,14,SOLD,npull427
+Dallas Cowboys,17,SOLD,npull427
+Atlanta Falcons,16,SOLD,npull427
+Cleveland Browns,17,SOLD,npull427
+Los Angeles Rams,14,SOLD,npull427
+Denver Broncos,10,SOLD,teamth801
+New England Patriots,15,SOLD,nate32367
+Washington Commanders,11,SOLD,nono3630
+MISC,21,SOLD,bigs123

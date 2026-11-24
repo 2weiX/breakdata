@@ -1,33 +1,28 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+Baltimore Ravens,27,SOLD,yupitsky
+Buffalo Bills,26,SOLD,yupitsky
+Chicago Bears,32,SOLD,rdanielson
+Cincinnati Bengals,23,SOLD,marbar1812
+Cleveland Browns,51,SOLD,brianporrua25
+Dallas Cowboys,36,SOLD,jansenmcb
+Denver Broncos,27,SOLD,toyotamoneyman
+Detroit Lions,26,SOLD,braydencun08370
+Green Bay Packers,30,SOLD,jonathanrosa31287
+Houston Texans,23,SOLD,jonathanrosa31287
+Indianapolis Colts,27,SOLD,jonathanrosa31287
+Kansas City Chiefs,29,SOLD,timmyzack21
+Las Vegas Raiders,36,SOLD,yupitsky
+Los Angeles Chargers,36,SOLD,noboundreez
+Miami Dolphins,38,SOLD,jansenmcb
+Minnesota Vikings,28,SOLD,ballallday337
+New York Jets,23,SOLD,toyotamoneyman
+Pittsburgh Steelers,25,SOLD,yupitsky
+San Francisco 49ers,30,SOLD,jonathanrosa31287
+Seattle Seahawks,26,SOLD,yupitsky
+Tampa Bay Buccaneers,26,SOLD,timmyzack21
+Tennessee Titans,22,SOLD,braydencun08370
+"Carolina Panthers, Los Angeles Rams",30,SOLD,brianporrua25
+"Jacksonville Jaguars, Philadelphia Eagles",61,SOLD,brianporrua25
+"New England Patriots, New Orleans Saints",63,SOLD,rdanielson
+"Arizona Cardinals, New York Giants",57,SOLD,rdanielson
+"Atlanta Falcons, Washington Commanders",49,SOLD,jonathanrosa31287

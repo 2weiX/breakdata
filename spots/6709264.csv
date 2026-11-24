@@ -1,0 +1,55 @@
+spot,price,state,buyer
+"CHI - William Perry (AU) (CH)
+DEN - Jaylen Waddle (CH)
+LAC - Antonio Gates (AU)
+TEN - Elic Ayomanor (AU)
+PHI - DeVonta Smith
+HOU - Dalton Schultz",3,SOLD,arpdid
+"DAL - Troy Aikman (AU) (CH)
+CAR - Xavier Legette (PP)
+SEA - Zach Charbonnet (PP)
+DAL - Cooper Beebe (PP)
+CHI - Roschon Johnson (PP)
+IND - DeForest Buckner",1,SOLD,arpdid
+TEN - Cam Ward (AU),4,SOLD,gregleo111
+"MIA - Jacob Rodriguez (AU)
+DEN - Terrell Davis (AU)
+NE - Hunter Henry (CH)
+ARI - Denzel Burke
+DEN - Dallen Bentley (AU)",3,SOLD,gregleo111
+"JAX - Brian Thomas Jr. (AU) (PP)
+SEA - Jalen Milroe",1,SOLD,jakefis
+"CHI - Zavion Thomas (AU)
+ATL - Deion Sanders (AU)
+SF - Frank Gore (AU)
+NYG - Abdul Carter
+LAR - Davante Adams
+HOU - Reed Blankenship",4,SOLD,haleysea
+"ATL - Michael Penix Jr. (PP)
+ARI - Trey Benson (PP)
+TB - Jalen McMillan (PP)
+TEN - Kevin Winston Jr.
+TB - Tez Johnson (AU)",6,SOLD,haleysea
+"NYJ - David Bailey (AU) (CH)
+NE - Ty Law (AU)
+NO - Spencer Rattler (PP)
+TEN - Tony Pollard
+TB - Vita Vea",1,SOLD,jv186
+"ARI - Larry Fitzgerald (AU)
+SEA - Byron Murphy II (PP)
+TB - Mike Alstott (AU)
+NYG - Theo Johnson (PP)
+LAR - Kamren Kinchens (PP)
+NO - Taysom Hill (AU)",5,SOLD,haleysea
+"MIA - Dan Marino (AU) (CH)
+KC - Chris Jones
+NE - Mack Hollins (CH)
+ARI - Will Johnson
+DEN - Justin Joly (AU)",3,SOLD,jv186
+"ARI - Michael Wilson (AU) (PP)
+TB - Warren Sapp (AU)
+NO - Chris Olave (AU)
+MIN - Demond Claiborne (AU)
+LAC - Tre Harris III
+GB - MarShawn Lloyd (PP)",2,SOLD,afeyas
+#12,4,SOLD,afeyas

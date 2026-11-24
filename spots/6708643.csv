@@ -1,0 +1,33 @@
+spot,price,state,buyer
+Arizona Cardinals,3,OPEN,
+Atlanta Falcons,2,OPEN,
+Baltimore Ravens,3,OPEN,
+Buffalo Bills,4,SOLD,ottjosh15003
+Carolina Panthers,5,SOLD,smellybeans2
+Chicago Bears,5,SOLD,smellybeans2
+Cincinnati Bengals,4,OPEN,
+Cleveland Browns,3,OPEN,
+Dallas Cowboys,10,SOLD,smellybeans2
+Denver Broncos,3,OPEN,
+Detroit Lions,3,SOLD,timmay00010
+Green Bay Packers,3,OPEN,
+Houston Texans,2,OPEN,
+Indianapolis Colts,2,OPEN,
+Jacksonville Jaguars,3,SOLD,ottjosh15003
+Kansas City Chiefs,5,SOLD,smellybeans2
+Las Vegas Raiders,5,SOLD,smellybeans2
+Los Angeles Chargers,1,SOLD,timmay00010
+Los Angeles Rams,4,SOLD,timmay00010
+Miami Dolphins,2,OPEN,
+Minnesota Vikings,3,OPEN,
+New England Patriots,3,OPEN,
+New Orleans Saints,3,OPEN,
+New York Giants,3,SOLD,smellybeans2
+New York Jets,7,SOLD,smellybeans2
+Philadelphia Eagles,3,OPEN,
+Pittsburgh Steelers,2,OPEN,
+San Francisco 49ers,3,SOLD,smellybeans2
+Seattle Seahawks,4,OPEN,
+Tampa Bay Buccaneers,3,OPEN,
+Tennessee Titans,3,OPEN,
+Washington Commanders,3,OPEN,

@@ -1,34 +1,41 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-MISC,,OPEN,
+Arizona Cardinals,200,SOLD,everythinginsurance
+Atlanta Falcons,43,SOLD,jakereg56480
+Baltimore Ravens,32,SOLD,johnkho23
+Buffalo Bills,220,SOLD,undisclosedinformation
+Carolina Panthers,36,SOLD,daltondb50
+Chicago Bears,169,SOLD,wildcats2686
+Cincinnati Bengals,325,SOLD,bigjohn1204
+Cleveland Browns,196,SOLD,thunder_boomer
+Dallas Cowboys,193,SOLD,wildcats2686
+Denver Broncos,200,SOLD,bigjohn1204
+Detroit Lions,215,SOLD,johnkho23
+Green Bay Packers,365,SOLD,flandersnj32
+Houston Texans,42,SOLD,jaxpav
+Indianapolis Colts,41,SOLD,jaxpav
+Jacksonville Jaguars,131,SOLD,wildcats2686
+Kansas City Chiefs,320,SOLD,bigjohn1204
+Las Vegas Raiders,38,SOLD,jaxpav
+Los Angeles Chargers,188,SOLD,lanbri46107
+Los Angeles Rams,345,SOLD,flandersnj32
+Miami Dolphins,25,SOLD,daltondb50
+Minnesota Vikings,206,SOLD,interestedparty
+New England Patriots,101,SOLD,johnkho23
+New Orleans Saints,42,SOLD,flandersnj32
+New York Giants,214,SOLD,thunder_boomer
+New York Jets,27,SOLD,interestedparty
+Philadelphia Eagles,38,SOLD,jaxpav
+Pittsburgh Steelers,206,SOLD,everythinginsurance
+San Francisco 49ers,215,SOLD,jasonwhi48753
+Seattle Seahawks,197,SOLD,johnkho23
+Tampa Bay Buccaneers,2,SOLD,undisclosedinformation
+Tennessee Titans,3,SOLD,johnkho23
+Washington Commanders,196,SOLD,thunder_boomer
+MISC,94,SOLD,lanbri46107
+T,197,SOLD,johnkho23
+T,176,SOLD,bigjohn1204
+T,200,SOLD,flandersnj32
+T,230,SOLD,flandersnj32
+T,225,SOLD,jasonwhi48753
+T,180,SOLD,jasonwhi48753
+T,205,SOLD,wildcats2686

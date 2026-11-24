@@ -1,34 +1,41 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-MISC,,OPEN,
+Atlanta Falcons,34,SOLD,christopherwor27054
+Baltimore Ravens,115,SOLD,vegasmann
+Buffalo Bills,47,SOLD,kembro
+Carolina Panthers,10,SOLD,patoc15119
+Chicago Bears,50,SOLD,argyleeaglecards11
+Cincinnati Bengals,115,SOLD,vegasmann
+Cleveland Browns,88,SOLD,vegasmann
+Dallas Cowboys,97,SOLD,vegasmann
+Denver Broncos,38,SOLD,christopherwor27054
+Detroit Lions,51,SOLD,kadyndil
+Green Bay Packers,120,SOLD,vegasmann
+Houston Texans,32,SOLD,patoc15119
+Jacksonville Jaguars,82,SOLD,michaelmic88252
+Kansas City Chiefs,0,SOLD,argyleeaglecards11
+Las Vegas Raiders,29,SOLD,cardflows
+Los Angeles Chargers,88,SOLD,vegasmann
+Los Angeles Rams,84,SOLD,vegasmann
+Minnesota Vikings,117,SOLD,ryanbeck19637
+New England Patriots,285,SOLD,christopherwor27054
+New York Giants,116,SOLD,vegasmann
+Philadelphia Eagles,115,SOLD,coleslaw32
+Pittsburgh Steelers,82,SOLD,vegasmann
+San Francisco 49ers,115,SOLD,vegasmann
+Seattle Seahawks,6,SOLD,emilywas12650
+Tampa Bay Buccaneers,62,SOLD,kembro
+Washington Commanders,39,SOLD,christopherwor27054
+MISC,113,SOLD,ryanbeck19637
+#8,90,SOLD,vegasmann
+#10,94,SOLD,vegasmann
+#12,100,SOLD,ryanbeck19637
+#15,102,SOLD,coleslaw32
+#17,110,SOLD,vegasmann
+#18,77,SOLD,vegasmann
+#20,78,SOLD,kembro
+#25,27,SOLD,kembro
+#27,30,SOLD,kadyndil
+#28,32,SOLD,christopherwor27054
+"Indianapolis Colts, Tennessee Titans",11,SOLD,michaelmic88252
+"Miami Dolphins, New Orleans Saints",11,SOLD,patoc15119
+"Arizona Cardinals, New York Jets",11,SOLD,patoc15119

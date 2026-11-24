@@ -1,33 +1,33 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+Arizona Cardinals,26,SOLD,clementz85
+Atlanta Falcons,34,SOLD,clementz85
+Buffalo Bills,27,SOLD,maca85
+Carolina Panthers,27,SOLD,colechr423
+Chicago Bears,36,SOLD,timmyzack21
+Cincinnati Bengals,35,SOLD,timmyzack21
+Cleveland Browns,29,SOLD,clementz85
+Dallas Cowboys,29,SOLD,clementz85
+Denver Broncos,40,SOLD,jansenmcb
+Detroit Lions,35,SOLD,clementz85
+Green Bay Packers,27,SOLD,jamcollectibleshq
+Indianapolis Colts,36,SOLD,jansenmcb
+Kansas City Chiefs,29,SOLD,yupitsky
+Las Vegas Raiders,27,SOLD,clementz85
+Los Angeles Chargers,30,SOLD,timmyzack21
+Los Angeles Rams,28,SOLD,colechr423
+Miami Dolphins,27,SOLD,jamcollectibleshq
+Minnesota Vikings,34,SOLD,colechr423
+New Orleans Saints,35,SOLD,clementz85
+New York Jets,34,SOLD,jamcollectibleshq
+Philadelphia Eagles,42,SOLD,jansenmcb
+Pittsburgh Steelers,28,SOLD,colechr423
+San Francisco 49ers,29,SOLD,clementz85
+Seattle Seahawks,32,SOLD,colechr423
+Tennessee Titans,44,SOLD,jamcollectibleshq
+Washington Commanders,35,SOLD,jamcollectibleshq
+"Houston Texans, New England Patriots",53,SOLD,colechr423
+"Baltimore Ravens, New York Giants",57,SOLD,jansenmcb
+#12,32,SOLD,clementz85
+#19,28,SOLD,clementz85
+#23,31,SOLD,clementz85
+"Jacksonville Jaguars, Tampa Bay Buccaneers",53,SOLD,whatgoesup
