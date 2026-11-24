@@ -1,34 +1,41 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-MISC,,OPEN,
+Cleveland Browns,335,SOLD,chicagors
+Pittsburgh Steelers,335,SOLD,pokinets
+#3,335,SOLD,chicagors
+#4,320,SOLD,chicagors
+Kansas City Chiefs,330,SOLD,chicagors
+#6,318,SOLD,chicagors
+Detroit Lions,310,SOLD,chicagors
+#8,305,SOLD,chicagors
+New England Patriots,320,SOLD,chicagors
+#10,310,SOLD,case_or_skunk
+#11,320,SOLD,case_or_skunk
+Los Angeles Rams,320,SOLD,case_or_skunk
+Carolina Panthers,295,SOLD,lviper107
+#14,314,SOLD,orangecat313
+Chicago Bears,337,SOLD,orangecat313
+Buffalo Bills,317,SOLD,orangecat313
+New York Jets,275,SOLD,one2bob
+Philadelphia Eagles,50,SOLD,noodleandsoncollectibles
+#19,221,SOLD,one2bob
+#20,191,SOLD,huiska
+Las Vegas Raiders,270,SOLD,texazmadesoulja
+Dallas Cowboys,265,SOLD,huiska
+Cincinnati Bengals,205,SOLD,lviper107
+Indianapolis Colts,145,SOLD,grandsequoias
+New York Giants,590,SOLD,pokinets
+Los Angeles Chargers,490,SOLD,pokinets
+San Francisco 49ers,360,SOLD,pokinets
+Green Bay Packers,275,SOLD,tdzandbear
+Minnesota Vikings,240,SOLD,maverick31
+MISC,246,SOLD,texazmadesoulja
+Denver Broncos,256,SOLD,texazmadesoulja
+Baltimore Ravens,180,SOLD,texazmadesoulja
+Tampa Bay Buccaneers,125,SOLD,grandsequoias
+Washington Commanders,44,SOLD,tdzandbear
+Houston Texans,42,SOLD,tdzandbear
+Atlanta Falcons,44,SOLD,tdzandbear
+Seattle Seahawks,29,SOLD,tdzandbear
+Jacksonville Jaguars,34,SOLD,profittt
+"Miami Dolphins, New Orleans Saints",44,SOLD,grandsequoias
+#40,29,SOLD,tdzandbear

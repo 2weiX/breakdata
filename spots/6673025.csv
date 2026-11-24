@@ -1,7 +1,5 @@
 spot,price,state,buyer
-Arizona Cardinals,60,OPEN,
 Atlanta Falcons,20,SOLD,sosbarbara
-Baltimore Ravens,30,OPEN,
 Buffalo Bills,45,SOLD,kingdom_cardzz
 Carolina Panthers,20,SOLD,sosbarbara
 Chicago Bears,40.5,SOLD,cardsfan87
@@ -27,7 +25,8 @@ New York Jets,20,SOLD,dgkurupt
 Philadelphia Eagles,17.5,SOLD,chilldoh
 Pittsburgh Steelers,25,SOLD,sosbarbara
 San Francisco 49ers,35,SOLD,druzurp
-Seattle Seahawks,30,OPEN,
 Tampa Bay Buccaneers,28,SOLD,nd19842nd
 Tennessee Titans,45,OPEN,
 Washington Commanders,35,OPEN,
+Arizona Cardinals,50,OPEN,
+Seattle Seahawks/RAVENS,40,SOLD,dopecardsinc

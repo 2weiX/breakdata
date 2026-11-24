@@ -2,7 +2,6 @@ spot,price,state,buyer
 Arizona Cardinals,499,OPEN,
 Atlanta Falcons,129,OPEN,
 Baltimore Ravens,219,OPEN,
-Buffalo Bills,449,OPEN,
 Carolina Panthers,149,SOLD,tatze_cards
 Chicago Bears,499,OPEN,
 Cincinnati Bengals,299,OPEN,
@@ -11,17 +10,14 @@ Dallas Cowboys,399,OPEN,
 Denver Broncos,183.2,SOLD,1pepe
 Detroit Lions,299,OPEN,
 Green Bay Packers,85,SOLD,flo84
-Houston Texans ,99,OPEN,
 Indianapolis Colts,119,OPEN,
 Jacksonville Jaguars,149,OPEN,
-Kansas City Chiefs,749,OPEN,
 Las Vegas Raiders,899,OPEN,
 Los Angeles Chargers,119,OPEN,
 Los Angeles Rams,699,OPEN,
 Miami Dolphins,80,SOLD,13cardz
 Minnesota Vikings,199,OPEN,
 New England Patriots,599,OPEN,
-New Orleans Saints,249,OPEN,
 New York Giants,499,OPEN,
 New York Jets,199,OPEN,
 Philadelphia Eagles,249,OPEN,
@@ -31,3 +27,5 @@ Seattle Seahawks,399,OPEN,
 Tampa Bay Buccaneers ,399,OPEN,
 Tennessee Titans,299,OPEN,
 Washington Commanders,119,SOLD,rinesx3
+Kansas City Chiefs,525,SOLD,1pepe
+"Bills, Texans, Saints",600,SOLD,deusmaximus

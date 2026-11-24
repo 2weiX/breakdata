@@ -1,34 +1,33 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-MISC,,OPEN,
+MISC,165,SOLD,flandersnj32
+Philadelphia Eagles,150,SOLD,wildcats2686
+#3,180,SOLD,flandersnj32
+#4,161,SOLD,wildcats2686
+Dallas Cowboys,180,SOLD,flandersnj32
+Chicago Bears,180,SOLD,flandersnj32
+Cincinnati Bengals,165,SOLD,wildcats2686
+#8,166,SOLD,wildcats2686
+Kansas City Chiefs,180,SOLD,wildcats2686
+Buffalo Bills,179,SOLD,wildcats2686
+Cleveland Browns,152,SOLD,johnkho23
+Carolina Panthers,112.8,SOLD,buzzy_sports
+San Francisco 49ers,147,SOLD,buzzy_sports
+Minnesota Vikings,125,SOLD,buzzy_sports
+Seattle Seahawks,120,SOLD,travis1742
+#16,141,SOLD,wildcats2686
+New York Giants,120,SOLD,lanbri46107
+Pittsburgh Steelers,176,SOLD,higherlander
+Los Angeles Rams,171,SOLD,higherlander
+Tennessee Titans,117,SOLD,higherlander
+Baltimore Ravens,89,SOLD,buzzy_sports
+Tampa Bay Buccaneers,104,SOLD,jaxpav
+#23,107,SOLD,buzzy_sports
+Denver Broncos,100,SOLD,ghajoh
+Las Vegas Raiders,83,SOLD,buzzy_sports
+#26,97,SOLD,buzzy_sports
+New York Jets,77,SOLD,buzzy_sports
+New England Patriots,99,SOLD,buzzy_sports
+Atlanta Falcons,84,SOLD,higherlander
+Los Angeles Chargers,109,SOLD,buzzy_sports
+#31,73,SOLD,lanbri46107
+#32,1,OPEN,

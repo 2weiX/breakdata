@@ -1,33 +1,30 @@
 spot,price,state,buyer
-Arizona Cardinals,18,OPEN,
-Atlanta Falcons,8,OPEN,
 Baltimore Ravens,8,SOLD,metin_44
 Buffalo Bills,15,SOLD,ren03665
-Carolina Panthers,10,OPEN,
-Chicago Bears,15,OPEN,
 Cincinnati Bengals,10,SOLD,dankla41024
-Cleveland Browns,10,OPEN,
 Dallas Cowboys,10,SOLD,valentino2104
-Denver Broncos,10,OPEN,
 Detroit Lions,8,SOLD,tomfcm1965
-Green Bay Packers,10,OPEN,
-Houston Texans,12,OPEN,
-Indianapolis Colts,10,OPEN,
 Jacksonville Jaguars,8,SOLD,nudla1210
 Kansas City Chiefs,20,SOLD,chrisrlz
 Las Vegas Raiders,26,SOLD,dannyt27
-Los Angeles Chargers,10,OPEN,
-Los Angeles Rams,20,OPEN,
 Miami Dolphins,8,SOLD,aquaorangecollector_1
-Minnesota Vikings,10,OPEN,
 New England Patriots,18,SOLD,elpuntopictures
 New Orleans Saints,12,SOLD,holundermann
 New York Giants,13,SOLD,daanii0808
-New York Jets,10,OPEN,
-Philadelphia Eagles,12,OPEN,
 Pittsburgh Steelers,12,SOLD,hustinho
 San Francisco 49ers,15,SOLD,hustinho
 Seattle Seahawks,15,SOLD,valentino2104
 Tampa Bay Buccaneers,13,SOLD,elpuntopictures
-Tennessee Titans,14,OPEN,
-Washington Commanders,12,OPEN,
+Atlanta Falcons,8,SOLD,umit23
+Carolina Panthers,10,SOLD,lifeislawsome
+"Bears, Browns, Broncos",32,SOLD,deusmaximus
+Green Bay Packers,8,SOLD,hustinho
+Houston Texans,12,SOLD,jakml
+Indianapolis Colts,6,SOLD,stjepanjuk
+Los Angeles Chargers,10,SOLD,hustinho
+Los Angeles Rams,16,SOLD,deusmaximus
+Minnesota Vikings,8,SOLD,derwirth
+New York Jets,8,SOLD,jakml
+Philadelphia Eagles,8,SOLD,jakml
+Washington Commanders,10,SOLD,hoenico
+Cardinals + Titans,22,SOLD,derwirth
