@@ -1,5 +1,4 @@
 spot,price,state,buyer
-Los Angeles Rams,38,OPEN,
 Tennessee Titans,41,OPEN,
 Dallas Cowboys,39,OPEN,
 New England Patriots,36,SOLD,rrooney6704
@@ -15,7 +14,6 @@ Carolina Panthers,25,OPEN,
 New York Jets,25,OPEN,
 Detroit Lions,25,SOLD,rrooney6704
 Tampa Bay Buccaneers,25,OPEN,
-New York Giants,25,OPEN,
 Pittsburgh Steelers,23,SOLD,ts_breaks_slick
 Los Angeles Chargers,23,OPEN,
 Minnesota Vikings,17,SOLD,nortega0505
@@ -28,3 +26,5 @@ Chicago Bears,27,SOLD,frontlinerips
 Cincinnati Bengals - Chiefs ,50,SOLD,joesanchez55
 Jacksonville Jaguars,20,SOLD,frontlinerips
 San Francisco 49ers - Seattle Seahawks,55,SOLD,wiz714sportscards
+Los Angeles Rams,38,SOLD,micahbur88585
+New York Giants,25,SOLD,ny_brax

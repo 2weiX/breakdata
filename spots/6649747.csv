@@ -1,36 +1,36 @@
 spot,price,state,buyer
 Arizona Cardinals,18,SOLD,robpoh
-Atlanta Falcons-Baltimore Orioles,15,OPEN,
 Baltimore Ravens-Minnesota Twins,10,SOLD,heathbar2323
 Buffalo Bills,22,SOLD,charlesmar2333
-Carolina Panthers-Seattle Mariners,15,OPEN,
 Cincinnati Bengals,20,SOLD,robpoh
-Dallas Cowboys-Cleveland Guardians,15,OPEN,
 Denver Broncos-Colorado Rockies,15,SOLD,charlesmar2333
 Detroit Lions-Philadelphia Phillies,10,SOLD,charlesmar2333
 Green Bay Packers-Texas Rangers,15,SOLD,robpoh
 Houston Texans-Washington Nationals,15,SOLD,robpoh
 Indianapolis Colts-Toronto Blue Jays,10,SOLD,heathbar2323
-Jacksonville Jaguars-Miami Marlins,15,OPEN,
 Las Vegas Raiders,20,SOLD,robpoh
 Los Angeles Chargers-Los Angeles Angels,10,SOLD,charlesmar2333
-Los Angeles Rams-Detroit Tigers,15,OPEN,
 Miami Dolphins-Chicago White Sox,15,SOLD,charlesmar2333
-Minnesota Vikings-San Diego Padres,15,OPEN,
 New England Patriots-Cincinnati Reds,10,SOLD,heathbar2323
 New York Giants-Athletics,15,SOLD,charlesmar2333
 New York Jets-New York Mets,10,SOLD,charlesmar2333
-Philadelphia Eagles-Atlanta Braves,15,OPEN,
 Pittsburgh Steelers-Kansas City Royals,10,SOLD,charlesmar2333
 San Francisco 49ers-SF Giants ,11,SOLD,robpoh
 Seattle Seahawks-St. Louis Cardinals,15,SOLD,charlesmar2333
 Tampa Bay Buccaneers-Pittsburgh Pirates,15,SOLD,charlesmar2333
-Tennessee Titans-Tampa Bay Rays,15,OPEN,
 Washington Commanders-Boston Red Sox,15,SOLD,eddie_the_freaking_yeti
 New York Yankees,22,SOLD,eddie_the_freaking_yeti
-Los Angeles Dodgers,22,OPEN,
-Milwaukee Brewers,22,OPEN,
-Chicago Cubs,22,OPEN,
 Houston Astros,14,SOLD,ricwoh
 "arizona diamondbacks, saints, bears, browns ",57,SOLD,stripperglitter666
-astros,14,OPEN,
+Atlanta Falcons-Baltimore Orioles,9,SOLD,charlesmar2333
+Carolina Panthers-Seattle Mariners,10,SOLD,charlesmar2333
+Dallas Cowboys-Cleveland Guardians,10,SOLD,robpoh
+Jacksonville Jaguars-Miami Marlins,10,SOLD,digger316
+Los Angeles Rams-Detroit Tigers,10,SOLD,digger316
+Minnesota Vikings-San Diego Padres,10,SOLD,digger316
+Philadelphia Eagles-Atlanta Braves,10,SOLD,digger316
+Tennessee Titans-Tampa Bay Rays,10,SOLD,digger316
+Los Angeles Dodgers,14,SOLD,digger316
+Milwaukee Brewers,14,SOLD,digger316
+Chicago Cubs,13.3,SOLD,digger316
+astros,14,SOLD,digger316

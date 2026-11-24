@@ -1,34 +1,43 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-MISC,,OPEN,
+Philadelphia Eagles,106,SOLD,johnkho23
+Minnesota Vikings,162,SOLD,johnkho23
+T,170,SOLD,flandersnj32
+Los Angeles Rams,175,SOLD,flandersnj32
+T,107,SOLD,johnkho23
+T,107,SOLD,johnkho23
+Cincinnati Bengals,120,SOLD,weijulia09976
+Denver Broncos,130,SOLD,weijulia09976
+Pittsburgh Steelers,115,SOLD,mooseluce
+Los Angeles Chargers,117,SOLD,johnkho23
+Tennessee Titans,107,SOLD,mooseluce
+Kansas City Chiefs,112,SOLD,mooseluce
+T,107,SOLD,johnkho23
+San Francisco 49ers,105,SOLD,mooseluce
+Seattle Seahawks,0,SOLD,tylertra46013
+Baltimore Ravens,101,SOLD,johnkho23
+T,112,SOLD,bigjohn1204
+Las Vegas Raiders,110,SOLD,bigjohn1204
+MISC,110,SOLD,johnkho23
+Chicago Bears,110,SOLD,flandersnj32
+Indianapolis Colts,96,SOLD,bigjohn1204
+Buffalo Bills,102,SOLD,bigjohn1204
+Tampa Bay Buccaneers,106,SOLD,generalfive1
+T,136,SOLD,creeves20
+Green Bay Packers,154,SOLD,creeves20
+New England Patriots,135,SOLD,jsbrown7
+T,145,SOLD,weijulia09976
+Cleveland Browns,145,SOLD,creeves20
+Dallas Cowboys,140,SOLD,flandersnj32
+T,131,SOLD,creeves20
+Carolina Panthers,94,SOLD,jsbrown7
+T,63,SOLD,johnkho23
+Jacksonville Jaguars,65,SOLD,johnkho23
+Miami Dolphins,74,SOLD,creeves20
+Arizona Cardinals,86,SOLD,generalfive1
+Atlanta Falcons,86,SOLD,thunder_boomer
+New York Jets,94,SOLD,johnkho23
+Detroit Lions,101,SOLD,johnkho23
+New Orleans Saints,91,SOLD,thunder_boomer
+Houston Texans,112,SOLD,flandersnj32
+New York Giants,131,SOLD,jaxpav
+Washington Commanders,32,SOLD,creeves20

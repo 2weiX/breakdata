@@ -1,5 +1,4 @@
 spot,price,state,buyer
-Arizona Cardinals,18,OPEN,
 Atlanta Falcons,10,OPEN,
 Baltimore Ravens,15,OPEN,
 Carolina Panthers,13,OPEN,
@@ -11,7 +10,6 @@ Detroit Lions,14,OPEN,
 Houston Texans,10,OPEN,
 Indianapolis Colts,10,OPEN,
 Kansas City Chiefs,18,OPEN,
-Las Vegas Raiders,40,OPEN,
 Los Angeles Chargers,10,OPEN,
 Los Angeles Rams,16,OPEN,
 Miami Dolphins,10,OPEN,
@@ -21,7 +19,7 @@ New York Giants,30,OPEN,
 New York Jets,10,OPEN,
 Philadelphia Eagles,13,OPEN,
 Pittsburgh Steelers,13,OPEN,
-Seattle Seahawks,16,OPEN,
 Tampa Bay Buccaneers,13,OPEN,
 Tennessee Titans,14,SOLD,slushiecollects
 Washington Commanders,12,OPEN,
+"Las Vegas Raiders, SEAHAWKS, CARDS ",58,SOLD,slushiecollects

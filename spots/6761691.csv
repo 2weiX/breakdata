@@ -1,5 +1,4 @@
 spot,price,state,buyer
-#1,25,SOLD,brandonbor13631
 Rams,1,SOLD,brandonbor13631
 Broncos,19,SOLD,brandonbor13631
 Lions,20,SOLD,brandonbor13631
@@ -7,5 +6,40 @@ Lions,20,SOLD,brandonbor13631
 Cowboys,20,SOLD,brandonbor13631
 Patriots,11,SOLD,brandonbor13631
 Bears,16,SOLD,brandonbor13631
-Dolphins,11,SOLD,brandonbor13631
-#10,1,OPEN,
+t1,25,SOLD,brandonbor13631
+t2,11,SOLD,brandonbor13631
+Big Ten,20,SOLD,brandonbor13631
+SEC,12,SOLD,brandonbor13631
+Panthers,10,SOLD,joeperez210
+Raiders,16,SOLD,brandonbor13631
+Steelers,19,SOLD,joshuadoiron
+Dolphins,12,SOLD,brandonbor13631
+t1,13,SOLD,brandonbor13631
+Cardinals,25,SOLD,brandonbor13631
+Buccaneers,7,SOLD,hibbs41
+Saints,17,SOLD,jpitty24
+t4,16,SOLD,jpitty24
+Bengals,16,SOLD,ccbreaks_conrad
+Ravens,22,SOLD,jpitty24
+ACC,15,SOLD,jpitty24
+Commanders,17,SOLD,joshuadoiron
+Falcons,18,SOLD,hibbs41
+Giants,17,SOLD,brandonbor13631
+Seahawks,24,SOLD,brandonbor13631
+t1,18,SOLD,brandonbor13631
+Vikings,19,SOLD,brandonbor13631
+t2,17,SOLD,brandonbor13631
+Colts,16,SOLD,brandonbor13631
+Jets,22,SOLD,backuscardvault
+Big 12,21,SOLD,jpitty24
+t3,20,SOLD,hibbs41
+Texans,18,SOLD,bsmithwmu23
+Chargers,21,SOLD,brandonbor13631
+Independents/Others,7,SOLD,hibbs41
+Eagles,12,SOLD,hibbs41
+Browns,11,SOLD,bsmithwmu23
+Chiefs,15,SOLD,joshuadoiron
+Bills,13,SOLD,jpitty24
+Packers,11,SOLD,marioflo25969
+Titans,7,SOLD,jamesevans44
+"Jaguars, t7",8,SOLD,joshuadoiron

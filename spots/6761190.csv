@@ -1,6 +1,5 @@
 spot,price,state,buyer
 Alabama,99,OPEN,
-Delaware,20,OPEN,
 Duke,40,OPEN,
 LSU,65,OPEN,
 Maryland,25,OPEN,
@@ -19,7 +18,6 @@ Tulsa,20,OPEN,
 UCF,35,OPEN,
 Vanderbilt,125,OPEN,
 Washington,115,OPEN,
-West Virginia,40,OPEN,
 Wisconsin,40,OPEN,
 Wyoming,15,OPEN,
 Akron/Arizona/Boise State/Boston College/Fresno State/Iowa/Minnesota/Penn State/UNLV/Western Michigan,115,OPEN,
@@ -30,10 +28,8 @@ Baylor,30,OPEN,
 BYU,199,OPEN,
 California,85,OPEN,
 Cincinnati,45,OPEN,
-Clemson,20,OPEN,
 Colorado,25,OPEN,
 Florida,99,OPEN,
-Florida State,30,OPEN,
 Georgia,85,OPEN,
 High School,65,OPEN,
 Houston,25,OPEN,
@@ -57,7 +53,6 @@ Pittsburgh,65,OPEN,
 SMU/San Diego State,45,OPEN,
 South Carolina,125,OPEN,
 Stanford,60,OPEN,
-Syracuse,20,OPEN,
 TCU,45,OPEN,
 Texas A&M,85,OPEN,
 Texas State,28,SOLD,amg1204
@@ -69,3 +64,8 @@ Utah,90,OPEN,
 Virginia/Washington State (WSU),20,OPEN,
 Wake Forest,125,OPEN,
 Western Kentucky,30,OPEN,
+Delaware,16,SOLD,va_wildman
+West Virginia,30,SOLD,mikemcgin1979
+Clemson,16,SOLD,dw2835
+Florida State,24,SOLD,dw2835
+Syracuse,15,SOLD,mikemcgin1979

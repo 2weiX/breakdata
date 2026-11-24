@@ -1,7 +1,6 @@
 spot,price,state,buyer
 Philadelphia Eagles,6,SOLD,jerlar43951
 Arizona Cardinals,6,SOLD,jerlar43951
-Dallas Cowboys,6,SOLD,jerlar43951
 Tradeback,8,SOLD,domn8r888
 Los Angeles Rams,7,SOLD,jerlar43951
 Detroit Lions,8,SOLD,clintonste7363
@@ -18,7 +17,6 @@ Denver Broncos,9,SOLD,dudeiknow
 Houston Texans,10,SOLD,coreyhar39318
 New Orleans Saints,11,SOLD,nitcaleb
 Carolina Panthers,11,SOLD,dudeiknow
-San Francisco 49ers,11,SOLD,coreyhar39318
 Pittsburgh Steelers,13,SOLD,nitcaleb
 Washington Commanders,16,SOLD,ny_brax
 Indianapolis Colts,8,SOLD,domn8r888
@@ -27,4 +25,10 @@ Las Vegas Raiders,8,SOLD,clintonste7363
 New England Patriots,8,SOLD,jokrjax
 Baltimore Ravens,9,SOLD,jokrjax
 Atlanta Falcons,8,SOLD,coreyhar39318
-#29,1,OPEN,
+San Francisco 49ers,6,SOLD,jerlar43951
+Dallas Cowboys,11,SOLD,coreyhar39318
+Miami Dolphins,13,SOLD,kaiserripz
+Chicago Bears,8,SOLD,jokrjax
+New York Jets,8,SOLD,jokrjax
+Minnesota Vikings,11,SOLD,dudeiknow
+Cincinnati Bengals,15,SOLD,jokrjax

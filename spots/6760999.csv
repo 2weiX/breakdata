@@ -1,24 +1,15 @@
 spot,price,state,buyer
-Arizona Cardinals,4,OPEN,
-Atlanta Falcons,4,OPEN,
 Baltimore Ravens,5,OPEN,
 Buffalo Bills,6,SOLD,harryroe1
 Carolina Panthers,6,OPEN,
 Chicago Bears,6,OPEN,
-Cincinnati Bengals,8,OPEN,
 Cleveland Browns,6,OPEN,
 Dallas Cowboys,6,OPEN,
 Denver Broncos,6,OPEN,
 Detroit Lions,5,OPEN,
-Green Bay Packers,5,OPEN,
 Houston Texans,4,OPEN,
-Indianapolis Colts,3,OPEN,
 Jacksonville Jaguars,7,OPEN,
-Kansas City Chiefs,8,OPEN,
 Las Vegas Raiders,10,SOLD,bjam1986
-Los Angeles Chargers,3,OPEN,
-Los Angeles Rams,5,OPEN,
-Miami Dolphins,4,OPEN,
 Minnesota Vikings,5,SOLD,jasperbhamra
 New England Patriots,7,OPEN,
 New Orleans Saints,4,OPEN,
@@ -27,7 +18,16 @@ New York Jets,5,SOLD,67onamerryrizzzzmass
 Philadelphia Eagles,6,OPEN,
 Pittsburgh Steelers,4,OPEN,
 San Francisco 49ers,5,SOLD,harryroe1
-Seattle Seahawks,4,OPEN,
 Tampa Bay Buccaneers,5,OPEN,
 Tennessee Titans,10,SOLD,67onamerryrizzzzmass
-Washington Commanders,7,OPEN,
+Arizona Cardinals,2,SOLD,harryroe1
+Atlanta Falcons,3,OPEN,
+Cincinnati Bengals,6,OPEN,
+Green Bay Packers,3,SOLD,willbidds
+Indianapolis Colts,1,OPEN,
+Kansas City Chiefs,7,OPEN,
+Los Angeles Chargers,2,OPEN,
+Los Angeles Rams,2,SOLD,harryroe1
+Miami Dolphins,2,SOLD,calebada49709
+Seattle Seahawks,2,SOLD,harryroe1
+Washington Commanders,5,OPEN,

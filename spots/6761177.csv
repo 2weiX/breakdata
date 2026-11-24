@@ -2,7 +2,6 @@ spot,price,state,buyer
 Arizona Cardinals,75,OPEN,
 Arkansas/Colorado/Duke/FL ST/ASU/WVU,50,OPEN,
 Atlanta Falcons,65,OPEN,
-Baltimore Ravens,30,OPEN,
 Carolina Panthers,50,OPEN,
 Chicago Bears,42.5,SOLD,briank11
 Cincinnati Bengals,55,OPEN,
@@ -15,7 +14,6 @@ Houston U,45,OPEN,
 Illinois/Kansas/Kansas State/Kentucky/Auburn/Wisconsin,55,OPEN,
 Indiana Hoosiers,110,OPEN,
 Jacksonville Jaguars,20,SOLD,saj221974
-Kansas City Chiefs,20,OPEN,
 Las Vegas Raiders,40,OPEN,
 Los Angeles Chargers,50,OPEN,
 Los Angeles Rams,75,OPEN,
@@ -32,13 +30,11 @@ Oklahoma Sooners,110,OPEN,
 Oklahoma State Cowboys,160,OPEN,
 Penn State Nittany Lions,30,OPEN,
 Pittsburgh Steelers,85,OPEN,
-San Francisco 49ers,85,OPEN,
 Seattle Seahawks,28,SOLD,ttea38753
 SMU/Stanford/TCU/Tennessee/Virginia/Washington,60,OPEN,
 Tampa Bay Buccaneers,25,OPEN,
 Texas A&M Aggies,75,OPEN,
 Texas Longhorns,160,OPEN,
-Washington Commanders,30,OPEN,
 Alabama Crimson Tide,140,OPEN,
 Buffalo Bills,55,OPEN,
 BYU Cougars,85,OPEN,
@@ -60,3 +56,7 @@ South Carolina Gamecocks,60,OPEN,
 Tennessee Titans,15,OPEN,
 Texas Tech Red Raiders,30,OPEN,
 USC Trojans,125,OPEN,
+Baltimore Ravens,15,SOLD,instagone
+Kansas City Chiefs,13,SOLD,bighuddy2020v
+San Francisco 49ers,68,SOLD,bigmanonbreen
+Washington Commanders,15,SOLD,diesel_sports_cards

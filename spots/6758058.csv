@@ -1,34 +1,44 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-MISC,,OPEN,
+#1,67,SOLD,slimmpickinz
+#2,70,SOLD,slimmpickinz
+Buffalo Bills,71,SOLD,slimmpickinz
+Pittsburgh Steelers,72,SOLD,slimmpickinz
+#5,69,SOLD,maxamizzzz
+Kansas City Chiefs,77,SOLD,maxamizzzz
+#7,67,SOLD,maxamizzzz
+Cincinnati Bengals,81,SOLD,peterupinyou85
+New York Giants,105,SOLD,peterupinyou85
+San Francisco 49ers,69,SOLD,maxamizzzz
+Green Bay Packers,66,SOLD,peterupinyou85
+#12,70,SOLD,maxamizzzz
+#13,68,SOLD,maxamizzzz
+Los Angeles Chargers,80,SOLD,maxamizzzz
+#15,75,SOLD,mmcrae2323
+MISC,73,SOLD,mmcrae2323
+Los Angeles Rams,74,SOLD,mmcrae2323
+Dallas Cowboys,110,SOLD,6capper
+Minnesota Vikings,100,SOLD,mmcrae2323
+#20,58,SOLD,6capper
+#21,57,SOLD,6capper
+Baltimore Ravens,23,SOLD,maxamizzzz
+#23,60,SOLD,6capper
+Arizona Cardinals,54,SOLD,6capper
+Las Vegas Raiders,53,SOLD,quea1609
+Cleveland Browns,51,SOLD,6capper
+#27,50,SOLD,chicentral2
+Chicago Bears,98,SOLD,6capper
+Jacksonville Jaguars,41,SOLD,quea1609
+Washington Commanders,40,SOLD,6capper
+Seattle Seahawks,38,SOLD,6capper
+Denver Broncos,43,SOLD,voigtlander
+Detroit Lions,40,SOLD,chicentral2
+Indianapolis Colts,38,SOLD,6capper
+Miami Dolphins,32,SOLD,rudycardshopog
+New England Patriots,175,SOLD,bigglezworth
+Philadelphia Eagles,84,SOLD,rudycardshopog
+Tampa Bay Buccaneers,22,SOLD,rudycardshopog
+Carolina Panthers,2,SOLD,bigglezworth
+Atlanta Falcons,7,SOLD,opensesamebreaks
+Houston Texans,9,SOLD,chicentral2
+Tennessee Titans,6,SOLD,doggett86
+"New Orleans Saints, New York Jets",3,SOLD,bigglezworth

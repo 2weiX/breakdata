@@ -1,43 +1,52 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-ACC,,OPEN,
-AMERICAN,,OPEN,
-BIG 12,,OPEN,
-BIG SKY FCS,,OPEN,
-BIG 10,,OPEN,
-FBS IND.,,OPEN,
-HIGH SCHOOL,,OPEN,
-MOUNTAIN WEST,,OPEN,
-PAC 12,,OPEN,
-SEC,,OPEN,
+#2,9,SOLD,crazyone34
+#3,9,SOLD,crazyone34
+San Francisco 49ers,9,SOLD,crazyone34
+Denver Broncos,14,SOLD,crazyone34
+Tennessee Titans,15,SOLD,firetvguru1
+Detroit Lions,14,SOLD,chrisada01839
+FBS IND.,18,SOLD,crazyone34
+#9,9,SOLD,chrisada01839
+Green Bay Packers,8,SOLD,dsylv
+Dallas Cowboys,13,SOLD,crazyone34
+MOUNTAIN WEST,11,SOLD,crazyone34
+SEC,13,SOLD,dirtbikercr07
+Chicago Bears,13,SOLD,dirtbikercr07
+Arizona Cardinals,13,SOLD,dirtbikercr07
+New Orleans Saints,14,SOLD,dirtbikercr07
+Los Angeles Chargers,14,SOLD,dirtbikercr07
+Cincinnati Bengals,15,SOLD,chrisada01839
+#19,14,SOLD,chrisada01839
+Las Vegas Raiders,15,SOLD,dirtbikercr07
+New England Patriots,14,SOLD,chrisada01839
+PAC 12,15,SOLD,jadesou91313
+#23,14,SOLD,crazyone34
+Buffalo Bills,14,SOLD,chrisada01839
+ACC,18,SOLD,chrisada01839
+Jacksonville Jaguars,23,SOLD,chrisada01839
+#27,18,SOLD,kyle_jones80
+AMERICAN,15,SOLD,chad205
+Pittsburgh Steelers,15,SOLD,kyle_jones80
+BIG 10,15,SOLD,crazyone34
+BIG 12,15,SOLD,kyle_jones80
+Cleveland Browns,7,SOLD,kyle_jones80
+#33,11,SOLD,socr627
+New York Giants,10,SOLD,kyle_jones80
+Washington Commanders,7,SOLD,socr627
+Indianapolis Colts,7,SOLD,chrisada01839
+#37,13,SOLD,xfactorripps
+#38,9,SOLD,chrisada01839
+Seattle Seahawks,13,SOLD,chrisada01839
+Los Angeles Rams,11,SOLD,millers6pack
+Miami Dolphins,11,SOLD,xfactorripps
+Baltimore Ravens,9,SOLD,socr627
+Kansas City Chiefs,13,SOLD,chrisada01839
+Carolina Panthers,9,SOLD,chrisada01839
+Houston Texans,9,SOLD,chrisada01839
+BIG SKY FCS,10,SOLD,chrisada01839
+Tampa Bay Buccaneers,14,SOLD,chrisada01839
+Atlanta Falcons,13,SOLD,chrisada01839
+HIGH SCHOOL,15,SOLD,ingles8410
+New York Jets,15,SOLD,ingles8410
+Philadelphia Eagles,16,SOLD,ingles8410
+Minnesota Vikings,20,SOLD,lambright84
