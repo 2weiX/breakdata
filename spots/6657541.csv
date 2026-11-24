@@ -1,9 +1,10 @@
 spot,price,state,buyer
-Arizona Cardinals,490,OPEN,
+Arizona Cardinals,280,SOLD,uksammo
+"Atlanta Falcons, washington commanders and green bay packers",210,SOLD,rose009
 Baltimore Ravens,175,OPEN,
 Buffalo Bills,250,SOLD,toasterkettle
 Carolina Panthers,140,OPEN,
-Chicago Bears,315,OPEN,
+Chicago Bears,185,SOLD,southe07
 Cincinnati Bengals,161,SOLD,perfectlycromulent
 Cleveland Browns,300,OPEN,
 Dallas Cowboys,230,OPEN,
@@ -14,7 +15,7 @@ Indianapolis Colts,120,OPEN,
 Kansas City Chiefs,350,SOLD,bandar00
 Las Vegas Raiders,520,SOLD,bandar00
 Los Angeles Chargers,135,OPEN,
-Los Angeles Rams,400,OPEN,
+Los Angeles Rams,240,SOLD,michaelcon03153
 Miami Dolphins,105,SOLD,daltonwoo21533
 Minnesota Vikings,95,SOLD,gtb98
 New England Patriots,595,OPEN,
@@ -27,4 +28,3 @@ Seattle Seahawks,215,SOLD,cizfitz
 Tampa Bay Buccaneers,260,OPEN,
 Tennessee Titans,280,OPEN,
 New York Giants,200,SOLD,dankelly124
-"Atlanta Falcons, washington commanders and green bay packers",210,SOLD,rose009

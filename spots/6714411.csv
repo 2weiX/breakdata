@@ -1,33 +1,35 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+New York Giants,11,SOLD,markt2
+Detroit Lions,10,SOLD,kd0t11
+Buffalo Bills,11,SOLD,markt2
+Las Vegas Raiders,11,SOLD,normancar52786
+Chicago Bears,13,SOLD,maverick01191988
+Arizona Cardinals,15,SOLD,kd0t11
+Los Angeles Chargers,14,SOLD,markt2
+Baltimore Ravens,10,SOLD,throwback559
+#9,10,SOLD,maverick01191988
+#10,10,SOLD,markt2
+Denver Broncos,11,SOLD,chuysolo
+San Francisco 49ers,11,SOLD,kd0t11
+New England Patriots,19,SOLD,rikobff
+Miami Dolphins,10,SOLD,chuysolo
+Pittsburgh Steelers,8,SOLD,markt2
+Green Bay Packers,10,SOLD,rikobff
+Minnesota Vikings,16,SOLD,rikobff
+Tampa Bay Buccaneers,11,SOLD,markt2
+Seattle Seahawks,11,SOLD,chuysolo
+Kansas City Chiefs,10,SOLD,stanlee69
+Washington Commanders,11,SOLD,stanlee69
+New Orleans Saints,11,SOLD,stanlee69
+Tennessee Titans,12,SOLD,stanlee69
+Cleveland Browns,10,SOLD,markt2
+Indianapolis Colts,9,SOLD,maverick01191988
+Atlanta Falcons,11,SOLD,rikobff
+Dallas Cowboys,13,SOLD,rikobff
+New York Jets,9,SOLD,markt2
+Los Angeles Rams,10,SOLD,rikobff
+Houston Texans,11,SOLD,pakopunch
+Philadelphia Eagles,15,SOLD,pakopunch
+Carolina Panthers,12,SOLD,pakopunch
+Cincinnati Bengals,18,SOLD,lightpinkdrink_
+Jacksonville Jaguars,15,SOLD,pakopunch

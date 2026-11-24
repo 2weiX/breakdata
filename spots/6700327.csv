@@ -1,15 +1,5 @@
 spot,price,state,buyer
-AFC North,,OPEN,
-AFC East,,OPEN,
-AFC South,,OPEN,
-NFC North,,OPEN,
-NFC East,,OPEN,
-NFC West,,OPEN,
-NFC South,,OPEN,
- SEC 1,,OPEN,
-SEC 2,,OPEN,
-BIG TEN 1,,OPEN,
-BIG TEN 2,,OPEN,
-BIG 12,,OPEN,
-ACC,,OPEN,
-ALL OTHERS + PAC 12,,OPEN,
+NFC North,11,SOLD,eyejoe
+NFC East,11,SOLD,cardkillacorey
+BIG 12,11,SOLD,cardkillacorey
+#4,1,OPEN,

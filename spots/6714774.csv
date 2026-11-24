@@ -1,40 +1,38 @@
 spot,price,state,buyer
-Arizona Cardinals,39,OPEN,
+Arizona Cardinals,23,SOLD,jack_bech
 Atlanta Falcons,10,SOLD,jack_bech
 Baltimore Ravens,11,SOLD,pma1
-Buffalo Bills,39,OPEN,
+Buffalo Bills,18,SOLD,redskittle
 Carolina Panthers,12,SOLD,demboyz19
-Chicago Bears,79,OPEN,
-Cincinnati Bengals,39,OPEN,
-Cleveland Browns,39,OPEN,
-Dallas Cowboys,39,OPEN,
-Denver Broncos,39,OPEN,
+Chicago Bears,79,SOLD,mfswish
+Cincinnati Bengals,32,SOLD,sethsav211
+Cleveland Browns,32,SOLD,lactoselarceny
+Dallas Cowboys,60,SOLD,mpullman1009
 Detroit Lions,25,SOLD,strinity19
-Green Bay Packers,29,OPEN,
+Green Bay Packers,11,SOLD,dertydert
 Houston Texans,9,SOLD,lactoselarceny
 Indianapolis Colts,8,SOLD,lactoselarceny
 Jacksonville Jaguars,15,SOLD,blueprintvintage
 Kansas City Chiefs,49,SOLD,rkbull
-Las Vegas Raiders,89,OPEN,
-Los Angeles Chargers,19,OPEN,
-Los Angeles Rams,39,OPEN,
-Miami Dolphins,19,OPEN,
-Minnesota Vikings,19,OPEN,
-New England Patriots,39,OPEN,
+Las Vegas Raiders,89,SOLD,mfswish
+Los Angeles Chargers,11,SOLD,jack_bech
+Los Angeles Rams,59,SOLD,mfswish
+Miami Dolphins,10,SOLD,jonathanhoo28667
+Minnesota Vikings,9,SOLD,peachpride93
+New England Patriots,39,SOLD,mfswish
 New Orleans Saints,19,SOLD,cp96343
-New York Giants,19,OPEN,
-New York Jets,19,OPEN,
-Philadelphia Eagles,19,OPEN,
-Pittsburgh Steelers,19,OPEN,
+New York Giants,18,SOLD,demboyz19
+New York Jets,15,SOLD,blueprintvintage
+Philadelphia Eagles,17,SOLD,card_mob_2
+Pittsburgh Steelers,11,SOLD,dertydert
 San Francisco 49ers,19,SOLD,strinity19
-Seattle Seahawks,19,OPEN,
-Tampa Bay Buccaneers,49,OPEN,
-Tennessee Titans,49,OPEN,
+Seattle Seahawks,21,SOLD,sethsav211
+Tennessee Titans,49,SOLD,alohabats
 Washington Commanders,19,SOLD,pma1
-"COLLEGE: ENTIRE BIG TEN: Michigan, Ohio State, Penn State, Oregon, USC, Washington, Illinois, Indiana, Iowa, Maryland, Michigan State, Minnesota, Nebraska, Northwestern, Purdue, Rutgers, UCLA, and Wisconsin",49,OPEN,
-"COLLEGE: Entire SEC EXCEPT TEXAS (TEXAS SOLD INDVIDUALLY): ALABAMA, ARKANSAS, AUBURN, FLORIDA, GEORGIA, KENTUCKY, LSU, MISSISSIPI STATE, MISSOURI, OKLAHAMA, OLE MISS, SOUTH CAROLINA, TENNESSEE, TEXAS A & M, VANDERBILT",49,OPEN,
-"COLLEGE: ENTIRE BIG TWELVE: Arizona, Baylor, Colorado, Utah, Arizona State, BYU, Cincinnati, Houston, Iowa State, Kansas, Kansas State, Oklahoma State, TCU, Texas Tech, UCF, and West Virginia",49,OPEN,
-"COLLEGE: ENTIRE ACC: Clemson, Florida State, Miami, Stanford, Boston College, California, Duke, Louisville, NC State, Pittsburgh, SMU, Syracuse, UNC, Virginia, and Wake Forest",49,OPEN,
+"COLLEGE: ENTIRE BIG TEN: Michigan, Ohio State, Penn State, Oregon, USC, Washington, Illinois, Indiana, Iowa, Maryland, Michigan State, Minnesota, Nebraska, Northwestern, Purdue, Rutgers, UCLA, and Wisconsin",37,SOLD,jamesdav49900
+"COLLEGE: Entire SEC EXCEPT TEXAS (TEXAS SOLD INDVIDUALLY): ALABAMA, ARKANSAS, AUBURN, FLORIDA, GEORGIA, KENTUCKY, LSU, MISSISSIPI STATE, MISSOURI, OKLAHAMA, OLE MISS, SOUTH CAROLINA, TENNESSEE, TEXAS A & M, VANDERBILT",40,SOLD,jamesdav49900
+"COLLEGE: ENTIRE BIG TWELVE: Arizona, Baylor, Colorado, Utah, Arizona State, BYU, Cincinnati, Houston, Iowa State, Kansas, Kansas State, Oklahoma State, TCU, Texas Tech, UCF, and West Virginia",34,SOLD,sethsav211
+"COLLEGE: ENTIRE ACC: Clemson, Florida State, Miami, Stanford, Boston College, California, Duke, Louisville, NC State, Pittsburgh, SMU, Syracuse, UNC, Virginia, and Wake Forest",34.3,SOLD,lactoselarceny
 TEXAS,25,SOLD,mpullman1009
 "COLLEGE: GROUP OF FIVE AND UCONN AND HIGH SCHOOLS: Akron, Boise State, Delaware, Fresno State, Louisiana (ULL), New Mexico, San Diego State, Texas State, Tulsa, UNLV, Western Kentucky, Western Michigan, Washington State, and Wyoming",19,SOLD,strinity19
 NOTRE DAME,19,SOLD,pma1

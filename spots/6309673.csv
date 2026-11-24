@@ -1,10 +1,11 @@
 spot,price,state,buyer
+Arizona Cardinals,14,SOLD,henriklep
 Atlanta Falcons,18,OPEN,
 Baltimore Ravens,16,SOLD,michfrei
 Buffalo Bills,16.2,SOLD,funkypat
 Carolina Panthers,9,OPEN,
 Chicago Bears,20.8,SOLD,bjwormuth
-Cincinnati Bengals,26,OPEN,
+Cincinnati Bengals,18.5,SOLD,goldcreek_sportcards_by_linne
 Cleveland Browns,7,SOLD,jensrh
 Dallas Cowboys,12,SOLD,chrispdino
 Denver Broncos,26,OPEN,
@@ -30,4 +31,3 @@ Seattle Seahawks,15,OPEN,
 Tampa Bay Buccaneers,9.6,SOLD,breaking_kev
 Tennessee Titans,12,OPEN,
 Washington Commanders,19,OPEN,
-Arizona Cardinals,14,SOLD,henriklep

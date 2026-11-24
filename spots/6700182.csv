@@ -1,6 +1,6 @@
 spot,price,state,buyer
 Fernando Mendoza (RR) (GG) (KAIJU) (IV) (ETCH) (UV) (91 AUTO) (AUTO x2) (DUAL),499,OPEN,
-Patrick Mahomes II (IV) (GG) (ETCH) (UV) (AUTO),499,OPEN,
+Patrick Mahomes II (IV) (GG) (ETCH) (UV) (AUTO),360,SOLD,storm__breaker
 Caleb Williams (IV) (UV) (91 AUTO) (AUTO) (PREM1ERE),375,OPEN,
 Tom Brady (IV) (KAIJU) (UV) (AUTO x3),250,SOLD,wesellcardsnstuff
 Jaxon Smith-Njigba (IV) (MADDEN) (ETCH) (SBAN) (UV) (AUTO) (DUAL) (GOLD SHIELD AUTO) (GOLD SHIELD) (PREM1ERE),299,OPEN,
@@ -11,6 +11,7 @@ Bo Nix (KAIJU) (ETCH) (91 AUTO) (AUTO) (DUAL) (PREM1ERE),225,OPEN,
 Jayden Daniels (91 AUTO) (AUTO) (PREM1ERE),215,OPEN,
 CJ Stroud (IV) (GG) (PREM1ERE),189,OPEN,
 Jahmyr Gibbs (AUTO) (DUAL) (PREM1ERE),189,OPEN,
+"Brock Bowers (IV) (91 AUTO) (AUTO) (PREM1ERE),MATTHEW STAFFORD ",225,SOLD,johanm97
 Myles Garrett (IV) (KAIJU) (MADDEN) (TECMO) (UV) (TECMO AUTO) (GOLD SHIELD AUTO) (GOLD SHIELD),189,OPEN,
 Brock Purdy (IV) (GG) (ETCH) (AUTO x2) (DUAL),189,OPEN,
 Bryce Young (IV) (GG) (HELIX) (91 AUTO) (AUTO) (DUAL) (PREM1ERE),149,OPEN,
@@ -77,4 +78,3 @@ Keon Coleman (AUTO) (PREM1ERE),12,SOLD,cubscards84
 Malachi Fields (AUTO),10.5,SOLD,homagecanada
 104 PLAYER SPOT,75,SOLD,thecandyman007
 K9 AMON RA,45,SOLD,austindavisv1
-"Brock Bowers (IV) (91 AUTO) (AUTO) (PREM1ERE),MATTHEW STAFFORD ",225,SOLD,johanm97
