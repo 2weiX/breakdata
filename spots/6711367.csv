@@ -1,34 +1,41 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-MISC,,OPEN,
+Cleveland Browns,465,SOLD,vegasvinny
+Kansas City Chiefs,460,SOLD,vegasvinny
+Green Bay Packers,449,SOLD,vegasvinny
+New England Patriots,386,SOLD,ghoem5
+#5,515,SOLD,ghoem5
+Los Angeles Chargers,486,SOLD,vegasvinny
+Baltimore Ravens,570,SOLD,tawilo
+Cincinnati Bengals,581,SOLD,tawilo
+San Francisco 49ers,496,SOLD,vegasvinny
+Los Angeles Rams,516,SOLD,vegasvinny
+Buffalo Bills,551,SOLD,vegasvinny
+Minnesota Vikings,530,SOLD,tawilo
+Pittsburgh Steelers,611,SOLD,tawilo
+Chicago Bears,619,SOLD,tawilo
+MISC,636,SOLD,tawilo
+Las Vegas Raiders,646,SOLD,tawilo
+Washington Commanders,651,SOLD,tawilo
+Tampa Bay Buccaneers,636,SOLD,tawilo
+New York Jets,520,SOLD,vegasvinny
+Philadelphia Eagles,509,SOLD,vegasvinny
+Detroit Lions,626,SOLD,tawilo
+New York Giants,656,SOLD,tawilo
+Houston Texans,596,SOLD,tawilo
+Dallas Cowboys,510,SOLD,vegasvinny
+Carolina Panthers,360,SOLD,vegasvinny
+Seattle Seahawks,540,SOLD,vegasvinny
+#27,616,SOLD,tawilo
+Denver Broncos,390,SOLD,vegasvinny
+#29,400,SOLD,vegasvinny
+Arizona Cardinals,356,SOLD,vegasvinny
+"Atlanta Falcons, Tennessee Titans",180,SOLD,jay2141
+New Orleans Saints,195,SOLD,jay2141
+#33,140,SOLD,jay2141
+#34,390,SOLD,vegasvinny
+Jacksonville Jaguars,400,SOLD,botrosp1979
+#36,500,SOLD,tawilo
+#37,390,SOLD,vegasvinny
+Miami Dolphins,7,SOLD,madden308
+Indianapolis Colts,9,SOLD,kylelem207
+#40,17,SOLD,vegasvinny

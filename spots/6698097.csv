@@ -1,22 +1,21 @@
 spot,price,state,buyer
 "Cardinals, Suns, Diamondbacks",10,SOLD,fonjohn5
-"Falcons, Hawks, Braves",30,OPEN,
-"Ravens, Kings, Orioles",55,OPEN,
-"Bills, Raptors, Blue Jays",50,OPEN,
+"Falcons, Hawks, Braves",25,SOLD,ztejay
+"Ravens, Kings, Orioles",35,SOLD,fonjohn5
+"Bills, Raptors, Blue Jays",35,SOLD,fonjohn5
 "Panthers, Hornets",40,SOLD,ztejay
 "Bears, Bulls, Cubs",42,SOLD,fonjohn5
-"Bengals, Reds",60,OPEN,
 "Browns, Caveliers, Guardians",25,SOLD,fonjohn5
 "Cowboys, Mavericks, Rangers",35,SOLD,fonjohn5
 "Broncos, Nuggets, Rockies",25,SOLD,fonjohn5
 "Lions, Pistons, Tigers",25,SOLD,fonjohn5
 "Packers, Bucks, Brewers",35,SOLD,fonjohn5
-"Texans, Rockets, Astros",50,OPEN,
+"Texans, Rockets, Astros",12,SOLD,eternallightsportscards
 "Colts, Pacers, White Sox",15,SOLD,anthonyhow1998
 "Jaguars, Padres",15,SOLD,anthonyhow1998
 "Chiefs, Thunders, Royals",90,SOLD,ztejay
 "Radiers, Jazz, Athletics",40,SOLD,ztejay
-"Chargers, Clippers, Dodgers",55,OPEN,
+"Chargers, Clippers, Dodgers",25,SOLD,eternallightsportscards
 "Rams, Lakers, Angels",85,SOLD,fonjohn5
 "Dolphins, Heat, Marlins",10,SOLD,fonjohn5
 "Vikings, Timberwolves, Twins",30,SOLD,eternallightsportscards
@@ -27,8 +26,8 @@ spot,price,state,buyer
 "Eagles, 76ers, Phillies",55,SOLD,fonjohn5
 "Steelers, Spurs, Pirates",5,SOLD,fonjohn5
 "49ers, Warriors, SF Giants",75,SOLD,fonjohn5
-"Seahawks, Trail Blazers, Mariners",50,OPEN,
-"Buccaneers, Magic, Rays",50,OPEN,
+"Seahawks, Trail Blazers, Mariners",15,SOLD,eternallightsportscards
+"Buccaneers, Magic, Rays",25,SOLD,ztejay
 "Titans, Grizzlies, SL Cardinals",20,SOLD,ztejay
-"Commanders, Wizards, Nationals",35,OPEN,
+"Commanders, Wizards, Nationals",20,SOLD,eternallightsportscards
 Miscellaneous,20,SOLD,anthonyhow1998

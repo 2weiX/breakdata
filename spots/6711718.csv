@@ -1,13 +1,13 @@
 spot,price,state,buyer
 Arizona Cardinals,185,OPEN,
-Atlanta Falcons,50,OPEN,
+Atlanta Falcons,40,SOLD,codyshin
 Baltimore Ravens,65,OPEN,
 Buffalo Bills,185,OPEN,
 Carolina Panthers,60,OPEN,
 Chicago Bears,180,OPEN,
 Cincinnati Bengals,40,SOLD,my_breaking_point
 Cleveland Browns,65,SOLD,clevelandcayce
-Dallas Cowboys,100,OPEN,
+Dallas Cowboys,80,SOLD,whiteboymagic
 Denver Broncos,80,SOLD,wrinkledeggroll
 Detroit Lions,31,SOLD,codyshin
 Green Bay Packers,65,OPEN,

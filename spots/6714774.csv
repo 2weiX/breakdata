@@ -1,0 +1,40 @@
+spot,price,state,buyer
+Arizona Cardinals,39,OPEN,
+Atlanta Falcons,10,SOLD,jack_bech
+Baltimore Ravens,11,SOLD,pma1
+Buffalo Bills,39,OPEN,
+Carolina Panthers,12,SOLD,demboyz19
+Chicago Bears,79,OPEN,
+Cincinnati Bengals,39,OPEN,
+Cleveland Browns,39,OPEN,
+Dallas Cowboys,39,OPEN,
+Denver Broncos,39,OPEN,
+Detroit Lions,25,SOLD,strinity19
+Green Bay Packers,29,OPEN,
+Houston Texans,9,SOLD,lactoselarceny
+Indianapolis Colts,8,SOLD,lactoselarceny
+Jacksonville Jaguars,15,SOLD,blueprintvintage
+Kansas City Chiefs,49,SOLD,rkbull
+Las Vegas Raiders,89,OPEN,
+Los Angeles Chargers,19,OPEN,
+Los Angeles Rams,39,OPEN,
+Miami Dolphins,19,OPEN,
+Minnesota Vikings,19,OPEN,
+New England Patriots,39,OPEN,
+New Orleans Saints,19,SOLD,cp96343
+New York Giants,19,OPEN,
+New York Jets,19,OPEN,
+Philadelphia Eagles,19,OPEN,
+Pittsburgh Steelers,19,OPEN,
+San Francisco 49ers,19,SOLD,strinity19
+Seattle Seahawks,19,OPEN,
+Tampa Bay Buccaneers,49,OPEN,
+Tennessee Titans,49,OPEN,
+Washington Commanders,19,SOLD,pma1
+"COLLEGE: ENTIRE BIG TEN: Michigan, Ohio State, Penn State, Oregon, USC, Washington, Illinois, Indiana, Iowa, Maryland, Michigan State, Minnesota, Nebraska, Northwestern, Purdue, Rutgers, UCLA, and Wisconsin",49,OPEN,
+"COLLEGE: Entire SEC EXCEPT TEXAS (TEXAS SOLD INDVIDUALLY): ALABAMA, ARKANSAS, AUBURN, FLORIDA, GEORGIA, KENTUCKY, LSU, MISSISSIPI STATE, MISSOURI, OKLAHAMA, OLE MISS, SOUTH CAROLINA, TENNESSEE, TEXAS A & M, VANDERBILT",49,OPEN,
+"COLLEGE: ENTIRE BIG TWELVE: Arizona, Baylor, Colorado, Utah, Arizona State, BYU, Cincinnati, Houston, Iowa State, Kansas, Kansas State, Oklahoma State, TCU, Texas Tech, UCF, and West Virginia",49,OPEN,
+"COLLEGE: ENTIRE ACC: Clemson, Florida State, Miami, Stanford, Boston College, California, Duke, Louisville, NC State, Pittsburgh, SMU, Syracuse, UNC, Virginia, and Wake Forest",49,OPEN,
+TEXAS,25,SOLD,mpullman1009
+"COLLEGE: GROUP OF FIVE AND UCONN AND HIGH SCHOOLS: Akron, Boise State, Delaware, Fresno State, Louisiana (ULL), New Mexico, San Diego State, Texas State, Tulsa, UNLV, Western Kentucky, Western Michigan, Washington State, and Wyoming",19,SOLD,strinity19
+NOTRE DAME,19,SOLD,pma1

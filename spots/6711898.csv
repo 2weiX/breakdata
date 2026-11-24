@@ -1,34 +1,36 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-MISC,,OPEN,
+#1,130,SOLD,vegasmann
+Los Angeles Chargers,135,SOLD,vegasmann
+Green Bay Packers,135,SOLD,vegasmann
+Los Angeles Rams,135,SOLD,vegasmann
+San Francisco 49ers,135,SOLD,maximumgirth
+Cincinnati Bengals,107,SOLD,vegasmann
+Philadelphia Eagles,106,SOLD,vegasmann
+Baltimore Ravens,107,SOLD,vegasmann
+Atlanta Falcons,110,SOLD,vegasmann
+#11,16,SOLD,sundevilcards
+Kansas City Chiefs,126,SOLD,tvarga
+Las Vegas Raiders,134,SOLD,tvarga
+New York Giants,126.48,SOLD,tvarga
+#15,148,SOLD,tvarga
+#16,142,SOLD,sp0rtscardsplus
+Pittsburgh Steelers,150,SOLD,sundevilcards
+Dallas Cowboys,165,SOLD,patoc15119
+#19,166,SOLD,vegasvinny
+MISC,168,SOLD,vegasvinny
+Chicago Bears,155,SOLD,vegasvinny
+Cleveland Browns,145,SOLD,sp0rtscardsplus
+Detroit Lions,147,SOLD,sp0rtscardsplus
+New England Patriots,131,SOLD,sp0rtscardsplus
+Minnesota Vikings,135,SOLD,jordanhir208
+#26,142,SOLD,sp0rtscardsplus
+Buffalo Bills,121,SOLD,sundevilcards
+Houston Texans,121,SOLD,jordanhir208
+Arizona Cardinals,38,SOLD,vegasmann
+Washington Commanders,69,SOLD,sp0rtscardsplus
+Tampa Bay Buccaneers,59,SOLD,sundevilcards
+Denver Broncos,100,SOLD,codman323
+"Carolina Panthers, Seattle Seahawks",18,SOLD,buchie
+"Miami Dolphins, Tennessee Titans",3,SOLD,jbr5191
+"Indianapolis Colts, Jacksonville Jaguars",6,SOLD,sundevilcards
+"New Orleans Saints, New York Jets",3,SOLD,patoc15119
