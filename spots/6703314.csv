@@ -1,33 +1,33 @@
 spot,price,state,buyer
-#1,28,SOLD,sarinaramauce
-#2,28,SOLD,daninjax2
-#3,28,SOLD,fatcowcards
-#4,28,SOLD,anthonyfra80791
-#5,23,SOLD,sarinaramauce
-#6,21,SOLD,gameonshow
-#7,28,SOLD,hukone
-#8,23,SOLD,hukone
-#9,28,SOLD,gameonshow
-#10,28,SOLD,fatcowcards
-#11,28,SOLD,heavy_breaks
-#12,28,SOLD,jarrod1112
-#13,22,SOLD,dtruitt
-#14,22,SOLD,bombobreaks
-#15,22,SOLD,fatcowcards
-#16,22,SOLD,fatcowcards
-#17,22,SOLD,moneymahan
-#18,17,SOLD,hukone
-#19,22,SOLD,hukone
-#20,28,OPEN,
-#21,22,SOLD,moneymahan
-#22,28,OPEN,
-#23,28,OPEN,
-#24,22,SOLD,bombobreaks
-#25,28,OPEN,
-#26,28,SOLD,joejoe86
-#27,28,OPEN,
-#28,28,OPEN,
-#29,28,OPEN,
-#30,28,OPEN,
-#31,28,OPEN,
-#32,28,OPEN,
+Baltimore Ravens,28,SOLD,sarinaramauce
+Seattle Seahawks,28,SOLD,daninjax2
+Las Vegas Raiders,28,SOLD,fatcowcards
+Tampa Bay Buccaneers,28,SOLD,anthonyfra80791
+Cincinnati Bengals,23,SOLD,sarinaramauce
+Detroit Lions,21,SOLD,gameonshow
+Arizona Cardinals,28,SOLD,hukone
+New York Jets,23,SOLD,hukone
+New England Patriots,28,SOLD,gameonshow
+Kansas City Chiefs,28,SOLD,fatcowcards
+Denver Broncos,28,SOLD,heavy_breaks
+Houston Texans,28,SOLD,jarrod1112
+Philadelphia Eagles,22,SOLD,dtruitt
+Indianapolis Colts,22,SOLD,bombobreaks
+Minnesota Vikings,22,SOLD,fatcowcards
+Green Bay Packers,22,SOLD,fatcowcards
+Carolina Panthers,22,SOLD,moneymahan
+Buffalo Bills,17,SOLD,hukone
+Cleveland Browns,22,SOLD,hukone
+Los Angeles Rams,19,SOLD,moneymahan
+Chicago Bears,22,SOLD,moneymahan
+Tennessee Titans,19,SOLD,legendary_sports_hits
+New York Giants,16,SOLD,hukone
+Atlanta Falcons,22,SOLD,bombobreaks
+Miami Dolphins,18,SOLD,legendary_sports_hits
+Dallas Cowboys,28,SOLD,joejoe86
+New Orleans Saints,20,SOLD,legendary_sports_hits
+Jacksonville Jaguars,19,SOLD,legendary_sports_hits
+Washington Commanders,18,SOLD,legendary_sports_hits
+Pittsburgh Steelers,16,SOLD,hukone
+San Francisco 49ers,17,SOLD,moneymahan
+Los Angeles Chargers,21,SOLD,hukone

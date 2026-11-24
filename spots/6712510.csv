@@ -1,32 +1,25 @@
 spot,price,state,buyer
-Arizona Cardinals,60,OPEN,
 Atlanta Falcons,20,SOLD,meggyywappp
-Baltimore Ravens,30,OPEN,
 Buffalo Bills,75,SOLD,meggyywappp
 Carolina Panthers,15,SOLD,sneakersandfun
-Chicago Bears,75,OPEN,
-Cincinnati Bengals,50,OPEN,
-Cleveland Browns,40,OPEN,
+Chicago Bears,55,SOLD,teagmo13
 Dallas Cowboys,29.75,SOLD,chrisunderwood175
-Denver Broncos,30,OPEN,
-Detroit Lions,30,OPEN,
+Denver Broncos,24,SOLD,208highdeserthobby
 Green Bay Packers,21,SOLD,sneakersandfun
 Houston Texans,12,SOLD,prestoripzz
-Indianapolis Colts,20,OPEN,
+Indianapolis Colts,5,SOLD,jacoba88
 Jacksonville Jaguars,13,SOLD,mikemccoach
 Kansas City Chiefs,75,SOLD,mikemccoach
 Las Vegas Raiders and Rams,125,SOLD,uptruebreed
-Los Angeles Chargers,20,OPEN,
-Miami Dolphins,25,OPEN,
-Minnesota Vikings,20,OPEN,
 New England Patriots,70,SOLD,mikemccoach
-New Orleans Saints,50,OPEN,
 New York Giants,35,SOLD,luch27
-New York Jets,25,OPEN,
+New York Jets,18,SOLD,tlash14
 Philadelphia Eagles,35,SOLD,richyripz
-Pittsburgh Steelers,40,OPEN,
-San Francisco 49ers,45,OPEN,
 Seattle Seahawks,28,SOLD,chrisunderwood175
-Tampa Bay Buccaneers,40,OPEN,
-Tennessee Titans,45,OPEN,
-Washington Commanders,25,OPEN,
+Tampa Bay Buccaneers,25,SOLD,teagmo13
+Tennessee Titans,30,SOLD,uptruebreed
+Washington Commanders,15,SOLD,dandanthebreakingman
+"Arizona Cardinals, Browns",80,SOLD,ausomecardz
+"Cincinnati Bengals , Ravens, Lions",90,SOLD,porchpulls
+"New Orleans Saints , Steelers, Chargers, Dolphins",105,SOLD,ausomecardz
+"San Francisco 49ers , Vikings",50,SOLD,porchpulls

@@ -1,33 +1,35 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+Arizona Cardinals,49,SOLD,cmo115
+Atlanta Falcons,16,SOLD,sportscardshane
+Baltimore Ravens,24,SOLD,parsko
+Buffalo Bills,66,SOLD,cmo115
+Carolina Panthers,63,SOLD,cmo115
+Chicago Bears,70,SOLD,chiefs311982
+Cincinnati Bengals,71,SOLD,thephoenix17
+Cleveland Browns,91,SOLD,chiefs311982
+Dallas Cowboys,27,SOLD,chiefs311982
+Denver Broncos,31,SOLD,maverick01191988
+Detroit Lions,27,SOLD,sneg
+Green Bay Packers,24,SOLD,mtg_ftk75
+Houston Texans,93,SOLD,thephoenix17
+Indianapolis Colts,29,SOLD,chiefs311982
+Jacksonville Jaguars,27,SOLD,slimmjim9
+Kansas City Chiefs,31,SOLD,pestispete
+Las Vegas Raiders,75,SOLD,chiefs311982
+Los Angeles Chargers,42,SOLD,dimitrisfra
+Los Angeles Rams,28,SOLD,satyricaly
+Miami Dolphins,53,SOLD,cmo115
+Minnesota Vikings,27,SOLD,satyricaly
+New England Patriots,29,SOLD,satyricaly
+New Orleans Saints,17,SOLD,9tymes
+New York Giants,27,SOLD,slimmjim9
+New York Jets,27,SOLD,satyricaly
+Philadelphia Eagles,26,SOLD,mtg_ftk75
+Pittsburgh Steelers,28,SOLD,pestispete
+San Francisco 49ers,29,SOLD,tenix_24
+Seattle Seahawks,27,SOLD,satyricaly
+Tampa Bay Buccaneers,28,SOLD,slimmjim9
+Tennessee Titans,28,SOLD,whatgoesup
+Washington Commanders,26,SOLD,parsko
+#12,29,SOLD,whatgoesup
+#14,29,SOLD,satyricaly

@@ -1,34 +1,47 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-NIL,,OPEN,
+Baltimore Ravens,146,SOLD,grillinator86
+Buffalo Bills,286,SOLD,jkirish1
+Carolina Panthers,245,SOLD,jkirish1
+Cincinnati Bengals,266,SOLD,certfieddegenerate
+Cleveland Browns,211,SOLD,calmer_than_you_are
+Dallas Cowboys,200,SOLD,certfieddegenerate
+Denver Broncos,200,SOLD,chewmas
+Detroit Lions,171,SOLD,calmer_than_you_are
+Green Bay Packers,285,SOLD,soniclv
+Indianapolis Colts,140,SOLD,loftytrading
+Kansas City Chiefs,170,SOLD,calmer_than_you_are
+Las Vegas Raiders,250,SOLD,mase4358
+Los Angeles Chargers,280,SOLD,certfieddegenerate
+Los Angeles Rams,205,SOLD,grillinator86
+Minnesota Vikings,220,SOLD,grillinator86
+New England Patriots,170,SOLD,calmer_than_you_are
+New York Giants,285,SOLD,jkirish1
+Philadelphia Eagles,216,SOLD,certfieddegenerate
+Pittsburgh Steelers,285,SOLD,bountyhouse
+San Francisco 49ers,261,SOLD,loftytrading
+Seattle Seahawks,260,SOLD,soniclv
+Washington Commanders,210,SOLD,jkirish1
+NIL,211,SOLD,calmer_than_you_are
+#1,261,SOLD,loftytrading
+#2,270,SOLD,certfieddegenerate
+#5,265,SOLD,certfieddegenerate
+#8,276,SOLD,certfieddegenerate
+#9,296,SOLD,jkirish1
+#10,280,SOLD,certfieddegenerate
+#12,285,SOLD,certfieddegenerate
+#16,256,SOLD,certfieddegenerate
+#17,207,SOLD,calmer_than_you_are
+#20,270,SOLD,mase4358
+#22,250,SOLD,calmer_than_you_are
+#23,250,SOLD,calmer_than_you_are
+#26,180,SOLD,grillinator86
+#31,181,SOLD,calmer_than_you_are
+#33,217,SOLD,calmer_than_you_are
+#34,145,SOLD,calmer_than_you_are
+#35,200,SOLD,mase4358
+#37,160,SOLD,calmer_than_you_are
+"Jacksonville Jaguars, Tennessee Titans",176,SOLD,lickhitty
+#43,180,SOLD,lickhitty
+"Chicago Bears, Houston Texans",100,SOLD,deansetticase18
+"Atlanta Falcons, New Orleans Saints, Tampa Bay Buccaneers",144,SOLD,thebucket
+"Arizona Cardinals, Miami Dolphins, New York Jets",11,SOLD,cbreed715

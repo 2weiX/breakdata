@@ -1,11 +1,10 @@
 spot,price,state,buyer
-SPOT 1,,OPEN,
-SPOT 2,,OPEN,
-SPOT 3,,OPEN,
-SPOT 4,,OPEN,
-SPOT 5,,OPEN,
-SPOT 6,,OPEN,
-SPOT 7,,OPEN,
-SPOT 8,,OPEN,
-SPOT 9,,OPEN,
-SPOT 11,,OPEN,
+SPOT 1,50,SOLD,geophman
+SPOT 2,50,SOLD,williamssportsbreak2
+SPOT 3,50,SOLD,wimpydawg
+SPOT 4,40,SOLD,bick225
+SPOT 5,40,SOLD,twigsmcg
+SPOT 6,50,SOLD,zentso
+SPOT 7,40,SOLD,kurmor
+SPOT 8,50,SOLD,jerrymar89190
+#3,50,SOLD,hubbs222
