@@ -1,23 +1,22 @@
 spot,price,state,buyer
-Arizona Cardinals,12,OPEN,
+Arizona Cardinals,12,SOLD,teresacos26962
 Atlanta Falcons,6,OPEN,
 Baltimore Ravens,7,SOLD,aidenbar45683
 Buffalo Bills,8,SOLD,and333
 Chicago Bears,6.5,SOLD,tonyv21323
 Cincinnati Bengals,8,SOLD,mojoripsbreaks
-Cleveland Browns,6,OPEN,
-Dallas Cowboys,6,OPEN,
+Cleveland Browns,6,SOLD,teresacos26962
+Dallas Cowboys,5,SOLD,tonyv21323
 Denver Broncos,7,SOLD,mojoripsbreaks
-Detroit Lions,8,OPEN,
+Detroit Lions,6,SOLD,tonyv21323
 Houston Texans,6,OPEN,
 Indianapolis Colts,8,OPEN,
 Jacksonville Jaguars,8,OPEN,
 Kansas City Chiefs,7,SOLD,and333
 Las Vegas Raiders,17,SOLD,tonyv21323
 Los Angeles Chargers,6,OPEN,
-Los Angeles Rams,8,OPEN,
+Los Angeles Rams,8,SOLD,teresacos26962
 Miami Dolphins,8,OPEN,
-Minnesota Vikings,8,OPEN,
 New Orleans Saints,8,OPEN,
 New York Jets,6,OPEN,
 Philadelphia Eagles,6,OPEN,

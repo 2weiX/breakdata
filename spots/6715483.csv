@@ -1,14 +1,15 @@
 spot,price,state,buyer
-NFC EAST,,OPEN,
-NFC NORTH,,OPEN,
-NFC SOUTH,,OPEN,
-NFC WEST,,OPEN,
-AFC NORTH,,OPEN,
-AFC SOUTH,,OPEN,
-AFC EAST,,OPEN,
-AFC WEST,,OPEN,
-NBA,,OPEN,
-Miscelaneous,,OPEN,
-Black Pandora,,OPEN,
-NFL Autos,,OPEN,
-MLB,,OPEN,
+Miscelaneous,19,SOLD,blackopsbaseball21
+NFC SOUTH,19,SOLD,blackopsbaseball21
+Black Pandora,19,SOLD,blackopsbaseball21
+MLB,19,SOLD,chrispolkiecards
+NFC NORTH,19,SOLD,chrispolkiecards
+NFC WEST,19,SOLD,chrispolkiecards
+NFL Autos,19,SOLD,chrispolkiecards
+NFC EAST,21,SOLD,_valdes_
+#9,21,SOLD,chrispolkiecards
+NBA,20,SOLD,916kid
+AFC NORTH,19,SOLD,_valdes_
+AFC WEST,19,SOLD,_valdes_
+AFC EAST,14,SOLD,_valdes_
+AFC SOUTH,10,SOLD,916kid

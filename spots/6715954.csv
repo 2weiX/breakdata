@@ -1,2 +1,10 @@
 spot,price,state,buyer
-#1,1,OPEN,
+"Cleveland Browns, Las Vegas Raiders",33,SOLD,cardkillacorey
+Kansas City Chiefs,15,SOLD,alangivesnofox
+Chicago Bears,18,SOLD,dan1231
+"New England Patriots, Tampa Bay Buccaneers",25,SOLD,tw3129
+"Buffalo Bills, Denver Broncos, San Francisco 49ers",44,SOLD,tw3129
+Philadelphia Eagles,11,SOLD,scully2013
+Atlanta Falcons,11,SOLD,tw3129
+Green Bay Packers,11,SOLD,tw3129
+#9,1,OPEN,

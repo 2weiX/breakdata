@@ -1,36 +1,36 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-BOX,,OPEN,
-BOX,,OPEN,
-BOX,,OPEN,
+Washington Commanders,15,SOLD,cardiac_kimbo
+Cincinnati Bengals,17,SOLD,a3universal
+Baltimore Ravens,15,SOLD,cardiac_kimbo
+Chicago Bears,20,SOLD,growland
+#5,27,SOLD,blitz_ripz
+New Orleans Saints,28,SOLD,growland
+New England Patriots,24,SOLD,growland
+Kansas City Chiefs,24.7,SOLD,blitz_ripz
+Buffalo Bills,28,SOLD,growland
+Jacksonville Jaguars,21,SOLD,blitz_ripz
+Green Bay Packers,21,SOLD,braydencun08370
+Houston Texans,24,SOLD,braydencun08370
+Dallas Cowboys,26,SOLD,braydencun08370
+Tennessee Titans,27,SOLD,a3universal
+Carolina Panthers,24,SOLD,growland
+San Francisco 49ers,25,SOLD,blitz_ripz
+BOX,23,SOLD,blitz_ripz
+Arizona Cardinals,25,SOLD,blitz_ripz
+BOX,25,SOLD,blitz_ripz
+Tampa Bay Buccaneers,22,SOLD,growland
+Seattle Seahawks,22,SOLD,blitz_ripz
+New York Giants,23,SOLD,shane31396
+BOX,23,SOLD,blitz_ripz
+Minnesota Vikings,6,SOLD,a3universal
+Philadelphia Eagles,14,SOLD,a3universal
+Las Vegas Raiders,18,SOLD,a3universal
+Atlanta Falcons,18,SOLD,a3universal
+Detroit Lions,18,SOLD,a3universal
+Cleveland Browns,16,SOLD,a3universal
+Los Angeles Rams,16,SOLD,smokey2689
+Pittsburgh Steelers,12,SOLD,a3universal
+Los Angeles Chargers,13,SOLD,a3universal
+New York Jets,13,SOLD,a3universal
+Denver Broncos,14,SOLD,a3universal
+"Indianapolis Colts, Miami Dolphins",26,SOLD,a3universal
