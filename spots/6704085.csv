@@ -1,33 +1,18 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+"Arizona Cardinals, Detroit Lions, Las Vegas Raiders, Miami Dolphins, New York Jets",27,SOLD,cstewart24
+"Chicago Bears, Kansas City Chiefs, Los Angeles Rams, Tennessee Titans",28,SOLD,dan1231
+"Buffalo Bills, Cincinnati Bengals, New York Giants, San Francisco 49ers",27,SOLD,dhittercards
+"Green Bay Packers, Minnesota Vikings, New Orleans Saints",16,SOLD,colez_cardz
+"Cleveland Browns, Seattle Seahawks",11,SOLD,wyadave
+"Carolina Panthers, New England Patriots",10,SOLD,dan1231
+"Denver Broncos, Washington Commanders",10,SOLD,dan1231
+Pittsburgh Steelers,7,SOLD,shoopydagreat
+Tampa Bay Buccaneers,8,SOLD,shoopydagreat
+Jacksonville Jaguars,7,SOLD,dhittercards
+Dallas Cowboys,6,SOLD,swinters91
+Philadelphia Eagles,5,SOLD,cstewart24
+Baltimore Ravens,5,SOLD,colez_cardz
+Atlanta Falcons,5,SOLD,swinters91
+Houston Texans,4,SOLD,shoopydagreat
+Indianapolis Colts,3,SOLD,swinters91
+Los Angeles Chargers,2,SOLD,swinters91

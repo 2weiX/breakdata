@@ -1,33 +1,37 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+Cleveland Browns,68,SOLD,bbqbreaks
+Chicago Bears,75,SOLD,bbqbreaks
+#3,84,SOLD,bbqbreaks
+#4,88,SOLD,bbqbreaks
+Green Bay Packers,89,SOLD,bbqbreaks
+Seattle Seahawks,88,SOLD,bbqbreaks
+Los Angeles Rams,88,SOLD,bbqbreaks
+Dallas Cowboys,100,SOLD,bbqbreaks
+Jacksonville Jaguars,116,SOLD,bbqbreaks
+Detroit Lions,116,SOLD,damian_20
+Carolina Panthers,110,SOLD,javper
+#12,117,SOLD,bbqbreaks
+Tennessee Titans,125,SOLD,spoons20
+New England Patriots,128,SOLD,bbqbreaks
+#15,150,SOLD,spoons20
+Arizona Cardinals,165,SOLD,dmann21
+Cincinnati Bengals,145,SOLD,kyleskards14
+Kansas City Chiefs,140,SOLD,dmann21
+Philadelphia Eagles,126,SOLD,dines61
+Baltimore Ravens,130,SOLD,howie129
+Las Vegas Raiders,127,SOLD,spoons20
+Buffalo Bills,95,SOLD,porchpulls
+#23,91,SOLD,wakacaraca
+New Orleans Saints,78,SOLD,joeyzy
+Tampa Bay Buccaneers,86,SOLD,porchpulls
+Minnesota Vikings,85,SOLD,kpotter1788
+New York Giants,82,SOLD,dmann21
+Denver Broncos,82,SOLD,porchpulls
+Washington Commanders,69,SOLD,cadeebbers
+Atlanta Falcons,85,SOLD,hoytc87
+"Los Angeles Chargers, Pittsburgh Steelers",84,SOLD,baconbreak
+San Francisco 49ers,89,SOLD,htownwax
+Miami Dolphins,70,SOLD,hit_hunters
+Indianapolis Colts,60,SOLD,hoytc87
+New York Jets,61,SOLD,hit_hunters
+Houston Texans,65,SOLD,htownwax

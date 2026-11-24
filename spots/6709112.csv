@@ -1,34 +1,32 @@
 spot,price,state,buyer
-Cleveland Browns,,OPEN,
-CHASER 1,,OPEN,
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Dallas Cowboys,,OPEN,
-CHASER 3,,OPEN,
-Cincinnati Bengals,,OPEN,
-CHASER 2,,OPEN,
-Carolina Panthers,,OPEN,
-CHASER 4,,OPEN,
-Detroit Lions,,OPEN,
-Indianapolis Colts,,OPEN,
-Houston Texans,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-CHASER 5,,OPEN,
-Los Angeles Chargers,,OPEN,
-CHASER 6,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-CHASER 7,,OPEN,
-Minnesota Vikings,,OPEN,
-New Orleans Saints,,OPEN,
-New York Jets,,OPEN,
-Tennessee Titans,,OPEN,
-CHASER 9,,OPEN,
-Pittsburgh Steelers,,OPEN,
-Philadelphia Eagles,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-CHASER 10,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks ,,OPEN,
-CHASER 8,,OPEN,
+Tampa Bay Buccaneers,23,SOLD,luke012814
+Philadelphia Eagles,22,SOLD,luke012814
+Houston Texans,25,SOLD,luke012814
+Miami Dolphins,30,SOLD,luke012814
+Los Angeles Chargers,30,SOLD,luke012814
+Kansas City Chiefs,31,SOLD,luke012814
+San Francisco 49ers,32,SOLD,luke012814
+CHASER 9,32,SOLD,luke012814
+New Orleans Saints,31,SOLD,luke012814
+CHASER 4,32,SOLD,luke012814
+Arizona Cardinals,31,SOLD,luke012814
+Tennessee Titans,30,SOLD,luke012814
+CHASER 7,30,SOLD,luke012814
+Cincinnati Bengals,30,SOLD,luke012814
+Seattle Seahawks ,31,SOLD,luke012814
+CHASER 2,32,SOLD,luke012814
+Los Angeles Rams,43,SOLD,luke012814
+Carolina Panthers,40,SOLD,luke012814
+CHASER 8,32,SOLD,luke012814
+New York Jets,31,SOLD,luke012814
+CHASER 1,30,SOLD,luke012814
+CHASER 3,24,SOLD,luke012814
+Cleveland Browns,27,SOLD,luke012814
+CHASER 5,30,SOLD,luke012814
+Pittsburgh Steelers,24,SOLD,luke012814
+Jacksonville Jaguars,34,SOLD,luke012814
+Atlanta Falcons,30,SOLD,luke012814
+CHASER 10,43,SOLD,luke012814
+Detroit Lions,22,SOLD,luke012814
+CHASER 6,36,SOLD,luke012814
+"Dallas Cowboys, Indianapolis Colts, Minnesota Vikings",1,SOLD,luke012814

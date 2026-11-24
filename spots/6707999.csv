@@ -1,31 +1,25 @@
 spot,price,state,buyer
 "Buffalo Bills | LSU, Auburn, Akron",29,SOLD,erico3636
-"Miami Dolphins | Penn State, Baylor, Arizona",16,OPEN,
-"New England Patriots | Texas, Boise State, Boston College",36,OPEN,
+"Miami Dolphins | Penn State, Baylor, Arizona",15,SOLD,fazoole
 "New York Jets | Alabama, Utah, Charlotte",15,SOLD,antoniosingles
 "Baltimore Ravens | Indiana, UCLA, Colorado",23,SOLD,erico3636
 "Cincinnati Bengals | USC, TCU, Delaware",23,SOLD,erico3636
-"Cleveland Browns | Oklahoma, Michigan State, Duke",17,OPEN,
+"Cleveland Browns | Oklahoma, Michigan State, Duke",15,SOLD,mikewade4242
 "Pittsburgh Steelers | Rutgers, Vanderbilt, Florida Atlantic",22,SOLD,jksmith56
 "Houston Texans | Ole Miss, Houston, Kansas State, Fresno State",19,SOLD,mikewade4242
-"Indianapolis Colts | Kentucky, UCF, Georgia Tech",16,OPEN,
-"Jacksonville Jaguars | Miami, West Virginia, Iowa",23,OPEN,
-"Tennessee Titans | Arkansas, Purdue, Iowa State",30,OPEN,
+"Indianapolis Colts | Kentucky, UCF, Georgia Tech",16,SOLD,bosdav
+"Jacksonville Jaguars | Miami, West Virginia, Iowa",18.4,SOLD,danmcilhattan
+"Tennessee Titans | Arkansas, Purdue, Iowa State",25.5,SOLD,nova_breaks
 "Denver Broncos | BYU, Northwestern, Louisville",22.95,SOLD,pstrcollector
 "Kansas City Chiefs | Notre Dame, NC State, Louisiana",24,SOLD,pstrcollector
-"Las Vegas Raiders | Montana State, Virginia Tech, Marshall",40,OPEN,
-"Los Angeles Chargers | Michigan, North Carolina, Minnesota",22,OPEN,
+"Las Vegas Raiders | Montana State, Virginia Tech, Marshall",34,SOLD,danmcilhattan
 "Dallas Cowboys | Illinois, UConn, New Mexico",24,SOLD,phatdaddyskadooshcards
-"New York Giants | Stanford, Wake Forest, San Diego State",30,OPEN,
-"Philadelphia Eagles | Oregon, Wisconsin, Southern Miss",25,OPEN,
+"Philadelphia Eagles | Oregon, Wisconsin, Southern Miss",20,SOLD,nd19842nd
 "Chicago Bears | Tennessee, Maryland, Texas State",21.6,SOLD,phatdaddyskadooshcards
-"Detroit Lions | Clemson, Pittsburgh, Tulsa",23,OPEN,
-"Green Bay Packers | Florida, Cincinnati, UNLV",22,OPEN,
-"Minnesota Vikings | SMU, Arizona State, Virginia",22,OPEN,
+"Green Bay Packers | Florida, Cincinnati, UNLV",17.6,SOLD,danmcilhattan
 "Atlanta Falcons | Missouri, Mississippi State, Washington State",17,SOLD,sedge
-"Carolina Panthers | Florida State, Western Kentucky",20,OPEN,
-"New Orleans Saints | South Carolina, Western Michigan",22,OPEN,
-"Tampa Bay Buccaneers | Nebraska, Jackson State",24,OPEN,
-"Arizona Cardinals | Georgia, Wyoming",32,OPEN,
+"Carolina Panthers | Florida State, Western Kentucky",15,SOLD,freebo_
+"Tampa Bay Buccaneers | Nebraska, Jackson State",19,SOLD,nd19842nd
+"Arizona Cardinals | Georgia, Wyoming",25,SOLD,erico3636
 "Los Angeles Rams | Texas A&M, Texas Tech",24,SOLD,phatdaddyskadooshcards
 "Seattle Seahawks | Ohio State, Oklahoma State",27,SOLD,mikewade4242

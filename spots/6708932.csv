@@ -1,11 +1,11 @@
 spot,price,state,buyer
 p1,102,SOLD,4k_cardzz
-Las Vegas Raiders,116,SOLD,michaelmic88252
+ZTRADE,116,SOLD,michaelmic88252
 p4,121,SOLD,jrocks9
 ZTRADE,125.76,SOLD,jrocks9
 Minnesota Vikings,100.8,SOLD,jrocks9
 Chicago Bears,127,SOLD,richsch51310
-New York Jets,124,SOLD,michaelmic88252
+New England Patriots,124,SOLD,michaelmic88252
 San Francisco 49ers,103.68,SOLD,jrocks9
 Houston Texans,131,SOLD,camostan88
 Arizona Cardinals,126,SOLD,camostan88
@@ -30,4 +30,14 @@ Indianapolis Colts,144,SOLD,jrocks9
 Baltimore Ravens,126,SOLD,camostan88
 Kansas City Chiefs,125.76,SOLD,jrocks9
 Denver Broncos,101.76,SOLD,jrocks9
-#32,1,OPEN,
+Seattle Seahawks,107,SOLD,justinbrue
+Buffalo Bills,113.28,SOLD,jrocks9
+Washington Commanders,126,SOLD,doughboy87
+Cincinnati Bengals,141,SOLD,doughboy87
+New York Jets,150,SOLD,cisners_onlysams
+New York Giants,160,SOLD,din6d15
+p2,170,SOLD,doughboy87
+Las Vegas Raiders,141,SOLD,bigpete7676
+Tampa Bay Buccaneers,136,SOLD,jbenz22
+Atlanta Falcons,150.72,SOLD,jrocks9
+ZMISC,83,SOLD,camostan88

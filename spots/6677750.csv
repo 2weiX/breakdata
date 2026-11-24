@@ -1,14 +1,11 @@
 spot,price,state,buyer
-#1,43,SOLD,paulcam1494
 #4,43,OPEN,
-#5,43,SOLD,paulcam1494
 #6,43,OPEN,
 #7,43,OPEN,
 #8,43,OPEN,
 #9,43,OPEN,
 #10,43,OPEN,
 #11,43,OPEN,
-#12,43,SOLD,my_breaking_point
 #13,43,OPEN,
 #14,43,OPEN,
 #15,43,OPEN,
@@ -20,7 +17,6 @@ spot,price,state,buyer
 #21,43,OPEN,
 #22,43,OPEN,
 #23,43,OPEN,
-#24,43,SOLD,paulcam1494
 #25,43,OPEN,
 #26,43,OPEN,
 #27,43,OPEN,

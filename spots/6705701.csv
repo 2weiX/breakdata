@@ -1,23 +1,49 @@
 spot,price,state,buyer
-Buffalo Bills,116,SOLD,undisclosedinformation
-Cleveland Browns,65,SOLD,flandersnj32
-Dallas Cowboys,62,SOLD,daltondb50
-Denver Broncos,79,SOLD,peterupinyou85
-Detroit Lions,113,SOLD,bigjohn1204
-Houston Texans,100,SOLD,prepper616
-Jacksonville Jaguars,86,SOLD,johnkho23
+T,105,SOLD,lantzuh
 Las Vegas Raiders,111,SOLD,johnkho23
-Los Angeles Rams,89,SOLD,lanbri46107
+Houston Texans,100,SOLD,prepper616
+T,107,SOLD,johnkho23
+Buffalo Bills,116,SOLD,undisclosedinformation
+T,114,SOLD,bigjohn1204
+T,111,SOLD,bigjohn1204
 New Orleans Saints,110,SOLD,johnkho23
-New York Jets,69,SOLD,undisclosedinformation
+Detroit Lions,113,SOLD,bigjohn1204
 San Francisco 49ers,93,SOLD,lantzuh
+Los Angeles Rams,89,SOLD,lanbri46107
 Tennessee Titans,74,SOLD,lanbri46107
-#1,105,SOLD,lantzuh
-#4,107,SOLD,johnkho23
-#6,114,SOLD,bigjohn1204
-#7,111,SOLD,bigjohn1204
-#15,99,SOLD,peterupinyou85
-#16,44,SOLD,lanbri46107
-#17,74,SOLD,lanbri46107
-#20,65,SOLD,flandersnj32
-#22,1,OPEN,
+Jacksonville Jaguars,86,SOLD,johnkho23
+Denver Broncos,79,SOLD,peterupinyou85
+T,99,SOLD,peterupinyou85
+T,44,SOLD,lanbri46107
+T,74,SOLD,lanbri46107
+Dallas Cowboys,62,SOLD,daltondb50
+T,69,SOLD,undisclosedinformation
+T,65,SOLD,flandersnj32
+Cleveland Browns,65,SOLD,flandersnj32
+Pittsburgh Steelers,70,SOLD,undisclosedinformation
+Seattle Seahawks,75,SOLD,lantzuh
+T,50,SOLD,calmer_than_you_are
+New York Giants,47,SOLD,calmer_than_you_are
+T,46,SOLD,calmer_than_you_are
+T,47,SOLD,calmer_than_you_are
+Baltimore Ravens,61,SOLD,paulie89
+T,64,SOLD,paulie89
+T,68,SOLD,paulie89
+T,68,SOLD,paulie89
+Philadelphia Eagles,87,SOLD,dwood7714
+MISC,82,SOLD,faulk28
+Washington Commanders,44,SOLD,faulk28
+Kansas City Chiefs,42,SOLD,bigjohn1204
+Cincinnati Bengals,38,SOLD,faulk28
+Chicago Bears,24,SOLD,nate32367
+Carolina Panthers,24,SOLD,nate32367
+New York Jets,49,SOLD,csponable
+Los Angeles Chargers,54,SOLD,dwood7714
+Atlanta Falcons,53,SOLD,csponable
+New England Patriots,25,SOLD,csponable
+Arizona Cardinals,23,SOLD,nate32367
+Miami Dolphins,11,SOLD,lantzuh
+Minnesota Vikings,16,SOLD,lantzuh
+Indianapolis Colts,13,SOLD,lantzuh
+Tampa Bay Buccaneers,6,SOLD,lantzuh
+Green Bay Packers,23,SOLD,jaydeuces

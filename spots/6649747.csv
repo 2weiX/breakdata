@@ -1,38 +1,36 @@
 spot,price,state,buyer
-Arizona Cardinals,22,OPEN,
+Arizona Cardinals,18,SOLD,robpoh
 Atlanta Falcons-Baltimore Orioles,15,OPEN,
-Baltimore Ravens-Minnesota Twins,15,OPEN,
+Baltimore Ravens-Minnesota Twins,10,SOLD,heathbar2323
 Buffalo Bills,22,SOLD,charlesmar2333
 Carolina Panthers-Seattle Mariners,15,OPEN,
-Chicago Bears,22,OPEN,
-Cincinnati Bengals,22,OPEN,
-Cleveland Browns,22,OPEN,
+Cincinnati Bengals,20,SOLD,robpoh
 Dallas Cowboys-Cleveland Guardians,15,OPEN,
 Denver Broncos-Colorado Rockies,15,SOLD,charlesmar2333
-Detroit Lions-Philadelphia Phillies,15,OPEN,
-Green Bay Packers-Texas Rangers,15,OPEN,
-Houston Texans-Washington Nationals,15,OPEN,
-Indianapolis Colts-Toronto Blue Jays,15,OPEN,
+Detroit Lions-Philadelphia Phillies,10,SOLD,charlesmar2333
+Green Bay Packers-Texas Rangers,15,SOLD,robpoh
+Houston Texans-Washington Nationals,15,SOLD,robpoh
+Indianapolis Colts-Toronto Blue Jays,10,SOLD,heathbar2323
 Jacksonville Jaguars-Miami Marlins,15,OPEN,
 Kansas City Chiefs,22,OPEN,
-Las Vegas Raiders,22,OPEN,
-Los Angeles Chargers-Los Angeles Angels,15,OPEN,
+Las Vegas Raiders,20,SOLD,robpoh
+Los Angeles Chargers-Los Angeles Angels,10,SOLD,charlesmar2333
 Los Angeles Rams-Detroit Tigers,15,OPEN,
 Miami Dolphins-Chicago White Sox,15,SOLD,charlesmar2333
 Minnesota Vikings-San Diego Padres,15,OPEN,
-New England Patriots-Cincinnati Reds,15,OPEN,
-New Orleans Saints-Arizona Diamondbacks,15,OPEN,
+New England Patriots-Cincinnati Reds,10,SOLD,heathbar2323
 New York Giants-Athletics,15,SOLD,charlesmar2333
-New York Jets-New York Mets,15,OPEN,
+New York Jets-New York Mets,10,SOLD,charlesmar2333
 Philadelphia Eagles-Atlanta Braves,15,OPEN,
 Pittsburgh Steelers-Kansas City Royals,15,OPEN,
-San Francisco 49ers-SF Giants ,15,OPEN,
+San Francisco 49ers-SF Giants ,11,SOLD,robpoh
 Seattle Seahawks-St. Louis Cardinals,15,SOLD,charlesmar2333
 Tampa Bay Buccaneers-Pittsburgh Pirates,15,SOLD,charlesmar2333
 Tennessee Titans-Tampa Bay Rays,15,OPEN,
-Washington Commanders-Boston Red Sox,15,OPEN,
-New York Yankees,22,OPEN,
+Washington Commanders-Boston Red Sox,15,SOLD,eddie_the_freaking_yeti
+New York Yankees,22,SOLD,eddie_the_freaking_yeti
 Los Angeles Dodgers,22,OPEN,
 Milwaukee Brewers,22,OPEN,
 Chicago Cubs,22,OPEN,
 Houston Astros,22,OPEN,
+"arizona diamondbacks, saints, bears, browns ",57,SOLD,stripperglitter666

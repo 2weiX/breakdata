@@ -1,43 +1,49 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-ACC,,OPEN,
-AMERICAN,,OPEN,
-BIG 12,,OPEN,
-BIG SKY FCS,,OPEN,
-BIG 10,,OPEN,
-FBS IND.,,OPEN,
-HIGH SCHOOL,,OPEN,
-MOUNTAIN WEST,,OPEN,
-PAC 12,,OPEN,
-SEC,,OPEN,
+#1,21,SOLD,rbawab01
+San Francisco 49ers,25,SOLD,faulk28
+#3,21,SOLD,rbawab01
+FBS IND.,24,SOLD,rbawab01
+ACC,24,SOLD,faulk28
+Indianapolis Colts,25,SOLD,faulk28
+Pittsburgh Steelers,20,SOLD,rbawab01
+#8,20,SOLD,faulk28
+HIGH SCHOOL,15,SOLD,aaronhunt1919
+AMERICAN,1,SOLD,aaronhunt1919
+New York Jets,8,SOLD,aaronhunt1919
+Miami Dolphins,17,SOLD,aaronhunt1919
+Cleveland Browns,12,SOLD,jesse00
+MOUNTAIN WEST,12,SOLD,jesse00
+#15,21,SOLD,rbawab01
+SEC,34,SOLD,faulk28
+Las Vegas Raiders,11,SOLD,aaronhunt1919
+BIG 10,12,SOLD,aar37312
+BIG SKY FCS,2,SOLD,aar37312
+Tampa Bay Buccaneers,19,SOLD,dave484
+Washington Commanders,12,SOLD,dave484
+Chicago Bears,15,SOLD,aaronhunt1919
+New England Patriots,16,SOLD,dave484
+#24,13,SOLD,crazyone34
+#25,13,SOLD,crazyone34
+Minnesota Vikings,14,SOLD,crazyone34
+Atlanta Falcons,13,SOLD,dave484
+Dallas Cowboys,16,SOLD,crazyone34
+Green Bay Packers,15,SOLD,cardsbychayse27
+New Orleans Saints,14,SOLD,dave484
+Tennessee Titans,15,SOLD,michaelhay40784
+Cincinnati Bengals,14,SOLD,michaelhay40784
+Kansas City Chiefs,16,SOLD,michaelhay40784
+Carolina Panthers,16,SOLD,cardsbychayse27
+Baltimore Ravens,16,SOLD,ineedbangerz810
+Detroit Lions,13,SOLD,crazyone34
+PAC 12,12,SOLD,crazyone34
+BIG 12,5,SOLD,crazyone34
+Denver Broncos,1,SOLD,aaronhunt1919
+Arizona Cardinals,6,SOLD,dave484
+New York Giants,1,SOLD,dave484
+Buffalo Bills,1,SOLD,dave484
+Los Angeles Rams,6,SOLD,dave484
+Seattle Seahawks,5,SOLD,crazyone34
+Philadelphia Eagles,7,SOLD,andrew00305
+Houston Texans,5,SOLD,andrew00305
+Los Angeles Chargers,8,SOLD,andrew00305
+Jacksonville Jaguars,8,SOLD,dave484

@@ -1,0 +1,38 @@
+spot,price,state,buyer
+Arizona Cardinals,69,OPEN,
+Atlanta Falcons,39,OPEN,
+Baltimore Ravens,39,OPEN,
+Buffalo Bills,75,SOLD,filthyphil4
+Carolina Panthers,39,OPEN,
+Chicago Bears,99,OPEN,
+Cincinnati Bengals,59,OPEN,
+Cleveland Browns,59,OPEN,
+Dallas Cowboys,59,OPEN,
+Denver Broncos,59,OPEN,
+Detroit Lions,39,SOLD,strinity19
+Green Bay Packers,39,OPEN,
+Houston Texans,29,OPEN,
+Indianapolis Colts,29,SOLD,wed33
+Jacksonville Jaguars,29,OPEN,
+Kansas City Chiefs,63.2,SOLD,rkbull
+Las Vegas Raiders,95,SOLD,cp96343
+Los Angeles Chargers,39,OPEN,
+Los Angeles Rams,47.2,SOLD,filthyphil4
+Miami Dolphins,20,SOLD,wrenchincards
+New England Patriots,59,OPEN,
+New Orleans Saints,39,OPEN,
+New York Giants,39,OPEN,
+New York Jets,60,SOLD,zachzac91271
+Pittsburgh Steelers,39,OPEN,
+San Francisco 49ers,30,SOLD,jgoyette82
+Seattle Seahawks,39,OPEN,
+Tampa Bay Buccaneers,89,OPEN,
+Tennessee Titans,59,OPEN,
+Washington Commanders,39,OPEN,
+"COLLEGE: ENTIRE BIG TEN: Michigan, Ohio State, Penn State, Oregon, USC, Washington, Illinois, Indiana, Iowa, Maryland, Michigan State, Minnesota, Nebraska, Northwestern, Purdue, Rutgers, UCLA, and Wisconsin",39,SOLD,wed33
+"COLLEGE: Entire SEC EXCEPT TEXAS (TEXAS SOLD INDVIDUALLY): ALABAMA, ARKANSAS, AUBURN, FLORIDA, GEORGIA, KENTUCKY, LSU, MISSISSIPI STATE, MISSOURI, OKLAHAMA, OLE MISS, SOUTH CAROLINA, TENNESSEE, TEXAS A & M, VANDERBILT",39,OPEN,
+"COLLEGE: ENTIRE BIG TWELVE: Arizona, Baylor, Colorado, Utah, Arizona State, BYU, Cincinnati, Houston, Iowa State, Kansas, Kansas State, Oklahoma State, TCU, Texas Tech, UCF, and West Virginia",39,OPEN,
+"COLLEGE: ENTIRE ACC: Clemson, Florida State, Miami, Stanford, Boston College, California, Duke, Louisville, NC State, Pittsburgh, SMU, Syracuse, UNC, Virginia, and Wake Forest",39,OPEN,
+TEXAS,17,SOLD,cp96343
+"COLLEGE: GROUP OF FIVE AND UCONN AND HIGH SCHOOLS: Akron, Boise State, Delaware, Fresno State, Louisiana (ULL), New Mexico, San Diego State, Texas State, Tulsa, UNLV, Western Kentucky, Western Michigan, Washington State, and Wyoming",19,OPEN,
+NOTRE DAME,19,SOLD,wed33

@@ -1,33 +1,33 @@
 spot,price,state,buyer
-#3,10,SOLD,pancaesar
-#4,10,SOLD,larryjac65693
-#5,16,SOLD,user_36959
-#15,16,SOLD,zanmaverick
-#1,5,OPEN,
-#2,5,OPEN,
-#6,5,OPEN,
-#7,5,OPEN,
-#8,6,OPEN,
-#9,5,OPEN,
-#10,5,OPEN,
-#11,5,OPEN,
-#12,5,OPEN,
-#13,5,OPEN,
-#14,5,OPEN,
-#16,5,OPEN,
-#17,5,OPEN,
-#18,5,OPEN,
-#19,5,OPEN,
-#20,5,OPEN,
-#21,5,OPEN,
-#22,5,OPEN,
-#23,5,OPEN,
-#24,5,OPEN,
-#25,5,OPEN,
-#26,4,OPEN,
-#27,5,OPEN,
-#28,5,OPEN,
-#29,5,OPEN,
-#30,5,OPEN,
-#31,5,OPEN,
-#32,5,OPEN,
+Dallas Cowboys,4,SOLD,zanmaverick
+New York Giants,5,SOLD,iammarcy58
+Indianapolis Colts,10,SOLD,pancaesar
+Cleveland Browns,10,SOLD,larryjac65693
+Denver Broncos,16,SOLD,user_36959
+Los Angeles Rams,5,SOLD,zanmaverick
+Washington Commanders,5,SOLD,zanmaverick
+Houston Texans,4,SOLD,zanmaverick
+Atlanta Falcons,4,SOLD,zanmaverick
+Miami Dolphins,5,SOLD,dr_ake94
+New England Patriots,5,SOLD,dr_ake94
+Buffalo Bills,4,SOLD,zanmaverick
+Tennessee Titans,5,SOLD,dr_ake94
+Las Vegas Raiders,5,SOLD,zanmaverick
+Carolina Panthers,16,SOLD,zanmaverick
+Kansas City Chiefs,4,SOLD,dr_ake94
+Tampa Bay Buccaneers,5,SOLD,zanmaverick
+New Orleans Saints,5,SOLD,zanmaverick
+Green Bay Packers,3,SOLD,zanmaverick
+Pittsburgh Steelers,1,SOLD,zanmaverick
+Seattle Seahawks,4,SOLD,zanmaverick
+Minnesota Vikings,4,SOLD,zanmaverick
+Cincinnati Bengals,5,SOLD,zanmaverick
+Baltimore Ravens,4,SOLD,zanmaverick
+New York Jets,4,SOLD,zanmaverick
+Chicago Bears,4,SOLD,zanmaverick
+Detroit Lions,5,SOLD,zanmaverick
+Los Angeles Chargers,4,SOLD,zanmaverick
+Philadelphia Eagles,4,SOLD,zanmaverick
+Jacksonville Jaguars,4,SOLD,zanmaverick
+Arizona Cardinals,4,SOLD,zanmaverick
+San Francisco 49ers,4,SOLD,zanmaverick

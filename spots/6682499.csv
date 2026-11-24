@@ -1,33 +1,35 @@
 spot,price,state,buyer
-Atlanta Falcons,40,SOLD,clevelandcayce
-Baltimore Ravens,40,SOLD,clevelandcayce
-Carolina Panthers,75,SOLD,codyshin
-Cincinnati Bengals,60,SOLD,clevelandcayce
-Cleveland Browns,180,SOLD,clevelandcayce
-Detroit Lions,100,SOLD,codyshin
-Green Bay Packers,40,SOLD,clevelandcayce
-Houston Texans,40,SOLD,clevelandcayce
-Indianapolis Colts,40,SOLD,ccote817
-Jacksonville Jaguars,60,SOLD,iiishanks
-Las Vegas Raiders,665,SOLD,clevelandcayce
-Los Angeles Chargers,40,SOLD,clevelandcayce
-Miami Dolphins,90,SOLD,harcan12470
-Minnesota Vikings,85,SOLD,clevelandcayce
-Philadelphia Eagles,190,SOLD,ccote817
-Pittsburgh Steelers,150,SOLD,ccote817
-San Francisco 49ers,151,SOLD,harcan12470
-Seattle Seahawks,109,SOLD,codyshin
-Tampa Bay Buccaneers,99,SOLD,harcan12470
-Tennessee Titans,150,SOLD,clevelandcayce
 Arizona Cardinals,280,OPEN,
 Buffalo Bills,280,OPEN,
 Chicago Bears,275,OPEN,
+#7,75,SOLD,clevelandcayce
+#8,225,SOLD,clevelandcayce
 Dallas Cowboys,145,OPEN,
-Denver Broncos,145,SOLD,wrinkledeggroll
 Kansas City Chiefs,295,OPEN,
 Los Angeles Rams,275,OPEN,
 New England Patriots,369,OPEN,
 New Orleans Saints,190,OPEN,
 New York Giants,290,OPEN,
 New York Jets,180,OPEN,
+#29,152,SOLD,codyshin
 Washington Commanders,160,OPEN,
+Denver Broncos,145,OPEN,
+Pittsburgh Steelers,150,OPEN,
+Indianapolis Colts,40,OPEN,
+#26,190,OPEN,
+Seattle Seahawks,152,OPEN,
+Miami Dolphins,90,OPEN,
+San Francisco 49ers,151,OPEN,
+Tampa Bay Buccaneers,99,OPEN,
+Atlanta Falcons,40,OPEN,
+Baltimore Ravens,40,OPEN,
+Green Bay Packers,40,OPEN,
+Houston Texans,40,OPEN,
+Los Angeles Chargers,40,OPEN,
+Minnesota Vikings,85,OPEN,
+Tennessee Titans,150,OPEN,
+Las Vegas Raiders,665,OPEN,
+Detroit Lions,100,OPEN,
+Carolina Panthers,75,OPEN,
+Cincinnati Bengals,75,OPEN,
+Cleveland Browns,225,OPEN,

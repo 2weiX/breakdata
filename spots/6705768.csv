@@ -1,0 +1,32 @@
+spot,price,state,buyer
+Arizona Cardinals,74,OPEN,
+Atlanta Falcons,28,OPEN,
+Baltimore Ravens,45,OPEN,
+"Carolina Panthers, JAGUARS",54,SOLD,southernbreakers
+Chicago Bears,54,SOLD,nelclinton
+Cleveland Browns,45,OPEN,
+Denver Broncos,41,SOLD,elprimotx
+Detroit Lions,45,OPEN,
+Green Bay Packers,36,OPEN,
+Houston Texans,25,OPEN,
+Indianapolis Colts,25,OPEN,
+Las Vegas Raiders,105,SOLD,flexxdaripper
+Los Angeles Chargers,34,OPEN,
+Los Angeles Rams,74,OPEN,
+Miami Dolphins,28,OPEN,
+Minnesota Vikings,39,OPEN,
+New England Patriots,74,OPEN,
+New Orleans Saints,48,OPEN,
+New York Jets,37,OPEN,
+Philadelphia Eagles,48,OPEN,
+Pittsburgh Steelers,31,SOLD,bodybuiltbytacobell
+San Francisco 49ers,40,SOLD,scotka
+Seattle Seahawks,48,OPEN,
+Tampa Bay Buccaneers,54,SOLD,cahill1984
+Tennessee Titans,70,OPEN,
+Washington Commanders,39,OPEN,
+"NIL Teams (A-G) ~ (23) Total Teams ~ (3) Case Hit Teams: BYU, California, Cincinnati ",39,OPEN,
+"NIL Teams (H-M) ~ (20) Total Teams ~ (5) Case Hit Teams: Indiana, Kentucky, Miami, Michigan, Mississippi State",49,OPEN,
+"NIL Teams (N-S) ~ (21) Total Teams ~ (5) Case Hit Teams: Notre Dame, Oklahoma, Oklahoma State, Ole Miss, South Carolina",70,OPEN,
+"NIL Teams (T-Z) ~ (24) Total Teams ~ (5) Case Hit Teams: Texas, Texas A&M, USC, Vanderbilt, Washington",65,OPEN,
+Kansas City Chiefs,74,OPEN,

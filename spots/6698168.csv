@@ -1,31 +1,25 @@
 spot,price,state,buyer
-Arizona Cardinals,65,OPEN,
-Atlanta Falcons,45,OPEN,
-Baltimore Ravens,55,OPEN,
-Carolina Panthers,52,OPEN,
+Arizona Cardinals,52,SOLD,henryt175
+Atlanta Falcons,25,SOLD,jonesmccoy
+Carolina Panthers,38,SOLD,henryt175
 Chicago Bears,44,SOLD,chirockcards
 Cincinnati Bengals,40,SOLD,henryt175
-Cleveland Browns,52,OPEN,
-Dallas Cowboys,58,OPEN,
-Denver Broncos,52,OPEN,
-Detroit Lions,48,OPEN,
-Houston Texans,38,OPEN,
-Indianapolis Colts,48,OPEN,
-Jacksonville Jaguars,48,OPEN,
+Cleveland Browns,40,SOLD,kimchipapi33
+Denver Broncos & Cowboys,75,SOLD,henryt175
+Detroit Lions,38.4,SOLD,benhem
+Houston Texans,28,SOLD,ameratraders
+Indianapolis Colts,28,SOLD,jonesmccoy
 "Las Vegas Raiders, Chiefs, Bills & Packers",220,SOLD,henryt175
-Los Angeles Chargers,48,OPEN,
-Los Angeles Rams,58,OPEN,
-Miami Dolphins,48,OPEN,
-Minnesota Vikings,42,OPEN,
-New England Patriots,65,OPEN,
-New Orleans Saints,48,OPEN,
-New York Giants,52,OPEN,
-New York Jets,42,OPEN,
-Philadelphia Eagles,48,OPEN,
-Pittsburgh Steelers,48,OPEN,
-San Francisco 49ers,55,OPEN,
-Seattle Seahawks,48,OPEN,
-Tampa Bay Buccaneers,65,OPEN,
-Tennessee Titans,52,OPEN,
-Washington Commanders,45,OPEN,
-NIL Spot/ All College Teams,140,OPEN,
+Los Angeles Rams,42,SOLD,henryt175
+Minnesota Vikings,28,SOLD,jonesmccoy
+New England Patriots,48,SOLD,ameratraders
+New Orleans Saints,28,SOLD,sunriseskip
+New York Giants & Steelers,75,SOLD,jonesmccoy
+New York Jets,25,SOLD,benhem
+Philadelphia Eagles,30,SOLD,jonesmccoy
+San Francisco 49ers,40,SOLD,ameratraders
+Seattle Seahawks,33.6,SOLD,lurkinglarry101
+Tampa Bay Buccaneers,46,SOLD,ameratraders
+Tennessee Titans,38,SOLD,jonesmccoy
+Washington Commanders & Dolphins,65,SOLD,jonesmccoy
+NIL Spot/ All College Teams,115,SOLD,henryt175

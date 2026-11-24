@@ -1,38 +1,50 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-MISC,,OPEN,
-GOAT,,OPEN,
-GOAT,,OPEN,
-GOAT,,OPEN,
-GOAT,,OPEN,
+T,133,SOLD,breakinbacon
+Las Vegas Raiders,120,SOLD,asassen
+MISC,25,SOLD,slantbreaks
+Los Angeles Rams,130,SOLD,johnkho23
+GOAT,120,SOLD,jaxpav
+New York Giants,99,SOLD,bglenn1522
+T,97,SOLD,bglenn1522
+Green Bay Packers,122,SOLD,krav23
+Los Angeles Chargers,122,SOLD,krav23
+T,122,SOLD,krav23
+Cincinnati Bengals,122,SOLD,krav23
+T,120,SOLD,breakinbacon
+T,111,SOLD,breakinbacon
+Buffalo Bills,122,SOLD,breakinbacon
+T,112,SOLD,brendanhen41409
+Minnesota Vikings,121,SOLD,breakinbacon
+T,103.2,SOLD,higherlander
+Dallas Cowboys,126,SOLD,higherlander
+GOAT,125,SOLD,brendanhen41409
+Jacksonville Jaguars,116,SOLD,higherlander
+GOAT,121,SOLD,higherlander
+T,117,SOLD,brendanhen41409
+GOAT,122,SOLD,jaxpav
+New England Patriots,78,SOLD,brendanhen41409
+T,99,SOLD,wildcats2686
+Chicago Bears,114,SOLD,wildcats2686
+Indianapolis Colts,98,SOLD,brendanhen41409
+Carolina Panthers,96,SOLD,jaxpav
+Detroit Lions,79,SOLD,brendanhen41409
+T,87,SOLD,delidad3
+Cleveland Browns,89,SOLD,brendanhen41409
+T,81,SOLD,brendanhen41409
+Kansas City Chiefs,92,SOLD,g_manly
+San Francisco 49ers,60,SOLD,delidad3
+Denver Broncos,1,SOLD,bglenn1522
+T,16,SOLD,bglenn1522
+Pittsburgh Steelers,26,SOLD,bglenn1522
+Philadelphia Eagles,20,SOLD,_marshall1
+Washington Commanders,18,SOLD,jaxpav
+Seattle Seahawks,17,SOLD,jaxpav
+Miami Dolphins,20,SOLD,jaxpav
+Baltimore Ravens,16,SOLD,jonnykabooms
+New Orleans Saints,15,SOLD,wildcats2686
+Arizona Cardinals,11,SOLD,krav23
+Houston Texans,13,SOLD,krav23
+Tampa Bay Buccaneers,12,SOLD,krav23
+Tennessee Titans,13,SOLD,krav23
+New York Jets,15,SOLD,bigs123
+Atlanta Falcons,17,SOLD,bigs123

@@ -1,0 +1,33 @@
+spot,price,state,buyer
+Arizona Cardinals,185,OPEN,
+Atlanta Falcons,50,OPEN,
+Baltimore Ravens,65,OPEN,
+Buffalo Bills,185,OPEN,
+Carolina Panthers,60,OPEN,
+Chicago Bears,180,OPEN,
+Cincinnati Bengals,40,SOLD,my_breaking_point
+Cleveland Browns,65,SOLD,clevelandcayce
+Dallas Cowboys,100,OPEN,
+Denver Broncos,80,SOLD,wrinkledeggroll
+Detroit Lions,31,SOLD,codyshin
+Green Bay Packers,65,OPEN,
+Houston Texans,28,SOLD,wdcardvault
+Indianapolis Colts,65,OPEN,
+Jacksonville Jaguars,120,OPEN,
+Kansas City Chiefs,150,OPEN,
+Las Vegas Raiders,335,SOLD,clevelandcayce
+Los Angeles Chargers,60,OPEN,
+Los Angeles Rams,180,OPEN,
+Miami Dolphins,60,SOLD,harcan12470
+Minnesota Vikings,52,SOLD,takatak44
+New England Patriots,250,OPEN,
+New Orleans Saints,125,OPEN,
+New York Giants,195,OPEN,
+New York Jets,60,SOLD,codyshin
+Philadelphia Eagles,105,OPEN,
+Pittsburgh Steelers,105,OPEN,
+San Francisco 49ers,100,SOLD,harcan12470
+Seattle Seahawks,100,SOLD,codyshin
+Tampa Bay Buccaneers,52,SOLD,my_breaking_point
+Tennessee Titans,125,SOLD,codyshin
+Washington Commanders,125,OPEN,

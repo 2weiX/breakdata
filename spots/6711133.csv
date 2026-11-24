@@ -1,0 +1,37 @@
+spot,price,state,buyer
+Philadelphia Eagles,101,SOLD,michaeltho19509
+Los Angeles Chargers,127,SOLD,michaeltho19509
+#3,124,SOLD,michaeltho19509
+Buffalo Bills,131,SOLD,mrfunkocardz
+Kansas City Chiefs,132,SOLD,mrfunkocardz
+#6,125,SOLD,mrfunkocardz
+Cincinnati Bengals,141,SOLD,mrfunkocardz
+Green Bay Packers,131,SOLD,kvkasser
+Minnesota Vikings,130,SOLD,mrfunkocardz
+#10,155,SOLD,mrfunkocardz
+Detroit Lions,161,SOLD,joew2424
+#12,161,SOLD,joew2424
+San Francisco 49ers,166,SOLD,joew2424
+Chicago Bears,236,SOLD,mrfunkocardz
+#15,116,SOLD,mrfunkocardz
+Pittsburgh Steelers,136,SOLD,joew2424
+#17,130,SOLD,kvkasser
+New England Patriots,145,SOLD,kvkasser
+Misc,120,SOLD,kvkasser
+Los Angeles Rams,53,SOLD,mrfunkocardz
+Baltimore Ravens,50,SOLD,mrfunkocardz
+Dallas Cowboys,53,SOLD,mrfunkocardz
+Denver Broncos,54,SOLD,mrfunkocardz
+Cleveland Browns,65,SOLD,mrfunkocardz
+Washington Commanders,61,SOLD,mrfunkocardz
+Atlanta Falcons,69,SOLD,chazosen
+#27,71,SOLD,chazosen
+New York Giants,74,SOLD,chazosen
+Carolina Panthers,44,SOLD,kvkasser
+#30,47,SOLD,kvkasser
+#31,105,SOLD,mrfunkocardz
+#32,26,SOLD,mrfunkocardz
+#33,36,SOLD,mrfunkocardz
+#34,5,SOLD,mrfunkocardz
+#35,12,SOLD,mrfunkocardz
+"Arizona Cardinals, Houston Texans, Indianapolis Colts, Jacksonville Jaguars, Las Vegas Raiders, Miami Dolphins, New Orleans Saints, New York Jets, Seattle Seahawks, Tampa Bay Buccaneers, Tennessee Titans",100,SOLD,mrfunkocardz

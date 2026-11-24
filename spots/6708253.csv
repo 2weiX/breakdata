@@ -4,11 +4,9 @@ Atlanta Falcons,29,OPEN,
 Baltimore Ravens,35,OPEN,
 Buffalo Bills,39,OPEN,
 Carolina Panthers,35,OPEN,
-Chicago Bears,23.2,SOLD,firebird6901
+#6,29,SOLD,firebird6901
 Cincinnati Bengals,39,OPEN,
 Cleveland Browns,45,OPEN,
-Dallas Cowboys,39,SOLD,brandonobbie
-Denver Broncos,29,SOLD,brandonobbie
 Detroit Lions,35,OPEN,
 Green Bay Packers,29,OPEN,
 Houston Texans,35,OPEN,
@@ -31,3 +29,6 @@ Seattle Seahawks,39,OPEN,
 Tampa Bay Buccaneers,29,OPEN,
 Tennessee Titans,49,OPEN,
 Washington Commanders,39,OPEN,
+Chicago Bears,29,OPEN,
+Denver Broncos,29,OPEN,
+Dallas Cowboys,39,OPEN,

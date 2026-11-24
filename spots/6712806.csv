@@ -1,0 +1,35 @@
+spot,price,state,buyer
+Los Angeles Chargers,1,SOLD,mikeary
+Jacksonville Jaguars,1,SOLD,mikeary
+Miami Dolphins,1,SOLD,mikeary
+Seattle Seahawks,1,SOLD,mikeary
+Dallas Cowboys,1,SOLD,mikeary
+Buffalo Bills,2,SOLD,mikeary
+#7,1,SOLD,nickemo
+Washington Commanders,2,SOLD,mikeary
+#9,3,SOLD,nickemo
+Kansas City Chiefs,3,SOLD,mikeary
+Baltimore Ravens,3,SOLD,nickemo
+Pittsburgh Steelers,2,SOLD,mikeary
+New York Giants,2,SOLD,nickemo
+Chicago Bears,3,SOLD,mikeary
+Cincinnati Bengals,3,SOLD,mikeary
+#16,3,SOLD,nickemo
+Denver Broncos,3,SOLD,mikeary
+#18,2,SOLD,nickemo
+Los Angeles Rams,2,SOLD,mikeary
+New England Patriots,1,SOLD,mikeary
+New York Jets,1,SOLD,mikeary
+Green Bay Packers,5,SOLD,mikeary
+Las Vegas Raiders,5,SOLD,mikeary
+Houston Texans,1,SOLD,mikeary
+Atlanta Falcons,1,SOLD,mikeary
+Philadelphia Eagles,1,SOLD,dallas214017
+Cleveland Browns,1,SOLD,dallas214017
+Minnesota Vikings,1,SOLD,dallas214017
+Indianapolis Colts,1,SOLD,dallas214017
+San Francisco 49ers,1,SOLD,dallas214017
+Detroit Lions,5,SOLD,dallas214017
+New Orleans Saints,1,SOLD,dallas214017
+Tampa Bay Buccaneers,5,SOLD,dallas214017
+"Arizona Cardinals, Carolina Panthers, Tennessee Titans",9,SOLD,dallas214017
