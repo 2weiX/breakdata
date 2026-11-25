@@ -1,7 +1,6 @@
 spot,price,state,buyer
-Spot 1,35,OPEN,
 Spot 2,35,OPEN,
-Spot 3,35,OPEN,
+Spot 3,35,SOLD,brandonrab13406
 Spot 4,35,OPEN,
 Spot 5,35,OPEN,
 Spot 6,35,OPEN,

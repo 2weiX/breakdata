@@ -1,2 +1,29 @@
 spot,price,state,buyer
-#1,1,OPEN,
+Buffalo Bills,6,SOLD,307fubar82
+Green Bay Packers,7,SOLD,307fubar82
+"Cleveland Browns, New York Giants, San Francisco 49ers",76,SOLD,andrewcla91994
+"Jacksonville Jaguars, Las Vegas Raiders",32,SOLD,andrewcla91994
+Detroit Lions,32,SOLD,mjhill99
+Dallas Cowboys,41,SOLD,mjhill99
+Tennessee Titans,11,SOLD,fortier33
+Philadelphia Eagles,11,SOLD,bigbolt1976
+Indianapolis Colts,10,SOLD,whatgoesup
+"Denver Broncos, Kansas City Chiefs",7,SOLD,francopizzza
+Los Angeles Rams,9,SOLD,fortier33
+Pittsburgh Steelers,10,SOLD,whatgoesup
+New England Patriots,4,SOLD,ninernation999
+Seattle Seahawks,9,SOLD,brianjan
+Los Angeles Chargers,9,SOLD,stinky_cheese_guy
+Arizona Cardinals,10,SOLD,brianjan
+Chicago Bears,14,SOLD,brianjan
+Cincinnati Bengals,9,SOLD,stinky_cheese_guy
+Minnesota Vikings,6,SOLD,bigbolt1976
+Carolina Panthers,5,SOLD,zack_da_man
+New York Jets,6,SOLD,zack_da_man
+Atlanta Falcons,7,SOLD,zack_da_man
+New Orleans Saints,8,SOLD,zack_da_man
+Tampa Bay Buccaneers,8,SOLD,zack_da_man
+Baltimore Ravens,8,SOLD,zack_da_man
+Miami Dolphins,9,SOLD,whatgoesup
+Washington Commanders,8,SOLD,zack_da_man
+Houston Texans,8,SOLD,zack_da_man

@@ -1,14 +1,16 @@
 spot,price,state,buyer
-Arizona Cardinals,5,OPEN,
+Arizona Cardinals,5,SOLD,discrftbuzzz10
 Atlanta Falcons,5,OPEN,
+Carolina Panthers,5,SOLD,r8drmatt
 Cincinnati Bengals,5,SOLD,gufmichael
+Cleveland Browns,5,SOLD,r8drmatt
 Dallas Cowboys,5,SOLD,dgarry613
-Denver Broncos,5,OPEN,
+Denver Broncos,5,SOLD,jc_trading_post
 Detroit Lions,4,SOLD,samtheham203
 Houston Texans,5,OPEN,
 Indianapolis Colts,5,OPEN,
 Los Angeles Chargers,5,OPEN,
-Los Angeles Rams,5,OPEN,
+Los Angeles Rams,5,SOLD,stinky_cheese_guy
 Miami Dolphins,5,OPEN,
 Minnesota Vikings,5,OPEN,
 New England Patriots,5,SOLD,tedmah73715
@@ -17,8 +19,6 @@ New York Jets,5,OPEN,
 Philadelphia Eagles,5,OPEN,
 Pittsburgh Steelers,5,OPEN,
 Seattle Seahawks,5,OPEN,
-Tampa Bay Buccaneers,5,OPEN,
+Tampa Bay Buccaneers,5,SOLD,stinky_cheese_guy
 Tennessee Titans,5,OPEN,
 Washington Commanders,5,OPEN,
-Carolina Panthers,5,SOLD,r8drmatt
-Cleveland Browns,5,SOLD,r8drmatt
