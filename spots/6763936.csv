@@ -1,34 +1,40 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-Misc,,OPEN,
+#1,70,SOLD,mooresmoke
+Detroit Lions,78,SOLD,mooresmoke
+Baltimore Ravens,73,SOLD,izzy_215
+Kansas City Chiefs,71,SOLD,izzy_215
+Green Bay Packers,71,SOLD,treyhat
+Chicago Bears,70,SOLD,pearson627
+#7,73,SOLD,pearson627
+Los Angeles Rams,68,SOLD,pearson627
+Tennessee Titans,79,SOLD,pearson627
+#10,69,SOLD,izzy_215
+Dallas Cowboys,84,SOLD,pearson627
+Los Angeles Chargers,77,SOLD,izzy_215
+Denver Broncos,65,SOLD,izzy_215
+New England Patriots,69,SOLD,pearson627
+Las Vegas Raiders,70,SOLD,pearson627
+San Francisco 49ers,69,SOLD,treyhat
+#17,67,SOLD,skunkstreet
+#18,59,SOLD,skunkstreet
+Misc,66,SOLD,skunkstreet
+Buffalo Bills,58,SOLD,ajderoche22
+Houston Texans,58,SOLD,isellcardz2u
+Philadelphia Eagles,54,SOLD,backtoback88
+Cincinnati Bengals,52,SOLD,isellcardz2u
+Pittsburgh Steelers,59,SOLD,mooresmoke
+New Orleans Saints,41,SOLD,bostonsportzcardz
+Washington Commanders,53,SOLD,ajderoche22
+Cleveland Browns,46,SOLD,backtoback88
+Minnesota Vikings,41,SOLD,treyhat
+#29,112,SOLD,pearson627
+New York Giants,117,SOLD,pearson627
+Tampa Bay Buccaneers,19,SOLD,isellcardz2u
+Seattle Seahawks,36,SOLD,sethvincent99
+Jacksonville Jaguars,31,SOLD,neatplans3385
+Indianapolis Colts,22,SOLD,neatplans3385
+Atlanta Falcons,26,SOLD,sethvincent99
+Carolina Panthers,16,SOLD,neatplans3385
+Arizona Cardinals,8,SOLD,zactaylor44
+Miami Dolphins,9,SOLD,bostonsportzcardz
+New York Jets,5,SOLD,neatplans3385

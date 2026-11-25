@@ -1,0 +1,43 @@
+spot,price,state,buyer
+#1,394,SOLD,chambergs
+Baltimore Ravens,360,SOLD,chambergs
+Buffalo Bills,403,SOLD,chambergs
+Dallas Cowboys,403,SOLD,chambergs
+Los Angeles Chargers,369.75,SOLD,dkass75
+#6,444,SOLD,dkass75
+Kansas City Chiefs,361,SOLD,chambergs
+Denver Broncos,471,SOLD,roojo
+#9,464,SOLD,dkass75
+Cincinnati Bengals,466,SOLD,chambergs
+Los Angeles Rams,444,SOLD,chambergs
+Detroit Lions,425,SOLD,chambergs
+#13,425,SOLD,chambergs
+Cleveland Browns,332.35,SOLD,str8cashhomey
+#15,411,SOLD,chambergs
+#16,330,SOLD,chambergs
+Minnesota Vikings,351,SOLD,anthpicklez
+#18,391,SOLD,chambergs
+#19,361,SOLD,chambergs
+"Chicago Bears, Indianapolis Colts",306,SOLD,patoc15119
+New York Giants,360,SOLD,patoc15119
+#22,281.35,SOLD,andrewf85
+Pittsburgh Steelers,349,SOLD,andrewf85
+New York Jets,415,SOLD,patoc15119
+Tampa Bay Buccaneers,355,SOLD,anthpicklez
+MISC,260,SOLD,andrewf85
+Green Bay Packers,200,SOLD,jay2141
+Philadelphia Eagles,199,SOLD,andrewf85
+#29,198,SOLD,andrewf85
+Las Vegas Raiders,190,SOLD,anthpicklez
+#31,170,SOLD,anthpicklez
+Miami Dolphins,190,SOLD,loe13
+Arizona Cardinals,155,SOLD,jay2141
+Carolina Panthers,5,SOLD,patoc15119
+Tennessee Titans,5,SOLD,patoc15119
+"Jacksonville Jaguars, New Orleans Saints",31,SOLD,jeborisdrip
+Seattle Seahawks,23,SOLD,artiez
+Washington Commanders,40,SOLD,djb87
+Houston Texans,36,SOLD,djb87
+Atlanta Falcons,62,SOLD,patoc15119
+San Francisco 49ers,966.45,SOLD,pokinets
+New England Patriots,1044,SOLD,pokinets

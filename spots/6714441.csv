@@ -1,33 +1,38 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+#1,135,SOLD,callmerag
+#2,165,SOLD,wilziah
+#3,175,SOLD,wilziah
+#4,160,SOLD,wilziah
+#5,165,SOLD,wilziah
+#6,145,SOLD,slantbreaks
+#7,150,SOLD,wilziah
+#8,135,SOLD,callmerag
+#9,125,SOLD,mikehar45658
+#10,130,SOLD,brettlau
+#11,125,SOLD,callmerag
+#12,135,SOLD,wilziah
+#13,140,SOLD,wilziah
+#14,195,SOLD,wilziah
+#15,145,SOLD,slantbreaks
+#16,160,SOLD,slantbreaks
+#17,157,SOLD,wilziah
+#18,150,SOLD,hodge_podge_
+#19,151,SOLD,brettlau
+#20,154,SOLD,hodge_podge_
+#21,145,SOLD,brettlau
+#22,135,SOLD,wilziah
+#23,220,SOLD,drwilson1997
+#24,160,SOLD,wilziah
+#25,190,SOLD,drwilson1997
+#26,203,SOLD,wilziah
+#27,155,SOLD,dmoney0830
+#28,170,SOLD,terrifier1992
+#29,66,SOLD,mikehar45658
+#30,45,SOLD,callmerag
+#31,49,SOLD,domenicofot
+#32,46,SOLD,drwilson1997
+#33,67,SOLD,drwilson1997
+#34,69,SOLD,drwilson1997
+#35,107,SOLD,drwilson1997
+#36,176,SOLD,drwilson1997
+#37,320,SOLD,drwilson1997

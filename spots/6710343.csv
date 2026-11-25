@@ -1,17 +1,17 @@
 spot,price,state,buyer
-Indiana,49,OPEN,
+Indiana,20,SOLD,cola_bombsquad
 Iowa State,15,SOLD,cdawgcollectibles
-Kansas State,19,OPEN,
-Michigan,29,OPEN,
-Mississippi State,49,OPEN,
-Missouri,19,OPEN,
-Nebraska,29,OPEN,
+Kansas State,7,SOLD,hobottnews
+Michigan,19,SOLD,tuckfreyer
+Mississippi State,29,SOLD,cola_bombsquad
+Missouri,9,SOLD,blawke
+Nebraska,17,SOLD,weems86
 Ohio State,59,SOLD,hawk2424
 Oklahoma,21,SOLD,405_brad
-Oklahoma State,69,OPEN,
+Oklahoma State,45,SOLD,blawke
 Ole Miss,42,SOLD,bw2012
 Texas,24.65,SOLD,tuckfreyer
-Texas Tech,19,OPEN,
+Texas Tech,7,SOLD,gearupcards
 UCLA,13,SOLD,hobottnews
-USC,39,OPEN,
-West Virginia,19,OPEN,
+USC,18,SOLD,blawke
+West Virginia,6,SOLD,hobottnews

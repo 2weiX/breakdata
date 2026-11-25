@@ -1,0 +1,39 @@
+spot,price,state,buyer
+Arizona Cardinals,39,OPEN,
+Atlanta Falcons,30,SOLD,zachzac91271
+Buffalo Bills,31.2,SOLD,cardg85
+Carolina Panthers,15,SOLD,zachzac91271
+Chicago Bears,59,SOLD,mfic69
+Cincinnati Bengals,39,OPEN,
+Cleveland Browns,39,OPEN,
+Dallas Cowboys,39,OPEN,
+Denver Broncos,39,SOLD,mfic69
+Detroit Lions,29,SOLD,strinity19
+Green Bay Packers,19,SOLD,wed33
+Houston Texans,14,SOLD,snook_boyz_breaks
+Indianapolis Colts,19,SOLD,wed33
+Jacksonville Jaguars,19,SOLD,zachzac91271
+Kansas City Chiefs,47,SOLD,rkbull
+Las Vegas Raiders,79,OPEN,
+Los Angeles Chargers,15,SOLD,seansummers
+Los Angeles Rams,29,SOLD,cardg85
+Miami Dolphins,29,OPEN,
+Minnesota Vikings,29,OPEN,
+New England Patriots,49,OPEN,
+New Orleans Saints,39,OPEN,
+New York Giants,39,OPEN,
+New York Jets,19,SOLD,wed33
+Philadelphia Eagles,14,SOLD,cardg85
+Pittsburgh Steelers,39,OPEN,
+San Francisco 49ers,39,SOLD,cardg85
+Seattle Seahawks,23,SOLD,snook_boyz_breaks
+Tampa Bay Buccaneers,49,OPEN,
+Tennessee Titans,49,OPEN,
+Washington Commanders,29,SOLD,mfic69
+"COLLEGE: ENTIRE BIG TEN: Michigan, Ohio State, Penn State, Oregon, USC, Washington, Illinois, Indiana, Iowa, Maryland, Michigan State, Minnesota, Nebraska, Northwestern, Purdue, Rutgers, UCLA, and Wisconsin",71.1,SOLD,snook_boyz_breaks
+"COLLEGE: Entire SEC EXCEPT TEXAS (TEXAS SOLD INDVIDUALLY): ALABAMA, ARKANSAS, AUBURN, FLORIDA, GEORGIA, KENTUCKY, LSU, MISSISSIPI STATE, MISSOURI, OKLAHAMA, OLE MISS, SOUTH CAROLINA, TENNESSEE, TEXAS A & M, VANDERBILT",79,OPEN,
+"COLLEGE: ENTIRE BIG TWELVE: Arizona, Baylor, Colorado, Utah, Arizona State, BYU, Cincinnati, Houston, Iowa State, Kansas, Kansas State, Oklahoma State, TCU, Texas Tech, UCF, and West Virginia",79,OPEN,
+"COLLEGE: ENTIRE ACC: Clemson, Florida State, Miami, Stanford, Boston College, California, Duke, Louisville, NC State, Pittsburgh, SMU, Syracuse, UNC, Virginia, and Wake Forest",79,OPEN,
+TEXAS,49,OPEN,
+"COLLEGE: GROUP OF FIVE AND UCONN AND HIGH SCHOOLS: Akron, Boise State, Delaware, Fresno State, Louisiana (ULL), New Mexico, San Diego State, Texas State, Tulsa, UNLV, Western Kentucky, Western Michigan, Washington State, and Wyoming",39,OPEN,
+NOTRE DAME,39,OPEN,

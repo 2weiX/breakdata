@@ -1,32 +1,31 @@
 spot,price,state,buyer
-Indianapolis Colts,19,OPEN,
-Atlanta Falcons,19,OPEN,
+Indianapolis Colts,15.2,SOLD,alnurse22
+Atlanta Falcons,15.2,SOLD,alnurse22
 Houston Texans,19,OPEN,
-New York Jets,19,OPEN,
-Jacksonville Jaguars,21,OPEN,
-Los Angeles Chargers,21,OPEN,
-Miami Dolphins,23,OPEN,
-Pittsburgh Steelers,26,OPEN,
+New York Jets,14.55,SOLD,cb_tradingcardz
+Jacksonville Jaguars,16.8,SOLD,remitank
+Los Angeles Chargers,15,SOLD,gavinc802
+Miami Dolphins/Pittsburgh Steelers,35,SOLD,squilliamfancy01
 Minnesota Vikings,29,SOLD,cmattson99
-Cleveland Browns,38,OPEN,
-Denver Broncos,41,OPEN,
-Baltimore Ravens,43,OPEN,
-Philadelphia Eagles,46,OPEN,
-Detroit Lions,55,OPEN,
+Chicago Bears,30,SOLD,csminix46
+New York Giants,30.4,SOLD,onegiantloss
+Cleveland Browns,36.1,SOLD,cmattson99
+Denver Broncos,24.5,SOLD,5280rips
+Baltimore Ravens,34.4,SOLD,bigalbreaks
+Philadelphia Eagles,28.8,SOLD,alnurse22
+Green Bay Packers,32.3,SOLD,thos13
+Detroit Lions,33.95,SOLD,dalinsi
 New Orleans Saints,58,OPEN,
+Cincinnati Bengals/Washington Commanders,72,SOLD,mikew1
 Carolina Panthers,63,OPEN,
-Seattle Seahawks,66,OPEN,
+Seattle Seahawks,62.7,SOLD,cmattson99
 Tennessee Titans,65.55,SOLD,cmattson99
-Tampa Bay Buccaneers,72,OPEN,
-Dallas Cowboys,72,OPEN,
+Tampa Bay Buccaneers,72,SOLD,cmattson99
+San Francisco 49ers,54.6,SOLD,deerivers702
 Buffalo Bills,78,OPEN,
-Kansas City Chiefs,78,OPEN,
+Kansas City Chiefs,48.51,SOLD,cb_tradingcardz
 Los Angeles Rams,81,OPEN,
 New England Patriots,93,OPEN,
 Arizona Cardinals,115,OPEN,
 Las Vegas Raiders,149,OPEN,
-San Francisco 49ers,54.6,SOLD,deerivers702
-Chicago Bears,30,SOLD,csminix46
-New York Giants,30.4,SOLD,onegiantloss
-Green Bay Packers,32.3,SOLD,thos13
-Cincinnati Bengals/Washington Commanders,72,SOLD,mikew1
+New York Giants,29.1,SOLD,cb_tradingcardz

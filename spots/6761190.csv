@@ -1,70 +1,68 @@
 spot,price,state,buyer
 Alabama,99,OPEN,
-Duke,40,OPEN,
-Maryland,25,OPEN,
+Delaware,16,SOLD,va_wildman
+Duke,20,SOLD,jricciok9
+LSU,32,SOLD,rippinautos
+Maryland,5,SOLD,hamberg99
+Michigan & Texas Tech,145,SOLD,dw2835
 Michigan State,75,OPEN,
-NC State/New Mexico,20,OPEN,
-Nebraska,75,OPEN,
+NC State/New Mexico,10,SOLD,hamberg99
+Nebraska,35,SOLD,andrewolson84
+Northwestern,15,SOLD,dw2835
 Oklahoma,99,OPEN,
 Ole Miss,42,SOLD,rebelbeachgirl
 Purdue,12.5,SOLD,ryan_shelly218
 Rutgers,65,OPEN,
 Tennessee,60,OPEN,
-Tulsa,20,OPEN,
-UCF,35,OPEN,
+Texas,275,SOLD,stephenang30023
+Tulsa,6,SOLD,jasontur57554
+UCF,20,SOLD,trevorgeo
 Vanderbilt,125,OPEN,
 Washington,115,OPEN,
+West Virginia,30,SOLD,mikemcgin1979
 Wisconsin,40,OPEN,
+Wyoming,12,SOLD,dw2835
 Akron/Arizona/Boise State/Boston College/Fresno State/Iowa/Minnesota/Penn State/UNLV/Western Michigan,115,OPEN,
 Arizona State,63,SOLD,dkz1314
 Arkansas,55,OPEN,
 Auburn,35,OPEN,
 Baylor,30,OPEN,
-BYU,199,OPEN,
-California,85,OPEN,
+BYU,159.2,SOLD,duckyboy_cards
+California,68,SOLD,2esea
 Cincinnati,45,OPEN,
+Clemson,16,SOLD,dw2835
 Colorado,25,OPEN,
-Florida,99,OPEN,
+Florida,70,SOLD,darrick_druce
+Florida State,24,SOLD,dw2835
 Georgia,85,OPEN,
 High School,49,SOLD,jkeller622
-Houston,25,OPEN,
+Houston,10,SOLD,handcuffs
 Illinois,60,OPEN,
-Indiana,199,OPEN,
+Indiana,115,SOLD,keepelevated
 Iowa State,20,SOLD,saml107
-Kansas,50,OPEN,
+Kansas,50,SOLD,michaelfar62462
 Kansas State,75,OPEN,
-Kentucky,99,OPEN,
-Louisiana,20,OPEN,
-Miami,350,OPEN,
-Missouri,45,OPEN,
-Notre Dame,399,OPEN,
-Ohio State,85,OPEN,
-Oklahoma State,215,SOLD,bricktamland415
-Pittsburgh,65,OPEN,
-SMU/San Diego State,45,OPEN,
-South Carolina,125,OPEN,
-Stanford,60,OPEN,
-TCU,45,OPEN,
-Texas A&M,85,OPEN,
-Texas State,28,SOLD,amg1204
-UCLA,45,OPEN,
-UConn,20,OPEN,
-USC,199,OPEN,
-Utah,90,OPEN,
-Wake Forest,125,OPEN,
-Western Kentucky,30,OPEN,
-Delaware,16,SOLD,va_wildman
-West Virginia,30,SOLD,mikemcgin1979
-Clemson,16,SOLD,dw2835
-Florida State,24,SOLD,dw2835
-Syracuse,15,SOLD,mikemcgin1979
-LSU,50,OPEN,
-Michigan & Texas Tech,145,SOLD,dw2835
-Northwestern,15,SOLD,dw2835
-Texas,275,SOLD,stephenang30023
-Wyoming,12,SOLD,dw2835
+Kentucky,70,SOLD,andrewoverstreet
+Louisiana,7,SOLD,jonpeay
 Louisville,1,SOLD,trinity_cards
+Miami,265,SOLD,bricktamland415
 Mississippi State,159.2,SOLD,handcuffs
+Missouri,25,SOLD,rippinautos
 North Carolina,25,SOLD,trinity_cards
+Notre Dame,275,SOLD,slkwilly23
+Ohio State,60,SOLD,coastalbin
+Oklahoma State,215,SOLD,bricktamland415
+Pittsburgh,30,SOLD,mike13jones
+SMU/San Diego State + Texas A&M + TCU,120,SOLD,seanzer83
+South Carolina,90,SOLD,samueland52025
+Stanford,60,OPEN,
+Syracuse,15,SOLD,mikemcgin1979
+Texas State,28,SOLD,amg1204
+UCLA,25,SOLD,keepelevated
+UConn,5,SOLD,hamberg99
+USC,159,SOLD,jaydoza50
+Utah,55,SOLD,bigantbayarea
 Virginia/Washington State (WSU),16,SOLD,dw2835
-Oregon Ducks,80,OPEN,
+Wake Forest,125,OPEN,
+Western Kentucky,10,SOLD,jonpeay
+Oregon Ducks,55,SOLD,rippinautos

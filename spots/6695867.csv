@@ -1,9 +1,9 @@
 spot,price,state,buyer
 AZ- Carson Beck,299,OPEN,
 AZ- Jeremiah Love,299,OPEN,
-ATL-Atlanta Falcons Team Rest,75,OPEN,
+ATL-Atlanta Falcons Team Rest,7,SOLD,henrylin93105
 ATL-Bijan Robinson,150,OPEN,
-ATL-Zachariah Branch,50,OPEN,
+ATL-Zachariah Branch,4,SOLD,duodeckbreaks
 BAL-Baltimore Ravens Team Rest,75,OPEN,
 BAL- Lamar Jackson,200,OPEN,
 BAL-Derrick Henry,150,OPEN,
@@ -14,18 +14,17 @@ CAR- Bryce Young,319,OPEN,
 CAR- Tetoria Mcmillan,219,OPEN,
 CHI-Chicago Bears Team Rest,50,SOLD,alex153_
 CHI- Caleb Williams,399,OPEN,
-CIN-Cincinnati Bengals Team Rest,75,OPEN,
-CIN-Jamarr Chase,100,OPEN,
+CIN-Jamarr Chase & Cin Rest,75,SOLD,parkcard
 CLE-Cleveland Browns Team Rest,100,OPEN,
 CLE-Denzel Boston,150,OPEN,
 CLE-KC Conception,150,OPEN,
 CLE & RAMS- Myles Garrett,250,OPEN,
 DAL-Dallas Cowboys Team Rest,100,OPEN,
 DAL-Dak Prescott,150,OPEN,
-DAL-Ceedee Lamb,50,OPEN,
+DAL-Ceedee Lamb,10,SOLD,henrylin93105
 DAL-Caleb Downs,199,OPEN,
 DEN- Bo Nix & Den Team Rest,210,SOLD,duodeckbreaks
-DEN-Jonah Coleman,149,OPEN,
+DEN-Jonah Coleman,40,SOLD,parkcard
 DET-Detroit Lions Team Rest,100,OPEN,
 DET-Jahmyr Gibbs,150,OPEN,
 DET-Jared Goff,100,OPEN,
@@ -42,13 +41,13 @@ KC-Kansas City Chiefs Team Rest,100,OPEN,
 KC-Pat Mahomes,599,OPEN,
 KC-Mansoor Delane,100,OPEN,
 KC-Garrett Nussmier,200,OPEN,
-KC-Emmett Johnson,199,OPEN,
-LV-Las Vegas Raiders Team Rest,100,OPEN,
-LV-Mike Washington,50,OPEN,
+KC-Emmett Johnson,75,SOLD,chappy68
+LV-Las Vegas Raiders Team Rest,50,SOLD,azbird77
+LV-Mike Washington,11,SOLD,cardkillacorey
 LV-Fernando Mendoza,799,OPEN,
 LAC-LA Chargers Team Rest,75,OPEN,
 LAC-Justin Herbert,200,OPEN,
-LAC-Omarion Hampton,75,OPEN,
+LAC-Omarion Hampton,5,SOLD,parkcard
 LAR-LA Rams Team Rest,75,OPEN,
 LAR-Matthew Stafford,399,OPEN,
 LAR-Ty Simpson,250,OPEN,
@@ -61,8 +60,8 @@ MIN-Justin Jefferson,150,OPEN,
 NE-New England Patriots Team Rest,100,OPEN,
 NE-Drake Maye,399,OPEN,
 NE-Eli Rairdon,75,OPEN,
-NE & TB- Tom Brady,699,OPEN,
-NYG-New York Giants Team Rest,75,OPEN,
+NE & TB- Tom Brady,9999,OPEN,
+NYG-New York Giants Team Rest,100,OPEN,
 NYG-Jaxson Dart,249,OPEN,
 NYG-Malik Neighbors,75,OPEN,
 NYJ-New York Jets Team Rest,75,OPEN,
@@ -85,8 +84,8 @@ SEA-Jadarian Price,200,OPEN,
 TB-Tampa Bay Bucs Team Rest,75,OPEN,
 TB-Baker Mayfield,100,OPEN,
 TB-Ruben Bain,100,OPEN,
-TB-Emeka Egbuka,50,OPEN,
-TEN-Tennessee Titans Team Rest,75,OPEN,
+TB-Emeka Egbuka,12,SOLD,cardkillacorey
+TEN-Tennessee Titans Team Rest,20,SOLD,rebel1320
 TEN-Cam Ward,200,OPEN,
 TEN-Carnel Tate,250,OPEN,
 WAS-Washington Commanders Team Rest,100,OPEN,

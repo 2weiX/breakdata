@@ -1,0 +1,63 @@
+spot,price,state,buyer
+Akron,8,OPEN,
+Alabama,75,OPEN,
+Arizona,8,OPEN,
+Arizona State,30,SOLD,dkz1314
+Arkansas,30,OPEN,
+Auburn,15,SOLD,mrsloan2785
+Baylor,11,SOLD,unique_sports
+Boise State,8,OPEN,
+Boston College,5.6,SOLD,ssp_steveo_rips
+BYU,110,SOLD,jedsmith
+California,80,OPEN,
+Clemson,20,SOLD,shawnstr82558
+Colorado,12,SOLD,hobottnews
+Delaware,16,SOLD,ju1ior
+Florida,40,SOLD,chef_nate
+Florida State,15,SOLD,blawke
+Fresno State,5.6,SOLD,ssp_steveo_rips
+Georgia,36,SOLD,hope_breaks_dselrod
+Houston,8,SOLD,gatorraid319
+Illinois,20,OPEN,
+Kansas State,20,OPEN,
+Kentucky,65,OPEN,
+Louisiana,10.8,SOLD,georgeaja44605
+Louisville,6,SOLD,tcorn01
+Miami + Duke,180,OPEN,
+Michigan,80,OPEN,
+Michigan State,30,OPEN,
+Minnesota,8,OPEN,
+Mississippi State,140,OPEN,
+NC State,8,OPEN,
+Nebraska,55,OPEN,
+Northwestern,10.5,SOLD,mrsloan2785
+Notre Dame,160,SOLD,wbb21
+Oklahoma,30,SOLD,robertalb96202
+Ole Miss,21,SOLD,dano1292
+Oregon,40,SOLD,jfelker16
+Pittsburgh,25,SOLD,ranga_rips
+Purdue,11,SOLD,unique_sports
+Rutgers,50,OPEN,
+South Carolina,36,SOLD,jbm33
+Syracuse,6,SOLD,hobottnews
+Tennessee,42,SOLD,dano1292
+Texas A&M,60,OPEN,
+Texas State,10,SOLD,gatorraid319
+Texas Tech,60,OPEN,
+Tulsa,6,SOLD,hobottnews
+UCF,20,OPEN,
+UNC,12.75,SOLD,beej_15
+UNLV,8,OPEN,
+USC,70,OPEN,
+Vanderbilt,50,OPEN,
+Wake Forest,40,SOLD,blawke
+West Virginia,15,SOLD,waynehags91
+Western Michigan,8,OPEN,
+Wisconsin,25,OPEN,
+Wyoming,24,SOLD,robertalb96202
+"BUNDLE @dennisl4601 = PSU, SD State, UConn",18,SOLD,dennisl4601
+BUNDLE @jarmston25 = Washington + Washington State,38,SOLD,jarmston25
+"BUNDLE @labfam5 = Iowa State, Kansas, Stanford, UCLA",56,SOLD,labfam5
+Cincinnati,25,OPEN,
+"BUNDLE @waynehags91 = Missouri, Ohio State, SMU, TCU, Utah, Virginia, WKU",165,SOLD,waynehags91
+BUNDLE @rmlinn = Indiana + LSU,105,SOLD,rmlinn

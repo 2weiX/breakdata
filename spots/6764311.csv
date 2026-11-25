@@ -1,34 +1,38 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-MISC,,OPEN,
+Los Angeles Chargers,5,SOLD,chazosen
+Baltimore Ravens,135,SOLD,vegasmann
+Los Angeles Rams,2,SOLD,chazosen
+#4,44,SOLD,vegasmann
+New England Patriots,48,SOLD,vegasmann
+New York Giants,64,SOLD,vegasmann
+Kansas City Chiefs,84,SOLD,vegasmann
+#8,69,SOLD,vegasmann
+Pittsburgh Steelers,57,SOLD,vegasmann
+Atlanta Falcons,48,SOLD,ellbeau
+Denver Broncos,42,SOLD,jesgar29487
+MISC,70,SOLD,jesgar29487
+#13,63,SOLD,ellbeau
+Seattle Seahawks,84,SOLD,phill_mianis
+Minnesota Vikings,0,SOLD,luxecardemporium_
+San Francisco 49ers,4,SOLD,luxecardemporium_
+Cleveland Browns,68,SOLD,phill_mianis
+Indianapolis Colts,77,SOLD,pocket_protector
+Detroit Lions,74,SOLD,phill_mianis
+Chicago Bears,68,SOLD,sheehan45
+#21,54,SOLD,gonzoman717
+Buffalo Bills,45,SOLD,phill_mianis
+Arizona Cardinals,46,SOLD,rb23
+Jacksonville Jaguars,59,SOLD,rb23
+Green Bay Packers,69,SOLD,rb23
+Philadelphia Eagles,69,SOLD,rb23
+Las Vegas Raiders,63,SOLD,gonzoman717
+Houston Texans,65,SOLD,gonzoman717
+Tampa Bay Buccaneers,46,SOLD,rb23
+#30,38,SOLD,rb23
+Carolina Panthers,50,SOLD,urban56
+#32,64,SOLD,rb23
+Dallas Cowboys,105,SOLD,rb23
+Cincinnati Bengals,65,SOLD,gonzoman717
+Washington Commanders,24,SOLD,krazyk776
+"New York Jets, Tennessee Titans",13,SOLD,krazyk776
+"Miami Dolphins, New Orleans Saints",6,SOLD,sososososo

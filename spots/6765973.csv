@@ -1,34 +1,49 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-MISC,,OPEN,
+#1,111,SOLD,pearson627
+Green Bay Packers,115,SOLD,pearson627
+#3,112,SOLD,pearson627
+Las Vegas Raiders,130,SOLD,pearson627
+Denver Broncos,131,SOLD,pearson627
+Minnesota Vikings,155,SOLD,pearson627
+Los Angeles Chargers,135,SOLD,izzy_215
+#8,140,SOLD,pearson627
+MISC,133,SOLD,izzy_215
+#10,140,SOLD,izzy_215
+#11,116,SOLD,kk1909563
+Los Angeles Rams,122,SOLD,kk1909563
+#13,115,SOLD,izzy_215
+Buffalo Bills,117,SOLD,izzy_215
+#15,112,SOLD,jmccain17
+New England Patriots,110,SOLD,izzy_215
+Carolina Panthers,105,SOLD,jameshung
+#18,116,SOLD,backtoback88
+New York Giants,135,SOLD,backtoback88
+San Francisco 49ers,121,SOLD,jameshung
+#21,116,SOLD,backtoback88
+#22,125,SOLD,kk1909563
+#23,107,SOLD,jameshung
+Cincinnati Bengals,125,SOLD,kk1909563
+Dallas Cowboys,28,SOLD,backtoback88
+Kansas City Chiefs,32,SOLD,backtoback88
+New York Jets,102,SOLD,jmcgov85
+#28,120,SOLD,jonand81600
+Houston Texans,160,SOLD,roojo
+Washington Commanders,166,SOLD,jeffp2424
+Tampa Bay Buccaneers,167,SOLD,jonand81600
+#32,160,SOLD,jeffp2424
+Pittsburgh Steelers,148,SOLD,jmcgov85
+Detroit Lions,71,SOLD,jeffp2424
+#35,81,SOLD,jeffp2424
+Seattle Seahawks,140,SOLD,labnehpapi
+Baltimore Ravens,106,SOLD,alamo3310
+Atlanta Falcons,71,SOLD,alamo3310
+Chicago Bears,17,SOLD,biggcoffee
+#40,50,SOLD,jeffp2424
+Jacksonville Jaguars,37,SOLD,izzy_215
+New Orleans Saints,45,SOLD,alamo3310
+Philadelphia Eagles,40,SOLD,ehlers712
+Arizona Cardinals,45,SOLD,juju636363
+Cleveland Browns,42,SOLD,jeffp2424
+Tennessee Titans,9,SOLD,dadandsoncardsco
+Miami Dolphins,8,SOLD,takethenextleft
+Indianapolis Colts,11,SOLD,bwhitesiu

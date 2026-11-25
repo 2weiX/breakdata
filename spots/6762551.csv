@@ -1,0 +1,7 @@
+spot,price,state,buyer
+"PACIFIC: Lakers, Warriors, Clippers, Suns, Kings",22,OPEN,
+"ATLANTIC: Celtics, Knicks, 76ers, Nets, Raptors",21,OPEN,
+"SOUTHWEST: Spurs, Mavericks, Rockets, Grizzlies, Pelicans",20,OPEN,
+"CENTRAL: Bulls, Bucks, Cavaliers, Pistons, Pacers",18,OPEN,
+"NORTHWEST: Thunder, Nuggets, Timberwolves, Trail Blazers, Jazz",18,OPEN,
+"SOUTHEAST: Heat, Hawks, Magic, Hornets, Wizards",17,OPEN,

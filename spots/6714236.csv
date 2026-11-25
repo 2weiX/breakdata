@@ -1,20 +1,20 @@
 spot,price,state,buyer
-Atlanta Falcons,45,OPEN,
-Carolina Panthers,45,OPEN,
-Cleveland Browns,65,OPEN,
+Atlanta Falcons,10,SOLD,pats_nation1959
+Carolina Panthers,25,SOLD,hybo10
+Cleveland Browns,52,SOLD,tkluminati
 Green Bay Packers,15,SOLD,tgcatino10
-Houston Texans,45,OPEN,
-Indianapolis Colts,40,OPEN,
-Jacksonville Jaguars,50,OPEN,
-Los Angeles Chargers,40,OPEN,
+Houston Texans,15,SOLD,yellowstonecardco
+Indianapolis Colts,15,SOLD,pats_nation1959
+Jacksonville Jaguars,12,SOLD,hybo10
+Los Angeles Chargers,20,SOLD,hybo10
 Miami Dolphins,30,SOLD,pacshopcards
-Minnesota Vikings,55,OPEN,
+Minnesota Vikings,39,SOLD,csousax603
 New Orleans Saints,35,SOLD,dailyripzzz
 New York Jets,15,SOLD,pats_nation1959
-Philadelphia Eagles,55,OPEN,
+Philadelphia Eagles,30,SOLD,zusmc0311
 Pittsburgh Steelers,30,SOLD,pipebrand
-San Francisco 49ers,60,OPEN,
-Washington Commanders,50,OPEN,
+San Francisco 49ers,40,SOLD,yellowstonecardco
+Washington Commanders,24,SOLD,hybo10
 PAULCRO,310,SOLD,yellowstonecardco
 pipe,100,SOLD,pipebrand
 hybo,80,SOLD,hybo10

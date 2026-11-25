@@ -1,31 +1,20 @@
 spot,price,state,buyer
-Atlanta Falcons,8,OPEN,
-Baltimore Ravens,8,OPEN,
-Buffalo Bills,18,OPEN,
-Carolina Panthers,18,OPEN,
-Cincinnati Bengals,8,OPEN,
-Cleveland Browns,18,OPEN,
-Dallas Cowboys,12,OPEN,
-Detroit Lions,12,OPEN,
+Arizona Cardinals,20,SOLD,dlava
+"Atlanta Falcons, Cleveland Browns, Detroit Lions, Miami Dolphins, Washington Commanders",30,SOLD,the_coach_mike
+"Seattle Seahawks, Jacksonville Jaguars, Buffalo Bills, Pittsburgh Steelers, Baltimore Ravens",25,SOLD,hey_eh_ron
+Carolina Panthers,18,SOLD,dlava
+"Chicago Bears, Denver Broncos, New England Patriots",20,SOLD,dr_ake94
+Cincinnati Bengals,8,SOLD,hey_eh_ron
+Dallas Cowboys,12,SOLD,dlava
 Green Bay Packers,8,SOLD,dr_ake94
-Houston Texans,8,OPEN,
-Indianapolis Colts,8,OPEN,
-Jacksonville Jaguars,18,OPEN,
 Kansas City Chiefs,13,SOLD,tippertip
-Los Angeles Chargers,8,OPEN,
-Los Angeles Rams,12,OPEN,
-Miami Dolphins,8,OPEN,
+Las Vegas Raiders,14,SOLD,mick_q
+Los Angeles Rams,9,SOLD,dlava
 Minnesota Vikings,9.6,SOLD,loveslc
-New York Jets,8,OPEN,
-Philadelphia Eagles,12,OPEN,
-Pittsburgh Steelers,8,OPEN,
-San Francisco 49ers,8,OPEN,
-Seattle Seahawks,8,OPEN,
-Washington Commanders,12,OPEN,
-Arizona Cardinals,20,OPEN,
 New Orleans Saints,8,SOLD,loveslc
 New York Giants,14,SOLD,dr_ake94
-Tennessee Titans,20,OPEN,
-Las Vegas Raiders,14,SOLD,mick_q
+New York Jets,8,SOLD,the_coach_mike
+Philadelphia Eagles,12,SOLD,dlava
+San Francisco 49ers,8,SOLD,dlava
 Tampa Bay Buccaneers,6,SOLD,mick_q
-"Chicago Bears, Denver Broncos, New England Patriots",20,SOLD,dr_ake94
+Tennessee Titans,14,SOLD,tippertip

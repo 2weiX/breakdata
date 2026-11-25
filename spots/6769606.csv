@@ -1,0 +1,31 @@
+spot,price,state,buyer
+San Francisco 49ers,290,SOLD,hd_breakz2
+Minnesota Vikings,290,SOLD,ghoem5
+Cincinnati Bengals,405,SOLD,ghoem5
+Cleveland Browns,330,SOLD,mooresmoke
+Baltimore Ravens,295,SOLD,ghoem5
+New York Giants,325,SOLD,schett_bag
+Las Vegas Raiders,300,SOLD,schett_bag
+Chicago Bears,290,SOLD,hd_breakz2
+Buffalo Bills,280,SOLD,schett_bag
+Detroit Lions,290,SOLD,schett_bag
+#11,295,SOLD,ghoem5
+Carolina Panthers,240,SOLD,schett_bag
+#13,345,SOLD,tawilo
+Denver Broncos,350,SOLD,tawilo
+#15,270,SOLD,tawilo
+Atlanta Falcons,385,SOLD,tawilo
+Dallas Cowboys,380,SOLD,tawilo
+Pittsburgh Steelers,515,SOLD,tawilo
+#19,390,SOLD,tawilo
+#20,365,SOLD,cody1212
+Philadelphia Eagles,405,SOLD,tawilo
+New England Patriots,320,SOLD,cody1212
+Los Angeles Rams,580,SOLD,tawilo
+MISC,310,SOLD,tawilo
+Green Bay Packers,345,SOLD,tawilo
+Indianapolis Colts,280,SOLD,cody1212
+"Arizona Cardinals, Jacksonville Jaguars, Tennessee Titans",295,SOLD,cody1212
+#28,295,SOLD,cody1212
+"Houston Texans, Kansas City Chiefs, Tampa Bay Buccaneers, Washington Commanders",930,SOLD,tawilo
+"Los Angeles Chargers, Miami Dolphins, New Orleans Saints, New York Jets, Seattle Seahawks",630,SOLD,tawilo

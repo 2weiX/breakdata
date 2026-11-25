@@ -1,24 +1,20 @@
 spot,price,state,buyer
-Arizona Cardinals,75,OPEN,
-Atlanta Falcons,30,OPEN,
-Carolina Panthers,30,OPEN,
-Cleveland Browns,35,OPEN,
-Houston Texans,25,OPEN,
-Indianapolis Colts,30,OPEN,
-Jacksonville Jaguars,45,OPEN,
-Los Angeles Chargers,30,OPEN,
-Los Angeles Rams,85,OPEN,
-Miami Dolphins,30,OPEN,
-Minnesota Vikings,30,OPEN,
-New England Patriots,65,OPEN,
-New Orleans Saints,70,OPEN,
-New York Giants,55,OPEN,
-New York Jets,30,OPEN,
-Pittsburgh Steelers,45,OPEN,
-Seattle Seahawks,35,OPEN,
-Tampa Bay Buccaneers,65,OPEN,
-Tennessee Titans,75,OPEN,
-Washington Commanders,30,OPEN,
-BIG 12,55,OPEN,
-ACC,50,OPEN,
-NOTRE DAME & ALL NON POWER 4 TEAMS,55,OPEN,
+Arizona Cardinals,55,SOLD,manic0315
+Atlanta Falcons,23,SOLD,heatedmudkip
+Carolina Panthers IND HOU LAC MIA,115,SOLD,manic0315
+Cleveland Browns,35,SOLD,eburgess93
+Jacksonville Jaguars,36,SOLD,bradzballerz
+Los Angeles Rams,68,SOLD,manic0315
+Minnesota Vikings,24,SOLD,manic0315
+New England Patriots,52,SOLD,manic0315
+New Orleans Saints,50,SOLD,manic0315
+New York Giants,44,SOLD,manic0315
+New York Jets,27,SOLD,slanging_cardboard
+Pittsburgh Steelers,36,SOLD,manic0315
+Seattle Seahawks,24.75,SOLD,junkgod518
+Tampa Bay Buccaneers,45,SOLD,manic0315
+Tennessee Titans,60,SOLD,manic0315
+Washington Commanders,24,SOLD,bradzballerz
+BIG 12,45,SOLD,manic0315
+ACC,35,SOLD,mzduncan
+NOTRE DAME & ALL NON POWER 4 TEAMS,44,SOLD,manic0315

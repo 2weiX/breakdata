@@ -1,46 +1,50 @@
 spot,price,state,buyer
-Oregon / Marshall / Washington State / UCF / Delaware / Northwestern ,,OPEN,
-California / Missouri / Virginia / TCU / Jackson State / FAU ,,OPEN,
-Texas / Texas Tech / Utah / Minnesota / Duke / Arizona,,OPEN,
-Washington / Alabama / Wake Forest / UCLA / North Carolina / Purdue ,,OPEN,
-South Carolina / Florida / Stanford / Kansas / Boise State/ UNLV,,OPEN,
-Oklahoma State / Penn State / Boston College / Iowa / Tennessee / Tulsa ,,OPEN,
-USC / Clemson / LSU / Kansas State / Wisconsin / Iowa State,,OPEN,
-Texas A&M / Florida State / Pittsburgh / Houston/ UCONN,,OPEN,
-Mississippi State / Georgia / Maryland / Georgia Tech / Baylor /SDSU ,,OPEN,
-Ole Miss / Arkansas / NC State / Louisville / Rutgers / Texas State ,,OPEN,
-Indiana / Vanderbilt / Michigan State / Illinois / Syracuse / Louisiana,,OPEN,
-Kentucky / Oklahoma / Auburn / Arizona State / Virginia Tech / Western Michigan,,OPEN,
-Miami / Cincinnati / Nebraska / Wyoming / SMU / Fresno State,,OPEN,
-BYU / Michigan / Ohio State / Colorado / West Virginia,,OPEN,
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts ,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+#1,6,SOLD,jsmithers1212
+Chicago Bears,4,SOLD,jsmithers1212
+Texas / Texas Tech / Utah / Minnesota / Duke / Arizona,7,SOLD,cardlockerllc
+Green Bay Packers,9,SOLD,jaidonpar
+#5,10,SOLD,theshopwithprinceandpops
+Atlanta Falcons,9,SOLD,jsmithers1212
+Philadelphia Eagles,11,SOLD,codylon62846
+San Francisco 49ers,7,SOLD,cardlockerllc
+Dallas Cowboys,7,SOLD,calcifer143
+Washington Commanders,8,SOLD,jsmithers1212
+Kentucky / Oklahoma / Auburn / Arizona State / Virginia Tech / Western Michigan,7,SOLD,codylon62846
+USC / Clemson / LSU / Kansas State / Wisconsin / Iowa State,8,SOLD,hv__breakers
+New Orleans Saints,7,SOLD,codylon62846
+Washington / Alabama / Wake Forest / UCLA / North Carolina / Purdue ,7,SOLD,jaidonpar
+Arizona Cardinals,8,SOLD,jaidonpar
+New England Patriots,7,SOLD,jsmithers1212
+Oregon / Marshall / Washington State / UCF / Delaware / Northwestern ,7,SOLD,jaidonpar
+Jacksonville Jaguars,9.9,SOLD,swizzlestix2024
+Kansas City Chiefs,9,SOLD,swizzlestix2024
+Tennessee Titans,9,SOLD,swizzlestix2024
+Detroit Lions,9,SOLD,swizzlestix2024
+BYU / Michigan / Ohio State / Colorado / West Virginia,11,SOLD,swizzlestix2024
+Ole Miss / Arkansas / NC State / Louisville / Rutgers / Texas State ,13,SOLD,codylon62846
+Oklahoma State / Penn State / Boston College / Iowa / Tennessee / Tulsa ,8,SOLD,cardlockerllc
+Miami Dolphins,8,SOLD,jsmithers1212
+Indianapolis Colts ,8,SOLD,codylon62846
+Denver Broncos,10,SOLD,jsmithers1212
+Tampa Bay Buccaneers,15,SOLD,jsmithers1212
+Los Angeles Rams,13,SOLD,m_nyc_33
+Cleveland Browns,9,SOLD,codylon62846
+Houston Texans,10,SOLD,jaidonpar
+South Carolina / Florida / Stanford / Kansas / Boise State/ UNLV,6,SOLD,sgtseahawk
+Minnesota Vikings,5,SOLD,codylon62846
+Pittsburgh Steelers,6,SOLD,codylon62846
+Texas A&M / Florida State / Pittsburgh / Houston/ UCONN,6,SOLD,rookiemoney
+Los Angeles Chargers,12,SOLD,lehspencer
+Carolina Panthers,11,SOLD,lehspencer
+Seattle Seahawks,13,SOLD,codylon62846
+Buffalo Bills,12,SOLD,lehspencer
+Cincinnati Bengals,14,SOLD,lehspencer
+New York Jets,14,SOLD,jsmithers1212
+Mississippi State / Georgia / Maryland / Georgia Tech / Baylor /SDSU ,14,SOLD,lehspencer
+Miami / Cincinnati / Nebraska / Wyoming / SMU / Fresno State,15,SOLD,rookiemoney
+Indiana / Vanderbilt / Michigan State / Illinois / Syracuse / Louisiana,17,SOLD,lehspencer
+New York Giants,12,SOLD,rookiemoney
+Baltimore Ravens,9,SOLD,lehspencer
+California / Missouri / Virginia / TCU / Jackson State / FAU ,12,SOLD,wool43015
+RAIDERS,25,SOLD,lehspencer
+NOTRE DAME,21,SOLD,lehspencer

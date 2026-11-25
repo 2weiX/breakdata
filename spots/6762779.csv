@@ -1,40 +1,52 @@
 spot,price,state,buyer
-Chaser 1🔥,,OPEN,
-Chaser 2🔥,,OPEN,
-Chaser 3🔥,,OPEN,
-Chaser 4🔥,,OPEN,
-Chaser 5🔥,,OPEN,
-Chaser 6🔥,,OPEN,
-Chaser 7🔥,,OPEN,
-Chaser 8🔥,,OPEN,
-Chaser 9🔥,,OPEN,
-Chaser 10🔥,,OPEN,
-Chaser 11🔥,,OPEN,
-Chaser 12🔥,,OPEN,
-Chaser 13🔥,,OPEN,
-CARDINALS,,OPEN,
-FALCONS,,OPEN,
-RAVENS,,OPEN,
-BEARS,,OPEN,
-BRONCOS,,OPEN,
-LIONS,,OPEN,
-PACKERS,,OPEN,
-TEXANS,,OPEN,
-COLTS,,OPEN,
-CHIEFS,,OPEN,
-RAMS,,OPEN,
-DOLPHINS,,OPEN,
-VIKINGS,,OPEN,
-SAINTS,,OPEN,
-JETS,,OPEN,
-STEELERS,,OPEN,
-TITANS,,OPEN,
-COMMANDERS,,OPEN,
-SEC,,OPEN,
-BIG 12,,OPEN,
-ACC,,OPEN,
-BIG 10,,OPEN,
-INDEPENDENT,,OPEN,
-BIG SKY,,OPEN,
-HIGH SCHOOL,,OPEN,
-SANTA / SNOWMAN,,OPEN,
+SAINTS,5,SOLD,maxbreaks
+Chaser 9🔥,15,SOLD,miketomlinson
+Chaser 5🔥,3,SOLD,maxbreaks
+STEELERS,11,SOLD,cpark856
+Chaser 10🔥,11,SOLD,sudsy1118
+Chaser 13🔥,7,SOLD,justingoo54766
+Chaser 4🔥,8,SOLD,sudsy1118
+RAVENS,6,SOLD,managing12s
+SANTA / SNOWMAN,5,SOLD,managing12s
+TITANS,5,SOLD,justingoo54766
+#11,5,SOLD,sudsy1118
+BRONCOS,5,SOLD,managing12s
+CHIEFS,7,SOLD,henny72416
+Chaser 2🔥,10,SOLD,henny72416
+Chaser 3🔥,10,SOLD,paydaymike
+Chaser 11🔥,8,SOLD,jeffbaker10
+#17,6,SOLD,jeffbaker10
+Chaser 6🔥,7,SOLD,samcrosuperman
+#19,13,SOLD,samcrosuperman
+#20,10,SOLD,jeffbaker10
+Chaser 7🔥,18,SOLD,samcrosuperman
+#22,7,SOLD,sudsy1118
+Chaser 8🔥,8,SOLD,sudsy1118
+#24,12,SOLD,jeffbaker10
+#25,13,SOLD,jeffbaker10
+Chaser 12🔥,14,SOLD,jeffbaker10
+#27,14,SOLD,samcrosuperman
+#28,5,SOLD,samcrosuperman
+BIG 12,6,SOLD,jeffbaker10
+BIG 10,24,SOLD,donttouchdownthere
+Chaser 1🔥,4,SOLD,samcrosuperman
+#32,2,SOLD,samcrosuperman
+#33,2,SOLD,samcrosuperman
+RAMS,5,SOLD,jeffbaker10
+VIKINGS,3,SOLD,samcrosuperman
+BEARS,5,SOLD,samcrosuperman
+#37,7,SOLD,samcrosuperman
+CARDINALS,8,SOLD,jeffbaker10
+SEC,6,SOLD,jeffbaker10
+BIG SKY,7,SOLD,jdawg1123
+COLTS,8,SOLD,tannersea69
+FALCONS,7,SOLD,jeffbaker10
+JETS,4,SOLD,tannersea69
+DOLPHINS,9,SOLD,samcrosuperman
+COMMANDERS,7,SOLD,donttouchdownthere
+LIONS,7,SOLD,jeffbaker10
+TEXANS,5,SOLD,sudsy1118
+HIGH SCHOOL,8,SOLD,jeffbaker10
+PACKERS,11,SOLD,jeffbaker10
+ACC,10,SOLD,jeffbaker10
+INDEPENDENT,65,SOLD,jeffbaker10

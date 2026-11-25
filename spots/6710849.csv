@@ -1,29 +1,17 @@
 spot,price,state,buyer
-Atlanta Falcons,24,OPEN,
-Baltimore Ravens,35,OPEN,
 Buffalo Bills,50,SOLD,raymondesquibel1970
-Carolina Panthers,24,OPEN,
 Chicago Bears,38,SOLD,rioeduardo91063
 Cincinnati Bengals,40,SOLD,mc_americansportscards_uk
-Cleveland Browns,38,OPEN,
-Dallas Cowboys,35,OPEN,
 Denver Broncos,21,SOLD,mojoripsbreaks
 Green Bay Packers,20,SOLD,esteff53
-Houston Texans,22,OPEN,
-Indianapolis Colts,23,OPEN,
-Jacksonville Jaguars,35,OPEN,
 "Kansas City Chiefs,SAINTS,49ERS",125,SOLD,cdawgscards
 Las Vegas Raiders,90,SOLD,raymondesquibel1970
-Los Angeles Chargers,30,OPEN,
-Los Angeles Rams,60,OPEN,
-Miami Dolphins,26,OPEN,
-Minnesota Vikings,35,OPEN,
-New England Patriots,60,OPEN,
-New York Giants,45,OPEN,
-New York Jets,28,OPEN,
-Philadelphia Eagles,35,OPEN,
-Pittsburgh Steelers,30,OPEN,
-Seattle Seahawks,42,OPEN,
-Tampa Bay Buccaneers,55,OPEN,
+Los Angeles Rams,52,SOLD,cdawgscards
+New England Patriots,65,SOLD,raymondesquibel1970
+New York Giants,36,SOLD,cdawgscards
+New York Jets,5,SOLD,rioeduardo91063
+Pittsburgh Steelers,21,SOLD,andyant86
+Seattle Seahawks,45,OPEN,
+Tampa Bay Buccaneers,45,SOLD,andyant86
 Tennessee Titans,38,OPEN,
 Washington Commanders,28,OPEN,

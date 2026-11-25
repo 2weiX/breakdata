@@ -1,11 +1,48 @@
 spot,price,state,buyer
-Miami Dolphins,38,SOLD,gibraymond
+#1,38,SOLD,gibraymond
 #2,50,SOLD,zoozander
 #3,71,SOLD,gibraymond
 #4,60,SOLD,gibraymond
 Kansas City Chiefs,50,SOLD,gibraymond
-MISC,51,SOLD,zoozander
-Las Vegas Raiders,51,SOLD,zoozander
+#6,51,SOLD,zoozander
+Cleveland Browns,51,SOLD,zoozander
 Buffalo Bills,69,SOLD,zoozander
 Cincinnati Bengals,64,SOLD,bandit7454
-#10,1,OPEN,
+#10,53,SOLD,gibraymond
+Philadelphia Eagles,61,SOLD,gibraymond
+San Francisco 49ers,43,SOLD,bkix3
+Los Angeles Chargers,46,SOLD,bkix3
+#14,50,SOLD,craigcar04338
+#15,50,SOLD,craigcar04338
+New York Giants,50,SOLD,craigcar04338
+Chicago Bears,54,SOLD,bandit7454
+#18,52,SOLD,bandit7454
+#19,50,SOLD,bkix3
+Miami Dolphins,59,SOLD,taishotyrant
+Houston Texans,49,SOLD,jaxpav
+#22,47,SOLD,taishotyrant
+#23,82,SOLD,vegasmann
+Indianapolis Colts,78,SOLD,vegasmann
+Detroit Lions,64,SOLD,vegasmann
+Pittsburgh Steelers,60,SOLD,taishotyrant
+Seattle Seahawks,57,SOLD,mrwatson14
+Los Angeles Rams,66,SOLD,craigcar04338
+Tampa Bay Buccaneers,63,SOLD,mrwatson14
+Carolina Panthers,60,SOLD,mrwatson14
+Minnesota Vikings,61,SOLD,jaxpav
+#32,58,SOLD,craigcar04338
+Dallas Cowboys,56,SOLD,craigcar04338
+Arizona Cardinals,62,SOLD,benryther
+#35,60,SOLD,zoozander
+MISC,54,SOLD,bkix3
+Jacksonville Jaguars,56,SOLD,kevinste24973
+Washington Commanders,54,SOLD,bkix3
+Baltimore Ravens,58,SOLD,bandit7454
+New Orleans Saints,71,SOLD,craigcar04338
+Atlanta Falcons,49,SOLD,darthcomic
+Tennessee Titans,44,SOLD,bkix3
+New York Jets,48,SOLD,hatchinghits
+Denver Broncos,31,SOLD,colombia92
+New England Patriots,26,SOLD,benryther
+Green Bay Packers,24,SOLD,colombia92
+Las Vegas Raiders,32,SOLD,sdmirrus1214

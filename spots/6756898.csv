@@ -1,24 +1,25 @@
 spot,price,state,buyer
-Arizona Cardinals,5,SOLD,nxtgentradingcards
-Baltimore Ravens,12,SOLD,nxtgentradingcards
-Cincinnati Bengals,15,SOLD,cinkio
-Dallas Cowboys,20,SOLD,cinkio
-Denver Broncos,15,SOLD,marykio25317
-Detroit Lions,13,SOLD,cinkio
 Indianapolis Colts,8,SOLD,nxtgentradingcards
-Kansas City Chiefs,16,SOLD,cinkio
-Los Angeles Chargers,1,SOLD,marykio25317
-Miami Dolphins,6,SOLD,ramondab
-New England Patriots,8,SOLD,nxtgentradingcards
-New York Jets,7,SOLD,nxtgentradingcards
 Philadelphia Eagles,15,SOLD,nxtgentradingcards
+Kansas City Chiefs,16,SOLD,cinkio
 Pittsburgh Steelers,11,SOLD,nxtgentradingcards
-San Francisco 49ers,18,SOLD,nxtgentradingcards
-Seattle Seahawks,15,SOLD,marykio25317
-SEC West,10,SOLD,cinkio
-B10 East,15,SOLD,nxtgentradingcards
 B10 West,18,SOLD,nxtgentradingcards
+SEC West,10,SOLD,cinkio
+Miami Dolphins,6,SOLD,ramondab
+Detroit Lions,13,SOLD,cinkio
+Baltimore Ravens,12,SOLD,nxtgentradingcards
+Dallas Cowboys,20,SOLD,cinkio
 ACC,5,SOLD,cinkio
-B12,18,SOLD,nxtgentradingcards
+Arizona Cardinals,5,SOLD,nxtgentradingcards
+New York Jets,7,SOLD,nxtgentradingcards
+New England Patriots,8,SOLD,nxtgentradingcards
+Denver Broncos,15,SOLD,marykio25317
+Seattle Seahawks,15,SOLD,marykio25317
 ND w/ NIL and HS,15,SOLD,cinkio
-#23,1,OPEN,
+Los Angeles Chargers,1,SOLD,marykio25317
+B10 East,15,SOLD,nxtgentradingcards
+B12,18,SOLD,nxtgentradingcards
+San Francisco 49ers,18,SOLD,nxtgentradingcards
+Cincinnati Bengals,15,SOLD,cinkio
+Cleveland Browns,10,SOLD,cinkio
+#24,1,OPEN,

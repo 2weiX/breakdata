@@ -1,38 +1,39 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-SEC,,OPEN,
-BIG 12,,OPEN,
-BIG 10,,OPEN,
-ACC,,OPEN,
-Notre Dame/ Other,,OPEN,
+Pittsburgh Steelers,16,SOLD,wjwz21
+New Orleans Saints,15,SOLD,wjwz21
+BIG 10,14,SOLD,jgraf8005
+New York Giants,14,SOLD,clojas
+Minnesota Vikings,12,SOLD,clojas
+Notre Dame/ Other,13,SOLD,wjwz21
+Las Vegas Raiders,13,SOLD,dj_raider
+Dallas Cowboys,13,SOLD,dj_raider
+SEC,14,SOLD,wjwz21
+Los Angeles Chargers,8,SOLD,ganjibare
+Denver Broncos,10,SOLD,dj_raider
+Arizona Cardinals,10,SOLD,dj_raider
+Buffalo Bills,13,SOLD,wjwz21
+BIG 12,13,SOLD,wjwz21
+Atlanta Falcons,12,SOLD,dj_raider
+Tennessee Titans,8,SOLD,davidgro01908
+Tampa Bay Buccaneers,10,SOLD,clojas
+Chicago Bears,8,SOLD,ganjibare
+New York Jets,8,SOLD,davidgro01908
+Indianapolis Colts,12,SOLD,dj_raider
+Cleveland Browns,6,SOLD,clojas
+Kansas City Chiefs,8,SOLD,dj_raider
+Seattle Seahawks,8,SOLD,clojas
+Cincinnati Bengals,10,SOLD,wjwz21
+Miami Dolphins,8,SOLD,clojas
+ACC,12,SOLD,dj_raider
+San Francisco 49ers,6,SOLD,derekgg2020
+Detroit Lions,6,SOLD,wjwz21
+Washington Commanders,6,SOLD,wjwz21
+Green Bay Packers,6,SOLD,wjwz21
+Baltimore Ravens,6,SOLD,bobby06445
+Los Angeles Rams,6,SOLD,wjwz21
+#33,6,SOLD,j_cardzz
+Jacksonville Jaguars,6,SOLD,wjwz21
+Carolina Panthers,6,SOLD,wjwz21
+Houston Texans,6,SOLD,wjwz21
+Philadelphia Eagles,6,SOLD,wjwz21
+New England Patriots,6,SOLD,wjwz21

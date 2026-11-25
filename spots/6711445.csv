@@ -1,31 +1,26 @@
 spot,price,state,buyer
-Arizona Cardinals,55,OPEN,
-Atlanta Falcons,17,OPEN,
+Arizona Cardinals,32,SOLD,gripitnripitbreaks
+Atlanta Falcons,11.9,SOLD,wadszilla
 Baltimore Ravens,29,OPEN,
-Buffalo Bills,34,OPEN,
+Buffalo Bills,34,SOLD,jnbcardvault
 Carolina Panthers,24,OPEN,
 Chicago Bears,32,OPEN,
-Cincinnati Bengals,29,OPEN,
 Cleveland Browns,28,OPEN,
-Dallas Cowboys,33,OPEN,
+"Dallas Cowboys, Titans",45,SOLD,gripitnripitbreaks
 Denver Broncos,27,OPEN,
-Detroit Lions,22,OPEN,
-Green Bay Packers,20,OPEN,
-Houston Texans,17,OPEN,
-Indianapolis Colts,19,OPEN,
+Green Bay Packers,20,SOLD,mags_n_slabs
+Houston Texans,12,SOLD,sir_mr_dingy
+Indianapolis Colts,13,SOLD,gripitnripitbreaks
 Jacksonville Jaguars,23,OPEN,
-Kansas City Chiefs,36,OPEN,
-Las Vegas Raiders,75,OPEN,
+"Las Vegas Raiders, Chiefs",85,SOLD,mags_n_slabs
 Los Angeles Rams,47,OPEN,
-Miami Dolphins,18,OPEN,
 Minnesota Vikings,27,OPEN,
 New Orleans Saints,39,OPEN,
 New York Giants,35,OPEN,
 New York Jets,24,OPEN,
 Philadelphia Eagles,42,OPEN,
 Pittsburgh Steelers,26,OPEN,
-San Francisco 49ers,31,OPEN,
+"San Francisco 49ers, Bengals, Texans",40.5,SOLD,heavy131711
 Seattle Seahawks,21,OPEN,
 Tampa Bay Buccaneers,45,OPEN,
-Tennessee Titans,43,OPEN,
-Washington Commanders,20,OPEN,
+Washington Commanders,15,SOLD,kenzysdad
