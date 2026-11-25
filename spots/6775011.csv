@@ -1,10 +1,18 @@
 spot,price,state,buyer
 New York Giants,4,SOLD,mrboogs
-"Buffalo Bills, Cincinnati Bengals",7,SOLD,alika52
+"Buffalo Bills, Carolina Panthers, Cincinnati Bengals, Tennessee Titans",7,SOLD,alika52
 Chicago Bears,4,SOLD,1983mt
 Atlanta Falcons,2,SOLD,fantasyog
 New England Patriots,2,SOLD,fantasyog
 "Kansas City Chiefs, New Orleans Saints, Philadelphia Eagles",10,SOLD,fantasyog
 Jacksonville Jaguars,2,SOLD,chadade
 Los Angeles Chargers,2,SOLD,recjason
-#9,1,OPEN,
+San Francisco 49ers,2,SOLD,j293329
+New York Jets,2,SOLD,j293329
+"Dallas Cowboys, Las Vegas Raiders, Tampa Bay Buccaneers",9,SOLD,j293329
+Washington Commanders,2,SOLD,j293329
+Los Angeles Rams,2,SOLD,j293329
+Baltimore Ravens,2,SOLD,j293329
+Houston Texans,2,SOLD,j293329
+"Cleveland Browns, Miami Dolphins",5,SOLD,j293329
+"Arizona Cardinals, Denver Broncos, Detroit Lions, Green Bay Packers, Indianapolis Colts, Minnesota Vikings, Pittsburgh Steelers, Seattle Seahawks",13,SOLD,j293329

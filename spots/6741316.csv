@@ -1,10 +1,10 @@
 spot,price,state,buyer
 Atlanta Falcons,10,OPEN,
 Baltimore Ravens,15,OPEN,
-Carolina Panthers,13,OPEN,
+Carolina Panthers,8,SOLD,cold_cardz_24
 Cleveland Browns,14,OPEN,
 Dallas Cowboys,11,SOLD,hcongdon2234
-Denver Broncos,14,OPEN,
+Denver Broncos,11.2,SOLD,cold_cardz_24
 Detroit Lions,11.2,SOLD,breadzybones88
 "Green Bay Packers, PATS, BEARS, BENGALS, JAGS, PATS ",70,SOLD,paullucas23
 Houston Texans,10,OPEN,
