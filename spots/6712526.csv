@@ -1,5 +1,5 @@
 spot,price,state,buyer
-#1,7,SOLD,cjlink1925
+(Trade-In),7,SOLD,cjlink1925
 LSU (S)(CC),7,SOLD,ishb2693
 Illinois,7,SOLD,dtruitt
 Wisconsin (BB),8,SOLD,dtruitt
@@ -7,7 +7,7 @@ Miami (BB)(CC),7,SOLD,dkz1314
 UConn (BB),7,SOLD,dkz1314
 Arizona State (M)(BB)(CC),7,SOLD,ripperjones36
 Indiana (M)(BB)(CC),7,SOLD,joboiii
-#9,7,SOLD,cjlink1925
+(Trade-In),7,SOLD,cjlink1925
 Western Kentucky (M),7,SOLD,dtruitt
 Baylor (M),7,SOLD,taterhead4569
 Clemson (CC),7,SOLD,taterhead4569
@@ -23,19 +23,19 @@ Cincinnati (BB)(CC),10,SOLD,marvinator216
 Oregon (CC),7,SOLD,toddtroxel
 Kansas State,7,SOLD,toddtroxel
 Western Michigan,7,SOLD,dtruitt
-#25,7,SOLD,whiskeywill
+(Trade-In),7,SOLD,whiskeywill
 BYU (BB)(CC),7,SOLD,whiskeywill
 Tennessee (S)(CC),10,SOLD,whiskeywill
 Oklahoma (BB)(CC),7,SOLD,whiskeywill
 Georgia (CC),7,SOLD,whiskeywill
-UAB (24Chrome),7,SOLD,cjlink1925
+(Trade-In),7,SOLD,cjlink1925
 Notre Dame (S)(BB)(CC),10,SOLD,marvinator216
 Pittsburgh (CC),7,SOLD,jasontur57554
-#34,7,SOLD,jasontur57554
+(Trade-In),7,SOLD,jasontur57554
 Ole Miss (BB)(CC),7,SOLD,jasontur57554
 Houston (BB),8,SOLD,jasontur57554
-Colorado State (24Chrome),7,SOLD,jasontur57554
-#38,7,SOLD,austinfar78178
+Texas (BB)(CC),7,SOLD,jasontur57554
+(Trade-In),7,SOLD,austinfar78178
 Penn State (S),7,SOLD,austinfar78178
 High School - Peyton Manning,7,SOLD,cforr32
 High School - Caleb Williams,7,SOLD,cjlink1925
@@ -44,4 +44,10 @@ Boston College,7,SOLD,cforr32
 Marshall (24Chrome),5,SOLD,whiskeywill
 Texas Tech (M),5,SOLD,whiskeywill
 Virginia (M),4,SOLD,whiskeywill
-#47,1,OPEN,
+Delaware,6,SOLD,jasontur57554
+Washington (BB)(CC),6,SOLD,jasontur57554
+(Trade-In),6,SOLD,jasontur57554
+Minnesota,4,SOLD,cjlink1925
+Iowa,4,SOLD,cjlink1925
+Alabama (S)(CC),3,SOLD,cjlink1925
+#53,1,OPEN,

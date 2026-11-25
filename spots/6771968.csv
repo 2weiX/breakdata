@@ -1,34 +1,31 @@
 spot,price,state,buyer
-Arizona Cardinals ,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-MISC ,,OPEN,
+#1,800,SOLD,thelongcards
+Chicago Bears,881,SOLD,jpulst13
+Green Bay Packers,820,SOLD,thelongcards
+New York Giants,837,SOLD,jpulst13
+Cleveland Browns,832,SOLD,pearson627
+Minnesota Vikings,835,SOLD,thelongcards
+Los Angeles Chargers,840,SOLD,jpulst13
+Los Angeles Rams,871,SOLD,thelongcards
+MISC ,926,SOLD,karlin
+#10,533,SOLD,mahomesfan1
+San Francisco 49ers,980,SOLD,karlin
+Kansas City Chiefs,970,SOLD,mahomesfan1
+#13,980,SOLD,karlin
+#14,1000,SOLD,karlin
+#15,950,SOLD,jpulst13
+#16,1010,SOLD,karlin
+#17,930,SOLD,jpulst13
+#18,706,SOLD,jpulst13
+#19,780,SOLD,karlin
+#20,640,SOLD,thelongcards
+Detroit Lions,610,SOLD,hamracollects
+New England Patriots,709,SOLD,thelongcards
+Pittsburgh Steelers,611,SOLD,magicman4192
+#24,720,SOLD,jvm021
+#25,708,SOLD,hamracollects
+Dallas Cowboys,715,SOLD,jvm021
+Denver Broncos,720,SOLD,jvm021
+#28,688,SOLD,magicman4192
+Arizona Cardinals ,615,SOLD,jbride11
+#30,456,SOLD,jvm021

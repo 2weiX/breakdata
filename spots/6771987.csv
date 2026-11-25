@@ -5,7 +5,7 @@ Falcons,32,SOLD,josegarza1911
 Titans,36,SOLD,jcb1980
 Buccaneers,30,SOLD,mstelter1
 SEC,48,SOLD,mstelter1
-#7,30,SOLD,josegarza1911
+TRADE7,30,SOLD,josegarza1911
 Independents,37,SOLD,jcb1980
 Lions,31,SOLD,batmark
 Giants,32,SOLD,jcb1980
@@ -16,13 +16,13 @@ Ravens,30,SOLD,jcb1980
 Saints,30,SOLD,josegarza1911
 Bears,32,SOLD,batmark
 Seahawks,28,SOLD,mstelter1
-#18,28,SOLD,batmark
+TRADE 1,28,SOLD,batmark
 Cowboys,32,SOLD,wabisabi89
 Patriots,31,SOLD,jcb1980
-#21,29,SOLD,josegarza1911
-#22,32,SOLD,jcb1980
-#23,30,SOLD,batmark
-#24,28,SOLD,josegarza1911
+TRADE 2,29,SOLD,josegarza1911
+TRADE 3,32,SOLD,jcb1980
+TRADE 4,30,SOLD,batmark
+TRADE 5,28,SOLD,josegarza1911
 Packers,29,SOLD,josegarza1911
 Jaguars,28,SOLD,wabisabi89
 Big 12,32,SOLD,jcb1980
@@ -32,7 +32,7 @@ Bills,1,SOLD,wabisabi89
 Chargers,26,SOLD,batmark
 ACC,30,SOLD,rippinautos
 Steelers,21,SOLD,batmark
-#34,24,SOLD,batmark
+TRADE 6,24,SOLD,batmark
 49ers,21,SOLD,batmark
 Jets,21,SOLD,gsnate_breaklounge
 Dolphins,24,SOLD,gsnate_breaklounge
@@ -41,4 +41,5 @@ Eagles,27,SOLD,gsnate_breaklounge
 Commanders,31,SOLD,jcb1980
 Chiefs,32,SOLD,robertfer81624
 Bengals,34,SOLD,gsnate_breaklounge
-#43,1,OPEN,
+Browns,27,SOLD,jcb1980
+Raiders,33,SOLD,jcb1980

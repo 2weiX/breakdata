@@ -1,34 +1,41 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-NIL,,OPEN,
+Dallas Cowboys,150,SOLD,seanpb5
+Chicago Bears,171,SOLD,greboo7484
+#3,161,SOLD,seanpb5
+#4,155,SOLD,greboo7484
+Cincinnati Bengals,165,SOLD,greboo7484
+#6,150,SOLD,calmer_than_you_are
+San Francisco 49ers,148,SOLD,calmer_than_you_are
+Pittsburgh Steelers,0,SOLD,callmesaul2
+Los Angeles Chargers,161,SOLD,calmer_than_you_are
+Detroit Lions,165,SOLD,calmer_than_you_are
+Denver Broncos,150,SOLD,pantayoyo13
+#12,166,SOLD,pantayoyo13
+#13,166,SOLD,seanpb5
+Los Angeles Rams,161,SOLD,calmer_than_you_are
+New England Patriots,161,SOLD,pantayoyo13
+Minnesota Vikings,175,SOLD,greboo7484
+#17,166,SOLD,pantayoyo13
+#18,161,SOLD,calmer_than_you_are
+#19,151,SOLD,seanpb5
+Philadelphia Eagles,147,SOLD,seanpb5
+#21,126,SOLD,calmer_than_you_are
+#22,151,SOLD,seanpb5
+New York Jets,132,SOLD,astory306
+NIL,141,SOLD,grillinator86
+Washington Commanders,155,SOLD,greboo7484
+Kansas City Chiefs,155,SOLD,greboo7484
+#27,2,SOLD,greboo7484
+#28,140,SOLD,grillinator86
+#29,125,SOLD,zainshe40714
+Green Bay Packers,174,SOLD,greboo7484
+New York Giants,155,SOLD,zainshe40714
+"Indianapolis Colts, Las Vegas Raiders",150,SOLD,zainshe40714
+Baltimore Ravens,135,SOLD,calmer_than_you_are
+Cleveland Browns,155,SOLD,greboo7484
+Buffalo Bills,92,SOLD,user_88059
+"Jacksonville Jaguars, Seattle Seahawks",54,SOLD,user_88059
+"Tampa Bay Buccaneers, Tennessee Titans",44,SOLD,greboo7484
+"Carolina Panthers, New Orleans Saints",42,SOLD,pantayoyo13
+"Atlanta Falcons, Houston Texans",25,SOLD,user_88059
+"Arizona Cardinals, Miami Dolphins",26,SOLD,cardsorwhat

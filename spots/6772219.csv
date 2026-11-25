@@ -1,5 +1,5 @@
 spot,price,state,buyer
-#1,45,SOLD,mrfunkocardz
+misc,45,SOLD,mrfunkocardz
 New York Giants,59,SOLD,mrfunkocardz
 Green Bay Packers,58,SOLD,mrfunkocardz
 Dallas Cowboys,57,SOLD,mrfunkocardz
@@ -18,11 +18,27 @@ New England Patriots,57,SOLD,thepinoyhammer
 #17,51,SOLD,paxtonkuhlman
 #18,68,SOLD,mrfunkocardz
 Baltimore Ravens,62,SOLD,paxtonkuhlman
-misc,59,SOLD,mrfunkocardz
+#20,59,SOLD,mrfunkocardz
 #21,62,SOLD,paxtonkuhlman
 San Francisco 49ers,62,SOLD,paxtonkuhlman
 #23,59,SOLD,mrfunkocardz
-Miami Dolphins,61,SOLD,mrfunkocardz
+#24,61,SOLD,mrfunkocardz
 #25,58,SOLD,paxtonkuhlman
 Cleveland Browns,62,SOLD,paxtonkuhlman
-#27,1,OPEN,
+Kansas City Chiefs,61,SOLD,mrfunkocardz
+#28,53,SOLD,paxtonkuhlman
+Los Angeles Rams,43,SOLD,paxtonkuhlman
+Detroit Lions,44,SOLD,mrfunkocardz
+Pittsburgh Steelers,40,SOLD,senskerips
+Denver Broncos,31,SOLD,mrfunkocardz
+#33,24,SOLD,phill_mianis
+Washington Commanders,25,SOLD,phill_mianis
+Houston Texans,24,SOLD,phill_mianis
+"Jacksonville Jaguars, Las Vegas Raiders",97,SOLD,rubinkatz
+"Atlanta Falcons, Indianapolis Colts",81,SOLD,rubinkatz
+"Tampa Bay Buccaneers, Tennessee Titans",83,SOLD,rubinkatz
+Philadelphia Eagles,40,SOLD,rubinkatz
+Carolina Panthers,5,SOLD,phill_mianis
+Miami Dolphins,21,SOLD,rubinkatz
+Seattle Seahawks,10,SOLD,phill_mianis
+"Arizona Cardinals, New Orleans Saints, New York Jets",34,SOLD,senskerips

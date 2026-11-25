@@ -2,19 +2,19 @@ spot,price,state,buyer
 Arizona Cardinals,69,OPEN,
 Atlanta Falcons,24,OPEN,
 Baltimore Ravens,39,OPEN,
-Buffalo Bills,59,OPEN,
+Buffalo Bills,50.15,SOLD,cs48338
 Carolina Panthers,39,OPEN,
 Chicago Bears,64,OPEN,
-Cincinnati Bengals,44,OPEN,
+Cincinnati Bengals,37.4,SOLD,macs_packs
 Cleveland Browns,49,OPEN,
 Dallas Cowboys,49,OPEN,
 Denver Broncos,54,OPEN,
 Detroit Lions,24,SOLD,sleazyskink70371
 Green Bay Packers,34,OPEN,
 Houston Texans,20.4,SOLD,braedospence
-Indianapolis Colts,34,OPEN,
+Indianapolis Colts,28.9,SOLD,ben1966
 Jacksonville Jaguars,34,OPEN,
-Kansas City Chiefs,74,OPEN,
+Kansas City Chiefs,62.9,SOLD,roc1993
 Las Vegas Raiders,84.15,SOLD,badnutty
 Los Angeles Chargers,34,OPEN,
 Los Angeles Rams,69,OPEN,
@@ -22,12 +22,12 @@ Miami Dolphins,39,OPEN,
 Minnesota Vikings,39,OPEN,
 New England Patriots,84,OPEN,
 New Orleans Saints,48.6,SOLD,badnutty
-New York Giants,59,OPEN,
+New York Giants,50.15,SOLD,reice886
 New York Jets,49,OPEN,
 Philadelphia Eagles,49,OPEN,
 Pittsburgh Steelers,44,OPEN,
 San Francisco 49ers,38,SOLD,lrelow
-Seattle Seahawks,54,OPEN,
+Seattle Seahawks,45.9,SOLD,moosehead604
 Tampa Bay Buccaneers,64,OPEN,
 Tennessee Titans,48.6,SOLD,badnutty
-Washington Commanders,49,OPEN,
+Washington Commanders,44,SOLD,roc1993

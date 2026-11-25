@@ -1,0 +1,41 @@
+spot,price,state,buyer
+#1,51,SOLD,kameronyarb
+#2,50,SOLD,vegasmann
+Las Vegas Raiders,48,SOLD,vegasmann
+#4,51,SOLD,vegasmann
+Tennessee Titans,44,SOLD,cardaddict7890
+Dallas Cowboys,51,SOLD,liaxis
+New York Jets,47,SOLD,liaxis
+Cincinnati Bengals,59,SOLD,liaxis
+Jacksonville Jaguars,70,SOLD,cardaddict7890
+Pittsburgh Steelers,56,SOLD,duhtrippytexan
+Seattle Seahawks,64,SOLD,duhtrippytexan
+Minnesota Vikings,59,SOLD,duhtrippytexan
+#13,53,SOLD,liaxis
+#14,48,SOLD,vegasmann
+Los Angeles Chargers,49,SOLD,cardaddict7890
+Miami Dolphins,53,SOLD,cardaddict7890
+Kansas City Chiefs,53,SOLD,liaxis
+Detroit Lions,54,SOLD,hotbread
+#19,51,SOLD,hotbread
+San Francisco 49ers,53,SOLD,chadwil67919
+Indianapolis Colts,48,SOLD,cardaddict7890
+New York Giants,53,SOLD,hotbread
+Chicago Bears,55,SOLD,liaxis
+Atlanta Falcons,37,SOLD,cardaddict7890
+Denver Broncos,50,SOLD,cardaddict7890
+Buffalo Bills,56,SOLD,liaxis
+#27,65,SOLD,hotbread
+Green Bay Packers,54,SOLD,marcomar95534
+Houston Texans,56,SOLD,htfmike
+Arizona Cardinals,59,SOLD,chadwil67919
+New England Patriots,63,SOLD,marcomar95534
+Philadelphia Eagles,59,SOLD,htfmike
+Los Angeles Rams,55,SOLD,cardaddict7890
+Tampa Bay Buccaneers,55,SOLD,chadwil67919
+Carolina Panthers,67,SOLD,joecon89
+New Orleans Saints,70,SOLD,cardlabzz
+Washington Commanders,70,SOLD,joecon89
+Baltimore Ravens,116,SOLD,cardlabzz
+Cleveland Browns,44,SOLD,duhtrippytexan
+misc,57,SOLD,liaxis

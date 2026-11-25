@@ -1,38 +1,35 @@
 spot,price,state,buyer
-Bears,,OPEN,
-Bengals,,OPEN,
-Bills,,OPEN,
-Broncos,,OPEN,
-Browns,,OPEN,
-Buccaneers,,OPEN,
-Cardinals,,OPEN,
-Chargers,,OPEN,
-Chiefs,,OPEN,
-Colts,,OPEN,
-Commanders,,OPEN,
-Cowboys,,OPEN,
-Dolphins,,OPEN,
-Eagles,,OPEN,
-Falcons,,OPEN,
-Giants,,OPEN,
-Jaguars,,OPEN,
-Jets,,OPEN,
-Lions,,OPEN,
-Packers,,OPEN,
-Panthers,,OPEN,
-Patriots,,OPEN,
-Raiders ,,OPEN,
-Rams,,OPEN,
-Ravens,,OPEN,
-Saints,,OPEN,
-Seahawks,,OPEN,
-Steelers,,OPEN,
-Texans,,OPEN,
-Titans,,OPEN,
-Vikings,,OPEN,
-49ers,,OPEN,
-SEC,,OPEN,
-BIG TEN,,OPEN,
-ACC,,OPEN,
-BIG 12,,OPEN,
-OTHERS,,OPEN,
+BIG TEN,7,SOLD,guccismoke
+Jets,8,SOLD,guccismoke
+49ers,8,SOLD,teflondon6386
+Seahawks,11,SOLD,loganess56557
+Titans,1,SOLD,chrisa080808
+Bears,10,SOLD,trherri_21
+Rams,10,SOLD,stiaugust
+Bills,9,SOLD,stiaugust
+Saints,9,SOLD,guccismoke
+Colts,10,SOLD,chrisa080808
+Buccaneers,12,SOLD,ogs97990
+#12,13,SOLD,ogs97990
+ACC,13,SOLD,ogs97990
+Raiders ,10,SOLD,chrisa080808
+Lions,8,SOLD,guccismoke
+BIG 12,11,SOLD,teflondon6386
+Vikings,6,SOLD,bruins1997
+Bengals,7,SOLD,guccismoke
+Cowboys,6,SOLD,chrisa080808
+Cardinals,9,SOLD,chrisa080808
+Ravens,7,SOLD,ogs97990
+Jaguars,6,SOLD,ogs97990
+Steelers,7,SOLD,ogs97990
+Broncos,7,SOLD,teflondon6386
+Giants,10,SOLD,chrisa080808
+Browns,8,SOLD,bruins1997
+OTHERS,6,SOLD,bruins1997
+SEC,8,SOLD,ablife11
+Falcons,10,SOLD,netzero_01
+Packers,10,SOLD,stocke67
+Chiefs,11,SOLD,netzero_01
+Commanders,10,SOLD,stocke67
+Patriots,10,SOLD,dc_detroit_313
+CHARGERS + DOLPHINS + EAGLES + PANTHERS + TEXANS,21,SOLD,stocke67

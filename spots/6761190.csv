@@ -1,47 +1,42 @@
 spot,price,state,buyer
-Alabama,99,OPEN,
+Alabama,70,SOLD,jaydoza50
 Delaware,16,SOLD,va_wildman
 Duke,20,SOLD,jricciok9
 LSU,32,SOLD,rippinautos
 Maryland,5,SOLD,hamberg99
 Michigan & Texas Tech,145,SOLD,dw2835
-Michigan State,75,OPEN,
+Michigan State/Tennessee,90,SOLD,jaydoza50
 NC State/New Mexico,10,SOLD,hamberg99
 Nebraska,35,SOLD,andrewolson84
 Northwestern,15,SOLD,dw2835
-Oklahoma,99,OPEN,
+Oklahoma,65,SOLD,duckyboy_cards
 Ole Miss,42,SOLD,rebelbeachgirl
 Purdue,12.5,SOLD,ryan_shelly218
-Rutgers,65,OPEN,
-Tennessee,60,OPEN,
+Rutgers,35,SOLD,duckyboy_cards
 Texas,275,SOLD,stephenang30023
 Tulsa,6,SOLD,jasontur57554
 UCF,20,SOLD,trevorgeo
-Vanderbilt,125,OPEN,
-Washington,115,OPEN,
+Vanderbilt,88,SOLD,jaydoza50
+Washington,70,SOLD,dw2835
 West Virginia,30,SOLD,mikemcgin1979
-Wisconsin,40,OPEN,
+Wisconsin,21,SOLD,wirndine
 Wyoming,12,SOLD,dw2835
-Akron/Arizona/Boise State/Boston College/Fresno State/Iowa/Minnesota/Penn State/UNLV/Western Michigan,115,OPEN,
+Akron/Arizona/Boise State/Boston College/Fresno State/Iowa/Minnesota/Penn State/UNLV/Western Michigan/Auburn/Cincinnati/Colorado/Illinois,190,SOLD,zachcspring
 Arizona State,63,SOLD,dkz1314
-Arkansas,55,OPEN,
-Auburn,35,OPEN,
-Baylor,30,OPEN,
+Arkansas,39,SOLD,bricktamland415
+Baylor,21,SOLD,bigantbayarea
 BYU,159.2,SOLD,duckyboy_cards
 California,68,SOLD,2esea
-Cincinnati,45,OPEN,
 Clemson,16,SOLD,dw2835
-Colorado,25,OPEN,
 Florida,70,SOLD,darrick_druce
 Florida State,24,SOLD,dw2835
-Georgia,85,OPEN,
+Georgia,45,SOLD,go_dawgs831
 High School,49,SOLD,jkeller622
 Houston,10,SOLD,handcuffs
-Illinois,60,OPEN,
 Indiana,115,SOLD,keepelevated
 Iowa State,20,SOLD,saml107
 Kansas,50,SOLD,michaelfar62462
-Kansas State,75,OPEN,
+Kansas State,45,SOLD,duckyboy_cards
 Kentucky,70,SOLD,andrewoverstreet
 Louisiana,7,SOLD,jonpeay
 Louisville,1,SOLD,trinity_cards
@@ -55,7 +50,6 @@ Oklahoma State,215,SOLD,bricktamland415
 Pittsburgh,30,SOLD,mike13jones
 SMU/San Diego State + Texas A&M + TCU,120,SOLD,seanzer83
 South Carolina,90,SOLD,samueland52025
-Stanford,60,OPEN,
 Syracuse,15,SOLD,mikemcgin1979
 Texas State,28,SOLD,amg1204
 UCLA,25,SOLD,keepelevated
@@ -63,6 +57,6 @@ UConn,5,SOLD,hamberg99
 USC,159,SOLD,jaydoza50
 Utah,55,SOLD,bigantbayarea
 Virginia/Washington State (WSU),16,SOLD,dw2835
-Wake Forest,125,OPEN,
+Wake Forest/Stanford,120,SOLD,seanzer83
 Western Kentucky,10,SOLD,jonpeay
 Oregon Ducks,55,SOLD,rippinautos
