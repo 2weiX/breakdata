@@ -1,40 +1,24 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-SEC East,,OPEN,
-SEC West,,OPEN,
-B10 East,,OPEN,
-B10 West,,OPEN,
-ACC,,OPEN,
-B12,,OPEN,
-ND w/ NIL and HS,,OPEN,
+Arizona Cardinals,5,SOLD,nxtgentradingcards
+Baltimore Ravens,12,SOLD,nxtgentradingcards
+Cincinnati Bengals,15,SOLD,cinkio
+Dallas Cowboys,20,SOLD,cinkio
+Denver Broncos,15,SOLD,marykio25317
+Detroit Lions,13,SOLD,cinkio
+Indianapolis Colts,8,SOLD,nxtgentradingcards
+Kansas City Chiefs,16,SOLD,cinkio
+Los Angeles Chargers,1,SOLD,marykio25317
+Miami Dolphins,6,SOLD,ramondab
+New England Patriots,8,SOLD,nxtgentradingcards
+New York Jets,7,SOLD,nxtgentradingcards
+Philadelphia Eagles,15,SOLD,nxtgentradingcards
+Pittsburgh Steelers,11,SOLD,nxtgentradingcards
+San Francisco 49ers,18,SOLD,nxtgentradingcards
+Seattle Seahawks,15,SOLD,marykio25317
+SEC West,10,SOLD,cinkio
+B10 East,15,SOLD,nxtgentradingcards
+B10 West,18,SOLD,nxtgentradingcards
+ACC,5,SOLD,cinkio
+B12,18,SOLD,nxtgentradingcards
+ND w/ NIL and HS,15,SOLD,cinkio
+#23,1,OPEN,

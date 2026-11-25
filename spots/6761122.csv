@@ -1,34 +1,42 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-Miscellaneous,,OPEN,
+Arizona Cardinals,123,SOLD,lookingtobuynow
+Atlanta Falcons,51,SOLD,jospla96361
+Baltimore Ravens,82,SOLD,jospla96361
+Buffalo Bills,101,SOLD,tyb1659
+Carolina Panthers,78,SOLD,jospla96361
+Chicago Bears,106,SOLD,heyjoesportscards
+Cincinnati Bengals,125,SOLD,tyb1659
+Cleveland Browns,104,SOLD,botrosp1979
+Dallas Cowboys,106,SOLD,daltondb50
+Denver Broncos,99,SOLD,tyb1659
+Detroit Lions,84,SOLD,celebritysports
+Green Bay Packers,102,SOLD,lookingtobuynow
+Houston Texans,91,SOLD,jospla96361
+Indianapolis Colts,77,SOLD,jospla96361
+Jacksonville Jaguars,115,SOLD,botrosp1979
+Kansas City Chiefs,116,SOLD,botrosp1979
+Las Vegas Raiders,121,SOLD,jospla96361
+Los Angeles Chargers,98,SOLD,heyjoesportscards
+Los Angeles Rams,136,SOLD,jospla96361
+Miami Dolphins,87,SOLD,jospla96361
+Minnesota Vikings,141,SOLD,jospla96361
+New England Patriots,101,SOLD,tyb1659
+New Orleans Saints,81,SOLD,jospla96361
+New York Giants,112,SOLD,botrosp1979
+New York Jets,65,SOLD,jospla96361
+Philadelphia Eagles,112,SOLD,botrosp1979
+Pittsburgh Steelers,101,SOLD,botrosp1979
+San Francisco 49ers,101,SOLD,tyb1659
+Seattle Seahawks,77,SOLD,jospla96361
+Tampa Bay Buccaneers,115,SOLD,botrosp1979
+Tennessee Titans,99,SOLD,jospla96361
+Washington Commanders,125,SOLD,lookingtobuynow
+Miscellaneous,103,SOLD,lookingtobuynow
+#3,112,SOLD,botrosp1979
+#4,104,SOLD,botrosp1979
+#5,105,SOLD,botrosp1979
+#11,101,SOLD,tyb1659
+#20,101,SOLD,lookingtobuynow
+#22,121,SOLD,lookingtobuynow
+#25,91,SOLD,heyjoesportscards
+#32,93,SOLD,jospla96361

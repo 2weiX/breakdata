@@ -1,33 +1,33 @@
 spot,price,state,buyer
-Chicago Bears,2,SOLD,harryroe1
+Chicago Bears,2,SOLD,scottygn
 #4,2,OPEN,
-#5,2,OPEN,
 #6,2,OPEN,
 #8,2,OPEN,
 #9,2,OPEN,
 Cleveland Browns,2,SOLD,jasperbhamra
-#11,2,OPEN,
-#12,2,OPEN,
-#13,2,OPEN,
 #14,2,OPEN,
 #15,2,OPEN,
 Buffalo Bills,2,SOLD,jasperbhamra
 #17,2,OPEN,
 #18,2,OPEN,
 #19,2,OPEN,
-#20,2,OPEN,
-#21,2,OPEN,
 #22,2,OPEN,
 #23,2,OPEN,
 Las Vegas Raiders,2,SOLD,jasperbhamra
 #25,2,OPEN,
-#26,2,OPEN,
 #27,2,OPEN,
 #28,2,OPEN,
 Washington Commanders,2,SOLD,jasperbhamra
-#30,2,OPEN,
-#31,2,OPEN,
-#32,2,OPEN,
-Baltimore Ravens,2,SOLD,harryroe1
-New York Jets,2,SOLD,reggie68174
+Baltimore Ravens,2,SOLD,scottygn
+New York Jets,2,SOLD,67onamerryrizzzzmass
 Pittsburgh Steelers,2,SOLD,reggie68174
+Miami Dolphins,2,SOLD,harryroe1
+New York Giants,2,SOLD,reggie68174
+"Arizona Cardinals, Seattle Seahawks",2,SOLD,harryroe1
+Los Angeles Chargers,2,SOLD,harryroe1
+Indianapolis Colts,2,SOLD,scottygn
+San Francisco 49ers,2,SOLD,harryroe1
+"Carolina Panthers, Dallas Cowboys, Los Angeles Rams, New England Patriots",2,SOLD,harryroe1
+Houston Texans,2,SOLD,harryroe1
+"Atlanta Falcons, Cincinnati Bengals, Denver Broncos, Detroit Lions, Green Bay Packers, Kansas City Chiefs, Minnesota Vikings, New Orleans Saints, Philadelphia Eagles, Tampa Bay Buccaneers, Tennessee Titans",16,SOLD,jasperbhamra
+Jacksonville Jaguars,2,SOLD,harryroe1

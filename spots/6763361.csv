@@ -1,33 +1,27 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+Arizona Cardinals,26,SOLD,skolvikesfromak
+Atlanta Falcons,20,SOLD,treehigh
+Buffalo Bills,16,SOLD,tripleaaa1139
+Chicago Bears,17,SOLD,thepenskefile
+Cincinnati Bengals,17,SOLD,eazye55
+Denver Broncos,16,SOLD,treehigh
+Jacksonville Jaguars,13,SOLD,tripleaaa1139
+Kansas City Chiefs,21,SOLD,hydro484
+Las Vegas Raiders,33,SOLD,treyrapp
+Los Angeles Chargers,13,SOLD,eazye55
+Minnesota Vikings,15,SOLD,michaeldeg
+New England Patriots,19,SOLD,eazye55
+New York Giants,13,SOLD,tripleaaa1139
+Philadelphia Eagles,15,SOLD,zonanole
+Pittsburgh Steelers,12,SOLD,miguel88
+San Francisco 49ers,16,SOLD,relcollectibles
+Seattle Seahawks,14,SOLD,zonanole
+Tampa Bay Buccaneers,13,SOLD,tripleaaa1139
+Tennessee Titans,13,SOLD,skolvikesfromak
+Washington Commanders,13,SOLD,relcollectibles
+"Baltimore Ravens, New Orleans Saints",29,SOLD,ijackirob
+"Carolina Panthers, Los Angeles Rams",36,SOLD,bigyetti
+"Cleveland Browns, Green Bay Packers",25,SOLD,eazye55
+"Detroit Lions, New York Jets",33,SOLD,maca85
+"Houston Texans, Miami Dolphins",16,SOLD,treyrapp
+"Dallas Cowboys, Indianapolis Colts",32,SOLD,hydro484

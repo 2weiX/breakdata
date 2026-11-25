@@ -1,26 +1,24 @@
 spot,price,state,buyer
-Baltimore Ravens,5,OPEN,
 Buffalo Bills,6,SOLD,harryroe1
-Carolina Panthers,6,OPEN,
-Chicago Bears,6,OPEN,
-Cleveland Browns,6,OPEN,
-Dallas Cowboys,6,OPEN,
-Denver Broncos,6,OPEN,
-Houston Texans,4,OPEN,
-Jacksonville Jaguars,7,OPEN,
+Carolina Panthers,6,SOLD,jasperbhamra
+Chicago Bears,6,SOLD,scottygn
+Cleveland Browns,1,SOLD,emma20719
+Dallas Cowboys,4,SOLD,jasperbhamra
+Denver Broncos,1,SOLD,emma20719
+Houston Texans,1,SOLD,scottygn
+Jacksonville Jaguars,1,SOLD,emma20719
 Las Vegas Raiders,10,SOLD,bjam1986
 Minnesota Vikings,5,SOLD,jasperbhamra
-New England Patriots,7,OPEN,
-New Orleans Saints,4,OPEN,
-New York Giants,10,OPEN,
+New England Patriots,1,SOLD,emma20719
+New Orleans Saints,2,SOLD,jasperbhamra
+New York Giants,1,SOLD,emma20719
 New York Jets,5,SOLD,67onamerryrizzzzmass
-Philadelphia Eagles,6,OPEN,
-Pittsburgh Steelers,4,OPEN,
+Philadelphia Eagles,11,SOLD,emma20719
+Pittsburgh Steelers,9,SOLD,emma20719
 San Francisco 49ers,5,SOLD,harryroe1
-Tampa Bay Buccaneers,5,OPEN,
+Tampa Bay Buccaneers,2,SOLD,jasperbhamra
 Tennessee Titans,10,SOLD,67onamerryrizzzzmass
 Arizona Cardinals,2,SOLD,harryroe1
-Cincinnati Bengals,6,OPEN,
 Green Bay Packers,3,SOLD,willbidds
 Los Angeles Rams,2,SOLD,harryroe1
 Miami Dolphins,2,SOLD,calebada49709

@@ -6,20 +6,18 @@ spot,price,state,buyer
 "WAS- Jayden Daniels (A), CEV, Prem1er Patch Auto",200,OPEN,
 "CAR- Tetairoa McMillan (A), AWV, SE, Gold Shield and Auto, dual w/ Bryce",90,SOLD,seasickmutant
 "TEN- Cam Ward (A), CEV",153,OPEN,
-TB- Emeka Egbuka (A),144,OPEN,
 "SEA- Sam Darnold (A), CEV, GG, HX, SBAN, dual w/ Smith-Njigba",130,OPEN,
 "ARI- Carson Beck (RC)(A), dual w/ Love",125,OPEN,
 "WAS- Sonny Styles (RC)(A), IV, CEV, DAY1",60,SOLD,royale747
 "CLE- Carson Schwesinger (A), Gold Shield, Gold Shield Auto",115,OPEN,
 "SF- Christian McCaffrey (A), UV",60,SOLD,seasickmutant
-"SF- San Francisco 49ers Others (F Gore, F Warner, Juszczyk, R Craig, R Height, C Kirk, Prysock, M Evans, N Bosa, R Pearsall, T Williams)",115,OPEN,
+"SF- San Francisco 49ers Others (F Gore, F Warner, Juszczyk, R Craig, R Height, C Kirk, Prysock, M Evans, N Bosa, R Pearsall, T Williams)",50,SOLD,redrobinn
 "TB/CLE- Baker Mayfield, GG, HX",115,OPEN,
 "PIT- Aaron Rodgers (A), IV, GG",100,OPEN,
 "SEA- Seattle Seahawks Others (Emmanwori, S Largent, E Henderson, M Smith, AJ Barner, B Clark, J Neal, Nwosu, Shaheed)",100,OPEN,
-"LAC- Justin Herbert (A), GG, UV",96,OPEN,
 "SEA- Jadarian Price (RC)(A), IV, CEV, RR",47,SOLD,seasickmutant
 "NYJ- Garrett Wilson (A), CEV, GG, dual w/ Hall",86,OPEN,
-"SF- George Kittle, IV, CEV, UV",86,OPEN,
+"SF- George Kittle, IV, CEV, UV",50,SOLD,redrobinn
 "BUF- Buffalo Bills Others (Kelly, Igbinosun, L McCoy, T Thomas, Knox, Benford, Dawkins, DJ Moore, Kilgore, Shakir, TJ Parker, Durant)",77,OPEN,
 "KC/SEA- Kenneth Walker III (A), SBAN",40,SOLD,sheppcards
 "LAR- Los Angeles Rams Others (Klare, Dickerson, D Adams, Karty, B Young, Whittington, Ferguson, Keenan, McDuffie)",77,OPEN,
@@ -54,7 +52,7 @@ ATL- Drake London (A),54,OPEN,
 HOU- Nico Collins (A),25,SOLD,traderjeffs
 "IND- Indianapolis Colts Others (Pierce, E James, McGowan, Curry, Buckner, Latu, Nelson, Leonard, Gardner)",48,OPEN,
 LAR- Kyren Williams (A),48,OPEN,
-"MIN- Minnesota Vikings Others (A Jones Sr, Claibrone, Golday, K Murray, B Murphy Jr, Tiernan, JJ McCarthy, Jennings, Hockenson, Dallas Turner)",48,OPEN,
+"MIN- Minnesota Vikings Others (A Jones Sr, Claibrone, Golday, K Murray, B Murphy Jr, Tiernan, JJ McCarthy, Jennings, Hockenson, Dallas Turner)",25,SOLD,neilmac985
 "SEA- Cooper Kupp, SBAN",48,OPEN,
 "TB- Rueben Bain Jr. (RC)(A), CEV",48,OPEN,
 "CAR- Chris Brazzell II (RC)(A), IV, CEV, RR",43,OPEN,
@@ -71,7 +69,7 @@ IND- Tyler Warren (A),38,OPEN,
 BAL- Elijah Sarratt (RC)(A),29,OPEN,
 "IND- Daniel Jones (A), IV, GG",29,OPEN,
 "IND- Jonathan Taylor, CEV",29,OPEN,
-"KC- Rashee Rice (A), Prem1er Patch Auto",29,OPEN,
+"KC- Rashee Rice (A), Prem1er Patch Auto",14,SOLD,dipsrips
 NYG- Malachi Fields (A),21,SOLD,royale747
 "NYJ- New York Jets Others (T'Vondre Sweat, Revis, A Mitchell, Ponds, D Davis, G Smith, M Taylor, Fitzpatrick)",29,OPEN,
 CLE- Emmanuel McNeil-Warren (RC)(A),24,OPEN,

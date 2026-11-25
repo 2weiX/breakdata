@@ -1,33 +1,21 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+Arizona Cardinals,24,SOLD,fez_navidad_1420
+Baltimore Ravens,23,SOLD,kmart1515
+Buffalo Bills,27,SOLD,habsalltheway
+Carolina Panthers,23,SOLD,carsonp77
+Chicago Bears,27,SOLD,habsalltheway
+Cincinnati Bengals,26,SOLD,carsonp77
+Cleveland Browns,20,SOLD,maviswinfield
+Dallas Cowboys,25,SOLD,mellymell02
+Green Bay Packers,24,SOLD,kmart1515
+Houston Texans,27,SOLD,habsalltheway
+Indianapolis Colts,20,SOLD,kmart1515
+Jacksonville Jaguars,27,SOLD,carsonp77
+Kansas City Chiefs,21,SOLD,thedksn
+Las Vegas Raiders,25,SOLD,kmart1515
+Miami Dolphins,22,SOLD,michaelfenn
+New York Jets,27,SOLD,mucvin
+Seattle Seahawks,26,SOLD,kmart1515
+Tampa Bay Buccaneers,23,SOLD,chris_topher_
+Washington Commanders,18,SOLD,maviswinfield
+#3,25,SOLD,fez_navidad_1420

@@ -1,34 +1,43 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-MISC,,OPEN,
+Atlanta Falcons,72.2,SOLD,qcy6969
+Baltimore Ravens,21,SOLD,patoc15119
+Buffalo Bills,111,SOLD,calmer_than_you_are
+Carolina Panthers,12,SOLD,milog223isbuyingurslabs
+Chicago Bears,121,SOLD,vegasmann
+Cincinnati Bengals,100,SOLD,housofcollectssp
+Cleveland Browns,106,SOLD,vegasmann
+Dallas Cowboys,250,SOLD,gbabyy86
+Denver Broncos,2,SOLD,patoc15119
+Detroit Lions,5,SOLD,calmer_than_you_are
+Green Bay Packers,112,SOLD,ellbeau
+Houston Texans,93,SOLD,patoc15119
+Jacksonville Jaguars,29,SOLD,patoc15119
+Kansas City Chiefs,115,SOLD,huntingforhits
+Las Vegas Raiders,68,SOLD,patoc15119
+Los Angeles Chargers,116,SOLD,calmer_than_you_are
+Los Angeles Rams,101,SOLD,housofcollectssp
+Miami Dolphins,65,SOLD,jameshung
+Minnesota Vikings,116,SOLD,vegasmann
+New England Patriots,103,SOLD,jesgar29487
+New Orleans Saints,11,SOLD,robbyxlr8
+New York Giants,99,SOLD,chris2jubie
+Philadelphia Eagles,115,SOLD,jesgar29487
+Pittsburgh Steelers,100,SOLD,calmer_than_you_are
+San Francisco 49ers,111,SOLD,ellbeau
+Seattle Seahawks,51,SOLD,jesgar29487
+Tampa Bay Buccaneers,116,SOLD,jesgar29487
+Tennessee Titans,93,SOLD,housofcollectssp
+Washington Commanders,92,SOLD,housofcollectssp
+MISC,116,SOLD,vegasmann
+#8,15,SOLD,vegasmann
+#9,21,SOLD,vegasmann
+#10,115,SOLD,vegasmann
+#11,116,SOLD,vegasmann
+#17,94,SOLD,calmer_than_you_are
+#19,66,SOLD,calmer_than_you_are
+#21,102,SOLD,calmer_than_you_are
+#23,105,SOLD,patoc15119
+#31,100,SOLD,housofcollectssp
+#38,12,SOLD,patoc15119
+#40,12,SOLD,milog223isbuyingurslabs
+#42,1,OPEN,

@@ -1,33 +1,28 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+Baltimore Ravens,12,SOLD,michaeldeg
+Buffalo Bills,17,SOLD,19craig86
+Carolina Panthers,23,SOLD,skolvikesfromak
+Chicago Bears,13,SOLD,coreyebelhar
+Cincinnati Bengals,11,SOLD,eazye55
+Cleveland Browns,12,SOLD,maca85
+Denver Broncos,15,SOLD,mallard22
+Detroit Lions,11,SOLD,mallard22
+Green Bay Packers,11,SOLD,maca85
+Houston Texans,12,SOLD,michaeldeg
+Indianapolis Colts,28,SOLD,coreyebelhar
+Jacksonville Jaguars,14,SOLD,thepenskefile
+Las Vegas Raiders,11,SOLD,krispykrebbles
+Los Angeles Chargers,16,SOLD,19craig86
+Los Angeles Rams,11,SOLD,beers_n_rips
+New England Patriots,18,SOLD,19craig86
+New York Jets,13,SOLD,miguel88
+Pittsburgh Steelers,12,SOLD,lootzcards
+Seattle Seahawks,11,SOLD,krispykrebbles
+Tampa Bay Buccaneers,13,SOLD,beers_n_rips
+Tennessee Titans,14,SOLD,19craig86
+Washington Commanders,14,SOLD,griffinparr
+"Kansas City Chiefs, Philadelphia Eagles",26,SOLD,hunterutley
+"Arizona Cardinals, Dallas Cowboys",25,SOLD,hunterutley
+"New York Giants, San Francisco 49ers",28,SOLD,griffinparr
+"Minnesota Vikings, New Orleans Saints",25,SOLD,lootzcards
+"Atlanta Falcons, Miami Dolphins",11,SOLD,skolvikesfromak

@@ -3,22 +3,19 @@ Atlanta Falcons,8,OPEN,
 Baltimore Ravens,8,OPEN,
 Buffalo Bills,18,OPEN,
 Carolina Panthers,18,OPEN,
-Chicago Bears,18,OPEN,
 Cincinnati Bengals,8,OPEN,
 Cleveland Browns,18,OPEN,
 Dallas Cowboys,12,OPEN,
-Denver Broncos,12,OPEN,
 Detroit Lions,12,OPEN,
-Green Bay Packers,8,OPEN,
+Green Bay Packers,8,SOLD,dr_ake94
 Houston Texans,8,OPEN,
 Indianapolis Colts,8,OPEN,
 Jacksonville Jaguars,18,OPEN,
-Kansas City Chiefs,18,OPEN,
+Kansas City Chiefs,13,SOLD,tippertip
 Los Angeles Chargers,8,OPEN,
 Los Angeles Rams,12,OPEN,
 Miami Dolphins,8,OPEN,
 Minnesota Vikings,9.6,SOLD,loveslc
-New England Patriots,8,OPEN,
 New York Jets,8,OPEN,
 Philadelphia Eagles,12,OPEN,
 Pittsburgh Steelers,8,OPEN,
@@ -27,7 +24,8 @@ Seattle Seahawks,8,OPEN,
 Washington Commanders,12,OPEN,
 Arizona Cardinals,20,OPEN,
 New Orleans Saints,8,SOLD,loveslc
-New York Giants,20,OPEN,
+New York Giants,14,SOLD,dr_ake94
 Tennessee Titans,20,OPEN,
 Las Vegas Raiders,14,SOLD,mick_q
 Tampa Bay Buccaneers,6,SOLD,mick_q
+"Chicago Bears, Denver Broncos, New England Patriots",20,SOLD,dr_ake94
