@@ -9,7 +9,7 @@ Cleveland Browns,35,OPEN,
 Dallas Cowboys,39,OPEN,
 Denver Broncos,45,OPEN,
 Detroit Lions,24.65,SOLD,eli_vz
-Houston Texans,12,SOLD,frankoniatradingcards
+Houston Texans,15,OPEN,
 Kansas City Chiefs,75,OPEN,
 Las Vegas Raiders,109,OPEN,
 Los Angeles Chargers,25,OPEN,
@@ -23,3 +23,4 @@ Seattle Seahawks,45,OPEN,
 Tampa Bay Buccaneers,49,OPEN,
 Tennessee Titans,49,OPEN,
 Washington Commanders,29,OPEN,
+#13,15,SOLD,frankoniatradingcards

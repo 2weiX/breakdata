@@ -1,34 +1,44 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-MISC,,OPEN,
+Arizona Cardinals,125,SOLD,crayzyzap
+Atlanta Falcons,140,SOLD,crayzyzap
+Baltimore Ravens,192,SOLD,imperial_pullz
+Buffalo Bills,180,SOLD,imperial_pullz
+Carolina Panthers,68,SOLD,timothy13160
+Chicago Bears,740,SOLD,whenisgivvywhoisgivvy
+Cincinnati Bengals,200,SOLD,imperial_pullz
+Cleveland Browns,260,SOLD,imperial_pullz
+Dallas Cowboys,260,SOLD,pokinets
+Denver Broncos,212,SOLD,rugluigi52
+Detroit Lions,265,SOLD,imperial_pullz
+Green Bay Packers,170,SOLD,imperial_pullz
+Houston Texans,101,SOLD,crayzyzap
+Jacksonville Jaguars,195,SOLD,crayzyzap
+Kansas City Chiefs,270,SOLD,imperial_pullz
+Las Vegas Raiders,180,SOLD,imperial_pullz
+Los Angeles Chargers,7,SOLD,rugluigi52
+Los Angeles Rams,230,SOLD,rugluigi52
+Minnesota Vikings,280,SOLD,imperial_pullz
+New England Patriots,260,SOLD,imperial_pullz
+New Orleans Saints,146,SOLD,imperial_pullz
+New York Giants,250,SOLD,rugluigi52
+New York Jets,160,SOLD,imperial_pullz
+Philadelphia Eagles,190,SOLD,rugluigi52
+Pittsburgh Steelers,250,SOLD,crayzyzap
+San Francisco 49ers,180,SOLD,imperial_pullz
+Seattle Seahawks,155,SOLD,aarond5670
+Tampa Bay Buccaneers,155,SOLD,timothy13160
+Tennessee Titans,88,SOLD,douglastho23515
+Washington Commanders,235,SOLD,rugluigi52
+MISC,200,SOLD,aarond5670
+#10,270,SOLD,imperial_pullz
+#14,221,SOLD,imperial_pullz
+#17,170,SOLD,imperial_pullz
+#19,190,SOLD,imperial_pullz
+#21,180,SOLD,imperial_pullz
+#22,195,SOLD,imperial_pullz
+#26,160,SOLD,imperial_pullz
+#27,195,SOLD,rugluigi52
+#28,182,SOLD,rugluigi52
+#30,220,SOLD,rugluigi52
+#31,195,SOLD,crayzyzap
+"Indianapolis Colts, Miami Dolphins",99,SOLD,whenisgivvywhoisgivvy

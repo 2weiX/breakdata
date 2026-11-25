@@ -1,0 +1,24 @@
+spot,price,state,buyer
+#1,1,OPEN,
+New York Giants,425,SOLD,pokinets
+Los Angeles Rams,411,SOLD,pokinets
+Kansas City Chiefs,385,SOLD,pokinets
+#5,320,SOLD,pokinets
+San Francisco 49ers,445,SOLD,pokinets
+#7,320,SOLD,pokinets
+#8,350,SOLD,pokinets
+Minnesota Vikings,320,SOLD,slimmpickinz
+#10,340,SOLD,slimmpickinz
+#11,380,SOLD,slimmpickinz
+Denver Broncos,375,SOLD,slimmpickinz
+Detroit Lions,340,SOLD,slimmpickinz
+Seattle Seahawks,350,SOLD,slimmpickinz
+Pittsburgh Steelers,475,SOLD,slimmpickinz
+Buffalo Bills,470,SOLD,slimmpickinz
+New England Patriots,450,SOLD,slimmpickinz
+#18,340,SOLD,slimmpickinz
+Dallas Cowboys,220,SOLD,slimmpickinz
+#20,210,SOLD,dkass75
+#21,325,SOLD,dkass75
+Cleveland Browns,335,SOLD,dkass75
+#23,1,OPEN,

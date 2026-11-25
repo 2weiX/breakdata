@@ -1,0 +1,29 @@
+spot,price,state,buyer
+Arizona Cardinals,8,OPEN,
+Atlanta Falcons,9,OPEN,
+Buffalo Bills,20,OPEN,
+Carolina Panthers,12,OPEN,
+Chicago Bears,12,SOLD,dquedens70
+Cincinnati Bengals,8.4,SOLD,steelcurtain1013
+Cleveland Browns,20,OPEN,
+Dallas Cowboys,11,OPEN,
+Denver Broncos,11,OPEN,
+Detroit Lions,14,OPEN,
+Green Bay Packers,15,OPEN,
+Houston Texans,8,OPEN,
+Indianapolis Colts,10,OPEN,
+Kansas City Chiefs,12.6,SOLD,steelcurtain1013
+Las Vegas Raiders,20,OPEN,
+Los Angeles Chargers,10,OPEN,
+Los Angeles Rams,12,OPEN,
+Miami Dolphins,10,OPEN,
+Minnesota Vikings,10,OPEN,
+New England Patriots,10.5,SOLD,steelcurtain1013
+New York Giants,25,SOLD,steelcurtain1013
+New York Jets,10,OPEN,
+Philadelphia Eagles,12,OPEN,
+Pittsburgh Steelers,12,OPEN,
+San Francisco 49ers,15,SOLD,bravomed
+Tampa Bay Buccaneers,12,OPEN,
+Tennessee Titans,20,OPEN,
+Washington Commanders,12,OPEN,

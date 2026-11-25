@@ -1,11 +1,10 @@
 spot,price,state,buyer
 Fernando Mendoza,275,OPEN,
- Josh Allen,99,OPEN,
+ Josh Allen,99,SOLD,goldcreek_sportcards_by_linne
 Bijan Robinson,39,OPEN,
- Bo Nix ,55,OPEN,
+ Bo Nix ,55,SOLD,pudding17
 Brock Bowers,39,OPEN,
- Brock Purdy ,65,OPEN,
-Bryce Young,39,OPEN,
+Bryce Young,31.2,SOLD,henne_svd
  Caleb Williams ,99,OPEN,
 Carnell Tate,75,OPEN,
 Carson Beck,69,OPEN,
@@ -18,9 +17,7 @@ Jahmyr Gibbs,49,OPEN,
 Ja'Marr Chase,29,OPEN,
  Jaxon Smith-Njigba ,75,OPEN,
  Jaxson Dart ,59,OPEN,
- Jayden Daniels ,65,OPEN,
 Jeremiyah Love,75,OPEN,
- Jerry Rice ,39,OPEN,
  Joe Burrow ,99,OPEN,
 Jordyn Tyson,39,OPEN,
 Justin Jefferson,39,OPEN,
@@ -34,3 +31,4 @@ Tetairoa McMilan,39,OPEN,
 Tom Brady,199,OPEN,
  Trevor Lawrence ,39,OPEN,
 Ty Simpson,99,OPEN,
+Josh Allen,79.2,SOLD,goldcreek_sportcards_by_linne

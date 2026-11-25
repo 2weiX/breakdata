@@ -3,7 +3,6 @@ spot,price,state,buyer
 #2,7,OPEN,
 Pittsburgh Steelers,7,SOLD,kaypi84
 #4,7,OPEN,
-#5,7,OPEN,
 #6,7,OPEN,
 Cleveland Browns,7,SOLD,mightytim84
 Cincinnati Bengals,5,SOLD,bighoffes80
@@ -11,7 +10,6 @@ Baltimore Ravens,7,SOLD,bighoffes80
 Green Bay Packers,7,SOLD,jensrh
 Indianapolis Colts,7,SOLD,murmel74
 San Francisco 49ers,7,SOLD,kaypi84
-#13,7,OPEN,
 #14,7,OPEN,
 Arizona Cardinals,7,SOLD,phca
 Washington Commanders,5,SOLD,bighoffes80
@@ -31,3 +29,5 @@ Miami Dolphins,7,SOLD,bighoffes80
 Los Angeles Rams,6,SOLD,jensrh
 Atlanta Falcons,7,SOLD,frank_yankee
 #32,7,OPEN,
+New York Jets,7,SOLD,rayleigh_j_b
+New York Giants,7,SOLD,carbau79

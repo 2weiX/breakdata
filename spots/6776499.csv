@@ -1,43 +1,19 @@
 spot,price,state,buyer
-ACC,,OPEN,
-AMERICAN,,OPEN,
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-BIG 10,,OPEN,
-BIG 12,,OPEN,
-BIG SKY FCS,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-FBS IND.,,OPEN,
-Green Bay Packers,,OPEN,
-HIGH SCHOOL,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-MOUNTAIN WEST,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-PAC 12,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-SEC,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+ACC,1,SOLD,mbf12342003
+Buffalo Bills,11,SOLD,blabble
+Dallas Cowboys,11,SOLD,johnnyjim95802
+FBS IND.,10,SOLD,mbf12342003
+Green Bay Packers,10,SOLD,mbf12342003
+Kansas City Chiefs,11,SOLD,mbf12342003
+Los Angeles Chargers,12,SOLD,mbf12342003
+Los Angeles Rams,15,SOLD,mbf12342003
+Minnesota Vikings,11,SOLD,mbf12342003
+New England Patriots,10,SOLD,mbf12342003
+New Orleans Saints,1,SOLD,mbf12342003
+New York Giants,10,SOLD,mbf12342003
+PAC 12,12,SOLD,mbf12342003
+SEC,12,SOLD,blabble
+San Francisco 49ers,11,SOLD,johnnyjim95802
+#8,16,SOLD,mbf12342003
+#10,11,SOLD,blabble
+#12,18,SOLD,mbf12342003

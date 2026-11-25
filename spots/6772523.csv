@@ -1,5 +1,5 @@
 spot,price,state,buyer
-Arizona Cardinals,35,OPEN,
+Arizona Cardinals,30,SOLD,mathal29792
 Atlanta Falcons,14,OPEN,
 Baltimore Ravens,20,OPEN,
 Buffalo Bills,23,OPEN,
@@ -7,14 +7,14 @@ Carolina Panthers,15,OPEN,
 Chicago Bears,30,OPEN,
 Cincinnati Bengals,17,SOLD,mathal29792
 Cleveland Browns,22,OPEN,
-Dallas Cowboys,25,OPEN,
+Dallas Cowboys,22,SOLD,mathal29792
 Denver Broncos,17,OPEN,
 Detroit Lions,15,SOLD,mathal29792
 Green Bay Packers,14,OPEN,
 Houston Texans,12,OPEN,
-Indianapolis Colts,10,OPEN,
-Jacksonville Jaguars,10,OPEN,
-Kansas City Chiefs,22,OPEN,
+Indianapolis Colts,7,SOLD,mathal29792
+Jacksonville Jaguars,8,SOLD,mathal29792
+Kansas City Chiefs,16,SOLD,mathal29792
 Las Vegas Raiders,62,OPEN,
 Los Angeles Chargers,15,OPEN,
 Los Angeles Rams,32,OPEN,
