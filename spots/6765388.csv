@@ -1,9 +1,7 @@
 spot,price,state,buyer
 Arizona Cardinals,5,OPEN,
 Atlanta Falcons,5,OPEN,
-Carolina Panthers,5,OPEN,
 Cincinnati Bengals,5,SOLD,gufmichael
-Cleveland Browns,5,OPEN,
 Dallas Cowboys,5,SOLD,dgarry613
 Denver Broncos,5,OPEN,
 Detroit Lions,4,SOLD,samtheham203
@@ -22,3 +20,5 @@ Seattle Seahawks,5,OPEN,
 Tampa Bay Buccaneers,5,OPEN,
 Tennessee Titans,5,OPEN,
 Washington Commanders,5,OPEN,
+Carolina Panthers,5,SOLD,r8drmatt
+Cleveland Browns,5,SOLD,r8drmatt

@@ -1,33 +1,33 @@
 spot,price,state,buyer
-#1,42,OPEN,
-#2,42,OPEN,
-#3,42,OPEN,
-#4,42,OPEN,
-#5,42,OPEN,
-#6,42,OPEN,
-#7,42,OPEN,
-#8,42,OPEN,
-#9,37.8,SOLD,macs_packs
-#10,40,SOLD,mightymeerkats
-#11,42,OPEN,
-#12,42,OPEN,
-#13,42,OPEN,
-#14,42,OPEN,
-#15,42,OPEN,
-#16,42,OPEN,
-#17,42,SOLD,ben1966
-#18,42,OPEN,
-#19,42,OPEN,
-#20,42,OPEN,
-#21,42,OPEN,
-#22,37.8,SOLD,reice886
-#23,42,OPEN,
-#24,37.8,SOLD,jaxonsardi11639
-#25,42,OPEN,
-#26,42,SOLD,allaboutthebasecards
-#27,42,OPEN,
-#28,42,OPEN,
-#29,42,OPEN,
-#30,42,OPEN,
-#31,42,OPEN,
-#32,37,SOLD,reice886
+Kansas City Chiefs,37.8,SOLD,reice886
+Chicago Bears,37,SOLD,neroli_2424
+Houston Texans,40,SOLD,braedospence
+Denver Broncos,37,SOLD,bluegum
+New York Jets,38,SOLD,roc1993
+Tennessee Titans,42,SOLD,rachaelada51024
+San Francisco 49ers,38,SOLD,dbirko27
+New York Giants,42,SOLD,liambowlesyy
+Minnesota Vikings,37.8,SOLD,macs_packs
+Cleveland Browns,40,SOLD,mightymeerkats
+Los Angeles Rams,37.8,SOLD,macs_packs
+Las Vegas Raiders,42,SOLD,crabry20795
+New England Patriots,42,SOLD,crabry20795
+Atlanta Falcons,32,SOLD,roc1993
+Seattle Seahawks,42,SOLD,roc1993
+Dallas Cowboys,37.8,SOLD,moosehead604
+Miami Dolphins,42,SOLD,ben1966
+Tampa Bay Buccaneers,34.2,SOLD,reice886
+Buffalo Bills,33,SOLD,jamgri58299
+Philadelphia Eagles,37,SOLD,bluegum
+Cincinnati Bengals,37,SOLD,rlk08
+Arizona Cardinals,37.8,SOLD,reice886
+Detroit Lions,42,SOLD,roc1993
+Los Angeles Chargers,37.8,SOLD,jaxonsardi11639
+New Orleans Saints,32,SOLD,roc1993
+Pittsburgh Steelers,42,SOLD,allaboutthebasecards
+Baltimore Ravens,37,SOLD,dbirko27
+Green Bay Packers,32,SOLD,roc1993
+Indianapolis Colts,33,SOLD,allaboutthebasecards
+Carolina Panthers,38,SOLD,crabry20795
+Washington Commanders,32,SOLD,roc1993
+Jacksonville Jaguars,37,SOLD,reice886

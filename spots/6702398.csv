@@ -1,33 +1,33 @@
 spot,price,state,buyer
-Arizona Cardinals,10,OPEN,
 Atlanta Falcons,1,SOLD,tobweg
-Baltimore Ravens,5,OPEN,
 Buffalo Bills,10,SOLD,ren03665
 Carolina Panthers,5,SOLD,lifeislawsome
-Chicago Bears,9,OPEN,
 Cincinnati Bengals,7,SOLD,sideline_soulmates
-Cleveland Browns,6,OPEN,
-Dallas Cowboys,7,OPEN,
-Denver Broncos,8,OPEN,
 Detroit Lions,5,SOLD,tobweg
 Green Bay Packers,2,SOLD,finstephan
 Houston Texans,3,SOLD,phca
-Indianapolis Colts,3,OPEN,
-Jacksonville Jaguars,5,OPEN,
-Kansas City Chiefs,14,OPEN,
-Las Vegas Raiders,19,OPEN,
-Los Angeles Chargers,5,OPEN,
-Los Angeles Rams,12,OPEN,
-Miami Dolphins,3,OPEN,
-Minnesota Vikings,5,OPEN,
-New England Patriots,13,OPEN,
-New Orleans Saints,6,OPEN,
-New York Giants,7,OPEN,
-New York Jets,5,OPEN,
-Philadelphia Eagles,7,OPEN,
 Pittsburgh Steelers,4.8,SOLD,lambeauleapz
 San Francisco 49ers,8,SOLD,schmidtler2901
 Seattle Seahawks,8,SOLD,cooperskartenhaus
-Tampa Bay Buccaneers,9,OPEN,
-Tennessee Titans,9,OPEN,
-Washington Commanders,5,OPEN,
+Arizona Cardinals,7,SOLD,phca
+Baltimore Ravens,4,SOLD,xandersander
+Chicago Bears,5,SOLD,clx_13
+Cleveland Browns,5,SOLD,tusmarkus
+Dallas Cowboys,5.6,SOLD,carbau79
+Denver Broncos,6.4,SOLD,xandersander
+Indianapolis Colts,2,SOLD,xandersander
+Jacksonville Jaguars,4,SOLD,tusmarkus
+Kansas City Chiefs,13,SOLD,benediktsee
+Las Vegas Raiders,16,SOLD,benediktsee
+Los Angeles Chargers,4,SOLD,benediktsee
+Los Angeles Rams,9.6,SOLD,phca
+Miami Dolphins,3,SOLD,phca
+Minnesota Vikings,4,SOLD,detlefzim
+New England Patriots,11,SOLD,sideline_soulmates
+New Orleans Saints,5.1,SOLD,benediktsee
+New York Giants,5,SOLD,carbau79
+New York Jets,4,SOLD,phca
+Philadelphia Eagles,5,SOLD,benediktsee
+Tampa Bay Buccaneers,7,SOLD,carbau79
+Tennessee Titans,7,SOLD,clx_13
+Washington Commanders,4,SOLD,tusmarkus
