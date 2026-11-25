@@ -1,19 +1,52 @@
 spot,price,state,buyer
-ACC,1,SOLD,mbf12342003
-Buffalo Bills,11,SOLD,blabble
 Dallas Cowboys,11,SOLD,johnnyjim95802
-FBS IND.,10,SOLD,mbf12342003
-Green Bay Packers,10,SOLD,mbf12342003
-Kansas City Chiefs,11,SOLD,mbf12342003
-Los Angeles Chargers,12,SOLD,mbf12342003
-Los Angeles Rams,15,SOLD,mbf12342003
-Minnesota Vikings,11,SOLD,mbf12342003
-New England Patriots,10,SOLD,mbf12342003
 New Orleans Saints,1,SOLD,mbf12342003
-New York Giants,10,SOLD,mbf12342003
-PAC 12,12,SOLD,mbf12342003
-SEC,12,SOLD,blabble
 San Francisco 49ers,11,SOLD,johnnyjim95802
+FBS IND.,10,SOLD,mbf12342003
+New York Giants,10,SOLD,mbf12342003
+New England Patriots,10,SOLD,mbf12342003
+Kansas City Chiefs,11,SOLD,mbf12342003
 #8,16,SOLD,mbf12342003
+Minnesota Vikings,11,SOLD,mbf12342003
 #10,11,SOLD,blabble
+PAC 12,12,SOLD,mbf12342003
 #12,18,SOLD,mbf12342003
+Los Angeles Chargers,12,SOLD,mbf12342003
+SEC,12,SOLD,blabble
+ACC,1,SOLD,mbf12342003
+Los Angeles Rams,15,SOLD,mbf12342003
+Buffalo Bills,11,SOLD,blabble
+Green Bay Packers,10,SOLD,mbf12342003
+Jacksonville Jaguars,11,SOLD,mbf12342003
+#20,10,SOLD,blabble
+Atlanta Falcons,11,SOLD,spensd
+#22,16,SOLD,chrisada01839
+Chicago Bears,16,SOLD,chrisada01839
+#24,13,SOLD,chrisada01839
+MOUNTAIN WEST,14,SOLD,albert575757
+#26,14,SOLD,spensd
+Cincinnati Bengals,1,SOLD,spensd
+#28,15,SOLD,chrisada01839
+AMERICAN,13,SOLD,spensd
+BIG 10,7,SOLD,spensd
+Carolina Panthers,9,SOLD,spensd
+Las Vegas Raiders,1,SOLD,chrisada01839
+BIG 12,15,SOLD,albert575757
+Philadelphia Eagles,12,SOLD,blabble
+#35,10,SOLD,chrisada01839
+Seattle Seahawks,9,SOLD,chrisada01839
+Cleveland Browns,8,SOLD,chrisada01839
+Tennessee Titans,14,SOLD,chrisada01839
+Indianapolis Colts,9,SOLD,juddkai
+HIGH SCHOOL,8,SOLD,johnnyjim95802
+Arizona Cardinals,9,SOLD,kennethmye36739
+Denver Broncos,9,SOLD,johnnyjim95802
+Tampa Bay Buccaneers,7,SOLD,crazyone34
+New York Jets,20,SOLD,rockyasincity
+Baltimore Ravens,8,SOLD,crazyone34
+Washington Commanders,9,SOLD,jrod52687
+Houston Texans,12,SOLD,rockyasincity
+BIG SKY FCS,11,SOLD,crazyone34
+Pittsburgh Steelers,15,SOLD,crazyone34
+Miami Dolphins,18,SOLD,crazyone34
+Detroit Lions,20,SOLD,kennethmye36739

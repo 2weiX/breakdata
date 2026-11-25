@@ -1,38 +1,54 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-MISC,,OPEN,
-DOWNTOWN,,OPEN,
-DOWNTOWN,,OPEN,
-DOWNTOWN,,OPEN,
-DOWNTOWN,,OPEN,
+Kansas City Chiefs,115,SOLD,buzzy_sports
+T,114,SOLD,endzonechasers
+Dallas Cowboys,114,SOLD,endzonechasers
+T,111,SOLD,endzonechasers
+Los Angeles Rams,115,SOLD,aldog714
+T,117,SOLD,aldog714
+R,115,SOLD,buzzy_sports
+DOWNTOWN,121,SOLD,johnkho23
+T,121,SOLD,aldog714
+New York Giants,116,SOLD,danaticats
+Cleveland Browns,128,SOLD,beezythatguy515
+R,119,SOLD,danaticats
+Chicago Bears,123,SOLD,aldog714
+Los Angeles Chargers,117,SOLD,danaticats
+Cincinnati Bengals,118,SOLD,endzonechasers
+T,121,SOLD,buzzy_sports
+Philadelphia Eagles,124,SOLD,buzzy_sports
+Washington Commanders,122,SOLD,buzzy_sports
+New England Patriots,122,SOLD,endzonechasers
+T,124,SOLD,buzzy_sports
+Detroit Lions,126,SOLD,buzzy_sports
+T,122,SOLD,danaticats
+Las Vegas Raiders,125,SOLD,buzzy_sports
+Buffalo Bills,127,SOLD,aldog714
+MISC,122,SOLD,endzonechasers
+T,106,SOLD,danaticats
+T,130,SOLD,klinezac
+Baltimore Ravens,117,SOLD,danaticats
+Green Bay Packers,123,SOLD,johnkho23
+Minnesota Vikings,120,SOLD,danaticats
+T,120,SOLD,johnkho23
+DOWNTOWN,120,SOLD,johnkho23
+San Francisco 49ers,112,SOLD,endzonechasers
+DOWNTOWN,101,SOLD,buzzy_sports
+Denver Broncos,95,SOLD,endzonechasers
+T,75,SOLD,aldog714
+Atlanta Falcons,70,SOLD,johnkho23
+T,68,SOLD,johnkho23
+Pittsburgh Steelers,66,SOLD,jaxpav
+T,67,SOLD,johnkho23
+Tennessee Titans,57,SOLD,klinezac
+#42,100,SOLD,the_rizzler_daddy67
+Seattle Seahawks,68,SOLD,johnkho23
+Carolina Panthers,66,SOLD,aldog714
+Jacksonville Jaguars,63,SOLD,johnkho23
+Arizona Cardinals,61,SOLD,johnkho23
+Miami Dolphins,67,SOLD,johnkho23
+New Orleans Saints,70,SOLD,johnkho23
+DOWNTOWN,72,SOLD,johnkho23
+Tampa Bay Buccaneers,15,SOLD,buzzy_sports
+Indianapolis Colts,17,SOLD,johnkho23
+New York Jets,16,SOLD,givvygobbler20
+Houston Texans,17,SOLD,johnkho23

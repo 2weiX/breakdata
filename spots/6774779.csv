@@ -1,8 +1,49 @@
 spot,price,state,buyer
 Atlanta Falcons,109,SOLD,jcarroll57
-Cleveland Browns,121,SOLD,jcarroll57
-Denver Broncos,127,SOLD,everythinginsurance
 Los Angeles Chargers,110,SOLD,buzzy_sports
-New York Jets,108,SOLD,buzzy_sports
-#5,130,SOLD,everythinginsurance
-#7,1,OPEN,
+Green Bay Packers,108,SOLD,buzzy_sports
+Denver Broncos,127,SOLD,everythinginsurance
+T,130,SOLD,everythinginsurance
+Cleveland Browns,121,SOLD,jcarroll57
+T,115,SOLD,buzzy_sports
+T,134,SOLD,skunkycardemporium315
+New England Patriots,124,SOLD,peterupinyou85
+Los Angeles Rams,126,SOLD,skunkycardemporium315
+Y,115,SOLD,skunkycardemporium315
+Dallas Cowboys,110,SOLD,moneyfromthecouch1
+T,111,SOLD,moneyfromthecouch1
+New York Giants,111,SOLD,williamlance77
+San Francisco 49ers,104,SOLD,skunkycardemporium315
+Jacksonville Jaguars,94,SOLD,buzzy_sports
+T,99,SOLD,buzzy_sports
+T,106,SOLD,johnkho23
+Baltimore Ravens,78,SOLD,buzzy_sports
+T,86,SOLD,buzzy_sports
+MISC,110,SOLD,johnkho23
+Carolina Panthers,93,SOLD,buzzy_sports
+Detroit Lions,106,SOLD,johnkho23
+Minnesota Vikings,105,SOLD,everythinginsurance
+Pittsburgh Steelers,120,SOLD,everythinginsurance
+T,91,SOLD,jcarroll57
+T,95,SOLD,johnkho23
+Chicago Bears,96,SOLD,everythinginsurance
+T,83,SOLD,johnkho23
+Cincinnati Bengals,83,SOLD,buzzy_sports
+Las Vegas Raiders,82,SOLD,johnkho23
+T,91,SOLD,ethanlee30127
+Philadelphia Eagles,111,SOLD,buzzy_sports
+T,83,SOLD,ethanlee30127
+Buffalo Bills,93,SOLD,johnkho23
+Seattle Seahawks,64,SOLD,ethanlee30127
+T,74,SOLD,ethanlee30127
+Miami Dolphins,47,SOLD,endzonechasers
+#39,73,SOLD,ethanlee30127
+Tampa Bay Buccaneers,54,SOLD,endzonechasers
+Washington Commanders,68,SOLD,endzonechasers
+New York Jets,57,SOLD,aldog714
+Indianapolis Colts,68,SOLD,endzonechasers
+New Orleans Saints,73,SOLD,johnkho23
+Arizona Cardinals,84,SOLD,drunkenfists
+Kansas City Chiefs,107,SOLD,williamlance77
+Houston Texans,21,SOLD,drunkenfists
+Tennessee Titans,17,SOLD,givvygobbler20

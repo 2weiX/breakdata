@@ -1,83 +1,82 @@
 spot,price,state,buyer
 Arvell Reese RC,1,OPEN,
 Caleb Downs RC,1,OPEN,
-David Bailey RC,1,OPEN,
+David Bailey RC,16,SOLD,schari87xxx
 Denzel Boston RC,1,OPEN,
 KC Concepcion RC,1,OPEN,
-Kenyon Sadiq RC,1,OPEN,
-Cade Klubnik RC,1,OPEN,
+Kenyon Sadiq RC,12,SOLD,schari87xxx
+Cade Klubnik RC,11,SOLD,schari87xxx
 Jadarian Price RC,1,OPEN,
-Nick Singleton RC,1,OPEN,
+Nick Singleton RC,1,SOLD,ronny_maccaroni
 Rueben Bain Jr. RC,1,OPEN,
-Zachariah Branch RC,1,OPEN,
-Garrett Nussmeier RC,1,OPEN,
-Chris Brazzell II RC,1,OPEN,
+Zachariah Branch RC,2,SOLD,yannickyves
+Garrett Nussmeier RC,18,SOLD,soenke23
+Chris Brazzell II RC,1,SOLD,henne_svd
 Malachi Fields RC,1,OPEN,
-Chris Bell RC,1,OPEN,
-Cam Ward,1,OPEN,
-Ashton Jeanty,1,OPEN,
-Tyler Shough,1,OPEN,
-TreVeyon Henderson,1,OPEN,
-Quinshon Judkins,1,OPEN,
-Omarion Hampton,1,OPEN,
-Travis Hunter,1,OPEN,
-Shedeur Sanders,1,OPEN,
-Emeka Egbuka,1,OPEN,
-Saquon Barkley,1,OPEN,
-Aaron Rodgers,1,OPEN,
-De'Von Achane,1,OPEN,
-Garrett Wilson,1,OPEN,
-Micah Parsons,1,OPEN,
-T.J. Watt,1,OPEN,
-Amon-Ra St. Brown,1,OPEN,
-CeeDee Lamb,1,OPEN,
-Brian Thomas Jr.,1,OPEN,
-Peyton Manning,1,OPEN,
-Barry Sanders,1,OPEN,
-Dan Marino,1,OPEN,
-Randy Moss,1,OPEN,
-John Elway,1,OPEN,
-Drew Brees,1,OPEN,
-Rob Gronkowski,1,OPEN,
-Michael Vick,1,OPEN,
-Deion Sanders,1,OPEN,
-Bo Jackson,1,OPEN,
-Eli Manning,1,OPEN,
-Troy Aikman,1,OPEN,
-Lawrence Taylor,1,OPEN,
-Ray Lewis,1,OPEN,
- Baker Mayfield,1,OPEN,
-Kurt Warner,1,OPEN,
-Larry Fitzgerald,1,OPEN,
-Derrick Henry,1,OPEN,
-De'Zhaun Stribling RC,1,OPEN,
-Arizona Cardinals – REST,1,OPEN,
-Atlanta Falcons – REST,1,OPEN,
-Baltimore Ravens – REST,1,OPEN,
-Buffalo Bills – REST,1,OPEN,
-Carolina Panthers – REST,1,OPEN,
-Chicago Bears – REST,1,OPEN,
-Cincinnati Bengals – REST,1,OPEN,
-Cleveland Browns – REST,1,OPEN,
-Dallas Cowboys – REST,1,OPEN,
-Denver Broncos – REST,1,OPEN,
-Detroit Lions – REST,1,OPEN,
-Green Bay Packers – REST,1,OPEN,
-Houston Texans – REST,1,OPEN,
-Indianapolis Colts – REST,1,OPEN,
-Jacksonville Jaguars – REST,1,OPEN,
-Kansas City Chiefs – REST,1,OPEN,
-Las Vegas Raiders – REST,1,OPEN,
+Chris Bell RC,3,SOLD,schari87xxx
+Cam Ward,12,SOLD,ldocards
+Ashton Jeanty,5,SOLD,ric54887
+Tyler Shough,20,SOLD,holundermann
+TreVeyon Henderson,6,SOLD,buzzufo
+Quinshon Judkins,5,SOLD,mco3101
+Omarion Hampton,6,SOLD,ronny_maccaroni
+Travis Hunter,5,SOLD,derek_mayer
+Shedeur Sanders,6,SOLD,mco3101
+Emeka Egbuka,4,SOLD,larsvegas
+Saquon Barkley,7,SOLD,nixlos
+Aaron Rodgers,19,SOLD,julsch15854
+De'Von Achane,3,SOLD,fateblaa
+Garrett Wilson,7,SOLD,schari87xxx
+Micah Parsons,11,SOLD,clx_13
+T.J. Watt,2,SOLD,marvinelias04
+Amon-Ra St. Brown,17,SOLD,max_st_brown
+CeeDee Lamb,17,SOLD,ric54887
+Brian Thomas Jr.,0,SOLD,willmaranda69
+Peyton Manning,7,SOLD,kowelenzer11
+Barry Sanders,5,SOLD,ric54887
+Dan Marino,1,SOLD,willmaranda69
+Randy Moss,3,SOLD,willmaranda69
+John Elway,2,SOLD,nixlos
+Drew Brees,4,SOLD,holundermann
+Rob Gronkowski,6,SOLD,buzzufo
+Michael Vick,3,SOLD,derek_mayer
+Deion Sanders,1,SOLD,willmaranda69
+Bo Jackson,2,SOLD,nixlos
+Eli Manning,4.8,SOLD,ohauns
+Troy Aikman,7,SOLD,willmaranda69
+Lawrence Taylor,1,SOLD,willmaranda69
+Ray Lewis,3,SOLD,thewhitebeast
+ Baker Mayfield,6,SOLD,ter_stenz1
+Kurt Warner,0,SOLD,8a8ymonster
+Larry Fitzgerald,1,SOLD,dama1610
+Derrick Henry,17,SOLD,8a8ymonster
+Arizona Cardinals – REST,5,SOLD,makrele2000
+Atlanta Falcons – REST,9,SOLD,yannickyves
+Baltimore Ravens – REST,10,SOLD,willmaranda69
+Buffalo Bills – REST,19,SOLD,yannickyves
+Carolina Panthers – REST,32,SOLD,mikeb29688
+Chicago Bears – REST,17,SOLD,8a8ymonster
+Cincinnati Bengals – REST,10,SOLD,langnesium
+Cleveland Browns – REST,9,SOLD,torius82
+Dallas Cowboys – REST,27,SOLD,k3nnyk
+Denver Broncos – REST,12,SOLD,torius82
+Detroit Lions – REST,19,SOLD,max_st_brown
+Green Bay Packers – REST,24,SOLD,jensrh
+Houston Texans – REST,41,SOLD,frankoniatradingcards
+Indianapolis Colts – REST,6,SOLD,andreasfin
+Jacksonville Jaguars – REST,15,SOLD,ric54887
+Kansas City Chiefs – REST,46,SOLD,soenke23
+Las Vegas Raiders – REST,15,SOLD,ohauns
 Los Angeles Chargers – REST,1,OPEN,
-Los Angeles Rams – REST,1,OPEN,
-Miami Dolphins – REST,1,OPEN,
-Minnesota Vikings – REST,1,OPEN,
-New England Patriots – REST,1,OPEN,
-New Orleans Saints – REST,1,OPEN,
-New York Giants – REST,1,OPEN,
-New York Jets – REST,1,OPEN,
-Philadelphia Eagles – REST,1,OPEN,
-Pittsburgh Steelers – REST,1,OPEN,
-Seattle Seahawks – REST,1,OPEN,
-Tampa Bay Buccaneers – REST,1,OPEN,
-Tennessee Titans – REST,1,OPEN,
+Los Angeles Rams – REST,9,SOLD,rhein_rams_cards
+Miami Dolphins – REST,11,SOLD,fateblaa
+Minnesota Vikings – REST,14,SOLD,8a8ymonster
+New England Patriots – REST,19,SOLD,derek_mayer
+New Orleans Saints – REST,10,SOLD,thewhitebeast
+New York Giants – REST,14,SOLD,ter_stenz1
+New York Jets – REST,5,SOLD,schari87xxx
+Philadelphia Eagles – REST,12,SOLD,rudolfius
+Pittsburgh Steelers – REST,22,SOLD,yannickyves
+Seattle Seahawks – REST,20,SOLD,lfi97
+Tampa Bay Buccaneers – REST,19,SOLD,ter_stenz1
+Tennessee Titans – REST,7,SOLD,yannickyves

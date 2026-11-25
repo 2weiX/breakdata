@@ -2,13 +2,12 @@ spot,price,state,buyer
 Buffalo Bills,6,SOLD,dylripspacks
 Denver Broncos,6,SOLD,dylripspacks
 New Orleans Saints,6,SOLD,dylripspacks
-Minnesota Vikings,6,SOLD,l4br4t
+San Francisco 49ers,6,SOLD,dylripspacks
 New York Jets,5.7,SOLD,dylripspacks
 Chicago Bears,6,SOLD,crazygs
 Baltimore Ravens,4,SOLD,elephant100
 Arizona Cardinals,6,SOLD,jasonbre94250
 Detroit Lions,6,SOLD,benslammin
-San Francisco 49ers,6,SOLD,dylripspacks
 Atlanta Falcons,6,SOLD,moonman36433
 Tennessee Titans,6,SOLD,dodger559
 Jacksonville Jaguars,8,SOLD,moonman36433
@@ -18,6 +17,7 @@ Los Angeles Chargers,6,SOLD,crazygs
 #16,6,SOLD,dylripspacks
 Pittsburgh Steelers,6,SOLD,dylripspacks
 Dallas Cowboys,6,SOLD,l4br4t
+Minnesota Vikings,6,SOLD,l4br4t
 Los Angeles Rams,6,SOLD,donger_need_food
 Las Vegas Raiders,6,SOLD,donger_need_food
 Green Bay Packers,6,SOLD,donger_need_food
@@ -28,4 +28,4 @@ Cleveland Browns,6,SOLD,donger_need_food
 Kansas City Chiefs,6,SOLD,donger_need_food
 New York Giants,6,SOLD,donger_need_food
 Miami Dolphins,5,SOLD,philmaz
-#30,1,OPEN,
+"Carolina Panthers, Cincinnati Bengals, Indianapolis Colts, Washington Commanders",16,SOLD,donger_need_food

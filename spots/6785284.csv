@@ -1,34 +1,26 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-Miscellaneous,,OPEN,
+Minnesota Vikings,111,SOLD,tyb1659
+Houston Texans,121,SOLD,josheva50547
+Chicago Bears,88,SOLD,tyb1659
+Los Angeles Rams,111,SOLD,tyb1659
+New York Giants,131,SOLD,nike_jacket
+Kansas City Chiefs,130,SOLD,tyb1659
+San Francisco 49ers,136,SOLD,josheva50547
+Los Angeles Chargers,95,SOLD,mjskradski
+Green Bay Packers,99,SOLD,tyb1659
+#10,99,SOLD,tyb1659
+#11,94,SOLD,awkward_tony
+#12,99,SOLD,awkward_tony
+Las Vegas Raiders,105,SOLD,kuest
+#14,116,SOLD,kuest
+Baltimore Ravens,135,SOLD,kuest
+Denver Broncos,170,SOLD,jospla96361
+New England Patriots,185,SOLD,kuest
+Cincinnati Bengals,120,SOLD,awkward_tony
+Atlanta Falcons,105,SOLD,jospla96361
+Pittsburgh Steelers,156,SOLD,jospla96361
+New Orleans Saints,90,SOLD,mjskradski
+Arizona Cardinals,98,SOLD,kuest
+Buffalo Bills,131,SOLD,quentin6
+Tennessee Titans,67,SOLD,kuest
+#25,1,OPEN,

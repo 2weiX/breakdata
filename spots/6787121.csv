@@ -1,0 +1,39 @@
+spot,price,state,buyer
+t,154,SOLD,buzzy_sports
+Los Angeles Chargers,165,SOLD,buzzy_sports
+Philadelphia Eagles,159,SOLD,buzzy_sports
+San Francisco 49ers,163,SOLD,buzzy_sports
+Houston Texans,137,SOLD,davebrown56
+Buffalo Bills,177,SOLD,wildcats2686
+#7,177,SOLD,wildcats2686
+#8,176,SOLD,wildcats2686
+Baltimore Ravens,173,SOLD,troymarcyes
+Carolina Panthers,183,SOLD,johnkho23
+New England Patriots,191,SOLD,johnkho23
+t,185,SOLD,troymarcyes
+t,184,SOLD,wildcats2686
+New York Giants,181,SOLD,wildcats2686
+Kansas City Chiefs,175,SOLD,wildcats2686
+Los Angeles Rams,175,SOLD,wildcats2686
+Pittsburgh Steelers,163,SOLD,squirt_turkey
+Minnesota Vikings,117,SOLD,davebrown56
+Cleveland Browns,110,SOLD,327cards
+#20,96,SOLD,johnkho23
+Chicago Bears,95,SOLD,everythinginsurance
+Tampa Bay Buccaneers,84,SOLD,wildcats2686
+Green Bay Packers,68,SOLD,johnkho23
+Cincinnati Bengals,67,SOLD,johnkho23
+Detroit Lions,64,SOLD,travis1742
+Miami Dolphins,71,SOLD,jawnstars
+Denver Broncos,70,SOLD,jawnstars
+MISC,73,SOLD,jawnstars
+Las Vegas Raiders,62,SOLD,johnkho23
+Seattle Seahawks,60,SOLD,travis1742
+#31,59,SOLD,johnkho23
+Indianapolis Colts,57,SOLD,johnkho23
+Dallas Cowboys,57,SOLD,fredhoov0808
+Jacksonville Jaguars,26,SOLD,fredhoov0808
+Tennessee Titans,20,SOLD,johnkho23
+Washington Commanders,24,SOLD,fredhoov0808
+Atlanta Falcons,22,SOLD,drunkenfists
+#38,1,OPEN,

@@ -1,149 +1,105 @@
 spot,price,state,buyer
-Josh Allen,13,SOLD,edub_
-Drew Mestemaker,10,SOLD,scarr73
-Caleb Williams,13,SOLD,mikeyford
-Bear Bachmeier,12,SOLD,nathanrice3131
-Lamar Jackson,12,SOLD,edub_
-Bo Nix,10,SOLD,spcstewart
-CJ Stroud,11,SOLD,jordyjordi
-Jared Goff,11,SOLD,scarr73
-Jayden Maiava,11,SOLD,vaughny01
-Josh Hoover,13,SOLD,edub_
-Matthew Stafford,18,SOLD,jordyjordi
-Peyton Manning,11,SOLD,trinkettrav88
-Cade Klubnik,11,SOLD,edub_
-Carnell Tate,11,SOLD,vaughny01
-Christian McCaffrey,13,SOLD,edub_
-Jadarian Price,9,SOLD,michaelpei73578
-Jordyn Tyson,13,SOLD,jordyjordi
-KC Concepcion,15,SOLD,golfgearaholics
-Makai Lemon,12,SOLD,jordyjordi
-Tetairoa McMillan,10,SOLD,kevinstr82386
-Josh Jacobs,12,SOLD,edub_
-Joshua Karty / Joshua Moore,11,SOLD,jordyjordi
-Josiah Trotter / Juelz Goff,14,SOLD,shwblove85
-Julian Neal / Junior Colson,12,SOLD,gengargang
-Justin Joly,19,SOLD,gengargang
-Kaden Wetjen / Kaelan Chudzinski,13,SOLD,bigred1372
-Kadyn Proctor,11,SOLD,nathanrice3131
-Kaelon Black,8,SOLD,michaelpei73578
-Kaleb Johnson,9,SOLD,jordyjordi
-Kam Chancellor / Kamren Kinchens,13,SOLD,edub_
-Kayden McDonald,12,SOLD,jordyjordi
-Kaytron Allen,10,SOLD,edub_
-Keenan Allen,15,SOLD,in_rotation_trading
-Keith Abney II,9,SOLD,golfgearaholics
-Keldric Faulk,14,SOLD,skylartimmer25
-Kenneth Walker III,12,SOLD,cpizzle907
-Kenny Clark / Kevin Riley,13,SOLD,zlarraza93zla
-Keyjuan Brown / Keylan Rutledge,12,SOLD,mikeyford
-Khalil Mack,9,SOLD,user_53599
-Khalil Shakir / Khobie Martin,12,SOLD,gengargang
-King Miller / Kirby Vorhees,12,SOLD,jordyjordi
-KJ Duff / KJ Jackson,13,SOLD,dirtywerk
-Kobie Turner / Kool-Aid McKinstry,14,SOLD,cpizzle907
-Kurt Warner,15,SOLD,shwblove85
-Kyle Hamilton,16,SOLD,jordyjordi
-Kyle Monangai,12,SOLD,jordyjordi
-Kyle Pitts,15,SOLD,shwblove85
-Kyler Murray,12,SOLD,gengargang
-Kyri Shoels / Laiatu Latu,11,SOLD,jordyjordi
-Laremy Tunsil / Lawson Luckie,13,SOLD,edub_
-Larry Fitzgerald,19,SOLD,shwblove85
-Leonard Moore / LeRoy Butler,12,SOLD,cpizzle907
-LeSean McCoy,10,SOLD,kevinstr82386
-LT Overton / Lucky Sutton,13,SOLD,dirtywerk
-Lukas Van Ness / Luke Kuechly,16,SOLD,golfgearaholics
-Luke McCaffrey / Luke Musgrave,13,SOLD,consim34184
-Malachi Fields,8,SOLD,edub_
-Mansoor Delane,12,SOLD,jordyjordi
-Marcel Reed,25,SOLD,in_rotation_trading
-Marco Jones / Marist Liufau,13,SOLD,vaughny01
-Marlin Klein,13,SOLD,edub_
-MarShawn Lloyd / Marvin Mims Jr.,18,SOLD,jordyjordi
-Marvis Parrish / Mason Graham,11,SOLD,jordyjordi
-Max Iheanachor / Micah Ford,17,SOLD,in_rotation_trading
-Max Klare,10,SOLD,thorpeedo81
-Maxx Crosby,13,SOLD,edub_
-Micahi Danzy / Michael Mayer,11,SOLD,edub_
-Micah Parsons,15,SOLD,bigred1372
-Michael Irvin,13,SOLD,consim34184
-Michael Penix Jr.,12,SOLD,jordyjordi
-Michael Strahan,11,SOLD,golfgearaholics
-Michael Turner / Mike Alstott,14,SOLD,edub_
-Michael Wilson,14,SOLD,edub_
-Mike Evans,11,SOLD,jordyjordi
-Mike Sainristil / Mike Singletary,16,SOLD,in_rotation_trading
-Mike Washington Jr.,13,SOLD,edub_
-Mikey Matthews / Minkah Fitzpatrick,11,SOLD,edub_
-Montez Sweat / Na'eem Abdul-Rahim Gladding,11,SOLD,bigred1372
-Nate Boerkircher,10,SOLD,in_rotation_trading
-Nick Bolton / Nick Emmanwori,12,SOLD,jordyjordi
-Nick Bosa,12,SOLD,jordyjordi
-Nick Marsh / Nick Minicucci,12,SOLD,cpizzle907
-Nick Singleton,13,SOLD,zlarraza93zla
-Nik Bonitto / Nik McMillan,11,SOLD,jordyjordi
-Nolan James Jr. / Olamide Zaccheaus,9,SOLD,nchristncoach2020
-Ollie Gordon II,11,SOLD,jordyjordi
-Omar Cooper Jr.,12,SOLD,consim34184
-Omarion Hampton,12,SOLD,edub_
-Omarion Miller / Ozzie Newsome,21,SOLD,bruhmanz_collectibles
-Oronde Gadsden,11,SOLD,edub_
-Parker Livingstone / Parker Washington,11,SOLD,michaelpei73578
-Quentin Johnston / Quenton Nelson,13,SOLD,zlarraza93zla
-Que'Sean Brown / Quinnen Williams,14,SOLD,vaughny01
-Quinn Meinerz / Rashid Shaheed,1,SOLD,jordyjordi
-Quinshon Judkins,12,SOLD,nessdeposits
-Randy Moss,13,SOLD,jordyjordi
 Re'Shaun Sanford,11,SOLD,everettcas
+Peyton Manning,11,SOLD,trinkettrav88
+Jared Goff,11,SOLD,scarr73
+Drew Mestemaker,10,SOLD,scarr73
 Rob Gronkowski,10,SOLD,ivanzapped
+Nolan James Jr. / Olamide Zaccheaus,9,SOLD,nchristncoach2020
 Vicari Swain,9,SOLD,warszone1
 Robert Spillane,10,SOLD,takintoolonghurryup
 Ryan Browne,9,SOLD,user_53599
+Khalil Mack,9,SOLD,user_53599
 Waymond Jordan,8,SOLD,takintoolonghurryup
+Jadarian Price,9,SOLD,michaelpei73578
+Carnell Tate,11,SOLD,vaughny01
 Will Anderson Jr.,12,SOLD,nessdeposits
+Jayden Maiava,11,SOLD,vaughny01
 Tez Johnson,10,SOLD,vaughny01
+Quinshon Judkins,12,SOLD,nessdeposits
+Lukas Van Ness / Luke Kuechly,16,SOLD,golfgearaholics
 Troy Polamalu,11,SOLD,gobama72
+Marlin Klein,13,SOLD,edub_
 Vince Young,13,SOLD,edub_
 Tony Gonzalez,13,SOLD,edub_
+Michael Strahan,11,SOLD,golfgearaholics
+Kam Chancellor / Kamren Kinchens,13,SOLD,edub_
 Tee Higgins,20,SOLD,vaughny01
 Terrance Ferguson,16,SOLD,shanhem95
+Lamar Jackson,12,SOLD,edub_
 Sterling Sharpe,11,SOLD,golfgearaholics
+Oronde Gadsden,11,SOLD,edub_
+Keith Abney II,9,SOLD,golfgearaholics
+Kaytron Allen,10,SOLD,edub_
+KC Concepcion,15,SOLD,golfgearaholics
 Sam Darnold,10,SOLD,edub_
 Tim Brown,9,SOLD,warszone1
+Cade Klubnik,11,SOLD,edub_
+Micahi Danzy / Michael Mayer,11,SOLD,edub_
 Travis Hunter,10,SOLD,in_rotation_trading
 Yhonzae Pierre,10,SOLD,kevinstr82386
+LeSean McCoy,10,SOLD,kevinstr82386
+Tetairoa McMillan,10,SOLD,kevinstr82386
 Xavier Worthy,9,SOLD,edub_
+Malachi Fields,8,SOLD,edub_
+Kaelon Black,8,SOLD,michaelpei73578
+Kaleb Johnson,9,SOLD,jordyjordi
 William Perry,10,SOLD,jordyjordi
 Sire Gaines,9,SOLD,treywes
 Zachariah Branch,9,SOLD,user_53599
+Jordyn Tyson,13,SOLD,jordyjordi
+Nik Bonitto / Nik McMillan,11,SOLD,jordyjordi
+Christian McCaffrey,13,SOLD,edub_
+Mike Evans,11,SOLD,jordyjordi
 Zavion Thomas,11,SOLD,jordyjordi
+Marvis Parrish / Mason Graham,11,SOLD,jordyjordi
 Warren Moon,14,SOLD,bighuddy2020v
 Tyquan Thornton,11,SOLD,jordyjordi
+Kobie Turner / Kool-Aid McKinstry,14,SOLD,cpizzle907
 Tacario Davis,14,SOLD,cpizzle907
 Roger Craig,11,SOLD,jordyjordi
+Maxx Crosby,13,SOLD,edub_
 Trent Williams,13,SOLD,cpizzle907
+Kyle Monangai,12,SOLD,jordyjordi
+Kenneth Walker III,12,SOLD,cpizzle907
+Quinn Meinerz / Rashid Shaheed,1,SOLD,jordyjordi
+Makai Lemon,12,SOLD,jordyjordi
+Ollie Gordon II,11,SOLD,jordyjordi
+Marco Jones / Marist Liufau,13,SOLD,vaughny01
+Que'Sean Brown / Quinnen Williams,14,SOLD,vaughny01
+Nick Marsh / Nick Minicucci,12,SOLD,cpizzle907
 Travis Kelce,11,SOLD,jordyjordi
 Travon Walker,12,SOLD,jordyjordi
+Leonard Moore / LeRoy Butler,12,SOLD,cpizzle907
+Kyri Shoels / Laiatu Latu,11,SOLD,jordyjordi
 Sonny Styles,12,SOLD,jordyjordi
 #74,16,SOLD,jasonmoe
 Zach Charbonnet,13,SOLD,edub_
 Ricky Pearsall,12,SOLD,jordyjordi
+Laremy Tunsil / Lawson Luckie,13,SOLD,edub_
 Romello Height,13,SOLD,edub_
 Tua Tagovailoa,12,SOLD,jordyjordi
+Joshua Karty / Joshua Moore,11,SOLD,jordyjordi
+Kayden McDonald,12,SOLD,jordyjordi
 Turbo Richard,11,SOLD,edub_
 Teitum Tuioti,20,SOLD,jordyjordi
+Max Iheanachor / Micah Ford,17,SOLD,in_rotation_trading
 Tae Meadows,13,SOLD,zlarraza93zla
 Sam Roush,14,SOLD,dirtywerk
+Nick Singleton,13,SOLD,zlarraza93zla
+Mansoor Delane,12,SOLD,jordyjordi
 Riley Leonard,13,SOLD,edub_
 Xavier Watts,13,SOLD,dirtywerk
+Matthew Stafford,18,SOLD,jordyjordi
 Rod Woodson,16,SOLD,bigred1372
 Tyreek Hill,13,SOLD,zlarraza93zla
 T.J. Watt,14,SOLD,bigred1372
 Will Levis,13,SOLD,jordyjordi
 Tory Blaylock,15,SOLD,dirtywerk
 Trey Hendrickson,12,SOLD,jordyjordi
+Mike Washington Jr.,13,SOLD,edub_
 Tiger Bachmeier,13,SOLD,edub_
+Quentin Johnston / Quenton Nelson,13,SOLD,zlarraza93zla
+Kenny Clark / Kevin Riley,13,SOLD,zlarraza93zla
 Trey Benson,11,SOLD,jordyjordi
 Savion Williams,12,SOLD,zlarraza93zla
 Reed Blankenship,13,SOLD,in_rotation_trading
@@ -151,49 +107,193 @@ Rhamondre Stevenson,10,SOLD,edub_
 TJ Abrams,10,SOLD,jakefis
 Wayne Knight,11,SOLD,edub_
 T'Vondre Sweat,10,SOLD,jpsportcardz
+Nate Boerkircher,10,SOLD,in_rotation_trading
 Tony Pollard,18,SOLD,in_rotation_trading
+Mike Sainristil / Mike Singletary,16,SOLD,in_rotation_trading
 Von Miller,10,SOLD,edub_
 Xavier McKinney,11,SOLD,dirtywerk
 Sammy Brown,11,SOLD,edub_
+Keenan Allen,15,SOLD,in_rotation_trading
 #116,10,SOLD,robayye
 RJ Harvey,13,SOLD,spcstewart
+Bo Nix,10,SOLD,spcstewart
 Terrance Carter Jr.,11,SOLD,edub_
+Parker Livingstone / Parker Washington,11,SOLD,michaelpei73578
 Uchenna Nwosu,18,SOLD,crackedbellcards
+Larry Fitzgerald,19,SOLD,shwblove85
+Micah Parsons,15,SOLD,bigred1372
 Sam LaPorta,17,SOLD,johngol72723
 Taysom Hill,16,SOLD,johngol72723
 Woody Marks,12,SOLD,jordyjordi
 Steve Largent,13,SOLD,johngol72723
 Tyler Warren,15,SOLD,cheddar123
 Tucker Kraft,13,SOLD,johngol72723
+MarShawn Lloyd / Marvin Mims Jr.,18,SOLD,jordyjordi
+Marcel Reed,25,SOLD,in_rotation_trading
 T.J. Parker,14,SOLD,michaelpei73578
+Nick Bosa,12,SOLD,jordyjordi
+Josiah Trotter / Juelz Goff,14,SOLD,shwblove85
+Josh Allen,13,SOLD,edub_
 Terrell Davis,12,SOLD,cheddar123
+CJ Stroud,11,SOLD,jordyjordi
 Steve Atwater,13,SOLD,jordyjordi
 T.J. Moore,12,SOLD,edub_
+Kaden Wetjen / Kaelan Chudzinski,13,SOLD,bigred1372
 Sean Taylor,13,SOLD,michaelpei73578
+Omarion Miller / Ozzie Newsome,21,SOLD,bruhmanz_collectibles
+Michael Turner / Mike Alstott,14,SOLD,edub_
 Thurman Thomas,14,SOLD,consim34184
+Omar Cooper Jr.,12,SOLD,consim34184
+Luke McCaffrey / Luke Musgrave,13,SOLD,consim34184
 Tony Boselli,17,SOLD,charles61163
 Victor Snow,13,SOLD,consim34184
+Kyle Pitts,15,SOLD,shwblove85
+Randy Moss,13,SOLD,jordyjordi
 Sauce Gardner,13,SOLD,consim34184
 Zach Allen,12,SOLD,jordyjordi
 Tre Tucker,11,SOLD,chandler12072001
+Michael Irvin,13,SOLD,consim34184
 Russell Wilson,17,SOLD,uptruebreed
+Michael Wilson,14,SOLD,edub_
 Richard Sherman,12,SOLD,jordyjordi
  Zion Young,12,SOLD,jordyjordi
 Theo Johnson,11,SOLD,jordyjordi
+Kyle Hamilton,16,SOLD,jordyjordi
 Trey McBride,13,SOLD,edub_
 Terrell Suggs,14,SOLD,shwblove85
+Kurt Warner,15,SOLD,shwblove85
+Michael Penix Jr.,12,SOLD,jordyjordi
 Rodney Tisdale Jr.,13,SOLD,dirtywerk
 Xavier Legette,11,SOLD,jordyjordi
+LT Overton / Lucky Sutton,13,SOLD,dirtywerk
 TreVeyon Henderson,13,SOLD,gengargang
 Tre Brown III,13,SOLD,bigred1372
+Justin Joly,19,SOLD,gengargang
+King Miller / Kirby Vorhees,12,SOLD,jordyjordi
 Sidney Stewart,15,SOLD,smack1999
+Julian Neal / Junior Colson,12,SOLD,gengargang
+Kadyn Proctor,11,SOLD,nathanrice3131
+Keldric Faulk,14,SOLD,skylartimmer25
 Warren Sapp,12,SOLD,mikeyford
 Wyatt Young,12,SOLD,in_rotation_trading
+Josh Hoover,13,SOLD,edub_
 Rome Odunze,12,SOLD,skylartimmer25
 Scotty Fox Jr.,12,SOLD,gengargang
 Tyler Guyton,11,SOLD,jordyjordi
+Nick Bolton / Nick Emmanwori,12,SOLD,jordyjordi
+Josh Jacobs,12,SOLD,edub_
 Rodney Fields Jr.,12,SOLD,jordyjordi
+Caleb Williams,13,SOLD,mikeyford
+Omarion Hampton,12,SOLD,edub_
 Rueben Bain Jr.,11,SOLD,chandler12072001
+Keyjuan Brown / Keylan Rutledge,12,SOLD,mikeyford
+Khalil Shakir / Khobie Martin,12,SOLD,gengargang
+Bear Bachmeier,12,SOLD,nathanrice3131
+Max Klare,10,SOLD,thorpeedo81
+Kyler Murray,12,SOLD,gengargang
 Taylen Green,11,SOLD,chandler12072001
+Mikey Matthews / Minkah Fitzpatrick,11,SOLD,edub_
+KJ Duff / KJ Jackson,13,SOLD,dirtywerk
 Will Shipley,12,SOLD,gengargang
-#198,1,OPEN,
+Montez Sweat / Na'eem Abdul-Rahim Gladding,11,SOLD,bigred1372
+Ryan Niblett,11,SOLD,cheddar123
+Peter Woods,11,SOLD,edub_
+London Humphreys / Lotzeir Brooks,11,SOLD,mikeyford
+Roquan Smith,12,SOLD,jordyjordi
+Maurice Jones-Drew,12,SOLD,jordyjordi
+Spencer Fano,12,SOLD,jordyjordi
+Tre Harris III,12,SOLD,edub_
+KK Smith / K'Lavon Chaisson,11,SOLD,jordyjordi
+Malachi Hosley / Malcolm Smith,11,SOLD,jordyjordi
+Luke Schoonmaker / Lunch Winfield,12,SOLD,cheddar123
+Zay Flowers,11,SOLD,jordyjordi
+Cam Ward,20,SOLD,jordyjordi
+Sutton Smith,13,SOLD,bigred1372
+Tyrone Tracy Jr.,12,SOLD,jordyjordi
+Tommy Tremble,19,SOLD,jordyjordi
+Yamir Knight,14,SOLD,bigred1372
+Trent McDuffie,12,SOLD,froemke
+Trevor Etienne,25,SOLD,bigred1372
+Ray Lewis,15,SOLD,wwhynott
+Rashod Bateman ,14,SOLD,froemke
+Tank Bigsby,14,SOLD,froemke
+Kenny Minchey,15,SOLD,zlarraza93zla
+Terry McLaurin,15,SOLD,thepolishpicker
+Troy Aikman,14,SOLD,froemke
+Kenyon Sadiq,16,SOLD,jordyjordi
+Talanoa Hufanga,15,SOLD,greenjacketcards
+Olaivavega Ioane,15,SOLD,thepolishpicker
+Terrell Anderson,15,SOLD,cpizzle907
+Mack Hollins / Makhi Hughes,14,SOLD,froemke
+Will Lee III,17,SOLD,bigred1372
+Kenneth Gainwell / Kenneth Grant,26,SOLD,thepolishpicker
+Nico Collins,15,SOLD,cpizzle907
+Roschon Johnson,15,SOLD,froemke
+Shedeur Sanders,15,SOLD,froemke
+Will Howard,15,SOLD,edub_
+Juwan Johnson / Kaden Shields-Dutton,36,SOLD,byrdmanjr82
+Marvin Harrison Jr.,22,SOLD,byrdmanjr82
+Mason Taylor,18,SOLD,edub_
+Will Johnson,15,SOLD,froemke
+Kirk Cousins,18,SOLD,byrdmanjr82
+Ronde Barber,20,SOLD,byrdmanjr82
+Malik Willis,15,SOLD,froemke
+Luther Burden III,16,SOLD,jordyjordi
+Ted Hurst,19,SOLD,byrdmanjr82
+Quinn Ewers,18,SOLD,byrdmanjr82
+Tre Spivey,38,SOLD,byrdmanjr82
+Malik Washington / Mandrell Desir,19,SOLD,byrdmanjr82
+Matthew Golden,22,SOLD,byrdmanjr82
+Kendrick Law / Kendrick Raphael,19,SOLD,gengargang
+Pat Surtain II,18,SOLD,froemke
+Josh Cameron,22,SOLD,byrdmanjr82
+Jaxson Dart,22,SOLD,byrdmanjr82
+Michael Vick,23,SOLD,gengargang
+T.J. Hockenson,23,SOLD,edub_
+Tyjae Spears,24,SOLD,clenz29
+Walter Payton,23,SOLD,gengargang
+Will Hammond,24,SOLD,kevinstr82386
+Katin Houser / Kayshon Boutte,40,SOLD,byrdmanjr82
+Rashee Rice,30,SOLD,clenz29
+Malik Nabers,26,SOLD,gothamgrails
+Seth McGowan,25,SOLD,froemke
+Travis Etienne Jr.,26,SOLD,gengargang
+Tyson Bagent,32,SOLD,gothamgrails
+Payton Wilson / Quay Walker,32,SOLD,gothamgrails
+Kyren Williams,63,SOLD,byrdmanjr82
+Kevin Winston Jr. / Keon Coleman,37,SOLD,jamoran008
+Yannick Smith,41,SOLD,nicknasty421
+Lee Hunter,39,SOLD,jamoran008
+Spencer Rattler,41,SOLD,gengargang
+Steve Young,39,SOLD,gothamgrails
+Ty Law,43,SOLD,jordyjordi
+Mark Andrews,43,SOLD,gengargang
+Tre Richardson,32,SOLD,jamoran008
+Tyler Shough,37,SOLD,gothamgrails
+Tony Romo,40,SOLD,gothamgrails
+Lawrence Taylor,38,SOLD,nicknasty421
+Tom Brady,59,SOLD,byrdmanjr82
+Joe Burrow,36,SOLD,gothamgrails
+Puka Nacua,32,SOLD,edub_
+Kamari Lassiter / Kamario Taylor,39,SOLD,edub_
+Fernando Mendoza,36,SOLD,carsonewell
+Jaxon Smith-Njigba,19,SOLD,jamoran008
+Mason Heintschel / Mason Mini,10,SOLD,consim34184
+Michael Pittman Jr.,11,SOLD,consim34184
+Caleb Downs,11,SOLD,byrdmanjr82
+#283,8,SOLD,twan005
+Nakobe Dean / Nate Wiggins,8,SOLD,kevinstr82386
+Will Reichard,1,SOLD,nchristncoach2020
+Monroe Freeling,7,SOLD,skylartimmer25
+Josh Downs / Josh Hines-Allen,8,SOLD,consim34184
+Reggie Virgil,8,SOLD,golfgearaholics
+Malachi Lawrence,8,SOLD,nchristncoach2020
+Kris Jenkins / Kwazi Gilmer,8,SOLD,skylartimmer25
+Rachaad White,8,SOLD,consim34184
+Ladd McConkey,9,SOLD,skylartimmer25
+Skyler Bell,8,SOLD,user_53599
+Vita Vea,9,SOLD,golfgearaholics
+Zahir Mathis,9,SOLD,skylartimmer25
+Carson Beck,9,SOLD,user_53599
+Kyle Juszczyk / Kyle Williams,2,SOLD,nchristncoach2020
+Pat Freiermuth / Pat Tillman,6,SOLD,dw2835
