@@ -1,15 +1,15 @@
 spot,price,state,buyer
 Arizona Cardinals,10,OPEN,
-Atlanta Falcons,3,OPEN,
+Atlanta Falcons,1,SOLD,tobweg
 Baltimore Ravens,5,OPEN,
-Buffalo Bills,10,OPEN,
+Buffalo Bills,10,SOLD,ren03665
 Carolina Panthers,5,SOLD,lifeislawsome
 Chicago Bears,9,OPEN,
-Cincinnati Bengals,7,OPEN,
+Cincinnati Bengals,7,SOLD,sideline_soulmates
 Cleveland Browns,6,OPEN,
 Dallas Cowboys,7,OPEN,
 Denver Broncos,8,OPEN,
-Detroit Lions,5,OPEN,
+Detroit Lions,5,SOLD,tobweg
 Green Bay Packers,2,SOLD,finstephan
 Houston Texans,3,SOLD,phca
 Indianapolis Colts,3,OPEN,
@@ -25,9 +25,9 @@ New Orleans Saints,6,OPEN,
 New York Giants,7,OPEN,
 New York Jets,5,OPEN,
 Philadelphia Eagles,7,OPEN,
-Pittsburgh Steelers,6,OPEN,
+Pittsburgh Steelers,4.8,SOLD,lambeauleapz
 San Francisco 49ers,8,SOLD,schmidtler2901
-Seattle Seahawks,8,OPEN,
+Seattle Seahawks,8,SOLD,cooperskartenhaus
 Tampa Bay Buccaneers,9,OPEN,
 Tennessee Titans,9,OPEN,
 Washington Commanders,5,OPEN,

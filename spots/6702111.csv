@@ -1,33 +1,33 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+San Francisco 49ers,1,SOLD,finstephan
+Tennessee Titans,1,SOLD,finstephan
+Indianapolis Colts,1,SOLD,cooperskartenhaus
+Kansas City Chiefs,1,SOLD,cooperskartenhaus
+New York Giants,1,SOLD,cooperskartenhaus
+Los Angeles Rams,1,SOLD,lambeauleapz
+New Orleans Saints,1,SOLD,cooperskartenhaus
+Houston Texans,1,SOLD,cooperskartenhaus
+New England Patriots,1,SOLD,cooperskartenhaus
+Pittsburgh Steelers,1,SOLD,cooperskartenhaus
+Arizona Cardinals,1,SOLD,cooperskartenhaus
+Minnesota Vikings,1,SOLD,cooperskartenhaus
+Baltimore Ravens,2,SOLD,cooperskartenhaus
+Cincinnati Bengals,2,SOLD,finstephan
+Detroit Lions,1,SOLD,cooperskartenhaus
+Philadelphia Eagles,1,SOLD,tusmarkus
+Los Angeles Chargers,1,SOLD,lambeauleapz
+Dallas Cowboys,2,SOLD,tusmarkus
+Buffalo Bills,2,SOLD,lifeislawsome
+Miami Dolphins,2,SOLD,finstephan
+Seattle Seahawks,2,SOLD,finstephan
+Las Vegas Raiders,2,SOLD,lambeauleapz
+Washington Commanders,2,SOLD,lifeislawsome
+Cleveland Browns,3,SOLD,tobweg
+Chicago Bears,1,SOLD,exxscream
+Green Bay Packers,1,SOLD,finstephan
+Carolina Panthers,1,SOLD,exxscream
+Jacksonville Jaguars,1,SOLD,exxscream
+Denver Broncos,1,SOLD,exxscream
+Atlanta Falcons,1,SOLD,cooperskartenhaus
+Tampa Bay Buccaneers,1,SOLD,cooperskartenhaus
+New York Jets,1,SOLD,finstephan

@@ -1,12 +1,12 @@
 spot,price,state,buyer
 Arizona Cardinals,4,SOLD,sportscollectorsyndicate
-Atlanta Falcons,4,OPEN,
-Baltimore Ravens,4,OPEN,
+Atlanta Falcons,4,SOLD,sportscollectorsyndicate
+Baltimore Ravens,4,SOLD,sportscollectorsyndicate
 Buffalo Bills,5,SOLD,ashleyhad58800
 Carolina Panthers,4,OPEN,
 Chicago Bears,6,SOLD,sportscollectorsyndicate
 Cincinnati Bengals,5,SOLD,rileyjevon
-Cleveland Browns,5,OPEN,
+Cleveland Browns,5,SOLD,sportscollectorsyndicate
 Dallas Cowboys,4,OPEN,
 Denver Broncos,4,OPEN,
 Detroit Lions,4,OPEN,
@@ -17,7 +17,7 @@ Jacksonville Jaguars,4,OPEN,
 Kansas City Chiefs,5,SOLD,sportscollectorsyndicate
 Las Vegas Raiders,7,SOLD,turbojoe37
 Los Angeles Chargers,4,OPEN,
-Los Angeles Rams,5,OPEN,
+Los Angeles Rams,5,SOLD,sportscollectorsyndicate
 Miami Dolphins,4,OPEN,
 Minnesota Vikings,4,SOLD,skooger1
 New England Patriots,5,OPEN,

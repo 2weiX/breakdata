@@ -1,33 +1,34 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+New England Patriots,150,SOLD,tannertat
+Cincinnati Bengals,155,SOLD,bertorod91
+Baltimore Ravens,160,SOLD,salvadorzub
+Los Angeles Rams,160,SOLD,bertorod91
+Washington Commanders,160,SOLD,tannertat
+San Francisco 49ers,161,SOLD,tannertat
+Los Angeles Chargers,155,SOLD,bigshowcards
+Seattle Seahawks,180,SOLD,tannertat
+#9,205,SOLD,salvadorzub
+Denver Broncos,200,SOLD,salvadorzub
+New York Giants,190,SOLD,josephcav915
+Cleveland Browns,210,SOLD,its_me_ozzy217
+#13,192,SOLD,tannertat
+Philadelphia Eagles,188,SOLD,tannertat
+#15,205,SOLD,josephcav915
+Las Vegas Raiders,235,SOLD,tannertat
+Green Bay Packers,200,SOLD,its_me_ozzy217
+Buffalo Bills,185,SOLD,salvadorzub
+Dallas Cowboys,171,SOLD,bertorod91
+Atlanta Falcons,160,SOLD,josephcav915
+Kansas City Chiefs,185,SOLD,josephcav915
+Minnesota Vikings,160,SOLD,its_me_ozzy217
+Tampa Bay Buccaneers,160,SOLD,ripshawaii
+Jacksonville Jaguars,145,SOLD,bertorod91
+Carolina Panthers,150,SOLD,civicblaza29
+Tennessee Titans,220,SOLD,shadetreewvu
+Chicago Bears,164,SOLD,josephcav915
+Pittsburgh Steelers,100,SOLD,bertorod91
+Arizona Cardinals,170,SOLD,josephcav915
+"Detroit Lions, New York Jets",211,SOLD,shadetreewvu
+"Miami Dolphins, New Orleans Saints",190,SOLD,ripshawaii
+#32,102,SOLD,josephcav915
+"Houston Texans, Indianapolis Colts",87,SOLD,bigshowcards

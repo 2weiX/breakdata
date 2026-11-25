@@ -1,34 +1,33 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-MISC,,OPEN,
+#1,510,SOLD,boston8899
+New England Patriots,433,SOLD,abcjesse123
+#3,580,SOLD,mahomesfan1
+#4,550,SOLD,crowsoncards
+Philadelphia Eagles,615,SOLD,mahomesfan1
+Minnesota Vikings,545,SOLD,crowsoncards
+New York Giants,672,SOLD,kipshobbyshop
+#8,538,SOLD,crowsoncards
+Los Angeles Chargers,615,SOLD,mahomesfan1
+#10,593,SOLD,mahomesfan1
+Jacksonville Jaguars,640,SOLD,kipshobbyshop
+Kansas City Chiefs,640,SOLD,kipshobbyshop
+Cincinnati Bengals,634,SOLD,kipshobbyshop
+Dallas Cowboys,515,SOLD,eyelaser
+Pittsburgh Steelers,585,SOLD,kipshobbyshop
+#16,590,SOLD,kipshobbyshop
+Denver Broncos,600,SOLD,kipshobbyshop
+#18,592,SOLD,jvm021
+Green Bay Packers,612,SOLD,jvm021
+Chicago Bears,615,SOLD,jvm021
+#21,615,SOLD,kipshobbyshop
+#22,590,SOLD,jvm021
+Las Vegas Raiders,592,SOLD,kipshobbyshop
+#24,509,SOLD,jvm021
+#25,456,SOLD,kipshobbyshop
+Baltimore Ravens,626,SOLD,jvm021
+#27,608,SOLD,lilsprad
+San Francisco 49ers,634,SOLD,jvm021
+Houston Texans,595,SOLD,lilsprad
+Cleveland Browns,263,SOLD,deeezl
+MISC,600,SOLD,jvm021
+#32,1,OPEN,

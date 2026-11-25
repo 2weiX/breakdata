@@ -1,34 +1,53 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-MISC,,OPEN,
+#1,410,SOLD,vegasmann
+#2,435,SOLD,vegasmann
+#3,455,SOLD,fiskeeee
+Green Bay Packers,440,SOLD,vegasmann
+#5,440,SOLD,bobmak20480
+Minnesota Vikings,420,SOLD,bobmak20480
+Baltimore Ravens,460,SOLD,fiskeeee
+MISC,450,SOLD,vegasmann
+Dallas Cowboys,450,SOLD,vegasmann
+Pittsburgh Steelers,445,SOLD,fiskeeee
+New York Giants,435,SOLD,vegasmann
+Chicago Bears,450,SOLD,vegasmann
+#13,410,SOLD,fiskeeee
+#14,425,SOLD,bobmak20480
+#15,440,SOLD,vegasmann
+#16,450,SOLD,bobmak20480
+#17,435,SOLD,vegasmann
+Cincinnati Bengals,475,SOLD,bobmak20480
+#19,465,SOLD,vegasmann
+San Francisco 49ers,390,SOLD,fiskeeee
+#21,360,SOLD,fiskeeee
+#22,345,SOLD,fiskeeee
+#23,280,SOLD,vegasmann
+Detroit Lions,280,SOLD,jojoseef07
+Houston Texans,295,SOLD,jojoseef07
+Los Angeles Chargers,441,SOLD,fiskeeee
+#27,242,SOLD,jojoseef07
+#28,275,SOLD,fiskeeee
+Cleveland Browns,275,SOLD,fiskeeee
+Philadelphia Eagles,265,SOLD,fiskeeee
+#31,227,SOLD,jonand81600
+#32,255,SOLD,jonand81600
+Kansas City Chiefs,247,SOLD,jonand81600
+Los Angeles Rams,185,SOLD,jonand81600
+#35,120,SOLD,roojo
+New England Patriots,132,SOLD,roojo
+#37,154,SOLD,jojoseef07
+Buffalo Bills,126,SOLD,jojoseef07
+Indianapolis Colts,89,SOLD,roojo
+Washington Commanders,81,SOLD,jojoseef07
+Miami Dolphins,56,SOLD,jojoseef07
+Tampa Bay Buccaneers,26,SOLD,jojoseef07
+Arizona Cardinals,32,SOLD,jojoseef07
+New York Jets,26,SOLD,jojoseef07
+Carolina Panthers,35,SOLD,jojoseef07
+Atlanta Falcons,37,SOLD,jojoseef07
+Las Vegas Raiders,40,SOLD,jojoseef07
+New Orleans Saints,73,SOLD,revytcg
+Seattle Seahawks,95,SOLD,revytcg
+Tennessee Titans,124,SOLD,roojo
+Denver Broncos,252,SOLD,roojo
+Jacksonville Jaguars,40,SOLD,jojoseef07
