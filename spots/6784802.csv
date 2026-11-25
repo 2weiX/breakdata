@@ -2,7 +2,7 @@ spot,price,state,buyer
 New England Patriots,64,SOLD,bigglezworth
 #2,68,SOLD,mmcrae2323
 Green Bay Packers,68,SOLD,mmcrae2323
-#4,68,SOLD,mmcrae2323
+Las Vegas Raiders,68,SOLD,mmcrae2323
 Pittsburgh Steelers,70,SOLD,mmcrae2323
 Cincinnati Bengals,71,SOLD,mmcrae2323
 Denver Broncos,69,SOLD,peterupinyou85
@@ -11,10 +11,31 @@ Baltimore Ravens,81,SOLD,peterupinyou85
 #10,74,SOLD,6capper
 Dallas Cowboys,79,SOLD,6capper
 Miami Dolphins,71,SOLD,jaxon2012
-Houston Texans,72,SOLD,kk1909563
+#13,72,SOLD,kk1909563
 Washington Commanders,79,SOLD,jaxon2012
 Los Angeles Chargers,79,SOLD,kk1909563
-Jacksonville Jaguars,71,SOLD,jaxon2012
+#16,71,SOLD,jaxon2012
 MISC,76,SOLD,patoc15119
 San Francisco 49ers,82,SOLD,jaxon2012
-#19,1,OPEN,
+#19,72,SOLD,patoc15119
+#20,72,SOLD,6capper
+Philadelphia Eagles,107,SOLD,6capper
+Buffalo Bills,82,SOLD,jaxon2012
+New York Giants,3,SOLD,6capper
+#24,56,SOLD,kk1909563
+Tampa Bay Buccaneers,50,SOLD,kk1909563
+Cleveland Browns,1,SOLD,mmcrae2323
+#27,46,SOLD,mmcrae2323
+Atlanta Falcons,100,SOLD,mmcrae2323
+Chicago Bears,58,SOLD,mmcrae2323
+Minnesota Vikings,69,SOLD,mmcrae2323
+Detroit Lions,64,SOLD,mmcrae2323
+Los Angeles Rams,67,SOLD,patoc15119
+Tennessee Titans,13,SOLD,6capper
+Kansas City Chiefs,190,SOLD,6capper
+Jacksonville Jaguars,8,SOLD,bsbs95055
+Houston Texans,8,SOLD,patoc15119
+"Carolina Panthers, Seattle Seahawks",8,SOLD,patoc15119
+Indianapolis Colts,6,SOLD,bsbs95055
+"Arizona Cardinals, New Orleans Saints, New York Jets",6,SOLD,bsbs95055
+#40,7,SOLD,bsbs95055

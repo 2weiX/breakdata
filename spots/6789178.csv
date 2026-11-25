@@ -1,0 +1,10 @@
+spot,price,state,buyer
+New Orleans Saints,7,SOLD,texmex3
+Minnesota Vikings,7,SOLD,texmex3
+Chicago Bears,1,SOLD,texmex3
+#4,1,SOLD,texmex3
+Carolina Panthers,10,SOLD,stockytrader
+Cleveland Browns,13,SOLD,card_trapper
+Green Bay Packers,11,SOLD,card_trapper
+Philadelphia Eagles,11,SOLD,stockytrader
+#9,1,OPEN,

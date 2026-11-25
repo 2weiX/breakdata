@@ -5,8 +5,8 @@ Philadelphia Eagles,159,SOLD,buzzy_sports
 San Francisco 49ers,163,SOLD,buzzy_sports
 Houston Texans,137,SOLD,davebrown56
 Buffalo Bills,177,SOLD,wildcats2686
-#7,177,SOLD,wildcats2686
-#8,176,SOLD,wildcats2686
+t,177,SOLD,wildcats2686
+t,176,SOLD,wildcats2686
 Baltimore Ravens,173,SOLD,troymarcyes
 Carolina Panthers,183,SOLD,johnkho23
 New England Patriots,191,SOLD,johnkho23
@@ -18,7 +18,7 @@ Los Angeles Rams,175,SOLD,wildcats2686
 Pittsburgh Steelers,163,SOLD,squirt_turkey
 Minnesota Vikings,117,SOLD,davebrown56
 Cleveland Browns,110,SOLD,327cards
-#20,96,SOLD,johnkho23
+t,96,SOLD,johnkho23
 Chicago Bears,95,SOLD,everythinginsurance
 Tampa Bay Buccaneers,84,SOLD,wildcats2686
 Green Bay Packers,68,SOLD,johnkho23
@@ -29,11 +29,13 @@ Denver Broncos,70,SOLD,jawnstars
 MISC,73,SOLD,jawnstars
 Las Vegas Raiders,62,SOLD,johnkho23
 Seattle Seahawks,60,SOLD,travis1742
-#31,59,SOLD,johnkho23
+t,59,SOLD,johnkho23
 Indianapolis Colts,57,SOLD,johnkho23
 Dallas Cowboys,57,SOLD,fredhoov0808
 Jacksonville Jaguars,26,SOLD,fredhoov0808
 Tennessee Titans,20,SOLD,johnkho23
 Washington Commanders,24,SOLD,fredhoov0808
 Atlanta Falcons,22,SOLD,drunkenfists
-#38,1,OPEN,
+New Orleans Saints,18,SOLD,johnkho23
+New York Jets,18,SOLD,timgavitt
+Arizona Cardinals,19,SOLD,drunkenfists

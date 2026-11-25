@@ -1,33 +1,36 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+Houston Texans,20,SOLD,masonriver
+San Francisco 49ers,26,SOLD,masonriver
+New England Patriots,25,SOLD,thatsjakescard
+Atlanta Falcons,36,SOLD,jy_younggunz
+Washington Commanders,29,SOLD,jy_younggunz
+Las Vegas Raiders,31,SOLD,jy_younggunz
+Seattle Seahawks,32,SOLD,jy_younggunz
+Cleveland Browns,33,SOLD,jy_younggunz
+Jacksonville Jaguars,38,SOLD,jy_younggunz
+Indianapolis Colts,37,SOLD,jy_younggunz
+Dallas Cowboys,40,SOLD,jy_younggunz
+Detroit Lions,40,SOLD,jy_younggunz
+Chicago Bears,41,SOLD,jy_younggunz
+New York Giants,39,SOLD,jy_younggunz
+Buffalo Bills,37,SOLD,jy_younggunz
+Pittsburgh Steelers,41,SOLD,jy_younggunz
+Los Angeles Rams,39,SOLD,jy_younggunz
+Carolina Panthers,41,SOLD,jy_younggunz
+#19,37,SOLD,masonriver
+Philadelphia Eagles,38,SOLD,haroldjr99281
+MISC,39,SOLD,haroldjr99281
+Tennessee Titans,42,SOLD,gnl
+Cincinnati Bengals,40,SOLD,gnl
+Tampa Bay Buccaneers,32,SOLD,gnl
+Green Bay Packers,34,SOLD,jy_younggunz
+Arizona Cardinals,38,SOLD,haroldjr99281
+Baltimore Ravens,43,SOLD,gnl
+New York Jets,39,SOLD,jy_younggunz
+Miami Dolphins,42,SOLD,rainman4434
+Kansas City Chiefs,77,SOLD,jy_younggunz
+Los Angeles Chargers,38,SOLD,haroldjr99281
+Denver Broncos,34,SOLD,tpetreit
+#33,18,SOLD,jy_younggunz
+New Orleans Saints,20,SOLD,jy_younggunz
+Minnesota Vikings,43,SOLD,jy_younggunz

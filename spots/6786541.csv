@@ -1,34 +1,47 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-MISC,,OPEN,
+#1,350,SOLD,pokinets
+#2,360,SOLD,pokinets
+New England Patriots,445,SOLD,kingcarcollects
+Buffalo Bills,260,SOLD,orangecat313
+#5,170,SOLD,pokinets
+Cleveland Browns,325,SOLD,pokinets
+San Francisco 49ers,385,SOLD,whenisgivvywhoisgivvy
+Dallas Cowboys,420,SOLD,whenisgivvywhoisgivvy
+Los Angeles Rams,448,SOLD,mahomesfan1
+#10,400,SOLD,whenisgivvywhoisgivvy
+Chicago Bears,310,SOLD,whenisgivvywhoisgivvy
+#12,355,SOLD,mahomesfan1
+#13,310,SOLD,whenisgivvywhoisgivvy
+#14,300,SOLD,dkass75
+Green Bay Packers,365,SOLD,dkass75
+#16,210,SOLD,theluxevaultco
+#17,251,SOLD,theluxevaultco
+#18,295,SOLD,whenisgivvywhoisgivvy
+#19,365,SOLD,whenisgivvywhoisgivvy
+#20,385,SOLD,jfo18041
+Denver Broncos,392,SOLD,whenisgivvywhoisgivvy
+Kansas City Chiefs,404,SOLD,jfo18041
+MISC,385,SOLD,whenisgivvywhoisgivvy
+Minnesota Vikings,365,SOLD,nattyhinz
+Los Angeles Chargers,344,SOLD,nattyhinz
+Philadelphia Eagles,331,SOLD,nattyhinz
+Cincinnati Bengals,341,SOLD,nattyhinz
+#28,240,SOLD,theluxevaultco
+New York Giants,283,SOLD,theluxevaultco
+#30,1,SOLD,henchmobb
+#31,230,SOLD,whenisgivvywhoisgivvy
+Carolina Panthers,26,SOLD,nattyhinz
+Jacksonville Jaguars,155,SOLD,nattyhinz
+Pittsburgh Steelers,680,SOLD,pokinets
+Detroit Lions,131,SOLD,nattyhinz
+Tennessee Titans,151,SOLD,nattyhinz
+Baltimore Ravens,46,SOLD,mahomesfan1
+Tampa Bay Buccaneers,50,SOLD,mahomesfan1
+Houston Texans,32,SOLD,mahomesfan1
+New Orleans Saints,70,SOLD,bottlecap48
+Atlanta Falcons,42,SOLD,bottlecap48
+Las Vegas Raiders,74,SOLD,bottlecap48
+Washington Commanders,53,SOLD,gman111310
+Seattle Seahawks,23,SOLD,bottlecap48
+"Arizona Cardinals, Miami Dolphins",46,SOLD,paulie89
+"Indianapolis Colts, New York Jets",1,SOLD,henchmobb

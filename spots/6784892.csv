@@ -1,33 +1,35 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+Dallas Cowboys,10,SOLD,maso02
+Tennessee Titans,12,SOLD,gem_breaks
+Tampa Bay Buccaneers,13,SOLD,inglorious76
+Kansas City Chiefs,14,SOLD,caprise07
+Chicago Bears,13,SOLD,gem_breaks
+t1,14,SOLD,jasonkop58402
+San Francisco 49ers,16,SOLD,jasonkop58402
+Detroit Lions,11,SOLD,jasonkop58402
+Baltimore Ravens,13,SOLD,jasonkop58402
+Los Angeles Rams,12,SOLD,jweisen15
+Los Angeles Chargers,12,SOLD,gem_breaks
+Washington Commanders,12,SOLD,gem_breaks
+New Orleans Saints,12,SOLD,billielalag
+t2,12,SOLD,nala26
+Houston Texans,12,SOLD,maso02
+Arizona Cardinals,19,SOLD,nala26
+Philadelphia Eagles,15,SOLD,maso02
+Cleveland Browns,15,SOLD,nala26
+New York Giants,16,SOLD,maso02
+Buffalo Bills,13,SOLD,flagmanfinds
+Indianapolis Colts,11,SOLD,jweisen15
+Atlanta Falcons,12,SOLD,billielalag
+Carolina Panthers,13,SOLD,billielalag
+Minnesota Vikings,14,SOLD,hennyt0430
+Green Bay Packers,20,SOLD,jweisen15
+Denver Broncos,20,SOLD,billielalag
+Seattle Seahawks,21,SOLD,billielalag
+New York Jets,24,SOLD,nala26
+Jacksonville Jaguars,26,SOLD,rosstheboss112
+Cincinnati Bengals,29,SOLD,rosstheboss112
+Las Vegas Raiders,40,SOLD,rosstheboss112
+New England Patriots,24,SOLD,flagman19
+Pittsburgh Steelers,13,SOLD,flagman19
+Miami Dolphins,9,SOLD,inglorious76

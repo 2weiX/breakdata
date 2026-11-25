@@ -1,44 +1,35 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-FBS INDEPENDENT,,OPEN,
-BIG 10,,OPEN,
-BIG 12,,OPEN,
-SEC,,OPEN,
-CONF USA,,OPEN,
-MOUNTAIN WEST,,OPEN,
-ACC,,OPEN,
-AMERICAN,,OPEN,
-MAC + JACKSON ST,,OPEN,
-SUN BELT,,OPEN,
-PAC 12,,OPEN,
+Las Vegas Raiders,7,SOLD,smoke_like_flash
+PAC 12,8,SOLD,meansilverback
+Carolina Panthers,7,SOLD,cbray3
+Washington Commanders,5,SOLD,cbray3
+Houston Texans,6,SOLD,cbray3
+New England Patriots,6,SOLD,cbray3
+Cincinnati Bengals,8,SOLD,cbray3
+Philadelphia Eagles,9,SOLD,cbray3
+FBS INDEPENDENT,7,SOLD,chickenlegs11
+Tennessee Titans,8,SOLD,cbray3
+Dallas Cowboys,8,SOLD,chickenlegs11
+Denver Broncos,9,SOLD,cbray3
+ACC,10,SOLD,cbray3
+New York Jets,7,SOLD,chickenlegs11
+Baltimore Ravens,9,SOLD,tonyols51809
+Tradeback,9,SOLD,cbray3
+Detroit Lions,4,SOLD,chickenlegs11
+BIG 10,5,SOLD,chickenlegs11
+Indianapolis Colts,9,SOLD,cbray3
+MOUNTAIN WEST,5,SOLD,tonyols51809
+SEC,9,SOLD,chickenlegs11
+New York Giants,10,SOLD,chickenlegs11
+Miami Dolphins,9,SOLD,tonyols51809
+San Francisco 49ers,9,SOLD,cbray3
+Los Angeles Rams,9,SOLD,tonyols51809
+Buffalo Bills,9,SOLD,tonyols51809
+Kansas City Chiefs,8,SOLD,chickenlegs11
+Chicago Bears,8,SOLD,tonyols51809
+BIG 12,7,SOLD,cripticex
+Jacksonville Jaguars,3,SOLD,cripticex
+SUN BELT,6,SOLD,cbray3
+Green Bay Packers,6,SOLD,cbray3
+#33,8,SOLD,jadenkeu
+Cleveland Browns,8,SOLD,cbray3

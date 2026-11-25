@@ -1,25 +1,21 @@
 spot,price,state,buyer
-Arizona Cardinals,25,OPEN,
-Atlanta Falcons,12,OPEN,
-Buffalo Bills,30,OPEN,
-Carolina Panthers,12,OPEN,
-Cleveland Browns,25,OPEN,
+Arizona Cardinals,9,SOLD,parker4824
+Atlanta Falcons,4,SOLD,andrewcar94006
+Buffalo Bills; Bowns,25,SOLD,jimhomiethome97
+Carolina Panthers,2,SOLD,legacy_breaks
 Dallas Cowboys,20,SOLD,julescline
 Denver Broncos,8,SOLD,legacy_breaks
-Houston Texans,12,OPEN,
-Indianapolis Colts,12,OPEN,
-Jacksonville Jaguars,12,OPEN,
-Kansas City Chiefs,25,OPEN,
-Los Angeles Chargers,16,OPEN,
-Los Angeles Rams,25,OPEN,
-Minnesota Vikings,16,OPEN,
-New England Patriots,22,OPEN,
-New York Giants,22,OPEN,
-New York Jets,22,OPEN,
-Philadelphia Eagles,18,OPEN,
-Pittsburgh Steelers,18,OPEN,
+Houston Texans,3,SOLD,andrewcar94006
+Indianapolis Colts,3,SOLD,legacy_breaks
+Jacksonville Jaguars,2,SOLD,legacy_breaks
+Kansas City Chiefs,10,SOLD,jimhomiethome97
+Los Angeles Chargers,2,SOLD,legacy_breaks
+Rams; Jets; Eagles; Seahawks,25,SOLD,parker4824
+Minnesota Vikings,3,SOLD,jimhomiethome97
+New England Patriots,5,SOLD,andrewcar94006
+New York Giants,8,SOLD,andrewcar94006
+Pittsburgh Steelers,3,SOLD,legacy_breaks
 San Francisco 49ers,8,SOLD,andrewcar94006
-Seattle Seahawks,16,OPEN,
-Tampa Bay Buccaneers,16,OPEN,
-Tennessee Titans,25,OPEN,
-Washington Commanders,16,OPEN,
+Tampa Bay Buccaneers,3,SOLD,legacy_breaks
+Tennessee Titans,8,SOLD,legacy_breaks
+Washington Commanders,4,SOLD,legacy_breaks
