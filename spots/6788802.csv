@@ -1,33 +1,35 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+Arizona Cardinals,11,SOLD,hv__breakers
+Atlanta Falcons,13,SOLD,howling007
+Baltimore Ravens,11,SOLD,hellabroketcg
+Buffalo Bills,9,SOLD,hillshouseofcards
+Carolina Panthers,10,SOLD,tanyarui
+Chicago Bears,10,SOLD,jbish26
+Cincinnati Bengals,11,SOLD,kt2gt01
+Cleveland Browns,13,SOLD,charlie0392
+Dallas Cowboys,10,SOLD,hellabroketcg
+Denver Broncos,12,SOLD,gotalottagame
+Detroit Lions,7,SOLD,kt2gt01
+Green Bay Packers,15,SOLD,jason42256
+Houston Texans,10,SOLD,skruffisback
+Indianapolis Colts,9,SOLD,vivisportscards
+Jacksonville Jaguars,11,SOLD,hellabroketcg
+Kansas City Chiefs,9,SOLD,kt2gt01
+Las Vegas Raiders,11,SOLD,mchcustom
+Los Angeles Chargers,6,SOLD,demp46
+Los Angeles Rams,11,SOLD,vivisportscards
+Miami Dolphins,11,SOLD,jason42256
+Minnesota Vikings,9,SOLD,vivisportscards
+New England Patriots,11,SOLD,tanyarui
+New Orleans Saints,9,SOLD,myerby
+New York Giants,13,SOLD,chasecardrips
+New York Jets,9,SOLD,trherri_21
+Philadelphia Eagles,11,SOLD,hellabroketcg
+Pittsburgh Steelers,11,SOLD,hellabroketcg
+San Francisco 49ers,15,SOLD,kt2gt01
+Seattle Seahawks,11,SOLD,kt2gt01
+Tampa Bay Buccaneers,16,SOLD,pbois
+Tennessee Titans,12,SOLD,gotalottagame
+Washington Commanders,19,SOLD,mchcustom
+#20,9,SOLD,alejandrothebestest
+ALL NIL TEAMS,97,SOLD,myerby

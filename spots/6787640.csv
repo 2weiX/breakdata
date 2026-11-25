@@ -7,29 +7,36 @@ Carolina Panthers,15,OPEN,
 Chicago Bears,20,OPEN,
 Cincinnati Bengals,35,OPEN,
 Cleveland Browns,20,OPEN,
-Dallas Cowboys,13,SOLD,noah_priester
-Denver Broncos,12,SOLD,stevied20
+Dallas Cowboys,15,OPEN,
+Denver Broncos,15,OPEN,
 Detroit Lions,20,OPEN,
-Green Bay Packers,12,SOLD,seekskee
+Green Bay Packers,15,OPEN,
 Houston Texans,12,OPEN,
 Indianapolis Colts,12,OPEN,
 Jacksonville Jaguars,25,OPEN,
 Kansas City Chiefs,35,OPEN,
 Las Vegas Raiders,55,OPEN,
 Los Angeles Chargers,12,OPEN,
-Los Angeles Rams,16,SOLD,singles_near_you
+Los Angeles Rams,20,OPEN,
 Miami Dolphins,12,OPEN,
 Minnesota Vikings,15,OPEN,
 New England Patriots,25,OPEN,
 New Orleans Saints,13,OPEN,
-New York Giants,12,SOLD,shaolin525
-New York Jets,17,SOLD,singles_near_you
+New York Giants,15,OPEN,
+New York Jets,20,OPEN,
 Philadelphia Eagles,15,OPEN,
 Pittsburgh Steelers,14,OPEN,
 San Francisco 49ers,30,OPEN,
-Seattle Seahawks,15,SOLD,shokrips
-Tampa Bay Buccaneers,9.6,SOLD,bang85
-Tennessee Titans,23,SOLD,sipbryce
-Washington Commanders,12,SOLD,jmdisc4
+Seattle Seahawks,20,OPEN,
+Tampa Bay Buccaneers,12,OPEN,
+Tennessee Titans,27,OPEN,
+Washington Commanders,12,OPEN,
 "49ers, bills, chiefs, bengals",120,OPEN,
-The rest of the teams,400,OPEN,
+The rest of the teams,399,OPEN,
+#10,15,SOLD,stevied20
+#12,15,SOLD,seekskee
+#19,20,SOLD,singles_near_you
+#24,15,SOLD,shaolin525
+#25,20,SOLD,singles_near_you
+#30,12,SOLD,bang85
+#31,27,SOLD,sipbryce

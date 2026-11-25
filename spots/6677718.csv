@@ -1,12 +1,12 @@
 spot,price,state,buyer
 #2,28,OPEN,
-#3,28,OPEN,
+#3,28,SOLD,jhoff_coach
 #4,26,SOLD,alphelsinki
 #5,26,SOLD,alphelsinki
 #6,28,OPEN,
 #7,28,OPEN,
 #8,28,SOLD,bet6767
-#9,28,OPEN,
+#9,22.4,SOLD,juddkai
 #11,28,OPEN,
 #12,28,OPEN,
 #13,28,SOLD,bet6767
@@ -15,9 +15,9 @@ spot,price,state,buyer
 #16,28,OPEN,
 #17,28,OPEN,
 #18,26,SOLD,alphelsinki
-#19,28,OPEN,
+#19,22.4,SOLD,juddkai
 #20,28,OPEN,
-#21,28,OPEN,
+#21,28,SOLD,jhoff_coach
 #22,26,SOLD,alphelsinki
 #23,28,SOLD,bet6767
 #24,28,OPEN,

@@ -1,38 +1,33 @@
 spot,price,state,buyer
-49ers,,OPEN,
-Bears,,OPEN,
-Bengals,,OPEN,
-Bills,,OPEN,
-Broncos,,OPEN,
-Browns,,OPEN,
-Buccaneers,,OPEN,
-Cardinals,,OPEN,
-Chargers,,OPEN,
-Chiefs,,OPEN,
-Colts,,OPEN,
-Commanders,,OPEN,
-Cowboys,,OPEN,
-Dolphins,,OPEN,
-Eagles,,OPEN,
-Falcons,,OPEN,
-Giants,,OPEN,
-Jaguars,,OPEN,
-Jets,,OPEN,
-Lions,,OPEN,
-Packers,,OPEN,
-Panthers,,OPEN,
-Patriots,,OPEN,
-Raiders,,OPEN,
-Rams,,OPEN,
-Ravens,,OPEN,
-Saints,,OPEN,
-Seahawks,,OPEN,
-Steelers,,OPEN,
-Texans,,OPEN,
-Titans,,OPEN,
-Vikings,,OPEN,
-        ACC,,OPEN,
-       BIG TEN,,OPEN,
-        BIG 12,,OPEN,
-         SEC,,OPEN,
-        ND/IND,,OPEN,
+49ers,19,SOLD,cwelch22
+Bears,25,SOLD,yicknaws
+Bengals,19,SOLD,rcballer1989
+Bills,25,SOLD,mstelter1
+Broncos,21,SOLD,leomac32
+Browns,17,SOLD,yicknaws
+Buccaneers,21,SOLD,yicknaws
+Chargers,24,SOLD,yicknaws
+Commanders,15,SOLD,yicknaws
+Dolphins,25,SOLD,mstelter1
+Eagles,30,SOLD,yicknaws
+Falcons,27,SOLD,mstelter1
+Jaguars,18,SOLD,leomac32
+Lions,21,SOLD,brandonbor13631
+Packers,27,SOLD,mstelter1
+Panthers,36,SOLD,yicknaws
+Raiders,25,SOLD,cardkillacorey
+Rams,23,SOLD,brandonbor13631
+Ravens,36,SOLD,yicknaws
+Saints,21,SOLD,brandonbor13631
+Seahawks,13,SOLD,yicknaws
+Steelers,25,SOLD,mstelter1
+Texans,20,SOLD,rcballer1989
+Titans,40,SOLD,yicknaws
+Vikings,36,SOLD,yicknaws
+        ACC,24,SOLD,cardkillacorey
+       BIG TEN,26,SOLD,yicknaws
+T1,26,SOLD,yicknaws
+"Colts, Cowboys, Giants",120,SOLD,yicknaws
+"Cardinals, Patriots",135,SOLD,brandonbor13631
+"        BIG 12,          SEC,         ND/IND",160,SOLD,brandonbor13631
+"Chiefs, Jets",44,SOLD,leomac32

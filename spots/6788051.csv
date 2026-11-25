@@ -1,151 +1,56 @@
 spot,price,state,buyer
-Tom Brady,,OPEN,
-Fernando Mendoza,,OPEN,
-Joe Burrow,,OPEN,
-Josh Allen,,OPEN,
-Drew Mestemaker,,OPEN,
-Caleb Williams,,OPEN,
-Bear Bachmeier,,OPEN,
-Cam Ward,,OPEN,
-Lamar Jackson,,OPEN,
-Carson Beck,,OPEN,
-Bo Nix,,OPEN,
-CJ Stroud,,OPEN,
-Jared Goff,,OPEN,
-Jaxson Dart,,OPEN,
-Jayden Maiava,,OPEN,
-Josh Hoover,,OPEN,
-Kenny Minchey,,OPEN,
-Matthew Stafford,,OPEN,
-Peyton Manning,,OPEN,
-Cade Klubnik,,OPEN,
-Caleb Downs,,OPEN,
-Carnell Tate,,OPEN,
-Christian McCaffrey,,OPEN,
-Jadarian Price,,OPEN,
-Jaxon Smith-Njigba,,OPEN,
-Jordyn Tyson,,OPEN,
-KC Concepcion,,OPEN,
-Makai Lemon,,OPEN,
-Puka Nacua,,OPEN,
-Tetairoa McMillan,,OPEN,
-Josh Cameron,,OPEN,
-Josh Downs / Josh Hines-Allen,,OPEN,
-Josh Jacobs,,OPEN,
-Joshua Karty / Joshua Moore,,OPEN,
-Josiah Trotter / Juelz Goff,,OPEN,
-Julian Neal / Junior Colson,,OPEN,
-Justin Joly,,OPEN,
-Juwan Johnson / Kaden Shields-Dutton,,OPEN,
-Kaden Wetjen / Kaelan Chudzinski,,OPEN,
-Kadyn Proctor,,OPEN,
-Kaelon Black,,OPEN,
-Kaleb Johnson,,OPEN,
-Kamari Lassiter / Kamario Taylor,,OPEN,
-Kam Chancellor / Kamren Kinchens,,OPEN,
-Katin Houser / Kayshon Boutte,,OPEN,
-Kayden McDonald,,OPEN,
-Kaytron Allen,,OPEN,
-Keenan Allen,,OPEN,
-Keith Abney II,,OPEN,
-Keldric Faulk,,OPEN,
-Kendrick Law / Kendrick Raphael,,OPEN,
-Kenneth Gainwell / Kenneth Grant,,OPEN,
-Kenneth Walker III,,OPEN,
-Kenny Clark / Kevin Riley,,OPEN,
-Kenyon Sadiq,,OPEN,
-Kevin Winston Jr. / Keon Coleman,,OPEN,
-Keyjuan Brown / Keylan Rutledge,,OPEN,
-Khalil Mack,,OPEN,
-Khalil Shakir / Khobie Martin,,OPEN,
-King Miller / Kirby Vorhees,,OPEN,
-Kirk Cousins,,OPEN,
-KJ Duff / KJ Jackson,,OPEN,
-KK Smith / K'Lavon Chaisson,,OPEN,
-Kobie Turner / Kool-Aid McKinstry,,OPEN,
-Kris Jenkins / Kwazi Gilmer,,OPEN,
-Kurt Warner,,OPEN,
-Kyle Hamilton,,OPEN,
-Kyle Juszczyk / Kyle Williams,,OPEN,
-Kyle Monangai,,OPEN,
-Kyle Pitts,,OPEN,
-Kyler Murray,,OPEN,
-Kyren Williams,,OPEN,
-Kyri Shoels / Laiatu Latu,,OPEN,
-Ladd McConkey,,OPEN,
-Laremy Tunsil / Lawson Luckie,,OPEN,
-Larry Fitzgerald,,OPEN,
-Lawrence Taylor,,OPEN,
-Lee Hunter,,OPEN,
-Leonard Moore / LeRoy Butler,,OPEN,
-LeSean McCoy,,OPEN,
-London Humphreys / Lotzeir Brooks,,OPEN,
-LT Overton / Lucky Sutton,,OPEN,
-Lukas Van Ness / Luke Kuechly,,OPEN,
-Luke McCaffrey / Luke Musgrave,,OPEN,
-Luke Schoonmaker / Lunch Winfield,,OPEN,
-Luther Burden III,,OPEN,
-Mack Hollins / Makhi Hughes,,OPEN,
-Malachi Fields,,OPEN,
-Malachi Hosley / Malcolm Smith,,OPEN,
-Malachi Lawrence,,OPEN,
-Malik Nabers,,OPEN,
-Malik Washington / Mandrell Desir,,OPEN,
-Malik Willis,,OPEN,
-Mansoor Delane,,OPEN,
-Marcel Reed,,OPEN,
-Marco Jones / Marist Liufau,,OPEN,
-Mark Andrews,,OPEN,
-Marlin Klein,,OPEN,
-MarShawn Lloyd / Marvin Mims Jr.,,OPEN,
-Marvin Harrison Jr.,,OPEN,
-Marvis Parrish / Mason Graham,,OPEN,
-Mason Heintschel / Mason Mini,,OPEN,
-Mason Taylor,,OPEN,
-Matthew Golden,,OPEN,
-Maurice Jones-Drew,,OPEN,
-Max Iheanachor / Micah Ford,,OPEN,
-Max Klare,,OPEN,
-Maxx Crosby,,OPEN,
-Micahi Danzy / Michael Mayer,,OPEN,
-Micah Parsons,,OPEN,
-Michael Irvin,,OPEN,
-Michael Penix Jr.,,OPEN,
-Michael Pittman Jr.,,OPEN,
-Michael Strahan,,OPEN,
-Michael Turner / Mike Alstott,,OPEN,
-Michael Vick,,OPEN,
-Michael Wilson,,OPEN,
-Mike Evans,,OPEN,
-Mike Sainristil / Mike Singletary,,OPEN,
-Mike Washington Jr.,,OPEN,
-Mikey Matthews / Minkah Fitzpatrick,,OPEN,
-Monroe Freeling,,OPEN,
-Montez Sweat / Na'eem Abdul-Rahim Gladding,,OPEN,
-Nakobe Dean / Nate Wiggins,,OPEN,
-Nate Boerkircher,,OPEN,
-Nick Bolton / Nick Emmanwori,,OPEN,
-Nick Bosa,,OPEN,
-Nick Marsh / Nick Minicucci,,OPEN,
-Nick Singleton,,OPEN,
-Nico Collins,,OPEN,
-Nik Bonitto / Nik McMillan,,OPEN,
-Nolan James Jr. / Olamide Zaccheaus,,OPEN,
-Olaivavega Ioane,,OPEN,
-Ollie Gordon II,,OPEN,
-Omar Cooper Jr.,,OPEN,
-Omarion Hampton,,OPEN,
-Omarion Miller / Ozzie Newsome,,OPEN,
-Oronde Gadsden,,OPEN,
-Parker Livingstone / Parker Washington,,OPEN,
-Pat Freiermuth / Pat Tillman,,OPEN,
-Pat Surtain II,,OPEN,
-Payton Wilson / Quay Walker,,OPEN,
-Peter Woods,,OPEN,
-Quentin Johnston / Quenton Nelson,,OPEN,
-Que'Sean Brown / Quinnen Williams,,OPEN,
-Quinn Ewers,,OPEN,
-Quinn Meinerz / Rashid Shaheed,,OPEN,
-Quinshon Judkins,,OPEN,
-Rachaad White,,OPEN,
-Randy Moss,,OPEN,
+Fernando Mendoza,9,SOLD,mikeary
+Caleb Williams,7,SOLD,reidsmi23780
+Kenny Minchey,10,SOLD,just1once
+Matthew Stafford,9,SOLD,coltim49969
+Caleb Downs,8,SOLD,zlarraza93zla
+Josh Downs / Josh Hines-Allen,8,SOLD,zlarraza93zla
+Joshua Karty / Joshua Moore,8,SOLD,letsmakeadeal1000
+Julian Neal / Junior Colson,8,SOLD,coltim49969
+Keenan Allen,7,SOLD,user_53599
+Kirk Cousins,8,SOLD,mikeary
+KJ Duff / KJ Jackson,8,SOLD,zlarraza93zla
+Kurt Warner,5,SOLD,user_53599
+Kyren Williams,8,SOLD,letsmakeadeal1000
+Kyri Shoels / Laiatu Latu,5,SOLD,jakefis
+LeSean McCoy,7,SOLD,aldobom
+Malachi Lawrence,8,SOLD,zlarraza93zla
+Marlin Klein,8,SOLD,letsmakeadeal1000
+Marvin Harrison Jr.,7,SOLD,letsmakeadeal1000
+Micah Parsons,9,SOLD,zlarraza93zla
+Mike Evans,9,SOLD,letsmakeadeal1000
+Mike Sainristil / Mike Singletary,9,SOLD,zlarraza93zla
+Nate Boerkircher,7,SOLD,mike0212
+Nick Marsh / Nick Minicucci,7,SOLD,atb92
+Nik Bonitto / Nik McMillan,4,SOLD,wayno_
+Omarion Hampton,8,SOLD,zlarraza93zla
+Quinshon Judkins,10,SOLD,letsmakeadeal1000
+Sire Gaines,7,SOLD,aldobom
+Tee Higgins,8,SOLD,zlarraza93zla
+Sammy Brown,13,SOLD,zlarraza93zla
+Warren Moon,10,SOLD,letsmakeadeal1000
+Robert Spillane,8,SOLD,bmorenasty
+Sonny Styles,8,SOLD,zlarraza93zla
+T.J. Parker,9,SOLD,wabisabi89
+Reed Blankenship,8,SOLD,aldobom
+Vicari Swain,9,SOLD,zlarraza93zla
+Spencer Fano,8,SOLD,zlarraza93zla
+Zach Allen,7,SOLD,aldobom
+Seth McGowan,10,SOLD,letsmakeadeal1000
+Travis Etienne Jr.,8,SOLD,letsmakeadeal1000
+Teitum Tuioti,9,SOLD,zlarraza93zla
+Rashod Bateman ,8,SOLD,letsmakeadeal1000
+Tacario Davis,9,SOLD,letsmakeadeal1000
+Ronde Barber,8,SOLD,letsmakeadeal1000
+Uchenna Nwosu,9,SOLD,letsmakeadeal1000
+Theo Johnson,9,SOLD,letsmakeadeal1000
+"Riley Leonard, Taylen Green",14,SOLD,letsmakeadeal1000
+Tyson Bagent,8,SOLD,hookem83
+Roschon Johnson,7,SOLD,mike0212
+Terrell Anderson,9,SOLD,zlarraza93zla
+Von Miller,9,SOLD,letsmakeadeal1000
+Vita Vea,9,SOLD,milesaheadcards
+Tiger Bachmeier,10,SOLD,letsmakeadeal1000
+Rodney Tisdale Jr.,7,SOLD,zlarraza93zla
+Yhonzae Pierre,10,SOLD,letsmakeadeal1000
+#55,1,OPEN,

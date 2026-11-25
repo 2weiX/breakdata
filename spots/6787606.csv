@@ -1,34 +1,32 @@
 spot,price,state,buyer
-Arizona Cardinals*,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens**,,OPEN,
-Buffalo Bills*,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears*,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos*,,OPEN,
-Detroit Lions*,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs*,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams*,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings*,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans*,,OPEN,
-Washington Commanders,,OPEN,
-MISC*,,OPEN,
+Atlanta Falcons,6,SOLD,spill_the_cards
+Buffalo Bills*,10,SOLD,spill_the_cards
+Carolina Panthers,11,SOLD,corvinm
+Chicago Bears*,8,SOLD,robnow34880
+Cincinnati Bengals,6,SOLD,spill_the_cards
+Cleveland Browns,9,SOLD,keelanjon
+Dallas Cowboys,9,SOLD,spill_the_cards
+Denver Broncos*,6,SOLD,wsucoug55
+Detroit Lions*,11,SOLD,painterblake
+Green Bay Packers,7,SOLD,wsucoug55
+Houston Texans,9,SOLD,8lifegrand
+Indianapolis Colts,11,SOLD,robnow34880
+Jacksonville Jaguars,7,SOLD,robnow34880
+Kansas City Chiefs*,8,SOLD,domenicofot
+Las Vegas Raiders,13,SOLD,wsucoug55
+Los Angeles Chargers,8,SOLD,robnow34880
+New England Patriots,9,SOLD,robnow34880
+New York Giants,11,SOLD,spill_the_cards
+New York Jets,4,SOLD,spill_the_cards
+Philadelphia Eagles,10,SOLD,wsucoug55
+Pittsburgh Steelers,8,SOLD,kevingrant33
+San Francisco 49ers,10,SOLD,spill_the_cards
+Seattle Seahawks,7,SOLD,spill_the_cards
+Tampa Bay Buccaneers,7,SOLD,robhay19jr
+Tennessee Titans*,16,SOLD,wsucoug55
+MISC*,7,SOLD,robnow34880
+Los Angeles Rams,4,SOLD,jlewrips
+Arizona Cardinals,13,SOLD,spill_the_cards
+Minnesota Vikings,19,SOLD,ryasow
+Baltimore Ravens*,11,SOLD,robnow34880
+"Miami Dolphins, New Orleans Saints, Washington Commanders",3,SOLD,painterblake

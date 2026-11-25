@@ -1,34 +1,45 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-MISC,,OPEN,
+Atlanta Falcons,46,SOLD,ja_hova_3p
+Baltimore Ravens,104.5,SOLD,tristins_cards
+Buffalo Bills,86,SOLD,donkeyrob
+Carolina Panthers,63,SOLD,bhall515
+Chicago Bears,125,SOLD,kadyndil
+Cincinnati Bengals,120,SOLD,huntingforhits
+Cleveland Browns,108,SOLD,ct2083
+Dallas Cowboys,120,SOLD,dj_jay_keez
+Denver Broncos,69,SOLD,tristins_cards
+Detroit Lions,105,SOLD,patoc15119
+Green Bay Packers,120,SOLD,bhall515
+Houston Texans,73,SOLD,bhall515
+Indianapolis Colts,97,SOLD,canes469
+Jacksonville Jaguars,42,SOLD,tiano_3
+Kansas City Chiefs,116,SOLD,canes469
+Las Vegas Raiders,45,SOLD,mac02251mac
+Los Angeles Chargers,120,SOLD,tristins_cards
+Los Angeles Rams,102,SOLD,tantan86904
+Miami Dolphins,2,SOLD,willyhol03404
+Minnesota Vikings,112,SOLD,jack757518
+New England Patriots,120,SOLD,patoc15119
+New York Giants,122,SOLD,jack757518
+New York Jets,116,SOLD,tantan86904
+Philadelphia Eagles,70,SOLD,ryanbuc07405
+Pittsburgh Steelers,130,SOLD,jack757518
+San Francisco 49ers,35,SOLD,kadyndil
+Seattle Seahawks,100,SOLD,jmccain17
+Tampa Bay Buccaneers,58,SOLD,willyhol03404
+Tennessee Titans,55,SOLD,ja_hova_3p
+Washington Commanders,83,SOLD,pnsportscards
+MISC,58,SOLD,kadyndil
+#2,45,SOLD,kadyndil
+#5,116,SOLD,jack757518
+#6,125,SOLD,jack757518
+#9,130,SOLD,jack757518
+#11,106,SOLD,patoc15119
+#14,117,SOLD,ct2083
+#23,97,SOLD,canes469
+#26,60,SOLD,willyhol03404
+#31,55,SOLD,tiano_3
+#34,82,SOLD,pnsportscards
+#36,73,SOLD,ryanbuc07405
+#37,66,SOLD,canes469
+"Arizona Cardinals, New Orleans Saints",25,SOLD,jesgar29487

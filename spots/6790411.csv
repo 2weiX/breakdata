@@ -1,0 +1,33 @@
+spot,price,state,buyer
+Arizona Cardinals,75,OPEN,
+Atlanta Falcons,45,OPEN,
+Baltimore Ravens,45,OPEN,
+Buffalo Bills,46,SOLD,callmedelilah
+Carolina Panthers,45,OPEN,
+Chicago Bears,65,OPEN,
+Cincinnati Bengals,46,SOLD,callmedelilah
+Cleveland Browns,75,OPEN,
+Dallas Cowboys,65,OPEN,
+Denver Broncos,65,OPEN,
+Detroit Lions,45,OPEN,
+Green Bay Packers,45,OPEN,
+Houston Texans,45,OPEN,
+Indianapolis Colts,45,OPEN,
+Jacksonville Jaguars,45,OPEN,
+Kansas City Chiefs,53,SOLD,callmedelilah
+Las Vegas Raiders,90,SOLD,grey_area_sports_15
+Los Angeles Chargers,45,OPEN,
+Los Angeles Rams,65,OPEN,
+Miami Dolphins,45,OPEN,
+Minnesota Vikings,55,OPEN,
+New England Patriots,85,SOLD,direcards
+New Orleans Saints,70,OPEN,
+New York Giants,55,OPEN,
+New York Jets,65,OPEN,
+Philadelphia Eagles,45,OPEN,
+Pittsburgh Steelers,55,OPEN,
+San Francisco 49ers,55,OPEN,
+Seattle Seahawks,55,OPEN,
+Tampa Bay Buccaneers,85,SOLD,direcards
+Tennessee Titans,75,OPEN,
+Washington Commanders,45,OPEN,

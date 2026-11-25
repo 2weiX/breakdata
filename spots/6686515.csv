@@ -1,5 +1,5 @@
 spot,price,state,buyer
-Arizona Cardinals,42,OPEN,
+Arizona Cardinals,42,SOLD,maxrox72
 Atlanta Falcons,11,SOLD,koeter88
 Baltimore Ravens,12,SOLD,andi2802
 Buffalo Bills,25.6,SOLD,koeter88
@@ -9,25 +9,23 @@ Cincinnati Bengals,16,SOLD,richardlin56145
 Cleveland Browns,17,SOLD,1pepe
 Dallas Cowboys,21,SOLD,maxrox72
 Denver Broncos,20,SOLD,latradingcards82
-Detroit Lions,20,OPEN,
+Detroit Lions,16,SOLD,pick6_tcg
 Green Bay Packers,8.8,SOLD,koeter88
-Houston Texans,12,OPEN,
-Indianapolis Colts,15,OPEN,
+Houston Texans,9.6,SOLD,pick6_tcg
+Indianapolis Colts,14.25,SOLD,oatsharpgaming
 Jacksonville Jaguars,12.75,SOLD,quentintraupe
 Kansas City Chiefs,27.2,SOLD,jobar77
 Las Vegas Raiders,67.2,SOLD,1pepe
 Los Angeles Chargers,13.6,SOLD,djdeeoh
-Los Angeles Rams,45,OPEN,
+Los Angeles Rams,42.75,SOLD,gkgkggg
 Miami Dolphins,11,SOLD,ldocards
-Minnesota Vikings,15,OPEN,
-New England Patriots,47,OPEN,
+Minnesota Vikings,12,SOLD,pick6_tcg
 New Orleans Saints,20.8,SOLD,latradingcards82
-New York Giants,38,OPEN,
-New York Jets,26,OPEN,
-Philadelphia Eagles,33,OPEN,
+Philadelphia Eagles,26,SOLD,willmaranda69
 Pittsburgh Steelers,20.9,SOLD,marvinelias04
 San Francisco 49ers,21,SOLD,hoggla
-Seattle Seahawks,33,OPEN,
-Tampa Bay Buccaneers,26,OPEN,
-Tennessee Titans,35,OPEN,
-Washington Commanders,26,OPEN,
+Seattle Seahawks,26.4,SOLD,konradkarsch
+Tampa Bay Buccaneers,23.4,SOLD,officialdoublea
+Washington Commanders,23.4,SOLD,officialdoublea
+New England Patriots + Giants,60,SOLD,jobar77
+Tennessee Titans + Jets,48,SOLD,willmaranda69

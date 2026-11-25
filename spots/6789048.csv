@@ -1,22 +1,56 @@
 spot,price,state,buyer
 T,135,SOLD,fredhoov0808
-#2,125,SOLD,buzzy_sports
+T,125,SOLD,buzzy_sports
+T,135,SOLD,skunkycardemporium315
+T,155,SOLD,fredhoov0808
+T,140,SOLD,haywoodjablomie
+T,122,SOLD,thboss202003
+T,95,SOLD,johnkho23
+T,96,SOLD,fredhoov0808
+T,63,SOLD,johnkho23
+T,77,SOLD,thboss202003
+T,56,SOLD,johnkho23
+T,69,SOLD,delidad3
+T,64,SOLD,delidad3
+T,59,SOLD,delidad3
+T,54,SOLD,docholidaydoc
+T,55,SOLD,buzzy_sports
+T,56,SOLD,ja_hova_3p
 Detroit Lions,136,SOLD,fredhoov0808
-#4,135,SOLD,skunkycardemporium315
 Los Angeles Rams,151,SOLD,skunkycardemporium315
-Tampa Bay Buccaneers,155,SOLD,fredhoov0808
+Tampa Bay Buccaneers,21,SOLD,ckrickl
 Chicago Bears,150,SOLD,haywoodjablomie
 Pittsburgh Steelers,160,SOLD,buzzy_sports
 DOWNTOWN,165,SOLD,fredhoov0808
-MISC,136,SOLD,haywoodjablomie
-#11,140,SOLD,haywoodjablomie
-Indianapolis Colts,135,SOLD,haywoodjablomie
 DOWNTOWN,125,SOLD,buzzy_sports
+DOWNTOWN,125,SOLD,johnkho23
+DOWNTOWN,54,SOLD,ja_hova_3p
+MISC,136,SOLD,haywoodjablomie
+Indianapolis Colts,135,SOLD,haywoodjablomie
 Green Bay Packers,105,SOLD,johnkho23
 #15,115,SOLD,haywoodjablomie
 New York Giants,125,SOLD,thboss202003
-Jacksonville Jaguars,122,SOLD,thboss202003
+Jacksonville Jaguars,21,SOLD,baybrae
 Los Angeles Chargers,110,SOLD,johnkho23
 Dallas Cowboys,126,SOLD,docholidaydoc
 Miami Dolphins,116,SOLD,docholidaydoc
-DOWNTOWN,125,SOLD,johnkho23
+Buffalo Bills,115,SOLD,thboss202003
+Las Vegas Raiders,110,SOLD,fredhoov0808
+New England Patriots,98,SOLD,g_manly
+San Francisco 49ers,91,SOLD,fredhoov0808
+Kansas City Chiefs,66,SOLD,johnkho23
+Minnesota Vikings,59,SOLD,delidad3
+Philadelphia Eagles,54,SOLD,fredhoov0808
+Seattle Seahawks,62,SOLD,delidad3
+Cleveland Browns,49,SOLD,tformation
+Washington Commanders,54,SOLD,docholidaydoc
+Atlanta Falcons,61,SOLD,docholidaydoc
+Denver Broncos,59,SOLD,buzzy_sports
+Baltimore Ravens,59,SOLD,buzzy_sports
+Carolina Panthers,59,SOLD,ja_hova_3p
+Houston Texans,57,SOLD,johnkho23
+New York Jets,33,SOLD,ja_hova_3p
+Tennessee Titans,44,SOLD,jrausch17
+Cincinnati Bengals,39,SOLD,ckrickl
+New Orleans Saints,19,SOLD,ja_hova_3p
+Arizona Cardinals,16,SOLD,givvygobbler20

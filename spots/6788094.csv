@@ -1,46 +1,42 @@
 spot,price,state,buyer
-Arizona Cardinals,12,OPEN,
 Atlanta Falcons,14,OPEN,
 Baltimore Ravens,15,OPEN,
-Buffalo Bills,20,OPEN,
+Buffalo Bills,14,SOLD,ashleyhad58800
 Carolina Panthers,11,OPEN,
-Chicago Bears,20,OPEN,
+Chicago Bears,10,SOLD,jquillen01
 Cincinnati Bengals,15,OPEN,
-Cleveland Browns,9,OPEN,
-Dallas Cowboys,15,OPEN,
+Cleveland Browns,7,SOLD,tecoopsportscards
 Denver Broncos,14,OPEN,
 Detroit Lions,20,OPEN,
 Green Bay Packers,15,OPEN,
 Houston Texans,14,OPEN,
 Indianapolis Colts,11,OPEN,
 Jacksonville Jaguars,14,OPEN,
-Kansas City Chiefs,20,OPEN,
-Las Vegas Raiders,49,OPEN,
+Kansas City Chiefs,7,SOLD,wickedgood_11
+Las Vegas Raiders,40,SOLD,pinsondeck
 Los Angeles Chargers,12,OPEN,
 Los Angeles Rams,14,OPEN,
 Miami Dolphins,12,OPEN,
 Minnesota Vikings,12,OPEN,
-New England Patriots,14,OPEN,
+New England Patriots,10,SOLD,wickedgood_11
 New Orleans Saints,9,OPEN,
-New York Giants,12,OPEN,
-New York Jets,11,OPEN,
-Philadelphia Eagles,18,OPEN,
+New York Giants,7,SOLD,dwight2424
+Philadelphia Eagles,13,OPEN,
 Pittsburgh Steelers,14,OPEN,
-San Francisco 49ers,20,OPEN,
+San Francisco 49ers,15,OPEN,
 Seattle Seahawks,12,OPEN,
 Tampa Bay Buccaneers,11,OPEN,
-Tennessee Titans,11,OPEN,
+Tennessee Titans,5,SOLD,run_n_guncards
 Washington Commanders,15,OPEN,
 Alabama,18,OPEN,
-BYU,11,OPEN,
 Clemson,14,OPEN,
 Florida,14,OPEN,
 Georgia,18,OPEN,
 Indiana,12,OPEN,
 Miami,15,OPEN,
 Michigan,15,OPEN,
-Notre Dame,30,OPEN,
-Ohio State,20,OPEN,
+Notre Dame,23,SOLD,dwight2424
+Ohio State,20,SOLD,dwight2424
 Oklahoma,15,OPEN,
 Ole Miss,12,OPEN,
 Oregon,17,OPEN,
@@ -48,4 +44,5 @@ Texas,30,OPEN,
 Texas A&M,12,OPEN,
 USC,14,OPEN,
 Washington,11,OPEN,
-All Other Schools,85,OPEN,
+All Other Schools,65,SOLD,run_n_guncards
+"Dallas Cowboys, New York Jets, Arizona Cardinals",32,SOLD,tecoopsportscards

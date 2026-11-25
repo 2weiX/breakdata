@@ -1,34 +1,35 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-Miscellaneous,,OPEN,
+Arizona Cardinals,16,SOLD,nmsasquatch
+Atlanta Falcons,15,SOLD,8lifegrand
+Baltimore Ravens,21,SOLD,cltbrian
+Buffalo Bills,6,SOLD,jasonscottmcfarland
+Carolina Panthers,21,SOLD,msherri000
+Chicago Bears,19,SOLD,cltbrian
+Cincinnati Bengals,17,SOLD,cltbrian
+Cleveland Browns,4,SOLD,kriech42
+Dallas Cowboys,14,SOLD,kriech42
+Denver Broncos,16,SOLD,cltbrian
+Detroit Lions,16,SOLD,8lifegrand
+Green Bay Packers,14,SOLD,oregansports69
+Houston Texans,15,SOLD,cltbrian
+Indianapolis Colts,18,SOLD,jferb14
+Jacksonville Jaguars,2,SOLD,starstream_nightm4re
+Kansas City Chiefs,15,SOLD,nmsasquatch
+Las Vegas Raiders,17,SOLD,siezethecarp
+Los Angeles Chargers,18,SOLD,travipatty007
+Los Angeles Rams,13,SOLD,cltbrian
+Miami Dolphins,18,SOLD,travipatty007
+Minnesota Vikings,4,SOLD,starstream_nightm4re
+New England Patriots,18,SOLD,cltbrian
+New Orleans Saints,20,SOLD,cltbrian
+New York Giants,15,SOLD,kriech42
+New York Jets,15,SOLD,nmsasquatch
+Philadelphia Eagles,18,SOLD,ryno80823
+Pittsburgh Steelers,19,SOLD,cltbrian
+San Francisco 49ers,13,SOLD,cltbrian
+Seattle Seahawks,15,SOLD,cltbrian
+Tampa Bay Buccaneers,17,SOLD,cltbrian
+Tennessee Titans,2,SOLD,starstream_nightm4re
+Washington Commanders,4,SOLD,kriech42
+Miscellaneous,21,SOLD,cltbrian
+#21,18,SOLD,jayteethree

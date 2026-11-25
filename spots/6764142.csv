@@ -1,23 +1,13 @@
 spot,price,state,buyer
-Arizona Cardinals/ Baltimore Ravens,3,OPEN,
-Atlanta Falcons,5,OPEN,
 Buffalo Bills/49ERS/Panthers,20,SOLD,stone_in_michigan
-Chicago Bears/ Browns,3,OPEN,
 Dallas Cowboys,4.9,SOLD,hibmatt
-Denver Broncos,7,OPEN,
 Detroit Lions,7,SOLD,mikegrove7
-Green Bay Packers/ Houston Texans,3,OPEN,
 Jacksonville Jaguars,3,SOLD,saj221974
 Kansas City Chiefs/ LV Raiders,6,SOLD,stone_in_michigan
-Los Angeles Chargers & Rams,3,OPEN,
-Miami Dolphins,7,OPEN,
 Minnesota Vikings,8,SOLD,mike_bl
 New England Patriots,4,SOLD,mike_bl
-New Orleans Saints/NY Jets,3,OPEN,
 New York Giants,5,SOLD,tomace21
-Philadelphia Eagles/ Tampa Bay Bucs,3,OPEN,
-Pittsburgh Steelers/ Seahawks,6,OPEN,
-Tennessee Titans/ Commanders,3,OPEN,
+Pittsburgh Steelers/ Seahawks,5,SOLD,noah204cards
 Highschool & Remaining NIL,20,SOLD,rstreete4444
 Michigan,10,SOLD,mikegrove7
 Florida,6,SOLD,bfranklin78
@@ -26,9 +16,10 @@ Texas A & M,8,SOLD,bfranklin78
 Oregon ,10,SOLD,cmass22
 Ole Miss,5.6,SOLD,kylbod
 Notre Dame,8,SOLD,bfranklin78
-South Carolina ,8,OPEN,
+South Carolina ,4,SOLD,wlkfool
 OSU,12,SOLD,blainepete
 Miami,5,SOLD,kylbod
-Georgia,7,OPEN,
+Georgia,5,SOLD,wlkfool
 Alabama,6.5,SOLD,bulldozier47
-USC,7,OPEN,
+USC,5,SOLD,mike_bl
+Arizona Cardinals/Ravens/Bears/Browns,20,SOLD,hibmatt

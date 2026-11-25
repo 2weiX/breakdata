@@ -1,5 +1,4 @@
 spot,price,state,buyer
-Arizona Cardinals,35,OPEN,
 Atlanta Falcons,30,OPEN,
 Baltimore Ravens,40,OPEN,
 Buffalo Bills,40,OPEN,
@@ -11,14 +10,13 @@ Cleveland Browns/Dallas Cowboys/Cincinnati Bengals,90,SOLD,trongtre1957
 Denver Broncos,50,OPEN,
 Detroit Lions,75,OPEN,
 Duke Blue Devils/Florida State Seminoles/Houston Cougars,30,OPEN,
-Georgia Bulldogs/Colorado Buffaloes/Clemson Tigers/Auburn Tigers for fame ,3000,OPEN,
+Georgia Bulldogs/Colorado Buffaloes/Clemson Tigers/Auburn Tigers for fame ,80,SOLD,famoussheamus
 Houston Texans,25,OPEN,
 Indiana Hoosiers/Illinois Fighting Illini,60,OPEN,
 Indianapolis Colts,35,OPEN,
 Jacksonville Jaguars,25,OPEN,
 Kansas City Chiefs,30,OPEN,
 Los Angeles Chargers,35,OPEN,
-Los Angeles Raiders,35,OPEN,
 Los Angeles Rams,75,OPEN,
 LSU Tigers/High School,50,OPEN,
 Miami Dolphins,50,OPEN,
@@ -27,7 +25,7 @@ Michigan Wolverines/Tennessee Volunteers,65,OPEN,
 Minnesota Vikings,35,OPEN,
 Missouri Tigers/Kentucky Wildcats/Utah Utes,25,SOLD,weekendcards
 New England Patriots,75,OPEN,
-New Orleans Saints,40,OPEN,
+New Orleans Saints,40,SOLD,waylon2287
 New York Giants,40,OPEN,
 New York Jets,25,OPEN,
 Notre Dame Fighting Irish/North Carolina Tar Heels/Green Bay Packers,105,SOLD,sayitaintsmo
@@ -38,7 +36,7 @@ Ole Miss Rebels,100,OPEN,
 Oregon Ducks,100,OPEN,
 Penn State Nittany Lions/Nebraska Cornhuskers/Virginia Cavaliers,30,OPEN,
 Philadelphia Eagles,30,OPEN,
-Pittsburgh Steelers,35,OPEN,
+Pittsburgh Steelers,28,SOLD,faulk28
 San Francisco 49ers,35,OPEN,
 Seattle Seahawks,30,OPEN,
 South Carolina Gamecocks/NC State Wolfpack/Stanford Cardinal,30,OPEN,
@@ -49,3 +47,4 @@ Texas Longhorns,100,OPEN,
 Texas Tech Red Raiders/Kansas State Wildcats/TCU Horned Frogs,25,SOLD,weekendcards
 USC Trojans/Washington Huskies,75,OPEN,
 Washington Redskins,30,OPEN,
+Los Angeles Raiders/Arizona Cardinals ,50,SOLD,glea44

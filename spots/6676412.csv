@@ -5,14 +5,11 @@ Buffalo Bills,275,OPEN,
 Chicago Bears,249,OPEN,
 "Cincinnati Bengals, Commanders, Packers, Flacons, Panthers, Texans",500,SOLD,jarrenbar
 Cleveland Browns,175,OPEN,
-Dallas Cowboys,175,OPEN,
 Denver Broncos,229,OPEN,
-Detroit Lions,169,OPEN,
-Indianapolis Colts,99,OPEN,
+Indianapolis Colts,50,SOLD,crabdad
 Jacksonville Jaguars,119,OPEN,
 Kansas City Chiefs,399,OPEN,
 Las Vegas Raiders,425,SOLD,fanup
-Los Angeles Chargers,99,OPEN,
 Los Angeles Rams,275,OPEN,
 Miami Dolphins,119,OPEN,
 Minnesota Vikings,119,OPEN,
@@ -22,7 +19,8 @@ New York Giants,155,SOLD,anthonyfus1026
 New York Jets,149,OPEN,
 Philadelphia Eagles,165,OPEN,
 Pittsburgh Steelers,77,SOLD,fam1st85
-San Francisco 49ers,189,OPEN,
+San Francisco 49ers,165,OPEN,
 Seattle Seahawks,239,OPEN,
 Tampa Bay Buccaneers,180,SOLD,fanup
 Tennessee Titans,219,OPEN,
+"Detroit Lions, Cowboys, Chargers",260,SOLD,detroitsportcardhits

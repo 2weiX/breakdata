@@ -1,34 +1,31 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-MISC,,OPEN,
+Baltimore Ravens,301,SOLD,meykel67
+Buffalo Bills,301,SOLD,meykel67
+Carolina Panthers,321,SOLD,meykel67
+Chicago Bears,311,SOLD,joeb000555
+Cincinnati Bengals,235,SOLD,joeb000555
+Cleveland Browns,285,SOLD,ghoem5
+Dallas Cowboys,165,SOLD,joeb000555
+Denver Broncos,321,SOLD,meykel67
+Detroit Lions,105,SOLD,jonny_disco
+Green Bay Packers,270,SOLD,joeb000555
+Kansas City Chiefs,370,SOLD,jared058
+Los Angeles Chargers,311,SOLD,joeb000555
+Los Angeles Rams,330,SOLD,ghoem5
+Minnesota Vikings,175,SOLD,jonny_disco
+New England Patriots,307,SOLD,jared058
+New York Giants,302,SOLD,joeb000555
+Philadelphia Eagles,227,SOLD,joeb000555
+Pittsburgh Steelers,200,SOLD,joeb000555
+San Francisco 49ers,410,SOLD,peterupinyou85
+Tampa Bay Buccaneers,175,SOLD,meykel67
+MISC,330,SOLD,ghoem5
+#1,300,SOLD,jared058
+#3,365,SOLD,jared058
+#11,270,SOLD,joeb000555
+#14,1,SOLD,joeb000555
+#17,255,SOLD,ghoem5
+#20,250,SOLD,joeb000555
+#22,204,SOLD,joeb000555
+#24,70,SOLD,joeb000555
+"Arizona Cardinals, Atlanta Falcons, Houston Texans, Indianapolis Colts, Jacksonville Jaguars, Las Vegas Raiders, Miami Dolphins, New Orleans Saints, New York Jets, Seattle Seahawks, Tennessee Titans, Washington Commanders",82,SOLD,johtro34952
