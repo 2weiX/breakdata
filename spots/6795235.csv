@@ -1,6 +1,6 @@
 spot,price,state,buyer
 Arizona Cardinals,7,OPEN,
-Atlanta Falcons,6,OPEN,
+Atlanta Falcons,6,SOLD,unreconstructed
 Baltimore Ravens,6,OPEN,
 Buffalo Bills,9,SOLD,paulie716
 Carolina Panthers,9,OPEN,
@@ -13,8 +13,8 @@ Detroit Lions,7,OPEN,
 Green Bay Packers,7,SOLD,jenjen29520
 Houston Texans,5,OPEN,
 Jacksonville Jaguars,14,OPEN,
-Kansas City Chiefs,8,OPEN,
-Las Vegas Raiders,15,OPEN,
+Kansas City Chiefs,8,SOLD,squeals
+Las Vegas Raiders,7,SOLD,paulie716
 Los Angeles Chargers,10,OPEN,
 Los Angeles Rams,5,OPEN,
 Miami Dolphins,6,OPEN,
@@ -27,7 +27,7 @@ Philadelphia Eagles,6,OPEN,
 San Francisco 49ers,8,OPEN,
 Seattle Seahawks,6,OPEN,
 Tampa Bay Buccaneers,7,OPEN,
-Tennessee Titans,10,OPEN,
+Tennessee Titans,10,SOLD,paulie716
 Washington Commanders,15,OPEN,
 "NIL A - Oregon, Ohio State, Georgia, Texas",15,OPEN,
 "NIL B - Alabama, Notre Dame, USC, LSU, Ole Miss",12,OPEN,

@@ -1,33 +1,33 @@
 spot,price,state,buyer
-Arizona Cardinals,16,OPEN,
-Atlanta Falcons,7,OPEN,
-Baltimore Ravens,8,OPEN,
-Buffalo Bills,18,OPEN,
-Carolina Panthers,7,OPEN,
-Chicago Bears,16,OPEN,
-Cincinnati Bengals,15,OPEN,
-Cleveland Browns,8,OPEN,
+Arizona Cardinals,12.8,SOLD,gmo5984
+Atlanta Falcons,5.6,SOLD,gmo5984
+Baltimore Ravens,6.4,SOLD,gmo5984
+Buffalo Bills,16.5,SOLD,gmo5984
+Carolina Panthers,5.6,SOLD,atc002z
+Chicago Bears,12.8,SOLD,gmo5984
+Cincinnati Bengals,13,SOLD,shupert30
+Cleveland Browns,8,SOLD,billdevore
 Dallas Cowboys,8.8,SOLD,atc002z
-Denver Broncos,10,OPEN,
-Detroit Lions,9,OPEN,
-Green Bay Packers,10,OPEN,
-Houston Texans,7,OPEN,
-Indianapolis Colts,7,OPEN,
-Jacksonville Jaguars,12,OPEN,
+Denver Broncos,7,SOLD,gmo5984
+Detroit Lions,9,SOLD,robertaug061194
+Green Bay Packers,5,SOLD,gmo5984
+Houston Texans,5.6,SOLD,gmo5984
+Indianapolis Colts,7,SOLD,eloe1975
+Jacksonville Jaguars,12,SOLD,pricelesscardboard
 Kansas City Chiefs,14.5,SOLD,bobcat2106
-Las Vegas Raiders,21,OPEN,
-Los Angeles Chargers,6,OPEN,
-Los Angeles Rams,15,OPEN,
-Miami Dolphins,6,OPEN,
-Minnesota Vikings,8,OPEN,
-New England Patriots,15,OPEN,
-New Orleans Saints,11,OPEN,
-New York Giants,11,OPEN,
-New York Jets,8,OPEN,
-Philadelphia Eagles,12,OPEN,
-Pittsburgh Steelers,10,OPEN,
-San Francisco 49ers,15,OPEN,
-Seattle Seahawks,10,OPEN,
-Tampa Bay Buccaneers,8,OPEN,
-Tennessee Titans,9,OPEN,
+Las Vegas Raiders,21,SOLD,boog6421
+Los Angeles Chargers,6,SOLD,theo18744
+Los Angeles Rams,11.5,SOLD,gmo5984
+Miami Dolphins,6,SOLD,mastergray101
+Minnesota Vikings,3,SOLD,gmo5984
+New England Patriots,12,SOLD,wickedgood_11
+New Orleans Saints,8.8,SOLD,gmo5984
+New York Giants,8.8,SOLD,gmo5984
+New York Jets,6.4,SOLD,gmo5984
+Philadelphia Eagles,9,SOLD,gmo5984
+Pittsburgh Steelers,5,SOLD,gmo5984
+San Francisco 49ers,12,SOLD,gmo5984
+Seattle Seahawks,7,SOLD,gmo5984
+Tampa Bay Buccaneers,6.4,SOLD,billdevore
+Tennessee Titans,7,SOLD,gmo5984
 Washington Commanders,7,SOLD,boog6421

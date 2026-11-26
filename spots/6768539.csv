@@ -1,33 +1,32 @@
 spot,price,state,buyer
-Arizona Cardinals,9,OPEN,
-Atlanta Falcons,10,OPEN,
+Arizona Cardinals,9,SOLD,gmtsalesltd
+Atlanta Falcons,8,SOLD,vinnybaseball
 Baltimore Ravens,16,OPEN,
-Buffalo Bills,20,OPEN,
-Carolina Panthers,30,OPEN,
-Chicago Bears,25,OPEN,
-Cincinnati Bengals,15,OPEN,
-Cleveland Browns,21,OPEN,
-Dallas Cowboys,14,OPEN,
-Denver Broncos,17,OPEN,
-Detroit Lions,15,OPEN,
-Green Bay Packers,25,OPEN,
+Buffalo Bills,16,SOLD,jcdriller2
+Carolina Panthers,24,SOLD,nickhall75
+Chicago Bears,21,SOLD,bexleytaylor
+Cincinnati Bengals,15,SOLD,gmtsalesltd
+Cleveland Browns,16.8,SOLD,thankyoupal
+Dallas Cowboys,11.9,SOLD,gmtsalesltd
+Denver Broncos,14,SOLD,chrisp562
+Detroit Lions,12,SOLD,dr_detroit71
 Houston Texans,11,OPEN,
-Indianapolis Colts,16,OPEN,
 Jacksonville Jaguars,28,OPEN,
-Kansas City Chiefs,20,OPEN,
-Las Vegas Raiders,23,OPEN,
-Los Angeles Chargers,9,OPEN,
+Kansas City Chiefs,12,SOLD,winkevsells
+Los Angeles Chargers,6,SOLD,gmtsalesltd
 Los Angeles Rams,13,OPEN,
-Miami Dolphins,14,OPEN,
-Minnesota Vikings,14,OPEN,
-New England Patriots,17,OPEN,
-New Orleans Saints,22,OPEN,
-New York Giants,38,OPEN,
-New York Jets,11,OPEN,
-Philadelphia Eagles,14,OPEN,
+Miami Dolphins,11.2,SOLD,jcdriller2
+Minnesota Vikings,9,SOLD,poppfly25
+New Orleans Saints,16,SOLD,bigdanhobby
+New York Giants,32,SOLD,gunnin4u9
+New York Jets,6,SOLD,tpate95
+Philadelphia Eagles,14,SOLD,jcdriller2
 Pittsburgh Steelers,18,OPEN,
 San Francisco 49ers,17,OPEN,
 Seattle Seahawks,10,SOLD,gunnin4u9
-Tampa Bay Buccaneers,20,OPEN,
-Tennessee Titans,28,OPEN,
+Tampa Bay Buccaneers,17,SOLD,wild_slice
+Tennessee Titans,22.4,SOLD,tpate95
 Washington Commanders,16,OPEN,
+Green Bay Packers & Colts,35,SOLD,nickhall75
+Las Vegas Raiders & Patriots,70,SOLD,winkevsells
+Atlanta Falcons,8,SOLD,winkevsells
