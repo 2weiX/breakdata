@@ -1,33 +1,33 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+Arizona Cardinals,1,SOLD,thomasgro
+New York Jets,3,SOLD,ap919
+Kansas City Chiefs,4,SOLD,ap919
+San Francisco 49ers,4,SOLD,ap919
+New Orleans Saints,2,SOLD,ap919
+Carolina Panthers,3,SOLD,ap919
+Indianapolis Colts,2,SOLD,kaphelps70
+Jacksonville Jaguars,3,SOLD,ap919
+Pittsburgh Steelers,3,SOLD,ap919
+Dallas Cowboys,3,SOLD,thomasgro
+Green Bay Packers,4,SOLD,jacquemic
+Los Angeles Rams,4,SOLD,jacquemic
+Tennessee Titans,4,SOLD,jacquemic
+Washington Commanders,5,SOLD,jacquemic
+Philadelphia Eagles,5,SOLD,jacquemic
+Miami Dolphins,6,SOLD,jacquemic
+Los Angeles Chargers,5,SOLD,thomasgro
+Buffalo Bills,5,SOLD,ap919
+Houston Texans,5,SOLD,ap919
+Cincinnati Bengals,5,SOLD,ap919
+New England Patriots,5,SOLD,ap919
+Chicago Bears,5,SOLD,ap919
+Tampa Bay Buccaneers,5,SOLD,ap919
+Atlanta Falcons,5,SOLD,ap919
+Minnesota Vikings,6,SOLD,bigeshullc
+Baltimore Ravens,6,SOLD,bigeshullc
+Seattle Seahawks,6,SOLD,bigeshullc
+Denver Broncos,7,SOLD,bigeshullc
+Detroit Lions,10,SOLD,bigeshullc
+New York Giants,19,SOLD,bigeshullc
+Cleveland Browns,46,SOLD,bigeshullc
+Las Vegas Raiders,59,SOLD,bigeshullc

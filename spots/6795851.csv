@@ -1,34 +1,30 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-MISC,,OPEN,
+New York Giants,600,SOLD,vahanpharmd
+#2,680,SOLD,vahanpharmd
+Minnesota Vikings,650,SOLD,doctor_nick23
+Pittsburgh Steelers,690,SOLD,vahanpharmd
+Tampa Bay Buccaneers,670,SOLD,danboltz
+#6,690,SOLD,danboltz
+#7,690,SOLD,mettaworldpeace
+Green Bay Packers,620,SOLD,mettaworldpeace
+New England Patriots,675,SOLD,mettaworldpeace
+#10,739,SOLD,mettaworldpeace
+#11,700,SOLD,mettaworldpeace
+#12,715,SOLD,mettaworldpeace
+San Francisco 49ers,695,SOLD,vahanpharmd
+#14,705,SOLD,danboltz
+Chicago Bears,701,SOLD,crowsoncards
+#16,670,SOLD,danboltz
+Dallas Cowboys,650,SOLD,doctor_nick23
+Detroit Lions,655,SOLD,thelongcards
+#19,587,SOLD,gsco43
+Kansas City Chiefs,650,SOLD,thelongcards
+Atlanta Falcons,498,SOLD,gsco43
+New York Jets,460,SOLD,hamracollects
+Cleveland Browns,536,SOLD,hamracollects
+#24,578,SOLD,toptre
+Washington Commanders,1000,SOLD,fivepaw
+New Orleans Saints,400,SOLD,porch622
+Philadelphia Eagles,788,SOLD,toptre
+Miami Dolphins,628,SOLD,coachcarterz
+#29,1,OPEN,

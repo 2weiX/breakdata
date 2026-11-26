@@ -1,33 +1,34 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+#1,150,SOLD,salvadorzub
+Washington Commanders,106,SOLD,macwinz
+Tennessee Titans,135,SOLD,salvadorzub
+Minnesota Vikings,125,SOLD,rdanielson
+Los Angeles Rams,126,SOLD,wildo88
+Carolina Panthers,130,SOLD,shadetreewvu
+Tampa Bay Buccaneers,133,SOLD,rdanielson
+Denver Broncos,132,SOLD,shadetreewvu
+Miami Dolphins,125,SOLD,mrac40240
+Pittsburgh Steelers,142,SOLD,salvadorzub
+Cleveland Browns,128,SOLD,jdeegz
+Buffalo Bills,120,SOLD,jasontan75548
+San Francisco 49ers,190,SOLD,shadetreewvu
+#14,170,SOLD,suttysnipes
+Los Angeles Chargers,135,SOLD,hsalinasjr
+New York Giants,185,SOLD,suttysnipes
+Chicago Bears,155,SOLD,salvadorzub
+Cincinnati Bengals,147,SOLD,domnation20677
+Baltimore Ravens,148,SOLD,metroboomn3
+Seattle Seahawks,169,SOLD,sp0rtscardsplus
+Atlanta Falcons,171,SOLD,domnation20677
+Dallas Cowboys,195,SOLD,kitty_rips
+New England Patriots,183,SOLD,suttysnipes
+New York Jets,180,SOLD,shadetreewvu
+Jacksonville Jaguars,185,SOLD,kitty_rips
+Green Bay Packers,197,SOLD,atb92
+Arizona Cardinals,225,SOLD,domnation20677
+Las Vegas Raiders,245,SOLD,atb92
+Philadelphia Eagles,180,SOLD,rdanielson
+Detroit Lions,184,SOLD,domnation20677
+Houston Texans,200,SOLD,sp0rtscardsplus
+Kansas City Chiefs,209,SOLD,sp0rtscardsplus
+"Indianapolis Colts, New Orleans Saints",180,SOLD,atb92

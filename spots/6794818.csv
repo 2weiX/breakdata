@@ -1,7 +1,7 @@
 spot,price,state,buyer
 Arizona Cardinals,20,OPEN,
 Atlanta Falcons,2,SOLD,macksports
-Baltimore Ravens,8,OPEN,
+Baltimore Ravens,5,SOLD,hurly2
 Buffalo Bills,13,SOLD,angelo2121
 Carolina Panthers,4.9,SOLD,sportscollectorsyndicate
 Chicago Bears,10,SOLD,macksports
@@ -15,17 +15,16 @@ Houston Texans,2,SOLD,yankeeripper
 Indianapolis Colts,5,SOLD,sportscollectorsyndicate
 Jacksonville Jaguars,1,SOLD,retailrebels
 Las Vegas Raiders,24,SOLD,brightstar26
-Los Angeles Chargers,6,OPEN,
-Los Angeles Rams,18,OPEN,
+Los Angeles Chargers/Commanders,6,SOLD,digglesby
+Los Angeles Rams,13,SOLD,digglesby
 Minnesota Vikings,3,SOLD,yankeeripper
-New England Patriots,16,OPEN,
+New England Patriots,10,SOLD,digglesby
 New Orleans Saints,6.3,SOLD,sportscollectorsyndicate
 New York Giants,6.3,SOLD,sportscollectorsyndicate
 New York Jets,10,SOLD,angelo2121
-Philadelphia Eagles,14,OPEN,
-Pittsburgh Steelers,9,OPEN,
+Philadelphia Eagles,10,SOLD,batmanrob81203
+Pittsburgh Steelers,6.3,SOLD,batmanrob81203
 San Francisco 49ers,10,SOLD,macksports
 Seattle Seahawks,7,SOLD,retailrebels
-Tampa Bay Buccaneers,5,OPEN,
-Tennessee Titans,22,OPEN,
-Washington Commanders,7,OPEN,
+Tampa Bay Buccaneers,4,SOLD,digglesby
+Tennessee Titans,16,SOLD,batmanrob81203

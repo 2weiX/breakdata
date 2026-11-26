@@ -1,0 +1,30 @@
+spot,price,state,buyer
+#1,4600,SOLD,owinthehouse
+Chicago Bears / Bulls / Cubs ,200,SOLD,owinthehouse
+Los Angeles Chargers / Clippers / Dodgers,5050,SOLD,sam_nubz
+Baltimore Ravens / Kings / Orioles ,4750,SOLD,alex84709
+Kansas City Chiefs / Thunder / Royals ,4850,SOLD,alex84709
+Cleveland Browns / Cavaliers / Guardians ,5150,SOLD,sam_nubz
+Minnesota Vikings / Timberwolves / Twins ,5350,SOLD,sam_nubz
+New England Patriots / Celtics / Red Sox ,4850,SOLD,alex84709
+#9,5451,SOLD,owinthehouse
+Washington Commanders / Wizards / Nationals ,5850,SOLD,alex84709
+#11,4850,SOLD,alex84709
+Philadelphia Eagles / Sixers / Phillies ,4700,SOLD,sam_nubz
+New York Giants / Knicks / Yankees ,6000,SOLD,owinthehouse
+San Francisco 49ers / Warriors / Giants,4900,SOLD,sam_nubz
+Cincinnati Bengals / Reds ,5052,SOLD,alex84709
+Dallas Cowboys / Mavericks / Rangers ,4700,SOLD,owinthehouse
+Buffalo Bills / Raptors / Blue Jays ,3550,SOLD,sam_nubz
+#18,4550,SOLD,alex84709
+Green Bay Packers / Bucks / Brewers ,300,SOLD,sam_nubz
+Indianapolis Colts / Pacers / White Sox ,1120,SOLD,sam_nubz
+Pittsburgh Steelers / Spurs / Pirates ,930,SOLD,sam_nubz
+Atlanta Falcons / Hawks / Braves ,820,SOLD,sam_nubz
+Houston Texans / Rockets / Astros ,398,SOLD,sam_nubz
+#24,2150,SOLD,alex84709
+Los Angeles Rams / Lakers / Angels ,760,SOLD,sam_nubz
+#26,8050,SOLD,sam_nubz
+"Denver Broncos / Nuggets / Rockies , Miami Dolphins / Heat / Marlins , MISC. - NIL / UFC / NHL / WNBA / F1 / etc..., Seattle Seahawks / Blazers / Mariners ",61,SOLD,penetrysunny
+"Detroit Lions / Pistons / Tigers , Jacksonville Jaguars / Padres , Las Vegas Raiders / Jazz / Athletics , Tampa Bay Buccaneers / Magic / Rays ",47,SOLD,penetrysunny
+"Arizona Cardinals / Suns / Diamondbacks, Carolina Panthers / Hornets , New Orleans Saints / Pelicans , New York Jets / Nets / Mets , Tennessee Titans / Grizzlies / Cardinals ",35,SOLD,penetrysunny

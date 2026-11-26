@@ -1,8 +1,8 @@
 spot,price,state,buyer
 Arizona Cardinals,64,SOLD,dunross19400
-Atlanta Falcons,50,OPEN,
-Baltimore Ravens,50,OPEN,
-Carolina Panthers,40,OPEN,
+Atlanta Falcons,36,SOLD,flowstatebreaks
+Baltimore Ravens,24,SOLD,dunross19400
+Carolina Panthers,17,SOLD,dunross19400
 Chicago Bears,70,SOLD,smith5918
 Cincinnati Bengals,48,SOLD,flowstatebreaks
 Cleveland Browns,43,SOLD,smith5918
@@ -10,30 +10,30 @@ Dallas Cowboys,30,SOLD,seagoville35
 Detroit Lions,32,SOLD,okole_puka
 Green Bay Packers,10,SOLD,clumsy_ninja
 Houston Texans,10,SOLD,silentj0501
-Indianapolis Colts,30,OPEN,
+Indianapolis Colts,9,SOLD,dunross19400
 Jacksonville Jaguars,30,SOLD,okole_puka
 Kansas City Chiefs / Broncos,100,SOLD,kyje9993
 Las Vegas Raiders / Rams,185,SOLD,atimayo
 Los Angeles Chargers,24,SOLD,silentj0501
 Miami Dolphins,24,SOLD,dunross19400
 Minnesota Vikings,42,SOLD,silentj0501
-New England Patriots,60,OPEN,
-New Orleans Saints,60,OPEN,
+New England Patriots,60,SOLD,atimayo
+New Orleans Saints,17,SOLD,flowstatebreaks
 New York Giants / Bills,100,SOLD,smith5918
 New York Jets,40,SOLD,dunross19400
-Philadelphia Eagles,40,OPEN,
+Philadelphia Eagles,28,SOLD,silentj0501
 Pittsburgh Steelers,50,SOLD,ummagumma73
 San Francisco 49ers,60,SOLD,atimayo
 Seattle Seahawks,42.5,SOLD,kyje9993
 Tampa Bay Buccaneers,49,SOLD,silentj0501
 Washington Commanders,40,SOLD,tacosalad14
 SEC Teams A-L,15,SOLD,silentj0501
-SEC Teams M-Z,150,OPEN,
-BIG 10 Teams A-L,60,OPEN,
+SEC Teams M-Z,105,SOLD,connlay6
+BIG 10 Teams A-L,25,SOLD,seansummers
 BIG 10 Teams M-Z,64,SOLD,dunross19400
 BIG 12 Teams A-L / Titans,110,SOLD,scottval2
 BIG 12 Teams M-Z,64,SOLD,dunross19400
-ACC Teams A-L,80,OPEN,
+ACC Teams A-L,44,SOLD,clumsy_ninja
 ACC Teams M-Z,48,SOLD,dunross19400
-All Other Conferences A-L,60,OPEN,
-All Other Conferences M-Z,125,OPEN,
+All Other Conferences A-L,19,SOLD,silentj0501
+All Other Conferences M-Z,100,SOLD,atimayo
