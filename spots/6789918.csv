@@ -1,38 +1,52 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-ACC,,OPEN,
-BIG 12,,OPEN,
-BIG 10,,OPEN,
-FBS IND.,,OPEN,
-SEC,,OPEN,
+Arizona Cardinals,1,SOLD,dsylv
+Atlanta Falcons,17,SOLD,brandonbor13631
+Baltimore Ravens,4,SOLD,jsmithers1212
+Buffalo Bills,10,SOLD,eric5210
+Carolina Panthers,5,SOLD,jsmithers1212
+Chicago Bears,16,SOLD,crazyone34
+Cincinnati Bengals,22,SOLD,eric5210
+Cleveland Browns,17,SOLD,jsmithers1212
+Dallas Cowboys,20,SOLD,crazyone34
+Denver Broncos,15,SOLD,crazyone34
+Detroit Lions,20,SOLD,crazyone34
+Green Bay Packers,16,SOLD,jsmithers1212
+Houston Texans,6,SOLD,eric5210
+Indianapolis Colts,5,SOLD,eric5210
+Jacksonville Jaguars,5,SOLD,winbbig
+Kansas City Chiefs,7,SOLD,winbbig
+Las Vegas Raiders,9,SOLD,jsmithers1212
+Los Angeles Chargers,11,SOLD,eric5210
+Los Angeles Rams,13,SOLD,brandonbor13631
+Miami Dolphins,10,SOLD,eric5210
+Minnesota Vikings,8,SOLD,eric5210
+New England Patriots,11,SOLD,eric5210
+New Orleans Saints,8,SOLD,dsylv
+New York Giants,8,SOLD,eric5210
+New York Jets,5,SOLD,winbbig
+Philadelphia Eagles,1,SOLD,winbbig
+Pittsburgh Steelers,26,SOLD,jsmithers1212
+San Francisco 49ers,19,SOLD,brandonbor13631
+Seattle Seahawks,7,SOLD,eric5210
+Tampa Bay Buccaneers,6,SOLD,winbbig
+Tennessee Titans,6,SOLD,eric5210
+Washington Commanders,22,SOLD,ryanayoung1989
+ACC,19,SOLD,eric5210
+BIG 12,17,SOLD,brandonbor13631
+BIG 10,27,SOLD,brandonbor13631
+FBS IND.,9,SOLD,jsmithers1212
+SEC,17,SOLD,crazyone34
+#1,1,SOLD,eric5210
+#3,17,SOLD,crazyone34
+#4,16,SOLD,crazyone34
+#5,14,SOLD,crazyone34
+#6,17,SOLD,crazyone34
+#8,17,SOLD,crazyone34
+#16,20,SOLD,brandonbor13631
+#18,21,SOLD,brandonbor13631
+#20,24,SOLD,brandonbor13631
+#26,14,SOLD,brandonbor13631
+#29,16,SOLD,brandonbor13631
+#32,9,SOLD,eric5210
+#33,1,SOLD,dsylv
+#38,5,SOLD,jsmithers1212

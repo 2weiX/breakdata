@@ -1,6 +1,5 @@
 spot,price,state,buyer
 Los Angeles Rams,5,SOLD,cinkio
-Buffalo Bills,3,SOLD,raiderdaryle
 Atlanta Falcons,3,SOLD,cinkio
 Dallas Cowboys,7,SOLD,darkhelmet27
 Penns State ,14,SOLD,darkhelmet27
@@ -31,4 +30,12 @@ Indianapolis Colts,5,SOLD,ninjagodpacks
 New York Jets,3,SOLD,ninjagodpacks
 Washington Commanders,7,SOLD,ninjagodpacks
 Kansas City Chiefs,4,SOLD,ninjagodpacks
-#33,1,OPEN,
+#2,3,SOLD,raiderdaryle
+Philadelphia Eagles,6,SOLD,ninjagodpacks
+New York Giants,3,SOLD,jameswelch1980
+"Buffalo Bills, Miami Dolphins, Minnesota Vikings",3,SOLD,nathankit110614
+Seattle Seahawks,3,SOLD,ninjagodpacks
+"Houston Texans, New Orleans Saints",3,SOLD,nathankit110614
+Carolina Panthers,2,SOLD,reddodge053
+Pittsburgh Steelers,1,SOLD,reddodge053
+"Cleveland Browns, USC",2,SOLD,nathankit110614

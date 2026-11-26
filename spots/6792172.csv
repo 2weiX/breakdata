@@ -1,0 +1,13 @@
+spot,price,state,buyer
+$700-$799,40,SOLD,id_entity
+$2500+,30,SOLD,natecoop
+$500-$599,30,SOLD,natecoop
+$300-$399,44,SOLD,admiralscards
+$1300-$1399,32,SOLD,natecoop
+$1200-$1299,42,SOLD,lil_noel
+TOMCAT,35,SOLD,natecoop
+$400-$499,44,SOLD,lgrebs
+$600-$699,44,SOLD,lgrebs
+$1100-$1199,39,SOLD,natecoop
+$200-$299,38,SOLD,lgrebs
+$800-$899,26,SOLD,lil_noel

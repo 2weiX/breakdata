@@ -1,33 +1,27 @@
 spot,price,state,buyer
-Arizona Cardinals,20,OPEN,
-Atlanta Falcons,10,OPEN,
-Baltimore Ravens,10,OPEN,
+Arizona Cardinals,24,SOLD,boyscoutbailey
+Atlanta Falcons,4,SOLD,chadtit
+Baltimore Ravens,5,SOLD,herpderp45
 Buffalo Bills,20,SOLD,mattyp_29
-Carolina Panthers,10,OPEN,
-Chicago Bears,10,OPEN,
-Cincinnati Bengals,20,OPEN,
-Cleveland Browns,20,OPEN,
-Dallas Cowboys,10,OPEN,
-Denver Broncos,15,OPEN,
-Detroit Lions,10,OPEN,
-Green Bay Packers,10,OPEN,
-Houston Texans,10,OPEN,
-Indianapolis Colts,10,OPEN,
-Jacksonville Jaguars,10,OPEN,
+Carolina Panthers,4,SOLD,nicholeper
+Chicago Bears,5,SOLD,johnben59371
+Cincinnati Bengals,7,SOLD,rolldaddy
+Cleveland Browns,15,SOLD,johnben59371
+Dallas Cowboys,4,SOLD,nicholeper
+Green Bay Packers,4,SOLD,boyscoutbailey
+Houston Texans,5,SOLD,rolldaddy
+Indianapolis Colts,3,SOLD,johncool0916
+Jacksonville Jaguars,5,SOLD,chadtit
 Kansas City Chiefs,15,SOLD,bobcat2106
-Las Vegas Raiders,40,OPEN,
-Los Angeles Chargers,10,OPEN,
-Los Angeles Rams,15,OPEN,
-Miami Dolphins,10,OPEN,
-Minnesota Vikings,10,OPEN,
-New England Patriots,20,OPEN,
-New Orleans Saints,15,OPEN,
-New York Giants,10,OPEN,
-New York Jets,20,OPEN,
-Philadelphia Eagles,15,OPEN,
-Pittsburgh Steelers,15,OPEN,
-San Francisco 49ers,20,OPEN,
-Seattle Seahawks,15,OPEN,
-Tampa Bay Buccaneers,10,OPEN,
-Tennessee Titans,15,OPEN,
-Washington Commanders,10,OPEN,
+Las Vegas Raiders,40,SOLD,ecobennett
+Los Angeles Chargers,7,SOLD,mb1355
+Los Angeles Rams,7,SOLD,boyscoutbailey
+New England Patriots,17,SOLD,dylankeb
+New Orleans Saints,20,SOLD,badger509
+New York Giants,1,SOLD,rolldaddy
+New York Jets,17,SOLD,youngjento
+Pittsburgh Steelers,10,SOLD,nickkeba1050
+San Francisco 49ers,7,SOLD,dawgs2b
+Seattle Seahawks,13,SOLD,herpderp45
+Tampa Bay Buccaneers,5,SOLD,herpderp45
+Washington Commanders,5,SOLD,rolldaddy

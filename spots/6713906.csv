@@ -1,0 +1,33 @@
+spot,price,state,buyer
+"CHI: Chicago Bears, Illinois, Northwestern, Notre Dame",29,SOLD,toulacardco
+"BUF: Buffalo Bills, Syracuse, Penn State, Firebaugh High School",35,OPEN,
+"TB: Tampa Bay Buccaneers, Alabama, Mississippi State, Jackson State",30,SOLD,tpate95
+"KC: Kansas City Chiefs, Kansas, Kansas State, Missouri",34,OPEN,
+"DAL: Dallas Cowboys, Texas, Oklahoma, Texas A&M",29,SOLD,jw25721
+"LV: Las Vegas Raiders, UNLV, Fresno State, San Diego State",28,OPEN,
+"MIN: Minnesota Vikings, Iowa State, Nebraska, Oklahoma State",19,SOLD,danjun87279
+"ATL: Atlanta Falcons, Georgia, Georgia Tech, Auburn",27,OPEN,
+"LAC: Los Angeles Chargers, Oregon, BYU, Boise State",21,SOLD,lilvan99
+"TEN: Tennessee Titans, Tennessee, Vanderbilt, Ole Miss",20,SOLD,tpate95
+"CIN: Cincinnati Bengals, Cincinnati, Kentucky, Louisville",17,SOLD,sudsman44
+"NYG: New York Giants, Rutgers, Delaware, Duke",18.4,SOLD,johnjoh75334
+"LAR: Los Angeles Rams, USC, UCLA",20,SOLD,brian839
+"NO: New Orleans Saints, LSU, Louisiana (ULL), Southern Miss",18,SOLD,toulacardco
+"SF: San Francisco 49ers, California, Stanford",22,OPEN,
+"NE: New England Patriots, Boston College, UConn",21,OPEN,
+"MIA: Miami Dolphins, Miami, Florida Atlantic",16,SOLD,russtang711
+"ARI: Arizona Cardinals, Arizona, Arizona State, New Mexico",16.15,SOLD,brian839
+"PIT: Pittsburgh Steelers, Pittsburgh, South Carolina, TCU",14,SOLD,awsize
+"IND: Indianapolis Colts, Indiana, Purdue, Isidore Newman School",15,SOLD,tpate95
+"DET: Detroit Lions, Michigan, Michigan State, Western Kentucky",17,SOLD,serpal
+"HOU: Houston Texans, Houston, Baylor, Texas State",15.3,SOLD,brian839
+"SEA: Seattle Seahawks, Washington, WSU",11.9,SOLD,bsimonds782
+"BAL: Baltimore Ravens, Maryland, West Virginia, Marshall",15,OPEN,
+"NYJ: New York Jets, SMU, Virginia",14,OPEN,
+"JAX: Jacksonville Jaguars, Florida, Florida State, UCF",6,SOLD,sudsman44
+"WAS: Washington Commanders, North Carolina, Wake Forest, Virginia Tech",8,SOLD,bsimonds782
+"CLE: Cleveland Browns, Akron, Ohio State, Western Michigan",11.2,SOLD,johnjoh75334
+"PHI: Philadelphia Eagles, Arkansas, Tulsa, Texas Tech",7,SOLD,dkmock
+"DEN: Denver Broncos, Colorado, Utah, Wyoming",11.7,SOLD,maxjeffrey94198
+"CAR: Carolina Panthers, Clemson, NC State, Charlotte",6,SOLD,bsimonds782
+"GB: Green Bay Packers, Wisconsin, Iowa, Minnesota",8.1,SOLD,frntrw

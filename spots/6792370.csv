@@ -1,0 +1,20 @@
+spot,price,state,buyer
+Cleveland Browns,25,SOLD,dawtygear
+#2,27,SOLD,hobbyhouseofcardz
+Las Vegas Raiders,25,SOLD,csjcardz
+Buffalo Bills,25,SOLD,dawtygear
+Miami Dolphins,25,SOLD,cookfighter
+Tampa Bay Buccaneers,25,SOLD,cookfighter
+Washington Commanders,54,SOLD,redskinsgabriel
+Houston Texans,25,SOLD,redskinsgabriel
+Detroit Lions,25,SOLD,redskinsgabriel
+San Francisco 49ers,25,SOLD,biggreen
+"Cincinnati Bengals, Pittsburgh Steelers",35,SOLD,redskinsgabriel
+"Minnesota Vikings, New Orleans Saints",35,SOLD,mackydoscards
+"Los Angeles Chargers, New England Patriots",35,SOLD,dawtygear
+"Arizona Cardinals, Denver Broncos",35,SOLD,dawtygear
+"Baltimore Ravens, Kansas City Chiefs",35,SOLD,dawtygear
+"Atlanta Falcons, Jacksonville Jaguars, Seattle Seahawks",45,SOLD,biggreen
+"Carolina Panthers, Dallas Cowboys, New York Giants",45,SOLD,dawtygear
+"Chicago Bears, Green Bay Packers, Indianapolis Colts",45,SOLD,biggreen
+"Los Angeles Rams, New York Jets, Philadelphia Eagles, Tennessee Titans",55,SOLD,dawtygear

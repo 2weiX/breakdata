@@ -1,6 +1,6 @@
 spot,price,state,buyer
 ATL-Atlanta Falcons Team Rest,7,SOLD,henrylin93105
-ATL-Bijan Robinson,150,OPEN,
+ATL-Bijan Robinson,125,SOLD,jacksonsalkin
 ATL-Zachariah Branch,4,SOLD,duodeckbreaks
 BAL-Baltimore Ravens Team Rest,20,SOLD,henrylin93105
 "BUF-Josh Allen, Bills Team Rest, Joe Burrow",550,SOLD,azbird77
@@ -70,3 +70,4 @@ NYJ-New York Jets Team Rest & Sadiq,200,OPEN,
 PHI-Philadelphia Eagles Team Rest & Lemon,275,OPEN,
 PIT-Pittsburgh Steelers Team Rest & Bernard,225,OPEN,
 TEN-Cam Ward & Carnell Tate,450,OPEN,
+ATL- Bijan Robinson,150,OPEN,

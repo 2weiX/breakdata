@@ -1,11 +1,10 @@
 spot,price,state,buyer
-SPOT 1,,OPEN,
-SPOT 2,,OPEN,
-SPOT 3,,OPEN,
-SPOT 4,,OPEN,
-SPOT 5,,OPEN,
-SPOT 6,,OPEN,
-SPOT 7,,OPEN,
-SPOT 8,,OPEN,
-SPOT 9,,OPEN,
-SPOT 11,,OPEN,
+SPOT 1,26,SOLD,jwbm_rocketcity_breaks
+SPOT 3,28,SOLD,bentleys_cards
+SPOT 4,24,SOLD,bradybel96853
+SPOT 5,24,SOLD,bentleys_cards
+SPOT 6,25,SOLD,jwbm_rocketcity_breaks
+SPOT 7,27,SOLD,will_break_it
+SPOT 8,27,SOLD,will_break_it
+SPOT 9,25,SOLD,jwbm_rocketcity_breaks
+SPOT 11,27,SOLD,jwbm_rocketcity_breaks

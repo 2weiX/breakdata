@@ -1,10 +1,9 @@
 spot,price,state,buyer
-AFC North,24,OPEN,
-AFC East,24,OPEN,
+AFC North,20,SOLD,iambubba78
 AFC West,24,SOLD,jamsquadmurf
-AFC South,24,OPEN,
+AFC South,16,SOLD,chad713
 NFC North,24,SOLD,rcmegarips
 NFC East,24,SOLD,jamsquadmurf
-NFC West,24,OPEN,
-NFC South,24,OPEN,
-WNBA/NIL,24,OPEN,
+NFC West,22,SOLD,corbettcollectible
+NFC South,17,SOLD,bryant702
+WNBA/NIL,18,SOLD,jamsquadmurf

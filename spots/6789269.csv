@@ -1,12 +1,2 @@
 spot,price,state,buyer
-AFC North,,OPEN,
-AFC East,,OPEN,
-AFC West,,OPEN,
-AFC South,,OPEN,
-NFC North,,OPEN,
-NFC East,,OPEN,
-NFC West,,OPEN,
-NFC South,,OPEN,
-Misc,,OPEN,
-1/1,,OPEN,
-Downtown/Uptown,,OPEN,
+#1,1,OPEN,

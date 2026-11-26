@@ -1,33 +1,32 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+Arizona Cardinals,3,SOLD,bigreidtv
+Atlanta Falcons,1,SOLD,bresdoessports
+Baltimore Ravens,2,SOLD,abombcollectibles
+Buffalo Bills,5,SOLD,bigreidtv
+Carolina Panthers,2,SOLD,abombcollectibles
+Cincinnati Bengals,4,SOLD,robjc
+Dallas Cowboys,3,SOLD,makten
+Denver Broncos,3,SOLD,rakconnor
+Detroit Lions,4,SOLD,bigreidtv
+Green Bay Packers,4,SOLD,abombcollectibles
+Houston Texans,3,SOLD,robjc
+Indianapolis Colts,4,SOLD,robjc
+Jacksonville Jaguars,6,SOLD,rakconnor
+Kansas City Chiefs,1,SOLD,robjc
+Las Vegas Raiders,3,SOLD,robjc
+Los Angeles Chargers,1,SOLD,bresdoessports
+Los Angeles Rams,1,SOLD,robjc
+Miami Dolphins,3,SOLD,mark7tx
+Minnesota Vikings,2,SOLD,robjc
+New England Patriots,1,SOLD,bmorebreaks21
+New Orleans Saints,2,SOLD,bigreidtv
+New York Giants,2,SOLD,robjc
+New York Jets,3,SOLD,bigreidtv
+Philadelphia Eagles,1,SOLD,bmorebreaks21
+Pittsburgh Steelers,4,SOLD,rywilcox33
+San Francisco 49ers,3,SOLD,mark7tx
+Seattle Seahawks,2,SOLD,bmorebreaks21
+Tampa Bay Buccaneers,1,SOLD,robjc
+Tennessee Titans,3,SOLD,bmorebreaks21
+Washington Commanders,1,SOLD,bresdoessports
+"Chicago Bears, Cleveland Browns",6,SOLD,abombcollectibles

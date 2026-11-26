@@ -1,46 +1,48 @@
 spot,price,state,buyer
-Oregon / Marshall / Washington State / UCF / Delaware / Northwestern ,,OPEN,
-California / Missouri / Virginia / TCU / Jackson State / FAU ,,OPEN,
-Texas / Texas Tech / Utah / Minnesota / Duke / Arizona,,OPEN,
-Washington / Alabama / Wake Forest / UCLA / North Carolina / Purdue ,,OPEN,
-South Carolina / Florida / Stanford / Kansas / Boise State/ UNLV,,OPEN,
-Oklahoma State / Penn State / Boston College / Iowa / Tennessee / Tulsa ,,OPEN,
-USC / Clemson / LSU / Kansas State / Wisconsin / Iowa State,,OPEN,
-Texas A&M / Florida State / Pittsburgh / Houston/ UCONN,,OPEN,
-Mississippi State / Georgia / Maryland / Georgia Tech / Baylor /SDSU ,,OPEN,
-Ole Miss / Arkansas / NC State / Louisville / Rutgers / Texas State ,,OPEN,
-Indiana / Vanderbilt / Michigan State / Illinois / Syracuse / Louisiana,,OPEN,
-Kentucky / Oklahoma / Auburn / Arizona State / Virginia Tech / Western Michigan,,OPEN,
-Miami / Cincinnati / Nebraska / Wyoming / SMU / Fresno State,,OPEN,
-BYU / Michigan / Ohio State / Colorado / West Virginia,,OPEN,
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts ,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+Oregon / Marshall / Washington State / UCF / Delaware / Northwestern ,15,SOLD,freddie7575
+California / Missouri / Virginia / TCU / Jackson State / FAU ,7,SOLD,hooper6318
+Texas / Texas Tech / Utah / Minnesota / Duke / Arizona,6,SOLD,hooper6318
+Washington / Alabama / Wake Forest / UCLA / North Carolina / Purdue ,7,SOLD,bhill8686
+South Carolina / Florida / Stanford / Kansas / Boise State/ UNLV,6,SOLD,bhill8686
+Oklahoma State / Penn State / Boston College / Iowa / Tennessee / Tulsa ,7,SOLD,hooper6318
+USC / Clemson / LSU / Kansas State / Wisconsin / Iowa State,7,SOLD,hooper6318
+Texas A&M / Florida State / Pittsburgh / Houston/ UCONN,8,SOLD,hooper6318
+Mississippi State / Georgia / Maryland / Georgia Tech / Baylor /SDSU ,8,SOLD,bhill8686
+Ole Miss / Arkansas / NC State / Louisville / Rutgers / Texas State ,15,SOLD,lobolob51507
+Indiana / Vanderbilt / Michigan State / Illinois / Syracuse / Louisiana,7,SOLD,hooper6318
+Kentucky / Oklahoma / Auburn / Arizona State / Virginia Tech / Western Michigan,7,SOLD,hooper6318
+Miami / Cincinnati / Nebraska / Wyoming / SMU / Fresno State,7,SOLD,hooper6318
+BYU / Michigan / Ohio State / Colorado / West Virginia,9,SOLD,coachb093
+Arizona Cardinals,8,SOLD,jsmithers1212
+Atlanta Falcons,6,SOLD,william26326
+Baltimore Ravens,6,SOLD,lobolob51507
+Buffalo Bills,7,SOLD,pafos4902
+Carolina Panthers,6,SOLD,freddie7575
+Chicago Bears,7,SOLD,gutman68317
+Cincinnati Bengals,7,SOLD,hooper6318
+Cleveland Browns,7,SOLD,coachb093
+Dallas Cowboys,8,SOLD,hooper6318
+Denver Broncos,7,SOLD,pafos4902
+Detroit Lions,7,SOLD,hooper6318
+Green Bay Packers,7,SOLD,hooper6318
+Houston Texans,7,SOLD,hooper6318
+Indianapolis Colts ,7,SOLD,hooper6318
+Jacksonville Jaguars,3,SOLD,bhill8686
+Kansas City Chiefs,8,SOLD,jsmithers1212
+Los Angeles Chargers,6,SOLD,bhill8686
+Los Angeles Rams,7,SOLD,hooper6318
+Miami Dolphins,7,SOLD,hooper6318
+Minnesota Vikings,11,SOLD,lobolob51507
+New England Patriots,1,SOLD,bhill8686
+New Orleans Saints,8,SOLD,jsmithers1212
+New York Giants,7,SOLD,jsmithers1212
+New York Jets,7,SOLD,jsmithers1212
+Philadelphia Eagles,1,SOLD,pafos4902
+Pittsburgh Steelers,10,SOLD,gutman68317
+San Francisco 49ers,6,SOLD,bhill8686
+Seattle Seahawks,6,SOLD,bhill8686
+Tampa Bay Buccaneers,6,SOLD,hooper6318
+Tennessee Titans,6,SOLD,coachb093
+Washington Commanders,6,SOLD,lobolob51507
+RAIDERS,13,SOLD,bhill8686
+NOTRE DAME,15,SOLD,chefporgie82

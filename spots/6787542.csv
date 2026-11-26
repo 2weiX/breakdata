@@ -1,20 +1,10 @@
 spot,price,state,buyer
-Atlanta Falcons,8,OPEN,
-Baltimore Ravens,8,OPEN,
-Chicago Bears,14,OPEN,
-Cleveland Browns,10,OPEN,
+Chicago Bears,14,SOLD,glennhas
 Dallas Cowboys,14,SOLD,jebofalltradingcards22
-Detroit Lions,10,OPEN,
-Houston Texans,8,OPEN,
 Indianapolis Colts,8,SOLD,wattsappening
 Las Vegas Raiders,14,SOLD,dta_mob
-Los Angeles Chargers,10,OPEN,
 Los Angeles Rams,10,SOLD,dta_mob
-Miami Dolphins,8,OPEN,
-New England Patriots,12,OPEN,
-New Orleans Saints,10,OPEN,
-New York Giants,12,OPEN,
-New York Jets,12,OPEN,
+New England Patriots,10.2,SOLD,glennhas
 San Francisco 49ers - Seattle Seahawks - Kansas City Chiefs - Cincinnati Bengals,38,SOLD,joesanchez55
-Tampa Bay Buccaneers,10,OPEN,
-Tennessee Titans,10,OPEN,
+Tampa Bay Buccaneers,8.5,SOLD,glennhas
+Remaing teams,55,SOLD,glennhas

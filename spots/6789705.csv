@@ -1,34 +1,48 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-MISC.,,OPEN,
+Arizona Cardinals,37,SOLD,kdckid
+Atlanta Falcons,595,SOLD,kerkyl
+Baltimore Ravens,336,SOLD,hamracollects
+Buffalo Bills,380,SOLD,eyelaser
+Carolina Panthers,43,SOLD,flandizzle
+Chicago Bears,611,SOLD,365breaks
+Cincinnati Bengals,461,SOLD,ghoem5
+Cleveland Browns,530,SOLD,hamracollects
+Dallas Cowboys,478,SOLD,deodan
+Denver Broncos,36,SOLD,flandizzle
+Detroit Lions,510,SOLD,ryanbuc07405
+Green Bay Packers,455,SOLD,ghoem5
+Houston Texans,25,SOLD,kdckid
+Indianapolis Colts,12,SOLD,kdckid
+Jacksonville Jaguars,15,SOLD,flandizzle
+Kansas City Chiefs,350,SOLD,schett_bag
+Las Vegas Raiders,435,SOLD,aljcollectz
+Los Angeles Chargers,449,SOLD,deodan
+Los Angeles Rams,420,SOLD,aljcollectz
+Miami Dolphins,15,SOLD,galvey22
+Minnesota Vikings,505,SOLD,hamracollects
+New England Patriots,548,SOLD,deodan
+New York Giants,495,SOLD,schett_bag
+New York Jets,12,SOLD,hardcharger619
+Philadelphia Eagles,42,SOLD,jay2141
+Pittsburgh Steelers,200,SOLD,kdckid
+San Francisco 49ers,595,SOLD,hamracollects
+Seattle Seahawks,16,SOLD,flandizzle
+Tampa Bay Buccaneers,515,SOLD,schett_bag
+Tennessee Titans,17,SOLD,flandizzle
+Washington Commanders,380,SOLD,schett_bag
+MISC.,495,SOLD,jeffleezy
+#5,515,SOLD,ghoem5
+#8,615,SOLD,365breaks
+#15,565,SOLD,deodan
+#17,555,SOLD,deodan
+#18,556,SOLD,hamracollects
+#20,561,SOLD,deodan
+#22,472,SOLD,hamracollects
+#24,481,SOLD,hamracollects
+#25,460,SOLD,deodan
+#26,388,SOLD,hamracollects
+#28,343,SOLD,hamracollects
+#30,315,SOLD,schett_bag
+#31,335,SOLD,jeffleezy
+#32,295,SOLD,hamracollects
+#33,386,SOLD,schett_bag

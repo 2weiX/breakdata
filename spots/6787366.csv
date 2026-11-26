@@ -1,34 +1,33 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-CHASER 8,,OPEN,
-Atlanta Falcons,,OPEN,
-CHASER 4,,OPEN,
-Carolina Panthers,,OPEN,
-CHASER 6,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-CHASER 2,,OPEN,
-Detroit Lions,,OPEN,
-Houston Texans,,OPEN,
-CHASER 9,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-CHASER 3,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-CHASER 5,,OPEN,
-New Orleans Saints,,OPEN,
-CHASER 1,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-CHASER 7,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Pittsburgh Steelers,,OPEN,
-Tennessee Titans,,OPEN,
-CHASER 10,,OPEN,
+Arizona Cardinals,10,SOLD,waterview9320
+CHASER 8,11,SOLD,waterview9320
+Atlanta Falcons,20,SOLD,jodra
+CHASER 4,38,SOLD,jodra
+CHASER 6,20,SOLD,waterview9320
+Cincinnati Bengals,8,SOLD,waterview9320
+Cleveland Browns,15,SOLD,waterview9320
+Dallas Cowboys,16,SOLD,waterview9320
+CHASER 2,16,SOLD,jodra
+Detroit Lions,7,SOLD,waterview9320
+Houston Texans,16,SOLD,waterview9320
+CHASER 9,14,SOLD,waterview9320
+Jacksonville Jaguars,17,SOLD,jodra
+Kansas City Chiefs,19,SOLD,waterview9320
+CHASER 3,15,SOLD,waterview9320
+Los Angeles Chargers,16,SOLD,waterview9320
+Los Angeles Rams,20,SOLD,waterview9320
+Miami Dolphins,18,SOLD,waterview9320
+Minnesota Vikings,19,SOLD,jodra
+CHASER 5,17,SOLD,waterview9320
+New Orleans Saints,17,SOLD,jodra
+CHASER 1,15,SOLD,waterview9320
+New York Jets,13,SOLD,pantayoyo13
+Philadelphia Eagles,17,SOLD,swiggynix615
+CHASER 7,16,SOLD,swiggynix615
+San Francisco 49ers,16,SOLD,waterview9320
+Seattle Seahawks,16,SOLD,waterview9320
+Tampa Bay Buccaneers,15,SOLD,waterview9320
+Pittsburgh Steelers,15,SOLD,jodra
+Tennessee Titans,16,SOLD,waterview9320
+CHASER 10,17,SOLD,jodra
+"Carolina Panthers, Indianapolis Colts",26,SOLD,waterview9320

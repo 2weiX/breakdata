@@ -1,11 +1,11 @@
 spot,price,state,buyer
-SPOT 1,,OPEN,
-SPOT 2,,OPEN,
-SPOT 3,,OPEN,
-SPOT 4,,OPEN,
-SPOT 5,,OPEN,
-SPOT 6,,OPEN,
-SPOT 7,,OPEN,
-SPOT 8,,OPEN,
-SPOT 9,,OPEN,
-SPOT 11,,OPEN,
+SPOT 1,35,SOLD,will_break_it
+SPOT 2,32,SOLD,jwbm_rocketcity_breaks
+SPOT 3,31,SOLD,jwbm_rocketcity_breaks
+SPOT 4,26,SOLD,circletrack88
+SPOT 5,24,SOLD,jwbm_rocketcity_breaks
+SPOT 6,26,SOLD,jwbm_rocketcity_breaks
+SPOT 7,26,SOLD,jwbm_rocketcity_breaks
+SPOT 8,26,SOLD,peepski
+SPOT 9,23,SOLD,jwbm_rocketcity_breaks
+SPOT 11,26,SOLD,jwbm_rocketcity_breaks

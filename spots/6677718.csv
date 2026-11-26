@@ -1,33 +1,33 @@
 spot,price,state,buyer
-#2,28,OPEN,
-#3,28,SOLD,jhoff_coach
-#4,26,SOLD,alphelsinki
-#5,26,SOLD,alphelsinki
-#6,28,OPEN,
-#7,28,OPEN,
-#8,28,SOLD,bet6767
-#9,22.4,SOLD,juddkai
-#11,28,OPEN,
-#12,28,OPEN,
-#13,28,SOLD,bet6767
-#14,28,OPEN,
-#15,28,OPEN,
-#16,28,OPEN,
-#17,28,OPEN,
-#18,26,SOLD,alphelsinki
-#19,22.4,SOLD,juddkai
-#20,28,OPEN,
-#21,28,SOLD,jhoff_coach
-#22,26,SOLD,alphelsinki
-#23,28,SOLD,bet6767
-#24,28,OPEN,
-#25,28,OPEN,
-#26,28,OPEN,
-#27,28,SOLD,bet6767
-#28,28,OPEN,
-#29,28,OPEN,
-#30,28,OPEN,
-#31,26,SOLD,alphelsinki
-#32,28,OPEN,
-#1,28,SOLD,bet6767
-#10,28,SOLD,bet6767
+Dallas Cowboys,28,SOLD,bet6767
+Green Bay Packers,20,SOLD,juddkai
+Atlanta Falcons,28,SOLD,jhoff_coach
+Indianapolis Colts,26,SOLD,alphelsinki
+Baltimore Ravens,26,SOLD,alphelsinki
+Carolina Panthers,27,SOLD,cmattson99
+Buffalo Bills,28,SOLD,cmattson99
+San Francisco 49ers,28,SOLD,bet6767
+Minnesota Vikings,22.4,SOLD,juddkai
+Los Angeles Chargers,28,SOLD,bet6767
+New York Giants,28,SOLD,cmattson99
+Kansas City Chiefs,28,SOLD,cmattson99
+New Orleans Saints,28,SOLD,bet6767
+Jacksonville Jaguars,28,SOLD,cmattson99
+Las Vegas Raiders,22.4,SOLD,cmattson99
+Detroit Lions,28,SOLD,cmattson99
+Los Angeles Rams,28,SOLD,cmattson99
+Tennessee Titans,26,SOLD,alphelsinki
+Cincinnati Bengals,22.4,SOLD,juddkai
+Tampa Bay Buccaneers,10,SOLD,cmattson99
+Pittsburgh Steelers,28,SOLD,jhoff_coach
+Washington Commanders,26,SOLD,alphelsinki
+New York Jets,28,SOLD,bet6767
+Miami Dolphins,28,SOLD,cmattson99
+Houston Texans,10,SOLD,jhoff_coach
+Seattle Seahawks,10,SOLD,cmattson99
+Chicago Bears,28,SOLD,bet6767
+Arizona Cardinals,10,SOLD,cmattson99
+Denver Broncos,10,SOLD,cmattson99
+Philadelphia Eagles,28,SOLD,cmattson99
+Cleveland Browns,26,SOLD,alphelsinki
+New England Patriots,28,SOLD,cmattson99

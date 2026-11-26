@@ -1,33 +1,32 @@
 spot,price,state,buyer
-Arizona Cardinals,28,OPEN,
-Atlanta Falcons,18,OPEN,
-Baltimore Ravens,19,OPEN,
+Arizona Cardinals,24,SOLD,i_love_cards_and_dogs
+Atlanta Falcons,5,SOLD,manic0315
+Baltimore Ravens,14,SOLD,bmorebreaks21
 Buffalo Bills,20,SOLD,manic0315
-Carolina Panthers,19,OPEN,
+Carolina Panthers,6,SOLD,manic0315
 Chicago Bears,24,SOLD,makten
 Cincinnati Bengals,20,SOLD,manic0315
-Cleveland Browns,19,OPEN,
-Dallas Cowboys,20,OPEN,
+Cleveland Browns,15.2,SOLD,rywilcox33
+Dallas Cowboys,14,SOLD,robjc
 Denver Broncos,14.4,SOLD,manic0315
 Detroit Lions,14.4,SOLD,geezythegreat
-Green Bay Packers,19,OPEN,
-Houston Texans,15,OPEN,
-Indianapolis Colts,15,OPEN,
-Jacksonville Jaguars,21,OPEN,
+Green Bay Packers,16,SOLD,itsthelswizzle
+Houston Texans,7,SOLD,manic0315
+Indianapolis Colts,5,SOLD,manic0315
+Jacksonville Jaguars,11,SOLD,manic0315
 Kansas City Chiefs,21.6,SOLD,hookem1995
-Las Vegas Raiders,40,OPEN,
-Los Angeles Chargers,18,OPEN,
-Los Angeles Rams,30,OPEN,
-Miami Dolphins,17,OPEN,
-Minnesota Vikings,19,OPEN,
-New England Patriots,25,OPEN,
-New Orleans Saints,25,OPEN,
-New York Giants,21,OPEN,
-New York Jets,19,OPEN,
+Las Vegas Raiders,40,SOLD,jaxkickz
+Los Angeles Chargers,8,SOLD,manic0315
+Miami Dolphins,5,SOLD,manic0315
+Minnesota Vikings,16,SOLD,manic0315
+New England Patriots,20,SOLD,manic0315
+New York Giants,17,SOLD,manic0315
+New York Jets,19,SOLD,hookem1995
 Philadelphia Eagles,19,SOLD,graysonrips
-Pittsburgh Steelers,20,OPEN,
 San Francisco 49ers,17.6,SOLD,hookem1995
-Seattle Seahawks,19,OPEN,
-Tampa Bay Buccaneers,25,OPEN,
-Tennessee Titans,25,OPEN,
+Seattle Seahawks,13.3,SOLD,robjc
+Tampa Bay Buccaneers,18,SOLD,robjc
+Tennessee Titans,17,SOLD,geezythegreat
 Washington Commanders,18,SOLD,dwight2424
+Los Angeles Rams NO,40,SOLD,manic0315
+STEELERS,25,SOLD,manic0315

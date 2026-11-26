@@ -1,11 +1,12 @@
 spot,price,state,buyer
-SPOT 1,,OPEN,
-SPOT 2,,OPEN,
-SPOT 3,,OPEN,
-SPOT 4,,OPEN,
-SPOT 5,,OPEN,
-SPOT 6,,OPEN,
-SPOT 7,,OPEN,
-SPOT 8,,OPEN,
-SPOT 9,,OPEN,
-SPOT 11,,OPEN,
+SPOT 1,38,SOLD,jhorn716
+SPOT 2,40,SOLD,kings_of_the_north
+SPOT 3,39,SOLD,bentleys_cards
+SPOT 4,30,SOLD,barrynew1977
+SPOT 5,28,SOLD,will_break_it
+SPOT 6,41,SOLD,barrynew1977
+SPOT 7,38,SOLD,circletrack88
+SPOT 8,35,SOLD,circletrack88
+SPOT 9,35,SOLD,jhorn716
+SPOT 11,29,SOLD,kings_of_the_north
+#9,29,SOLD,hubbs222

@@ -1,39 +1,41 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-p1,,OPEN,
-p2,,OPEN,
-p3,,OPEN,
-p4,,OPEN,
-p5,,OPEN,
-p6,,OPEN,
+Arizona Cardinals,21,SOLD,brockeaglecards
+Atlanta Falcons,16,SOLD,brockeaglecards
+Baltimore Ravens,1,SOLD,theplowergarden
+Buffalo Bills,30,SOLD,brockeaglecards
+Carolina Panthers,25,SOLD,brockeaglecards
+Chicago Bears,25,SOLD,brockeaglecards
+Cincinnati Bengals,26,SOLD,matttheriverrat
+Cleveland Browns,19,SOLD,brockeaglecards
+Dallas Cowboys,33,SOLD,notmugalum
+Denver Broncos,22,SOLD,brockeaglecards
+Detroit Lions,28,SOLD,brockeaglecards
+Green Bay Packers,27,SOLD,matttheriverrat
+Houston Texans,1,SOLD,brockeaglecards
+Indianapolis Colts,26,SOLD,matttheriverrat
+Jacksonville Jaguars,27,SOLD,matttheriverrat
+Kansas City Chiefs,28,SOLD,brockeaglecards
+Las Vegas Raiders,24,SOLD,brockeaglecards
+Los Angeles Chargers,30,SOLD,morrison1777
+Los Angeles Rams,26,SOLD,brockeaglecards
+Miami Dolphins,30,SOLD,brockeaglecards
+Minnesota Vikings,27,SOLD,morrison1777
+New England Patriots,23,SOLD,brockeaglecards
+New Orleans Saints,26,SOLD,brockeaglecards
+New York Giants,24,SOLD,brockeaglecards
+New York Jets,15,SOLD,brockeaglecards
+Philadelphia Eagles,13,SOLD,brockeaglecards
+Pittsburgh Steelers,16,SOLD,brockeaglecards
+San Francisco 49ers,26,SOLD,brockeaglecards
+Seattle Seahawks,25,SOLD,brockeaglecards
+Tampa Bay Buccaneers,26,SOLD,loftus47
+Tennessee Titans,17,SOLD,brockeaglecards
+Washington Commanders,25,SOLD,brockeaglecards
+p1,28,SOLD,brockeaglecards
+p2,26,SOLD,brockeaglecards
+p3,32,SOLD,morrison1777
+p4,26,SOLD,matttheriverrat
+p5,30,SOLD,brockeaglecards
+p6,28,SOLD,brockeaglecards
+#6,28,SOLD,matttheriverrat
+#15,28,SOLD,matttheriverrat
