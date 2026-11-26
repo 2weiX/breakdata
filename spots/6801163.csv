@@ -1,34 +1,40 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-Miscellaneous,,OPEN,
+Arizona Cardinals,165,SOLD,edlben1
+Atlanta Falcons,126,SOLD,412que
+Baltimore Ravens,235,SOLD,edlben1
+Buffalo Bills,146,SOLD,jospla96361
+Carolina Panthers,163,SOLD,masonriver
+Chicago Bears,140,SOLD,jospla96361
+Cincinnati Bengals,146,SOLD,jospla96361
+Cleveland Browns,152,SOLD,omw2fyb219
+Dallas Cowboys,174,SOLD,camostan88
+Denver Broncos,120,SOLD,masonriver
+Detroit Lions,126,SOLD,hoffdogg701
+Green Bay Packers,135,SOLD,camostan88
+Houston Texans,145,SOLD,justiceelite180
+Indianapolis Colts,120,SOLD,edlben1
+Jacksonville Jaguars,145,SOLD,gospelrips
+Kansas City Chiefs,130,SOLD,toxic04
+Las Vegas Raiders,136,SOLD,jospla96361
+Los Angeles Chargers,116,SOLD,hoffdogg701
+Los Angeles Rams,120,SOLD,justiceelite180
+Miami Dolphins,146,SOLD,camostan88
+Minnesota Vikings,135,SOLD,gospelrips
+New England Patriots,126,SOLD,darrenz28z
+New Orleans Saints,145,SOLD,camostan88
+New York Giants,130,SOLD,douglasmei
+New York Jets,180,SOLD,edlben1
+Philadelphia Eagles,140,SOLD,hoffdogg701
+Pittsburgh Steelers,125,SOLD,omw2fyb219
+San Francisco 49ers,160,SOLD,joeywag
+Seattle Seahawks,175,SOLD,edlben1
+Tampa Bay Buccaneers,126,SOLD,hoffdogg701
+Tennessee Titans,112,SOLD,jospla96361
+Washington Commanders,111,SOLD,camostan88
+Miscellaneous,115,SOLD,joeywag
+#3,116,SOLD,justiceelite180
+#4,114,SOLD,masonriver
+#5,122,SOLD,masonriver
+#13,123,SOLD,omw2fyb219
+#20,150,SOLD,jospla96361
+#23,130,SOLD,jospla96361

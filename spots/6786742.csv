@@ -1,23 +1,23 @@
 spot,price,state,buyer
 Arizona Cardinals,2,SOLD,frasut84089
 Atlanta Falcons,2,SOLD,causewaycollects
-Baltimore Ravens,3,OPEN,
+Baltimore Ravens,2,SOLD,guymac2912
 Buffalo Bills,3,SOLD,clarkson46
 Carolina Panthers,2,SOLD,richardj_merle
-Chicago Bears,4,OPEN,
+Chicago Bears,3.2,SOLD,guymac2912
 Cincinnati Bengals,3,SOLD,jaydbond1
-Cleveland Browns,4,OPEN,
+Cleveland Browns,2,SOLD,skinniebiggie
 Dallas Cowboys,4,SOLD,cardrushbyjosh
 Denver Broncos,2,SOLD,streetfighterii
 Detroit Lions,2.1,SOLD,dbig9308
-Green Bay Packers,3,OPEN,
+Green Bay Packers,1,SOLD,guymac2912
 Houston Texans,2,SOLD,sammybarnes787
 Indianapolis Colts,1,SOLD,ianhar72959
 Jacksonville Jaguars,2.4,SOLD,ianhar72959
 Kansas City Chiefs,5,SOLD,jaydbond1
 Las Vegas Raiders,1,SOLD,67onamerryrizzzzmass
-Los Angeles Chargers,2,OPEN,
-Los Angeles Rams,3,OPEN,
+Los Angeles Chargers,1,SOLD,skinniebiggie
+Los Angeles Rams,1,SOLD,bazlightyear
 Miami Dolphins,1,SOLD,ianhar72959
 Minnesota Vikings,3,SOLD,jasperbhamra
 New England Patriots,4,SOLD,mikesison
@@ -25,7 +25,7 @@ New Orleans Saints,1,SOLD,richardj_merle
 New York Giants,1,SOLD,frasut84089
 New York Jets,1,SOLD,67onamerryrizzzzmass
 Philadelphia Eagles,2,SOLD,rhyspeachey
-Pittsburgh Steelers,3,OPEN,
+Pittsburgh Steelers,2,SOLD,skinniebiggie
 San Francisco 49ers,2,SOLD,jaydbond1
 Seattle Seahawks,1,SOLD,frasut84089
 Tampa Bay Buccaneers,2,SOLD,sammybarnes787

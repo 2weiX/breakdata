@@ -1,6 +1,6 @@
 spot,price,state,buyer
-#1,25,OPEN,
 #2,25,OPEN,
-#3,25,OPEN,
 #4,25,OPEN,
 #5,25,OPEN,
+Spot 1,24,SOLD,robbe49
+Spot 2,25,SOLD,bokeeh

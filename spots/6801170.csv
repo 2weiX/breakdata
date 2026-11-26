@@ -1,34 +1,47 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-Miscellaneous,,OPEN,
+Arizona Cardinals,125,SOLD,billybobtheclown
+Atlanta Falcons,170,SOLD,case4dave
+Baltimore Ravens,160,SOLD,thebinmaster87
+Buffalo Bills,170,SOLD,jospla96361
+Carolina Panthers,200,SOLD,meykel67
+Chicago Bears,201,SOLD,waaaasssssuppppp
+Cincinnati Bengals,165,SOLD,larrybird15626
+Cleveland Browns,185,SOLD,thebinmaster87
+Dallas Cowboys,190,SOLD,edlben1
+Denver Broncos,135,SOLD,billybobtheclown
+Detroit Lions,135,SOLD,edlben1
+Green Bay Packers,174,SOLD,thebinmaster87
+Houston Texans,180,SOLD,thebinmaster87
+Indianapolis Colts,40,SOLD,jospla96361
+Jacksonville Jaguars,155,SOLD,larrybird15626
+Kansas City Chiefs,196,SOLD,thebinmaster87
+Las Vegas Raiders,133,SOLD,edlben1
+Los Angeles Chargers,185,SOLD,thebinmaster87
+Los Angeles Rams,116,SOLD,billybobtheclown
+Miami Dolphins,177,SOLD,edlben1
+Minnesota Vikings,163,SOLD,jospla96361
+New England Patriots,200,SOLD,thebinmaster87
+New Orleans Saints,186,SOLD,jospla96361
+New York Giants,170,SOLD,joelwym
+New York Jets,41,SOLD,jospla96361
+Philadelphia Eagles,191,SOLD,edlben1
+Pittsburgh Steelers,205,SOLD,edlben1
+San Francisco 49ers,206,SOLD,thebinmaster87
+Seattle Seahawks,62,SOLD,edlben1
+Tampa Bay Buccaneers,165,SOLD,412que
+Tennessee Titans,48,SOLD,jospla96361
+Washington Commanders,150,SOLD,edlben1
+Miscellaneous,152,SOLD,thebinmaster87
+#3,135,SOLD,edlben1
+#4,160,SOLD,thebinmaster87
+#10,143,SOLD,edlben1
+#14,206,SOLD,thebinmaster87
+#20,185,SOLD,case4dave
+#21,201,SOLD,thebinmaster87
+#23,201,SOLD,meykel67
+#24,215,SOLD,meykel67
+#29,166,SOLD,edlben1
+#30,176,SOLD,thebinmaster87
+#32,171,SOLD,thebinmaster87
+#33,175,SOLD,thebinmaster87
+#35,179,SOLD,thebinmaster87

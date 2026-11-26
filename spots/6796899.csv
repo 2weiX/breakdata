@@ -1,0 +1,36 @@
+spot,price,state,buyer
+Arizona Cardinals,7,OPEN,
+Atlanta Falcons,7,OPEN,
+Baltimore Ravens,14,OPEN,
+Buffalo Bills,16,OPEN,
+Carolina Panthers,7,OPEN,
+Chicago Bears,26,OPEN,
+Cincinnati Bengals,14,OPEN,
+Cleveland Browns,8,OPEN,
+Dallas Cowboys,27,OPEN,
+Denver Broncos,18,OPEN,
+Detroit Lions,16,SOLD,dtowns87
+Green Bay Packers,25,OPEN,
+Houston Texans,8,OPEN,
+Indianapolis Colts,13,OPEN,
+Jacksonville Jaguars,7,OPEN,
+Kansas City Chiefs,21,OPEN,
+Las Vegas Raiders,14,SOLD,dr_ake94
+Los Angeles Chargers,12,OPEN,
+Los Angeles Rams,13,OPEN,
+Minnesota Vikings,12,SOLD,loveslc
+New England Patriots,14,SOLD,dr_ake94
+New Orleans Saints,7,OPEN,
+New York Giants,19,OPEN,
+New York Jets,9.6,SOLD,dr_ake94
+Philadelphia Eagles,20,OPEN,
+Pittsburgh Steelers,25,OPEN,
+San Francisco 49ers,26,OPEN,
+Seattle Seahawks,7,OPEN,
+Tampa Bay Buccaneers,8,OPEN,
+Tennessee Titans/Houston Oilers,7,OPEN,
+Washington Commanders,15,OPEN,
+NIL –Northeast & Midwest,15,SOLD,josh3517
+NIL – Southeast,15,OPEN,
+NIL – Southwest & Heartland,15,OPEN,
+NIL – West Coast & Pacific,15,OPEN,
