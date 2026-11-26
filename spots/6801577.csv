@@ -1,0 +1,11 @@
+spot,price,state,buyer
+63,26,SOLD,rdixon_82
+20,9,SOLD,rdixon_82
+21,30,SOLD,rdixon_82
+16,31,SOLD,rdixon_82
+77,15,SOLD,lmlsismom
+40,35,SOLD,rdixon_82
+12,34,SOLD,rdixon_82
+"8, 15, 24, 27, 41, 43, 55, 58, 59, 60, 69, 70, 73, 82, 96",349,SOLD,rdixon_82
+"18, 44, 75, 93",349,SOLD,rdixon_82
+#10,1,OPEN,

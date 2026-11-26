@@ -1,7 +1,7 @@
 spot,price,state,buyer
 Seattle Seahawks,32,SOLD,deathgrip85
 Buffalo Bills,32,SOLD,bigglezworth
-#3,30,SOLD,bigglezworth
+Denver Broncos,30,SOLD,bigglezworth
 MISC,34,SOLD,joeymorency
 Cleveland Browns,38,SOLD,joeymorency
 Tennessee Titans,36,SOLD,millerbros
@@ -12,7 +12,29 @@ Dallas Cowboys,42,SOLD,masch
 Los Angeles Chargers,40,SOLD,bigglezworth
 Jacksonville Jaguars,39,SOLD,charlie0826
 Washington Commanders,38,SOLD,millerbros
-Atlanta Falcons,41,SOLD,masch
+Los Angeles Rams,41,SOLD,masch
 #15,44,SOLD,sportscard2026
-New York Jets,42,SOLD,fandamonium
+#16,42,SOLD,fandamonium
 Tampa Bay Buccaneers,42,SOLD,bigglezworth
+Kansas City Chiefs,46,SOLD,bigglezworth
+#19,44,SOLD,masch
+San Francisco 49ers,47,SOLD,fandamonium
+Detroit Lions,45,SOLD,millerbros
+Green Bay Packers,45,SOLD,bigglezworth
+New York Giants,45,SOLD,bigglezworth
+Minnesota Vikings,44,SOLD,bigglezworth
+Chicago Bears,41,SOLD,millerbros
+Carolina Panthers,38,SOLD,fandamonium
+#27,20,SOLD,bigglezworth
+Baltimore Ravens,23,SOLD,bigglezworth
+New York Jets,24,SOLD,bbeavers11
+Miami Dolphins,23,SOLD,jneedle90
+Cincinnati Bengals,24,SOLD,millerbros
+New England Patriots,19,SOLD,jneedle90
+New Orleans Saints,13,SOLD,deathgrip85
+#34,30,SOLD,bigglezworth
+Atlanta Falcons,9,SOLD,jneedle90
+Las Vegas Raiders,10,SOLD,jneedle90
+Houston Texans,5,SOLD,jneedle90
+Indianapolis Colts,5,SOLD,jneedle90
+Arizona Cardinals,13,SOLD,joeymorency

@@ -1,34 +1,43 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-MISC,,OPEN,
+#1,70,SOLD,tyb1659
+Minnesota Vikings,72,SOLD,tyb1659
+Dallas Cowboys,72,SOLD,tyb1659
+Los Angeles Rams,69,SOLD,millerbros
+#5,64,SOLD,tyb1659
+#6,74,SOLD,jordi88
+#7,70,SOLD,tyb1659
+#8,74,SOLD,mad_cards_mad_cards
+Cincinnati Bengals,82,SOLD,el_mon
+#10,85,SOLD,el_mon
+Philadelphia Eagles,85,SOLD,el_mon
+Buffalo Bills,85,SOLD,el_mon
+San Francisco 49ers,84,SOLD,fthatwheel
+New York Giants,91,SOLD,el_mon
+Chicago Bears,80,SOLD,el_mon
+Baltimore Ravens,69,SOLD,jordi88
+Houston Texans,61,SOLD,charlie0826
+#18,67,SOLD,charlie0826
+New England Patriots,91,SOLD,charlie0826
+Green Bay Packers,76,SOLD,gdanny
+#21,63,SOLD,charlie0826
+Kansas City Chiefs,62,SOLD,charlie0826
+Las Vegas Raiders,41,SOLD,jordi88
+Detroit Lions,43,SOLD,jordi88
+Pittsburgh Steelers,45,SOLD,dmorse1121
+#26,32,SOLD,goonies_gunna_goon
+Los Angeles Chargers,33,SOLD,goonies_gunna_goon
+Miami Dolphins,40,SOLD,sl24bucks
+MISC,27,SOLD,sl24bucks
+Washington Commanders,23,SOLD,sl24bucks
+Tennessee Titans,1,SOLD,jordi88
+New York Jets,18,SOLD,evanfl11
+Denver Broncos,19,SOLD,evanfl11
+Cleveland Browns,135,SOLD,evanfl11
+Jacksonville Jaguars,21,SOLD,dmorse1121
+Tampa Bay Buccaneers,22,SOLD,floridamangolf727
+Carolina Panthers,9,SOLD,gdanny
+Seattle Seahawks,16,SOLD,sl24bucks
+Atlanta Falcons,14,SOLD,therealcyp
+New Orleans Saints,13,SOLD,sl24bucks
+Indianapolis Colts,13,SOLD,northlandbreakrfrauds
+Arizona Cardinals,11,SOLD,dmorse1121

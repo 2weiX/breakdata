@@ -1,0 +1,12 @@
+spot,price,state,buyer
+Dallas Cowboys,5,SOLD,cairnsybaseball
+Minnesota Vikings,5,SOLD,cairnsybaseball
+New York Jets,5,SOLD,cairnsybaseball
+New York Giants,5,SOLD,cairnsybaseball
+Chicago Bears,5,SOLD,cairnsybaseball
+Jacksonville Jaguars,5,SOLD,esouthatx
+Indianapolis Colts,5,SOLD,esouthatx
+"San Francisco 49ers, College",5,SOLD,esouthatx
+New England Patriots,1,SOLD,esouthatx
+"Arizona Cardinals, Buffalo Bills, Carolina Panthers, Cincinnati Bengals, Kansas City Chiefs, Las Vegas Raiders, Los Angeles Rams, Pittsburgh Steelers, Tampa Bay Buccaneers, Tennessee Titans",5,SOLD,esouthatx
+#11,1,OPEN,

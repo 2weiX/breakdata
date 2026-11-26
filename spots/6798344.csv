@@ -1,8 +1,15 @@
 spot,price,state,buyer
 Indianapolis Colts,9,SOLD,freddiecru74329
-New England Patriots,15,SOLD,stanlee69
 Washington Commanders,3,SOLD,freddiecru74329
+New England Patriots,15,SOLD,stanlee69
 "Baltimore Ravens, New Orleans Saints",22,SOLD,stanlee69
 "Minnesota Vikings, Tennessee Titans",17,SOLD,stanlee69
 "Dallas Cowboys, Kansas City Chiefs",22,SOLD,stanlee69
-#7,1,OPEN,
+"Houston Texans, New York Giants, Pittsburgh Steelers, Tampa Bay Buccaneers",68,SOLD,stanlee69
+"Atlanta Falcons, Buffalo Bills, Cincinnati Bengals, Miami Dolphins",63,SOLD,stanlee69
+"Chicago Bears, Los Angeles Rams, Philadelphia Eagles",56,SOLD,markbye83324
+"Arizona Cardinals, Las Vegas Raiders, Seattle Seahawks",44,SOLD,stanlee69
+"Carolina Panthers, Cleveland Browns, Jacksonville Jaguars, San Francisco 49ers",67,SOLD,markbye83324
+"Detroit Lions, Los Angeles Chargers",20,SOLD,stanlee69
+Denver Broncos,14,SOLD,stanlee69
+"Green Bay Packers, New York Jets",19,SOLD,stanlee69

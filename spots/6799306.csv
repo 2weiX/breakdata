@@ -1,34 +1,45 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-MISC,,OPEN,
+New England Patriots,239,SOLD,case_or_skunk
+Cincinnati Bengals,220,SOLD,chicagors
+#3,225,SOLD,chicagors
+MISC,260,SOLD,dkass75
+Minnesota Vikings,260,SOLD,dkass75
+Cleveland Browns,275,SOLD,dkass75
+#7,249,SOLD,orangecat313
+Philadelphia Eagles,267,SOLD,orangecat313
+"Buffalo Bills, San Francisco 49ers",279,SOLD,bizzybe
+#10,300,SOLD,bizzybe
+Jacksonville Jaguars,278,SOLD,orangecat313
+Pittsburgh Steelers,273,SOLD,chicagors
+New York Giants,275,SOLD,lyricaldreidel44
+Green Bay Packers,280,SOLD,chicagors
+Kansas City Chiefs,280,SOLD,lyricaldreidel44
+Los Angeles Rams,260,SOLD,chicagors
+#17,260,SOLD,lyricaldreidel44
+Los Angeles Chargers,180,SOLD,chicagors
+#19,160,SOLD,chicagors
+Chicago Bears,160,SOLD,chicagors
+#21,205,SOLD,ryanbuc07405
+"Baltimore Ravens, Las Vegas Raiders",120,SOLD,ryanbuc07405
+#23,145,SOLD,ryanbuc07405
+#24,145,SOLD,ryanbuc07405
+Dallas Cowboys,135,SOLD,aarond5670
+Detroit Lions,135,SOLD,aarond5670
+Denver Broncos,135,SOLD,aarond5670
+New Orleans Saints,140,SOLD,tdzandbear
+Houston Texans,155,SOLD,km9898
+#30,155,SOLD,tdzandbear
+#31,155,SOLD,km9898
+#32,155,SOLD,bizzybe
+#33,175,SOLD,bizzybe
+#34,130,SOLD,aarond5670
+"Seattle Seahawks, Tampa Bay Buccaneers",76,SOLD,sethder
+#36,23,SOLD,sethder
+Carolina Panthers,26,SOLD,sethder
+Atlanta Falcons,39,SOLD,marcus91870
+Washington Commanders,39,SOLD,haluchahobbies
+Miami Dolphins,32,SOLD,sethder
+Tennessee Titans,30,SOLD,haluchahobbies
+Arizona Cardinals,30,SOLD,sethder
+Indianapolis Colts,31,SOLD,tigerl
+New York Jets,31,SOLD,tigerl

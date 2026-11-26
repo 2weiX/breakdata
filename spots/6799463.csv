@@ -1,34 +1,44 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-MISC,,OPEN,
+Buffalo Bills,255,SOLD,dj_jay_keez
+#2,255,SOLD,dkass75
+Minnesota Vikings,340,SOLD,dj_jay_keez
+New York Giants,320,SOLD,badkneesbears
+MISC,315,SOLD,dj_jay_keez
+Cleveland Browns,375,SOLD,dj_jay_keez
+San Francisco 49ers,320,SOLD,dkass75
+Los Angeles Rams,205,SOLD,badkneesbears
+Indianapolis Colts,350,SOLD,mrt4jr
+Detroit Lions,390,SOLD,mrt4jr
+Kansas City Chiefs,420,SOLD,mrt4jr
+Pittsburgh Steelers,285,SOLD,jkirish1
+Baltimore Ravens,340,SOLD,jkirish1
+#14,334,SOLD,jkirish1
+#15,352,SOLD,jkirish1
+Cincinnati Bengals,93,SOLD,jkirish1
+#17,207,SOLD,jkirish1
+#18,160,SOLD,dj_jay_keez
+#19,215,SOLD,dj_jay_keez
+Philadelphia Eagles,295,SOLD,dj_jay_keez
+Chicago Bears,235,SOLD,everythinginsurance
+New Orleans Saints,140,SOLD,tradingcards
+New York Jets,235,SOLD,treverdur
+#24,225,SOLD,one2bob
+#25,197,SOLD,mrt4jr
+#26,215,SOLD,mrt4jr
+Dallas Cowboys,215,SOLD,kuest
+#28,245,SOLD,kuest
+Tennessee Titans,190,SOLD,angerymatt
+Las Vegas Raiders,190,SOLD,butchforkell
+Green Bay Packers,190,SOLD,joehollywood
+#32,200,SOLD,joehollywood
+Denver Broncos,115,SOLD,doraplusserg
+Carolina Panthers,145,SOLD,treverdur
+Atlanta Falcons,175,SOLD,mrt4jr
+New England Patriots,195,SOLD,mrt4jr
+Houston Texans,68,SOLD,zainshe40714
+Washington Commanders,46,SOLD,rickroo
+Tampa Bay Buccaneers,73,SOLD,himlong
+Seattle Seahawks,44,SOLD,himlong
+Jacksonville Jaguars,36,SOLD,camscard
+Miami Dolphins,18,SOLD,goodie
+Arizona Cardinals,34,SOLD,doraplusserg
