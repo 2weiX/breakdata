@@ -1,30 +1,30 @@
 spot,price,state,buyer
 Arizona Cardinals,49,OPEN,
-Atlanta Falcons,10,OPEN,
+Atlanta Falcons,1,SOLD,trvin
 Baltimore Ravens,19,OPEN,
-Buffalo Bills,25,OPEN,
-Chicago Bears,39,OPEN,
-Cincinnati Bengals,19,OPEN,
+Buffalo Bills,10,SOLD,konradkarsch
+Chicago Bears,19,SOLD,trvin
+Cincinnati Bengals,6,SOLD,flyingelvis1187
 Cleveland Browns,25,OPEN,
-Dallas Cowboys,25,OPEN,
-Denver Broncos,21,OPEN,
+Dallas Cowboys,10,SOLD,trvin
+Denver Broncos,12,SOLD,konradkarsch
 Detroit Lions,20,OPEN,
-Green Bay Packers,19,OPEN,
-Houston Texans,19,OPEN,
-Indianapolis Colts,15,OPEN,
+Green Bay Packers,10,SOLD,elitecardzbreaks
+Houston Texans,3,SOLD,konradkarsch
+Indianapolis Colts,5,SOLD,konradkarsch
 Jacksonville Jaguars,19,OPEN,
 Las Vegas Raiders,60,OPEN,
 Los Angeles Chargers,19,OPEN,
 Los Angeles Rams,49,OPEN,
-Miami Dolphins,15,OPEN,
+Miami Dolphins,5,SOLD,trvin
 Minnesota Vikings,25,OPEN,
 New Orleans Saints,34,OPEN,
-New York Giants,30,OPEN,
-New York Jets,15,OPEN,
+New York Giants,15,SOLD,trvin
+New York Jets,10,SOLD,elitecardzbreaks
 Philadelphia Eagles,25,OPEN,
-Pittsburgh Steelers,25,OPEN,
-San Francisco 49ers,29,OPEN,
-Seattle Seahawks,35,OPEN,
-Tampa Bay Buccaneers,19,OPEN,
-Tennessee Titans,35,OPEN,
-Washington Commanders,15,OPEN,
+Pittsburgh Steelers,15,SOLD,konradkarsch
+San Francisco 49ers,15,SOLD,elitecardzbreaks
+Seattle Seahawks,6,SOLD,trvin
+Tampa Bay Buccaneers,10,SOLD,elitecardzbreaks
+Tennessee Titans,9.5,SOLD,elitecardzbreaks
+Washington Commanders,8,SOLD,flyingelvis1187

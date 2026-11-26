@@ -1,9 +1,8 @@
 spot,price,state,buyer
 Arizona Cardinals,240,OPEN,
 Atlanta Falcons,70,OPEN,
-Baltimore Ravens,100,OPEN,
-Buffalo Bills,225,OPEN,
-MEMO! Carolina Panthers,85,OPEN,
+JAIMEMEJ! Buffalo Bills+ALTIMORE+WASHINGTON/CREDIT,1,OPEN,
+MEMO! Carolina Panthers/CREDIT,1,SOLD,memocb
 TONYMD! Chicago Bears+CLEVELAND+TITANS,1,SOLD,tonymd3088
 Cincinnati Bengals,100,SOLD,jackengle
 JESUSMED! Dallas Cowboys,85,SOLD,jesusmed15326
@@ -11,10 +10,10 @@ Denver Broncos,135,SOLD,liehr1
 Detroit Lions,120,OPEN,
 Green Bay Packers,53,SOLD,houjimmy
 Houston Texans,60,OPEN,
-OSWALDO! Indianapolis Colts,71,OPEN,
+OSWALDO! Indianapolis Colts/CREDIT,1,SOLD,oswaldofer04031
 Jacksonville Jaguars,80,OPEN,
 Kansas City Chiefs,375,OPEN,
-Las Vegas Raiders,430,OPEN,
+MANNY! Las Vegas Raiders+49ERS/CREDIT,1,SOLD,cruman18509
 Los Angeles Chargers,75,OPEN,
 Los Angeles Rams,250,OPEN,
 Miami Dolphins,75,OPEN,
@@ -25,7 +24,5 @@ New York Giants,185,OPEN,
 New York Jets,120,OPEN,
 Philadelphia Eagles,130,OPEN,
 Pittsburgh Steelers,105,OPEN,
-San Francisco 49ers,165,OPEN,
 KIKE! Seattle Seahawks,130,SOLD,angelval05224
 Tampa Bay Buccaneers,140,OPEN,
-Washington Commanders,100,OPEN,

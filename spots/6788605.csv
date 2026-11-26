@@ -3,7 +3,7 @@ spot,price,state,buyer
 #2,105,SOLD,tyb1659
 Denver Broncos,110,SOLD,tyb1659
 Pittsburgh Steelers,127,SOLD,detroitsf313
-#5,130,SOLD,ghoem5
+Cincinnati Bengals,130,SOLD,ghoem5
 Buffalo Bills,127,SOLD,ghoem5
 Los Angeles Chargers,130,SOLD,detroitsf313
 Chicago Bears,127,SOLD,ghoem5
@@ -11,11 +11,11 @@ Chicago Bears,127,SOLD,ghoem5
 Las Vegas Raiders,115,SOLD,detroitsf313
 #11,115,SOLD,tyb1659
 #12,120,SOLD,ghoem5
-Baltimore Ravens,136,SOLD,ghoem5
+#13,136,SOLD,ghoem5
 Minnesota Vikings,160,SOLD,chambergs
 Cleveland Browns,125,SOLD,chambergs
 Kansas City Chiefs,136,SOLD,slimmpickinz
-Tennessee Titans,107,SOLD,jason1922
+#17,107,SOLD,jason1922
 Philadelphia Eagles,132,SOLD,jason1922
 Green Bay Packers,118,SOLD,chambergs
 Los Angeles Rams,88,SOLD,detroitsf313
@@ -24,3 +24,14 @@ Dallas Cowboys,105,SOLD,tyb1659
 New England Patriots,89,SOLD,detroitsf313
 #24,81,SOLD,detroitsf313
 New York Giants,77,SOLD,detroitsf313
+Atlanta Falcons,71,SOLD,saltydell2274
+Seattle Seahawks,75,SOLD,detroitsf313
+Carolina Panthers,74,SOLD,detroitsf313
+Jacksonville Jaguars,65,SOLD,kden007
+"Detroit Lions, Tennessee Titans",72,SOLD,kden007
+"Indianapolis Colts, MISC",78,SOLD,williamlance77
+"Arizona Cardinals, New Orleans Saints, New York Jets",44,SOLD,saltydell2274
+"Tampa Bay Buccaneers, Washington Commanders",71,SOLD,kden007
+"Houston Texans, Miami Dolphins",41,SOLD,jordi88
+Baltimore Ravens,88,SOLD,jordi88
+San Francisco 49ers,300,SOLD,ghoem5

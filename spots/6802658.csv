@@ -1,0 +1,21 @@
+spot,price,state,buyer
+Cincinnati Bengals,10,SOLD,postman_515
+Cleveland Browns,10,SOLD,voskylie
+New York Jets,8,SOLD,voskylie
+Tennessee Titans,9,SOLD,voskylie
+Las Vegas Raiders,18,SOLD,voskylie
+San Francisco 49ers,16,SOLD,prethias
+Seattle Seahawks,14,SOLD,tpate95
+Arizona Cardinals,14,SOLD,postman_515
+Oklahoma,18,SOLD,cyrolp
+New England Patriots,24,SOLD,tpate95
+Chicago Bears,14,SOLD,cyrolp
+New Orleans Saints,22,SOLD,tpate95
+"Los Angeles Rams, Miss State",31,SOLD,cyrolp
+"Carolina Panthers, USC",26,SOLD,brodyath
+"Alabama, CAL",36,SOLD,jmart815
+"Detroit Lions, All Other Colleges",25,SOLD,tpate95
+Michigan,13,SOLD,cyrolp
+Texas A&M,11,SOLD,brodyath
+Notre Dame,11,SOLD,prethias
+#20,1,OPEN,

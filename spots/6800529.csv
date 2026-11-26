@@ -1,33 +1,23 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+Green Bay Packers,25,SOLD,chino18025
+Miami Dolphins,27,SOLD,kentre44980
+Indianapolis Colts,26,SOLD,chino18025
+Tennessee Titans,27,SOLD,chino18025
+Dallas Cowboys,27,SOLD,chino18025
+Detroit Lions,26,SOLD,chino18025
+Pittsburgh Steelers,27,SOLD,jurgz
+Los Angeles Chargers,28,SOLD,chino18025
+Philadelphia Eagles,29,SOLD,chino18025
+Houston Texans,34,SOLD,chino18025
+Cleveland Browns,38,SOLD,chino18025
+New York Jets,37,SOLD,chino18025
+Denver Broncos,27,SOLD,bigesclub
+Seattle Seahawks,26,SOLD,egower291
+New York Giants,26,SOLD,mjb_222
+Tampa Bay Buccaneers,32,SOLD,chriskre83351
+Chicago Bears,28,SOLD,jurgz
+Arizona Cardinals,22,SOLD,egower291
+San Francisco 49ers,53,SOLD,fisterer12619
+Baltimore Ravens,39,SOLD,chino18025
+Los Angeles Rams,1,SOLD,fisterer12619
+"Atlanta Falcons, Buffalo Bills, Carolina Panthers, Cincinnati Bengals, Jacksonville Jaguars, Kansas City Chiefs, Las Vegas Raiders, Minnesota Vikings, New England Patriots, New Orleans Saints, Washington Commanders",2,SOLD,bigesclub

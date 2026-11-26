@@ -1,6 +1,6 @@
 spot,price,state,buyer
 Buffalo Bills,24,SOLD,mandybreaks
-Denver Broncos,21,SOLD,mhmmmm
+#2,21,SOLD,mhmmmm
 Detroit Lions,28,SOLD,gadgetman808
 #4,27,SOLD,gadgetman808
 Philadelphia Eagles,30,SOLD,jesgar29487
@@ -14,4 +14,31 @@ Atlanta Falcons,26,SOLD,mhmmmm
 Tampa Bay Buccaneers,20,SOLD,mandybreaks
 #14,19,SOLD,mandybreaks
 Carolina Panthers,19,SOLD,mhmmmm
-Houston Texans,18,SOLD,mhmmmm
+#16,18,SOLD,mhmmmm
+Seattle Seahawks,23,SOLD,jjm717
+Baltimore Ravens,22,SOLD,belmontcardcollector
+Cleveland Browns,24,SOLD,kyle02884
+#20,24,SOLD,kyle02884
+Los Angeles Rams,23,SOLD,kyle02884
+New England Patriots,21,SOLD,sburgee21
+Dallas Cowboys,20,SOLD,andrewalix1345
+San Francisco 49ers,16,SOLD,mandybreaks
+Miami Dolphins,18,SOLD,ramseyj71
+Denver Broncos,15,SOLD,ramseyj71
+New York Jets,12,SOLD,nono3630
+Minnesota Vikings,16,SOLD,mhmmmm
+Los Angeles Chargers,16,SOLD,factorywaldo
+#30,17,SOLD,wsucoug55
+Washington Commanders,18,SOLD,wsucoug55
+Chicago Bears,18,SOLD,factorywaldo
+#33,20,SOLD,wsucoug55
+Pittsburgh Steelers,21,SOLD,wsucoug55
+#35,21,SOLD,wsucoug55
+MISC,21,SOLD,wsucoug55
+Las Vegas Raiders,21,SOLD,wsucoug55
+New Orleans Saints,5,SOLD,factorywaldo
+Green Bay Packers,16,SOLD,otownmamma
+Arizona Cardinals,12,SOLD,factorywaldo
+Indianapolis Colts,12,SOLD,factorywaldo
+Houston Texans,13,SOLD,factorywaldo
+Tennessee Titans,12,SOLD,factorywaldo
