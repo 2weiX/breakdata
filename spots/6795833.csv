@@ -1,34 +1,57 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-MISC,,OPEN,
+#1,531,SOLD,vegasmann
+Buffalo Bills,550,SOLD,vegasmann
+#3,510,SOLD,vegasmann
+#4,310,SOLD,vegasmann
+Cleveland Browns,510,SOLD,vegasmann
+New England Patriots,550,SOLD,vegasmann
+Pittsburgh Steelers,531,SOLD,vegasmann
+Dallas Cowboys,531,SOLD,vegasmann
+Kansas City Chiefs,515,SOLD,vegasmann
+#10,525,SOLD,vegasmann
+#11,541,SOLD,vegasmann
+Minnesota Vikings,471,SOLD,danboltz
+MISC,481,SOLD,jkcards35
+#14,511,SOLD,vegasmann
+#15,501,SOLD,vegasmann
+#16,522,SOLD,thagingersniper
+Los Angeles Rams,532,SOLD,thagingersniper
+#18,411,SOLD,jkcards35
+#19,432,SOLD,thagingersniper
+Los Angeles Chargers,451,SOLD,dj_jay_keez
+#21,428,SOLD,thagingersniper
+#22,368,SOLD,bigtsprad
+#23,374,SOLD,bigtsprad
+#24,375,SOLD,bigtsprad
+Green Bay Packers,390,SOLD,bigtsprad
+Cincinnati Bengals,402,SOLD,jkcards35
+#27,410,SOLD,bigtsprad
+Detroit Lions,396,SOLD,bigtsprad
+Denver Broncos,400,SOLD,incognit0
+#30,410,SOLD,incognit0
+San Francisco 49ers,391,SOLD,bigtsprad
+#32,395,SOLD,bigtsprad
+#33,405,SOLD,thagingersniper
+#34,400,SOLD,thagingersniper
+#35,385,SOLD,bigtsprad
+Miami Dolphins,370,SOLD,thagingersniper
+#37,380,SOLD,incognit0
+#38,360,SOLD,bigtsprad
+#39,357,SOLD,bigtsprad
+Washington Commanders,381,SOLD,chrisrac77693
+Jacksonville Jaguars,397,SOLD,dfrm630
+Baltimore Ravens,357,SOLD,father_sonsportscards17
+New York Giants,377,SOLD,smitty0629
+#44,265,SOLD,thagingersniper
+Arizona Cardinals,240,SOLD,nike0224
+#46,280,SOLD,incognit0
+#47,260,SOLD,musho888
+Houston Texans,282,SOLD,musho888
+Chicago Bears,299,SOLD,musho888
+Las Vegas Raiders,150,SOLD,lemonhnl
+Philadelphia Eagles,140,SOLD,thagingersniper
+Carolina Panthers,93,SOLD,hobbybobby_22
+Tampa Bay Buccaneers,79,SOLD,lemonhnl
+New Orleans Saints,15,SOLD,juliangluis
+Seattle Seahawks,50,SOLD,jakebusc
+#56,1,OPEN,

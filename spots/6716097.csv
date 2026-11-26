@@ -1,33 +1,33 @@
 spot,price,state,buyer
 Arizona Cardinals,65,OPEN,
 Atlanta Falcons,24,OPEN,
-Baltimore Ravens,39,OPEN,
-Buffalo Bills,49,OPEN,
-Carolina Panthers,29,OPEN,
+Baltimore Ravens,25,SOLD,dcf1181
+Buffalo Bills,30,SOLD,camdog17
+Carolina Panthers,23.2,SOLD,dcf1181
 Chicago Bears,54,OPEN,
-Cincinnati Bengals,39,OPEN,
+Cincinnati Bengals,33.15,SOLD,macs_packs
 Cleveland Browns,31.2,SOLD,vault216
-Dallas Cowboys,44,OPEN,
+Dallas Cowboys,39.6,SOLD,camdog17
 Denver Broncos,45,OPEN,
 Detroit Lions,35,OPEN,
-Green Bay Packers,30,OPEN,
+Green Bay Packers,27,SOLD,thespudfathercards
 Houston Texans,25,OPEN,
 Indianapolis Colts,30,OPEN,
-Jacksonville Jaguars,29,OPEN,
-Kansas City Chiefs,65,OPEN,
-Las Vegas Raiders,79,OPEN,
+Jacksonville Jaguars,23.2,SOLD,reice886
+Kansas City Chiefs,52,SOLD,haydensmi58704
+Las Vegas Raiders,60,SOLD,mightymeerkats
 Los Angeles Chargers,29,OPEN,
 Los Angeles Rams,54,OPEN,
-Miami Dolphins,34,OPEN,
+Miami Dolphins,19,SOLD,dcf1181
 Minnesota Vikings,29,OPEN,
-New England Patriots,64,OPEN,
-New Orleans Saints,45,OPEN,
+New England Patriots,50,SOLD,noddy_87
+New Orleans Saints,20,SOLD,camdog17
 New York Giants,49,OPEN,
 New York Jets,40,OPEN,
-Philadelphia Eagles,40,OPEN,
+Philadelphia Eagles,40,SOLD,danmurphdmsports
 Pittsburgh Steelers,35,OPEN,
 San Francisco 49ers,45,SOLD,reice886
-Seattle Seahawks,40,OPEN,
-Tampa Bay Buccaneers,45,OPEN,
-Tennessee Titans,45,OPEN,
-Washington Commanders,40,OPEN,
+Seattle Seahawks,25,SOLD,reice886
+Tampa Bay Buccaneers,20,SOLD,vault216
+Tennessee Titans,35,SOLD,reice886
+Washington Commanders,32,SOLD,spenny1twenty

@@ -1,2 +1,36 @@
 spot,price,state,buyer
-#1,1,OPEN,
+Dallas Cowboys,35,SOLD,moneymaack
+#2,34,SOLD,moneymaack
+Tennessee Titans,32,SOLD,moneymaack
+#4,31,SOLD,manngurdeep9
+Green Bay Packers,31,SOLD,moneymaack
+Houston Texans,32,SOLD,juddkai
+Chicago Bears,38,SOLD,ronkai27100
+Minnesota Vikings,30,SOLD,manngurdeep9
+San Francisco 49ers,32,SOLD,rickyjones92598
+Cincinnati Bengals,32,SOLD,kelleno
+New Orleans Saints,36,SOLD,loocasey
+Tampa Bay Buccaneers,46,SOLD,kennygscardz_gurrkenny
+Baltimore Ravens,34,SOLD,butchys_bounce_house
+Kansas City Chiefs,36,SOLD,kennygscardz_gurrkenny
+Atlanta Falcons,35,SOLD,loocasey
+Seattle Seahawks,33,SOLD,butchys_bounce_house
+Los Angeles Rams,31,SOLD,manngurdeep9
+New York Jets,32,SOLD,dmagicripz
+Washington Commanders,33,SOLD,manngurdeep9
+Pittsburgh Steelers,40,SOLD,cgoodwin65
+Detroit Lions,36,SOLD,moneymaack
+New England Patriots,34,SOLD,moneymaack
+New York Giants,38,SOLD,butchys_bounce_house
+Carolina Panthers,34,SOLD,moneymaack
+Denver Broncos,37,SOLD,loocasey
+Buffalo Bills,31,SOLD,moneymaack
+Arizona Cardinals,35,SOLD,rickyjones92598
+Indianapolis Colts,34,SOLD,bonafilia
+Philadelphia Eagles,40,SOLD,incognit0
+Jacksonville Jaguars,49,SOLD,incognit0
+Cleveland Browns,42,SOLD,incognit0
+Las Vegas Raiders,42,SOLD,rickyjones92598
+Los Angeles Chargers,42,SOLD,incognit0
+Miami Dolphins,35,SOLD,bonafilia
+MISC,56,SOLD,manngurdeep9

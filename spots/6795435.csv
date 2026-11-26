@@ -1,33 +1,37 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+Kansas City Chiefs,170,SOLD,aj0309
+Arizona Cardinals,155,SOLD,salvadorzub
+Los Angeles Rams,155,SOLD,atb92
+New York Jets,135,SOLD,jdeegz
+New York Giants,105,SOLD,mshook09
+#6,125,SOLD,mshook09
+Buffalo Bills,150,SOLD,hatchburrito
+Minnesota Vikings,130,SOLD,mshook09
+Washington Commanders,135,SOLD,atb92
+Tampa Bay Buccaneers,135,SOLD,mshook09
+Green Bay Packers,185,SOLD,aj0309
+#12,165,SOLD,domnation20677
+#13,150,SOLD,salvadorzub
+New Orleans Saints,150,SOLD,salvadorzub
+Denver Broncos,140,SOLD,cagallagher
+Houston Texans,135,SOLD,hatchburrito
+Detroit Lions,140,SOLD,salvadorzub
+Cleveland Browns,137,SOLD,atb92
+Seattle Seahawks,150,SOLD,domnation20677
+Pittsburgh Steelers,147,SOLD,domnation20677
+#21,141,SOLD,patbea33440
+Cincinnati Bengals,157,SOLD,atb92
+Dallas Cowboys,165,SOLD,patbea33440
+Jacksonville Jaguars,145,SOLD,jasontan75548
+Philadelphia Eagles,109,SOLD,jdeegz
+Los Angeles Chargers,130,SOLD,wsuredsoxfan
+Carolina Panthers,150,SOLD,hatchburrito
+Baltimore Ravens,145,SOLD,atb92
+Indianapolis Colts,180,SOLD,domnation20677
+Atlanta Falcons,240,SOLD,fanup
+Las Vegas Raiders,236,SOLD,domnation20677
+San Francisco 49ers,180,SOLD,patbea33440
+Miami Dolphins,230,SOLD,patbea33440
+Tennessee Titans,275,SOLD,patbea33440
+Chicago Bears,285,SOLD,patbea33440
+New England Patriots,310,SOLD,hatchburrito
