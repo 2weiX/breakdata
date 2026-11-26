@@ -1,2 +1,3 @@
 spot,price,state,buyer
-#1,1,OPEN,
+#1,6,SOLD,py420
+#2,1,OPEN,

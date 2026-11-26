@@ -3,11 +3,11 @@ Jermod McCoy (RC) - Las Vegas Raiders,49.5,SOLD,theflipau
 Bo Jackson - Los Angeles Raiders,53,SOLD,theflipau
 Cincinnati Bengals Others - Cincinnati Bengals,56,SOLD,instabruz
 Lamar Jackson - Baltimore Ravens,48,SOLD,ashbutler1
-Brian Thomas Jr. - Jacksonville Jaguars,62,SOLD,bigloges19
+#5,62,SOLD,bigloges19
 #6,59,SOLD,duwaynehar
 Jalen Hurts - Philadelphia Eagles,60,SOLD,bigloges19
-Colston Loveland - Chicago Bears,52,SOLD,ashbutler1
-"Deontae Lawson (RC) - Philadelphia Eagles, Drew Allar (RC) - Pittsburgh Steelers",71,SOLD,whatcouldpossiblygowrong
+#8,52,SOLD,ashbutler1
+Puka Nacua - Los Angeles Rams,71,SOLD,whatcouldpossiblygowrong
 Mike Washington Jr. (RC) - Las Vegas Raiders,70,SOLD,chiich_
 #11,63,SOLD,duwaynehar
 Amon-Ra St. Brown - Detroit Lions,65,SOLD,chiich_
@@ -20,9 +20,9 @@ Boomer Esiason - Cincinnati Bengals,63,SOLD,duwaynehar
 #19,60,SOLD,nezmond
 #20,65,SOLD,duwaynehar
 Malik Muhammad (RC) - Chicago Bears,55.8,SOLD,sainttiger
-Dawson Knox - Buffalo Bills,61,SOLD,instabruz
+Tacario Davis (RC) - Cincinnati Bengals,61,SOLD,instabruz
 Emmett Johnson (RC) - Kansas City Chiefs,60,SOLD,bigloges19
-Washington Commanders Others - Washington Commanders,66,SOLD,maxacardco
+#24,66,SOLD,maxacardco
 Omar Cooper Jr. (RC) - New York Jets,20,SOLD,chiich_
 Brock Purdy - San Francisco 49ers,62,SOLD,duwaynehar
 Carson Beck (RC) - Arizona Cardinals,59,SOLD,chiich_
@@ -36,13 +36,13 @@ Patrick Mahomes II - Kansas City Chiefs,36,SOLD,chiich_
 #35,39,SOLD,duwaynehar
 Alec Pierce - Indianapolis Colts,41,SOLD,john_portelli95
 Buffalo Bills Others - Buffalo Bills,37,SOLD,duwaynehar
-Kamari Lassiter - Houston Texans,55,SOLD,instabruz
+#38,55,SOLD,instabruz
 Tampa Bay Buccaneers Others - Tampa Bay Buccaneers,19.5,SOLD,kenny1236
 Oscar Delp (RC) - New Orleans Saints,57,SOLD,instabruz
 Las Vegas Raiders Others - Las Vegas Raiders,50,SOLD,chiich_
 Behren Morton (RC) - New England Patriots,58,SOLD,micraf06345
 Kyren Williams - Los Angeles Rams,25.5,SOLD,john_portelli95
-Daniel Jones - Indianapolis Colts,56,SOLD,whatcouldpossiblygowrong
+Brock Bowers - Las Vegas Raiders,56,SOLD,whatcouldpossiblygowrong
 #45,59,SOLD,bigloges19
 Ja'Kobi Lane (RC) - Baltimore Ravens,25.5,SOLD,philinn
 #47,57,SOLD,whatcouldpossiblygowrong
@@ -56,7 +56,7 @@ Joe Burrow - Cincinnati Bengals,58,SOLD,duwaynehar
 Roman Hemby (RC) - Las Vegas Raiders,40,SOLD,john_portelli95
 KC Concepcion (RC) - Cleveland Browns,51,SOLD,tomgil06
 Will Howard - Pittsburgh Steelers,37,SOLD,nezmond
-Dont'e Thornton Jr. - Las Vegas Raiders,51,SOLD,tomgil06
+Nick Singleton (RC) - Tennessee Titans,51,SOLD,tomgil06
 Bob Griese - Miami Dolphins,27,SOLD,maxob14
 #60,53,SOLD,kn1ghtcollects
 Derrick Henry - Baltimore Ravens / Tennessee Titans,50,SOLD,tomgil06
@@ -69,28 +69,236 @@ Terrell Suggs - Baltimore Ravens,53,SOLD,spemit15
 #68,43,SOLD,tomgil06
 Tez Johnson - Tampa Bay Buccaneers,45,SOLD,bigloges19
 Kurt Warner - Arizona Cardinals / St. Louis Rams,43,SOLD,kn1ghtcollects
-Nick Singleton (RC) - Tennessee Titans,26.4,SOLD,whatsupdoc2306
+Bo Nix - Denver Broncos,26.4,SOLD,whatsupdoc2306
 Peyton Manning - Indianapolis Colts,51,SOLD,john_portelli95
 Jonathan Taylor - Indianapolis Colts,39,SOLD,luckylocky
 Kendrick Law (RC) - Detroit Lions,51,SOLD,tomgil06
-Malachi Lawrence (RC) - Dallas Cowboys,36,SOLD,billykoi
-Jim Kelly - Buffalo Bills,28,SOLD,kn1ghtcollects
+#75,36,SOLD,billykoi
+#76,28,SOLD,kn1ghtcollects
 #77,50,SOLD,tomgil06
 Deion Burks (RC) - Indianapolis Colts,40,SOLD,billykoi
 Jacory Croskey-Merritt - Washington Commanders,50,SOLD,john_portelli95
 CeeDee Lamb - Dallas Cowboys,53,SOLD,tomgil06
-Cooper Kupp - Seattle Seahawks,53,SOLD,maxacardco
+Calvin Ridley - Tennessee Titans,53,SOLD,maxacardco
 Shedeur Sanders - Cleveland Browns,50,SOLD,dos23
 CJ Stroud - Houston Texans,45,SOLD,zouhan97
 Tyler Warren - Indianapolis Colts,40,SOLD,tomgil06
 Caleb Williams - Chicago Bears,31,SOLD,dos23
 Kenyon Sadiq (RC) - New York Jets,50,SOLD,tomgil06
-Jacob Rodriguez (RC) - Miami Dolphins,40,SOLD,tomgil06
+#87,40,SOLD,tomgil06
 Saquon Barkley - New York Giants / Philadelphia Eagles,50,SOLD,whatcouldpossiblygowrong
-New York Jets Others - New York Jets,51,SOLD,billykoi
+Micah Parsons - Green Bay Packers,51,SOLD,billykoi
 Rhamondre Stevenson - New England Patriots,54,SOLD,tomgil06
 Peter Woods (RC) - Kansas City Chiefs,39,SOLD,chiich_
-New Orleans Saints Others - New Orleans Saints,33,SOLD,whatsupdoc2306
+Barry Sanders - Detroit Lions,33,SOLD,whatsupdoc2306
 #93,34,SOLD,whatsupdoc2306
 Jared Goff - Detroit Lions / Los Angeles Rams,53,SOLD,kn1ghtcollects
-Trey Hendrickson - Baltimore Ravens,33,SOLD,whatsupdoc2306
+#95,33,SOLD,whatsupdoc2306
+#96,33.3,SOLD,kn1ghtcollects
+Chris Bell (RC) - Miami Dolphins,50,SOLD,blockblock
+Devon Witherspoon - Seattle Seahawks,21,SOLD,whatsupdoc2306
+Elijah Sarratt (RC) - Baltimore Ravens,36,SOLD,stomptradingcards
+#100,32,SOLD,whatsupdoc2306
+Ja'Marr Chase - Cincinnati Bengals,50,SOLD,whatcouldpossiblygowrong
+Trey McBride - Arizona Cardinals,27,SOLD,whatsupdoc2306
+#103,31,SOLD,chiich_
+Ashton Jeanty - Las Vegas Raiders,31,SOLD,kn1ghtcollects
+#105,34,SOLD,biggino73
+Marlin Klein (RC) - Houston Texans,33,SOLD,biggino73
+John Riggins - Washington Redskins,26,SOLD,spemit15
+Maurice Jones-Drew - Jacksonville Jaguars,26,SOLD,rapliam
+Denzel Boston (RC) - Cleveland Browns,33,SOLD,whatsupdoc2306
+Jake Slaughter (RC) - Los Angeles Chargers,33,SOLD,micraf06345
+Joe Royer (RC) - Cleveland Browns,33,SOLD,nirvanathebandshow
+Kaelon Black (RC) - San Francisco 49ers,35,SOLD,willypeak
+#113,46.8,SOLD,kn1ghtcollects
+Jaxon Smith-Njigba - Seattle Seahawks,41,SOLD,chiich_
+#115,50,SOLD,micraf06345
+#116,50,SOLD,whatcouldpossiblygowrong
+Bryce Lance (RC) - New Orleans Saints,39,SOLD,spemit15
+#118,51,SOLD,kn1ghtcollects
+Deion Sanders - Atlanta Falcons,37,SOLD,dean33828
+Jalon Kilgore (RC) - Buffalo Bills,41,SOLD,dean33828
+#121,43,SOLD,dean33828
+Aaron Rodgers - Pittsburgh Steelers,40,SOLD,whatcouldpossiblygowrong
+#123,30,SOLD,whatcouldpossiblygowrong
+Cam Ward - Tennessee Titans,39,SOLD,john_portelli95
+Seattle Seahawks Others - Seattle Seahawks,25,SOLD,goodcard_collecting
+Michael Wilson - Arizona Cardinals,39,SOLD,john_portelli95
+Genesis Smith (RC) - Los Angeles Chargers,38,SOLD,michaelowe73685
+Carolina Panthers Others - Carolina Panthers,36,SOLD,nirvanathebandshow
+Bryce Young - Carolina Panthers,41,SOLD,john_portelli95
+Darrelle Revis - New York Jets,42,SOLD,michaelowe73685
+#131,53,SOLD,tomgil06
+Germie Bernard (RC) - Pittsburgh Steelers,54,SOLD,itsjeddy23
+#133,50,SOLD,whatcouldpossiblygowrong
+#134,38,SOLD,biggino73
+#135,32,SOLD,whatsupdoc2306
+Ty Simpson (RC) - Los Angeles Rams,51,SOLD,tomgil06
+Washington Commanders Others - Washington Commanders,31,SOLD,nzneeks86
+#138,36,SOLD,nzneeks86
+Von Miller - Denver Broncos,18,SOLD,willypeak
+Chase Bisontis (RC) - Arizona Cardinals,34,SOLD,victording88
+Josh Allen - Buffalo Bills,43,SOLD,bigloges19
+Christian McCaffrey - Carolina Panthers / San Francisco 49ers,50,SOLD,bigloges19
+Luke Kuechly - Carolina Panthers,50,SOLD,gregkil03862
+Anthony Munoz - Cincinnati Bengals,38,SOLD,victording88
+Keldric Faulk (RC) - Tennessee Titans,37,SOLD,hunter35778
+#146,39,SOLD,victording88
+Jaxson Dart - New York Giants,39,SOLD,victording88
+Sonny Styles (RC) - Washington Commanders,37,SOLD,biggino73
+Mike Singletary - Chicago Bears,38,SOLD,spemit15
+Eric Allen - Philadelphia Eagles,39,SOLD,sainttiger
+#151,35,SOLD,whatsupdoc2306
+Trey Hendrickson - Baltimore Ravens,18,SOLD,goodcard_collecting
+Caleb Douglas (RC) - Miami Dolphins,27,SOLD,micraf06345
+Arizona Cardinals Others - Arizona Cardinals,28.8,SOLD,goodcard_collecting
+Tetairoa McMillan - Carolina Panthers,30,SOLD,paulhoop1731129
+Minnesota Vikings Others - Minnesota Vikings,26,SOLD,paulhoop1731129
+#157,30,SOLD,chiich_
+Denver Broncos Others - Denver Broncos,20,SOLD,paulhoop1731129
+Jayden Daniels - Washington Commanders,32,SOLD,chiich_
+Jacob Rodriguez (RC) - Miami Dolphins,26,SOLD,gr_wheels
+Brian Dawkins - Philadelphia Eagles,26,SOLD,luckylocky
+Andre Johnson - Houston Texans,29,SOLD,tomgil06
+Emeka Egbuka - Tampa Bay Buccaneers,53,SOLD,tomgil06
+#164,32.4,SOLD,paulhoop1731129
+#165,30,SOLD,whatcouldpossiblygowrong
+Joe Montana - San Francisco 49ers,32,SOLD,whatsupdoc2306
+#167,34,SOLD,john_portelli95
+Rob Gronkowski - New England Patriots,50,SOLD,ashbutler1
+#169,31,SOLD,whatsupdoc2306
+Jalon Daniels (RC) - Tampa Bay Buccaneers,41,SOLD,dean33828
+#171,40,SOLD,dos23
+Jim Kelly - Buffalo Bills,57,SOLD,chicobean15
+Justin Jefferson - Minnesota Vikings,56,SOLD,whatcouldpossiblygowrong
+Luther Burden III - Chicago Bears,45,SOLD,dos23
+#175,58,SOLD,whatcouldpossiblygowrong
+Jayden Higgins - Houston Texans,36,SOLD,degenbreaks123
+Tyler Shough - New Orleans Saints,50,SOLD,gregkil03862
+Drew Allar (RC) - Pittsburgh Steelers,38,SOLD,kapitantutan69
+Chris Brazzell II (RC) - Carolina Panthers,36,SOLD,degenbreaks123
+Steve Young - San Francisco 49ers,36,SOLD,chiich_
+Chicago Bears Others - Chicago Bears,36,SOLD,victording88
+#182,39,SOLD,rapliam
+#183,33,SOLD,cjt2026
+#184,37,SOLD,cjt2026
+Joe Flacco - Baltimore Ravens,35,SOLD,riewoldt23
+Dante Hall - Kansas City Chiefs,39,SOLD,dos23
+#187,32,SOLD,whatsupdoc2306
+Justin Herbert - Los Angeles Chargers,33,SOLD,riewoldt23
+Nico Collins - Houston Texans,48.6,SOLD,paulhoop1731129
+Drew Brees - New Orleans Saints,54,SOLD,kapitantutan69
+#191,52,SOLD,cjt2026
+#192,34,SOLD,chiich_
+#193,33,SOLD,whatsupdoc2306
+#194,33,SOLD,cjt2026
+Baltimore Ravens Others - Baltimore Ravens,34,SOLD,chiich_
+Josh Cameron (RC) - Jacksonville Jaguars,31,SOLD,kapitantutan69
+Jerry Rice - San Francisco 49ers,33,SOLD,cjt2026
+#198,50,SOLD,dos23
+#199,40,SOLD,whatcouldpossiblygowrong
+Kaleb Johnson - Pittsburgh Steelers,32,SOLD,cjt2026
+Rod Woodson - Pittsburgh Steelers,25,SOLD,zouhan97
+Edgerrin Cooper - Green Bay Packers,29,SOLD,gregkil03862
+#203,33,SOLD,chiich_
+#204,30,SOLD,john_portelli95
+Tony Romo - Dallas Cowboys,25,SOLD,kapitantutan69
+Tony Gonzalez - Atlanta Falcons,30,SOLD,john_portelli95
+Atlanta Falcons Others - Atlanta Falcons,27,SOLD,keegsmate22
+David Bailey (RC) - New York Jets,32,SOLD,whatsupdoc2306
+Kyle Hamilton - Baltimore Ravens,27,SOLD,keegsmate22
+Malik Nabers - New York Giants,26,SOLD,chiich_
+#211,25,SOLD,kapitantutan69
+#212,26,SOLD,whatsupdoc2306
+Eli Raridon (RC) - New England Patriots,26,SOLD,cjt2026
+#214,28,SOLD,whatsupdoc2306
+Jake Golday (RC) - Minnesota Vikings,27,SOLD,jay_dee07
+Warren Sapp - Tampa Bay Buccaneers,23.4,SOLD,jessefitz273
+Larry Fitzgerald - Arizona Cardinals,23,SOLD,bigjelly1
+Pat Surtain II - Denver Broncos,31,SOLD,chiich_
+Christian Gonzalez - New England Patriots,24,SOLD,dbirko27
+Warren Moon - Houston Oilers,24,SOLD,cjt2026
+Taysom Hill - New Orleans Saints,24,SOLD,kapitantutan69
+#222,25,SOLD,kapitantutan69
+Green Bay Packers Others - Green Bay Packers,50,SOLD,gregkil03862
+Troy Polamalu - Pittsburgh Steelers,25,SOLD,cjt2026
+#225,27,SOLD,jessefitz273
+Dawson Knox - Buffalo Bills,18,SOLD,spemit15
+#227,20,SOLD,bigjelly1
+#228,26,SOLD,maxacardco
+#229,12,SOLD,whatsupdoc2306
+Caleb Banks (RC) - Minnesota Vikings,27,SOLD,micraf06345
+#231,25,SOLD,riewoldt23
+Dan Marino - Miami Dolphins,24.3,SOLD,goldenchasecards
+#233,28,SOLD,goldenchasecards
+Zakee Wheatley (RC) - Carolina Panthers,32,SOLD,goldenchasecards
+Nick Emmanwori - Seattle Seahawks,31,SOLD,dbirko27
+Eli Stowers (RC) - Philadelphia Eagles,24,SOLD,stomptradingcards
+Drake London - Atlanta Falcons,27,SOLD,stomptradingcards
+Colston Loveland - Chicago Bears,25,SOLD,gr_wheels
+Terry McLaurin - Washington Commanders,26,SOLD,bigbiffa9
+Max Klare (RC) - Los Angeles Rams,27,SOLD,stomptradingcards
+Josh Jacobs - Green Bay Packers,27,SOLD,goldenchasecards
+AJ Barner - Seattle Seahawks,30,SOLD,stomptradingcards
+#243,28,SOLD,goldenchasecards
+#244,27,SOLD,bigbiffa9
+Chase Brown - Cincinnati Bengals,28,SOLD,stomptradingcards
+Zay Flowers - Baltimore Ravens,28,SOLD,whatsupdoc2306
+#247,27,SOLD,goldenchasecards
+Domani Jackson (RC) - Green Bay Packers,26,SOLD,dos23
+Alvin Kamara - New Orleans Saints,25,SOLD,gr_wheels
+New York Giants Others - New York Giants,34,SOLD,nm5553
+San Francisco 49ers Others - San Francisco 49ers,20,SOLD,whatsupdoc2306
+Caleb Lomu (RC) - New England Patriots,30,SOLD,paulhoop1731129
+Malachi Lawrence (RC) - Dallas Cowboys,34,SOLD,reedaniel96719
+Sean Taylor - Washington Redskins,25,SOLD,whatsupdoc2306
+#255,27,SOLD,levilav
+Dak Prescott - Dallas Cowboys,24.3,SOLD,cardplugco
+#257,27,SOLD,levilav
+CJ Allen (RC) - Indianapolis Colts,26,SOLD,dos23
+Justin Joly (RC) - Denver Broncos,16.2,SOLD,dossyripz
+Michael Vick - Atlanta Falcons,27,SOLD,cardplugco
+#261,30,SOLD,goldenchasecards
+Malachi Fields (RC) - New York Giants,27,SOLD,levilav
+#263,27,SOLD,cardplugco
+#264,23,SOLD,bigbiffa9
+Brian Westbrook - Philadelphia Eagles,22,SOLD,whatsupdoc2306
+Fred Warner - San Francisco 49ers,21,SOLD,dbirko27
+Ted Hurst (RC) - Tampa Bay Buccaneers,22,SOLD,micraf06345
+Colbie Young (RC) - Cincinnati Bengals,20.7,SOLD,gr_wheels
+Steve Largent - Seattle Seahawks,23,SOLD,chiich_
+Kenneth Walker III - Kansas City Chiefs / Seattle Seahawks,22,SOLD,dos23
+#271,21,SOLD,whatsupdoc2306
+#272,23,SOLD,goldenchasecards
+Avieon Terrell (RC) - Atlanta Falcons,22,SOLD,braxtonjac20526
+William Perry - Chicago Bears,22,SOLD,micraf06345
+#275,23,SOLD,goldenchasecards
+Detroit Lions Others - Detroit Lions,23,SOLD,jessefitz273
+LeSean McCoy - Buffalo Bills,23,SOLD,paulhoop1731129
+Archie Manning - New Orleans Saints,21,SOLD,whatsupdoc2306
+Tennessee Titans Others - Tennessee Titans,24,SOLD,dean33828
+Miller Moss (RC) - Chicago Bears,25,SOLD,dean33828
+Tyreek Hill - Kansas City Chiefs,26,SOLD,dean33828
+Jack Endries (RC) - Cincinnati Bengals,30,SOLD,dean33828
+Colton Hood (RC) - New York Giants,35,SOLD,dean33828
+Anthony Hill Jr. (RC) - Tennessee Titans,31,SOLD,dean33828
+#285,24.3,SOLD,grilly13
+James Lofton - Green Bay Packers,27,SOLD,grilly13
+Carson Schwesinger - Cleveland Browns,18,SOLD,doubledcollectables
+Indianapolis Colts Others - Indianapolis Colts,32,SOLD,doubledcollectables
+Keon Coleman - Buffalo Bills,22,SOLD,doubledcollectables
+Adam Randall (RC) - Baltimore Ravens,29,SOLD,cjt2026
+Eric Dickerson - Los Angeles Rams,26,SOLD,reice886
+Sam Darnold - New York Jets / Seattle Seahawks,24,SOLD,whatsupdoc2306
+Art Monk - Washington Commanders / Washington Redskins,23,SOLD,cjt2026
+#294,31,SOLD,grilly13
+LeRoy Butler - Green Bay Packers,36,SOLD,doubledcollectables
+Pat Tillman - Arizona Cardinals,31.5,SOLD,doubledcollectables
+Philadelphia Eagles Others - Philadelphia Eagles,27,SOLD,roc1993
+Mansoor Delane (RC) - Kansas City Chiefs,27,SOLD,stearnes
+Dez Bryant - Dallas Cowboys,27,SOLD,nm5553
+RJ Harvey - Denver Broncos,27,SOLD,bcbrewcrew
+Cornelius Bennett - Buffalo Bills,28,SOLD,suli21
+Howie Long - Los Angeles Raiders,29,SOLD,whatsupdoc2306
+#303,1,OPEN,

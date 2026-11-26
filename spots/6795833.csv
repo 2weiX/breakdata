@@ -3,7 +3,7 @@ spot,price,state,buyer
 Buffalo Bills,550,SOLD,vegasmann
 #3,510,SOLD,vegasmann
 #4,310,SOLD,vegasmann
-Cleveland Browns,510,SOLD,vegasmann
+#5,510,SOLD,vegasmann
 New England Patriots,550,SOLD,vegasmann
 Pittsburgh Steelers,531,SOLD,vegasmann
 Dallas Cowboys,531,SOLD,vegasmann
@@ -31,7 +31,7 @@ Denver Broncos,400,SOLD,incognit0
 #30,410,SOLD,incognit0
 San Francisco 49ers,391,SOLD,bigtsprad
 #32,395,SOLD,bigtsprad
-#33,405,SOLD,thagingersniper
+Cleveland Browns,405,SOLD,thagingersniper
 #34,400,SOLD,thagingersniper
 #35,385,SOLD,bigtsprad
 Miami Dolphins,370,SOLD,thagingersniper
@@ -54,4 +54,6 @@ Carolina Panthers,93,SOLD,hobbybobby_22
 Tampa Bay Buccaneers,79,SOLD,lemonhnl
 New Orleans Saints,15,SOLD,juliangluis
 Seattle Seahawks,50,SOLD,jakebusc
-#56,1,OPEN,
+Atlanta Falcons,65,SOLD,hobbybobby_22
+Tennessee Titans,42,SOLD,himlong
+"Indianapolis Colts, New York Jets",30,SOLD,hobbybobby_22
