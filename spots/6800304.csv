@@ -1,34 +1,27 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-Miscellaneous,,OPEN,
+Arizona Cardinals,16,SOLD,cash112011
+Baltimore Ravens,12,SOLD,cash112011
+Buffalo Bills,14,SOLD,mitcht218
+Carolina Panthers,14,SOLD,dennisrebecka
+Chicago Bears,16,SOLD,dennisrebecka
+Cleveland Browns,14,SOLD,kriech42
+Dallas Cowboys,12,SOLD,dennisrebecka
+Denver Broncos,17,SOLD,nmcardshop
+Detroit Lions,16,SOLD,nmcardshop
+Houston Texans,14,SOLD,kriech42
+Indianapolis Colts,16,SOLD,nmcardshop
+Jacksonville Jaguars,14,SOLD,uperdecpoooches
+Kansas City Chiefs,12,SOLD,mitcht218
+Las Vegas Raiders,13,SOLD,instagone
+Los Angeles Chargers,7,SOLD,cash112011
+Los Angeles Rams,15,SOLD,cash112011
+Minnesota Vikings,11,SOLD,uperdecpoooches
+New England Patriots,19,SOLD,chadgdog
+New York Giants,20,SOLD,chadgdog
+New York Jets,19,SOLD,wayne1202
+Philadelphia Eagles,15,SOLD,uperdecpoooches
+Pittsburgh Steelers,13,SOLD,mitcht218
+Seattle Seahawks,23,SOLD,blueyes723
+Tampa Bay Buccaneers,13,SOLD,nmcardshop
+Washington Commanders,20,SOLD,dennisrebecka
+#26,1,OPEN,

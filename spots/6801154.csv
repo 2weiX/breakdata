@@ -1,34 +1,41 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-Miscellaneous,,OPEN,
+Arizona Cardinals,57,SOLD,mjskradski
+Atlanta Falcons,145,SOLD,jospla96361
+Baltimore Ravens,165,SOLD,barndog_67
+Buffalo Bills,166,SOLD,jospla96361
+Carolina Panthers,144,SOLD,amgsportsrips
+Chicago Bears,171,SOLD,kuest
+Cincinnati Bengals,149,SOLD,jospla96361
+Cleveland Browns,110,SOLD,kuest
+Dallas Cowboys,156,SOLD,hoffdogg701
+Denver Broncos,156,SOLD,kuest
+Detroit Lions,140,SOLD,friendswood_card_shop
+Green Bay Packers,194,SOLD,barndog_67
+Houston Texans,66,SOLD,mjskradski
+Indianapolis Colts,50,SOLD,jospla96361
+Jacksonville Jaguars,65,SOLD,friendswood_card_shop
+Kansas City Chiefs,102,SOLD,jospla96361
+Las Vegas Raiders,117,SOLD,jospla96361
+Los Angeles Chargers,177,SOLD,camostan88
+Los Angeles Rams,160,SOLD,hoffdogg701
+Miami Dolphins,54,SOLD,mjskradski
+Minnesota Vikings,141,SOLD,kingnothing_84
+New England Patriots,220,SOLD,kuest
+New Orleans Saints,200,SOLD,jospla96361
+New York Giants,205,SOLD,jospla96361
+New York Jets,151,SOLD,jeremygar66991
+Philadelphia Eagles,105,SOLD,jospla96361
+Pittsburgh Steelers,155,SOLD,friendswood_card_shop
+San Francisco 49ers,111,SOLD,sheistycards
+Seattle Seahawks,69,SOLD,kylelem207
+Tampa Bay Buccaneers,64,SOLD,jospla96361
+Tennessee Titans,65,SOLD,hoffdogg701
+Washington Commanders,151,SOLD,amgsportsrips
+Miscellaneous,136,SOLD,kuest
+#2,162,SOLD,kuest
+#6,165,SOLD,kuest
+#10,165,SOLD,jospla96361
+#13,130,SOLD,jospla96361
+#18,135,SOLD,hoffdogg701
+#23,165,SOLD,barndog_67
+#30,126,SOLD,jospla96361

@@ -1,33 +1,24 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+Arizona Cardinals,22,SOLD,himirhey
+Baltimore Ravens,70,SOLD,mjb_222
+Carolina Panthers,28,SOLD,chino18025
+Chicago Bears,35,SOLD,fisterer12619
+Cincinnati Bengals,49,SOLD,chino18025
+Cleveland Browns,21,SOLD,chino18025
+Dallas Cowboys,21,SOLD,fisterer12619
+Denver Broncos,24,SOLD,cash112011
+Green Bay Packers,51,SOLD,fisterer12619
+Jacksonville Jaguars,37,SOLD,fisterer12619
+Kansas City Chiefs,26,SOLD,chino18025
+Los Angeles Chargers,34,SOLD,muhrda86
+Los Angeles Rams,43,SOLD,chino18025
+Miami Dolphins,53,SOLD,chino18025
+Minnesota Vikings,30,SOLD,fisterer12619
+New England Patriots,49,SOLD,chino18025
+New York Giants,19,SOLD,fisterer12619
+New York Jets,18,SOLD,nmsasquatch
+Tampa Bay Buccaneers,44,SOLD,fisterer12619
+Tennessee Titans,32,SOLD,fisterer12619
+Washington Commanders,68,SOLD,fisterer12619
+#1,18,SOLD,lefchris69970
+"Atlanta Falcons, Buffalo Bills, Detroit Lions, Houston Texans, Indianapolis Colts, Las Vegas Raiders, New Orleans Saints, Philadelphia Eagles, Pittsburgh Steelers, San Francisco 49ers, Seattle Seahawks",3,SOLD,cmcd0821

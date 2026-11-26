@@ -1,65 +1,32 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-CARDINALS CHASER,,OPEN,
-FALCONS CHASER,,OPEN,
-RAVENS CHASER,,OPEN,
-BILLS CHASER,,OPEN,
-PANTHERS CHASER,,OPEN,
-BEARS CHASER,,OPEN,
-BENGALS CHASER,,OPEN,
-BROWNS CHASER,,OPEN,
-COWBOYS CHASER,,OPEN,
-BRONCOS CHASER,,OPEN,
-LIONS CHASER,,OPEN,
-PACKERS CHASER,,OPEN,
-TEXANS CHASER,,OPEN,
-COLTS CHASER,,OPEN,
-JAGUARS CHASER,,OPEN,
-CHIEFS CHASER,,OPEN,
-RAIDERS CHASER,,OPEN,
-CHARGERS CHASER,,OPEN,
-RAMS CHASER,,OPEN,
-DOLPHINS CHASER,,OPEN,
-VIKINGS CHASER,,OPEN,
-PATRIOTS CHASER,,OPEN,
-SAINTS CHASER,,OPEN,
-GIANTS CHASER,,OPEN,
-JETS CHASER,,OPEN,
-EAGLES CHASER,,OPEN,
-STEELERS CHASER,,OPEN,
-49ERS CHASER,,OPEN,
-SEAHAWKS CHASER,,OPEN,
-BUCS CHASER,,OPEN,
-TITANS CHASER,,OPEN,
-COMMANDERS CHASER,,OPEN,
+Arizona Cardinals,11,SOLD,trevorj35
+Atlanta Falcons,6,SOLD,patthib34
+Chicago Bears,7,SOLD,og_bus
+Cleveland Browns,5,SOLD,dustemall41
+Detroit Lions,5,SOLD,patthib34
+Houston Texans,5,SOLD,klinefindz
+Los Angeles Chargers,10,SOLD,trevorj35
+Los Angeles Rams,7,SOLD,kato49
+Miami Dolphins,4,SOLD,travishof
+Minnesota Vikings,7,SOLD,volnationbreaks
+New England Patriots,3,SOLD,og_bus
+New Orleans Saints,9,SOLD,trevorj35
+Philadelphia Eagles,6,SOLD,patthib34
+Pittsburgh Steelers,1,SOLD,travishof
+Seattle Seahawks,11,SOLD,trevorj35
+Washington Commanders,5,SOLD,dustemall41
+CARDINALS CHASER,6,SOLD,volnationbreaks
+FALCONS CHASER,5,SOLD,trevorj35
+RAVENS CHASER,1,SOLD,og_bus
+PANTHERS CHASER,7,SOLD,wesleyvys
+BEARS CHASER,8,SOLD,trevorj35
+BENGALS CHASER,7,SOLD,kato49
+BRONCOS CHASER,5,SOLD,dustemall41
+LIONS CHASER,5,SOLD,klinefindz
+PACKERS CHASER,8,SOLD,og_bus
+CHARGERS CHASER,6,SOLD,klinefindz
+DOLPHINS CHASER,8,SOLD,patthib34
+SAINTS CHASER,5,SOLD,dustemall41
+GIANTS CHASER,6,SOLD,patthib34
+STEELERS CHASER,1,SOLD,tylerher53536
+#31,1,OPEN,
