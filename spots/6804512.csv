@@ -1,7 +1,6 @@
 spot,price,state,buyer
 Arizona Cardinals,34,OPEN,
 Atlanta Falcons,11,OPEN,
-Baltimore Ravens,25,OPEN,
 Buffalo Bills,27,OPEN,
 Carolina Panthers,16,OPEN,
 Chicago Bears,21,SOLD,benwood36812
@@ -22,7 +21,6 @@ Miami Dolphins,16,OPEN,
 Minnesota Vikings,11,OPEN,
 New England Patriots,32,OPEN,
 New Orleans Saints,21,OPEN,
-New York Giants,25,OPEN,
 New York Jets,21,OPEN,
 Philadelphia Eagles,23,OPEN,
 Pittsburgh Steelers,17,OPEN,
@@ -31,3 +29,4 @@ Seattle Seahawks,15,OPEN,
 Tampa Bay Buccaneers,14,SOLD,cardfusion67
 Tennessee Titans,23,OPEN,
 Washington Commanders,21,OPEN,
+New York Giants,25,SOLD,orkneybowl
