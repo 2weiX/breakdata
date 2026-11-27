@@ -1,30 +1,25 @@
 spot,price,state,buyer
-Arizona Cardinals,60,OPEN,
 Atlanta Falcons,18,SOLD,codered1111
-Baltimore Ravens,30,OPEN,
 Buffalo Bills,40,SOLD,mattbel56581
 Chicago Bears,45,SOLD,nccards92
 Cincinnati Bengals,30,SOLD,adamyoung2125
-Cleveland Browns,50,OPEN,
 Dallas Cowboys,45,SOLD,fourth_andgoal_finisher
 Denver Broncos,30,SOLD,sdmfberzerker
 Detroit Lions,19,SOLD,dustemall41
-Houston Texans,25,OPEN,
 Jacksonville Jaguars,20,SOLD,jollyrancher88
 Las Vegas Raiders,80,SOLD,rikkrokk
-Los Angeles Chargers,25,OPEN,
+Los Angeles Chargers,17.5,SOLD,crazygs
 Los Angeles Rams,40,SOLD,fourth_andgoal_finisher
 Miami Dolphins,13,SOLD,tvermote
 New England Patriots and giants ,80,SOLD,tarheel5023
-New Orleans Saints,50,OPEN,
-Philadelphia Eagles,50,OPEN,
+New Orleans Saints,35,SOLD,robrobertf
 Pittsburgh Steelers,35,SOLD,fam1st85
 "San Francisco 49ers,",20,SOLD,fourth_andgoal_finisher
 Seattle Seahawks,19,SOLD,paradisehits808
-Tampa Bay Buccaneers,30,OPEN,
 Tennessee Titans,35,SOLD,dodger559
 Washington Commanders and jets,70,SOLD,jollyrancher88
 INDIANAPOLIS COLTS,25,SOLD,ryanfra23681
-KANSAS CITY CHIEFS,50,OPEN,
 Carolina Panthers and vikings,40,SOLD,tarheel5023
 Green Bay Packers,20,SOLD,crazygs
+"Arizona Cardinals, ravens, browns",90,SOLD,faetheglhf
+"Houston Texans, eagles, buccaneers, chiefs",90,SOLD,faetheglhf

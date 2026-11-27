@@ -1,15 +1,15 @@
 spot,price,state,buyer
-Arizona Cardinals,100,OPEN,
-Atlanta Falcons,40,OPEN,
-Baltimore Ravens,60,OPEN,
-Carolina Panthers,50,OPEN,
-Denver Broncos,70,OPEN,
-Jacksonville Jaguars,40,OPEN,
+Arizona Cardinals,70,SOLD,toymaker90
+Atlanta Falcons,25,SOLD,snotboogy_itsokimj
+Baltimore Ravens,45,SOLD,toymaker90
+Carolina Panthers,35,SOLD,jerseybreaksllc
+Denver Broncos,49,SOLD,kyje9993
+Jacksonville Jaguars,28,SOLD,smitman74
 Los Angeles Chargers,40,OPEN,
-Minnesota Vikings,60,OPEN,
-New Orleans Saints,90,OPEN,
+Minnesota Vikings,60,SOLD,bdubz7575
+New Orleans Saints,60,SOLD,bdubz7575
 Pittsburgh Steelers,60,OPEN,
-Seattle Seahawks,85,OPEN,
+Seattle Seahawks,55,SOLD,kyje9993
 Tennessee Titans,80,OPEN,
 Green Bay Packers,43,SOLD,wed33
 Indianapolis Colts,25,SOLD,wed33

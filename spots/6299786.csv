@@ -2,8 +2,6 @@ spot,price,state,buyer
 #1,1,OPEN,
 #2,1,OPEN,
 #3,1,OPEN,
-#4,1,OPEN,
-#5,1,OPEN,
 #6,1,OPEN,
 #7,1,OPEN,
 #8,1,OPEN,
@@ -17,11 +15,9 @@ Pittsburgh Steelers,1,SOLD,bigmike106
 #16,1,OPEN,
 #17,1,OPEN,
 #18,1,OPEN,
-#19,1,OPEN,
 #20,1,OPEN,
 #21,1,OPEN,
 #22,1,OPEN,
-#23,1,OPEN,
 #24,1,OPEN,
 #25,1,OPEN,
 #26,1,OPEN,
@@ -30,3 +26,7 @@ Pittsburgh Steelers,1,SOLD,bigmike106
 #29,1,OPEN,
 #30,1,OPEN,
 #31,1,OPEN,
+Cleveland Browns,1,SOLD,bigmike106
+Las Vegas Raiders,1,SOLD,bigmike106
+Dallas Cowboys,1,SOLD,bigmike106
+Los Angeles Chargers,1,SOLD,bigmike106

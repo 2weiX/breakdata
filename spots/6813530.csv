@@ -1,33 +1,25 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+Arizona Cardinals,15,SOLD,jasonsmi62998
+Baltimore Ravens,7,SOLD,timbryant
+Buffalo Bills,15,SOLD,jasonsmi62998
+Carolina Panthers,9,SOLD,bronco901
+Chicago Bears,8,SOLD,timstr49260
+Denver Broncos,20,SOLD,bronco901
+Houston Texans,9,SOLD,1justme
+Indianapolis Colts,10,SOLD,matt49team
+Los Angeles Chargers,20,SOLD,matt49team
+Minnesota Vikings,9,SOLD,timstr49260
+New Orleans Saints,9,SOLD,1justme
+New York Jets,8,SOLD,timbryant
+Pittsburgh Steelers,7,SOLD,timbryant
+San Francisco 49ers,11,SOLD,1justme
+Seattle Seahawks,17,SOLD,jasonsmi62998
+Tampa Bay Buccaneers,12,SOLD,timbryant
+"Green Bay Packers, Miami Dolphins",28,SOLD,jasonsmi62998
+"Dallas Cowboys, New York Giants",14,SOLD,jasonsmi62998
+"Detroit Lions, New England Patriots",12,SOLD,timbryant
+"Cincinnati Bengals, Las Vegas Raiders",9,SOLD,bronco901
+"Atlanta Falcons, Tennessee Titans",22,SOLD,1justme
+"Cleveland Browns, Washington Commanders",19,SOLD,t3_golf_co
+"Jacksonville Jaguars, Kansas City Chiefs",17,SOLD,t3_golf_co
+"Los Angeles Rams, Philadelphia Eagles",15,SOLD,t3_golf_co

@@ -1,5 +1,5 @@
 spot,price,state,buyer
-Arizona Cardinals/ BIG 12 and All Other Colleges,5,OPEN,
+Arizona Cardinals/ BIG 12 and All Other Colleges,5,SOLD,jamiebfc
 Atlanta Falcons,2,OPEN,
 Baltimore Ravens,4,OPEN,
 Buffalo Bills,4,SOLD,clarkson46
@@ -13,7 +13,7 @@ Detroit Lions,4,OPEN,
 Green Bay Packers,2,SOLD,gardenshed32
 Houston Texans,3,OPEN,
 Indianapolis Colts,1,OPEN,
-Jacksonville Jaguars/ ACC + Notre Dame,4,OPEN,
+Jacksonville Jaguars/ ACC + Notre Dame,4,SOLD,jamiebfc
 Kansas City Chiefs,2,SOLD,gardenshed32
 Las Vegas Raiders/Oakland Raiders/SEC Teams,4,SOLD,bjam1986
 Los Angeles Chargers/ SD Chargers + The Big Ten,4,OPEN,
@@ -22,7 +22,7 @@ Miami Dolphins,3,OPEN,
 Minnesota Vikings,2,SOLD,jasperbhamra
 New England Patriots,3,OPEN,
 New Orleans Saints,1,OPEN,
-New York Giants,2,OPEN,
+New York Giants,1,SOLD,bjam1986
 New York Jets,2,OPEN,
 Philadelphia Eagles,3,OPEN,
 Pittsburgh Steelers,2,OPEN,

@@ -1,30 +1,30 @@
 spot,price,state,buyer
 Arizona Cardinals,8,OPEN,
-Atlanta Falcons,8,OPEN,
+Atlanta Falcons,6.4,SOLD,emby246
 Baltimore Ravens,8,OPEN,
-Buffalo Bills,7,OPEN,
+Buffalo Bills,5.6,SOLD,stone_in_michigan
 Carolina Panthers,6,OPEN,
 Chicago Bears,6,OPEN,
 Cincinnati Bengals,5,OPEN,
 Cleveland Browns,5,OPEN,
 Dallas Cowboys,7,OPEN,
 Denver Broncos,8,OPEN,
-Detroit Lions,10,OPEN,
+Detroit Lions,8,SOLD,stone_in_michigan
 Green Bay Packers,7,OPEN,
 Houston Texans,4,OPEN,
 Indianapolis Colts,7,OPEN,
-Jacksonville Jaguars,4,OPEN,
+Jacksonville Jaguars,4,SOLD,saj221974
 Kansas City Chiefs,4,OPEN,
 Las Vegas Raiders,5,SOLD,tsweitzer
 Los Angeles Chargers,3,OPEN,
 Los Angeles Rams,5,OPEN,
 Miami Dolphins,6,OPEN,
-Minnesota Vikings,5,OPEN,
-New England Patriots,5,OPEN,
+Minnesota Vikings,5,SOLD,mike_bl
+New England Patriots,5,SOLD,mike_bl
 New Orleans Saints,5,OPEN,
 New York Jets,5,OPEN,
 Philadelphia Eagles,5,OPEN,
-Pittsburgh Steelers,5,OPEN,
+Pittsburgh Steelers,11,SOLD,culessen
 San Francisco 49ers,5,OPEN,
 Seattle Seahawks,5,OPEN,
 Tampa Bay Buccaneers,5,OPEN,
@@ -35,13 +35,12 @@ Arkansas/Clemson,7,OPEN,
 BYU/Cal,10,OPEN,
 Duke/Hawaii/ Highschool,6,OPEN,
 Florida/ FSU,8,OPEN,
-Georgia,8,OPEN,
+Georgia,6.4,SOLD,emby246
 Houston Cougars & Oilers,6,OPEN,
 Indiana/Illinois,10,OPEN,
 Kansas/KSU/Kentucky,5,OPEN,
 LSU,7,OPEN,
 Miami,9,OPEN,
-Michigan/MSU,8,OPEN,
 Missouri/NCST/MontanaSt,5,OPEN,
 Nebraska/UNC/Northwestern,5,OPEN,
 Oklahoma/Oklahoma State,12,OPEN,
@@ -52,6 +51,6 @@ South Carolina/SMU,10,OPEN,
 Stanford/TCU/Tennessee,8,OPEN,
 USC,10,OPEN,
 Virginia/Washington/Wisconsin,6,OPEN,
-Oregon,8,OPEN,
+Oregon,8,SOLD,cmass22
 Notre Dame,12,OPEN,
-Texas/A&M/Texas Tech,13,OPEN,
+Texas/A&M/Texas Tech,10.4,SOLD,yeager76

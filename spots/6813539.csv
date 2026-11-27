@@ -1,34 +1,43 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-MISC,,OPEN,
+Arizona Cardinals,145,SOLD,caseyask
+Atlanta Falcons,36,SOLD,skunkycardemporium315
+Baltimore Ravens,129,SOLD,bigjohn1204
+Buffalo Bills,215,SOLD,skunkycardemporium315
+Carolina Panthers,165,SOLD,scootdodoubleg
+Chicago Bears,145,SOLD,endzonechasers
+Cincinnati Bengals,150,SOLD,caseyask
+Cleveland Browns,191,SOLD,bigjohn1204
+Dallas Cowboys,185,SOLD,caseyask
+Denver Broncos,180,SOLD,skunkycardemporium315
+Detroit Lions,85,SOLD,endzonechasers
+Green Bay Packers,185,SOLD,endzonechasers
+Houston Texans,150,SOLD,bigjohn1204
+Indianapolis Colts,83,SOLD,endzonechasers
+Jacksonville Jaguars,145,SOLD,travis1742
+Kansas City Chiefs,212,SOLD,skunkycardemporium315
+Las Vegas Raiders,141,SOLD,bigjohn1204
+Los Angeles Chargers,175,SOLD,endzonechasers
+Los Angeles Rams,150,SOLD,asassen
+Miami Dolphins,125,SOLD,asassen
+Minnesota Vikings,200,SOLD,bigjohn1204
+New England Patriots,215,SOLD,caseyask
+New Orleans Saints,40,SOLD,marbrent
+New York Giants,170,SOLD,bigjohn1204
+New York Jets,32,SOLD,drunkenfists
+Philadelphia Eagles,187,SOLD,caseyask
+Pittsburgh Steelers,215,SOLD,buzzy_sports
+San Francisco 49ers,150,SOLD,asassen
+Seattle Seahawks,162,SOLD,travis1742
+Tampa Bay Buccaneers,50,SOLD,marbrent
+Tennessee Titans,30,SOLD,marbrent
+Washington Commanders,190,SOLD,caseyask
+MISC,74,SOLD,drunkenfists
+T,160,SOLD,asassen
+T,150,SOLD,asassen
+T,195,SOLD,caseyask
+T,200,SOLD,bigjohn1204
+T,200,SOLD,skunkycardemporium315
+T,190,SOLD,bigjohn1204
+T,180,SOLD,bigjohn1204
+T,175,SOLD,caseyask
+T,139,SOLD,bigjohn1204

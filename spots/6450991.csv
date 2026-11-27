@@ -1,7 +1,7 @@
 spot,price,state,buyer
-Spot 1,1,OPEN,
-Spot 2,1,OPEN,
-Spot 3,1,OPEN,
-Spot 4,1,OPEN,
-Spot 5,1,OPEN,
-Spot 6,1,OPEN,
+Spot 1,2,SOLD,spielmachermab
+Spot 2,3,SOLD,bighoffes80
+Spot 3,5,SOLD,saschakro
+Spot 4,5,SOLD,bighoffes80
+Spot 5,4,SOLD,saschakro
+Spot 6,5,SOLD,bighoffes80

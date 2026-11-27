@@ -1,59 +1,59 @@
 spot,price,state,buyer
-Alpine – Franco Colapinto,1,OPEN,
-Alpine – Pierre Gasly,1,OPEN,
-Aston Martin – Fernando Alonso,1,OPEN,
-Aston Martin – Lance Stroll,1,OPEN,
-Audi – Gabriel Bortoleto,1,OPEN,
-Audi – Nico Hulkenberg,1,OPEN,
-Cadillac – Valtteri Bottas,1,OPEN,
-Cadillac – Sergio Perez,1,OPEN,
-Ferrari – Lewis Hamilton,1,OPEN,
-Ferrari – Charles Leclerc,1,OPEN,
-Haas – Oliver Bearman,1,OPEN,
-Haas – Esteban Ocon,1,OPEN,
-McLaren – Lando Norris,1,OPEN,
-McLaren – Oscar Piastri,1,OPEN,
-Mercedes – Kimi Antonelli,1,OPEN,
-Mercedes – George Russell,1,OPEN,
-Racing Bulls – Liam Lawson,1,OPEN,
-Racing Bulls – Arvid Lindblad (RC),1,OPEN,
-Red Bull – Isack Hadjar,1,OPEN,
-Red Bull – Max Verstappen,1,OPEN,
-Williams – Alex Albon,1,OPEN,
-Williams – Carlos Sainz,1,OPEN,
-F2 AIX Racing – Fullteam,1,OPEN,
-F2 ART Grand Prix – Fullteam,1,OPEN,
-F2 Campos Racing – Fullteam,1,OPEN,
-F2 DAMS Lucas Oil – Fullteam,1,OPEN,
-F2 Hitech – Fullteam,1,OPEN,
-F2 Invicta Racing – Fullteam,1,OPEN,
-F2 MP Motorsport – Fullteam,1,OPEN,
-F2 PREMA Racing – Fullteam,1,OPEN,
-F2 Rodin Motorsport – Fullteam,1,OPEN,
-F2 Trident – Fullteam,1,OPEN,
-F2 Van Amersfoort Racing – Fullteam,1,OPEN,
-Legende – Jean Alesi,1,OPEN,
-Legende – Mario Andretti,1,OPEN,
-Legende – Rubens Barrichello,1,OPEN,
-Legende – Jack Brabham,1,OPEN,
-Legende – David Coulthard,1,OPEN,
-Legende – Juan Manuel Fangio,1,OPEN,
-Legende – Emerson Fittipaldi,1,OPEN,
-Legende – Mika Häkkinen,1,OPEN,
-Legende – Graham Hill,1,OPEN,
-Legende – Damon Hill,1,OPEN,
-Legende – James Hunt,1,OPEN,
-Legende – Nigel Mansell,1,OPEN,
-Legende – Juan Pablo Montoya,1,OPEN,
-Legende – Stirling Moss,1,OPEN,
-Legende – Riccardo Patrese,1,OPEN,
-Legende – Alain Prost,1,OPEN,
-Legende – Kimi Räikkönen,1,OPEN,
-Legende – Jody Scheckter,1,OPEN,
-Legende – Michael Schumacher,1,OPEN,
-Legende – Ayrton Senna,1,OPEN,
-Legende – Jackie Stewart,1,OPEN,
-Legende – Jacques Villeneuve,1,OPEN,
-Legende – Gilles Villeneuve,1,OPEN,
-Legende – Mark Webber,1,OPEN,
-Teamchefs (11),1,OPEN,
+Alpine – Franco Colapinto,45,SOLD,javycards
+Alpine – Pierre Gasly,49,SOLD,maria11402
+Aston Martin – Fernando Alonso,70,SOLD,imreturai
+Aston Martin – Lance Stroll,22,SOLD,cardellobreaks
+Audi – Gabriel Bortoleto,42,SOLD,luca_2903
+Audi – Nico Hulkenberg,42,SOLD,ckoch26578
+Cadillac – Valtteri Bottas,32,SOLD,miezicat
+Cadillac – Sergio Perez,33,SOLD,maria11402
+Ferrari – Lewis Hamilton,372,SOLD,roughberlin
+Ferrari – Charles Leclerc,121,SOLD,miezicat
+Haas – Oliver Bearman,54,SOLD,fifala
+Haas – Esteban Ocon,32,SOLD,zapristy
+McLaren – Lando Norris,157,SOLD,ralf_landmvrks87
+McLaren – Oscar Piastri,124,SOLD,bfreely01
+Mercedes – Kimi Antonelli,459,SOLD,flashgordon38727
+Mercedes – George Russell,69,SOLD,carlos_braga
+Racing Bulls – Liam Lawson,36,SOLD,jeromecards
+Racing Bulls – Arvid Lindblad (RC),191,SOLD,dahdaniel
+Red Bull – Isack Hadjar,75,SOLD,kzylord
+Red Bull – Max Verstappen,335,SOLD,autbreak
+Williams – Alex Albon,27,SOLD,miezicat
+Williams – Carlos Sainz,42,SOLD,f1cardpitstop
+F2 AIX Racing – Fullteam,11,SOLD,bfreely01
+F2 ART Grand Prix – Fullteam,10,SOLD,bfreely01
+F2 Campos Racing – Fullteam,27,SOLD,dannik46676
+F2 DAMS Lucas Oil – Fullteam,13,SOLD,agenor86
+F2 Hitech – Fullteam,11,SOLD,bfreely01
+F2 Invicta Racing – Fullteam,32,SOLD,zapristy
+F2 MP Motorsport – Fullteam,9,SOLD,bfreely01
+F2 PREMA Racing – Fullteam,11,SOLD,iitzsiick
+F2 Rodin Motorsport – Fullteam,7,SOLD,bfreely01
+F2 Trident – Fullteam,10,SOLD,agenor86
+F2 Van Amersfoort Racing – Fullteam,8,SOLD,bfreely01
+Legende – Jean Alesi,6,SOLD,agenor86
+Legende – Mario Andretti,5,SOLD,zapristy
+Legende – Rubens Barrichello,6,SOLD,agenor86
+Legende – Jack Brabham,6,SOLD,agenor86
+Legende – David Coulthard,14,SOLD,chris093
+Legende – Juan Manuel Fangio,5,SOLD,miezicat
+Legende – Emerson Fittipaldi,6,SOLD,sailes_rush
+Legende – Mika Häkkinen,17,SOLD,miezicat
+Legende – Graham Hill,6,SOLD,agenor86
+Legende – Damon Hill,7,SOLD,thank_you_de
+Legende – James Hunt,11,SOLD,agenor86
+Legende – Nigel Mansell,8,SOLD,bfreely01
+Legende – Juan Pablo Montoya,6,SOLD,sailes_rush
+Legende – Stirling Moss,7,SOLD,thank_you_de
+Legende – Riccardo Patrese,5,SOLD,thank_you_de
+Legende – Alain Prost,14,SOLD,carlos_braga
+Legende – Kimi Räikkönen,30,SOLD,agenor86
+Legende – Jody Scheckter,6,SOLD,agenor86
+Legende – Michael Schumacher,30,SOLD,cardellobreaks
+Legende – Ayrton Senna,21,SOLD,all_sexybalance
+Legende – Jackie Stewart,5,SOLD,miezicat
+Legende – Jacques Villeneuve,6,SOLD,bfreely01
+Legende – Gilles Villeneuve,6,SOLD,sailes_rush
+Legende – Mark Webber,6,SOLD,sailes_rush
+Teamchefs (11),43,SOLD,autbreak

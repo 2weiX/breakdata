@@ -1,0 +1,39 @@
+spot,price,state,buyer
+Los Angeles Chargers,300,SOLD,cromags
+Dallas Cowboys,335,SOLD,cromags
+Los Angeles Rams,320,SOLD,cromags
+#4,336,SOLD,dtmvegas
+Cleveland Browns,340,SOLD,dtmvegas
+Pittsburgh Steelers,305,SOLD,cromags
+Cincinnati Bengals,298,SOLD,dtmvegas
+Buffalo Bills,195,SOLD,cromags
+#9,213,SOLD,dtmvegas
+#10,281,SOLD,cromags
+New York Giants,206,SOLD,cromags
+#12,155,SOLD,cromags
+Chicago Bears,235,SOLD,mosalahfan3215
+#14,190,SOLD,cromags
+Seattle Seahawks,205,SOLD,tdzandbear
+San Francisco 49ers,205,SOLD,cromags
+#17,190,SOLD,tdzandbear
+Green Bay Packers,200,SOLD,tdzandbear
+Tampa Bay Buccaneers,195,SOLD,pokinets
+MISC,220,SOLD,pokinets
+Minnesota Vikings,200,SOLD,pokinets
+#22,205,SOLD,huiska
+Kansas City Chiefs,245,SOLD,huiska
+Baltimore Ravens,98,SOLD,tdzandbear
+Washington Commanders,98,SOLD,tdzandbear
+Denver Broncos,105,SOLD,tdzandbear
+Houston Texans,101,SOLD,tdzandbear
+#28,93,SOLD,cromags
+#29,121,SOLD,tdzandbear
+Detroit Lions,105,SOLD,cromags
+#31,124,SOLD,cromags
+Las Vegas Raiders,134,SOLD,vinnymal
+Philadelphia Eagles,145,SOLD,vinnymal
+New England Patriots,755,SOLD,cg0184
+Atlanta Falcons,61,SOLD,ovcee
+Carolina Panthers,50,SOLD,ovcee
+Tennessee Titans,57,SOLD,ovcee
+#38,1,OPEN,

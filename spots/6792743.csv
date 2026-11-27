@@ -1,33 +1,34 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+Arizona Cardinals,12,SOLD,thecardsmith_
+Atlanta Falcons,7,SOLD,thecardsmith_
+Baltimore Ravens,6,SOLD,howardjr11604
+Buffalo Bills,9,SOLD,ohiocardrippzz
+Chicago Bears,14,SOLD,ohiocardrippzz
+Cincinnati Bengals,9,SOLD,thecardsmith_
+Cleveland Browns,6,SOLD,sebdrew72827
+Dallas Cowboys,10,SOLD,thecardsmith_
+Denver Broncos,6,SOLD,jorseb26836
+Detroit Lions,4,SOLD,joshbar304
+Green Bay Packers,13,SOLD,ohiocardrippzz
+Houston Texans,13,SOLD,ohiocardrippzz
+Indianapolis Colts,5,SOLD,jorseb26836
+Kansas City Chiefs,13,SOLD,ohiocardrippzz
+Las Vegas Raiders,14,SOLD,ohiocardrippzz
+Los Angeles Chargers,4,SOLD,thecardsmith_
+Los Angeles Rams,9,SOLD,ohiocardrippzz
+Miami Dolphins,10,SOLD,ericgar32394
+Minnesota Vikings,6,SOLD,thecardsmith_
+New England Patriots,7,SOLD,howardjr11604
+New Orleans Saints,10,SOLD,ohiocardrippzz
+New York Giants,13,SOLD,ohiocardrippzz
+New York Jets,6,SOLD,rstreete4444
+Philadelphia Eagles,6,SOLD,howardjr11604
+Pittsburgh Steelers,5,SOLD,joshbar304
+San Francisco 49ers,1,SOLD,joshbar304
+Seattle Seahawks,7,SOLD,rstreete4444
+Tampa Bay Buccaneers,9,SOLD,ohiocardrippzz
+Tennessee Titans,5,SOLD,rstreete4444
+Washington Commanders,1,SOLD,cardcollectercolton01
+#17,9,SOLD,ohiocardrippzz
+#20,10,SOLD,ohiocardrippzz
+"Carolina Panthers, Jacksonville Jaguars",8,SOLD,ballallday337
