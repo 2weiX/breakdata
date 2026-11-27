@@ -1,33 +1,33 @@
 spot,price,state,buyer
-Arizona Cardinals,185,OPEN,
-Atlanta Falcons,50,OPEN,
-Baltimore Ravens,65,OPEN,
-Buffalo Bills,185,OPEN,
-Carolina Panthers,60,OPEN,
+Arizona Cardinals,145,SOLD,codyshin
+Atlanta Falcons,38,SOLD,codyshin
+Baltimore Ravens,50,SOLD,codyshin
+Buffalo Bills,155,SOLD,bossmanoutlaw
+Carolina Panthers,43.68,SOLD,codyshin
 Chicago Bears,180,OPEN,
 Cincinnati Bengals,60,SOLD,rndstarstorm
 Cleveland Browns,155,OPEN,
 Dallas Cowboys,85,SOLD,calebdownscardsplz
-Denver Broncos,110,OPEN,
-Detroit Lions,65,OPEN,
-Green Bay Packers,65,OPEN,
-Houston Texans,35,OPEN,
+Denver Broncos,110,SOLD,bossmanoutlaw
+Detroit Lions,52,SOLD,skipidydoodaday
+Green Bay Packers,52,SOLD,danielher87902
+Houston Texans,35,SOLD,danielher87902
 Indianapolis Colts,65,OPEN,
 Jacksonville Jaguars,120,OPEN,
 Kansas City Chiefs,160,OPEN,
-Las Vegas Raiders,335,OPEN,
+Las Vegas Raiders,245,SOLD,codyshin
 Los Angeles Chargers,60,OPEN,
 Los Angeles Rams,180,OPEN,
 Miami Dolphins,80,OPEN,
 Minnesota Vikings,65,OPEN,
-New England Patriots,250,OPEN,
+New England Patriots,175,SOLD,bossmanoutlaw
 New Orleans Saints,125,OPEN,
 New York Giants,195,OPEN,
 New York Jets,140,OPEN,
 Philadelphia Eagles,125,OPEN,
 Pittsburgh Steelers,110,OPEN,
 San Francisco 49ers,135,OPEN,
-Seattle Seahawks,110,OPEN,
+Seattle Seahawks,88,SOLD,codyshin
 Tampa Bay Buccaneers,69,SOLD,rndstarstorm
 Tennessee Titans,150,OPEN,
 Washington Commanders,120,OPEN,

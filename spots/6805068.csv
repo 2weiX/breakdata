@@ -1,12 +1,12 @@
 spot,price,state,buyer
-AFC North,,OPEN,
-AFC East,,OPEN,
-AFC West,,OPEN,
-AFC South,,OPEN,
-NFC North,,OPEN,
-NFC East,,OPEN,
-NFC West,,OPEN,
-NFC South,,OPEN,
-NBA,,OPEN,
-MLB,,OPEN,
-Honey Spot,,OPEN,
+Honey Spot,2,SOLD,tylersch1984
+MLB,7,SOLD,downtowndreamers
+AFC North,6,SOLD,downtowndreamers
+AFC West,6,SOLD,tylersch1984
+NBA,6,SOLD,downtowndreamers
+AFC South,6,SOLD,downtowndreamers
+NFC North,10,SOLD,downtowndreamers
+NFC West,10,SOLD,downtowndreamers
+NFC South,6,SOLD,tylersch1984
+NFC East,6,SOLD,pi_314159
+AFC East,6,SOLD,pi_314159

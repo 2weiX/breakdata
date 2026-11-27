@@ -1,33 +1,32 @@
 spot,price,state,buyer
-Arizona Cardinals,50,OPEN,
-Atlanta Falcons,25,OPEN,
-Baltimore Ravens,40,OPEN,
-Buffalo Bills,55,OPEN,
-Carolina Panthers,25,OPEN,
-Chicago Bears,55,OPEN,
-Cincinnati Bengals,50,OPEN,
-Cleveland Browns,30,OPEN,
-Dallas Cowboys,45,OPEN,
-Denver Broncos,45,OPEN,
-Detroit Lions,40,OPEN,
-Green Bay Packers,45,OPEN,
-Houston Texans,20,OPEN,
-Indianapolis Colts,20,OPEN,
-Jacksonville Jaguars,30,OPEN,
-Kansas City Chiefs,55,OPEN,
-Las Vegas Raiders,100,OPEN,
-Los Angeles Chargers,29,OPEN,
-Los Angeles Rams,45,OPEN,
-Miami Dolphins,22,OPEN,
-Minnesota Vikings,40,OPEN,
-New England Patriots,50,OPEN,
-New Orleans Saints,40,OPEN,
-New York Giants,40,OPEN,
+Arizona Cardinals,25,SOLD,sum392
+Atlanta Falcons,10,SOLD,phatzdomino
+Baltimore Ravens,20,SOLD,kckidd86
+Buffalo Bills,35,SOLD,norcal_kv
+Carolina Panthers,8,SOLD,mofiyyaaa_ripz
+Chicago Bears,44,SOLD,gumsy
+Cincinnati Bengals,35,SOLD,phatzdomino
+Cleveland Browns,11,SOLD,jesterz
+Dallas Cowboys,20,SOLD,gotujockin
+Denver Broncos,28,SOLD,cruzito_21
+Detroit Lions,25,SOLD,shoresy1821
+Chiefs + Packers,50,SOLD,kckidd86
+Houston Texans,14,SOLD,gsousa725
+Indianapolis Colts,8,SOLD,mofiyyaaa_ripz
+Jacksonville Jaguars,8,SOLD,jesterz
+Las Vegas Raiders,70,SOLD,brabs81
+Los Angeles Chargers,13,SOLD,mickmicks23
+Los Angeles Rams,25,SOLD,carla22
+Miami Dolphins,8,SOLD,mofiyyaaa_ripz
+Minnesota Vikings,28,SOLD,shoresy1821
+New England Patriots,35,SOLD,ab96
+New Orleans Saints,24,SOLD,ab96
+New York Giants,24,SOLD,steph13s
 New York Jets,12,SOLD,darrenkir
-Philadelphia Eagles,40,OPEN,
-Pittsburgh Steelers,30,OPEN,
+Philadelphia Eagles,24,SOLD,whatsthattt
+Pittsburgh Steelers,19,SOLD,whatsthattt
 San Francisco 49ers,40,SOLD,bdoubledcards
-Seattle Seahawks,50,OPEN,
-Tampa Bay Buccaneers,50,OPEN,
-Tennessee Titans,45,OPEN,
-Washington Commanders,35,OPEN,
+Seattle Seahawks,25,SOLD,gotujockin
+Tampa Bay Buccaneers,35,SOLD,ozzlopez
+Tennessee Titans,25,SOLD,whatsthattt
+Washington Commanders,19,SOLD,dwired_27

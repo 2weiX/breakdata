@@ -1,34 +1,46 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-NIL,,OPEN,
+Pittsburgh Steelers,23,SOLD,chrismarsh2424
+Atlanta Falcons,42,SOLD,chrismarsh2424
+Houston Texans,24,SOLD,jrausch17
+#4,26,SOLD,jrausch17
+Seattle Seahawks,34,SOLD,chrismarsh2424
+#6,27,SOLD,jrausch17
+NIL,33,SOLD,jrausch17
+Las Vegas Raiders,24,SOLD,chrismarsh2424
+Denver Broncos,25,SOLD,jrausch17
+New York Giants,31,SOLD,chrismarsh2424
+Tampa Bay Buccaneers,37,SOLD,jrausch17
+#12,30,SOLD,jrausch17
+Cleveland Browns,27,SOLD,jrausch17
+#14,30,SOLD,jrausch17
+#15,27,SOLD,chrismarsh2424
+Indianapolis Colts,34,SOLD,jrausch17
+Green Bay Packers,32,SOLD,jeremychrisensen1821
+Baltimore Ravens,32,SOLD,jrausch17
+Washington Commanders,34,SOLD,knight757
+#20,32,SOLD,chrismarsh2424
+Jacksonville Jaguars,52,SOLD,ryschmit
+Chicago Bears,39,SOLD,chrismarsh2424
+New Orleans Saints,37,SOLD,knight757
+Philadelphia Eagles,30,SOLD,jrausch17
+#25,32,SOLD,chrismarsh2424
+Dallas Cowboys,32,SOLD,jeremychrisensen1821
+#27,27,SOLD,what_up_kid22
+#28,30,SOLD,chrismarsh2424
+New York Jets,34,SOLD,rivnick
+Carolina Panthers,29,SOLD,knight757
+#31,25,SOLD,what_up_kid22
+Detroit Lions,32,SOLD,jrausch17
+Buffalo Bills,27,SOLD,what_up_kid22
+Tennessee Titans,24,SOLD,what_up_kid22
+#35,25,SOLD,what_up_kid22
+Miami Dolphins,28,SOLD,jeremychrisensen1821
+#37,25,SOLD,what_up_kid22
+Los Angeles Chargers,15,SOLD,chrismarsh2424
+Minnesota Vikings,20,SOLD,michaelpop58614
+Arizona Cardinals,30,SOLD,jrausch17
+Cincinnati Bengals,25,SOLD,michaelpop58614
+Los Angeles Rams,23,SOLD,michaelpop58614
+Kansas City Chiefs,26,SOLD,jsha7
+San Francisco 49ers,68,SOLD,michaelpop58614
+New England Patriots,6,SOLD,michaelpop58614

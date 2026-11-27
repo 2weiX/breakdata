@@ -1,33 +1,30 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+Detroit Lions,2,SOLD,13cardz
+Buffalo Bills,2,SOLD,mhtradingcards
+Cincinnati Bengals,2,SOLD,13cardz
+Las Vegas Raiders,2,SOLD,13cardz
+Philadelphia Eagles,2,SOLD,13cardz
+Green Bay Packers,1,SOLD,13cardz
+Los Angeles Rams,2,SOLD,hustinho
+New England Patriots,2,SOLD,13cardz
+New Orleans Saints,1,SOLD,hustinho
+Atlanta Falcons,1,SOLD,13cardz
+Carolina Panthers,2,SOLD,mhtradingcards
+Kansas City Chiefs,2,SOLD,13cardz
+Denver Broncos,1,SOLD,hustinho
+Tennessee Titans,1,SOLD,hustinho
+San Francisco 49ers,1,SOLD,mhtradingcards
+Arizona Cardinals,1,SOLD,hustinho
+Washington Commanders,1,SOLD,hustinho
+New York Giants,1,SOLD,mhtradingcards
+Chicago Bears,1,SOLD,hv_cards
+Pittsburgh Steelers,1,SOLD,hustinho
+Seattle Seahawks,1,SOLD,mhtradingcards
+Minnesota Vikings,1,SOLD,hustinho
+Cleveland Browns,1,SOLD,mhtradingcards
+Jacksonville Jaguars,1,SOLD,hustinho
+Baltimore Ravens,1,SOLD,mhtradingcards
+Dallas Cowboys,1,SOLD,hustinho
+Tampa Bay Buccaneers,1,SOLD,mhtradingcards
+Los Angeles Chargers,1,SOLD,50er_collect
+#29,1,OPEN,
