@@ -1,33 +1,31 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+Atlanta Falcons,3,SOLD,carp301
+Baltimore Ravens,15,SOLD,canes469
+Buffalo Bills,9,SOLD,canes469
+Carolina Panthers,5,SOLD,erekleb
+Chicago Bears,14,SOLD,adembona123
+Cincinnati Bengals,9,SOLD,canes469
+Cleveland Browns,15,SOLD,canes469
+Dallas Cowboys,8,SOLD,canes469
+Denver Broncos,8,SOLD,adembona123
+Detroit Lions,17,SOLD,canes469
+Green Bay Packers,14,SOLD,adembona123
+Houston Texans,17,SOLD,canes469
+Jacksonville Jaguars,8,SOLD,canes469
+Kansas City Chiefs,17,SOLD,tbash4545
+Las Vegas Raiders,16,SOLD,tbash4545
+Los Angeles Chargers,14,SOLD,canes469
+Los Angeles Rams,8,SOLD,carp301
+Miami Dolphins,26,SOLD,canes469
+Minnesota Vikings,14,SOLD,carp301
+New England Patriots,15,SOLD,suttonsmi
+New Orleans Saints,9,SOLD,canes469
+New York Giants,18,SOLD,canes469
+New York Jets,12,SOLD,canes469
+Philadelphia Eagles,4,SOLD,canes469
+Pittsburgh Steelers,36,SOLD,canes469
+San Francisco 49ers,9,SOLD,canes469
+Seattle Seahawks,17,SOLD,canes469
+Tampa Bay Buccaneers,23,SOLD,canes469
+Tennessee Titans,15,SOLD,canes469
+Washington Commanders,17,SOLD,armjason

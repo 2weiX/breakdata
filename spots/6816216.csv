@@ -1,34 +1,58 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-NIL,,OPEN,
+Arizona Cardinals,65,SOLD,brooksideboers
+Atlanta Falcons,43,SOLD,roojo
+Baltimore Ravens,205,SOLD,dixon2049
+Buffalo Bills,210,SOLD,roojo
+Carolina Panthers,36,SOLD,roojo
+Chicago Bears,320,SOLD,briesh81437
+Cincinnati Bengals,49,SOLD,brooksideboers
+Cleveland Browns,146,SOLD,roojo
+Dallas Cowboys,170,SOLD,ccremin1
+Denver Broncos,144,SOLD,ccremin1
+Detroit Lions,120,SOLD,texasfeelion
+Green Bay Packers,205,SOLD,roojo
+Houston Texans,49,SOLD,mikelbus
+Indianapolis Colts,42,SOLD,goody_rips
+Jacksonville Jaguars,42,SOLD,raider_nation99
+Kansas City Chiefs,325,SOLD,pokinets
+Las Vegas Raiders,41,SOLD,mikelbus
+Los Angeles Chargers,280,SOLD,dixon2049
+Los Angeles Rams,185,SOLD,dixon2049
+Miami Dolphins,38,SOLD,ccremin1
+Minnesota Vikings,180,SOLD,karimv2
+New England Patriots,320,SOLD,pokinets
+New Orleans Saints,57,SOLD,roojo
+New York Giants,200,SOLD,dixon2049
+New York Jets,48,SOLD,wylrobert
+Philadelphia Eagles,220,SOLD,roojo
+Pittsburgh Steelers,200,SOLD,dixon2049
+San Francisco 49ers,270,SOLD,shawnegan1975
+Seattle Seahawks,34,SOLD,roojo
+Tampa Bay Buccaneers,65,SOLD,ccremin1
+Tennessee Titans,30,SOLD,robripz13
+Washington Commanders,54,SOLD,roojo
+NIL,180,SOLD,shawnegan1975
+T,380,SOLD,shawnegan1975
+T,360,SOLD,karimv2
+T,320,SOLD,dixon2049
+T,340,SOLD,pokinets
+T,180,SOLD,dixon2049
+T,200,SOLD,dixon2049
+T,227,SOLD,dixon2049
+T,165,SOLD,roojo
+T,180,SOLD,roojo
+T,180,SOLD,roojo
+T,180,SOLD,roojo
+T,200,SOLD,roojo
+T,185,SOLD,roojo
+#26,185,SOLD,dixon2049
+T,186,SOLD,roojo
+T,190,SOLD,roojo
+T,200,SOLD,shawnegan1975
+T,155,SOLD,shawnegan1975
+T,150,SOLD,shawnegan1975
+T,165,SOLD,texasfeelion
+T,170,SOLD,ccremin1
+T,170,SOLD,ccremin1
+T,165,SOLD,ccremin1
+T,107,SOLD,shawnegan1975

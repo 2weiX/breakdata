@@ -1,34 +1,34 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-Misc,,OPEN,
+Arizona Cardinals,265,SOLD,bigpete7676
+Baltimore Ravens,68,SOLD,incognit0
+Buffalo Bills,430,SOLD,ghoem5
+Chicago Bears,255,SOLD,eyelaser
+Cincinnati Bengals,310,SOLD,ghoem5
+Cleveland Browns,215,SOLD,ghoem5
+Dallas Cowboys,310,SOLD,ghoem5
+Denver Broncos,120,SOLD,incognit0
+Detroit Lions,296,SOLD,ryanbeck19637
+Green Bay Packers,80,SOLD,eyelaser
+Houston Texans,290,SOLD,flandersnj32
+Kansas City Chiefs,181,SOLD,cromags
+Las Vegas Raiders,176,SOLD,goody_rips
+Los Angeles Chargers,281,SOLD,buzzy_sports
+Los Angeles Rams,330,SOLD,flandersnj32
+Minnesota Vikings,265,SOLD,bigpete7676
+New England Patriots,235,SOLD,bnel555
+New York Giants,270,SOLD,ccline301
+Philadelphia Eagles,120,SOLD,eyelaser
+Pittsburgh Steelers,266,SOLD,incognit0
+San Francisco 49ers,445,SOLD,buzzy_sports
+Seattle Seahawks,180,SOLD,goody_rips
+Washington Commanders,205,SOLD,ccline301
+Misc,107,SOLD,bigpete7676
+#2,265,SOLD,ghoem5
+#3,270,SOLD,incognit0
+#4,295,SOLD,calmer_than_you_are
+#9,380,SOLD,flandersnj32
+#13,275,SOLD,ryanbeck19637
+#17,240,SOLD,ghoem5
+"Atlanta Falcons, Carolina Panthers",180,SOLD,eyelaser
+"Jacksonville Jaguars, Tampa Bay Buccaneers",26,SOLD,incognit0
+"Indianapolis Colts, Miami Dolphins, New Orleans Saints, New York Jets, Tennessee Titans",18,SOLD,buzzy_sports

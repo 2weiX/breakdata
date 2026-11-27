@@ -1,35 +1,20 @@
 spot,price,state,buyer
-ACC + Notre Dame + All Other,20,OPEN,
-Arizona Cardinals,20,OPEN,
-Atlanta Falcons,5,OPEN,
-Baltimore Ravens,10,OPEN,
-Big 10,25,OPEN,
-Big 12 ,15,OPEN,
-Buffalo Bills,5,OPEN,
-Carolina Panthers,5,OPEN,
+ACC + Notre Dame + All Other,15,SOLD,fisch785
+Arizona Cardinals,14,SOLD,fisch785
+Big 10,15,SOLD,fisch785
+Big 12 ,10,SOLD,fisch785
+Buffalo Bills,3,SOLD,czajka77
 Chicago Bears,5,SOLD,bigern173
-Cincinnati Bengals,5,OPEN,
-Cleveland Browns,5,OPEN,
-Dallas Cowboys,25,OPEN,
-Denver Broncos,25,OPEN,
+Cincinnati Bengals,3,SOLD,czajka77
+Dallas Cowboys,15,SOLD,fisch785
 Green Bay Packers,12,SOLD,esteff53
-Houston Texans,5,OPEN,
-Indianapolis Colts,10,OPEN,
-Jacksonville Jaguars,5,OPEN,
-Kansas City Chiefs,5,OPEN,
-Las Vegas Raiders,5,OPEN,
-Los Angeles Chargers,5,OPEN,
-Miami Dolphins,5,OPEN,
-Minnesota Vikings,15,OPEN,
-New England Patriots,15,OPEN,
-New Orleans Saints,10,OPEN,
-New York Giants,10,OPEN,
-New York Jets,5,OPEN,
-Philadelphia Eagles,10,OPEN,
-Pittsburgh Steelers,15,OPEN,
-San Francisco 49ers,15,OPEN,
-Seattle Seahawks,5,OPEN,
-SEC,25,OPEN,
-Tampa Bay Buccaneers,5,OPEN,
-Tennessee Titans,5,OPEN,
-Washington Commanders,5,OPEN,
+Kansas City Chiefs,3,SOLD,islanderfan711
+Minnesota Vikings,10,SOLD,b3cattle
+New Orleans Saints,10,SOLD,b3cattle
+New York Giants,7,SOLD,czajka77
+New York Jets,4,SOLD,islanderfan711
+Philadelphia Eagles,1,SOLD,fisch785
+SEC,15,SOLD,fisch785
+"Falcons, Panthers, Browns, Texans, Jags, Raiders, Chargers, Dolphins, Seahawks, Bucs, Titans, Commanders",30,SOLD,fisch785
+Ravens & Colts,10,SOLD,mayaham2500
+"Broncos, Patriots, Steelers, 49ers",30,SOLD,b3cattle

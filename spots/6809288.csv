@@ -1,33 +1,30 @@
 spot,price,state,buyer
-Spot 1,72,OPEN,
-Spot 2,72,OPEN,
-Spot 3,72,OPEN,
-Spot 4,72,OPEN,
-Spot 5,72,OPEN,
+Spot 2,66,OPEN,
+Spot 3,66,OPEN,
+Spot 4,66,OPEN,
+Spot 5,10,SOLD,whodeyfin
 Spot 6,67,SOLD,2xmrtn
 Spot 7 druqui ,67,SOLD,druqui
-Spot 8,72,OPEN,
+Spot 8,66,OPEN,
 Spot 9,72,SOLD,jasyn84
 Spot 10,72,SOLD,pincerminingco
 Spot 11,72,SOLD,onetimerips
 Spot 12,62,SOLD,christopherqui02466
 Spot 13,72,SOLD,aviiicollectibles
 Spot 14,67,SOLD,jwscoug12
-Spot 15,72,OPEN,
-Spot 16,72,OPEN,
 Spot 17,67,SOLD,first311
-Spot 18,72,OPEN,
-Spot 19,72,OPEN,
-Spot 20,72,OPEN,
+Spot 19,66,OPEN,
+Spot 20,66,OPEN,
 Spot 21 pringles_cards,67,SOLD,pringles_cards
-Spot 22,72,OPEN,
-Spot 23,72,OPEN,
+Spot 22,66,OPEN,
+Spot 23,10,SOLD,jimmyferg
 Spot 24,62,SOLD,jwscoug12
-Spot 25,72,OPEN,
-Spot 26,72,OPEN,
-Spot 27,72,OPEN,
-Spot 28,72,OPEN,
-Spot 29,72,OPEN,
-Spot 30,72,OPEN,
-Spot 31,72,OPEN,
-Spot 32,72,OPEN,
+Spot 25,66,OPEN,
+Spot 26,66,OPEN,
+Spot 27,66,OPEN,
+Spot 28,66,OPEN,
+Spot 29,66,OPEN,
+Spot 30,66,OPEN,
+Spot 31,66,OPEN,
+Spot 32,66,OPEN,
+"Spot 1, 15, 16, 18",250,SOLD,pincerminingco

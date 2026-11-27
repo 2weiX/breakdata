@@ -1,0 +1,56 @@
+spot,price,state,buyer
+#1,520,SOLD,mbark22
+New York Giants,449,SOLD,mbark22
+New England Patriots,461,SOLD,mbark22
+Green Bay Packers,500,SOLD,mbark22
+Chicago Bears,522,SOLD,mbark22
+#6,531,SOLD,vahanpharmd
+Buffalo Bills,595,SOLD,vahanpharmd
+Pittsburgh Steelers,581,SOLD,vahanpharmd
+Cleveland Browns,580,SOLD,mbark22
+#10,605,SOLD,jkirish1
+Los Angeles Rams,645,SOLD,jkirish1
+#12,680,SOLD,jkirish1
+#13,570,SOLD,vahanpharmd
+#14,650,SOLD,mbark22
+#15,680,SOLD,mbark22
+#16,700,SOLD,mbark22
+#17,660,SOLD,vahanpharmd
+#18,500,SOLD,joeb000555
+Minnesota Vikings,660,SOLD,joeb000555
+Cincinnati Bengals,360,SOLD,joeb000555
+Los Angeles Chargers,500,SOLD,joeb000555
+Kansas City Chiefs,410,SOLD,joeb000555
+#23,410,SOLD,joeb000555
+#24,440,SOLD,joeb000555
+Denver Broncos,620,SOLD,mbark22
+#26,620,SOLD,joeb000555
+Detroit Lions,152,SOLD,joeb000555
+#28,400,SOLD,joeb000555
+#29,155,SOLD,joeb000555
+Philadelphia Eagles,400,SOLD,joeb000555
+#31,370,SOLD,jkirish1
+#32,297,SOLD,jkirish1
+San Francisco 49ers,560,SOLD,jkirish1
+#34,122,SOLD,davidlew4546
+Houston Texans,300,SOLD,ericdela94
+#36,300,SOLD,ericdela94
+Miami Dolphins,145,SOLD,davidlew4546
+Baltimore Ravens,255,SOLD,ericdela94
+#39,310,SOLD,mbark22
+MISC,340,SOLD,mbark22
+#41,280,SOLD,mbark22
+#42,310,SOLD,mbark22
+Washington Commanders,166,SOLD,davidlew4546
+Atlanta Falcons,380,SOLD,davidlew4546
+#45,170,SOLD,mbark22
+#46,185,SOLD,mbark22
+Dallas Cowboys,305,SOLD,jkirish1
+#48,145,SOLD,mbark22
+Seattle Seahawks,56,SOLD,jerry212
+Tampa Bay Buccaneers,105,SOLD,primobreakscory
+Carolina Panthers,24,SOLD,jerry212
+Tennessee Titans,85,SOLD,joeb000555
+"Jacksonville Jaguars, Las Vegas Raiders",95,SOLD,jerry212
+"Indianapolis Colts, New York Jets",57,SOLD,fsolano81
+"Arizona Cardinals, New Orleans Saints",30,SOLD,waltbur

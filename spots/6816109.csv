@@ -1,33 +1,24 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+Atlanta Falcons,37,SOLD,fisterer12619
+Baltimore Ravens,33,SOLD,fisterer12619
+Buffalo Bills,17,SOLD,fisterer12619
+Carolina Panthers,15,SOLD,fisterer12619
+Chicago Bears,29,SOLD,fisterer12619
+Cleveland Browns,14,SOLD,fisterer12619
+Dallas Cowboys,14,SOLD,fisterer12619
+Denver Broncos,33,SOLD,fisterer12619
+Green Bay Packers,38,SOLD,fisterer12619
+Houston Texans,34,SOLD,fisterer12619
+Las Vegas Raiders,59,SOLD,fisterer12619
+Los Angeles Chargers,14,SOLD,fisterer12619
+Los Angeles Rams,32,SOLD,fisterer12619
+Minnesota Vikings,23,SOLD,chefcurryisthegoat
+New England Patriots,14,SOLD,fisterer12619
+New York Giants,49,SOLD,fisterer12619
+New York Jets,33,SOLD,fisterer12619
+Philadelphia Eagles,26,SOLD,fisterer12619
+Pittsburgh Steelers,30,SOLD,fisterer12619
+San Francisco 49ers,10,SOLD,fisterer12619
+Tennessee Titans,25,SOLD,chefcurryisthegoat
+"Arizona Cardinals, Detroit Lions",49,SOLD,fisterer12619
+"Miami Dolphins, Tampa Bay Buccaneers",39,SOLD,fisterer12619

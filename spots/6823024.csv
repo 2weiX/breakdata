@@ -1,0 +1,18 @@
+spot,price,state,buyer
+Los Angeles Chargers,5,SOLD,cchurch1127
+Tampa Bay Buccaneers,6,SOLD,dave2613
+Cleveland Browns,6,SOLD,crazycards423
+Carolina Panthers,6,SOLD,crazycards423
+New York Jets,6,SOLD,gabeski
+Seattle Seahawks,6,SOLD,gabeski
+San Francisco 49ers,6,SOLD,dave2613
+"Kansas City Chiefs, Los Angeles Rams",8,SOLD,dave2613
+"Arizona Cardinals, Detroit Lions",8,SOLD,gabeski
+Tennessee Titans,4,SOLD,crazycards423
+Washington Commanders,4,SOLD,cchurch1127
+Denver Broncos,4,SOLD,crazycards423
+Green Bay Packers,4,SOLD,cchurch1127
+Dallas Cowboys,4,SOLD,dave2613
+"Cincinnati Bengals, Jacksonville Jaguars, Las Vegas Raiders, Miami Dolphins",10,SOLD,gabeski
+#16,12,SOLD,dave2613
+#17,1,OPEN,

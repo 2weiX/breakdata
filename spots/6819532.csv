@@ -1,0 +1,47 @@
+spot,price,state,buyer
+#1,411,SOLD,case_or_skunk
+#2,480,SOLD,case_or_skunk
+#3,481,SOLD,mbark22
+misc,500,SOLD,mbark22
+Cleveland Browns,500,SOLD,mbark22
+San Francisco 49ers,485,SOLD,case_or_skunk
+New York Giants,450,SOLD,strbanger
+Pittsburgh Steelers,505,SOLD,mbark22
+Cincinnati Bengals,430,SOLD,strbanger
+#10,420,SOLD,mbark22
+#11,430,SOLD,mbark22
+#12,420,SOLD,thelongcards
+Chicago Bears,645,SOLD,pokinets
+#14,410,SOLD,pokinets
+#15,510,SOLD,pokinets
+Baltimore Ravens,530,SOLD,addmoreboxes
+Dallas Cowboys,590,SOLD,addmoreboxes
+Kansas City Chiefs,409,SOLD,dkass75
+#19,439,SOLD,dkass75
+#20,277,SOLD,dkass75
+Washington Commanders,261,SOLD,dkass75
+#22,370,SOLD,thelongcards
+Green Bay Packers,380,SOLD,mbark22
+#24,384,SOLD,mbark22
+#25,385,SOLD,sdcuseguy
+New England Patriots,385,SOLD,sdcuseguy
+Buffalo Bills,192,SOLD,thelongcards
+#28,265,SOLD,dluk13
+Las Vegas Raiders,205,SOLD,dluk13
+#30,230,SOLD,dluk13
+Los Angeles Chargers,332,SOLD,mbark22
+Tampa Bay Buccaneers,217,SOLD,dluk13
+Atlanta Falcons,244,SOLD,sdcuseguy
+Denver Broncos,245,SOLD,sdcuseguy
+Los Angeles Rams,242,SOLD,sdcuseguy
+Seattle Seahawks,96,SOLD,sdcuseguy
+Minnesota Vikings,435,SOLD,15krad01
+Detroit Lions,255,SOLD,dluk13
+Philadelphia Eagles,210,SOLD,dluk13
+Houston Texans,51,SOLD,bakedbreaks
+Carolina Panthers,1,SOLD,bakedbreaks
+Indianapolis Colts,7,SOLD,bakedbreaks
+Jacksonville Jaguars,6,SOLD,bakedbreaks
+Tennessee Titans,5,SOLD,bakedbreaks
+"Miami Dolphins, New Orleans Saints",7,SOLD,bakedbreaks
+"Arizona Cardinals, New York Jets",1,SOLD,bakedbreaks

@@ -1,8 +1,8 @@
 spot,price,state,buyer
-Arizona Cardinals,40,OPEN,
+Arizona Cardinals,20,SOLD,giabrandon
 Atlanta Falcons,5,SOLD,zabdaniel
 Baltimore Ravens,6,SOLD,shaneeilts
-Buffalo Bills,40,OPEN,
+Buffalo Bills,20,SOLD,giabrandon
 Carolina Panthers,5,SOLD,colleen828
 Chicago Bears,20,SOLD,zabdaniel
 Cincinnati Bengals,17,SOLD,henrythenoodle
@@ -19,15 +19,15 @@ Las Vegas Raiders,40,SOLD,zabdaniel
 Los Angeles Chargers,12,SOLD,usedcardsales
 Los Angeles Rams,13,SOLD,giabrandon
 Miami Dolphins,7,SOLD,zabdaniel
-Minnesota Vikings,20,OPEN,
-New England Patriots,40,OPEN,
+Minnesota Vikings,10,SOLD,bigman_littlecards
+New England Patriots,20,SOLD,giabrandon
 New Orleans Saints,5,SOLD,stuxnetcollectiblebreaks
 New York Giants,13,SOLD,giabrandon
 New York Jets,7,SOLD,zabdaniel
-Philadelphia Eagles,20,OPEN,
-Pittsburgh Steelers,20,OPEN,
+Philadelphia Eagles,10,SOLD,phillywill72
+Pittsburgh Steelers,8,SOLD,giabrandon
 San Francisco 49ers,10,SOLD,stuxnetcollectiblebreaks
 Seattle Seahawks,26,SOLD,giabrandon
 Tampa Bay Buccaneers,6,SOLD,zabdaniel
 Tennessee Titans,5,SOLD,stuxnetcollectiblebreaks
-Washington Commanders,28,OPEN,
+Washington Commanders,13,SOLD,giabrandon

@@ -1,12 +1,10 @@
 spot,price,state,buyer
-Atlanta Falcons,32,OPEN,
 Carolina Panthers,18,OPEN,
-Dallas Cowboys,22,OPEN,
-Denver Broncos,28,OPEN,
+Denver Broncos,22.4,SOLD,bulldogsports56
 Detroit Lions,28,OPEN,
 Houston Texans,14,OPEN,
 Kansas City Chiefs,52,OPEN,
-Las Vegas Raiders,80,OPEN,
+Las Vegas Raiders,50,SOLD,bulldogsports56
 Los Angeles Chargers,14,OPEN,
 Los Angeles Rams,45,OPEN,
 Minnesota Vikings,22,OPEN,

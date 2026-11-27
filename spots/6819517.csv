@@ -1,0 +1,44 @@
+spot,price,state,buyer
+#1,341,SOLD,case_or_skunk
+#2,260,SOLD,baseballcardkid28
+Buffalo Bills,270,SOLD,baseballcardkid28
+Cincinnati Bengals,310,SOLD,baseballcardkid28
+Cleveland Browns,310,SOLD,case_or_skunk
+Chicago Bears,311,SOLD,baseballcardkid28
+Pittsburgh Steelers,321,SOLD,jakebrandt93
+New York Giants,320,SOLD,case_or_skunk
+#9,321,SOLD,dkass75
+Kansas City Chiefs,331,SOLD,dkass75
+#11,330,SOLD,dkass75
+Los Angeles Rams,373,SOLD,dkass75
+Green Bay Packers,331,SOLD,thelongcards
+#14,310,SOLD,thelongcards
+Washington Commanders,350,SOLD,thelongcards
+#16,340,SOLD,baseballcardkid28
+Los Angeles Chargers,330,SOLD,baseballcardkid28
+#18,286,SOLD,case_or_skunk
+misc,305,SOLD,linkincz
+#20,315,SOLD,case_or_skunk
+#21,245,SOLD,baseballcardkid28
+New England Patriots,233,SOLD,baseballcardkid28
+Seattle Seahawks,230,SOLD,linkincz
+San Francisco 49ers,234,SOLD,linkincz
+Minnesota Vikings,275,SOLD,linkincz
+Houston Texans,210,SOLD,linkincz
+Miami Dolphins,130,SOLD,linkincz
+Dallas Cowboys,125,SOLD,linkincz
+Philadelphia Eagles,130,SOLD,linkincz
+Denver Broncos,120,SOLD,linkincz
+New Orleans Saints,120,SOLD,linkincz
+Detroit Lions,155,SOLD,pokinets
+Baltimore Ravens,79,SOLD,15krad01
+Tampa Bay Buccaneers,56,SOLD,dluk13
+#35,1,OPEN,
+Carolina Panthers,8,SOLD,bakedbreaks
+Las Vegas Raiders,9,SOLD,bakedbreaks
+Atlanta Falcons,9,SOLD,bakedbreaks
+Jacksonville Jaguars,17,SOLD,bakedbreaks
+#40,28,SOLD,linkincz
+Tennessee Titans,19,SOLD,bakedbreaks
+Indianapolis Colts,11,SOLD,bakedbreaks
+"Arizona Cardinals, New York Jets",17,SOLD,bakedbreaks

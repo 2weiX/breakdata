@@ -1,0 +1,20 @@
+spot,price,state,buyer
+Dallas Cowboys,2,SOLD,redbradley
+Alabama + Georgia,2,SOLD,redbradley
+New York Jets,2,SOLD,redbradley
+Indianapolis Colts,2,SOLD,redbradley
+Miami + Ole Miss,2,SOLD,all4onemoney
+Minnesota Vikings,2,SOLD,all4onemoney
+San Francisco 49ers,2,SOLD,all4onemoney
+Carolina Panthers,2,SOLD,all4onemoney
+Kansas City Chiefs,2,SOLD,redbradley
+New York Giants,2,SOLD,redbradley
+Las Vegas Raiders,10,SOLD,redbradley
+Arizona State + Nebraska + Kentucky,1.8,SOLD,landynthib
+Baltimore Ravens,2,SOLD,landynthib
+"Buffalo Bills, Notre Dame",10,SOLD,redbradley
+Miami Dolphins,2,SOLD,landynthib
+USC + Washington,2,SOLD,redbradley
+BYU + California,2,SOLD,redbradley
+Oklahoma + Illinois,2,SOLD,redbradley
+#19,1,OPEN,

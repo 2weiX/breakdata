@@ -6,7 +6,7 @@ spot,price,state,buyer
 "San Francisco 49ers, California, Stanford",42,SOLD,kmaigatter11
 "Arizona Cardinals, Arizona, Arizona State, New Mexico",42.3,SOLD,jlattof09
 "Los Angeles Rams, USC, UCLA",41,SOLD,anthonycuc34957
-"Philadelphia Eagles, Arkansas, Tulsa, Texas Tech",46,OPEN,
+"Philadelphia Eagles, Arkansas, Tulsa, Texas Tech",30,SOLD,fantasyog
 "New England Patriots, Boston College, UConn",45,SOLD,jj65202
 "Tampa Bay Buccaneers, Alabama, Mississippi State, Jackson State",40.5,SOLD,pmg_collectibles
 "Minnesota Vikings, Iowa State, Nebraska, Oklahoma State",45,SOLD,jmackey28
@@ -15,19 +15,19 @@ spot,price,state,buyer
 "Cleveland Browns, Akron, Ohio State, Western Michigan",35.2,SOLD,johnjoh75334
 "Denver Broncos, Colorado, Utah, Wyoming",39.6,SOLD,brian839
 "Detroit Lions, Michigan, Michigan State, Western Kentucky",34.4,SOLD,dannymol09877
-"New Orleans Saints, LSU, Louisiana (ULL), Southern Miss",43,OPEN,
-"Seattle Seahawks, Washington, WSU",43,OPEN,
+"New Orleans Saints, LSU, Louisiana (ULL), Southern Miss",39,SOLD,frntrw
+"Seattle Seahawks, Washington, WSU",43,SOLD,shandypea
 "Cincinnati Bengals, Cincinnati, Kentucky, Louisville",37.8,SOLD,pmg_collectibles
-"Pittsburgh Steelers, Pittsburgh, South Carolina, TCU",42,OPEN,
+"Pittsburgh Steelers, Pittsburgh, South Carolina, TCU",33,SOLD,dannymol09877
 "Indianapolis Colts, Indiana, Purdue, Isidore Newman School",40.5,SOLD,frntrw
 "Buffalo Bills, Syracuse, Penn State, Firebaugh High School",39.6,SOLD,kmaigatter11
-"Washington Commanders, North Carolina, Wake Forest, Virginia Tech",44,OPEN,
-"New York Jets, SMU, Virginia",43,OPEN,
-"Carolina Panthers, Clemson, NC State, Charlotte",43,OPEN,
+"Washington Commanders, North Carolina, Wake Forest, Virginia Tech",30.8,SOLD,dannymol09877
+"New York Jets, SMU, Virginia",30,SOLD,pmg_collectibles
+"Carolina Panthers, Clemson, NC State, Charlotte",28,SOLD,pmg_collectibles
 "Atlanta Falcons, Georgia, Georgia Tech, Auburn",37.8,SOLD,brian839
-"Los Angeles Chargers, Oregon, BYU, Boise State",42,OPEN,
+"Los Angeles Chargers, Oregon, BYU, Boise State",34,SOLD,pmg_collectibles
 "Miami Dolphins, Miami, Florida Atlantic",33.6,SOLD,russtang711
 "Baltimore Ravens, Maryland, West Virginia, Marshall",42,SOLD,blastfurnacehobbies
 "Jacksonville Jaguars, Florida, Florida State, UCF",36.9,SOLD,frntrw
-"Houston Texans, Houston, Baylor, Texas State",41,OPEN,
+"Houston Texans, Houston, Baylor, Texas State",28,SOLD,jlattof09
 "Green Bay Packers, Wisconsin, Iowa, Minnesota",34.85,SOLD,frntrw

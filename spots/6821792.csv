@@ -1,0 +1,15 @@
+spot,price,state,buyer
+#1,4,SOLD,dapulls
+Baltimore Ravens,4,SOLD,lambjac64397
+San Francisco 49ers,4,SOLD,linc44
+Detroit Lions,4,SOLD,lovemesomeeagles
+Arizona Cardinals,4,SOLD,lovemesomeeagles
+Tampa Bay Buccaneers,4,SOLD,steelcurtain1013
+Las Vegas Raiders,4,SOLD,lovemesomeeagles
+Jacksonville Jaguars,4,SOLD,steelcurtain1013
+Indianapolis Colts,4,SOLD,steelcurtain1013
+Los Angeles Rams,3,SOLD,steelcurtain1013
+New York Jets,4,SOLD,steelcurtain1013
+"Cleveland Browns, New England Patriots",6,SOLD,lambjac64397
+Green Bay Packers,4,SOLD,linc44
+#14,1,OPEN,

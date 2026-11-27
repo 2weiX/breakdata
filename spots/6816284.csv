@@ -1,34 +1,48 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-NIL,,OPEN,
+Arizona Cardinals,61,SOLD,wirenut207
+Baltimore Ravens,65,SOLD,roojo
+Buffalo Bills,470,SOLD,pokinets
+Carolina Panthers,73,SOLD,wirenut207
+Chicago Bears,470,SOLD,briesh81437
+Cincinnati Bengals,63,SOLD,jerg43
+Cleveland Browns,110,SOLD,givies
+Dallas Cowboys,670,SOLD,briesh81437
+Denver Broncos,390,SOLD,porch622
+Detroit Lions,73,SOLD,roojo
+Green Bay Packers,580,SOLD,jerg43
+Houston Texans,53,SOLD,wirenut207
+Indianapolis Colts,73,SOLD,tt_trades
+Jacksonville Jaguars,43,SOLD,wirenut207
+Kansas City Chiefs,420,SOLD,briesh81437
+Las Vegas Raiders,73,SOLD,tt_trades
+Los Angeles Chargers,160,SOLD,muleyfreak
+Los Angeles Rams,500,SOLD,porch622
+Miami Dolphins,53,SOLD,roojo
+Minnesota Vikings,69,SOLD,jerg43
+New England Patriots,560,SOLD,jerg43
+New York Giants,215,SOLD,girardcards
+Philadelphia Eagles,430,SOLD,porch622
+Pittsburgh Steelers,55,SOLD,muleyfreak
+San Francisco 49ers,470,SOLD,pokinets
+Seattle Seahawks,355,SOLD,girardcards
+Tampa Bay Buccaneers,74,SOLD,jacksonkwi
+Tennessee Titans,56,SOLD,tt_trades
+Washington Commanders,71,SOLD,kingdsal
+NIL,210,SOLD,givies
+T,530,SOLD,briesh81437
+T,545,SOLD,briesh81437
+T,630,SOLD,porch622
+T,420,SOLD,jerg43
+T,495,SOLD,porch622
+T,450,SOLD,pokinets
+T,470,SOLD,briesh81437
+T,425,SOLD,porch622
+T,390,SOLD,briesh81437
+T,250,SOLD,porch622
+T,285,SOLD,muleyfreak
+T,195,SOLD,givies
+T,80,SOLD,porch622
+T,68,SOLD,jacksonkwi
+T,62,SOLD,jerg43
+T,71,SOLD,jerg43
+"Atlanta Falcons, New Orleans Saints, New York Jets",85,SOLD,wirenut207

@@ -2,8 +2,44 @@ spot,price,state,buyer
 #1,127,SOLD,el_mon
 Pittsburgh Steelers,145,SOLD,el_mon
 Chicago Bears,127,SOLD,el_mon
-#4,128,SOLD,hd_breakz2
 Cleveland Browns,150,SOLD,hd_breakz2
-#6,130,SOLD,ccremin1
 Dallas Cowboys,102,SOLD,ccremin1
-#8,1,OPEN,
+#8,137,SOLD,hd_breakz2
+Philadelphia Eagles,128,SOLD,hd_breakz2
+Denver Broncos,130,SOLD,ccremin1
+San Francisco 49ers,142,SOLD,hd_breakz2
+New England Patriots,184,SOLD,hd_breakz2
+Kansas City Chiefs,125,SOLD,mmcrae2323
+#12,112,SOLD,ccremin1
+#13,125,SOLD,hd_breakz2
+Los Angeles Chargers,136,SOLD,hd_breakz2
+#15,125,SOLD,hd_breakz2
+#16,135,SOLD,hgbreaks
+Baltimore Ravens,141,SOLD,thisisaburner2026
+#18,141,SOLD,thisisaburner2026
+Minnesota Vikings,145,SOLD,hd_breakz2
+Green Bay Packers,107,SOLD,ccremin1
+#21,117,SOLD,hd_breakz2
+New York Giants,180,SOLD,hd_breakz2
+Buffalo Bills,115,SOLD,hd_breakz2
+#24,84,SOLD,6capper
+Jacksonville Jaguars,74,SOLD,6capper
+Washington Commanders,78,SOLD,srulcsales
+Los Angeles Rams,123,SOLD,hd_breakz2
+Tampa Bay Buccaneers,53,SOLD,srulcsales
+Arizona Cardinals,53,SOLD,srulcsales
+Cincinnati Bengals,53,SOLD,srulcsales
+Las Vegas Raiders,32,SOLD,6capper
+MISC,32,SOLD,kickcollectibles
+New Orleans Saints,22,SOLD,dinodan12
+Tennessee Titans,21,SOLD,dinodan12
+Miami Dolphins,38,SOLD,jonny_disco
+Detroit Lions,48,SOLD,jonny_disco
+#37,35,SOLD,torino83
+Carolina Panthers,24,SOLD,torino83
+"Indianapolis Colts, Seattle Seahawks",26,SOLD,torino83
+New York Jets,30,SOLD,chicentral2
+#41,46,SOLD,srulcsales
+Houston Texans,67,SOLD,srulcsales
+#43,60,SOLD,ccremin1
+Atlanta Falcons,28,SOLD,kickcollectibles

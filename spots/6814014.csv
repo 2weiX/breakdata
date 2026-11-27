@@ -1,10 +1,10 @@
 spot,price,state,buyer
 Spot 1,35,OPEN,
 Spot 2,35,OPEN,
-Spot 3,35,OPEN,
+Spot 3,35,SOLD,crizbbacon
 Spot 4,35,OPEN,
 Spot 5,35,OPEN,
-Spot 7,35,OPEN,
+Spot 7,35,SOLD,miktod
 Spot 9,35,OPEN,
 Spot 10,35,OPEN,
 Spot 11,35,OPEN,

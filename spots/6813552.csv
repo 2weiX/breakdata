@@ -1,42 +1,52 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-MISC,,OPEN,
-WHOEY #1,,OPEN,
-WHOEY #2,,OPEN,
-WHOEY #3,,OPEN,
-WHOEY #4,,OPEN,
-WHOEY #5,,OPEN,
-WHOEY #6,,OPEN,
-WHOEY #7,,OPEN,
-WHOEY #8,,OPEN,
+Arizona Cardinals,14,SOLD,williamlance77
+Atlanta Falcons,125,SOLD,skunkycardemporium315
+Buffalo Bills,44,SOLD,williamlance77
+Carolina Panthers,38,SOLD,rayrillo
+Chicago Bears,180,SOLD,dylintur
+Cincinnati Bengals,66,SOLD,bigjohn1204
+Cleveland Browns,63,SOLD,bigjohn1204
+Dallas Cowboys,125,SOLD,dylintur
+Denver Broncos,50,SOLD,shasha11
+Detroit Lions,80,SOLD,williamlance77
+Green Bay Packers,90,SOLD,whicord
+Houston Texans,75,SOLD,bigjohn1204
+Indianapolis Colts,13,SOLD,nate32367
+Jacksonville Jaguars,34,SOLD,whicord
+Kansas City Chiefs,126,SOLD,bigjohn1204
+Las Vegas Raiders,23,SOLD,bigjohn1204
+Los Angeles Chargers,23,SOLD,bigjohn1204
+Los Angeles Rams,95,SOLD,whicord
+Miami Dolphins,23,SOLD,ja_hova_3p
+Minnesota Vikings,180,SOLD,scootdodoubleg
+New England Patriots,86,SOLD,whicord
+New Orleans Saints,27,SOLD,ja_hova_3p
+New York Giants,175,SOLD,caseyask
+New York Jets,75,SOLD,whicord
+Philadelphia Eagles,58,SOLD,ja_hova_3p
+Pittsburgh Steelers,78,SOLD,bigjohn1204
+San Francisco 49ers,75,SOLD,bigjohn1204
+Seattle Seahawks,26,SOLD,ja_hova_3p
+Tennessee Titans,10,SOLD,ja_hova_3p
+Washington Commanders,22,SOLD,whicord
+MISC,170,SOLD,skunkycardemporium315
+WHOEY #1,190,SOLD,caseyask
+WHOEY #2,82,SOLD,whicord
+WHOEY #3,185,SOLD,caseyask
+WHOEY #4,195,SOLD,skunkycardemporium315
+WHOEY #5,125,SOLD,delidad3
+WHOEY #6,155,SOLD,beezythatguy515
+WHOEY #7,210,SOLD,caseyask
+WHOEY #8,200,SOLD,bigjohn1204
+T,180,SOLD,dylintur
+T,210,SOLD,skunkycardemporium315
+T,195,SOLD,caseyask
+T,180,SOLD,scootdodoubleg
+T,195,SOLD,caseyask
+T,165,SOLD,dylintur
+T,160,SOLD,caseyask
+T,170,SOLD,skunkycardemporium315
+T,190,SOLD,bigjohn1204
+T,165,SOLD,williamlance77
+T,83,SOLD,ja_hova_3p
+"Baltimore Ravens, Tampa Bay Buccaneers",80,SOLD,ja_hova_3p
