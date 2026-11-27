@@ -2,31 +2,31 @@ spot,price,state,buyer
 New England Patriots,1,SOLD,bigmike106
 Detroit Lions,4,SOLD,bigmike106
 Tennessee Titans,4,SOLD,shores21
-Las Vegas Raiders,4,SOLD,bigmike106
 Tampa Bay Buccaneers,4,SOLD,razz3210
 Baltimore Ravens,4,SOLD,razz3210
-#7,4,OPEN,
-#8,4,OPEN,
-#9,4,OPEN,
-#10,4,OPEN,
-#11,4,OPEN,
-#12,4,OPEN,
-#13,4,OPEN,
-#14,4,OPEN,
-#15,4,OPEN,
-#16,4,OPEN,
-#17,4,OPEN,
-#18,4,OPEN,
-#19,4,OPEN,
-#20,4,OPEN,
-#21,4,OPEN,
-#22,4,OPEN,
-#23,4,OPEN,
-#24,4,OPEN,
-#25,4,OPEN,
-#26,4,OPEN,
-#27,4,OPEN,
-#28,4,OPEN,
-#29,4,OPEN,
-#30,4,OPEN,
-#31,4,OPEN,
+New York Giants,4,SOLD,bigmike106
+Cleveland Browns,4,SOLD,mlowry833225
+Dallas Cowboys,4,SOLD,mlowry833225
+Indianapolis Colts,3,SOLD,dougie124
+Chicago Bears,2,SOLD,bigmike106
+TRADE 1,2,SOLD,bigmike106
+San Francisco 49ers,2,SOLD,bigmike106
+"New Orleans Saints, TRADE1",2.25,SOLD,bigmike106
+Jacksonville Jaguars,2.25,SOLD,bigmike106
+Arizona Cardinals,2.5,SOLD,dougie124
+Los Angeles Rams,2.5,SOLD,bigmike106
+Pittsburgh Steelers,2.5,SOLD,bigmike106
+Kansas City Chiefs,2.5,SOLD,bigmike106
+Carolina Panthers,2.5,SOLD,dougie124
+Washington Commanders,2.5,SOLD,bigmike106
+Philadelphia Eagles,2.25,SOLD,bigmike106
+Green Bay Packers,2.5,SOLD,bigmike106
+Buffalo Bills,2.25,SOLD,pick75
+Los Angeles Chargers,2.25,SOLD,pick75
+Miami Dolphins,2,SOLD,bk_express
+New York Jets,2,SOLD,bk_express
+Minnesota Vikings,2,SOLD,bigmike106
+#28,2,OPEN,
+#29,2,OPEN,
+#30,2,OPEN,
+#31,2,OPEN,

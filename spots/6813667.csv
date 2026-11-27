@@ -1,29 +1,24 @@
 spot,price,state,buyer
-Arizona Cardinals,50,OPEN,
-Atlanta Falcons,8,OPEN,
-Baltimore Ravens,10,OPEN,
-Buffalo Bills,20,OPEN,
-Carolina Panthers,20,OPEN,
-Chicago Bears,35,OPEN,
 Cleveland Browns,75,OPEN,
 Dallas Cowboys,60,OPEN,
-Denver Broncos,50,OPEN,
 Detroit Lions,8,SOLD,will0106
 Green Bay Packers,3,SOLD,chasecubsdaddy
-Houston Texans,3,OPEN,
-Indianapolis Colts,10,OPEN,
 Kansas City Chiefs,55,OPEN,
-Los Angeles Chargers,10,OPEN,
 Los Angeles Rams,50,OPEN,
-Miami Dolphins,8,OPEN,
 New England Patriots,10,SOLD,nopantslachance
 New Orleans Saints,35,OPEN,
-New York Giants,20,OPEN,
 New York Jets,60,OPEN,
 Philadelphia Eagles,55,OPEN,
 Pittsburgh Steelers,55,OPEN,
 San Francisco 49ers,50,OPEN,
-Tampa Bay Buccaneers,20,OPEN,
 Tennessee Titans,65,OPEN,
-Washington Commanders,20,OPEN,
 "Las Vegas Raiders, Jacksonville Jaguars, Cincinnati Bengals, Seattle Seahawks, Minnesota Vikings",64,SOLD,timmer43233
+Arizona Cardinals,30,SOLD,timmer43233
+"Atlanta Falcons, Baltimore Ravens, New York Giants, Tampa bay Buccaneers, Washington Commanders",51,SOLD,timmer43233
+"Buffalo Bills, Denver Broncos ",50,SOLD,rgdeals12719
+Carolina Panthers,20,SOLD,luvkd
+Chicago Bears,25,SOLD,7venty5cards
+Houston Texans,4,SOLD,bengals1229
+Indianapolis Colts,8,SOLD,luvkd
+Los Angeles Chargers,8,SOLD,jeremy26323
+Miami Dolphins,9,SOLD,jeremy26323

@@ -2,38 +2,36 @@ spot,price,state,buyer
 Arizona Cardinals,35,OPEN,
 Atlanta Falcons,12,OPEN,
 Baltimore Ravens,12,OPEN,
-Buffalo Bills,15,OPEN,
 Carolina Panthers,12,OPEN,
-Chicago Bears,15,OPEN,
 Cincinnati Bengals,12,SOLD,timelessbrandsofficial
 Cleveland Browns,12,OPEN,
 Dallas Cowboys,12,OPEN,
-Denver Broncos,12,OPEN,
 Detroit Lions,12,OPEN,
 Green Bay Packers,12,OPEN,
 Houston Texans/ UCONN,10,OPEN,
 Indianapolis Colts,12,OPEN,
-Jacksonville Jaguars,12,OPEN,
 Kansas City Chiefs,11,SOLD,bobcat2106
-Las Vegas Raiders,40,OPEN,
 Los Angeles Chargers,12,SOLD,stepheng0422
 Los Angeles Rams,15,OPEN,
 Miami Dolphins/ ND,20,OPEN,
 Minnesota Vikings,13,OPEN,
 New England Patriots,15,OPEN,
-New Orleans Saints,15,OPEN,
-New York Giants,15,OPEN,
 New York Jets,12,OPEN,
 Philadelphia Eagles,12,OPEN,
 Pittsburgh Steelers,13,SOLD,stepheng0422
 San Francisco 49ers,13,OPEN,
 Seattle Seahawks,12,OPEN,
 Tampa Bay Buccaneers,17,OPEN,
-Tennessee Titans,17,OPEN,
 Washington Commanders,12,OPEN,
-SEC,50,OPEN,
-BIG 10,40,OPEN,
 ACC,35,OPEN,
 BIG 12,35,OPEN,
 PAC 12,20,OPEN,
 OTHER NIL,15,OPEN,
+"Buffalo Bills, SAINTS",20,SOLD,markwats1234
+Chicago Bears,12.75,SOLD,amartin1212
+Denver Broncos,15,OPEN,
+Jacksonville Jaguars,8.4,SOLD,pick75
+"Las Vegas Raiders, NYG",45,SOLD,markwats1234
+Tennessee Titans,14.45,SOLD,amartin1212
+SEC,35,SOLD,bobcat2106
+BIG 10,32,SOLD,amartin1212

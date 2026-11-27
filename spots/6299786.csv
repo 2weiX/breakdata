@@ -8,8 +8,6 @@ spot,price,state,buyer
 #9,1,OPEN,
 #10,1,OPEN,
 #11,1,OPEN,
-Philadelphia Eagles,1,SOLD,bigmike106
-Pittsburgh Steelers,1,SOLD,bigmike106
 #14,1,OPEN,
 #15,1,OPEN,
 #16,1,OPEN,
@@ -26,7 +24,3 @@ Pittsburgh Steelers,1,SOLD,bigmike106
 #29,1,OPEN,
 #30,1,OPEN,
 #31,1,OPEN,
-Cleveland Browns,1,SOLD,bigmike106
-Las Vegas Raiders,1,SOLD,bigmike106
-Dallas Cowboys,1,SOLD,bigmike106
-Los Angeles Chargers,1,SOLD,bigmike106

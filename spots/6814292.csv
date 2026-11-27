@@ -1,36 +1,12 @@
 spot,price,state,buyer
-Arizona Cardinals,8,OPEN,
 Atlanta Falcons,6.4,SOLD,emby246
-Baltimore Ravens,8,OPEN,
 Buffalo Bills,5.6,SOLD,stone_in_michigan
-Carolina Panthers,6,OPEN,
-Chicago Bears,6,OPEN,
-Cincinnati Bengals,5,OPEN,
-Cleveland Browns,5,OPEN,
-Dallas Cowboys,7,OPEN,
-Denver Broncos,8,OPEN,
 Detroit Lions,8,SOLD,stone_in_michigan
-Green Bay Packers,7,OPEN,
-Houston Texans,4,OPEN,
-Indianapolis Colts,7,OPEN,
 Jacksonville Jaguars,4,SOLD,saj221974
-Kansas City Chiefs,4,OPEN,
 Las Vegas Raiders,5,SOLD,tsweitzer
-Los Angeles Chargers,3,OPEN,
-Los Angeles Rams,5,OPEN,
-Miami Dolphins,6,OPEN,
 Minnesota Vikings,5,SOLD,mike_bl
 New England Patriots,5,SOLD,mike_bl
-New Orleans Saints,5,OPEN,
-New York Jets,5,OPEN,
-Philadelphia Eagles,5,OPEN,
 Pittsburgh Steelers,11,SOLD,culessen
-San Francisco 49ers,5,OPEN,
-Seattle Seahawks,5,OPEN,
-Tampa Bay Buccaneers,5,OPEN,
-Tennessee Titans,5,OPEN,
-Washington Commanders,5,OPEN,
-Alabama,10,OPEN,
 Arkansas/Clemson,7,OPEN,
 BYU/Cal,10,OPEN,
 Duke/Hawaii/ Highschool,6,OPEN,
@@ -39,18 +15,28 @@ Georgia,6.4,SOLD,emby246
 Houston Cougars & Oilers,6,OPEN,
 Indiana/Illinois,10,OPEN,
 Kansas/KSU/Kentucky,5,OPEN,
-LSU,7,OPEN,
 Miami,9,OPEN,
 Missouri/NCST/MontanaSt,5,OPEN,
 Nebraska/UNC/Northwestern,5,OPEN,
 Oklahoma/Oklahoma State,12,OPEN,
 Ohio State,12,SOLD,tsweitzer
-Ole Miss,8,OPEN,
 PennSt/Pitt/Rutgers/SDSU,9,SOLD,meatballvito
 South Carolina/SMU,10,OPEN,
 Stanford/TCU/Tennessee,8,OPEN,
 USC,10,OPEN,
 Virginia/Washington/Wisconsin,6,OPEN,
 Oregon,8,SOLD,cmass22
-Notre Dame,12,OPEN,
 Texas/A&M/Texas Tech,10.4,SOLD,yeager76
+Arizona Cardinals,8,SOLD,cardsrfun1772
+Cincinnati Bengals,5,SOLD,downtown_jb
+Dallas Cowboys,25,SOLD,cardsrfun1772
+Denver Broncos/ KC Chiefs,8,OPEN,
+Houston Texans/ Cleveland Browns,5,OPEN,
+Indianapolis Colts,7,SOLD,cardsrfun1772
+Los Angeles Rams & Chargers,6,OPEN,
+Philadelphia Eagles/ NY Jets,6,OPEN,
+Seattle Seahawks/ TB Bucs,6,OPEN,
+Washington Commanders & Titans,6,OPEN,
+LSU,7,SOLD,downtown_jb
+Ole Miss,8,SOLD,cardsrfun1772
+49ers/Fins/Bears/Packers/Ravens/Saints,24,SOLD,culessen

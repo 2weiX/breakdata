@@ -1,7 +1,4 @@
 spot,price,state,buyer
-SEC,81,OPEN,
-ACC,41,OPEN,
-New York Jets,17,OPEN,
 Big Ten,69,SOLD,skohler
 Big 12,47,SOLD,skohler
 Las Vegas Raiders,45,SOLD,skohler
@@ -37,3 +34,6 @@ Indianapolis Colts,1,SOLD,skohler
 Los Angeles Chargers,4,SOLD,rrooney6704
 Miami Dolphins,4,SOLD,skohler
 Green Bay Packers,5,SOLD,fredk36
+SEC,65,SOLD,skohler
+ACC,30,SOLD,rrooney6704
+New York Jets,11,SOLD,pizzy69

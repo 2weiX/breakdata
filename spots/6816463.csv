@@ -1,0 +1,9 @@
+spot,price,state,buyer
+#1,127,SOLD,el_mon
+Pittsburgh Steelers,145,SOLD,el_mon
+Chicago Bears,127,SOLD,el_mon
+#4,128,SOLD,hd_breakz2
+Cleveland Browns,150,SOLD,hd_breakz2
+#6,130,SOLD,ccremin1
+Dallas Cowboys,102,SOLD,ccremin1
+#8,1,OPEN,

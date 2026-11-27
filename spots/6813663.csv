@@ -1,16 +1,24 @@
 spot,price,state,buyer
 Chicago Bears,13,SOLD,ananthegoat
-"Green Bay Packers, New England Patriots",31,SOLD,queesh44
 "Pittsburgh Steelers, Chrome Hanger ",31,SOLD,queesh44
 Jacksonville Jaguars,13,SOLD,dr_ake94
 Baltimore Ravens,13,SOLD,dr_ake94
 "Buffalo Bills, San Francisco 49ers",31,SOLD,queesh44
-Detroit Lions,13,SOLD,dr_ake94
 Cincinnati Bengals,11,SOLD,frankie_smokes
 Trade #2,11,SOLD,frankie_smokes
 Trade #1,11,SOLD,frankie_smokes
 Dallas Cowboys,13,SOLD,frankie_smokes
 "Kansas City Chiefs, Los Angeles Rams",29,SOLD,queesh44
 "Minnesota Vikings, New York Giants",29,SOLD,queesh44
-Arizona Cardinals,13,SOLD,frankie_smokes
-#15,1,OPEN,
+"Detroit Lions, New England Patriots",31,SOLD,queesh44
+Green Bay Packers,13,SOLD,dr_ake94
+New York Jets,13,SOLD,frankie_smokes
+Tampa Bay Buccaneers,13,SOLD,dr_ake94
+Select Hanger!,15,SOLD,alangivesnofox
+Miami Dolphins,13,SOLD,alangivesnofox
+"Arizona Cardinals, Seattle Seahawks",31,SOLD,queesh44
+"Las Vegas Raiders, Philadelphia Eagles",31,SOLD,queesh44
+"Tennessee Titans, Washington Commanders",32,SOLD,dr_ake94
+Chrome Hanger,15,SOLD,iammarcy58
+Cleveland Browns,9,SOLD,iammarcy58
+"Atlanta Falcons, Carolina Panthers, Houston Texans, Indianapolis Colts, Los Angeles Chargers, New Orleans Saints",45,SOLD,queesh44

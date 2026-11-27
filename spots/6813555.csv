@@ -1,35 +1,13 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-Misc Sport ,,OPEN,
-Misc Combat,,OPEN,
+"Arizona Cardinals, Chicago Bears, New England Patriots",185,SOLD,danf2611
+"Cincinnati Bengals, Kansas City Chiefs, San Francisco 49ers",185,SOLD,matthewcal23691
+"Dallas Cowboys, Detroit Lions, Tampa Bay Buccaneers",190,SOLD,ricric20805
+"Houston Texans, Los Angeles Rams, Pittsburgh Steelers",185,SOLD,jbtherookie
+"Green Bay Packers, Las Vegas Raiders, Seattle Seahawks",185,SOLD,sass1995
+"Buffalo Bills, Cleveland Browns, Misc Sport ",190,SOLD,jackd27
+Minnesota Vikings,81,SOLD,orkneybowl
+"Los Angeles Chargers, Tennessee Titans",138,SOLD,ricric20805
+Indianapolis Colts,70,SOLD,bencollectz21
+"Baltimore Ravens, Washington Commanders",138,SOLD,sass1995
+"Carolina Panthers, Miami Dolphins, New York Giants",185,SOLD,scottjor94632
+Denver Broncos,70,SOLD,cardfusion67

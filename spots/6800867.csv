@@ -1,16 +1,12 @@
 spot,price,state,buyer
-#1,10,OPEN,
 #2,10,OPEN,
-#3,10,OPEN,
 Carolina Panthers,10,SOLD,finito84
 #5,10,OPEN,
 #6,10,OPEN,
-#7,10,OPEN,
 #8,10,OPEN,
 #9,10,OPEN,
 Denver Broncos,10,SOLD,finito84
 #11,10,OPEN,
-#12,10,OPEN,
 San Francisco 49ers,10,SOLD,finito84
 #14,10,OPEN,
 #15,10,OPEN,
@@ -31,3 +27,7 @@ Tampa Bay Buccaneers,10,SOLD,finito84
 #30,10,OPEN,
 #31,10,OPEN,
 #32,10,OPEN,
+Kansas City Chiefs,10,SOLD,konradkarsch
+Miami Dolphins,10,SOLD,carbau79
+Seattle Seahawks,10,SOLD,420slik
+Indianapolis Colts,10,SOLD,carbau79

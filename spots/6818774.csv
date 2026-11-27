@@ -1,0 +1,11 @@
+spot,price,state,buyer
+Spot #1,40,OPEN,
+Spot #2,40,OPEN,
+Spot #3,40,OPEN,
+Spot #4,40,OPEN,
+Spot #5,30,SOLD,buckfama
+Spot #6,40,OPEN,
+Spot #7,40,OPEN,
+Spot #8,35,SOLD,ashspokespot
+Spot #9,40,OPEN,
+Spot #10,35,SOLD,ashspokespot

@@ -1,6 +1,5 @@
 spot,price,state,buyer
 Arizona Cardinals - Jeremiyah Love (RC),75,OPEN,
-Arizona Cardinals - Others,49,OPEN,
 Atlanta Falcons,39,OPEN,
 Baltimore Ravens,65,OPEN,
 Buffalo Bills - Josh Allen,99,OPEN,
@@ -11,13 +10,11 @@ Chicago Bears - Others,65,OPEN,
 Cincinnati Bengals,79,OPEN,
 Cleveland Browns,99,OPEN,
 Dallas Cowboys - Caleb Downs (RC),45,OPEN,
-Dallas Cowboys - Others,49,OPEN,
 Dallas Cowboys - Troy Aikman / Tony Romo,29,OPEN,
 Denver Broncos - Bo Nix,35,OPEN,
 Denver Broncos - Others,29,OPEN,
 Denver Broncos - Peyton Manning / John Elway,35,OPEN,
 Detroit Lions - Barry Sanders,25,OPEN,
-Detroit Lions - Others,29,OPEN,
 Green Bay Packers,19,OPEN,
 Houston Texans,25,OPEN,
 Indianapolis Colts,39,OPEN,
@@ -38,17 +35,20 @@ New England Patriots - Tom Brady,99,OPEN,
 New Orleans Saints - Jordyn Tyson (RC),75,OPEN,
 New Orleans Saints - Others,39,OPEN,
 New York Giants,139,OPEN,
-New York Jets,99,OPEN,
 Philadelphia Eagles - Makai Lemon (RC),49,OPEN,
-Philadelphia Eagles - Others,39,OPEN,
-Pittsburgh Steelers,99,OPEN,
 San Francisco 49ers - Joe Montana / Jerry Rice,49,OPEN,
 Seattle Seahawks - Jadarian Price (RC),49,OPEN,
 Seattle Seahawks - Others,39,OPEN,
 Tampa Bay Buccaneers,65,OPEN,
-Tennessee Titans - Cam Ward,35,OPEN,
 Tennessee Titans - Carnell Tate (RC),59,OPEN,
 Tennessee Titans - Others,21,SOLD,mathieubru
 Washington Commanders - Jayden Daniels,32,SOLD,mathieubru
 Washington Commanders - Others,22,SOLD,mathieubru
 San Francisco 49ers - Others,58.5,SOLD,tampa_greg
+Arizona Cardinals - Others,39.2,SOLD,juliolds523
+Dallas Cowboys - Others,46,SOLD,tampa_greg
+Detroit Lions - Others,23.2,SOLD,djdeeoh
+New York Jets,70,SOLD,nacas1990
+Philadelphia Eagles - Others,27.5,SOLD,flyvi37
+Pittsburgh Steelers,69.3,SOLD,latradingcards82
+Tennessee Titans - Cam Ward,35,SOLD,mathieubru

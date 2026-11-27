@@ -1,34 +1,40 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-MISC,,OPEN,
+#1,190,SOLD,jkirish1
+Buffalo Bills,340,SOLD,jkirish1
+New York Giants,390,SOLD,jkirish1
+Dallas Cowboys,360,SOLD,jkirish1
+Kansas City Chiefs,163,SOLD,dj_jay_keez
+#6,195,SOLD,jsellzcards
+Indianapolis Colts,255,SOLD,miketigs54
+San Francisco 49ers,265,SOLD,miketigs54
+Baltimore Ravens,275,SOLD,jkirish1
+Detroit Lions,300,SOLD,bountyhouse
+Minnesota Vikings,265,SOLD,jsellzcards
+New England Patriots,221,SOLD,dj_jay_keez
+Seattle Seahawks,255,SOLD,bronglazer23
+Los Angeles Chargers,221,SOLD,jsellzcards
+#15,234,SOLD,jkirish1
+Los Angeles Rams,160,SOLD,kuest
+Cleveland Browns,225,SOLD,dtmvegas
+Pittsburgh Steelers,265,SOLD,dtmvegas
+#19,226,SOLD,dtmvegas
+Arizona Cardinals,175,SOLD,kuest
+Chicago Bears,207,SOLD,kuest
+Miami Dolphins,179,SOLD,bigyetti
+Tampa Bay Buccaneers,150,SOLD,ryanbeck19637
+Denver Broncos,175,SOLD,kuest
+Washington Commanders,175,SOLD,kuest
+Philadelphia Eagles,190,SOLD,jkirish1
+#27,230,SOLD,kuest
+New York Jets,130,SOLD,shohmeiohteetteets
+MISC,165,SOLD,shohmeiohteetteets
+#30,107,SOLD,kuest
+Jacksonville Jaguars,89,SOLD,jsellzcards
+Green Bay Packers,153,SOLD,awkward_tony
+Carolina Panthers,95,SOLD,mikeowe35544
+Cincinnati Bengals,80,SOLD,scottkauf
+Houston Texans,29,SOLD,mikeowe35544
+Atlanta Falcons,25,SOLD,honolulublue88
+Las Vegas Raiders,15,SOLD,mariot102
+Tennessee Titans,8,SOLD,mikeowe35544
+New Orleans Saints,26,SOLD,joefwfd

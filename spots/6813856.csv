@@ -1,34 +1,29 @@
 spot,price,state,buyer
-🧪 Arizona Cardinals ⚗️,,OPEN,
-🧬 Atlanta Falcons 🔬,,OPEN,
-🛰️ Baltimore Ravens 🧲,,OPEN,
-🩺 Buffalo Bills 💉,,OPEN,
-🔩 Carolina Panthers ⚙️,,OPEN,
-🧫 Chicago Bears 🦠,,OPEN,
-🚀 Cincinnati Bengals 🔭,,OPEN,
-🦷 Cleveland Browns 🦴,,OPEN,
-👨‍🔬 Dallas Cowboys 🧠,,OPEN,
-🔬 Denver Broncos ⚛️,,OPEN,
-🧫 Detroit Lions ☢️,,OPEN,
-🧲 Green Bay Packers 🔋,,OPEN,
-💊 Houston Texans 🌡️,,OPEN,
-☣️ Indianapolis Colts 🧯,,OPEN,
-🫁 Jacksonville Jaguars 🫀,,OPEN,
-🌡️ Kansas City Chiefs 🩻,,OPEN,
-🤖 Las Vegas Raiders 💡,,OPEN,
-🧯 Los Angeles Chargers ☣️,,OPEN,
-🔋 Los Angeles Rams 🛰️,,OPEN,
-⚗️ Miami Dolphins 🧪,,OPEN,
-🦴 Minnesota Vikings 🦷,,OPEN,
-☢️ New England Patriots 🦠,,OPEN,
-🧪 New Orleans Saints 🧬,,OPEN,
-🔭 New York Giants 🚀,,OPEN,
-🫀 New York Jets 🫁,,OPEN,
-🧑‍🔬 Philadelphia Eagles 👩‍🔬,,OPEN,
-💉 Pittsburgh Steelers 🩺,,OPEN,
-💡 San Francisco 49ers 🤖,,OPEN,
-⚙️ Seattle Seahawks 🔩,,OPEN,
-👩‍🔬 Tampa Bay Buccaneers 👨‍🔬,,OPEN,
-🩻 Tennessee Titans 💊,,OPEN,
-🦠 Washington Commanders 🧫,,OPEN,
-🥼 MISC ⚛️,,OPEN,
+#1,91,SOLD,neecho24
+#2,94,SOLD,imadawg247
+"🧪 Arizona Cardinals ⚗️, 🧫 Chicago Bears 🦠",90,SOLD,neecho24
+"🛰️ Baltimore Ravens 🧲, 🧯 Los Angeles Chargers ☣️",90,SOLD,imadawg247
+🌡️ Kansas City Chiefs 🩻,40,SOLD,hota_sports
+#6,41,SOLD,imadawg247
+🩺 Buffalo Bills 💉,78,SOLD,sdmirrus1214
+"🧫 Detroit Lions ☢️, 🩻 Tennessee Titans 💊",41,SOLD,neecho24
+☢️ New England Patriots 🦠,88,SOLD,imadawg247
+#10,82,SOLD,sdmirrus1214
+🔭 New York Giants 🚀,84,SOLD,rennergade2012
+🤖 Las Vegas Raiders 💡,1,SOLD,sdmirrus1214
+"🚀 Cincinnati Bengals 🔭, 💉 Pittsburgh Steelers 🩺, 🥼 MISC ⚛️",80,SOLD,sdmirrus1214
+🧪 New Orleans Saints 🧬,35,SOLD,yourbos
+🦷 Cleveland Browns 🦴,38,SOLD,cgallo1011
+🧑‍🔬 Philadelphia Eagles 👩‍🔬,38,SOLD,yourbos
+🧬 Atlanta Falcons 🔬,34,SOLD,hota_sports
+🔋 Los Angeles Rams 🛰️,44,SOLD,imadawg247
+#19,40,SOLD,wsucoug55
+#20,44,SOLD,imadawg247
+☣️ Indianapolis Colts 🧯,79,SOLD,yourbos
+🦴 Minnesota Vikings 🦷,61,SOLD,imadawg247
+"👨‍🔬 Dallas Cowboys 🧠, 🧲 Green Bay Packers 🔋",53,SOLD,wsucoug55
+🔬 Denver Broncos ⚛️,51,SOLD,hota_sports
+⚙️ Seattle Seahawks 🔩,53,SOLD,sdmirrus1214
+"🫀 New York Jets 🫁, 🦠 Washington Commanders 🧫",48,SOLD,sdmirrus1214
+"⚗️ Miami Dolphins 🧪, 💡 San Francisco 49ers 🤖",39,SOLD,wsucoug55
+"🔩 Carolina Panthers ⚙️, 💊 Houston Texans 🌡️, 🫁 Jacksonville Jaguars 🫀, 👩‍🔬 Tampa Bay Buccaneers 👨‍🔬",40,SOLD,hota_sports
