@@ -1,33 +1,31 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+Kansas City Chiefs,26,SOLD,chino18025
+New England Patriots,29,SOLD,chino18025
+Minnesota Vikings,36,SOLD,ryanbeck19637
+Indianapolis Colts,35,SOLD,chino18025
+Los Angeles Rams,35,SOLD,ccline301
+Arizona Cardinals,39,SOLD,chino18025
+Baltimore Ravens,38,SOLD,ccline301
+New Orleans Saints,42,SOLD,ccline301
+Cleveland Browns,42,SOLD,fisterer12619
+Philadelphia Eagles,46,SOLD,fisterer12619
+Atlanta Falcons,57,SOLD,joshuamar75016
+New York Jets,62,SOLD,fisterer12619
+Houston Texans,94,SOLD,fisterer12619
+Carolina Panthers,79,SOLD,fisterer12619
+Jacksonville Jaguars,99,SOLD,fisterer12619
+Pittsburgh Steelers,95,SOLD,fisterer12619
+Denver Broncos,116,SOLD,egreentrader
+Buffalo Bills,88,SOLD,fisterer12619
+Detroit Lions,91,SOLD,ccline301
+Chicago Bears,32,SOLD,jwbm_rocketcity_breaks
+Cincinnati Bengals,53,SOLD,jwbm_rocketcity_breaks
+#22,60,SOLD,egreentrader
+Tennessee Titans,41,SOLD,ryanbeck19637
+Seattle Seahawks,42,SOLD,ryanbeck19637
+Las Vegas Raiders,42,SOLD,fisterer12619
+San Francisco 49ers,50,SOLD,fisterer12619
+Tampa Bay Buccaneers,35,SOLD,dez52
+New York Giants,26,SOLD,fisterer12619
+Washington Commanders,42,SOLD,mjb_222
+"Dallas Cowboys, Green Bay Packers, Los Angeles Chargers, Miami Dolphins",17,SOLD,milesbmiles

@@ -1,33 +1,36 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+Jacksonville Jaguars,160,SOLD,craigmac1212
+Las Vegas Raiders,145,SOLD,craigmac1212
+Seattle Seahawks,125,SOLD,craigmac1212
+Cincinnati Bengals,170,SOLD,craigmac1212
+Indianapolis Colts,152,SOLD,craigmac1212
+Cleveland Browns,140,SOLD,craigmac1212
+New Orleans Saints,170,SOLD,craigmac1212
+Tampa Bay Buccaneers,125,SOLD,craigmac1212
+Atlanta Falcons,145,SOLD,craigmac1212
+Los Angeles Chargers,170,SOLD,salvadorzub
+Detroit Lions,180,SOLD,craigmac1212
+Pittsburgh Steelers,170,SOLD,salvadorzub
+Los Angeles Rams,270,SOLD,hatchburrito
+Arizona Cardinals,255,SOLD,craigmac1212
+#15,152,SOLD,hatchburrito
+Chicago Bears,143,SOLD,hatchburrito
+New England Patriots,202,SOLD,craigmac1212
+Buffalo Bills,218,SOLD,craigmac1212
+San Francisco 49ers,150,SOLD,hatchburrito
+#20,210,SOLD,craigmac1212
+Carolina Panthers,116,SOLD,hatchburrito
+Minnesota Vikings,206,SOLD,hatchburrito
+Baltimore Ravens,206,SOLD,craigmac1212
+Denver Broncos,203,SOLD,hatchburrito
+#25,182,SOLD,craigmac1212
+#26,180,SOLD,guillermosal50167
+Philadelphia Eagles,141,SOLD,hatchburrito
+Miami Dolphins,168,SOLD,craigmac1212
+Dallas Cowboys,181,SOLD,craigmac1212
+New York Giants,126,SOLD,shadetreewvu
+Houston Texans,131,SOLD,craigmac1212
+Kansas City Chiefs,160,SOLD,craigmac1212
+Tennessee Titans,115,SOLD,hatchburrito
+Green Bay Packers,69,SOLD,shadetreewvu
+"New York Jets, Washington Commanders",137,SOLD,shadetreewvu
