@@ -1,34 +1,40 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-MISC,,OPEN,
+Cincinnati Bengals,200,SOLD,asassen
+Pittsburgh Steelers,172,SOLD,calmer_than_you_are
+Los Angeles Chargers,200,SOLD,skunkycardemporium315
+Baltimore Ravens,203,SOLD,jaxpav
+Minnesota Vikings,161.6,SOLD,slantbreaks
+t,215,SOLD,slantbreaks
+t,215,SOLD,slantbreaks
+t,171,SOLD,skunkycardemporium315
+Philadelphia Eagles,250,SOLD,slantbreaks
+New York Giants,305,SOLD,slantbreaks
+Cleveland Browns,155,SOLD,skunkycardemporium315
+Washington Commanders,230,SOLD,johnspa26815
+t,235,SOLD,johnspa26815
+Buffalo Bills,240,SOLD,bailey1013
+New England Patriots,225,SOLD,johnspa26815
+Dallas Cowboys,200,SOLD,asassen
+Atlanta Falcons,175,SOLD,travis1742
+t,170,SOLD,travis1742
+t,184,SOLD,skunkycardemporium315
+San Francisco 49ers,199,SOLD,skunkycardemporium315
+MISC,190,SOLD,bailey1013
+Tampa Bay Buccaneers,201,SOLD,cisners_onlysams
+Las Vegas Raiders,215,SOLD,cisners_onlysams
+Seattle Seahawks,214,SOLD,cisners_onlysams
+Detroit Lions,245,SOLD,cisners_onlysams
+New Orleans Saints,270,SOLD,cisners_onlysams
+Chicago Bears,290,SOLD,cisners_onlysams
+Kansas City Chiefs,225,SOLD,cisners_onlysams
+Miami Dolphins,160,SOLD,cisners_onlysams
+Denver Broncos,135,SOLD,skunkycardemporium315
+New York Jets,105,SOLD,travis1742
+Green Bay Packers,102,SOLD,travis1742
+Houston Texans,96,SOLD,generalfive1
+Indianapolis Colts,111,SOLD,cisners_onlysams
+Arizona Cardinals,108,SOLD,johnkho23
+Los Angeles Rams,137,SOLD,bailey1013
+Carolina Panthers,51,SOLD,327cards
+Tennessee Titans,50,SOLD,skunkycardemporium315
+Jacksonville Jaguars,62,SOLD,asassen

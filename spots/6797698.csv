@@ -1,33 +1,22 @@
 spot,price,state,buyer
-Arizona Cardinals,15,OPEN,
-Atlanta Falcons,7,OPEN,
-Baltimore Ravens,11,OPEN,
-Buffalo Bills,15,OPEN,
-Carolina Panthers,8,OPEN,
+Baltimore Ravens,4,SOLD,krhab
+Buffalo Bills,12,SOLD,schaller_onlineshop
 Chicago Bears,17,SOLD,smokingcutler
 Cincinnati Bengals,9,SOLD,relaxoo
 Cleveland Browns,8,SOLD,smokingcutler
-Dallas Cowboys,18,OPEN,
-Denver Broncos,12,OPEN,
-Detroit Lions,15,OPEN,
+Dallas Cowboys,10,SOLD,smokingcutler
+Denver Broncos,11,SOLD,krhab
+Lions + Vikings + Giants + Jets,45,SOLD,smokingcutler
 Green Bay Packers,4,SOLD,obiwantoastbrodi
 Houston Texans,5,SOLD,smokingcutler
 Indianapolis Colts,5,SOLD,smokingcutler
-Jacksonville Jaguars,12,OPEN,
 Kansas City Chiefs,0,SOLD,chrisrlz
 Las Vegas Raiders,20,SOLD,smokingcutler
-Los Angeles Chargers,9,OPEN,
 Los Angeles Rams,19,SOLD,obiwantoastbrodi
 Miami Dolphins,15,SOLD,smokingcutler
-Minnesota Vikings,15,OPEN,
-New England Patriots,18,OPEN,
+Patriots + Jaguars,23,SOLD,schaller_onlineshop
 New Orleans Saints,3,SOLD,smokingcutler
-New York Giants,15,OPEN,
-New York Jets,15,OPEN,
-Philadelphia Eagles,12,OPEN,
 Pittsburgh Steelers,5,SOLD,smokingcutler
-San Francisco 49ers,18,OPEN,
-Seattle Seahawks,18,OPEN,
-Tampa Bay Buccaneers,12,OPEN,
-Tennessee Titans,15,OPEN,
-Washington Commanders,8,OPEN,
+49ers + Titans,25,SOLD,smokingcutler
+Tampa Bay Buccaneers,9,SOLD,obiwantoastbrodi
+Commanders + Chargers + Panthers,20,SOLD,smokingcutler

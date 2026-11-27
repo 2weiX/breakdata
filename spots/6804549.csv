@@ -1,33 +1,31 @@
 spot,price,state,buyer
-#1,21,SOLD,smokingcutler
-#2,21,OPEN,
-#3,21,SOLD,kaypi84
-#4,21,OPEN,
-#5,21,OPEN,
-#6,21,OPEN,
-#7,21,OPEN,
-#8,21,SOLD,jhl83
-#9,21,OPEN,
-#10,21,OPEN,
-#11,21,OPEN,
-#12,21,OPEN,
-#13,21,OPEN,
-#14,21,OPEN,
-#15,21,OPEN,
-#16,21,SOLD,jhl83
-#17,21,SOLD,berto0407
-#18,21,SOLD,brayce90
-#19,21,OPEN,
-#20,21,OPEN,
-#21,21,OPEN,
-#22,21,OPEN,
-#23,21,OPEN,
-#24,21,OPEN,
-#25,21,SOLD,brayce90
-#26,21,SOLD,miguellissabon
-#27,21,OPEN,
-#28,21,OPEN,
-#29,21,OPEN,
-#30,21,OPEN,
-#31,21,OPEN,
-#32,21,OPEN,
+Cleveland Browns,21,SOLD,smokingcutler
+San Francisco 49ers,18,SOLD,brayce90
+Arizona Cardinals,21,SOLD,kaypi84
+Los Angeles Rams,18,SOLD,flyingelvis1187
+Carolina Panthers,15,SOLD,flyingelvis1187
+Jacksonville Jaguars,21,SOLD,flyingelvis1187
+Atlanta Falcons,1,SOLD,7eventv
+Miami Dolphins,21,SOLD,jhl83
+Seattle Seahawks,17,SOLD,flyingelvis1187
+Minnesota Vikings,17,SOLD,koeter88
+New Orleans Saints,17,SOLD,craden1181
+Indianapolis Colts,18,SOLD,kaypi84
+Chicago Bears,17,SOLD,ecki91
+New York Giants,19,SOLD,brayce90
+Pittsburgh Steelers,17,SOLD,miguellissabon
+Baltimore Ravens,21,SOLD,jhl83
+Cincinnati Bengals,21,SOLD,berto0407
+Houston Texans,21,SOLD,brayce90
+Philadelphia Eagles,15,SOLD,enragefrandi
+Tennessee Titans,15,SOLD,miguellissabon
+Las Vegas Raiders,17,SOLD,brayce90
+Dallas Cowboys,17,SOLD,ecki91
+Denver Broncos,15,SOLD,benediktsee
+Green Bay Packers,21,SOLD,brayce90
+New England Patriots,21,SOLD,miguellissabon
+Buffalo Bills,11,SOLD,koeter88
+Los Angeles Chargers,15,SOLD,brayce90
+Tampa Bay Buccaneers,15,SOLD,jf21000
+New York Jets,17,SOLD,benediktsee
+Washington Commanders,1,SOLD,7eventv

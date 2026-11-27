@@ -1,28 +1,28 @@
 spot,price,state,buyer
-Arizona Cardinals,7,OPEN,
+Arizona Cardinals,5.6,SOLD,lehspencer
 Atlanta Falcons,6,SOLD,unreconstructed
-Baltimore Ravens,6,OPEN,
+Baltimore Ravens,5.1,SOLD,bigtexcardshoppe
 Buffalo Bills,9,SOLD,paulie716
 Carolina Panthers,9,OPEN,
 Chicago Bears,12,SOLD,eloe1975
 Cincinnati Bengals,4.2,SOLD,granitestatetradingcards
 Cleveland Browns,9,OPEN,
-Dallas Cowboys,6,OPEN,
-Denver Broncos,14,OPEN,
+Dallas Cowboys,6,SOLD,allenp0415
+Denver Broncos,14,SOLD,allenp0415
 Detroit Lions,7,OPEN,
 Green Bay Packers,7,SOLD,jenjen29520
 Houston Texans,5,OPEN,
 Indianapolis Colts,8,SOLD,eloe1975
-Jacksonville Jaguars,14,OPEN,
+Jacksonville Jaguars,9,OPEN,
 Kansas City Chiefs,8,SOLD,squeals
 Las Vegas Raiders,7,SOLD,paulie716
-Los Angeles Chargers,10,OPEN,
-Los Angeles Rams,5,OPEN,
+Los Angeles Chargers,8,OPEN,
+Los Angeles Rams,3.5,SOLD,granitestatetradingcards
 Miami Dolphins,6,OPEN,
 Minnesota Vikings,8,OPEN,
-New England Patriots,14,OPEN,
-New Orleans Saints,7,OPEN,
-New York Giants,13,OPEN,
+New England Patriots,14,SOLD,glass_cannon
+New Orleans Saints,7,SOLD,robrobertf
+New York Giants,10,OPEN,
 New York Jets,6,OPEN,
 Philadelphia Eagles,6,OPEN,
 Pittsburgh Steelers,5,SOLD,thankful_always_first_of_1
@@ -30,8 +30,8 @@ San Francisco 49ers,8,OPEN,
 Seattle Seahawks,6,OPEN,
 Tampa Bay Buccaneers,7,OPEN,
 Tennessee Titans,10,SOLD,paulie716
-Washington Commanders,15,OPEN,
-"NIL A - Oregon, Ohio State, Georgia, Texas",15,OPEN,
+Washington Commanders,10,OPEN,
+"NIL A - Oregon, Ohio State, Georgia, Texas",15,SOLD,allenp0415
 "NIL B - Alabama, Notre Dame, USC, LSU, Ole Miss",9.6,SOLD,czajka77
 "NIL C - Oklahoma, Texas A&M, Indiana, Clemson, Penn State, Florida State, & Miami",8,SOLD,eloe1975
-"NIL D - All other schools, including Texas Tech, High School and No Team NIL cards",18,OPEN,
+"NIL D - All other schools, including Texas Tech, High School and No Team NIL cards",15,OPEN,

@@ -1,36 +1,27 @@
 spot,price,state,buyer
-Arizona Cardinals,7,OPEN,
-Atlanta Falcons,7,OPEN,
-Baltimore Ravens,14,OPEN,
-Buffalo Bills,16,OPEN,
-Carolina Panthers,7,OPEN,
-Chicago Bears,26,OPEN,
-Cincinnati Bengals,14,OPEN,
-Cleveland Browns,8,OPEN,
-Dallas Cowboys,27,OPEN,
-Denver Broncos,18,OPEN,
+"Arizona Cardinals, Atlanta Falcons",10,SOLD,mrb420breaks
+"Baltimore Ravens, Washington Commanders",10,SOLD,mrb420breaks
+"Buffalo Bills, Chicago Bears",20,SOLD,mrb420breaks
+Carolina Panthers,5.6,SOLD,case_breakers_llc
+Cincinnati Bengals,5.6,SOLD,bigtexcardshoppe
+Cleveland Browns,5,SOLD,dr_ake94
+Dallas Cowboys,15,SOLD,dtowns87
+"Denver Broncos, Pittsburgh Steelers",35,SOLD,queesh44
 Detroit Lions,16,SOLD,dtowns87
-Green Bay Packers,25,OPEN,
-Houston Texans,8,OPEN,
-Indianapolis Colts,13,OPEN,
-Jacksonville Jaguars,7,OPEN,
-Kansas City Chiefs,21,OPEN,
+Green Bay Packers,15,SOLD,dr_ake94
+"Jacksonville Jaguars, Los Angeles Rams",10,SOLD,mrb420breaks
+Kansas City Chiefs,5.6,SOLD,bigtexcardshoppe
 Las Vegas Raiders,14,SOLD,dr_ake94
-Los Angeles Chargers,12,OPEN,
-Los Angeles Rams,13,OPEN,
+Los Angeles Chargers,5,SOLD,dr_ake94
 Minnesota Vikings,12,SOLD,loveslc
 New England Patriots,14,SOLD,dr_ake94
-New Orleans Saints,7,OPEN,
-New York Giants,19,OPEN,
+New Orleans Saints,6.3,SOLD,loveslc
+New York Giants,5.25,SOLD,dr_ake94
 New York Jets,9.6,SOLD,dr_ake94
-Philadelphia Eagles,20,OPEN,
-Pittsburgh Steelers,25,OPEN,
-San Francisco 49ers,26,OPEN,
-Seattle Seahawks,7,OPEN,
-Tampa Bay Buccaneers,8,OPEN,
-Tennessee Titans/Houston Oilers,7,OPEN,
-Washington Commanders,15,OPEN,
+San Francisco 49ers,18.2,SOLD,dr_ake94
+Seattle Seahawks,5.6,SOLD,bigtexcardshoppe
+Tampa Bay Buccaneers,5.6,SOLD,bigtexcardshoppe
+Tennessee Titans/Houston Oilers,7,SOLD,titanfan01
 NIL –Northeast & Midwest,15,SOLD,josh3517
-NIL – Southeast,15,OPEN,
-NIL – Southwest & Heartland,15,OPEN,
-NIL – West Coast & Pacific,15,OPEN,
+NIL – Southeast & West Cost/Pacific,15,SOLD,josh3517
+NIL – Southwest & Heartland,12,SOLD,yeager76

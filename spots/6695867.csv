@@ -1,16 +1,19 @@
 spot,price,state,buyer
+AZ- Carson Beck & Jeremiah Love,599,OPEN,
 ATL-Atlanta Falcons Team Rest,7,SOLD,henrylin93105
 ATL-Bijan Robinson,125,SOLD,jacksonsalkin
 ATL-Zachariah Branch,4,SOLD,duodeckbreaks
 BAL-Baltimore Ravens Team Rest,20,SOLD,henrylin93105
+BAL- Lamar Jackson & Derrick Henry & Jakobi Lane,399,OPEN,
 "BUF-Josh Allen, Bills Team Rest, Joe Burrow",550,SOLD,azbird77
-CAR-Carolna Panthers Team Rest,75,OPEN,
+CAR-Carolna Panthers Team Rest,20,SOLD,seansummers
 CAR- Bryce Young,319,OPEN,
 CAR- Tetoria Mcmillan,219,OPEN,
 CHI-Chicago Bears Team Rest,50,SOLD,alex153_
 CHI- Caleb Williams,399,OPEN,
 CIN-Jamarr Chase & Cin Rest,75,SOLD,parkcard
-CLE-Cleveland Browns Team Rest,100,OPEN,
+CLE-Cleveland Browns Team Rest,28,SOLD,daytont
+CLE-Denzel Boston & KC Concepion,300,OPEN,
 CLE & RAMS- Myles Garrett,250,OPEN,
 DAL-Dallas Cowboys Team Rest,100,OPEN,
 DAL-Dak Prescott,150,OPEN,
@@ -20,7 +23,10 @@ DEN- Bo Nix & Den Team Rest,210,SOLD,duodeckbreaks
 DEN-Jonah Coleman,40,SOLD,parkcard
 DET-Jahmyr Gibbs,150,OPEN,
 DET-Jared Goff,100,OPEN,
+GB- Jordan Love & Christian Watson,320,OPEN,
 GB-Matthew Golden & GB Rest,125,SOLD,henrylin93105
+HOU-Houston Texans Team Rest & Stroud,299,OPEN,
+IND-Indianapolis Colts Team Rest & Taylor,225,OPEN,
 "JAC-Jacksonville Jaguars Team Rest, Cardinals Team Rest",85,SOLD,azbird77
 JAC-Trevor Lawrence,200,OPEN,
 KC-Kansas City Chiefs Team Rest,100,OPEN,
@@ -30,20 +36,27 @@ KC-Garrett Nussmier,200,OPEN,
 KC-Emmett Johnson,75,SOLD,chappy68
 LV-Las Vegas Raiders Team Rest,50,SOLD,azbird77
 LV-Mike Washington,11,SOLD,cardkillacorey
-LV-Fernando Mendoza,799,OPEN,
+LV-Fernando Mendoza,9999,OPEN,
+LAC-LA Chargers Team Rest & Justin Herbert,275,OPEN,
 LAC-Omarion Hampton,5,SOLD,parkcard
+LAR-LA Rams Team Rest & Puka Nacua,225,OPEN,
 LAR-Matthew Stafford,399,OPEN,
 LAR-Ty Simpson,250,OPEN,
 MIA-Miami Dolphins Team Rest,52.5,SOLD,keabobby
+MIA-Jacob Rodriguez ,40,SOLD,keabobby
+MIN-Minnesota Vikings Team Rest & Justin Jefferson,275,OPEN,
 NE-New England Patriots Team Rest,175,OPEN,
 NE-Drake Maye,399,OPEN,
 NE & TB- Tom Brady,699,OPEN,
 NYG-New York Giants Team Rest,200,OPEN,
 NYG-Jaxson Dart,249,OPEN,
+NYJ-New York Jets Team Rest & Sadiq,200,OPEN,
 NYJ-Cade Klubnik,200,OPEN,
 NYJ-David Bailey,125,OPEN,
+PHI-Philadelphia Eagles Team Rest & Lemon,275,OPEN,
 PHI-Jalen Hurts,150,OPEN,
 PHI-Saquan Barkley,50,SOLD,azbird77
+PIT-Pittsburgh Steelers Team Rest & Bernard,225,OPEN,
 PIT-Drew Allar,200,OPEN,
 SF-San Fran 49ers Team Rest,225,OPEN,
 SF- Brock Purdy,150,SOLD,azbird77
@@ -54,20 +67,8 @@ TB-Tampa Bay Bucs Team Rest,175,OPEN,
 TB-Baker Mayfield,55,SOLD,rydog_rippzz
 TB-Emeka Egbuka,12,SOLD,cardkillacorey
 TEN-Tennessee Titans Team Rest,20,SOLD,rebel1320
+TEN-Cam Ward & Carnell Tate,450,OPEN,
 WAS-Jayden Daniels,399,OPEN,
 WAS-Sonny Styles,125,OPEN,
-AZ- Carson Beck & Jeremiah Love,599,OPEN,
-BAL- Lamar Jackson & Derrick Henry & Jakobi Lane,399,OPEN,
-CLE-Denzel Boston & KC Concepion,300,OPEN,
-GB- Jordan Love & Christian Watson,320,OPEN,
-HOU-Houston Texans Team Rest & Stroud,299,OPEN,
-IND-Indianapolis Colts Team Rest & Taylor,225,OPEN,
-LAC-LA Chargers Team Rest & Justin Herbert,275,OPEN,
-LAR-LA Rams Team Rest & Puka Nacua,225,OPEN,
-MIA-Jacob Rodriguez & Devon Achane,200,OPEN,
-MIN-Minnesota Vikings Team Rest & Justin Jefferson,275,OPEN,
-NYJ-New York Jets Team Rest & Sadiq,200,OPEN,
-PHI-Philadelphia Eagles Team Rest & Lemon,275,OPEN,
-PIT-Pittsburgh Steelers Team Rest & Bernard,225,OPEN,
-TEN-Cam Ward & Carnell Tate,450,OPEN,
 ATL- Bijan Robinson,150,OPEN,
+MIA- Devon Achane,75,OPEN,

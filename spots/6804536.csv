@@ -1,34 +1,46 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-MISC,,OPEN,
+Denver Broncos,106,SOLD,johnkho23
+Jacksonville Jaguars,109,SOLD,asassen
+T,119,SOLD,asassen
+Dallas Cowboys,126,SOLD,ckrickl
+New England Patriots,122,SOLD,jcarroll57
+Detroit Lions,117,SOLD,generalfive1
+T,117,SOLD,calmer_than_you_are
+Los Angeles Rams,120,SOLD,johnkho23
+Los Angeles Chargers,106,SOLD,calmer_than_you_are
+MISC,100,SOLD,calmer_than_you_are
+Seattle Seahawks,101,SOLD,tony77max
+Houston Texans,145,SOLD,krup_cardz
+Minnesota Vikings,132,SOLD,captainchunkss
+T,132,SOLD,captainchunkss
+Cleveland Browns,117,SOLD,captainchunkss
+T,101,SOLD,captainchunkss
+Cincinnati Bengals,136,SOLD,captainchunkss
+New York Giants,182,SOLD,bailey1013
+T,132,SOLD,captainchunkss
+Chicago Bears,97,SOLD,captainchunkss
+T,92,SOLD,skunkycardemporium315
+T,111,SOLD,bailey1013
+T,105,SOLD,skunkycardemporium315
+Tampa Bay Buccaneers,97,SOLD,captainchunkss
+Kansas City Chiefs,99,SOLD,tony77max
+T,86,SOLD,tony77max
+Las Vegas Raiders,77,SOLD,tony77max
+Philadelphia Eagles,93,SOLD,captainchunkss
+Pittsburgh Steelers,79,SOLD,bailey1013
+T,66,SOLD,captainchunkss
+Green Bay Packers,82,SOLD,captainchunkss
+T,75,SOLD,captainchunkss
+T,87,SOLD,captainchunkss
+Buffalo Bills,79,SOLD,captainchunkss
+Baltimore Ravens,76,SOLD,skunkycardemporium315
+San Francisco 49ers,64,SOLD,tony77max
+New York Jets,18,SOLD,tony77max
+Indianapolis Colts,20,SOLD,skunkycardemporium315
+Carolina Panthers,23,SOLD,skunkycardemporium315
+Washington Commanders,18,SOLD,generalfive1
+New Orleans Saints,23,SOLD,skunkycardemporium315
+Atlanta Falcons,25,SOLD,bailey1013
+Tennessee Titans,20,SOLD,jaxpav
+Miami Dolphins,16,SOLD,ckrickl
+Arizona Cardinals,27,SOLD,tony77max

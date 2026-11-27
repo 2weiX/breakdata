@@ -1,0 +1,38 @@
+spot,price,state,buyer
+NIL,200,SOLD,jfo18041
+Kansas City Chiefs,111,SOLD,billybobtheclown
+Green Bay Packers,125,SOLD,billybobtheclown
+Chicago Bears,120,SOLD,tysonfuj
+Cleveland Browns,115,SOLD,tysonfuj
+New York Giants,93,SOLD,grillinator86
+San Francisco 49ers,93,SOLD,hornsup247
+Dallas Cowboys,109,SOLD,hornsup247
+#9,99,SOLD,tysonfuj
+Los Angeles Rams,115,SOLD,tysonfuj
+Miami Dolphins,105,SOLD,lickhitty
+#12,125,SOLD,joetunstall3
+Pittsburgh Steelers,125,SOLD,joetunstall3
+Cincinnati Bengals,94,SOLD,lickhitty
+#15,99,SOLD,tysonfuj
+Philadelphia Eagles,111,SOLD,joetunstall3
+Minnesota Vikings,93,SOLD,zainshe40714
+#18,92,SOLD,zainshe40714
+Houston Texans,95,SOLD,frankie_sigg
+New England Patriots,149,SOLD,tysonfuj
+#21,120,SOLD,frankie_sigg
+Tampa Bay Buccaneers,113,SOLD,zainshe40714
+Seattle Seahawks,0,SOLD,moebk718
+Buffalo Bills,160,SOLD,moebk718
+#25,135,SOLD,frankie_sigg
+#26,130,SOLD,zainshe40714
+Las Vegas Raiders,123,SOLD,timgavitt
+Detroit Lions,125,SOLD,frankie_sigg
+Denver Broncos,90,SOLD,zainshe40714
+#30,118,SOLD,timgavitt
+#31,100,SOLD,zainshe40714
+Los Angeles Chargers,96,SOLD,zainshe40714
+"Baltimore Ravens, Carolina Panthers",46,SOLD,timgavitt
+"Atlanta Falcons, Jacksonville Jaguars",31,SOLD,tysonfuj
+"New Orleans Saints, Washington Commanders",25,SOLD,huejaynis
+"Arizona Cardinals, Tennessee Titans",22,SOLD,tysonfuj
+"Indianapolis Colts, New York Jets",19,SOLD,moebk718
