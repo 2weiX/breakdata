@@ -1,39 +1,39 @@
 spot,price,state,buyer
 SEC,81,OPEN,
-Big Ten,69,OPEN,
-Big 12,47,OPEN,
 ACC,41,OPEN,
-Las Vegas Raiders,45,OPEN,
-Tennessee Titans,23,OPEN,
-Arizona Cardinals,28,OPEN,
-Buffalo Bills,20,OPEN,
-Kansas City Chiefs,25,OPEN,
-New York Giants,20,OPEN,
-Notre Dame,30,OPEN,
-Los Angeles Rams,17,OPEN,
 New York Jets,17,OPEN,
-All Other Conferences,36,OPEN,
-Cincinnati Bengals,16,OPEN,
-New England Patriots,16,OPEN,
-Pittsburgh Steelers,16,OPEN,
-San Francisco 49ers,16,OPEN,
-Chicago Bears,14,OPEN,
-Dallas Cowboys,14,OPEN,
-New Orleans Saints,14,OPEN,
-Baltimore Ravens,13,OPEN,
-Cleveland Browns,13,OPEN,
-Denver Broncos,13,OPEN,
-Minnesota Vikings,13,OPEN,
-Philadelphia Eagles,11,OPEN,
-Tampa Bay Buccaneers,11,OPEN,
-Washington Commanders,11,OPEN,
-Atlanta Falcons,9,OPEN,
-Detroit Lions,9,OPEN,
-Jacksonville Jaguars,9,OPEN,
-Seattle Seahawks,9,OPEN,
-Carolina Panthers,8,OPEN,
-Houston Texans,8,OPEN,
-Indianapolis Colts,8,OPEN,
-Los Angeles Chargers,8,OPEN,
-Miami Dolphins,8,OPEN,
-Green Bay Packers,5,OPEN,
+Big Ten,69,SOLD,skohler
+Big 12,47,SOLD,skohler
+Las Vegas Raiders,45,SOLD,skohler
+Tennessee Titans,23,SOLD,rrooney6704
+Arizona Cardinals,28,SOLD,skohler
+Buffalo Bills,20,SOLD,rrooney6704
+Kansas City Chiefs,9,SOLD,rrooney6704
+New York Giants,20,SOLD,rrooney6704
+Notre Dame,36,SOLD,rrooney6704
+Los Angeles Rams,10,SOLD,rrooney6704
+All Other Conferences,36,SOLD,rrooney6704
+Cincinnati Bengals,14,SOLD,rrooney6704
+New England Patriots,14,SOLD,rrooney6704
+Pittsburgh Steelers,9,SOLD,rrooney6704
+San Francisco 49ers,11,SOLD,rrooney6704
+Chicago Bears,12,SOLD,rrooney6704
+Dallas Cowboys,11,SOLD,rrooney6704
+New Orleans Saints,14,SOLD,taylor36527
+Baltimore Ravens,13,SOLD,rrooney6704
+Cleveland Browns,17,SOLD,fredk36
+Denver Broncos,18,SOLD,rrooney6704
+Minnesota Vikings,6,SOLD,skohler
+Philadelphia Eagles,9,SOLD,rrooney6704
+Tampa Bay Buccaneers,9,SOLD,pizzy69
+Washington Commanders,3,SOLD,skohler
+Atlanta Falcons,7,SOLD,rrooney6704
+Detroit Lions,9,SOLD,rrooney6704
+Jacksonville Jaguars,9,SOLD,rrooney6704
+Seattle Seahawks,9,SOLD,rrooney6704
+Carolina Panthers,6,SOLD,rrooney6704
+Houston Texans,5,SOLD,fredk36
+Indianapolis Colts,1,SOLD,skohler
+Los Angeles Chargers,4,SOLD,rrooney6704
+Miami Dolphins,4,SOLD,skohler
+Green Bay Packers,5,SOLD,fredk36

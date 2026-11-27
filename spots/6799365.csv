@@ -8,14 +8,10 @@ Miami Dolphins,49,OPEN,
 Pittsburgh Steelers,51,OPEN,
 Minnesota Vikings,55,OPEN,
 New York Jets,55,OPEN,
-New York Giants,63,OPEN,
 Cleveland Browns,63,OPEN,
 Chicago Bears,57,SOLD,lynjas
-Denver Broncos,81,OPEN,
 Baltimore Ravens,81,OPEN,
 Philadelphia Eagles,81,OPEN,
-Green Bay Packers,81,OPEN,
-Washington Commanders,81,OPEN,
 Detroit Lions,81,OPEN,
 New Orleans Saints,93,OPEN,
 Cincinnati Bengals,93,OPEN,
@@ -31,3 +27,7 @@ Los Angeles Rams,153,OPEN,
 New England Patriots,175,OPEN,
 Arizona Cardinals,175,OPEN,
 Las Vegas Raiders,258,OPEN,
+New York Giants,63,SOLD,tmayrips
+Denver Broncos,56.7,SOLD,5280rips
+Green Bay Packers,52.25,SOLD,thos13
+Washington Commanders,64.8,SOLD,mikew1
