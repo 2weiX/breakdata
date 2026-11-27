@@ -1,18 +1,43 @@
 spot,price,state,buyer
 Los Angeles Rams,215,SOLD,skunkycardemporium315
 Kansas City Chiefs,202,SOLD,asassen
-#3,220,SOLD,nicbri61865
+T,220,SOLD,nicbri61865
 Cincinnati Bengals,215,SOLD,nicbri61865
-Miami Dolphins,210,SOLD,asassen
+T,210,SOLD,asassen
 Buffalo Bills,204,SOLD,nicbri61865
 Washington Commanders,226,SOLD,bigjohn1204
 Minnesota Vikings,220,SOLD,skunkycardemporium315
 New York Giants,220,SOLD,bigjohn1204
 MISC,220,SOLD,nicbri61865
 Las Vegas Raiders,230,SOLD,bigjohn1204
-#12,230,SOLD,calmer_than_you_are
-#13,215,SOLD,calmer_than_you_are
+T,230,SOLD,calmer_than_you_are
+T,215,SOLD,calmer_than_you_are
 Pittsburgh Steelers,155,SOLD,skunkycardemporium315
-Houston Texans,230,SOLD,calmer_than_you_are
+T,230,SOLD,calmer_than_you_are
 New England Patriots,250,SOLD,buzzy_sports
 San Francisco 49ers,145,SOLD,skunkycardemporium315
+Dallas Cowboys,226,SOLD,calmer_than_you_are
+T,171,SOLD,caseyask
+T,181,SOLD,caseyask
+Denver Broncos,140,SOLD,calmer_than_you_are
+T,180,SOLD,caseyask
+Detroit Lions,140,SOLD,calmer_than_you_are
+Chicago Bears,141,SOLD,calmer_than_you_are
+T,94,SOLD,bigjohn1204
+Seattle Seahawks,115,SOLD,tmart2592
+Los Angeles Chargers,131,SOLD,caseyask
+Baltimore Ravens,105,SOLD,scootdodoubleg
+Green Bay Packers,96,SOLD,bigjohn1204
+Philadelphia Eagles,85,SOLD,delidad3
+Carolina Panthers,72,SOLD,caseyask
+Cleveland Browns,75,SOLD,caseyask
+Arizona Cardinals,21,SOLD,buzzy_sports
+Jacksonville Jaguars,50,SOLD,jaxpav
+New Orleans Saints,39,SOLD,delidad3
+Houston Texans,38,SOLD,cloud9_collectibles
+New York Jets,40,SOLD,jeansean38
+Tennessee Titans,53,SOLD,jeansean38
+Indianapolis Colts,59,SOLD,jeansean38
+Atlanta Falcons,59,SOLD,jeansean38
+Miami Dolphins,49,SOLD,cloud9_collectibles
+Tampa Bay Buccaneers,56,SOLD,skunkycardemporium315

@@ -1,80 +1,151 @@
 spot,price,state,buyer
-Mansoor Delane,2,SOLD,hobbymama5
-Kaytron Allen,4,SOLD,jakefis
-Nick Emmanwori,3,SOLD,jakefis
-Quinn Meinerz,2,SOLD,hadden_jim
-Reggie Virgil,3,SOLD,indyadam
-Kyle Pitts Sr.,5,SOLD,reign_14
-Warren Sapp,6,SOLD,reign_14
-Pat Freiermuth,6,SOLD,bswanson950
-TreVeyon Henderson,6,SOLD,reign_14
-Lamar Jackson,5,SOLD,koachk60
-Taysom Hill,7,SOLD,reign_14
-Richard Sherman,5,SOLD,koachk60
-Keon Coleman,7,SOLD,bswanson950
-Tez Johnson,4,SOLD,koachk60
-Tacario Davis,6,SOLD,reign_14
-Uchenna Nwosu,7,SOLD,reign_14
-Joe Milton III,7,SOLD,reign_14
-Xavier Legette,6,SOLD,bswanson950
-Terrell Suggs,6,SOLD,shaddberg
-Xavier Watts,4,SOLD,717packrats
-Sam Darnold,6,SOLD,reign_14
-Roger Craig,5,SOLD,shaddberg
-Rashod Bateman,6,SOLD,reign_14
-Tyson Bagent,6,SOLD,coltim49969
-Keldric Faulk,6,SOLD,coltim49969
-Dak Prescott,6,SOLD,shaddberg
-Lawrence Taylor,7,SOLD,reign_14
-Saquon Barkley,7,SOLD,reign_14
-Tommy Tremble,6,SOLD,t_moon
-Kris Jenkins,5,SOLD,koachk60
-Sauce Gardner,6,SOLD,reign_14
-Jordan Mailata,6,SOLD,reign_14
-Larry Fitzgerald,7,SOLD,reign_14
-Sean Taylor,6,SOLD,mike_calloway
-Rhamondre Stevenson,7,SOLD,reign_14
-Kaleb Johnson,7,SOLD,kalebhannz
-Robert Spillane,7,SOLD,reign_14
-Juwan Johnson,7,SOLD,kalebhannz
-Bijan Robinson,6,SOLD,reign_14
-Maurice Jones-Drew,6,SOLD,reign_14
-Steve Largent,6,SOLD,reign_14
-Tyler Warren,6,SOLD,reign_14
-Zavion Thomas,7,SOLD,mike_calloway
-Malachi Lawrence,9,SOLD,jjmoss5
-Terrell Davis,7,SOLD,reign_14
-Maxx Crosby,7,SOLD,reign_14
-Josh Cameron,7,SOLD,reign_14
-Travis Kelce,7,SOLD,reign_14
-Tre Harris III,7,SOLD,trinkettrav88
-Peter Woods,8,SOLD,reign_14
-Zach Charbonnet,8,SOLD,consim34184
-Ty Law,8,SOLD,consim34184
-Malik Nabers,9,SOLD,reign_14
-Travon Walker,8,SOLD,consim34184
-Kirk Cousins,8,SOLD,consim34184
-Will Reichard,9,SOLD,reign_14
-John Riggins,9,SOLD,buzzinhard
-Malachi Fields,9,SOLD,buzzinhard
-Joe Montana,8,SOLD,reign_14
-Trey McBride,8,SOLD,reign_14
-Tyreek Hill,7,SOLD,reign_14
-Ollie Gordon II,9,SOLD,mcgeeathletix
-Woody Marks,9,SOLD,johknee710
-Rod Woodson,7,SOLD,reign_14
-Von Miller,8,SOLD,johknee710
-Theo Johnson,9,SOLD,reign_14
-Fernando Mendoza,11,SOLD,johknee710
-Malcolm Smith,7,SOLD,reign_14
-Josh Jacobs,8,SOLD,johknee710
-Tre Tucker,10,SOLD,reign_14
-Jared Goff,7,SOLD,johknee710
-Will Levis,9,SOLD,ilovegarretwilson123
-Nate Wiggins,7,SOLD,johknee710
-Kyle Monangai,15,SOLD,reign_14
-Quay Walker,8,SOLD,trooper1444
-Zach Allen,9,SOLD,johknee710
-Sterling Sharpe,7,SOLD,reign_14
-Tucker Kraft,8,SOLD,johknee710
-#79,8,SOLD,consim34184
+Tom Brady,,OPEN,
+Caleb Williams,,OPEN,
+Fernando Mendoza,,OPEN,
+Lamar Jackson,,OPEN,
+Jayden Daniels,,OPEN,
+Brock Purdy,,OPEN,
+CJ Stroud,,OPEN,
+Dak Prescott,,OPEN,
+Bryce Young,,OPEN,
+Jordan Love,,OPEN,
+Saquon Barkley,,OPEN,
+Bijan Robinson,,OPEN,
+Derrick Henry,,OPEN,
+Amon-Ra St. Brown,,OPEN,
+Arvell Reese,,OPEN,
+Brock Bowers,,OPEN,
+Jaxon Smith-Njigba,,OPEN,
+Jordyn Tyson,,OPEN,
+Rob Gronkowski,,OPEN,
+Carson Beck,,OPEN,
+Jared Goff,,OPEN,
+CeeDee Lamb,,OPEN,
+Drew Allar,,OPEN,
+KC Concepcion,,OPEN,
+Jim McMahon,,OPEN,
+Jimmy Horn Jr.,,OPEN,
+Joe Alt,,OPEN,
+Joe Flacco,,OPEN,
+Joe Milton III,,OPEN,
+Joe Montana,,OPEN,
+Joe Thomas,,OPEN,
+Joe Thuney,,OPEN,
+Joey Porter Jr.,,OPEN,
+John Elway,,OPEN,
+John Riggins,,OPEN,
+Jonah Coleman,,OPEN,
+Jonathan Allen,,OPEN,
+Jonathan Mingo,,OPEN,
+Jonathan Ogden,,OPEN,
+Jonathan Taylor,,OPEN,
+Jordan Addison,,OPEN,
+Jordan Mailata,,OPEN,
+Jordan Whittington,,OPEN,
+Josh Cameron,,OPEN,
+Josh Downs,,OPEN,
+Josh Hines-Allen,,OPEN,
+Josh Jacobs,,OPEN,
+Joshua Karty,,OPEN,
+Josiah Trotter,,OPEN,
+Julian Neal,,OPEN,
+Junior Colson,,OPEN,
+Justin Herbert,,OPEN,
+Justin Joly,,OPEN,
+Juwan Johnson,,OPEN,
+K'Lavon Chaisson,,OPEN,
+Kadyn Proctor,,OPEN,
+Kaelon Black,,OPEN,
+Kaleb Johnson,,OPEN,
+Kam Chancellor,,OPEN,
+Kamari Lassiter,,OPEN,
+Kamren Kinchens,,OPEN,
+Kayden McDonald,,OPEN,
+Kayshon Boutte,,OPEN,
+Kaytron Allen,,OPEN,
+Keith Abney II,,OPEN,
+Keldric Faulk,,OPEN,
+Kendrick Law,,OPEN,
+Kenneth Gainwell,,OPEN,
+Kenneth Grant,,OPEN,
+Kenneth Walker III,,OPEN,
+Kenny Clark,,OPEN,
+Kenyon Sadiq,,OPEN,
+Keon Coleman,,OPEN,
+Kevin Winston Jr.,,OPEN,
+Keylan Rutledge,,OPEN,
+Khalil Mack,,OPEN,
+Khalil Shakir,,OPEN,
+Kirk Cousins,,OPEN,
+Kobie Turner,,OPEN,
+Kool-Aid McKinstry,,OPEN,
+Kris Jenkins,,OPEN,
+Kurt Warner,,OPEN,
+Kyle Hamilton,,OPEN,
+Kyle Juszczyk,,OPEN,
+Kyle Monangai,,OPEN,
+Kyle Pitts Sr.,,OPEN,
+Kyle Williams,,OPEN,
+Kyler Murray,,OPEN,
+Kyren Williams,,OPEN,
+Ladd McConkey,,OPEN,
+Laiatu Latu,,OPEN,
+Laremy Tunsil,,OPEN,
+Larry Fitzgerald,,OPEN,
+Lawrence Taylor,,OPEN,
+Lee Hunter,,OPEN,
+LeRoy Butler,,OPEN,
+LeSean McCoy,,OPEN,
+Lukas Van Ness,,OPEN,
+Luke Kuechly,,OPEN,
+Luke McCaffrey,,OPEN,
+Luke Musgrave,,OPEN,
+Luke Schoonmaker,,OPEN,
+Luther Burden III,,OPEN,
+Mack Hollins,,OPEN,
+Malachi Fields,,OPEN,
+Malachi Lawrence,,OPEN,
+Malcolm Smith,,OPEN,
+Malik Nabers,,OPEN,
+Malik Washington,,OPEN,
+Malik Willis,,OPEN,
+Mansoor Delane,,OPEN,
+Marist Liufau,,OPEN,
+Mark Andrews,,OPEN,
+Marlin Klein,,OPEN,
+MarShawn Lloyd,,OPEN,
+Marvin Harrison Jr.,,OPEN,
+Marvin Mims Jr.,,OPEN,
+Mason Graham,,OPEN,
+Mason Taylor,,OPEN,
+Matthew Golden,,OPEN,
+Maurice Jones-Drew,,OPEN,
+Max Klare,,OPEN,
+Maxx Crosby,,OPEN,
+Micah Parsons,,OPEN,
+Michael Irvin,,OPEN,
+Michael Mayer,,OPEN,
+Michael Penix Jr.,,OPEN,
+Michael Strahan,,OPEN,
+Michael Vick,,OPEN,
+Michael Wilson,,OPEN,
+Mike Alstott,,OPEN,
+Mike Evans,,OPEN,
+Mike Sainristil,,OPEN,
+Mike Singletary,,OPEN,
+Mike Washington Jr.,,OPEN,
+Minkah Fitzpatrick,,OPEN,
+Montez Sweat,,OPEN,
+Nakobe Dean,,OPEN,
+Nate Boerkircher,,OPEN,
+Nate Wiggins,,OPEN,
+Nick Bolton,,OPEN,
+Nick Bosa,,OPEN,
+Nick Emmanwori,,OPEN,
+Nick Singleton,,OPEN,
+Nico Collins,,OPEN,
+Nik Bonitto,,OPEN,
+Olamide Zaccheaus,,OPEN,
+Ollie Gordon II,,OPEN,
+Omar Cooper Jr.,,OPEN,
+Omarion Hampton,,OPEN,

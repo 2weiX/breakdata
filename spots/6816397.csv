@@ -1,7 +1,7 @@
 spot,price,state,buyer
 Denver Broncos,220,SOLD,lukeyports
 New England Patriots,300,SOLD,flandersnj32
-#3,265,SOLD,buzzy_sports
+Las Vegas Raiders,265,SOLD,buzzy_sports
 Los Angeles Rams,301,SOLD,buzzy_sports
 Green Bay Packers,271,SOLD,ghoem5
 #6,245,SOLD,lukeyports
@@ -11,12 +11,34 @@ San Francisco 49ers,242,SOLD,goody_rips
 Baltimore Ravens,201,SOLD,bnel555
 Dallas Cowboys,285,SOLD,lukeyports
 #12,199,SOLD,calmer_than_you_are
-#13,210,SOLD,bnel555
+Tennessee Titans,210,SOLD,bnel555
 Cincinnati Bengals,195,SOLD,calmer_than_you_are
-Arizona Cardinals,255,SOLD,patoc15119
+#15,255,SOLD,patoc15119
 Minnesota Vikings,240,SOLD,patoc15119
 Carolina Panthers,239,SOLD,patoc15119
-#18,240,SOLD,patoc15119
-Washington Commanders,214,SOLD,ghoem5
+"Miami Dolphins, New York Jets",240,SOLD,patoc15119
+#19,214,SOLD,ghoem5
 Kansas City Chiefs,226,SOLD,ghoem5
-#21,194,SOLD,bnel555
+Misc,194,SOLD,bnel555
+New York Giants,210,SOLD,cromags
+Los Angeles Chargers,200,SOLD,cromags
+Tampa Bay Buccaneers,206,SOLD,cromags
+Atlanta Falcons,204,SOLD,cromags
+#26,195,SOLD,bnel555
+Buffalo Bills,200,SOLD,cromags
+Washington Commanders,195,SOLD,cromags
+#29,301,SOLD,cromags
+#30,201,SOLD,cromags
+"Arizona Cardinals, Detroit Lions",200,SOLD,cromags
+#32,245,SOLD,cromags
+#33,220,SOLD,cromags
+Jacksonville Jaguars,160,SOLD,flandersnj32
+Chicago Bears,146,SOLD,flandersnj32
+Philadelphia Eagles,120,SOLD,bnel555
+Houston Texans,110,SOLD,flandersnj32
+Pittsburgh Steelers,100,SOLD,incognit0
+Seattle Seahawks,19,SOLD,kdckid
+#40,16,SOLD,buzzy_sports
+Indianapolis Colts,8,SOLD,kdckid
+New Orleans Saints,9,SOLD,patoc15119
+#43,10,SOLD,patoc15119

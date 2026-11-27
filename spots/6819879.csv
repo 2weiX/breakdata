@@ -1,8 +1,33 @@
 spot,price,state,buyer
-"Buffalo Bills, Jacksonville Jaguars",21,SOLD,warmark9290
-"Arizona Cardinals, Tennessee Titans",21,SOLD,dark_lord_collectibles
-"Green Bay Packers, Houston Texans, New England Patriots",39,SOLD,krausshaussofcards
-"Denver Broncos, Los Angeles Chargers, New York Giants",39,SOLD,bigdaddyyyjohn
-Carolina Panthers,12,SOLD,garves323
-"Cincinnati Bengals, Kansas City Chiefs, Miami Dolphins",39,SOLD,jaketay71043
-"Baltimore Ravens, Washington Commanders",20,SOLD,mikestrick91
+Arizona Cardinals,,OPEN,
+Atlanta Falcons,,OPEN,
+Baltimore Ravens,,OPEN,
+Buffalo Bills,,OPEN,
+Carolina Panthers,,OPEN,
+Chicago Bears,,OPEN,
+Cincinnati Bengals,,OPEN,
+Cleveland Browns,,OPEN,
+Dallas Cowboys,,OPEN,
+Denver Broncos,,OPEN,
+Detroit Lions,,OPEN,
+Green Bay Packers,,OPEN,
+Houston Texans,,OPEN,
+Indianapolis Colts,,OPEN,
+Jacksonville Jaguars,,OPEN,
+Kansas City Chiefs,,OPEN,
+Las Vegas Raiders,,OPEN,
+Los Angeles Chargers,,OPEN,
+Los Angeles Rams,,OPEN,
+Miami Dolphins,,OPEN,
+Minnesota Vikings,,OPEN,
+New England Patriots,,OPEN,
+New Orleans Saints,,OPEN,
+New York Giants,,OPEN,
+New York Jets,,OPEN,
+Philadelphia Eagles,,OPEN,
+Pittsburgh Steelers,,OPEN,
+San Francisco 49ers,,OPEN,
+Seattle Seahawks,,OPEN,
+Tampa Bay Buccaneers,,OPEN,
+Tennessee Titans,,OPEN,
+Washington Commanders,,OPEN,

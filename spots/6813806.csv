@@ -8,8 +8,8 @@ AUBURN,7,SOLD,rakkedup
 BAYLOR,6,SOLD,wbb21
 BOISE STATE,3,SOLD,chasecardfinderz
 BOSTON COLLEGE,1,SOLD,chasecardfinderz
-BYU,31,SOLD,chasecardfinderz
-CALIFORNIA,21,SOLD,chasecardfinderz
+BYU,62,OPEN,
+CALIFORNIA,40,OPEN,
 CINCINNATI,6,SOLD,chasecardfinderz
 CLEMSON,10,SOLD,rkb_sports
 COLORADO,6,SOLD,rkb_sports
@@ -33,7 +33,7 @@ LOUISIANA,5,SOLD,rkb_sports
 LOUISVILLE,1,SOLD,chasecardfinderz
 LSU,12,SOLD,rakkedup
 MARYLAND,2,SOLD,chasecardfinderz
-MIAMI + DUKE,60,SOLD,labfam5
+MIAMI + DUKE,87,OPEN,
 MICHIGAN,30,SOLD,broccoli95
 MICHIGAN STATE,7,SOLD,rkb_sports
 MINNESOTA,1,SOLD,chasecardfinderz
@@ -43,9 +43,9 @@ NEBRASKA,20,SOLD,chasecardfinderz
 NEW MEXICO,3,SOLD,rkb_sports
 NORTH CAROLINA,6,SOLD,labfam5
 NORTHWESTERN,6,SOLD,rkb_sports
-NOTRE DAME,80,SOLD,chasecardfinderz
+NOTRE DAME,103,OPEN,
 Missouri/OHIO STATE,33,SOLD,chasecardfinderz
-OKLAHOMA STATE,60,SOLD,drok13
+OKLAHOMA STATE,87,OPEN,
 OLE MISS,8.5,SOLD,gatorraid319
 OREGON,20,SOLD,cblade19
 PENN STATE,3,SOLD,dennisl4601
@@ -67,7 +67,7 @@ Combo For Gearup UCONN/Syracuse,5,SOLD,gearupcards
 UNLV,1,SOLD,chasecardfinderz
 USC,25,SOLD,hobottnews
 UTAH,11,SOLD,dennisl4601
-VANDERBILT,10,SOLD,cblade19
+VANDERBILT,25,OPEN,
 **COMBO FOR WBB21: WAKE FOREST/OU/Texas State,34,SOLD,wbb21
 WASHINGTON,15,SOLD,kenlays_kollectibles
 WEST VIRGINIA,8,SOLD,chasecardfinderz

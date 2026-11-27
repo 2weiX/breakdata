@@ -1,32 +1,33 @@
 spot,price,state,buyer
-Arizona Cardinals,7.6,SOLD,bcm_collectables
-Atlanta Falcons,9,SOLD,jacksonbur
-Baltimore Ravens,4,SOLD,bcm_collectables
-Buffalo Bills,27.55,SOLD,bcm_collectables
-Carolina Panthers,5,SOLD,lemike15
-Chicago Bears,30,SOLD,bcm_collectables
-Cincinnati Bengals,24,SOLD,662waxrips
-Cleveland Browns,4,SOLD,662waxrips
-Dallas Cowboys,3,SOLD,662waxrips
-Denver Broncos,16,SOLD,bcm_collectables
-Detroit Lions,9,SOLD,662waxrips
-Green Bay Packers,6,SOLD,bcm_collectables
-Houston Texans,5,SOLD,bcm_collectables
-Indianapolis Colts,2,SOLD,cadencards4
-Jacksonville Jaguars,3,SOLD,662waxrips
-Kansas City Chiefs,40.5,SOLD,bcm_collectables
+Arizona Cardinals,35,OPEN,
+Atlanta Falcons,10,OPEN,
+Baltimore Ravens,14,OPEN,
+Buffalo Bills,38,OPEN,
+Carolina Panthers,11,OPEN,
+Chicago Bears,39,OPEN,
+Cincinnati Bengals,28,OPEN,
+Cleveland Browns,20,OPEN,
+Dallas Cowboys,22,OPEN,
+Denver Broncos,22,OPEN,
+Detroit Lions,19,OPEN,
+Green Bay Packers,17,OPEN,
+Houston Texans,11,OPEN,
+Indianapolis Colts,12,OPEN,
+Jacksonville Jaguars,13,OPEN,
+Kansas City Chiefs,63,OPEN,
 Las Vegas Raiders,85,SOLD,terryben04049
-Los Angeles Chargers,0.85,SOLD,662waxrips
-Los Angeles Rams,18,SOLD,662waxrips
-Miami Dolphins,4,SOLD,cadencards4
-Minnesota Vikings,4,SOLD,bcm_collectables
-New England Patriots,55,SOLD,bcm_collectables
-New Orleans Saints,9,SOLD,bcm_collectables
-New York Giants,19,SOLD,bcm_collectables
-Philadelphia Eagles,10,SOLD,squirrelsmas
-Pittsburgh Steelers,9,SOLD,donger_need_food
-San Francisco 49ers,24,SOLD,marcus07
-Seattle Seahawks,12,SOLD,662waxrips
-Tampa Bay Buccaneers,10,SOLD,bcm_collectables
-Tennessee Titans,5,SOLD,662waxrips
-Washington Commanders,15,SOLD,bcm_collectables
+Los Angeles Chargers,10,OPEN,
+Los Angeles Rams,45,OPEN,
+Miami Dolphins,9,OPEN,
+Minnesota Vikings,14,OPEN,
+New England Patriots,64,OPEN,
+New Orleans Saints,22,OPEN,
+New York Giants,35,OPEN,
+New York Jets,20,OPEN,
+Philadelphia Eagles,28,OPEN,
+Pittsburgh Steelers,22,OPEN,
+San Francisco 49ers,34,OPEN,
+Seattle Seahawks,44,OPEN,
+Tampa Bay Buccaneers,29,OPEN,
+Tennessee Titans,16,OPEN,
+Washington Commanders,22,OPEN,
