@@ -2,17 +2,6 @@ spot,price,state,buyer
 Los Angeles Chargers,23,SOLD,matthewemm94205
 Miami Dolphins,23,SOLD,matthewemm94205
 Houston Texans,23,SOLD,matthewemm94205
-#12,23,OPEN,
-#13,23,OPEN,
-#14,23,OPEN,
-#15,23,OPEN,
-#16,23,OPEN,
-#17,23,OPEN,
-#18,23,OPEN,
-#19,23,OPEN,
-#20,23,OPEN,
-#21,23,OPEN,
-#22,23,OPEN,
 #23,23,OPEN,
 #24,23,OPEN,
 #25,23,OPEN,
@@ -28,4 +17,15 @@ Denver Broncos,20,SOLD,tgrizzo
 Green Bay Packers,23,SOLD,matthewemm94205
 Pittsburgh Steelers,20,SOLD,matthewemm94205
 Tennessee Titans,20,SOLD,dylanbootsradio
-"Cincinnati Bengals, Los Angeles Rams",50,SOLD,switzbreakz
+"Cincinnati Bengals, Detroit Lions, Los Angeles Rams",50,SOLD,switzbreakz
+Kansas City Chiefs,22,SOLD,dylanbootsradio
+Atlanta Falcons,20,SOLD,craigm7
+"Arizona Cardinals, Jacksonville Jaguars",45,SOLD,upnorthhype
+Philadelphia Eagles,20,SOLD,matthewemm94205
+Baltimore Ravens,20,SOLD,upnorthhype
+Cleveland Browns,20,SOLD,craigm7
+New England Patriots,20,SOLD,craigm7
+Las Vegas Raiders,25,SOLD,craigm7
+"Buffalo Bills, Carolina Panthers, Tampa Bay Buccaneers",51,SOLD,sushicon
+Seattle Seahawks,15,SOLD,dylanbootsradio
+Washington Commanders,15,SOLD,dylanbootsradio
