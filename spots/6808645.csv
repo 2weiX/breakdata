@@ -1,11 +1,7 @@
 spot,price,state,buyer
-Arizona Cardinals,16,OPEN,
-Atlanta Falcons,7,OPEN,
-Baltimore Ravens,8,OPEN,
 Buffalo Bills,13,SOLD,robertaug061194
 Carolina Panthers,7,SOLD,jasonnel09764
 Chicago Bears,16,SOLD,cardsfan87
-Cleveland Browns,8,OPEN,
 Dallas Cowboys,9.9,SOLD,princesssam789
 Denver Broncos,10,SOLD,jndt
 Detroit Lions,4,SOLD,robertaug061194
@@ -15,9 +11,7 @@ Indianapolis Colts,5,SOLD,robertaug061194
 Jacksonville Jaguars,10.2,SOLD,beantownautographs
 Kansas City Chiefs,15,SOLD,caseycheifs
 Las Vegas Raiders & Cincinnati Bengals,30,SOLD,rayw20147
-Los Angeles Chargers,6,OPEN,
 Los Angeles Rams,10,SOLD,beantownautographs
-Minnesota Vikings,8,OPEN,
 New England Patriots,12.75,SOLD,beantownautographs
 "Pittsburgh Steelers, New Orleans Saints, Miami Dolphins & New York Jets",30,SOLD,booobooo_steelah
 New York Giants,11,SOLD,rioeduardo91063
@@ -27,3 +21,8 @@ Seattle Seahawks,8,SOLD,twhistler2010
 Tampa Bay Buccaneers,8,SOLD,dillanzimstream
 Tennessee Titans,9,SOLD,trooper1444
 Washington Commanders,7,SOLD,jmdisc4
+Arizona Cardinals,12.8,SOLD,beantownautographs
+Atlanta Falcons,5,SOLD,beantownautographs
+Baltimore Ravens & Minnesota Vikings,11,SOLD,leelov20984
+Cleveland Browns,6,SOLD,twhistler2010
+Los Angeles Chargers,4,SOLD,leelov20984

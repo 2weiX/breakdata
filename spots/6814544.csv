@@ -1,4 +1,19 @@
 spot,price,state,buyer
 Los Angeles Dodgers,24,SOLD,mandos_bounties
 "Boston Red Sox, St. Louis Cardinals",35,SOLD,mike_bl
-#3,1,OPEN,
+Detroit Tigers,21,SOLD,stone_in_michigan
+New York Mets,15,SOLD,wlkfool
+Oakland Athletics,15,SOLD,wlkfool
+Cincinnati Reds,15,SOLD,wlkfool
+Pittsburgh Pirates,20,SOLD,culessen
+Milwaukee Brewers,22,SOLD,culessen
+New York Yankees,20,SOLD,adamp44
+Washington Nationals,14,SOLD,adamp44
+Kansas City Royals,14,SOLD,wlkfool
+Seattle Mariners,14,SOLD,stone_in_michigan
+Chicago White Sox,18,SOLD,gumsy
+Chicago Cubs,14,SOLD,rdoorans
+Baltimore Orioles,14,SOLD,rdoorans
+Cleveland Guardians,13,SOLD,stone_in_michigan
+"Los Angeles Angels, Philadelphia Phillies, San Francisco Giants",30,SOLD,dave484
+"Arizona Diamondbacks, Atlanta Braves, Colorado Rockies, Houston Astros, Miami Marlins, Minnesota Twins, San Diego Padres, Tampa Bay Rays, Texas Rangers",90,SOLD,stone_in_michigan

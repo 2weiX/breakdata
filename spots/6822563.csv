@@ -1,34 +1,44 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-MISC,,OPEN,
+Chicago Bears,116,SOLD,vegasmann
+#2,131,SOLD,vegasmann
+San Francisco 49ers,110,SOLD,vegasmann
+Baltimore Ravens,116,SOLD,vegasmann
+#5,102,SOLD,vegasmann
+Green Bay Packers,135,SOLD,vegasmann
+Los Angeles Rams,146,SOLD,tigersfan2031
+New England Patriots,140,SOLD,vegasmann
+#9,132,SOLD,tigersfan2031
+Kansas City Chiefs,135,SOLD,tigersfan2031
+Washington Commanders,125,SOLD,cgoodwin65
+Houston Texans,121,SOLD,mattbezo
+Minnesota Vikings,116,SOLD,artiez
+MISC,115,SOLD,cgoodwin65
+Dallas Cowboys,115,SOLD,vegasmann
+New York Giants,120,SOLD,artiez
+#17,106,SOLD,vegasmann
+#18,111,SOLD,artiez
+#19,111,SOLD,vegasmann
+#20,88,SOLD,artiez
+Denver Broncos,93,SOLD,dmazurke12
+#22,93,SOLD,dmazurke12
+#23,91.2,SOLD,dmazurke12
+Tampa Bay Buccaneers,94,SOLD,dmazurke12
+Los Angeles Chargers,90,SOLD,dmazurke12
+Cincinnati Bengals,93,SOLD,dmazurke12
+Detroit Lions,79,SOLD,cgoodwin65
+Atlanta Falcons,72,SOLD,cgoodwin65
+#30,68,SOLD,astory306
+Pittsburgh Steelers,68,SOLD,astory306
+Philadelphia Eagles,57,SOLD,kadyndil
+Las Vegas Raiders,41,SOLD,kadyndil
+Buffalo Bills,39,SOLD,kadyndil
+#35,42,SOLD,kadyndil
+Seattle Seahawks,40,SOLD,codman323
+New York Jets,44,SOLD,andrewpop84
+Jacksonville Jaguars,48,SOLD,codman323
+Cleveland Browns,48,SOLD,roojo
+New Orleans Saints,4,SOLD,roojo
+Tennessee Titans,10,SOLD,andrewpop84
+Carolina Panthers,5,SOLD,argyleeaglecards11
+Miami Dolphins,6,SOLD,roojo
+"Arizona Cardinals, Indianapolis Colts",3,SOLD,andrewpop84

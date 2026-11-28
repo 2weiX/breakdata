@@ -1,7 +1,5 @@
 spot,price,state,buyer
-Arizona Cardinals,90,OPEN,
 Atlanta Falcons,20,SOLD,bgabreaks
-Baltimore Ravens,50,OPEN,
 Buffalo Bills,80,SOLD,chicago_card_collector
 Carolina Panthers,30,SOLD,unwantedmcchicken007
 Chicago Bears,80,SOLD,cubsbearsdude1983
@@ -11,28 +9,28 @@ Dallas Cowboys,35,SOLD,nxtyear09
 Denver Broncos,48,SOLD,craigsdisc
 Detroit Lions,50,SOLD,unwantedmcchicken007
 Green Bay Packers,20,SOLD,spicyonly
-Houston Texans,30,OPEN,
-Indianapolis Colts,25,OPEN,
-Jacksonville Jaguars,30,OPEN,
 Kansas City Chiefs,85,SOLD,bigalssportscards
 Las Vegas Raiders,110,SOLD,mvbcollections
-Los Angeles Chargers,30,OPEN,
 Los Angeles Rams,65,SOLD,mvbcollections
 Miami Dolphins,15,SOLD,ragz954
-Minnesota Vikings,35,OPEN,
-New England Patriots,80,OPEN,
-New Orleans Saints,60,OPEN,
-New York Giants,70,OPEN,
-New York Jets,40,OPEN,
 Philadelphia Eagles,33,SOLD,wiz714sportscards
-Pittsburgh Steelers,50,OPEN,
-San Francisco 49ers,65,OPEN,
-Seattle Seahawks,65,OPEN,
-Tampa Bay Buccaneers,75,OPEN,
-Tennessee Titans,55,OPEN,
 Washington Commanders,32,SOLD,jtknap
-BIG 10,130,OPEN,
 BIG 12,110,SOLD,cubsbearsdude1983
 ACC,77,SOLD,catfishunter
-SEC,130,OPEN,
 Other NIL/Notre Dame,72,SOLD,cubsbearsdude1983
+Arizona Cardinals,42,SOLD,craigsdisc
+Baltimore Ravens,20,SOLD,mvbcollections
+Houston Texans,20,SOLD,craigsdisc
+Indianapolis Colts,2,SOLD,nickrobo
+Jacksonville Jaguars,9,SOLD,nickrobo
+Los Angeles Chargers,7,SOLD,cubsbearsdude1983
+Minnesota Vikings,25,SOLD,craigsdisc
+New England Patriots,32,SOLD,nickrobo
+New Orleans Saints,14,SOLD,nickrobo
+New York Giants,17,SOLD,mrcbcollections
+New York Jets,40,SOLD,pespina9
+San Francisco 49ers,65,SOLD,tuffpulls
+Seattle Seahawks,39,SOLD,mrcbcollections
+Tampa Bay Buccaneers,19,SOLD,albertjr10
+Tennessee Titans,38,SOLD,cubsbearsdude1983
+"SEC, BIG 10, STEELERS",200,SOLD,nickrobo

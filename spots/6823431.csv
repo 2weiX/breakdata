@@ -1,29 +1,25 @@
 spot,price,state,buyer
-Arizona Cardinals,94,OPEN,
 Atlanta Falcons,32,OPEN,
 Baltimore Ravens,38,OPEN,
-Buffalo Bills,50,OPEN,
 Carolina Panthers,39,OPEN,
-Chicago Bears,48,OPEN,
-Cincinnati Bengals,43,OPEN,
-Dallas Cowboys,44,OPEN,
-Denver Broncos,38,OPEN,
-Detroit Lions,36,OPEN,
-Green Bay Packers,33,OPEN,
 Houston Texans,31,OPEN,
 Indianapolis Colts,33,OPEN,
 Jacksonville Jaguars,37,OPEN,
-Kansas City Chiefs,55,OPEN,
-Las Vegas Raiders,124,OPEN,
-Los Angeles Rams,69,OPEN,
 Miami Dolphins,34,OPEN,
 Minnesota Vikings,41,OPEN,
-New Orleans Saints,61,OPEN,
-New York Giants,49,OPEN,
-New York Jets,39,OPEN,
-Philadelphia Eagles,63,OPEN,
-Pittsburgh Steelers,37,OPEN,
-San Francisco 49ers,48,OPEN,
 Seattle Seahawks,34,OPEN,
-Tampa Bay Buccaneers,64,OPEN,
-Washington Commanders,33,OPEN,
+"Arizona Cardinals, Cowboys",76.5,SOLD,gripitnripitbreaks
+Buffalo Bills,35,SOLD,ashleyhad58800
+Chicago Bears,40.8,SOLD,keemzkardz_jwcpa
+Green Bay Packers,33,SOLD,mags_n_slabs
+Kansas City Chiefs,44,SOLD,tpp48
+Las Vegas Raiders,105.4,SOLD,mags_n_slabs
+"Los Angeles Rams, Bengals, Commies",85,SOLD,bubblegumbreaks
+New Orleans Saints,45,SOLD,gripitnripitbreaks
+"New York Giants, Lions",54,SOLD,216hits
+New York Jets,31.2,SOLD,gripitnripitbreaks
+Philadelphia Eagles,40,SOLD,baboons24
+Pittsburgh Steelers,29.6,SOLD,javonc420
+San Francisco 49ers,40.8,SOLD,keemzkardz_jwcpa
+"Tampa Bay Buccaneers, Patriots",75,SOLD,highsteaks
+Browns,28,SOLD,216hits

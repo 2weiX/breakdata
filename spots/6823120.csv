@@ -1,31 +1,25 @@
 spot,price,state,buyer
-Arizona Diamondbacks,,OPEN,
-Atlanta Braves,,OPEN,
-Baltimore Orioles,,OPEN,
-Boston Red Sox,,OPEN,
-Chicago Cubs,,OPEN,
-Chicago White Sox,,OPEN,
-Cincinnati Reds,,OPEN,
-Cleveland Guardians,,OPEN,
-Colorado Rockies,,OPEN,
-Detroit Tigers,,OPEN,
-Houston Astros,,OPEN,
-Kansas City Royals,,OPEN,
-Los Angeles Angels,,OPEN,
-Los Angeles Dodgers,,OPEN,
-Miami Marlins,,OPEN,
-Milwaukee Brewers,,OPEN,
-Minnesota Twins,,OPEN,
-New York Mets,,OPEN,
-New York Yankees,,OPEN,
-Oakland Athletics,,OPEN,
-Philadelphia Phillies,,OPEN,
-Pittsburgh Pirates,,OPEN,
-San Diego Padres,,OPEN,
-San Francisco Giants,,OPEN,
-Seattle Mariners,,OPEN,
-St. Louis Cardinals,,OPEN,
-Tampa Bay Rays,,OPEN,
-Texas Rangers,,OPEN,
-Toronto Blue Jays,,OPEN,
-Washington Nationals,,OPEN,
+Minnesota Twins,1,SOLD,shaunwent
+Cincinnati Reds,1,SOLD,jimwent
+Los Angeles Dodgers,2,SOLD,shaunwent
+Miami Marlins,2,SOLD,jimwent
+Toronto Blue Jays,4,SOLD,shaunwent
+Oakland Athletics,13,SOLD,stuartler
+Cleveland Guardians,5,SOLD,shaunwent
+Boston Red Sox,1,SOLD,jimwent
+Milwaukee Brewers,20,SOLD,stuartler
+Washington Nationals,10,SOLD,jimwent
+Baltimore Orioles,32,SOLD,stuartler
+"Colorado Rockies, New York Yankees",10,SOLD,shaunwent
+Pittsburgh Pirates,36,SOLD,jimwent
+St. Louis Cardinals,1,SOLD,shaunwent
+Detroit Tigers,1,SOLD,shaunwent
+Atlanta Braves,1,SOLD,jimwent
+Philadelphia Phillies,2,SOLD,shaunwent
+Arizona Diamondbacks,1,SOLD,jimwent
+Houston Astros,1,SOLD,jimwent
+"New York Mets, Tampa Bay Rays",11,SOLD,shaunwent
+"Los Angeles Angels, Seattle Mariners",8,SOLD,jimwent
+Chicago White Sox,10,SOLD,jimwent
+"Chicago Cubs, Kansas City Royals",2,SOLD,shaunwent
+"San Francisco Giants, Texas Rangers",10,SOLD,shaunwent

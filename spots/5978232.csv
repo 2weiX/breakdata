@@ -14,7 +14,6 @@ spot,price,state,buyer
 #13,32,OPEN,
 #14,32,OPEN,
 #15,32,OPEN,
-#16,32,OPEN,
 #17,32,OPEN,
 #18,32,OPEN,
 #19,32,OPEN,
@@ -37,3 +36,4 @@ spot,price,state,buyer
 #36,32,OPEN,
 #37,32,OPEN,
 #38,32,OPEN,
+#16,32,SOLD,zonedfence

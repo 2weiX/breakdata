@@ -1,33 +1,32 @@
 spot,price,state,buyer
 Arizona Cardinals,140,SOLD,thronesportscards
 Atlanta Falcons,100,SOLD,cam22222
-Baltimore Ravens,160,OPEN,
 Buffalo Bills,250,SOLD,ryandav00113
 Carolina Panthers,145,SOLD,ryandav00113
 Chicago Bears,300,OPEN,
 Cincinnati Bengals,200,SOLD,whiplash919
-Cleveland Browns,150,OPEN,
-Dallas Cowboys,350,OPEN,
 Denver Broncos,250,OPEN,
 Detroit Lions,195,SOLD,mr2287
 Green Bay Packers,180,OPEN,
-Houston Texans,150,OPEN,
-Indianapolis Colts,120,OPEN,
 Jacksonville Jaguars,153,SOLD,xbombsicle
 Kansas City Chiefs,500,OPEN,
 Las Vegas Raiders,300,SOLD,ryandav00113
-Los Angeles Chargers,110,OPEN,
-Los Angeles Rams,280,OPEN,
-Miami Dolphins,150,OPEN,
-Minnesota Vikings,160,OPEN,
 New England Patriots,240,SOLD,ryandav00113
-New Orleans Saints,160,OPEN,
 New York Giants,340,OPEN,
-New York Jets,120,OPEN,
 Philadelphia Eagles,200,SOLD,ryandav00113
 Pittsburgh Steelers,150,OPEN,
 San Francisco 49ers,240,OPEN,
 Seattle Seahawks,180,SOLD,ryandav00113
 Tampa Bay Buccaneers,130,SOLD,thronesportscards
 Tennessee Titans,160,OPEN,
-Washington Commanders,180,OPEN,
+Baltimore Ravens,145,SOLD,ryandav00113
+Cleveland Browns,120,SOLD,whiplash919
+Dallas Cowboys,320,OPEN,
+Houston Texans,130,OPEN,
+Indianapolis Colts,110,SOLD,ryandav00113
+Los Angeles Chargers,100,SOLD,ryandav00113
+Los Angeles Rams,250,OPEN,
+Miami Dolphins,130,OPEN,
+Minnesota Vikings,150,SOLD,ryandav00113
+New Orleans Saints,150,OPEN,
+Washington Commanders,160,OPEN,

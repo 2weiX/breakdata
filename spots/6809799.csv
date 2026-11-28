@@ -1,33 +1,29 @@
 spot,price,state,buyer
 Arizona Cardinals,60,SOLD,donchocolatte
-Atlanta Falcons,70,OPEN,
 Baltimore Ravens,25,SOLD,donchocolatte
 Buffalo Bills,40,SOLD,paulcar84691
-Carolina Panthers,40,OPEN,
-Chicago Bears,90,OPEN,
 Cincinnati Bengals,40,SOLD,rad_sc
 Cleveland Browns,38,SOLD,stephenang30023
 Dallas Cowboys,40,SOLD,scottris11634
 Denver Broncos,35,SOLD,rougeleader0120
-Detroit Lions,65,OPEN,
 Green Bay Packers,25,SOLD,tstassmokeyjoe
-Houston Texans,50,OPEN,
-Indianapolis Colts,40,OPEN,
 Jacksonville Jaguars,40,SOLD,swahili_samuria
-Kansas City Chiefs,75,OPEN,
-Las Vegas Raiders,125,OPEN,
-Los Angeles Chargers,40,OPEN,
-Los Angeles Rams,100,OPEN,
 Miami Dolphins,25,SOLD,stephenang30023
 Minnesota Vikings,30,SOLD,vikingfan28
-New England Patriots,100,OPEN,
 New Orleans Saints,30,SOLD,bril986
-New York Giants,80,OPEN,
 New York Jets,30,SOLD,donchocolatte
-Philadelphia Eagles,50,OPEN,
 Pittsburgh Steelers,30,SOLD,bnellycards
 San Francisco 49ers,40,SOLD,heavypackspulls
-Seattle Seahawks,70,OPEN,
 Tampa Bay Buccaneers,30,SOLD,bigrobxx
 Tennessee Titans,45,SOLD,donchocolatte
-Washington Commanders,75,OPEN,
+Chicago Bears,50,SOLD,cohiba262
+Detroit Lions,40,SOLD,donchocolatte
+Indianapolis Colts,10,SOLD,donchocolatte
+Kansas City Chiefs,56,SOLD,donchocolatte
+Las Vegas Raiders,90,SOLD,cardkillacorey
+Los Angeles Chargers,1,SOLD,heavypackspulls
+New England Patriots,60,SOLD,andrewlis
+New York Giants,50,SOLD,ketchumcardco
+Philadelphia Eagles,40,SOLD,chilldoh
+Seattle Seahawks,40,SOLD,abrahamram91929
+"CLOSEOUT: Falcons, Panthers, Rams, Texans, Commanders",190,SOLD,cardkillacorey

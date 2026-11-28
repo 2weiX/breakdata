@@ -17,12 +17,10 @@ Kansas City Chiefs,35,SOLD,bobcat2106
 Los Angeles Chargers,25,OPEN,
 Miami Dolphins,25,OPEN,
 Minnesota Vikings,25,OPEN,
-New York Giants,35,OPEN,
 New York Jets,30,OPEN,
 Philadelphia Eagles,30,OPEN,
 San Francisco 49ers,35,SOLD,joesanchez55
 Seattle Seahawks,30,OPEN,
-Tampa Bay Buccaneers,35,OPEN,
 Tennessee Titans,30,OPEN,
 Washington Commanders,20,SOLD,ding_rips
 Arizona Cardinals,45,OPEN,
@@ -31,3 +29,8 @@ Los Angeles Rams,30,SOLD,straightcashhomie
 New England Patriots,35,OPEN,
 New Orleans Saints,30,OPEN,
 Pittsburgh Steelers,30,SOLD,zverona1
+New York Giants,32,SOLD,bumbee3
+Tampa Bay Buccaneers,30,OPEN,
+"Falcons, Texans and Colts",55,OPEN,
+"Vikings, Dolphins, Chargers",60,OPEN,
+Jets Browns Titans and Saints,100,OPEN,

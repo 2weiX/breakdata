@@ -1,34 +1,46 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-MISC,,OPEN,
+Tampa Bay Buccaneers,67,SOLD,vectorbreaks
+Minnesota Vikings,68,SOLD,ellbeau
+#3,69,SOLD,astory306
+#4,71,SOLD,vectorbreaks
+Philadelphia Eagles,68,SOLD,astory306
+Pittsburgh Steelers,67,SOLD,astory306
+San Francisco 49ers,62,SOLD,kadyndil
+New England Patriots,68,SOLD,vectorbreaks
+#9,65,SOLD,ellbeau
+#10,68,SOLD,vectorbreaks
+MISC,68,SOLD,ellbeau
+Cincinnati Bengals,61.75,SOLD,kadyndil
+Chicago Bears,68,SOLD,kadyndil
+#14,67,SOLD,wesleycle17300
+Los Angeles Chargers,65,SOLD,cgoodwin65
+New York Giants,61,SOLD,codman323
+#17,68,SOLD,codman323
+#18,56,SOLD,argyleeaglecards11
+Dallas Cowboys,68,SOLD,argyleeaglecards11
+Buffalo Bills,62,SOLD,incognit0
+#21,66,SOLD,incognit0
+#22,22,SOLD,kadyndil
+Green Bay Packers,74,SOLD,codman323
+Kansas City Chiefs,73,SOLD,incognit0
+#25,4,SOLD,kadyndil
+Los Angeles Rams,4,SOLD,kadyndil
+Baltimore Ravens,26,SOLD,tiano_3
+#28,44,SOLD,kadyndil
+#29,43,SOLD,tiano_3
+Detroit Lions,44.65,SOLD,incognit0
+Tennessee Titans,47,SOLD,cgoodwin65
+Jacksonville Jaguars,36,SOLD,bradc32269
+Houston Texans,50,SOLD,lil_noel
+Denver Broncos,42,SOLD,lil_noel
+Arizona Cardinals,21,SOLD,bradc32269
+#36,48.45,SOLD,lil_noel
+Miami Dolphins,47,SOLD,bradc32269
+Atlanta Falcons,1,SOLD,bradc32269
+Washington Commanders,15,SOLD,cgoodwin65
+Cleveland Browns,73,SOLD,huntingforhits
+Las Vegas Raiders,1,SOLD,thedegen1
+Carolina Panthers,2,SOLD,bradc32269
+Indianapolis Colts,2,SOLD,lil_noel
+Seattle Seahawks,1,SOLD,lil_noel
+"New Orleans Saints, New York Jets",4,SOLD,lil_noel

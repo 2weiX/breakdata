@@ -1,34 +1,42 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-MISC,,OPEN,
+#1,280,SOLD,schett_bag
+Cincinnati Bengals,335,SOLD,schett_bag
+#3,355,SOLD,ghoem5
+Chicago Bears,350,SOLD,tigersfan2031
+Buffalo Bills,330,SOLD,ghoem5
+Cleveland Browns,385,SOLD,ghoem5
+Pittsburgh Steelers,375,SOLD,ghoem5
+#8,490,SOLD,ghoem5
+MISC,403,SOLD,chambergs
+New England Patriots,448,SOLD,ghoem5
+Los Angeles Rams,448,SOLD,chambergs
+Detroit Lions,323,SOLD,thisisaburner2026
+#13,398,SOLD,chambergs
+#14,428,SOLD,chambergs
+#15,275,SOLD,jay2141
+Green Bay Packers,350,SOLD,jay2141
+#17,290,SOLD,schett_bag
+Washington Commanders,332,SOLD,richecko
+Atlanta Falcons,450,SOLD,richecko
+Los Angeles Chargers,375,SOLD,richecko
+San Francisco 49ers,310,SOLD,richecko
+Miami Dolphins,255,SOLD,richecko
+Carolina Panthers,180,SOLD,richecko
+Philadelphia Eagles,65,SOLD,richecko
+Las Vegas Raiders,15,SOLD,miked3127
+Indianapolis Colts,24,SOLD,miked3127
+Seattle Seahawks,30,SOLD,bignsmallbreaks
+Houston Texans,36,SOLD,anthonymar58318
+Jacksonville Jaguars,27,SOLD,miked3127
+Arizona Cardinals,42,SOLD,fatman101
+Tennessee Titans,39,SOLD,marshayd
+New York Jets,23,SOLD,fatman101
+New Orleans Saints,21,SOLD,fatman101
+Tampa Bay Buccaneers,155,SOLD,richecko
+Baltimore Ravens,147,SOLD,miked3127
+Denver Broncos,150,SOLD,richecko
+Minnesota Vikings,166,SOLD,richecko
+New York Giants,390,SOLD,richecko
+#39,625,SOLD,richecko
+Dallas Cowboys,940,SOLD,richecko
+Kansas City Chiefs,965,SOLD,richecko

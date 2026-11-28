@@ -1,12 +1,7 @@
 spot,price,state,buyer
-Arizona Cardinals,52,OPEN,
 Atlanta Falcons,16,OPEN,
-Baltimore Ravens,23,OPEN,
-Buffalo Bills,30,OPEN,
-Carolina Panthers,19,OPEN,
 Chicago Bears,22,SOLD,sjpeschke
 Cincinnati Bengals,22,SOLD,thecardsmith_
-Cleveland Browns,36,OPEN,
 Dallas Cowboys,22.4,SOLD,damjaco
 Denver Broncos,26,OPEN,
 Detroit Lions,15.2,SOLD,bigdaddynate
@@ -14,20 +9,25 @@ Green Bay Packers,14,SOLD,duder92
 Houston Texans,14,OPEN,
 Indianapolis Colts,14,OPEN,
 Jacksonville Jaguars,19,OPEN,
-Kansas City Chiefs,30,OPEN,
 Las Vegas Raiders,80,OPEN,
 Los Angeles Chargers,16,OPEN,
 Los Angeles Rams,30,OPEN,
 Miami Dolphins,14,OPEN,
-Minnesota Vikings,19,OPEN,
 New England Patriots,30,OPEN,
 New Orleans Saints,18,OPEN,
 New York Giants,33,OPEN,
 New York Jets,24,OPEN,
-Philadelphia Eagles,33,OPEN,
 Pittsburgh Steelers,19,OPEN,
-San Francisco 49ers,33,OPEN,
 Seattle Seahawks,28,OPEN,
-Tampa Bay Buccaneers,30,OPEN,
-Tennessee Titans,34,OPEN,
 Washington Commanders,21,OPEN,
+Arizona Cardinals,49,OPEN,
+Baltimore Ravens,22,OPEN,
+Buffalo Bills,30,SOLD,curtisrice1980
+Carolina Panthers,18,OPEN,
+Cleveland Browns,32,OPEN,
+Kansas City Chiefs,30,SOLD,ducracer11
+Minnesota Vikings,18,OPEN,
+Philadelphia Eagles,32,OPEN,
+San Francisco 49ers,30,SOLD,dawgs2b
+Tampa Bay Buccaneers,28,OPEN,
+Tennessee Titans,32,OPEN,

@@ -1,32 +1,23 @@
 spot,price,state,buyer
-Arizona Cardinals,20,OPEN,
-Atlanta Falcons,10,OPEN,
-Baltimore Ravens,10,OPEN,
 Buffalo Bills,15,SOLD,b3cattle
-Carolina Panthers,10,OPEN,
 Chicago Bears,15,SOLD,bigern173
 Cincinnati Bengals,12,SOLD,b3cattle
-Cleveland Browns,10,OPEN,
-Dallas Cowboys,10,OPEN,
-Denver Broncos,10,OPEN,
-Detroit Lions,10,OPEN,
 Green Bay Packers,4,SOLD,esteff53
-Houston Texans,5,OPEN,
-Indianapolis Colts,5,OPEN,
-Jacksonville Jaguars,10,OPEN,
 Kansas City Chiefs,10,SOLD,kcjmack
-Las Vegas Raiders,25,OPEN,
-Los Angeles Chargers,10,OPEN,
-Miami Dolphins,10,OPEN,
-Minnesota Vikings,10,OPEN,
-New England Patriots,15,OPEN,
-New Orleans Saints,10,OPEN,
-New York Giants,15,OPEN,
 New York Jets,5,SOLD,islanderfan711
-Philadelphia Eagles,10,OPEN,
-Pittsburgh Steelers,15,OPEN,
-San Francisco 49ers,10,OPEN,
-Seattle Seahawks,10,OPEN,
-Tampa Bay Buccaneers,10,OPEN,
-Tennessee Titans,10,OPEN,
-Washington Commanders,10,OPEN,
+Arizona Cardinals,15,SOLD,glennhas
+Atlanta Falcons,8,SOLD,doansters
+"Ravens, Panthers, Broncos",20,SOLD,czajka77
+Cleveland Browns,8,SOLD,doansters
+Dallas Cowboys,7,SOLD,doansters
+Detroit Lions,8,SOLD,doansters
+Houston Texans,3,SOLD,glennhas
+Indianapolis Colts,3,SOLD,glennhas
+"Jaguars, Chargers, Dolphins, Steelers, 49ers, Commanders",45,SOLD,glennhas
+Las Vegas Raiders,20,SOLD,doansters
+Minnesota Vikings,7,SOLD,b3cattle
+New England Patriots,12,SOLD,b3cattle
+New Orleans Saints,7,SOLD,czajka77
+Philadelphia Eagles,8,SOLD,doansters
+"Giants, Seahawks, Buccaneers",25,SOLD,glennhas
+Tennessee Titans,7,SOLD,czajka77

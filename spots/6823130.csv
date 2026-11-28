@@ -1,31 +1,26 @@
 spot,price,state,buyer
-Arizona Diamondbacks,,OPEN,
-Atlanta Braves,,OPEN,
-Baltimore Orioles,,OPEN,
-Boston Red Sox,,OPEN,
-Chicago Cubs,,OPEN,
-Chicago White Sox,,OPEN,
-Cincinnati Reds,,OPEN,
-Cleveland Guardians,,OPEN,
-Colorado Rockies,,OPEN,
-Detroit Tigers,,OPEN,
-Houston Astros,,OPEN,
-Kansas City Royals,,OPEN,
-Los Angeles Angels,,OPEN,
-Los Angeles Dodgers,,OPEN,
-Miami Marlins,,OPEN,
-Milwaukee Brewers,,OPEN,
-Minnesota Twins,,OPEN,
-New York Mets,,OPEN,
-New York Yankees,,OPEN,
-Oakland Athletics,,OPEN,
-Philadelphia Phillies,,OPEN,
-Pittsburgh Pirates,,OPEN,
-San Diego Padres,,OPEN,
-San Francisco Giants,,OPEN,
-Seattle Mariners,,OPEN,
-St. Louis Cardinals,,OPEN,
-Tampa Bay Rays,,OPEN,
-Texas Rangers,,OPEN,
-Toronto Blue Jays,,OPEN,
-Washington Nationals,,OPEN,
+San Francisco Giants,8,SOLD,jimwent
+Detroit Tigers,1,SOLD,jimwent
+Los Angeles Dodgers,8,SOLD,jimwent
+Minnesota Twins,8,SOLD,jimwent
+Arizona Diamondbacks,6,SOLD,shaunwent
+Atlanta Braves,1,SOLD,shaunwent
+Milwaukee Brewers,13,SOLD,jimwent
+Baltimore Orioles,8,SOLD,johnwoo59913
+Miami Marlins,2,SOLD,shaunwent
+New York Mets,13,SOLD,jimwent
+Washington Nationals,17,SOLD,jimwent
+Chicago Cubs,10,SOLD,johnwoo59913
+Oakland Athletics,8,SOLD,johnwoo59913
+"Boston Red Sox, Cleveland Guardians",26,SOLD,jimwent
+"Pittsburgh Pirates, Texas Rangers",16,SOLD,shaunwent
+St. Louis Cardinals,8,SOLD,johnwoo59913
+Cincinnati Reds,1,SOLD,dbfromdublin
+Houston Astros,1,SOLD,johnwoo59913
+Kansas City Royals,6,SOLD,jimwent
+Colorado Rockies,6,SOLD,bubwayne
+Seattle Mariners,6,SOLD,jimwent
+Los Angeles Angels,6,SOLD,dbfromdublin
+Chicago White Sox,5,SOLD,jimwent
+"Philadelphia Phillies, Toronto Blue Jays",25,SOLD,hbqxr8jhwv
+"New York Yankees, Tampa Bay Rays",39,SOLD,jimwent

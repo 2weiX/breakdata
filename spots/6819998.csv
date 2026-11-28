@@ -1,49 +1,21 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-ACC,,OPEN,
-USA/American/Uconn ,,OPEN,
-Big 12,,OPEN,
-BIG10,,OPEN,
-Sunbelt/MTN West/Mid American,,OPEN,
-Pac-12,,OPEN,
-SEC,,OPEN,
-Notre Dame,,OPEN,
-Texas ,,OPEN,
-Miami,,OPEN,
-USC ,,OPEN,
-Texas A&M,,OPEN,
-South Carolina,,OPEN,
-Oklahoma State,,OPEN,
-Indiana,,OPEN,
-Cal,,OPEN,
+Big 12,5,SOLD,caiwet24
+Miami,5,SOLD,glennhas
+Cleveland Browns,4,SOLD,caiwet24
+Buffalo Bills,5,SOLD,glennhas
+Cincinnati Bengals,6,SOLD,kt2gt01
+New York Giants,5,SOLD,kt2gt01
+Texas ,5,SOLD,musickbreaks
+trade,5,SOLD,kt2gt01
+Miami Dolphins,5,SOLD,kt2gt01
+Tampa Bay Buccaneers,5,SOLD,caiwet24
+Philadelphia Eagles,7,SOLD,kt2gt01
+Houston Texans,7,SOLD,caiwet24
+Seattle Seahawks,5,SOLD,glennhas
+Texas A&M,5,SOLD,ajfish22
+Notre Dame,5,SOLD,caiwet24
+Green Bay Packers,7,SOLD,caiwet24
+Detroit Lions,7,SOLD,antoniowat20137
+Los Angeles Chargers,5,SOLD,glennhas
+Los Angeles Rams,4,SOLD,ajfish22
+#20,1,OPEN,

@@ -1,7 +1,4 @@
 spot,price,state,buyer
-#1,5,SOLD,turbojoe37
-#3,20,SOLD,turbojoe37
-#4,20,SOLD,turbojoe37
 #6,15,OPEN,
 #7,20,OPEN,
 #8,20,OPEN,
@@ -11,7 +8,6 @@ spot,price,state,buyer
 #12,20,OPEN,
 #13,20,OPEN,
 #14,20,OPEN,
-#15,14.99,SOLD,sharpcornersbreaks
 #16,20,OPEN,
 #17,20,OPEN,
 #18,20,OPEN,
@@ -21,7 +17,6 @@ spot,price,state,buyer
 #22,20,OPEN,
 #23,20,OPEN,
 #24,20,OPEN,
-#25,14.99,SOLD,sharpcornersbreaks
 #26,20,OPEN,
 #27,20,OPEN,
 #28,20,OPEN,
