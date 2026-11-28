@@ -1,34 +1,46 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-MISC,,OPEN,
+Atlanta Falcons,159,SOLD,metroboomn3
+Baltimore Ravens,287,SOLD,linkincz
+Buffalo Bills,257,SOLD,abcjesse123
+Carolina Panthers,34,SOLD,teenjus
+Chicago Bears,300,SOLD,hmin
+Cincinnati Bengals,252,SOLD,jkcards35
+Cleveland Browns,261,SOLD,linkincz
+Dallas Cowboys,220,SOLD,abcjesse123
+Denver Broncos,235,SOLD,metroboomn3
+Detroit Lions,277,SOLD,shaneomac144
+Green Bay Packers,262,SOLD,vectorbreaks
+Houston Texans,280,SOLD,hmin
+Jacksonville Jaguars,72,SOLD,wirenut207
+Kansas City Chiefs,295,SOLD,hmin
+Las Vegas Raiders,105,SOLD,vectorbreaks
+Los Angeles Chargers,299,SOLD,shaneomac144
+Los Angeles Rams,270,SOLD,shaneomac144
+Miami Dolphins,267,SOLD,linkincz
+Minnesota Vikings,215,SOLD,jkcards35
+New England Patriots,280,SOLD,hmin
+New York Giants,270,SOLD,shaneomac144
+Philadelphia Eagles,260,SOLD,jkcards35
+Pittsburgh Steelers,310,SOLD,shaneomac144
+San Francisco 49ers,247,SOLD,abcjesse123
+Seattle Seahawks,230,SOLD,jkcards35
+Tampa Bay Buccaneers,252,SOLD,jkcards35
+Tennessee Titans,290,SOLD,vectorbreaks
+Washington Commanders,280,SOLD,shaneomac144
+MISC,260,SOLD,shaneomac144
+#1,230,SOLD,abcjesse123
+#7,270,SOLD,vectorbreaks
+#10,259,SOLD,abcjesse123
+#11,245,SOLD,jkcards35
+#14,285,SOLD,metroboomn3
+#16,290,SOLD,vectorbreaks
+#20,260,SOLD,hmin
+#25,225,SOLD,abcjesse123
+#27,328,SOLD,shaneomac144
+#29,345,SOLD,linkincz
+#34,400,SOLD,shaneomac144
+#35,117,SOLD,jkcards35
+#37,257,SOLD,shaneomac144
+#38,83,SOLD,jkcards35
+"Arizona Cardinals, Indianapolis Colts",145,SOLD,breaktime24
+"New Orleans Saints, New York Jets",46,SOLD,breaktime24

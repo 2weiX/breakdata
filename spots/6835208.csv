@@ -1,38 +1,45 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-P1,,OPEN,
-P2,,OPEN,
-P3,,OPEN,
-P4,,OPEN,
-P5,,OPEN,
+Arizona Cardinals,35,SOLD,cmillertime15
+Atlanta Falcons,34,SOLD,cmillertime15
+Baltimore Ravens,34,SOLD,ryanfra49600
+Buffalo Bills,35,SOLD,beemoney6357
+Carolina Panthers,35,SOLD,bighitter_sportscards
+Chicago Bears,34,SOLD,ethanrin82462
+Cincinnati Bengals,49,SOLD,beemoney6357
+Cleveland Browns,40,SOLD,ryanfra49600
+Dallas Cowboys,28,SOLD,ramondab
+Denver Broncos,41,SOLD,gillski03
+Detroit Lions,34,SOLD,brywinn7485
+Green Bay Packers,32,SOLD,barrythegoatsanders
+Houston Texans,35,SOLD,cmillertime15
+Indianapolis Colts,30,SOLD,alldayhitz
+Jacksonville Jaguars,40,SOLD,beemoney6357
+Kansas City Chiefs,32,SOLD,mattyice098
+Las Vegas Raiders,36,SOLD,ramondab
+Los Angeles Chargers,36,SOLD,bighitter_sportscards
+Los Angeles Rams,42,SOLD,ryanfra49600
+Miami Dolphins,30,SOLD,alldayhitz
+Minnesota Vikings,32,SOLD,ryanfra49600
+New England Patriots,35,SOLD,ramondab
+New Orleans Saints,32,SOLD,alldayhitz
+New York Giants,34,SOLD,zacharygis
+New York Jets,31,SOLD,ounekapoon
+Philadelphia Eagles,34,SOLD,ryanfra49600
+Pittsburgh Steelers,11,SOLD,ryanfra49600
+San Francisco 49ers,26,SOLD,brywinn7485
+Seattle Seahawks,31,SOLD,barrythegoatsanders
+Tampa Bay Buccaneers,40,SOLD,beemoney6357
+Tennessee Titans,30,SOLD,alldayhitz
+Washington Commanders,36,SOLD,cmillertime15
+P1,34,SOLD,alldayhitz
+P2,24,SOLD,brywinn7485
+P3,26,SOLD,cmillertime15
+P4,42,SOLD,cmillertime15
+P5,43,SOLD,ryanfra49600
+#4,34,SOLD,brywinn7485
+#13,33,SOLD,bighitter_sportscards
+#16,38,SOLD,bighitter_sportscards
+#25,34,SOLD,cmillertime15
+#28,36,SOLD,cmillertime15
+#29,35,SOLD,ramondab
+#30,39,SOLD,cmillertime15

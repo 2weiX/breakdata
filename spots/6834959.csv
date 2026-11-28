@@ -1,8 +1,7 @@
 spot,price,state,buyer
-Arizona Cardinals,50,OPEN,
 Atlanta Falcons,35,OPEN,
 Baltimore Ravens,40,OPEN,
-Buffalo Bills,40,SOLD,19craig86
+Buffalo Bills,50,OPEN,
 Carolina Panthers,30,OPEN,
 Chicago Bears,45,OPEN,
 Cincinnati Bengals,60,OPEN,
@@ -16,18 +15,22 @@ Indianapolis Colts,30,OPEN,
 Jacksonville Jaguars,40,OPEN,
 Kansas City Chiefs,60,OPEN,
 Las Vegas Raiders,75,OPEN,
-Los Angeles Chargers,11,SOLD,tothemaxcardco
+Los Angeles Chargers,20,OPEN,
 Los Angeles Rams,50,OPEN,
 Miami Dolphins,20,OPEN,
 Minnesota Vikings,40,OPEN,
 New England Patriots,50,OPEN,
-New Orleans Saints,32,SOLD,tristantri74907
+New Orleans Saints,40,OPEN,
 New York Giants,40,OPEN,
 New York Jets,35,OPEN,
 Philadelphia Eagles,30,OPEN,
 Pittsburgh Steelers,40,OPEN,
 San Francisco 49ers,40,OPEN,
 Seattle Seahawks,50,OPEN,
-Tampa Bay Buccaneers,35,SOLD,rekamon
+Tampa Bay Buccaneers,35,OPEN,
 Tennessee Titans,50,OPEN,
-Washington Commanders,30,SOLD,gregorygra
+Washington Commanders,40,OPEN,
+all other,720,OPEN,
+#4,50,SOLD,19craig86
+#23,40,SOLD,tristantri74907
+#32,40,SOLD,gregorygra

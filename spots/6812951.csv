@@ -1,19 +1,21 @@
 spot,price,state,buyer
-Spot 1,,OPEN,
-Spot 2,,OPEN,
-Spot 3,,OPEN,
-Spot 4,,OPEN,
-Spot 5,,OPEN,
-Spot 6,,OPEN,
-Spot 7,,OPEN,
-Spot 8,,OPEN,
-Spot 9,,OPEN,
-Spot 10,,OPEN,
-Spot 11,,OPEN,
-Spot 12,,OPEN,
-Spot 13,,OPEN,
-Spot 14,,OPEN,
-Spot 15,,OPEN,
-Spot 16,,OPEN,
-Spot 17,,OPEN,
-Spot 18,,OPEN,
+Spot 1,14,SOLD,ryanfra49600
+Spot 2,7,SOLD,jeromemaz
+Spot 3,14,SOLD,ryanfra49600
+Spot 4,7.2,SOLD,jeromemaz
+Spot 5,7,SOLD,tomkat68
+Spot 6,7,SOLD,jeromemaz
+Spot 8,1,SOLD,tomkat68
+Spot 9,9,SOLD,ryanfra49600
+Spot 10,9,SOLD,ryanfra49600
+Spot 11,12,SOLD,ryanfra49600
+Spot 12,6,SOLD,derekrow74192
+Spot 14,13,SOLD,tristantri74907
+Spot 15,9,SOLD,hssnd___
+Spot 16,10,SOLD,ryanfra49600
+Spot 17,10,SOLD,tristantri74907
+Spot 18,10.8,SOLD,tomkat68
+P1,14,SOLD,tomkat68
+P2,16,SOLD,tomkat68
+P3,9,SOLD,ryanfra49600
+"Spot 7, Spot 13",10,SOLD,ryanfra49600
