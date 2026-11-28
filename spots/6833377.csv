@@ -1,33 +1,38 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+Arizona Cardinals,42,SOLD,milehighfish
+Atlanta Falcons,38,SOLD,milehighfish
+Baltimore Ravens,53,SOLD,jasondtho
+Buffalo Bills,33,SOLD,jasondtho
+Carolina Panthers,31,SOLD,milehighfish
+Chicago Bears,31,SOLD,jasondtho
+Cincinnati Bengals,53,SOLD,jasondtho
+Cleveland Browns,36,SOLD,donnelly845
+Dallas Cowboys,34,SOLD,watermalone1986
+Denver Broncos,34,SOLD,milehighfish
+Detroit Lions,36,SOLD,sullsmky
+Green Bay Packers,33,SOLD,gilada71717
+Houston Texans,31,SOLD,milehighfish
+Indianapolis Colts,30,SOLD,harshdale
+Jacksonville Jaguars,34,SOLD,gcburton07
+Kansas City Chiefs,42,SOLD,sarkissar
+Las Vegas Raiders,37,SOLD,sullsmky
+Los Angeles Chargers,41,SOLD,farrus
+Los Angeles Rams,45,SOLD,patbea33440
+Miami Dolphins,30,SOLD,milehighfish
+Minnesota Vikings,30,SOLD,bushwood_cards
+New England Patriots,42,SOLD,jasondtho
+New Orleans Saints,26,SOLD,tristo_22
+New York Giants,60,SOLD,sullsmky
+New York Jets,33,SOLD,gilada71717
+Philadelphia Eagles,30,SOLD,eazye55
+Pittsburgh Steelers,32,SOLD,jasondtho
+San Francisco 49ers,44,SOLD,thepenskefile
+Seattle Seahawks,39,SOLD,jasondtho
+Tampa Bay Buccaneers,33,SOLD,thepenskefile
+Tennessee Titans,47,SOLD,wtran510
+Washington Commanders,34,SOLD,jasondtho
+#11,43,SOLD,milehighfish
+#17,44,SOLD,jasondtho
+#18,39,SOLD,jasondtho
+#23,38,SOLD,jasondtho
+#27,34,SOLD,watermalone1986

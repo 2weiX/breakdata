@@ -1,34 +1,42 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-Miscellaneous,,OPEN,
+Arizona Cardinals,40,SOLD,clo1969
+Atlanta Falcons,39,SOLD,cameronbib
+Baltimore Ravens,97,SOLD,cameronbib
+Buffalo Bills,138,SOLD,billybobtheclown
+Carolina Panthers,21,SOLD,cameronbib
+Chicago Bears,116,SOLD,jeffbilberry
+Cincinnati Bengals,124,SOLD,lickhitty
+Cleveland Browns,167,SOLD,evanfl11
+Dallas Cowboys,147,SOLD,jeffbilberry
+Denver Broncos,142,SOLD,jeffbilberry
+Detroit Lions,130,SOLD,grewupascrewup
+Green Bay Packers,138,SOLD,billybobtheclown
+Houston Texans,145,SOLD,jeffbilberry
+Indianapolis Colts,1,SOLD,firecitybreaks
+Jacksonville Jaguars,77,SOLD,racattack76
+Kansas City Chiefs,152,SOLD,bglenn1522
+Las Vegas Raiders,101,SOLD,jeffbilberry
+Los Angeles Chargers,155,SOLD,clo1969
+Los Angeles Rams,141,SOLD,billybobtheclown
+Miami Dolphins,40,SOLD,cameronbib
+Minnesota Vikings,152,SOLD,bglenn1522
+New England Patriots,143,SOLD,bobbycar27349
+New Orleans Saints,26,SOLD,cameronbib
+New York Giants,145,SOLD,jeffbilberry
+New York Jets,26,SOLD,nickcat7373
+Philadelphia Eagles,140,SOLD,andy5222
+Pittsburgh Steelers,135,SOLD,billybobtheclown
+San Francisco 49ers,146,SOLD,jeffbilberry
+Seattle Seahawks,111,SOLD,jeffbilberry
+Tampa Bay Buccaneers,61,SOLD,jeffbilberry
+Tennessee Titans,28,SOLD,cameronbib
+Washington Commanders,120,SOLD,jeffbilberry
+Miscellaneous,115,SOLD,jeffbilberry
+#4,141,SOLD,bglenn1522
+#7,141,SOLD,billybobtheclown
+#15,128,SOLD,billybobtheclown
+#19,115,SOLD,jeffbilberry
+#26,85,SOLD,billybobtheclown
+#28,80,SOLD,lickhitty
+#29,100,SOLD,billybobtheclown
+#30,117,SOLD,racattack76

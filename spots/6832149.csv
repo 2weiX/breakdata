@@ -1,33 +1,37 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+Arizona Cardinals,126,SOLD,yellowstonecardco
+Atlanta Falcons,77,SOLD,ashe_matt
+Baltimore Ravens,105,SOLD,swiitchcards
+Buffalo Bills,170,SOLD,yellowstonecardco
+Carolina Panthers,125,SOLD,tannertat
+Chicago Bears,135,SOLD,tannertat
+Cincinnati Bengals,170,SOLD,tannertat
+Cleveland Browns,195,SOLD,yellowstonecardco
+Dallas Cowboys,100,SOLD,ashe_matt
+Denver Broncos,160,SOLD,its_me_ozzy217
+Detroit Lions,106,SOLD,yellowstonecardco
+Green Bay Packers,95,SOLD,mercyofzj23
+Houston Texans,110,SOLD,yellowstonecardco
+Indianapolis Colts,180,SOLD,_burger_breaks_
+Jacksonville Jaguars,167,SOLD,mackness
+Kansas City Chiefs,165,SOLD,dbk6991
+Las Vegas Raiders,175,SOLD,salvadorzub
+Los Angeles Chargers,134,SOLD,tannertat
+Los Angeles Rams,170,SOLD,mackness
+Miami Dolphins,96,SOLD,jamoran008
+Minnesota Vikings,155,SOLD,mackness
+New England Patriots,160,SOLD,mackness
+New Orleans Saints,135,SOLD,_burger_breaks_
+New York Giants,165,SOLD,mackness
+New York Jets,96,SOLD,mercyofzj23
+Philadelphia Eagles,117,SOLD,salvadorzub
+Pittsburgh Steelers,102,SOLD,cainercards
+San Francisco 49ers,130,SOLD,mackness
+Seattle Seahawks,125,SOLD,_burger_breaks_
+Tampa Bay Buccaneers,125,SOLD,its_me_ozzy217
+Tennessee Titans,113,SOLD,tannertat
+Washington Commanders,180,SOLD,mackness
+#7,163,SOLD,mackness
+#16,155,SOLD,tannertat
+#19,135,SOLD,tannertat
+#23,156,SOLD,salvadorzub

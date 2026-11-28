@@ -1,34 +1,42 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-Misc,,OPEN,
+Arizona Cardinals,11,SOLD,kzcardco
+Atlanta Falcons,42,SOLD,quad_jokers
+Baltimore Ravens,53,SOLD,ocabaseball21
+Buffalo Bills,40,SOLD,husky23
+Carolina Panthers,14,SOLD,asidle
+Chicago Bears,68,SOLD,zzaacckk23
+Cincinnati Bengals,68,SOLD,ocabaseball21
+Cleveland Browns,68,SOLD,husky23
+Dallas Cowboys,57,SOLD,husky23
+Denver Broncos,23,SOLD,ocabaseball21
+Detroit Lions,64,SOLD,garrettmcg15538
+Green Bay Packers,69,SOLD,ocabaseball21
+Houston Texans,10,SOLD,quad_jokers
+Indianapolis Colts,8,SOLD,ernie3838
+Jacksonville Jaguars,68,SOLD,ocabaseball21
+Kansas City Chiefs,85,SOLD,quad_jokers
+Las Vegas Raiders,11,SOLD,kzcardco
+Los Angeles Chargers,90,SOLD,quad_jokers
+Los Angeles Rams,42,SOLD,quad_jokers
+Miami Dolphins,11,SOLD,quad_jokers
+Minnesota Vikings,47,SOLD,husky23
+New England Patriots,73,SOLD,ocabaseball21
+New Orleans Saints,8,SOLD,ernie3838
+New York Giants,47,SOLD,husky23
+New York Jets,11,SOLD,marleeann2021
+Philadelphia Eagles,47,SOLD,cmoo2515
+Pittsburgh Steelers,53,SOLD,quad_jokers
+San Francisco 49ers,88,SOLD,youbetta
+Seattle Seahawks,45,SOLD,prufffacials
+Tampa Bay Buccaneers,18,SOLD,ocabaseball21
+Tennessee Titans,14,SOLD,ernie3838
+Washington Commanders,11,SOLD,asidle
+Misc,71,SOLD,ocabaseball21
+#2,66,SOLD,ocabaseball21
+#6,61,SOLD,ocabaseball21
+#9,75,SOLD,youbetta
+#12,65,SOLD,husky23
+#13,65,SOLD,husky23
+#18,47,SOLD,ocabaseball21
+#22,42,SOLD,quad_jokers
+#23,42,SOLD,quad_jokers

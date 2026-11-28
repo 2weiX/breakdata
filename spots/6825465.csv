@@ -1,6 +1,6 @@
 spot,price,state,buyer
 Arizona Cardinals,35,OPEN,
-Atlanta Falcons,9,OPEN,
+Atlanta Falcons,4,SOLD,alonzoiii36947
 Baltimore Ravens,12,OPEN,
 Buffalo Bills,18,OPEN,
 Carolina Panthers,12,OPEN,
@@ -10,9 +10,9 @@ Cleveland Browns,23,OPEN,
 Dallas Cowboys,23,OPEN,
 Denver Broncos,12,OPEN,
 Detroit Lions,12,OPEN,
-Green Bay Packers,9,OPEN,
+Green Bay Packers,5,SOLD,missioncontrolcardco
 Houston Texans,5,SOLD,narcoscustomjewelry
-Indianapolis Colts,9,OPEN,
+Indianapolis Colts,2,SOLD,alonzoiii36947
 Jacksonville Jaguars,9,OPEN,
 Kansas City Chiefs,30,OPEN,
 Las Vegas Raiders,35,SOLD,missioncontrolcardco
@@ -23,7 +23,7 @@ Minnesota Vikings,12,OPEN,
 New England Patriots,23,OPEN,
 New Orleans Saints,30,OPEN,
 New York Giants,23,OPEN,
-New York Jets,30,OPEN,
+New York Jets,30,SOLD,pespina9
 Philadelphia Eagles,23,OPEN,
 Pittsburgh Steelers,23,OPEN,
 San Francisco 49ers,22,SOLD,biddownstairs

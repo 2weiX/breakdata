@@ -2,12 +2,10 @@ spot,price,state,buyer
 Philadelphia Eagles,5,SOLD,curtisnickell
 Miami Dolphins,4,SOLD,curtisnickell
 Baltimore Ravens,5,SOLD,curtisnickell
-New Orleans Saints,4,SOLD,r136a1
 Indianapolis Colts,6,SOLD,maggiec79
 Cincinnati Bengals,5,SOLD,cool46787
 New England Patriots,4,SOLD,cool46787
 Kansas City Chiefs,6,SOLD,maggiec79
-Los Angeles Rams,5,SOLD,wantedszn
 Carolina Panthers,5,SOLD,maggiec79
 San Francisco 49ers,5,SOLD,trainerliam64
 Detroit Lions,8,SOLD,haddydaddy
@@ -15,7 +13,6 @@ Green Bay Packers,9,SOLD,tmadden801
 Atlanta Falcons,4,SOLD,haddydaddy
 Chicago Bears,8,SOLD,haddydaddy
 Dallas Cowboys,11,SOLD,haddydaddy
-#17,6,SOLD,r136a1
 Jacksonville Jaguars,8,SOLD,1893cardz
 Washington Commanders,7,SOLD,andy75668
 Arizona Cardinals,15,SOLD,ozzlopez
@@ -23,4 +20,12 @@ Seattle Seahawks,8,SOLD,andy75668
 Buffalo Bills,13,SOLD,trainerliam64
 #23,10,SOLD,trainerliam64
 Pittsburgh Steelers,9,SOLD,andy75668
-#25,1,OPEN,
+Cleveland Browns,7,SOLD,coastalcardworks
+Houston Texans,10,SOLD,andy75668
+New York Giants,15,SOLD,wiseguy1
+Tampa Bay Buccaneers,15,SOLD,wiseguy1
+Las Vegas Raiders,20,SOLD,wiseguy1
+New York Jets,5,SOLD,andy75668
+Denver Broncos,9,SOLD,wiseguy1
+Minnesota Vikings,6,SOLD,andy75668
+"Los Angeles Chargers, Tennessee Titans",12,SOLD,andy75668

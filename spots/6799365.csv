@@ -1,14 +1,12 @@
 spot,price,state,buyer
 Indianapolis Colts,45,OPEN,
 Houston Texans/Cleveland Browns/New Orleans Saints/Dallas Cowboys,250,SOLD,trentp101
-Jacksonville Jaguars,49,OPEN,
 Los Angeles Chargers,28.5,SOLD,thos13
 Miami Dolphins,39.2,SOLD,djc504
 New York Giants,63,SOLD,tmayrips
 Chicago Bears,57,SOLD,lynjas
 Denver Broncos,56.7,SOLD,5280rips
 Baltimore Ravens,81,OPEN,
-Philadelphia Eagles,81,OPEN,
 Green Bay Packers,52.25,SOLD,thos13
 Washington Commanders,64.8,SOLD,mikew1
 Detroit Lions,58,SOLD,kylevel
@@ -24,7 +22,8 @@ Atlanta Falcons,34.3,SOLD,jasontur78860
 Pittsburgh Steelers,35,SOLD,javonc420
 Minnesota Vikings,30,SOLD,claytondeb
 New York Jets,39,SOLD,kylevel
-Los Angeles Rams + 1 2023 Select Mega!!!,153,OPEN,
-New England Patriots + 1 2023 Select Mega!!!,175,OPEN,
 Arizona Cardinals+ 1 2023 Select Mega!!!,140,SOLD,traviswalcker
-Las Vegas Raiders + 2 2023 Select Megas!!!,258,OPEN,
+Jacksonville Jaguars/Philadelphia Eagles,85,SOLD,phurlo
+Los Angeles Rams,153,OPEN,
+New England Patriots,175,OPEN,
+Las Vegas Raiders,258,OPEN,

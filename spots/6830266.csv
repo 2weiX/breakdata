@@ -1,34 +1,41 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-MISC,,OPEN,
+Arizona Cardinals,132,SOLD,powell87
+Atlanta Falcons,71,SOLD,jojoseef07
+Baltimore Ravens,155,SOLD,liaxis
+Buffalo Bills,69,SOLD,robwilk123
+Carolina Panthers,61,SOLD,jojoseef07
+Chicago Bears,111,SOLD,jojoseef07
+Cincinnati Bengals,101,SOLD,ellbeau
+Cleveland Browns,77,SOLD,robwilk123
+Dallas Cowboys,140,SOLD,vegasmann
+Denver Broncos,72,SOLD,jojoseef07
+Detroit Lions,121,SOLD,dabrunz
+Green Bay Packers,131,SOLD,dabrunz
+Houston Texans,55,SOLD,huntersportscards26
+Indianapolis Colts,47,SOLD,krujoseph59819
+Jacksonville Jaguars,56,SOLD,phill_mianis
+Kansas City Chiefs,151,SOLD,liaxis
+Las Vegas Raiders,70,SOLD,406stewart
+Los Angeles Chargers,130,SOLD,ellbeau
+Los Angeles Rams,151,SOLD,dabrunz
+Minnesota Vikings,121,SOLD,dabrunz
+New England Patriots,76,SOLD,zainshe40714
+New Orleans Saints,64,SOLD,liaxis
+New York Giants,131,SOLD,dabrunz
+Philadelphia Eagles,136,SOLD,dabrunz
+Pittsburgh Steelers,235,SOLD,vegasmann
+San Francisco 49ers,14,SOLD,ellbeau
+Seattle Seahawks,59,SOLD,phill_mianis
+Tampa Bay Buccaneers,131,SOLD,dabrunz
+Tennessee Titans,65,SOLD,phill_mianis
+Washington Commanders,68,SOLD,zainshe40714
+MISC,69,SOLD,krujoseph59819
+#4,130,SOLD,vegasmann
+#11,131,SOLD,dabrunz
+#18,111,SOLD,dabrunz
+#19,111,SOLD,dabrunz
+#21,90,SOLD,ellbeau
+#22,80,SOLD,jojoseef07
+#27,64,SOLD,zainshe40714
+#29,69,SOLD,krujoseph59819
+"Miami Dolphins, New York Jets",71,SOLD,phill_mianis

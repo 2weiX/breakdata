@@ -1,34 +1,44 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-Misc,,OPEN,
+Arizona Cardinals,84,SOLD,iluvoutdoors75
+Atlanta Falcons,81,SOLD,jonand81600
+Baltimore Ravens,136,SOLD,vegasmann
+Buffalo Bills,141,SOLD,alamo3310
+Carolina Panthers,11,SOLD,iluvoutdoors75
+Chicago Bears,110,SOLD,bigtsprad
+Cincinnati Bengals,96,SOLD,vegasmann
+Cleveland Browns,150,SOLD,jonand81600
+Dallas Cowboys,130,SOLD,casanova15
+Denver Broncos,130,SOLD,vegasmann
+Detroit Lions,85,SOLD,golfer4444
+Green Bay Packers,101,SOLD,joefern
+Houston Texans,32,SOLD,joefern
+Indianapolis Colts,92,SOLD,jonand81600
+Jacksonville Jaguars,100,SOLD,bigtsprad
+Kansas City Chiefs,155,SOLD,flycolumbus15
+Las Vegas Raiders,88,SOLD,joefern
+Los Angeles Chargers,83,SOLD,vegasmann
+Los Angeles Rams,150,SOLD,vegasmann
+Miami Dolphins,90,SOLD,jonand81600
+Minnesota Vikings,130,SOLD,alamo3310
+New England Patriots,115,SOLD,joefern
+New Orleans Saints,90,SOLD,golfer4444
+New York Giants,155,SOLD,vegasmann
+New York Jets,151,SOLD,casanova15
+Philadelphia Eagles,125,SOLD,vegasmann
+Pittsburgh Steelers,120,SOLD,vegasmann
+San Francisco 49ers,160,SOLD,casanova15
+Seattle Seahawks,130,SOLD,audiorips
+Tampa Bay Buccaneers,96,SOLD,jonand81600
+Tennessee Titans,111,SOLD,golfer4444
+Washington Commanders,127,SOLD,alamo3310
+Misc,116,SOLD,vegasmann
+#6,145,SOLD,flycolumbus15
+#11,88,SOLD,vegasmann
+#12,109,SOLD,vegasmann
+#13,120,SOLD,vegasmann
+#14,120,SOLD,alamo3310
+#17,136,SOLD,casanova15
+#23,120,SOLD,vegasmann
+#24,88,SOLD,alamo3310
+#27,91,SOLD,alamo3310
+#36,83,SOLD,bigtsprad

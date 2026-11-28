@@ -1,10 +1,15 @@
 spot,price,state,buyer
 Chicago Bears,16,SOLD,irishborn1977
-New York Jets,1,SOLD,josh7349
 New Orleans Saints,10,SOLD,usmc0311a
 Green Bay Packers,10,SOLD,usmc0311a
 Baltimore Ravens,2,SOLD,burdarinaarp
 Cincinnati Bengals,10,SOLD,byc_inc
 Tampa Bay Buccaneers,10,SOLD,byc_inc
 "Buffalo Bills, Las Vegas Raiders, New York Giants",36,SOLD,burdarinaarp
-#9,1,OPEN,
+Minnesota Vikings,1,SOLD,josh7349
+Detroit Lions,10,SOLD,keevensdash
+"New England Patriots, Washington Commanders",16,SOLD,josh7349
+Tennessee Titans,9,SOLD,jno_rips
+Cleveland Browns,5,SOLD,keevensdash
+Seattle Seahawks,5,SOLD,keevensdash
+"Arizona Cardinals, Atlanta Falcons, Carolina Panthers, Dallas Cowboys, Denver Broncos, Houston Texans, Indianapolis Colts, Jacksonville Jaguars, Kansas City Chiefs, Los Angeles Chargers, Los Angeles Rams, Miami Dolphins, New York Jets, Philadelphia Eagles, Pittsburgh Steelers",55,SOLD,dan1231

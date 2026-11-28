@@ -1,0 +1,31 @@
+spot,price,state,buyer
+New York Jets,2,SOLD,pma1
+Pittsburgh Steelers,1,SOLD,pma1
+#3,1,SOLD,pma1
+Cincinnati Bengals,5,SOLD,pma1
+Buffalo Bills,7,SOLD,pma1
+Washington Commanders,6,SOLD,pma1
+Philadelphia Eagles,6,SOLD,jo71612
+Chicago Bears,7,SOLD,drewale10523
+Carolina Panthers,12,SOLD,goku3011
+Las Vegas Raiders,7,SOLD,goku3011
+Seattle Seahawks,7,SOLD,goku3011
+Jacksonville Jaguars,9,SOLD,goku3011
+San Francisco 49ers,6,SOLD,goku3011
+New Orleans Saints,6,SOLD,pma1
+Dallas Cowboys,6,SOLD,spurs17171
+New York Giants,7,SOLD,bobbyswa63002
+"Kansas City Chiefs, Minnesota Vikings",15,SOLD,bobbyswa63002
+"Atlanta Falcons, Baltimore Ravens",15,SOLD,bobbyswa63002
+"Denver Broncos, Los Angeles Rams",15,SOLD,gizmobreaks
+Cleveland Browns,6,SOLD,gizmobreaks
+New England Patriots,9,SOLD,gizmobreaks
+Tennessee Titans,8,SOLD,bobbyswa63002
+Indianapolis Colts,7,SOLD,gizmobreaks
+Los Angeles Chargers,6,SOLD,gizmobreaks
+Green Bay Packers,7,SOLD,gizmobreaks
+Houston Texans,8,SOLD,gizmobreaks
+Detroit Lions,9,SOLD,pma1
+Miami Dolphins,8,SOLD,gizmobreaks
+Arizona Cardinals,12,SOLD,gizmobreaks
+Tampa Bay Buccaneers,8,SOLD,gizmobreaks

@@ -5,7 +5,6 @@ Baltimore Ravens,23,OPEN,
 Buffalo Bills,21,SOLD,erikrod8816
 Carolina Panthers,14.4,SOLD,zachyru
 Chicago Bears,25,SOLD,junniasr
-Cincinnati Bengals,34,OPEN,
 Cleveland Browns,32,OPEN,
 Dallas Cowboys,15,SOLD,erikrod8816
 Denver Broncos,23,OPEN,
@@ -18,15 +17,14 @@ Kansas City Chiefs,24,SOLD,keithm48
 Las Vegas Raiders,45.6,SOLD,zachyru
 Los Angeles Chargers,18,OPEN,
 Los Angeles Rams & New England Patriots,55,SOLD,erikrod8816
-Miami Dolphins,18,OPEN,
 Minnesota Vikings,23,OPEN,
 New Orleans Saints,23,OPEN,
-New York Giants,34,OPEN,
 New York Jets,18,OPEN,
 Philadelphia Eagles,25,OPEN,
 Pittsburgh Steelers,23,OPEN,
-San Francisco 49ers,29,OPEN,
+San Francisco 49ers,23.2,SOLD,ballscivic
 Seattle Seahawks,25,OPEN,
 Tampa Bay Buccaneers,29,OPEN,
 Tennessee Titans,29,OPEN,
 Washington Commanders,23,OPEN,
+"Cincinnati Bengals, Miami Dolphins & New York Giants",55,SOLD,erikrod8816

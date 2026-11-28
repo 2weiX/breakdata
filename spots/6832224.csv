@@ -1,151 +1,280 @@
 spot,price,state,buyer
-Tom Brady,,OPEN,
-Fernando Mendoza,,OPEN,
-Joe Burrow,,OPEN,
-Josh Allen,,OPEN,
-Drew Mestemaker,,OPEN,
-Caleb Williams,,OPEN,
-Bear Bachmeier,,OPEN,
-Cam Ward,,OPEN,
-Lamar Jackson,,OPEN,
-Carson Beck,,OPEN,
-Bo Nix,,OPEN,
-CJ Stroud,,OPEN,
-Jared Goff,,OPEN,
-Jaxson Dart,,OPEN,
-Jayden Maiava,,OPEN,
-Josh Hoover,,OPEN,
-Kenny Minchey,,OPEN,
-Matthew Stafford,,OPEN,
-Peyton Manning,,OPEN,
-Cade Klubnik,,OPEN,
-Caleb Downs,,OPEN,
-Carnell Tate,,OPEN,
-Christian McCaffrey,,OPEN,
-Jadarian Price,,OPEN,
-Jaxon Smith-Njigba,,OPEN,
-Jordyn Tyson,,OPEN,
-KC Concepcion,,OPEN,
-Makai Lemon,,OPEN,
-Puka Nacua,,OPEN,
-Tetairoa McMillan,,OPEN,
-Josh Cameron,,OPEN,
-Josh Downs / Josh Hines-Allen,,OPEN,
-Josh Jacobs,,OPEN,
-Joshua Karty / Joshua Moore,,OPEN,
-Josiah Trotter / Juelz Goff,,OPEN,
-Julian Neal / Junior Colson,,OPEN,
-Justin Joly,,OPEN,
-Juwan Johnson / Kaden Shields-Dutton,,OPEN,
-Kaden Wetjen / Kaelan Chudzinski,,OPEN,
-Kadyn Proctor,,OPEN,
-Kaelon Black,,OPEN,
-Kaleb Johnson,,OPEN,
-Kamari Lassiter / Kamario Taylor,,OPEN,
-Kam Chancellor / Kamren Kinchens,,OPEN,
-Katin Houser / Kayshon Boutte,,OPEN,
-Kayden McDonald,,OPEN,
-Kaytron Allen,,OPEN,
-Keenan Allen,,OPEN,
-Keith Abney II,,OPEN,
-Keldric Faulk,,OPEN,
-Kendrick Law / Kendrick Raphael,,OPEN,
-Kenneth Gainwell / Kenneth Grant,,OPEN,
-Kenneth Walker III,,OPEN,
-Kenny Clark / Kevin Riley,,OPEN,
-Kenyon Sadiq,,OPEN,
-Kevin Winston Jr. / Keon Coleman,,OPEN,
-Keyjuan Brown / Keylan Rutledge,,OPEN,
-Khalil Mack,,OPEN,
-Khalil Shakir / Khobie Martin,,OPEN,
-King Miller / Kirby Vorhees,,OPEN,
-Kirk Cousins,,OPEN,
-KJ Duff / KJ Jackson,,OPEN,
-KK Smith / K'Lavon Chaisson,,OPEN,
-Kobie Turner / Kool-Aid McKinstry,,OPEN,
-Kris Jenkins / Kwazi Gilmer,,OPEN,
-Kurt Warner,,OPEN,
-Kyle Hamilton,,OPEN,
-Kyle Juszczyk / Kyle Williams,,OPEN,
-Kyle Monangai,,OPEN,
-Kyle Pitts,,OPEN,
-Kyler Murray,,OPEN,
-Kyren Williams,,OPEN,
-Kyri Shoels / Laiatu Latu,,OPEN,
-Ladd McConkey,,OPEN,
-Laremy Tunsil / Lawson Luckie,,OPEN,
-Larry Fitzgerald,,OPEN,
-Lawrence Taylor,,OPEN,
-Lee Hunter,,OPEN,
-Leonard Moore / LeRoy Butler,,OPEN,
-LeSean McCoy,,OPEN,
-London Humphreys / Lotzeir Brooks,,OPEN,
-LT Overton / Lucky Sutton,,OPEN,
-Lukas Van Ness / Luke Kuechly,,OPEN,
-Luke McCaffrey / Luke Musgrave,,OPEN,
-Luke Schoonmaker / Lunch Winfield,,OPEN,
-Luther Burden III,,OPEN,
-Mack Hollins / Makhi Hughes,,OPEN,
-Malachi Fields,,OPEN,
-Malachi Hosley / Malcolm Smith,,OPEN,
-Malachi Lawrence,,OPEN,
-Malik Nabers,,OPEN,
-Malik Washington / Mandrell Desir,,OPEN,
-Malik Willis,,OPEN,
-Mansoor Delane,,OPEN,
-Marcel Reed,,OPEN,
-Marco Jones / Marist Liufau,,OPEN,
-Mark Andrews,,OPEN,
-Marlin Klein,,OPEN,
-MarShawn Lloyd / Marvin Mims Jr.,,OPEN,
-Marvin Harrison Jr.,,OPEN,
-Marvis Parrish / Mason Graham,,OPEN,
-Mason Heintschel / Mason Mini,,OPEN,
-Mason Taylor,,OPEN,
-Matthew Golden,,OPEN,
-Maurice Jones-Drew,,OPEN,
-Max Iheanachor / Micah Ford,,OPEN,
-Max Klare,,OPEN,
-Maxx Crosby,,OPEN,
-Micahi Danzy / Michael Mayer,,OPEN,
-Micah Parsons,,OPEN,
-Michael Irvin,,OPEN,
-Michael Penix Jr.,,OPEN,
-Michael Pittman Jr.,,OPEN,
-Michael Strahan,,OPEN,
-Michael Turner / Mike Alstott,,OPEN,
-Michael Vick,,OPEN,
-Michael Wilson,,OPEN,
-Mike Evans,,OPEN,
-Mike Sainristil / Mike Singletary,,OPEN,
-Mike Washington Jr.,,OPEN,
-Mikey Matthews / Minkah Fitzpatrick,,OPEN,
-Monroe Freeling,,OPEN,
-Montez Sweat / Na'eem Abdul-Rahim Gladding,,OPEN,
-Nakobe Dean / Nate Wiggins,,OPEN,
-Nate Boerkircher,,OPEN,
-Nick Bolton / Nick Emmanwori,,OPEN,
-Nick Bosa,,OPEN,
-Nick Marsh / Nick Minicucci,,OPEN,
-Nick Singleton,,OPEN,
-Nico Collins,,OPEN,
-Nik Bonitto / Nik McMillan,,OPEN,
-Nolan James Jr. / Olamide Zaccheaus,,OPEN,
-Olaivavega Ioane,,OPEN,
-Ollie Gordon II,,OPEN,
-Omar Cooper Jr.,,OPEN,
-Omarion Hampton,,OPEN,
-Omarion Miller / Ozzie Newsome,,OPEN,
-Oronde Gadsden,,OPEN,
-Parker Livingstone / Parker Washington,,OPEN,
-Pat Freiermuth / Pat Tillman,,OPEN,
-Pat Surtain II,,OPEN,
-Payton Wilson / Quay Walker,,OPEN,
-Peter Woods,,OPEN,
-Quentin Johnston / Quenton Nelson,,OPEN,
-Que'Sean Brown / Quinnen Williams,,OPEN,
-Quinn Ewers,,OPEN,
-Quinn Meinerz / Rashid Shaheed,,OPEN,
-Quinshon Judkins,,OPEN,
-Rachaad White,,OPEN,
-Randy Moss,,OPEN,
+Tom Brady,10,SOLD,bradywit
+Fernando Mendoza,11,SOLD,humblehoelk509
+Joe Burrow,10,SOLD,bradywit
+Josh Allen,10,SOLD,kw126
+Drew Mestemaker,10,SOLD,michfly7
+Caleb Williams,8,SOLD,michfly7
+Bear Bachmeier,9,SOLD,kennymoo26968
+Cam Ward,6,SOLD,czcardroom
+Lamar Jackson,8,SOLD,kennymoo26968
+Carson Beck,8,SOLD,uptruebreed
+Bo Nix,9,SOLD,kennymoo26968
+CJ Stroud,11,SOLD,kennymoo26968
+Jared Goff,5,SOLD,tharold333
+Jaxson Dart,13,SOLD,topnotch75098
+Jayden Maiava,7,SOLD,dabigtuna1020
+Josh Hoover,13,SOLD,kennymoo26968
+Kenny Minchey,9,SOLD,trooper1444
+Matthew Stafford,10,SOLD,kennymoo26968
+Cade Klubnik,7,SOLD,accountant7
+Caleb Downs,9,SOLD,michfly7
+Carnell Tate,9,SOLD,kennymoo26968
+Christian McCaffrey,11,SOLD,kennymoo26968
+Jadarian Price,7,SOLD,n_d_a
+Jordyn Tyson,7,SOLD,michfly7
+KC Concepcion,15,SOLD,kw126
+Makai Lemon,9,SOLD,dabigtuna1020
+Puka Nacua,7,SOLD,michfly7
+Tetairoa McMillan,10,SOLD,kw126
+Josh Cameron,7,SOLD,ernie3838
+Josh Downs / Josh Hines-Allen,15,SOLD,jmcmannis21
+Josh Jacobs,11,SOLD,kennymoo26968
+Joshua Karty / Joshua Moore,9,SOLD,kennymoo26968
+Julian Neal / Junior Colson,16,SOLD,kw126
+Justin Joly,10,SOLD,bradywit
+Juwan Johnson / Kaden Shields-Dutton,5,SOLD,liltim512
+Kaden Wetjen / Kaelan Chudzinski,7,SOLD,27cod
+Kadyn Proctor,8,SOLD,theashman
+Kaelon Black,10,SOLD,db_hippo
+Kaleb Johnson,8,SOLD,casafuego_la
+Kamari Lassiter / Kamario Taylor,9,SOLD,humtaeter
+Kam Chancellor / Kamren Kinchens,7,SOLD,jmcmannis21
+Katin Houser / Kayshon Boutte,9,SOLD,trooper1444
+Kayden McDonald,8,SOLD,mheki26
+Kaytron Allen,7,SOLD,reidsmi23780
+Keenan Allen,5,SOLD,n_d_a
+Keith Abney II,6,SOLD,markie1988
+Keldric Faulk,10,SOLD,uptruebreed
+Kendrick Law / Kendrick Raphael,6,SOLD,ernie3838
+Kenneth Gainwell / Kenneth Grant,13,SOLD,kennymoo26968
+Kenneth Walker III,10,SOLD,jmcmannis21
+Kenny Clark / Kevin Riley,9,SOLD,scottyg78
+Kenyon Sadiq,8,SOLD,william518
+Kevin Winston Jr. / Keon Coleman,12,SOLD,kw126
+Keyjuan Brown / Keylan Rutledge,10,SOLD,trooper1444
+Khalil Mack,10,SOLD,freshnesh
+Khalil Shakir / Khobie Martin,5,SOLD,jacobbri23086
+King Miller / Kirby Vorhees,12,SOLD,kw126
+KK Smith / K'Lavon Chaisson,8,SOLD,27cod
+Kobie Turner / Kool-Aid McKinstry,8,SOLD,michfly7
+Kris Jenkins / Kwazi Gilmer,8,SOLD,michfly7
+Kurt Warner,8,SOLD,kennymoo26968
+Kyle Hamilton,9,SOLD,jacobbri23086
+Kyle Juszczyk / Kyle Williams,8,SOLD,jamesfri63295
+Kyle Monangai,13,SOLD,topnotch75098
+Kyle Pitts,7,SOLD,n_d_a
+Kyler Murray,5,SOLD,dabigtuna1020
+Kyren Williams,7,SOLD,devilnutz
+Kyri Shoels / Laiatu Latu,7,SOLD,tharold333
+Ladd McConkey,8,SOLD,jmcmannis21
+Laremy Tunsil / Lawson Luckie,10,SOLD,bigdanhobby
+Larry Fitzgerald,8,SOLD,markie1988
+Lawrence Taylor,8,SOLD,kennymoo26968
+Lee Hunter,7,SOLD,etxis
+Leonard Moore / LeRoy Butler,6,SOLD,accountant7
+LeSean McCoy,11,SOLD,freshnesh
+London Humphreys / Lotzeir Brooks,11,SOLD,kennymoo26968
+LT Overton / Lucky Sutton,8,SOLD,reidsmi23780
+Lukas Van Ness / Luke Kuechly,8,SOLD,evkrause
+Luke McCaffrey / Luke Musgrave,10,SOLD,wyattreitai
+Luke Schoonmaker / Lunch Winfield,10,SOLD,kw126
+Luther Burden III,10,SOLD,trooper1444
+Mack Hollins / Makhi Hughes,9,SOLD,depittbull
+Malachi Fields,9,SOLD,kennymoo26968
+Malachi Hosley / Malcolm Smith,6,SOLD,ernie3838
+Malachi Lawrence,7,SOLD,accountant7
+Malik Nabers,12,SOLD,kw126
+Malik Washington / Mandrell Desir,10,SOLD,bradywit
+Malik Willis,12,SOLD,devilnutz
+Marcel Reed,6,SOLD,czcardroom
+Marco Jones / Marist Liufau,9,SOLD,jacobbri23086
+Mark Andrews,15,SOLD,kw126
+MarShawn Lloyd / Marvin Mims Jr.,8,SOLD,humtaeter
+Marvin Harrison Jr.,13,SOLD,kennymoo26968
+Marvis Parrish / Mason Graham,8,SOLD,jmcmannis21
+Mason Heintschel / Mason Mini,10,SOLD,reidsmi23780
+Mason Taylor,13,SOLD,kennymoo26968
+Matthew Golden,11,SOLD,trooper1444
+Maurice Jones-Drew,9,SOLD,trooper1444
+Max Iheanachor / Micah Ford,5,SOLD,pgood
+Max Klare,13,SOLD,jmcmannis21
+Maxx Crosby,9,SOLD,jamesfri63295
+Micahi Danzy / Michael Mayer,11,SOLD,kw126
+Michael Irvin,11,SOLD,joshbro6266
+Michael Penix Jr.,10,SOLD,trooper1444
+Michael Pittman Jr.,10,SOLD,liltim512
+Michael Strahan,8,SOLD,trooper1444
+Michael Turner / Mike Alstott,9,SOLD,kennymoo26968
+Michael Vick,7,SOLD,uptruebreed
+Michael Wilson,13,SOLD,kw126
+Mike Evans,5,SOLD,jacobbri23086
+Mike Sainristil / Mike Singletary,9,SOLD,michfly7
+Mike Washington Jr.,9,SOLD,kennymoo26968
+Mikey Matthews / Minkah Fitzpatrick,9,SOLD,27cod
+Monroe Freeling,11,SOLD,kw126
+Montez Sweat / Na'eem Abdul-Rahim Gladding,10,SOLD,bradywit
+Nakobe Dean / Nate Wiggins,7,SOLD,ernie3838
+Nate Boerkircher,7,SOLD,ernie3838
+Nick Bolton / Nick Emmanwori,13,SOLD,fdeme45
+Nick Bosa,8,SOLD,depittbull
+Nick Marsh / Nick Minicucci,8,SOLD,trooper1444
+Nik Bonitto / Nik McMillan,10,SOLD,kw126
+Nolan James Jr. / Olamide Zaccheaus,7,SOLD,jamesfri63295
+Olaivavega Ioane,6,SOLD,jamesfri63295
+Ollie Gordon II,10,SOLD,scottyg78
+Omar Cooper Jr.,8,SOLD,mascolelcts
+Omarion Hampton,8,SOLD,casafuego_la
+Omarion Miller / Ozzie Newsome,7,SOLD,william518
+Oronde Gadsden,7,SOLD,dabigtuna1020
+Parker Livingstone / Parker Washington,11,SOLD,kw126
+Pat Freiermuth / Pat Tillman,9,SOLD,evkrause
+Pat Surtain II,15,SOLD,kw126
+Payton Wilson / Quay Walker,8,SOLD,trooper1444
+Peter Woods,6,SOLD,uptruebreed
+Quentin Johnston / Quenton Nelson,10,SOLD,henrykar46440
+Que'Sean Brown / Quinnen Williams,14,SOLD,kw126
+Quinn Ewers,9,SOLD,uptruebreed
+Quinn Meinerz / Rashid Shaheed,7,SOLD,27cod
+Quinshon Judkins,9,SOLD,kennymoo26968
+Rachaad White,7,SOLD,kennymoo26968
+Randy Moss,7,SOLD,markie1988
+Walter Payton,10,SOLD,bradywit
+Tony Gonzalez,11,SOLD,kw126
+Xavier Watts,13,SOLD,kennymoo26968
+T.J. Parker,13,SOLD,kennymoo26968
+Yhonzae Pierre,15,SOLD,kw126
+Tyreek Hill,11,SOLD,bigdanhobby
+Sutton Smith,15,SOLD,kw126
+Rodney Tisdale Jr.,11,SOLD,reidsmi23780
+Zavion Thomas,13,SOLD,scottyg78
+Warren Moon,15,SOLD,kw126
+Tony Romo,13,SOLD,kennymoo26968
+Troy Aikman,13,SOLD,kw126
+Will Hammond,14,SOLD,kw126
+TJ Abrams,13,SOLD,kennymoo26968
+Ryan Niblett,14,SOLD,kw126
+Savion Williams,11,SOLD,anthonyhow1998
+Teitum Tuioti,12,SOLD,kw126
+Warren Sapp,11,SOLD,humtaeter
+Rodney Fields Jr.,11,SOLD,humtaeter
+Trey McBride,10,SOLD,bradywit
+Reggie Virgil,8,SOLD,humtaeter
+T.J. Hockenson,10,SOLD,bradywit
+Steve Atwater,10,SOLD,devilnutz
+Tacario Davis,9,SOLD,devilnutz
+Ted Hurst,10,SOLD,kw126
+Tua Tagovailoa,10,SOLD,humblehoelk509
+Xavier McKinney,9,SOLD,devilnutz
+T.J. Moore,8,SOLD,kennymoo26968
+T'Vondre Sweat,9,SOLD,reidsmi23780
+Seth McGowan,8,SOLD,kennymoo26968
+RJ Harvey,10,SOLD,bradywit
+Tre Spivey,9,SOLD,bradywit
+Zach Charbonnet,10,SOLD,bradywit
+Theo Johnson,11,SOLD,kennymoo26968
+Trevor Etienne,9,SOLD,kennymoo26968
+TreVeyon Henderson,5,SOLD,tharold333
+Vita Vea,9,SOLD,bradywit
+#77,9,SOLD,bradywit
+Richard Sherman,8,SOLD,devilnutz
+Waymond Jordan,8,SOLD,devilnutz
+Talanoa Hufanga,9,SOLD,scottyg78
+Troy Polamalu,9,SOLD,reidsmi23780
+Roquan Smith,8,SOLD,devilnutz
+Zach Allen,9,SOLD,reidsmi23780
+Sterling Sharpe,8,SOLD,trooper1444
+Romello Height,10,SOLD,dw2835
+Tae Meadows,8,SOLD,cjlink1925
+Yamir Knight,17,SOLD,fdeme45
+"Josiah Trotter / Juelz Goff, T.J. Watt",22,SOLD,fdeme45
+Scotty Fox Jr.,10,SOLD,kennymoo26968
+Tre Brown III,9,SOLD,kennymoo26968
+Terrell Davis,11,SOLD,trooper1444
+Rome Odunze,11,SOLD,kennymoo26968
+Zachariah Branch,11,SOLD,freshnesh
+Wyatt Young,10,SOLD,michfly7
+Tory Blaylock,9,SOLD,kennymoo26968
+Will Levis,10,SOLD,kennymoo26968
+Tee Higgins,9,SOLD,michfly7
+Riley Leonard,8,SOLD,cjlink1925
+Tony Boselli,9,SOLD,cr0n99
+Steve Young,9,SOLD,db_hippo
+Will Johnson,7,SOLD,reidsmi23780
+Victor Snow,7,SOLD,tharold333
+Ty Law,6,SOLD,wyatt_925
+Spencer Rattler,9,SOLD,db_hippo
+Sauce Gardner,7,SOLD,trooper1444
+#136,9,SOLD,midd50
+Trent McDuffie,8,SOLD,db_hippo
+Tre Tucker,8,SOLD,liltim512
+Sire Gaines,8,SOLD,depittbull
+Zion Young,10,SOLD,willnighbors
+Rhamondre Stevenson,6,SOLD,reidsmi23780
+Travon Walker,6,SOLD,reidsmi23780
+Tyler Shough,4,SOLD,reidsmi23780
+Trey Benson,6,SOLD,michfly7
+Tyler Warren,10,SOLD,db_hippo
+Will Reichard,9,SOLD,n_d_a
+Uchenna Nwosu,8,SOLD,n_d_a
+Sean Taylor,6,SOLD,reidsmi23780
+Tre Harris III,9,SOLD,n_d_a
+Sammy Brown,3,SOLD,uptruebreed
+Vicari Swain,7,SOLD,uptruebreed
+Will Shipley,6,SOLD,accountant7
+Rob Gronkowski,6,SOLD,accountant7
+Roschon Johnson,8,SOLD,trooper1444
+Reed Blankenship,8,SOLD,markie1988
+Terrance Carter Jr.,7,SOLD,accountant7
+Skyler Bell,9,SOLD,uptruebreed
+Will Anderson Jr.,8,SOLD,bigdanhobby
+Travis Etienne Jr.,9,SOLD,markie1988
+Tim Brown,6,SOLD,liltim512
+Turbo Richard,7,SOLD,reidsmi23780
+Tommy Tremble,8,SOLD,uptruebreed
+Rueben Bain Jr.,7,SOLD,uptruebreed
+Tyson Bagent,6,SOLD,reidsmi23780
+Tank Bigsby,7,SOLD,trooper1444
+Zay Flowers,8,SOLD,trooper1444
+William Perry,8,SOLD,jamesfri63295
+Sidney Stewart,7,SOLD,mbodde25
+Tre Richardson,8,SOLD,mbodde25
+Travis Kelce,6,SOLD,accountant7
+Thurman Thomas,8,SOLD,mheki26
+Will Lee III,7,SOLD,humtaeter
+Terrance Ferguson,6,SOLD,mheki26
+Tyrone Tracy Jr.,6,SOLD,jamesfri63295
+Rashee Rice,6,SOLD,michfly7
+Spencer Fano,6,SOLD,trooper1444
+Tyjae Spears,6,SOLD,liltim512
+Sonny Styles,6,SOLD,trooper1444
+Ronde Barber,6,SOLD,czcardroom
+Von Miller,7,SOLD,mheki26
+Tony Pollard,5,SOLD,jamesfri63295
+Xavier Worthy,8,SOLD,trooper1444
+Terrell Anderson,7,SOLD,jamesfri63295
+Roger Craig,6,SOLD,liltim512
+Sam Roush,7,SOLD,mheki26
+Terrell Suggs,7,SOLD,jamesfri63295
+Wayne Knight,7,SOLD,ernie3838
+Shedeur Sanders,6,SOLD,ernie3838
+Will Howard,15,SOLD,trooper1444
+"Travis Hunter, Xavier Legette",16,SOLD,jamesfri63295
+"Kirk Cousins, Trey Hendrickson",15,SOLD,27cod
+Tyquan Thornton,8,SOLD,czcardroom
+Trent Williams,6,SOLD,ernie3838
+Vince Young,6,SOLD,ernie3838
+Re'Shaun Sanford,8,SOLD,casafuego_la
+Ricky Pearsall,7,SOLD,ernie3838
+Ryan Browne,8,SOLD,michfly7
+Ray Lewis,7,SOLD,ernie3838
+Tez Johnson,8,SOLD,trooper1444
+Robert Spillane,7,SOLD,ernie3838
+Woody Marks,9,SOLD,casafuego_la
+Rashod Bateman ,8,SOLD,trooper1444
+Taysom Hill,8,SOLD,eazygarcia10
+Tiger Bachmeier,8,SOLD,casafuego_la
+Russell Wilson,9,SOLD,trooper1444
+Zahir Mathis,9,SOLD,michfly7
+Yannick Smith,13,SOLD,trooper1444
+#279,1,OPEN,

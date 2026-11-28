@@ -1,33 +1,34 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+Arizona Cardinals,19,SOLD,pacckdr
+Atlanta Falcons,34,SOLD,tb12_onit
+Baltimore Ravens,22,SOLD,jasontan75548
+Buffalo Bills,16,SOLD,mtg_ftk75
+Carolina Panthers,19,SOLD,phurlo
+Chicago Bears,27,SOLD,pacckdr
+Cincinnati Bengals,1,SOLD,gibbib
+Cleveland Browns,12,SOLD,thenoth
+Dallas Cowboys,20,SOLD,jasontan75548
+Denver Broncos,19,SOLD,phurlo
+Detroit Lions,19,SOLD,pacckdr
+Green Bay Packers,13,SOLD,josephterz
+Houston Texans,25,SOLD,bsimonds782
+Indianapolis Colts,14,SOLD,nate11haines
+Jacksonville Jaguars,20,SOLD,terminaltakes
+Kansas City Chiefs,20,SOLD,terminaltakes
+Las Vegas Raiders,22,SOLD,phurlo
+Los Angeles Chargers,17,SOLD,phurlo
+Los Angeles Rams,17,SOLD,thenoth
+Miami Dolphins,16,SOLD,ethanrin82462
+Minnesota Vikings,18,SOLD,jasontan75548
+New England Patriots,25,SOLD,tb12_onit
+New Orleans Saints,14,SOLD,nate11haines
+New York Giants,34,SOLD,terminaltakes
+New York Jets,30,SOLD,stogiesbreaks
+Philadelphia Eagles,13,SOLD,nate11haines
+Pittsburgh Steelers,18,SOLD,thenoth
+San Francisco 49ers,16,SOLD,doootch_
+Seattle Seahawks,16,SOLD,thenoth
+Tampa Bay Buccaneers,25,SOLD,bsimonds782
+Tennessee Titans,15,SOLD,josephterz
+Washington Commanders,20,SOLD,phurlo
+TRADED TEAM,20,SOLD,jasontan75548

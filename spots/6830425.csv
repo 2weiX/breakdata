@@ -1,35 +1,34 @@
 spot,price,state,buyer
-Houston Texans,,OPEN,
-Seattle Seahawks,,OPEN,
-Atlanta Falcons,,OPEN,
-San Francisco 49ers,,OPEN,
-Las Vegas Raiders,,OPEN,
-Cincinnati Bengals,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Kansas City Chiefs,,OPEN,
-Green Bay Packers,,OPEN,
-New York Jets,,OPEN,
-Miami Dolphins,,OPEN,
-Baltimore Ravens,,OPEN,
-Philadelphia Eagles,,OPEN,
-Carolina Panthers,,OPEN,
-NIL A-L,,OPEN,
-New Orleans Saints,,OPEN,
-Los Angeles Chargers,,OPEN,
-Detroit Lions,,OPEN,
-Buffalo Bills,,OPEN,
-Pittsburgh Steelers,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Minnesota Vikings,,OPEN,
-Indianapolis Colts,,OPEN,
-NIL M-Z,,OPEN,
-Los Angeles Rams,,OPEN,
-Washington Commanders,,OPEN,
-New York Giants,,OPEN,
-Cleveland Browns,,OPEN,
-Chicago Bears,,OPEN,
-Arizona Cardinals,,OPEN,
-Tennessee Titans,,OPEN,
-New England Patriots,,OPEN,
+Houston Texans,10,SOLD,ncstater
+Atlanta Falcons,9,SOLD,ncstater
+San Francisco 49ers,13,SOLD,goku3011
+Las Vegas Raiders,8,SOLD,ncstater
+Cincinnati Bengals,8,SOLD,ncstater
+Dallas Cowboys,8,SOLD,footballin
+Denver Broncos,15,SOLD,goku3011
+Kansas City Chiefs,7,SOLD,ncstater
+Green Bay Packers,8,SOLD,ncstater
+New York Jets,6,SOLD,jaceeee0
+Miami Dolphins,6,SOLD,ncstater
+Baltimore Ravens,8,SOLD,ncstater
+Philadelphia Eagles,9,SOLD,ncstater
+Carolina Panthers,6,SOLD,nchristncoach2020
+NIL A-L,1,SOLD,footballin
+New Orleans Saints,6,SOLD,jaceeee0
+Detroit Lions,6,SOLD,jameson416
+Buffalo Bills,6,SOLD,jameson416
+Pittsburgh Steelers,5,SOLD,footballin
+Jacksonville Jaguars,6,SOLD,jaceeee0
+Tampa Bay Buccaneers,5,SOLD,footballin
+Minnesota Vikings,5,SOLD,bryc3k
+Indianapolis Colts,1,SOLD,footballin
+NIL M-Z,8,SOLD,ncstater
+Los Angeles Rams,6,SOLD,footballin
+Washington Commanders,8,SOLD,ncstater
+New York Giants,11,SOLD,ncstater
+Cleveland Browns,8,SOLD,ncstater
+Chicago Bears,11,SOLD,ncstater
+Arizona Cardinals,19,SOLD,goku3011
+Tennessee Titans,3,SOLD,footballin
+New England Patriots,8,SOLD,ncstater
+"Seattle Seahawks, Los Angeles Chargers",7,SOLD,ncstater

@@ -1,33 +1,36 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+Arizona Cardinals,21,SOLD,tristo_22
+Atlanta Falcons,19,SOLD,rickardpoe
+Baltimore Ravens,36,SOLD,terminaltakes
+Buffalo Bills,25,SOLD,gibbib
+Carolina Panthers,23,SOLD,jasontan75548
+Chicago Bears,26,SOLD,mtg_ftk75
+Cincinnati Bengals,20,SOLD,mtg_ftk75
+Cleveland Browns,20,SOLD,rickardpoe
+Dallas Cowboys,23,SOLD,tristo_22
+Denver Broncos,34,SOLD,tristo_22
+Detroit Lions,29,SOLD,jasontan75548
+Green Bay Packers,27,SOLD,tristo_22
+Houston Texans,44,SOLD,tb12_onit
+Indianapolis Colts,21,SOLD,gibbib
+Jacksonville Jaguars,27,SOLD,gibbib
+Kansas City Chiefs,31,SOLD,garyg74539
+Las Vegas Raiders,29,SOLD,terminaltakes
+Los Angeles Chargers,17,SOLD,josephterz
+Los Angeles Rams,23,SOLD,tristo_22
+Miami Dolphins,23,SOLD,gibbib
+Minnesota Vikings,27,SOLD,gibbib
+New England Patriots,24,SOLD,tristo_22
+New Orleans Saints,11,SOLD,doootch_
+New York Giants,26,SOLD,tristo_22
+New York Jets,36,SOLD,tristo_22
+Philadelphia Eagles,28,SOLD,jasontan75548
+Pittsburgh Steelers,35,SOLD,ant43_
+San Francisco 49ers,16,SOLD,gibbib
+Seattle Seahawks,25,SOLD,gibbib
+Tampa Bay Buccaneers,23,SOLD,tristo_22
+Tennessee Titans,27,SOLD,josephterz
+Washington Commanders,20,SOLD,mtg_ftk75
+TRADED TEAM,14,SOLD,mtg_ftk75
+TRADED TEAM,27,SOLD,terminaltakes
+TRADED TEAM,19,SOLD,tristo_22

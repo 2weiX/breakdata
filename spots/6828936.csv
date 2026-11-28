@@ -1,33 +1,21 @@
 spot,price,state,buyer
-Carolina Panthers,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Arizona Cardinals,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Houston Texans,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-New Orleans Saints,,OPEN,
-Green Bay Packers,,OPEN,
-Cleveland Browns,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Los Angeles Rams,,OPEN,
-Los Angeles Chargers,,OPEN,
-Las Vegas Raiders,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-Detroit Lions,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Washington Commanders,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Seattle Seahawks,,OPEN,
+Baltimore Ravens,30,SOLD,es214484
+Arizona Cardinals,6.3,SOLD,cooderscardz
+Chicago Bears,25,SOLD,miknick
+Cincinnati Bengals,13.5,SOLD,zaneybreaks
+Denver Broncos,25,SOLD,jrfloat
+Indianapolis Colts,20,SOLD,traviswal12303
+Jacksonville Jaguars,24,SOLD,cooderscardz
+Kansas City Chiefs,17,SOLD,traviswal12303
+Los Angeles Rams,20,SOLD,jrfloat
+Las Vegas Raiders,25,SOLD,brycepause
+Minnesota Vikings,18,SOLD,cooderscardz
+New York Jets,1,SOLD,traviswal12303
+Philadelphia Eagles,13,SOLD,mrwetundies
+Tampa Bay Buccaneers,22.5,SOLD,zaneybreaks
+"Dallas Cowboys, Los Angeles Chargers, Seattle Seahawks",60,SOLD,tmike26
+"Atlanta Falcons, Green Bay Packers, Miami Dolphins",49.5,SOLD,miknick
+"Carolina Panthers, Cleveland Browns, San Francisco 49ers",58,SOLD,dankbeezyz
+"Houston Texans, Detroit Lions, New York Giants",55,SOLD,jrfloat
+#8,27,SOLD,tmike26
+"Buffalo Bills, New Orleans Saints, New England Patriots, Pittsburgh Steelers, Washington Commanders, Tennessee Titans",55,SOLD,traviswal12303
