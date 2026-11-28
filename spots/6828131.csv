@@ -1,9 +1,9 @@
 spot,price,state,buyer
-AFC North,,OPEN,
-AFC East,,OPEN,
-AFC West,,OPEN,
-AFC South,,OPEN,
-NFC North,,OPEN,
-NFC East,,OPEN,
-NFC West,,OPEN,
-NFC South,,OPEN,
+AFC North,16,SOLD,2fastsports
+AFC East,32,SOLD,2fastsports
+AFC West,20,SOLD,tronol
+AFC South,6,SOLD,maxxwaxx
+NFC North,22.5,SOLD,2fastsports
+NFC East,21,SOLD,ben21709
+NFC West,18.43,SOLD,dylsals
+NFC South,1,SOLD,2fastsports

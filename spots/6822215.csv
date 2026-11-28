@@ -1,38 +1,50 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-MISC,,OPEN,
-BOX #1,,OPEN,
-BOX #2,,OPEN,
-BOX #3,,OPEN,
-BOX #4,,OPEN,
+Arizona Cardinals,83,SOLD,fatman101
+Atlanta Falcons,35,SOLD,rhodyhouseofhits
+Baltimore Ravens,171,SOLD,jonand81600
+Buffalo Bills,145,SOLD,skieston
+Carolina Panthers,19,SOLD,rhodyhouseofhits
+Chicago Bears,281,SOLD,vegasmann
+Cincinnati Bengals,255,SOLD,danmitchell6
+Cleveland Browns,302,SOLD,vegasmann
+Dallas Cowboys,202,SOLD,danpain
+Denver Broncos,43,SOLD,micker56179
+Detroit Lions,222,SOLD,danmitchell6
+Green Bay Packers,265,SOLD,dadsbankdaughtersvault
+Houston Texans,34,SOLD,skieston
+Indianapolis Colts,21,SOLD,skieston
+Jacksonville Jaguars,33,SOLD,bn926
+Kansas City Chiefs,271,SOLD,vegasmann
+Las Vegas Raiders,32,SOLD,rickmadd1998
+Los Angeles Chargers,112,SOLD,vectorbreaks
+Los Angeles Rams,268,SOLD,str8cashhomey
+Miami Dolphins,21,SOLD,jbelch22
+Minnesota Vikings,271,SOLD,vegasmann
+New England Patriots,260,SOLD,dadsbankdaughtersvault
+New Orleans Saints,30,SOLD,professor23
+New York Giants,200,SOLD,jonand81600
+New York Jets,13,SOLD,bn926
+Philadelphia Eagles,120,SOLD,danmitchell6
+Pittsburgh Steelers,175,SOLD,jonand81600
+San Francisco 49ers,283,SOLD,str8cashhomey
+Seattle Seahawks,46,SOLD,danmitchell6
+Tampa Bay Buccaneers,135,SOLD,str8cashhomey
+Tennessee Titans,16,SOLD,bn926
+Washington Commanders,161,SOLD,skieston
+MISC,36,SOLD,fatman101
+BOX #1,250,SOLD,danmitchell6
+BOX #2,285,SOLD,dadsbankdaughtersvault
+BOX #3,297,SOLD,danmitchell6
+BOX #4,276,SOLD,vegasmann
+#1,280,SOLD,dadsbankdaughtersvault
+#6,251,SOLD,danmitchell6
+#10,296,SOLD,vegasmann
+#12,302,SOLD,vegasmann
+#13,302,SOLD,vegasmann
+#16,296,SOLD,danmitchell6
+#17,294,SOLD,vegasmann
+#19,270,SOLD,str8cashhomey
+#26,116,SOLD,jonand81600
+#29,155,SOLD,str8cashhomey
+#31,115,SOLD,skieston
+#32,131,SOLD,jonand81600

@@ -1,0 +1,44 @@
+spot,price,state,buyer
+Cincinnati Bengals,255,SOLD,dg1982
+#2,275,SOLD,dg1982
+Green Bay Packers,255,SOLD,dg1982
+#4,275,SOLD,openthebeaches
+Los Angeles Chargers,280,SOLD,openthebeaches
+San Francisco 49ers,335,SOLD,openthebeaches
+#7,300,SOLD,openthebeaches
+Dallas Cowboys,310,SOLD,openthebeaches
+#9,350,SOLD,ghoem5
+New England Patriots,395,SOLD,ghoem5
+#11,355,SOLD,openthebeaches
+Minnesota Vikings,385,SOLD,ghoem5
+Kansas City Chiefs,365,SOLD,dg1982
+#14,405,SOLD,ghoem5
+Los Angeles Rams,365,SOLD,dg1982
+Pittsburgh Steelers,285,SOLD,ghoem5
+#17,175,SOLD,hd_breakz2
+#18,270,SOLD,dg1982
+Detroit Lions,255,SOLD,dg1982
+Baltimore Ravens,270,SOLD,hd_breakz2
+Cleveland Browns,415,SOLD,dtmvegas
+Chicago Bears,320,SOLD,dtmvegas
+#23,380,SOLD,hd_breakz2
+Tennessee Titans,290,SOLD,timgre47213
+#25,280,SOLD,ghoem5
+#26,190,SOLD,hd_breakz2
+Tampa Bay Buccaneers,444,SOLD,kerkyl
+Philadelphia Eagles,225,SOLD,dtmvegas
+#29,235,SOLD,dtmvegas
+#30,250,SOLD,dtmvegas
+Las Vegas Raiders,265,SOLD,jeffleezy
+#32,260,SOLD,dtmvegas
+MISC,162,SOLD,jeffleezy
+Denver Broncos,99,SOLD,jcable8
+New York Giants,122,SOLD,jeffleezy
+Jacksonville Jaguars,145,SOLD,yooosaycheeseee
+Washington Commanders,155,SOLD,jcable8
+#38,130,SOLD,jeffleezy
+#39,100,SOLD,dtmvegas
+Buffalo Bills,365,SOLD,409collectibles
+"Atlanta Falcons, Carolina Panthers",102,SOLD,409collectibles
+"Houston Texans, Seattle Seahawks",94,SOLD,jona1515
+"Arizona Cardinals, Indianapolis Colts, Miami Dolphins, New Orleans Saints, New York Jets",1,SOLD,huraves

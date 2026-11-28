@@ -1,34 +1,44 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-Misc,,OPEN,
+Arizona Cardinals,66,SOLD,husky23
+Baltimore Ravens,86,SOLD,husky23
+Buffalo Bills,88,SOLD,ocabaseball21
+Carolina Panthers,87,SOLD,asidle
+Chicago Bears,91,SOLD,zzaacckk23
+Cincinnati Bengals,76,SOLD,asidle
+Cleveland Browns,81,SOLD,zzaacckk23
+Denver Broncos,98,SOLD,ocabaseball21
+Detroit Lions,68,SOLD,husky23
+Green Bay Packers,61,SOLD,quad_jokers
+Indianapolis Colts,53,SOLD,husky23
+Jacksonville Jaguars,102,SOLD,patricksoup
+Kansas City Chiefs,105,SOLD,quad_jokers
+Las Vegas Raiders,71,SOLD,dabrunz
+Los Angeles Chargers,90,SOLD,husky23
+Los Angeles Rams,92,SOLD,husky23
+Minnesota Vikings,71,SOLD,dabrunz
+New England Patriots,110,SOLD,ocabaseball21
+New Orleans Saints,58,SOLD,husky23
+New York Giants,76,SOLD,qm17
+Philadelphia Eagles,89,SOLD,zzaacckk23
+Pittsburgh Steelers,94,SOLD,husky23
+San Francisco 49ers,73,SOLD,qm17
+Seattle Seahawks,91,SOLD,goody_rips
+Tennessee Titans,58,SOLD,husky23
+Washington Commanders,88,SOLD,dabrunz
+Misc,94,SOLD,husky23
+#3,73,SOLD,ocabaseball21
+#4,78,SOLD,ocabaseball21
+#5,78,SOLD,ocabaseball21
+#9,100,SOLD,husky23
+#11,100,SOLD,husky23
+#13,130,SOLD,quad_jokers
+#14,105,SOLD,quad_jokers
+#16,94,SOLD,husky23
+#17,91,SOLD,husky23
+#22,88,SOLD,husky23
+#26,84,SOLD,zzaacckk23
+#27,81,SOLD,zzaacckk23
+#29,89,SOLD,zzaacckk23
+#30,87,SOLD,dabrunz
+#32,88,SOLD,dabrunz
+#35,88,SOLD,zzaacckk23

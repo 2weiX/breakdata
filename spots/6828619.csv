@@ -1,34 +1,42 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-Miscellaneous,,OPEN,
+Arizona Cardinals,86,SOLD,luker212523
+Atlanta Falcons,106,SOLD,ayers53
+Baltimore Ravens,102,SOLD,lamarvelous18
+Buffalo Bills,235,SOLD,str8cashhomey
+Carolina Panthers,107,SOLD,luker212523
+Chicago Bears,259,SOLD,pistoljoe
+Cincinnati Bengals,250,SOLD,str8cashhomey
+Cleveland Browns,236,SOLD,tgriff3695
+Dallas Cowboys,130,SOLD,billybobtheclown
+Denver Broncos,117,SOLD,ayers53
+Detroit Lions,225,SOLD,goody_rips
+Green Bay Packers,255,SOLD,italianmuski
+Houston Texans,226,SOLD,bglenn1522
+Indianapolis Colts,64,SOLD,user_92599
+Jacksonville Jaguars,94,SOLD,lucky9871
+Kansas City Chiefs,265,SOLD,case4dave
+Las Vegas Raiders,210,SOLD,bigsam2110
+Los Angeles Chargers,230,SOLD,goody_rips
+Los Angeles Rams,225,SOLD,case4dave
+Miami Dolphins,122,SOLD,billybobtheclown
+Minnesota Vikings,256,SOLD,tgriff3695
+New England Patriots,222,SOLD,goody_rips
+New Orleans Saints,86,SOLD,user_92599
+New York Giants,220,SOLD,italianmuski
+New York Jets,61,SOLD,realcoolkev
+Philadelphia Eagles,230,SOLD,andy5222
+Pittsburgh Steelers,240,SOLD,bigsam2110
+San Francisco 49ers,230,SOLD,billybobtheclown
+Seattle Seahawks,125,SOLD,lucky9871
+Tampa Bay Buccaneers,215,SOLD,ayers53
+Tennessee Titans,122,SOLD,lucky9871
+Washington Commanders,224,SOLD,case4dave
+Miscellaneous,229,SOLD,goody_rips
+#3,245,SOLD,str8cashhomey
+#5,235,SOLD,goody_rips
+#9,225,SOLD,bglenn1522
+#13,240,SOLD,goody_rips
+#14,295,SOLD,case4dave
+#17,230,SOLD,bigsam2110
+#19,240,SOLD,bigsam2110
+#20,234,SOLD,pistoljoe

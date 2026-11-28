@@ -1,45 +1,28 @@
 spot,price,state,buyer
-Alabama Crimson Tide,55,OPEN,
+Alabama Crimson Tide,55,SOLD,chargedcards
 Arizona State Sun Devils,15,SOLD,va_wildman
 Arkansas Razorbacks,15,SOLD,va_wildman
 Auburn Tigers,15,SOLD,va_wildman
-BYU Cougars,120,OPEN,
-Cincinnati Bearcats,20,OPEN,
 Clemson Tigers,20,SOLD,shawnstr82558
-Florida State Seminoles,30,OPEN,
-Georgia Bulldogs,99,OPEN,
-Indiana Hoosiers,120,OPEN,
+Georgia Bulldogs,79.2,SOLD,doogiehouser11
+Indiana Hoosiers,84,SOLD,doogiehouser11
 Kansas Jayhawks,25.5,SOLD,kragarrett29257
-Kentucky Wildcats,69,OPEN,
-LSU Tigers,89,OPEN,
-Miami Hurricanes,165,OPEN,
-Michigan Wolverines,100,OPEN,
+Miami Hurricanes,132,SOLD,cdubcards2014
+Michigan Wolverines,70,SOLD,doogiehouser11
 Mississippi State Bulldogs,100,SOLD,tylerkra52897
 Missouri Tigers,15,SOLD,va_wildman
-Notre Dame Fighting Irish,175,OPEN,
-Ohio State Buckeyes,85,OPEN,
+Ohio State Buckeyes,68,SOLD,doogiehouser11
 Oklahoma State Cowboys,140,SOLD,kragarrett29257
-Ole Miss Rebels,110,OPEN,
-Oregon Ducks,75,OPEN,
-Pittsburgh Panthers,35,OPEN,
-Purdue Boilermakers,25,OPEN,
-Rutgers Scarlet Knights,60,OPEN,
-South Carolina Gamecocks,90,OPEN,
-Tennessee Volunteers/Isidore Newman School,60,OPEN,
-Texas Longhorns,195,OPEN,
-Texas A&M Aggies,75,OPEN,
-Texas Tech Red Raiders,40,OPEN,
-UCF Knights,25,OPEN,
-USC Trojans,85,OPEN,
+Ole Miss Rebels,78,SOLD,doogiehouser11
+Purdue Boilermakers,21.25,SOLD,doogiehouser11
+Texas Longhorns,156,SOLD,lfgsc
+Texas Tech Red Raiders,32,SOLD,kragarrett29257
+USC Trojans,65,SOLD,doogiehouser11
 Utah Utes,18,SOLD,va_wildman
-Vanderbilt Commodores,90,OPEN,
 Wake Forest Demon Deacons,21,SOLD,va_wildman
-Washington Huskies,80,OPEN,
-Wyoming Cowboys,90,OPEN,
-ALL OTHER ACC,59,OPEN,
+Washington Huskies,60,SOLD,doogiehouser11
 ALL OTHER BIG12,47.2,SOLD,cdubcards2014
-ALL OTHER MAC/CUSA/MWC/SBC/AAC/IND.,40,OPEN,
-ALL OTHER PAC-12,25,OPEN,
+ALL OTHER PAC-12,20,SOLD,kragarrett29257
 Florida Gators,40,SOLD,parkieuf
 Nebraska Cornhuskers,40,SOLD,kragarrett29257
 Oklahoma Sooners,45,SOLD,cadegulager
@@ -47,3 +30,7 @@ Stanford Cardinal,25,SOLD,coscha23705
 TCU Horned Frogs,24,SOLD,kragarrett29257
 ALL OTHER BIG TEN,59,SOLD,kylevel
 Philo,25,SOLD,parkieuf
+Sam Dad Deal,75,SOLD,sznsam
+Kentucky South Carolina,109,SOLD,kragarrett29257
+All other ACC/Oregon,105,SOLD,mocksmonsters
+Close Out,500,SOLD,doogiehouser11

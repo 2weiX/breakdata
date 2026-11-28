@@ -1,34 +1,44 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-Misc,,OPEN,
+Arizona Cardinals,28,SOLD,asidle
+Atlanta Falcons,111,SOLD,tomscuz00
+Baltimore Ravens,106,SOLD,tomscuz00
+Buffalo Bills,101,SOLD,dakota27875
+Carolina Panthers,97,SOLD,calmer_than_you_are
+Chicago Bears,190,SOLD,calmer_than_you_are
+Cincinnati Bengals,235,SOLD,calmer_than_you_are
+Cleveland Browns,155,SOLD,tomscuz00
+Dallas Cowboys,246,SOLD,ocabaseball21
+Denver Broncos,137,SOLD,calmer_than_you_are
+Detroit Lions,228,SOLD,ocabaseball21
+Green Bay Packers,190,SOLD,tomscuz00
+Houston Texans,60,SOLD,kickcollectibles
+Indianapolis Colts,100,SOLD,dakota27875
+Jacksonville Jaguars,38,SOLD,ocabaseball21
+Kansas City Chiefs,121,SOLD,tomscuz00
+Las Vegas Raiders,45,SOLD,jojoseef07
+Los Angeles Chargers,245,SOLD,goody_rips
+Los Angeles Rams,262,SOLD,goody_rips
+Miami Dolphins,48,SOLD,dakota27875
+Minnesota Vikings,176,SOLD,calmer_than_you_are
+New England Patriots,250,SOLD,ocabaseball21
+New Orleans Saints,145,SOLD,dakota27875
+New York Giants,275,SOLD,chambergs
+New York Jets,59,SOLD,1of1sports
+Philadelphia Eagles,254,SOLD,jojoseef07
+Pittsburgh Steelers,205,SOLD,calmer_than_you_are
+San Francisco 49ers,240,SOLD,calmer_than_you_are
+Seattle Seahawks,49,SOLD,kickcollectibles
+Tampa Bay Buccaneers,165,SOLD,tomscuz00
+Tennessee Titans,47,SOLD,asidle
+Washington Commanders,46,SOLD,tomscuz00
+Misc,240,SOLD,tomscuz00
+#2,246,SOLD,ocabaseball21
+#5,255,SOLD,calmer_than_you_are
+#11,227,SOLD,calmer_than_you_are
+#12,235,SOLD,goody_rips
+#13,226,SOLD,calmer_than_you_are
+#15,222,SOLD,ocabaseball21
+#18,167,SOLD,calmer_than_you_are
+#20,181,SOLD,calmer_than_you_are
+#28,117,SOLD,calmer_than_you_are
+#35,75,SOLD,tomscuz00

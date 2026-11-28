@@ -1,33 +1,34 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-Miscellaneous,,OPEN,
+Arizona Cardinals,19,SOLD,huddyhull
+Atlanta Falcons,17,SOLD,huddyhull
+Baltimore Ravens,18,SOLD,willha166
+Buffalo Bills,22,SOLD,clo1969
+Carolina Panthers,20,SOLD,dmatt42
+Cincinnati Bengals,30,SOLD,ellmat96981
+Cleveland Browns,18,SOLD,ellmat96981
+Dallas Cowboys,17,SOLD,blakesbuys
+Denver Broncos,18,SOLD,huddyhull
+Detroit Lions,30,SOLD,westcoastcardsdh
+Green Bay Packers,19,SOLD,neeleyjl
+Houston Texans,19,SOLD,andrewlang08161979
+Indianapolis Colts,19,SOLD,dmatt42
+Jacksonville Jaguars,16,SOLD,huddyhull
+Kansas City Chiefs,21,SOLD,andrewlang08161979
+Las Vegas Raiders,17,SOLD,huddyhull
+Los Angeles Chargers,18,SOLD,willha166
+Los Angeles Rams,22,SOLD,dmatt42
+Miami Dolphins,19,SOLD,ellmat96981
+Minnesota Vikings,19,SOLD,willbai93076
+New England Patriots,27,SOLD,blakesbuys
+New Orleans Saints,16,SOLD,noshous
+New York Giants,20,SOLD,willha166
+New York Jets,18,SOLD,dbtenbosch
+Philadelphia Eagles,17,SOLD,blakesbuys
+Pittsburgh Steelers,17,SOLD,willbai93076
+San Francisco 49ers,17,SOLD,westcoastcardsdh
+Seattle Seahawks,20,SOLD,andrewlang08161979
+Tampa Bay Buccaneers,36,SOLD,dmatt42
+Tennessee Titans,16,SOLD,ellmat96981
+Washington Commanders,20,SOLD,neeleyjl
+Miscellaneous,70,SOLD,dmatt42
+#12,19,SOLD,neeleyjl

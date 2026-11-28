@@ -1,33 +1,33 @@
 spot,price,state,buyer
-Arizona Cardinals,110,OPEN,
-Atlanta Falcons,30,OPEN,
-Baltimore Ravens,35,OPEN,
+Arizona Cardinals,80,SOLD,podiumcardpulls
+Atlanta Falcons,15,SOLD,link_and_dad
+Baltimore Ravens,35,SOLD,connellcollectiblesball
 Buffalo Bills,35,SOLD,masonrowe100
-Carolina Panthers,35,OPEN,
+Carolina Panthers,20,SOLD,connellcollectiblesball
 Chicago Bears,75,SOLD,podiumcardpulls
 Cincinnati Bengals,30,SOLD,masonrowe100
-Cleveland Browns,75,OPEN,
-Dallas Cowboys,80,OPEN,
-Denver Broncos,60,OPEN,
-Detroit Lions,35,OPEN,
-Green Bay Packers,20,OPEN,
-Houston Texans,20,OPEN,
-Indianapolis Colts,30,OPEN,
-Jacksonville Jaguars,25,OPEN,
+Cleveland Browns,40,SOLD,connellcollectiblesball
+Dallas Cowboys,50,SOLD,connellcollectiblesball
+Denver Broncos,35,SOLD,podiumcardpulls
+Detroit Lions,30,SOLD,link_and_dad
+Green Bay Packers,11,SOLD,mike11633
+Houston Texans,10,SOLD,masonrowe100
+Indianapolis Colts,10,SOLD,dlparker722
+Jacksonville Jaguars,25,SOLD,connellcollectiblesball
 Kansas City Chiefs,85,SOLD,rustysidekicks
-Las Vegas Raiders,165,OPEN,
-Los Angeles Chargers,30,OPEN,
-Los Angeles Rams,90,OPEN,
-Miami Dolphins,25,OPEN,
-Minnesota Vikings,35,OPEN,
-New England Patriots,100,OPEN,
-New Orleans Saints,65,OPEN,
-New York Giants,70,OPEN,
-New York Jets,55,OPEN,
-Philadelphia Eagles,70,OPEN,
-Pittsburgh Steelers,60,OPEN,
+Las Vegas Raiders,120,SOLD,podiumcardpulls
+Los Angeles Chargers,10,SOLD,connellcollectiblesball
+Los Angeles Rams,50,SOLD,masonrowe100
+Miami Dolphins,10,SOLD,connellcollectiblesball
+Minnesota Vikings,15,SOLD,link_and_dad
+New England Patriots,30,SOLD,masonrowe100
+New Orleans Saints,65,SOLD,johnhol59246
+New York Giants,40,SOLD,masonrowe100
+New York Jets,25,SOLD,connellcollectiblesball
+Philadelphia Eagles,60,SOLD,aydenfaircloth
+Pittsburgh Steelers,30,OPEN,
 San Francisco 49ers,65,OPEN,
 Seattle Seahawks,45,OPEN,
-Tampa Bay Buccaneers,50,OPEN,
-Tennessee Titans,85,OPEN,
-Washington Commanders,55,OPEN,
+Tampa Bay Buccaneers,20,SOLD,skolvikesfromak
+Tennessee Titans,50,SOLD,dlparker722
+Washington Commanders,17,SOLD,connellcollectiblesball

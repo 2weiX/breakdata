@@ -1,34 +1,37 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-Miscellaneous,,OPEN,
+Arizona Cardinals,125,SOLD,jasonklein1227
+Atlanta Falcons,125,SOLD,dwood7714
+Baltimore Ravens,135,SOLD,ppalmer77
+Buffalo Bills,125,SOLD,jordankau23871
+Carolina Panthers,102,SOLD,hutch801
+Chicago Bears,120,SOLD,lucky9871
+Cincinnati Bengals,110,SOLD,tyamlegendaryy
+Cleveland Browns,126,SOLD,jasonklein1227
+Dallas Cowboys,145,SOLD,tyamlegendaryy
+Denver Broncos,63,SOLD,jordankau23871
+Detroit Lions,145,SOLD,dwood7714
+Green Bay Packers,143,SOLD,dwood7714
+Houston Texans,115,SOLD,jordankau23871
+Indianapolis Colts,74,SOLD,dwood7714
+Jacksonville Jaguars,110,SOLD,lucky9871
+Kansas City Chiefs,1,SOLD,sauz26103
+Las Vegas Raiders,140,SOLD,case4dave
+Los Angeles Chargers,140,SOLD,dmazurke12
+Los Angeles Rams,145,SOLD,lucky9871
+Miami Dolphins,62,SOLD,dwood7714
+Minnesota Vikings,125,SOLD,lucky9871
+New England Patriots,125,SOLD,lucky9871
+New Orleans Saints,110,SOLD,kylebrown2424
+New York Giants,148,SOLD,dwood7714
+New York Jets,143,SOLD,joeyq22
+Philadelphia Eagles,133,SOLD,markoh605
+Pittsburgh Steelers,114,SOLD,case4dave
+San Francisco 49ers,135,SOLD,tyamlegendaryy
+Seattle Seahawks,66,SOLD,dwood7714
+Tampa Bay Buccaneers,75,SOLD,dwood7714
+Tennessee Titans,104,SOLD,dwood7714
+Washington Commanders,105,SOLD,case4dave
+Miscellaneous,141,SOLD,dwood7714
+#3,146,SOLD,tyamlegendaryy
+#8,145,SOLD,tyamlegendaryy
+#13,135,SOLD,case4dave

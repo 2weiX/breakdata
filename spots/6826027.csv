@@ -1,0 +1,11 @@
+spot,price,state,buyer
+SPOT 8,9,SOLD,will_break_it
+SPOT 7,12,SOLD,will_break_it
+SPOT 11,6,SOLD,will_break_it
+SPOT 1,15,SOLD,krisold
+SPOT 6,17,SOLD,caseysharrison
+SPOT 2,11,SOLD,will_break_it
+SPOT 5,9,SOLD,will_break_it
+SPOT 9,9,SOLD,will_break_it
+SPOT 3,9,SOLD,will_break_it
+SPOT 4,10,SOLD,will_break_it

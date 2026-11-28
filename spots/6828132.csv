@@ -1,9 +1,9 @@
 spot,price,state,buyer
-AFC North,,OPEN,
-AFC East,,OPEN,
-AFC West,,OPEN,
-AFC South,,OPEN,
-NFC North,,OPEN,
-NFC East,,OPEN,
-NFC West,,OPEN,
-NFC South,,OPEN,
+AFC North,13,SOLD,maxxwaxx
+AFC East,17,SOLD,maxxwaxx
+AFC West,19,SOLD,maxxwaxx
+AFC South,15,SOLD,maxxwaxx
+NFC North,27,SOLD,cw9c
+NFC East,13.58,SOLD,maxxwaxx
+NFC West,16,SOLD,maxxwaxx
+NFC South,36,SOLD,cw9c

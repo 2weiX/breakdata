@@ -1,38 +1,55 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-MISC,,OPEN,
-BOX #1,,OPEN,
-BOX #2,,OPEN,
-BOX #3,,OPEN,
-BOX #4,,OPEN,
+Atlanta Falcons,80,SOLD,rhodyhouseofhits
+Baltimore Ravens,265,SOLD,rhodyhouseofhits
+Buffalo Bills,680,SOLD,365breaks
+Chicago Bears,405,SOLD,rhodyhouseofhits
+Cincinnati Bengals,625,SOLD,izzy_215
+Cleveland Browns,130,SOLD,jonand81600
+Dallas Cowboys,665,SOLD,vegasmann
+Denver Broncos,619,SOLD,dadsbankdaughtersvault
+Detroit Lions,125,SOLD,skieston
+Green Bay Packers,660,SOLD,vegasmann
+Houston Texans,120,SOLD,danmitchell6
+Indianapolis Colts,63,SOLD,rickmadd1998
+Jacksonville Jaguars,58,SOLD,rickmadd1998
+Kansas City Chiefs,662,SOLD,vegasmann
+Las Vegas Raiders,125,SOLD,jonand81600
+Los Angeles Chargers,190,SOLD,danpain
+Los Angeles Rams,225,SOLD,jonand81600
+Minnesota Vikings,315,SOLD,danmitchell6
+New England Patriots,645,SOLD,dadsbankdaughtersvault
+New York Giants,725,SOLD,vegasmann
+Philadelphia Eagles,385,SOLD,danmitchell6
+Pittsburgh Steelers,580,SOLD,izzy_215
+San Francisco 49ers,460,SOLD,danmitchell6
+Tampa Bay Buccaneers,260,SOLD,danmitchell6
+Washington Commanders,300,SOLD,javontechi
+MISC,265,SOLD,rhodyhouseofhits
+BOX #1,410,SOLD,danmitchell6
+BOX #2,610,SOLD,izzy_215
+BOX #3,655,SOLD,vegasmann
+BOX #4,618,SOLD,danmitchell6
+#1,520,SOLD,izzy_215
+#2,380,SOLD,vegasmann
+#5,675,SOLD,vegasmann
+#10,635,SOLD,dadsbankdaughtersvault
+#14,625,SOLD,dadsbankdaughtersvault
+#16,659,SOLD,vegasmann
+#18,659,SOLD,dadsbankdaughtersvault
+#19,647,SOLD,vegasmann
+#20,645,SOLD,dadsbankdaughtersvault
+#21,625,SOLD,izzy_215
+#22,560,SOLD,danmitchell6
+#26,415,SOLD,danmitchell6
+#29,310,SOLD,danmitchell6
+#31,255,SOLD,rhodyhouseofhits
+#33,255,SOLD,rhodyhouseofhits
+#35,250,SOLD,rhodyhouseofhits
+#38,205,SOLD,danmitchell6
+#41,130,SOLD,skieston
+#42,131,SOLD,javontechi
+#44,127,SOLD,danmitchell6
+#46,140,SOLD,card_loving_father
+#48,130,SOLD,jonand81600
+"New York Jets, Seattle Seahawks",79,SOLD,stogieman1
+"Arizona Cardinals, Carolina Panthers, Miami Dolphins, New Orleans Saints, Tennessee Titans",200,SOLD,stogieman1

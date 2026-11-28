@@ -1,0 +1,29 @@
+spot,price,state,buyer
+Arizona Cardinals,5,OPEN,
+Atlanta Falcons,5,OPEN,
+Baltimore Ravens,5,OPEN,
+Buffalo Bills,4,SOLD,jeromemamba24
+Carolina Panthers,5,SOLD,jeromemamba24
+"Chicago Bears, Lions",8,SOLD,dtowns87
+Cleveland Browns,2,SOLD,suckmikeditka
+Dallas Cowboys,5,SOLD,jeromemamba24
+Denver Broncos,5,OPEN,
+Green Bay Packers,1.5,SOLD,loveslc
+Houston Texans,5,OPEN,
+Indianapolis Colts,5,OPEN,
+Kansas City Chiefs,5,SOLD,jeromemamba24
+"Las Vegas Raiders, Titans",8,SOLD,suckmikeditka
+Los Angeles Chargers,5,OPEN,
+Los Angeles Rams,5,OPEN,
+Miami Dolphins,5,OPEN,
+Minnesota Vikings,5,SOLD,loveslc
+New England Patriots,5,OPEN,
+New Orleans Saints,5,SOLD,loveslc
+"New York Giants, Jaggs",8,SOLD,suckmikeditka
+New York Jets,5,OPEN,
+Philadelphia Eagles,5,OPEN,
+Pittsburgh Steelers,5,OPEN,
+San Francisco 49ers,5,OPEN,
+Seattle Seahawks,5,OPEN,
+Tampa Bay Buccaneers,5,OPEN,
+Washington Commanders,5,OPEN,

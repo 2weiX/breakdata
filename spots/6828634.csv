@@ -2,7 +2,7 @@ spot,price,state,buyer
 #1,105,SOLD,samspro1
 #2,91,SOLD,samspro1
 Buffalo Bills,92,SOLD,samspro1
-Philadelphia Eagles,102,SOLD,hutch801
+Philadelphia Eagles,79,SOLD,dwood7714
 Dallas Cowboys,117,SOLD,case4dave
 Atlanta Falcons,126,SOLD,goody_rips
 #7,135,SOLD,goody_rips
@@ -17,7 +17,6 @@ Pittsburgh Steelers,144,SOLD,dmazurke12
 Miscellaneous,185,SOLD,jospla96361
 Chicago Bears,154,SOLD,jospla96361
 San Francisco 49ers,136,SOLD,samspro1
-#19,136,SOLD,italianmuski
 Miami Dolphins,137,SOLD,dmazurke12
 Minnesota Vikings,134,SOLD,jospla96361
 Tampa Bay Buccaneers,133,SOLD,joeyq22
@@ -28,4 +27,15 @@ New Orleans Saints,115,SOLD,case4dave
 New York Giants,115,SOLD,jason97732
 New York Jets,89,SOLD,tyamlegendaryy
 Carolina Panthers,100,SOLD,tyamlegendaryy
-#30,1,OPEN,
+#4,102,SOLD,hutch801
+Kansas City Chiefs,101,SOLD,hutch801
+Cincinnati Bengals,105,SOLD,williammil17907
+Jacksonville Jaguars,89,SOLD,dwood7714
+Baltimore Ravens,95,SOLD,dwood7714
+Las Vegas Raiders,35,SOLD,tyamlegendaryy
+Arizona Cardinals,78,SOLD,dwood7714
+Cleveland Browns,73,SOLD,dwood7714
+Washington Commanders,78,SOLD,jason97732
+Indianapolis Colts,77,SOLD,jason97732
+Green Bay Packers,82,SOLD,dwood7714
+Tennessee Titans,57,SOLD,tyamlegendaryy

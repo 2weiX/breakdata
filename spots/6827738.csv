@@ -1,44 +1,59 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-MISSION RED 1,,OPEN,
-MISSION RED 2,,OPEN,
-MISSION RED 3,,OPEN,
-MISSION RED 4,,OPEN,
-MISSION RED 5,,OPEN,
-MISSION BLUE 1,,OPEN,
-MISSION BLUE 2,,OPEN,
-MISSION BLUE 3,,OPEN,
-MISSION BLUE 4,,OPEN,
-MISSION BLUE 5,,OPEN,
-MISC,,OPEN,
+Arizona Cardinals,28,SOLD,bigtsprad
+Atlanta Falcons,33,SOLD,bigtsprad
+Baltimore Ravens,69,SOLD,jarhal64408
+Buffalo Bills,42,SOLD,bigtsprad
+Carolina Panthers,255,SOLD,str8cashhomey
+Chicago Bears,98,SOLD,margentinob
+Cincinnati Bengals,85,SOLD,twomanadvantagebreaks
+Cleveland Browns,88,SOLD,cstoney27
+Dallas Cowboys,195,SOLD,porch622
+Denver Broncos,46,SOLD,jems20
+Detroit Lions,46,SOLD,rifoo7
+Green Bay Packers,32,SOLD,mac02251mac
+Houston Texans,21,SOLD,bigtsprad
+Indianapolis Colts,130,SOLD,moonvalleysports
+Jacksonville Jaguars,40,SOLD,bigtsprad
+Kansas City Chiefs,21,SOLD,tex1982
+Las Vegas Raiders,48,SOLD,bigtsprad
+Los Angeles Chargers,185,SOLD,izzy_215
+Los Angeles Rams,295,SOLD,izzy_215
+Miami Dolphins,24,SOLD,margentinob
+Minnesota Vikings,63,SOLD,bigtsprad
+New England Patriots,44,SOLD,jarhal64408
+New Orleans Saints,48,SOLD,jems20
+New York Giants,575,SOLD,vegasmann
+New York Jets,38,SOLD,jems20
+Philadelphia Eagles,161,SOLD,moonvalleysports
+Pittsburgh Steelers,42,SOLD,bigtsprad
+San Francisco 49ers,56,SOLD,josalk
+Seattle Seahawks,46,SOLD,bigtsprad
+Tampa Bay Buccaneers,130,SOLD,moonvalleysports
+Tennessee Titans,93,SOLD,cstoney27
+Washington Commanders,58,SOLD,bigtsprad
+MISSION RED 1,104,SOLD,margentinob
+MISSION RED 2,225,SOLD,vegasmann
+MISSION RED 3,405,SOLD,vegasmann
+MISSION RED 4,0,SOLD,vegasmann
+MISSION RED 5,230,SOLD,dkass75
+MISSION BLUE 1,189,SOLD,moonvalleysports
+MISSION BLUE 2,300,SOLD,porch622
+MISSION BLUE 3,530,SOLD,porch622
+MISSION BLUE 4,93,SOLD,porch622
+MISSION BLUE 5,295,SOLD,porch622
+MISC,99,SOLD,twomanadvantagebreaks
+#3,156,SOLD,vegasmann
+#4,74,SOLD,dkass75
+#5,570,SOLD,vegasmann
+#6,0,SOLD,dkass75
+#8,10,SOLD,dkass75
+#9,530,SOLD,vegasmann
+#11,450,SOLD,vegasmann
+#12,320,SOLD,vegasmann
+#13,300,SOLD,izzy_215
+#15,280,SOLD,porch622
+#18,185,SOLD,porch622
+#20,190,SOLD,porch622
+#22,170,SOLD,porch622
+#24,220,SOLD,str8cashhomey
+#28,120,SOLD,vegasmann

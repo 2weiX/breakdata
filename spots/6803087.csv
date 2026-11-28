@@ -1,33 +1,33 @@
 spot,price,state,buyer
-#1,35,SOLD,connorw9
-#2,35,OPEN,
-#3,35,SOLD,trader_joseph
-#4,35,OPEN,
-#5,35,OPEN,
-#6,35,SOLD,dinmitchell
-#7,35,SOLD,mattmo24
-#8,35,OPEN,
-#9,35,SOLD,titomarinez
-#10,35,OPEN,
-#11,35,SOLD,dinmitchell
-#12,35,SOLD,pcpuka12
-#13,35,SOLD,alby1313
-#14,35,OPEN,
-#15,35,SOLD,tbanger
-#16,35,SOLD,tunahuna
-#17,35,OPEN,
-#18,35,SOLD,tbanger
-#19,35,SOLD,alby1313
-#20,35,SOLD,titomarinez
-#21,35,SOLD,trader_joseph
-#22,35,SOLD,crib0259
-#23,35,OPEN,
-#24,35,SOLD,mattmo24
-#25,35,OPEN,
-#26,35,OPEN,
-#27,35,OPEN,
-#28,35,OPEN,
-#29,35,OPEN,
-#30,35,OPEN,
-#31,25,SOLD,jslem47
-#32,35,SOLD,trader_joseph
+New York Jets,35,SOLD,connorw9
+New Orleans Saints,25,SOLD,noahmc7550
+San Francisco 49ers,35,SOLD,trader_joseph
+Chicago Bears,25,SOLD,noahmc7550
+Minnesota Vikings,25,SOLD,noahmc7550
+Tampa Bay Buccaneers,35,SOLD,dinmitchell
+Pittsburgh Steelers,35,SOLD,mattmo24
+Carolina Panthers,50,SOLD,tbanger
+Denver Broncos,35,SOLD,titomarinez
+Detroit Lions,10,SOLD,tbanger
+Kansas City Chiefs,35,SOLD,dinmitchell
+Los Angeles Chargers,35,SOLD,pcpuka12
+New York Giants,35,SOLD,alby1313
+Jacksonville Jaguars,35,SOLD,titomarinez
+Miami Dolphins,35,SOLD,tbanger
+Arizona Cardinals,35,SOLD,tunahuna
+Dallas Cowboys,25,SOLD,papawol
+Cincinnati Bengals,35,SOLD,tbanger
+Philadelphia Eagles,35,SOLD,alby1313
+Los Angeles Rams,35,SOLD,titomarinez
+Cleveland Browns,35,SOLD,trader_joseph
+Indianapolis Colts,35,SOLD,crib0259
+New England Patriots,25,SOLD,noahmc7550
+Houston Texans,35,SOLD,mattmo24
+Las Vegas Raiders,25,SOLD,swifty07
+Green Bay Packers,35,SOLD,noahmc7550
+Washington Commanders,25,SOLD,noahmc7550
+Atlanta Falcons,25,SOLD,connorw9
+Baltimore Ravens,25,SOLD,papawol
+Tennessee Titans,34,SOLD,dinmitchell
+Buffalo Bills,25,SOLD,jslem47
+Seattle Seahawks,35,SOLD,trader_joseph

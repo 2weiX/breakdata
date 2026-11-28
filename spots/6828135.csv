@@ -1,9 +1,10 @@
 spot,price,state,buyer
-AFC North,,OPEN,
-AFC East,,OPEN,
-AFC West,,OPEN,
-AFC South,,OPEN,
-NFC North,,OPEN,
-NFC East,,OPEN,
-NFC West,,OPEN,
-NFC South,,OPEN,
+AFC North,17,SOLD,ben21709
+AFC East,21,SOLD,dannypar86388
+AFC West,14,SOLD,ben21709
+AFC South,16,SOLD,kmac1234
+NFC North,15,SOLD,austinh710
+NFC East,19,SOLD,kmac1234
+NFC West,22,SOLD,isaiahgib86464
+NFC South,12,SOLD,missionaryjoe
+#7,18,SOLD,ibeechu

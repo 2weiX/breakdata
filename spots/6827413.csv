@@ -1,34 +1,35 @@
 spot,price,state,buyer
-Cleveland Browns,,OPEN,
-CHASER 1,,OPEN,
-Arizona Cardinals,,OPEN,
-CHASER 3,,OPEN,
-Dallas Cowboys,,OPEN,
-Atlanta Falcons,,OPEN,
-Cincinnati Bengals,,OPEN,
-CHASER 2,,OPEN,
-Carolina Panthers,,OPEN,
-Detroit Lions,,OPEN,
-CHASER 4,,OPEN,
-Indianapolis Colts,,OPEN,
-Houston Texans,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-CHASER 5,,OPEN,
-Los Angeles Chargers,,OPEN,
-CHASER 6,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-CHASER 7,,OPEN,
-Minnesota Vikings,,OPEN,
-New Orleans Saints,,OPEN,
-New York Jets,,OPEN,
-Tennessee Titans,,OPEN,
-CHASER 9,,OPEN,
-Pittsburgh Steelers,,OPEN,
-Philadelphia Eagles,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-CHASER 10,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks ,,OPEN,
-CHASER 8,,OPEN,
+Cleveland Browns,35,SOLD,hawkeyes393
+CHASER 1,18,SOLD,barmalt
+Arizona Cardinals,12,SOLD,johnsbrendan
+CHASER 3,80,SOLD,cactuscardss
+Dallas Cowboys,15,SOLD,ehahka
+Atlanta Falcons,62,SOLD,christar53417
+Cincinnati Bengals,17,SOLD,whens_the_giveaway
+CHASER 2,61,SOLD,hawkeyes393
+Carolina Panthers,16,SOLD,pantayoyo13
+Detroit Lions,38,SOLD,christar53417
+CHASER 4,38,SOLD,christar53417
+Indianapolis Colts,22,SOLD,justright024
+Houston Texans,1,SOLD,johnsbrendan
+Jacksonville Jaguars,19,SOLD,michaelkirsty1
+Kansas City Chiefs,56,SOLD,hawkeyes393
+CHASER 5,18,SOLD,msherri000
+Los Angeles Chargers,30,SOLD,hawkeyes393
+CHASER 6,73,SOLD,cactuscardss
+Los Angeles Rams,19,SOLD,ehahka
+Miami Dolphins,17,SOLD,ehahka
+CHASER 7,21,SOLD,whens_the_giveaway
+Minnesota Vikings,22,SOLD,ehahka
+New Orleans Saints,39,SOLD,hawkeyes393
+New York Jets,17,SOLD,ehahka
+Tennessee Titans,39,SOLD,christar53417
+CHASER 9,20,SOLD,ehahka
+Pittsburgh Steelers,10,SOLD,johnsbrendan
+Philadelphia Eagles,20,SOLD,justright024
+Tampa Bay Buccaneers,19,SOLD,michaelkirsty1
+CHASER 10,24,SOLD,tone90
+San Francisco 49ers,22,SOLD,ehahka
+Seattle Seahawks ,34,SOLD,christar53417
+CHASER 8,23,SOLD,ehahka
+#31,65,SOLD,hawkeyes393

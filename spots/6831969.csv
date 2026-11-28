@@ -1,0 +1,41 @@
+spot,price,state,buyer
+Houston Texans,166,SOLD,ra_993
+Dallas Cowboys,166,SOLD,ra_993
+#3,154,SOLD,duvaldecks
+Cleveland Browns,181,SOLD,duvaldecks
+Los Angeles Rams,176,SOLD,ra_993
+Chicago Bears,161,SOLD,gilada71717
+Green Bay Packers,1,SOLD,gilada71717
+#8,156,SOLD,gilada71717
+Denver Broncos,156,SOLD,duvaldecks
+Buffalo Bills,161,SOLD,duvaldecks
+San Francisco 49ers,102,SOLD,gilada71717
+Washington Commanders,120,SOLD,gilada71717
+#13,130,SOLD,gilada71717
+MISCELLANEOUS,116,SOLD,gilada71717
+#15,116,SOLD,gilada71717
+#16,112.5,SOLD,cbassnthefellas
+New England Patriots,136,SOLD,duvaldecks
+Los Angeles Chargers,146,SOLD,duvaldecks
+#19,121,SOLD,cbassnthefellas
+Philadelphia Eagles,126,SOLD,cbassnthefellas
+Detroit Lions,100,SOLD,gilada71717
+Cincinnati Bengals,101,SOLD,gilada71717
+#23,112,SOLD,ajma1490
+Pittsburgh Steelers,116,SOLD,gilada71717
+Minnesota Vikings,98,SOLD,ajma1490
+New York Giants,176,SOLD,duvaldecks
+Las Vegas Raiders,101,SOLD,gilada71717
+Seattle Seahawks,101,SOLD,gilada71717
+Miami Dolphins,121,SOLD,gilada71717
+Tennessee Titans,67,SOLD,ra_993
+#31,71,SOLD,ra_993
+Jacksonville Jaguars,84,SOLD,ajma1490
+#33,84,SOLD,gilada71717
+Kansas City Chiefs,84,SOLD,gilada71717
+Atlanta Falcons,32,SOLD,nickpepper99
+Tampa Bay Buccaneers,39,SOLD,nickpepper99
+Baltimore Ravens,32,SOLD,nickpepper99
+#38,21,SOLD,gilada71717
+"Carolina Panthers, New Orleans Saints",22,SOLD,slab24
+"Arizona Cardinals, Indianapolis Colts, New York Jets",17,SOLD,freddymetal

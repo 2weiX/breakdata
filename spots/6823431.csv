@@ -1,13 +1,9 @@
 spot,price,state,buyer
-Atlanta Falcons,32,OPEN,
-Baltimore Ravens,38,OPEN,
-Carolina Panthers,39,OPEN,
-Houston Texans,31,OPEN,
-Indianapolis Colts,33,OPEN,
-Jacksonville Jaguars,37,OPEN,
-Miami Dolphins,34,OPEN,
-Minnesota Vikings,41,OPEN,
-Seattle Seahawks,34,OPEN,
+Atlanta Falcons,15,SOLD,highsteaks
+Baltimore Ravens,34.2,SOLD,peoplebelive
+Houston Texans,5,SOLD,gripitnripitbreaks
+Indianapolis Colts,15,SOLD,gripitnripitbreaks
+Minnesota Vikings,20,SOLD,carla22
 "Arizona Cardinals, Cowboys",76.5,SOLD,gripitnripitbreaks
 Buffalo Bills,35,SOLD,ashleyhad58800
 Chicago Bears,40.8,SOLD,keemzkardz_jwcpa

@@ -1,9 +1,9 @@
 spot,price,state,buyer
-AFC North,,OPEN,
-AFC East,,OPEN,
-AFC West,,OPEN,
-AFC South,,OPEN,
-NFC North,,OPEN,
-NFC East,,OPEN,
-NFC West,,OPEN,
-NFC South,,OPEN,
+AFC North,45,SOLD,wangchang
+AFC East,25,SOLD,gmen298
+AFC West,45,SOLD,wangchang
+AFC South,45,SOLD,ben21709
+NFC North,25,SOLD,gmen298
+NFC East,45,SOLD,wangchang
+NFC West,49,SOLD,wangchang
+NFC South,45,SOLD,wangchang

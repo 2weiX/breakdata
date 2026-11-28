@@ -1,33 +1,41 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
+Arizona Cardinals,22,SOLD,blazingpulls
+Atlanta Falcons,34,SOLD,anotherone149
+Baltimore Ravens,81,SOLD,anotherone149
+Buffalo Bills,78,SOLD,bigglezworth
+Carolina Panthers,66,SOLD,bigglezworth
+Chicago Bears,75,SOLD,hodge_podge_
+Cincinnati Bengals,54,SOLD,tkief
+Cleveland Browns,71,SOLD,hodge_podge_
+Dallas Cowboys,26,SOLD,anotherone149
+Denver Broncos,66,SOLD,bigglezworth
+Detroit Lions,75,SOLD,jonand81600
+Green Bay Packers,89,SOLD,jonand81600
+Houston Texans,84,SOLD,sportscollectablemo
+Indianapolis Colts,21,SOLD,mac02251mac
+Jacksonville Jaguars,64,SOLD,bigglezworth
+Kansas City Chiefs,64,SOLD,bigglezworth
+Las Vegas Raiders,21,SOLD,blazingpulls
+Los Angeles Chargers,51,SOLD,prettyfly4a
+Los Angeles Rams,84,SOLD,steelheaddan
+Miami Dolphins,73,SOLD,3bcards
+Minnesota Vikings,64,SOLD,bigglezworth
+New England Patriots,86,SOLD,bigglezworth
+New Orleans Saints,13,SOLD,blazingpulls
+New York Giants,85,SOLD,3bcards
+New York Jets,33,SOLD,blazingpulls
+Philadelphia Eagles,75,SOLD,hodge_podge_
+Pittsburgh Steelers,87,SOLD,jonand81600
+San Francisco 49ers,75,SOLD,tigersfan2031
+Seattle Seahawks,83,SOLD,anotherone149
+Tampa Bay Buccaneers,71,SOLD,hodge_podge_
+Tennessee Titans,22,SOLD,tkief
+Washington Commanders,32,SOLD,blazingpulls
+#2,81,SOLD,sportscollectablemo
+#6,75,SOLD,tigersfan2031
+#8,86,SOLD,tigersfan2031
+#10,75,SOLD,hodge_podge_
+#15,64,SOLD,bigglezworth
+#17,75,SOLD,bigglezworth
+#35,5,SOLD,anotherone149
+MISC,145,SOLD,jhorn716

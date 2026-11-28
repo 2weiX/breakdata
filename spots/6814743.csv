@@ -2,7 +2,7 @@ spot,price,state,buyer
 Arizona Cardinals,44,OPEN,
 Atlanta Falcons,13,OPEN,
 Baltimore Ravens,18,OPEN,
-Buffalo Bills,42,OPEN,
+Buffalo Bills,42,SOLD,paulcar84691
 Carolina Panthers,15,OPEN,
 Chicago Bears,42,SOLD,cardsfan87
 Cincinnati Bengals,24,SOLD,nomar3311
@@ -16,7 +16,7 @@ Kansas City Chiefs,69,OPEN,
 Las Vegas Raiders,80,OPEN,
 Los Angeles Chargers,13,OPEN,
 Los Angeles Rams,47,OPEN,
-Miami Dolphins,13,OPEN,
+Miami Dolphins,10,SOLD,curlsforthecards
 New England Patriots,58,SOLD,nomar3311
 New Orleans Saints,27,SOLD,nomar3311
 New York Giants,36,OPEN,

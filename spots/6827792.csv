@@ -1,34 +1,42 @@
 spot,price,state,buyer
-Arizona Cardinals,,OPEN,
-Atlanta Falcons,,OPEN,
-Baltimore Ravens,,OPEN,
-Buffalo Bills,,OPEN,
-Carolina Panthers,,OPEN,
-Chicago Bears,,OPEN,
-Cincinnati Bengals,,OPEN,
-Cleveland Browns,,OPEN,
-Dallas Cowboys,,OPEN,
-Denver Broncos,,OPEN,
-Detroit Lions,,OPEN,
-Green Bay Packers,,OPEN,
-Houston Texans,,OPEN,
-Indianapolis Colts,,OPEN,
-Jacksonville Jaguars,,OPEN,
-Kansas City Chiefs,,OPEN,
-Las Vegas Raiders,,OPEN,
-Los Angeles Chargers,,OPEN,
-Los Angeles Rams,,OPEN,
-Miami Dolphins,,OPEN,
-Minnesota Vikings,,OPEN,
-New England Patriots,,OPEN,
-New Orleans Saints,,OPEN,
-New York Giants,,OPEN,
-New York Jets,,OPEN,
-Philadelphia Eagles,,OPEN,
-Pittsburgh Steelers,,OPEN,
-San Francisco 49ers,,OPEN,
-Seattle Seahawks,,OPEN,
-Tampa Bay Buccaneers,,OPEN,
-Tennessee Titans,,OPEN,
-Washington Commanders,,OPEN,
-NIL,,OPEN,
+Baltimore Ravens,105,SOLD,pantayoyo13
+Buffalo Bills,225,SOLD,callmesaul2
+Chicago Bears,230,SOLD,el_mon
+Cincinnati Bengals,210,SOLD,vegaslivinlee87
+Cleveland Browns,231,SOLD,pantayoyo13
+Dallas Cowboys,230,SOLD,jkirish1
+Denver Broncos,175,SOLD,lucky9871
+Detroit Lions,35,SOLD,callmesaul2
+Green Bay Packers,400,SOLD,ronb05262
+Kansas City Chiefs,205,SOLD,vegaslivinlee87
+Las Vegas Raiders,205,SOLD,vegaslivinlee87
+Los Angeles Chargers,1,SOLD,lucky9871
+Los Angeles Rams,205,SOLD,lucky9871
+Minnesota Vikings,180,SOLD,vegaslivinlee87
+New England Patriots,380,SOLD,jkirish1
+New York Giants,311,SOLD,lucky9871
+Philadelphia Eagles,190,SOLD,vegaslivinlee87
+Pittsburgh Steelers,299,SOLD,jkirish1
+San Francisco 49ers,180,SOLD,cardbreaker42
+Seattle Seahawks,143,SOLD,jkirish1
+Tampa Bay Buccaneers,42,SOLD,lucky9871
+Washington Commanders,370,SOLD,ronb05262
+NIL,330,SOLD,jkirish1
+#3,370,SOLD,jkirish1
+#4,390,SOLD,jkirish1
+#8,320,SOLD,jkirish1
+#11,275,SOLD,lucky9871
+#12,210,SOLD,pantayoyo13
+#14,5,SOLD,callmesaul2
+#17,220,SOLD,lucky9871
+#18,180,SOLD,pantayoyo13
+#22,190,SOLD,vegaslivinlee87
+#24,245,SOLD,el_mon
+#25,240,SOLD,vegaslivinlee87
+#26,205,SOLD,vegaslivinlee87
+#27,214,SOLD,lucky9871
+#31,132,SOLD,pantayoyo13
+#34,185,SOLD,vegaslivinlee87
+"Carolina Panthers, Jacksonville Jaguars",25,SOLD,chewmas
+"Atlanta Falcons, Houston Texans, New Orleans Saints, Tennessee Titans",62,SOLD,vegaslivinlee87
+"Arizona Cardinals, Indianapolis Colts, Miami Dolphins, New York Jets",50,SOLD,percowitzki

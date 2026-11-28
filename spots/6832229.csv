@@ -1,0 +1,9 @@
+spot,price,state,buyer
+AFC North,40,OPEN,
+AFC East,40,OPEN,
+AFC West,70,OPEN,
+AFC South,30,OPEN,
+NFC North,40,OPEN,
+NFC East,30,OPEN,
+NFC West,40,OPEN,
+NFC South,30,OPEN,
